@@ -12,7 +12,9 @@
       "icon": "./assets/expo.icon",
       "googleServicesFile": "./GoogleService-Info.plist",
       "infoPlist": {
-        "ITSAppUsesNonExemptEncryption": false
+        "ITSAppUsesNonExemptEncryption": false,
+        "NSPhotoLibraryUsageDescription": "This app requires access to your photo library so you can save images and share travel itineraries.",
+        "NSPhotoLibraryAddUsageDescription": "This app requires access to save travel images to your photo gallery."
       }
     },
     "android": {
