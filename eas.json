@@ -30,6 +30,7 @@
         "track": "internal"
       },
       "ios": {
+        "appleId": "dev@destyastudio.com",
         "ascAppId": "6813837143"
       }
     }
