@@ -1,0 +1,877 @@
+[
+  {
+    "id": "katyayani-sthan",
+    "slug": "katyayani-sthan",
+    "name": {
+      "en": "Maa Katyayani Sthan Dhamara Ghat",
+      "hi": "माँ कात्यायनी स्थान धमारा घाट"
+    },
+    "districtId": "khagaria",
+    "placeType": "temple",
+    "primaryCategory": "religious",
+    "categories": [
+      "religious",
+      "cultural",
+      "heritage",
+      "pilgrimage"
+    ],
+    "subcategories": [
+      "shakti-peeth",
+      "hindu-temple",
+      "devi-mandir",
+      "pilgrimage-shrine"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "shakti-circuit",
+      "ang-circuit"
+    ],
+    "tags": [
+      "featured",
+      "popular",
+      "shakti-peeth",
+      "navratri",
+      "pilgrimage",
+      "ancient-temple",
+      "kosi-river",
+      "devi-darshan"
+    ],
+    "audiences": [
+      "pilgrims",
+      "families",
+      "cultural_enthusiasts",
+      "history_lovers",
+      "photographers"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "The most sacred pilgrimage shrine of Khagaria, dedicated to Maa Katyayani on the holy river confluence between Badlaghat and Dhamaraghat.",
+      "hi": "खगड़िया का सर्वाधिक पवित्र तीर्थ स्थल, जो बदला घाट और धमारा घाट के बीच पावन नदी संगम पर माँ कात्यायनी को समर्पित है।"
+    },
+    "description": {
+      "en": "**Maa Katyayani Sthan**, situated peacefully between **Badlaghat and Dhamaraghat** railway stations in the Chautham block of Khagaria district, is the paramount spiritual sanctuary of the historic **Pharkiya (Pharkia)** region.\n\nEncircled by the meandering waters of the **Kosi and Bagmati rivers**, this revered shrine venerates **Maa Katyayani**, the radiant sixth manifestation of the divine mother Navadurga. Devotees revere the sanctum as an awakened Shakti shrine where the sanctified arm or sacred pinda of the Goddess is consecrated and worshipped with deep veneration.\n\n**Key Highlights for Visitors:**\n- **Unique Pinda Worship**: Instead of a traditional full idol, devotees worship the sacred miraculous arm (*Pinda*) of the divine Mother, symbolizing protective cosmic grace.\n- **The Cattle Goddess (Gau Mata Rakshika)**: Deeply rooted in regional pastoral folklore, Mother Katyayani is worshipped as the presiding patron deity of milk cattle, drawing thousands of milkmen and villagers who offer unboiled fresh milk.\n- **Confluence Atmosphere**: The riverine landscape amidst sprawling wetlands creates a calm, contemplative shrine atmosphere filled with rhythmic devotional chanting and evening temple bells.\n- **Navratri Pilgrimage**: The temple complex becomes an epic spiritual epicenter during **Chaitra and Sharadiya Navratri**, welcoming lakhs of pilgrims from across Bihar, Bengal, and Nepal.",
+      "hi": "**माँ कात्यायनी स्थान**, खगड़िया जिले के चौथम प्रखंड अंतर्गत **बदला घाट और धमारा घाट** रेलवे स्टेशनों के मध्य स्थित, ऐतिहासिक **फरकिया अंचल** का सबसे पावन और जाग्रत आध्यात्मिक महातीर्थ है।\n\nपवित्र **कोशी और बागमती** नदियों की जलधाराओं से घिरे इस पावन तपोभूमि पर नवदुर्गा के छठे तेजस्वी स्वरूप **माँ कात्यायनी** की साक्षात प्रतिष्ठा है। यहाँ देवी की किसी पारंपरिक पूर्ण प्रतिमा के स्थान पर माँ की दिव्य भुजा रूपी चमत्कारी **पिंड** की पूजा-अर्चना की जाती है, जिसे अत्यंत फलदायी और मनोकामना पूर्ण करने वाला माना जाता है।\n\n**प्रमुख दर्शनीय विशेषताएं एवं परंपराएं:**\n- **दिव्य पिंड पूजन**: गर्भगृह में विराजित माँ के अलौकिक हस्त स्वरूप (पिंड) का सिंदूर, लाल चुनरी और पुष्पों से भव्य श्रृंगार किया जाता है।\n- **दुधारू पशुओं की अधिष्ठात्री देवी**: स्थानीय लोक संस्कृति में माँ कात्यायनी को 'लोक देवी' तथा पशुपालकों व दुधारू मवेशियों की रक्षक माना जाता है। ग्रामीण व किसान यहाँ अपनी गायों के पहले दोहन का कच्चा दूध श्रद्धापूर्वक अर्पित करते हैं।\n- **प्राकृतिक एवं शांत वातावरण**: विशाल दियारा और नदियों के शांत तट पर स्थित होने के कारण मंदिर परिसर में अद्वितीय आध्यात्मिक शांति और अलौकिक स्पंदन की अनुभूति होती है।\n- **नवरात्र एवं लक्खी मेला**: **शारदीय एवं चैत्र नवरात्र** तथा प्रत्येक सोमवार और शुक्रवार को यहाँ श्रद्धालुओं और साधकों का महाकुंभ उमड़ता है, जहाँ अखंड कीर्तन और महाआरती होती है।"
+    },
+    "history": {
+      "en": "The chronicles of **Maa Katyayani Sthan** trace back to antiquity and are officially recorded in the **Munger District Gazetteer of 1926**.\n\nAccording to historical records and local lore, the formal temple was consecrated around **1595–1596 CE** during the reign of Mughal Emperor **Akbar**, who granted the chieftainship of Chautham pargana to Murar Shahi. His descendant, **Raja Mangal Singh**, established the temple along with his close companion **Sirpat Ji Maharaj**, a legendary pastoral leader and herdmaster.\n\n**Historical & Mythological Milestones:**\n- **The Miracle of the Sacred Kine**: Legend recounts that Sirpat Maharaj's finest dairy cows would mysteriously shed their milk voluntarily at a specific earthen mound amidst the dense shrubs. A reverent excavation led by Raja Mangal Singh unearthed the sacred stone relic (*Pinda*) embodying the arm of the Goddess.\n- **Sage Katyayana's Penance**: Mythological tradition links the shrine to the primeval sage **Maharishi Katyayana**, who undertook severe austerities along the banks of the sacred Kaushiki (modern Kosi) river, leading Mother Shakti to manifest as his devoted daughter Katyayani.\n- **Resilience through Centuries**: Despite catastrophic annual floods and turbulent shifts in river courses over four centuries, the sanctum sanctorum has miraculously withstood the fury of the Kosi and remained unbroken.",
+      "hi": "**माँ कात्यायनी स्थान** का इतिहास अत्यंत गौरवशाली और प्राचीन है, जिसका प्रामाणिक विवरण **1926 के मुंगेर डिस्ट्रिक्ट गजेटियर** में भी लिपिबद्ध मिलता है।\n\nऐतिहासिक साक्ष्यों के अनुसार इस पावन धाम की औपचारिक स्थापना **1595–1596 ईस्वी** के आसपास मुगल बादशाह **अकबर** के शासनकाल में हुई थी। अकबर द्वारा चौथम परगना की जागीर दिए जाने के बाद मुरार शाही के वंशज **राजा मंगल सिंह** तथा उनके अनन्य सखा व समृद्ध पशुपालक **सिरपत जी महाराज** ने मिलकर इस पावन मंदिर का निर्माण करवाया था।\n\n**ऐतिहासिक व पौराणिक प्रसंग:**\n- **दूध की स्वतः वर्षा का चमत्कार**: जनश्रुति के अनुसार सिरपत महाराज की श्रेष्ठ दुधारू गायें जंगल में चरते हुए एक विशिष्ट टीले पर स्वतः अपने थनों से दूध की धार प्रवाहित कर देती थीं। राजा मंगल सिंह द्वारा कराई गई खुदाई में माता की अलौकिक भुजा (पिंड) प्रकट हुई, जिसे विधि-विधान से स्थापित किया गया।\n- **महर्षि कात्यायन की तपोभूमि**: पौराणिक मान्यता के अनुसार प्राचीन कौशिकी (कोशी) नदी के तट पर महर्षि कात्यायन ने घोर तपस्या की थी, जिससे प्रसन्न होकर जगदंबा ने उनकी पुत्री के रूप में अवतार लिया।\n- **सैकड़ों वर्षों का अटूट वैभव**: कोशी और बागमती की विनाशकारी बाढ़ों और बदलते प्रवाहों के बावजूद यह सिद्ध पीठ चार शताब्दियों से निरंतर अडिग रहकर करोड़ों भक्तों की आस्था का केंद्र बना हुआ है।"
+    },
+    "significance": {
+      "en": "**Maa Katyayani Sthan** holds immense religious, mythological, and anthropological significance as the preeminent cultural anchor of Northern and Eastern Bihar:\n\n- **Awakened Shakti Shrine**: Regarded by traditional believers as a potent subsidiary Shakti Peeth where the divine limb of Devi Sati sanctified the holy soil of Pharkiya.\n- **Pastoral Folk Heritage**: The temple embodies a harmonious bridge between high Vedic Shakta liturgy and timeless folk traditions, where pastoral communities find spiritual solace and protection for their livelihoods.\n- **Inter-Regional Pilgrimage Hub**: Serves as a unifying pilgrimage axis linking the Mithila, Anga, and Koshi cultural zones, attracting regular pilgrim streams from neighbouring Nepal, Jharkhand, and West Bengal.\n- **Vow-Fulfillment Faith (Manokamna Peeth)**: Thousands congregate every Monday and Friday with earthen pots of pure cow milk, red sacred cords (*kalawa*), and bells, praying for family prosperity, child welfare, and liberation from chronic hardships.\n- **Celebration of Womanhood**: Special congregational pujas and kanya pujan rituals celebrate divine feminine power, reaffirming centuries of rural reverence for motherhood and the natural ecology of the river plains.",
+      "hi": "**माँ कात्यायनी स्थान** उत्तर और पूर्वी बिहार के सांस्कृतिक और आध्यात्मिक जीवन का सबसे महत्वपूर्ण स्तंभ है, जिसका धार्मिक और सामाजिक महत्व अतुलनीय है:\n\n- **सिद्ध शक्तिपीठ परंपरा**: शक्ति संप्रदाय के साधकों के अनुसार यह भूमि सती के पावन अंग की उपस्थिति से अभिमंत्रित है, जहाँ की गई गुप्त साधना और नाम-जप का अनंत गुना फल प्राप्त होता है।\n- **लोक संस्कृति एवं लोक-आस्था का संगम**: यह पावन पीठ शास्त्रीय वैदिक तांत्रिक पद्धति और ग्रामीण लोक-संस्कृति का अद्भुत समन्वय प्रस्तुत करता है, जहाँ किसान और पशुपालक समाज अपनी समृद्धि के लिए देवी की शरण लेते हैं।\n- **क्षेत्रीय सांस्कृतिक सेतु**: यह धाम अंग, मिथिला और कोशी अंचल की सांस्कृतिक सीमाओं को जोड़ता है। यहाँ बिहार ही नहीं, बल्कि पड़ोसी देश नेपाल, पश्चिम बंगाल और झारखंड से भी श्रद्धालु दर्शन हेतु आते हैं।\n- **मनोकामना पूर्ति धाम**: प्रत्येक सोमवार और शुक्रवार को हजारों श्रद्धालु शुद्ध गाय का दूध, लाल ध्वजा, नारियल और घंटा चढ़ाकर संतान सुख, पारिवारिक शांति और दुखों के निवारण की मन्नत मांगते हैं।\n- **मातृ शक्ति की आराधना**: नवरात्र के पावन पर्व पर यहाँ कन्या पूजन, चंडी पाठ और अखंड दीप प्रज्वलन के भव्य अनुष्ठान होते हैं, जो समाज में नारी शक्ति और मातृत्व के प्रति अटूट सम्मान का संचार करते हैं।"
+    },
+    "location": {
+      "address": {
+        "en": "Maa Katyayani Mandir Complex, Post Dhamara Ghat, Block Chautham, Khagaria District, Bihar 851214, India",
+        "hi": "माँ कात्यायनी मंदिर परिसर, पोस्ट धमारा घाट, प्रखंड चौथम, जिला खगड़िया, बिहार 851214, भारत"
+      },
+      "latitude": 25.5418,
+      "longitude": 86.5892,
+      "mapQuery": "Maa Katyayani Sthan, Dhamara Ghat, Khagaria, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "day": "all_days",
+          "open": "05:00",
+          "close": "21:00"
+        }
+      ],
+      "entryFee": {
+        "amount": 0,
+        "currency": "INR",
+        "type": "free"
+      },
+      "recommendedDurationMinutes": 90,
+      "bestTimeToVisit": {
+        "en": "October to March, especially during Sharadiya Navratri, Chaitra Navratri, and auspicious Mondays or Fridays.",
+        "hi": "अक्टूबर से मार्च के मध्य, विशेष रूप से शारदीय नवरात्र, चैत्र नवरात्र और पावन सोमवार व शुक्रवार के दिनों में।"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Located about 18 km from Khagaria district headquarters. Reachable via Khagaria-Chautham rural road up to Badlaghat river embankment, followed by country boats or seasonal pontoon bridge across the river, or direct link road during dry winter months.",
+        "hi": "खगड़िया जिला मुख्यालय से लगभग 18 किमी दूर। खगड़िया-चौथम ग्रामीण सड़क मार्ग से बदलाघाट तटबंध तक पहुँच सकते हैं, जहाँ से नाव या शुष्क मौसम में संपर्क सड़क द्वारा मंदिर पहुँचा जाता है।"
+      },
+      "railway": [
+        {
+          "stationName": "Dhamara Ghat Railway Station",
+          "code": "DHT",
+          "distanceKm": 1.5,
+          "details": "Nearest railway station on the Mansi-Saharsa branch line."
+        },
+        {
+          "stationName": "Badlaghat Railway Station",
+          "code": "BHB",
+          "distanceKm": 4,
+          "details": "Alternative station on the Mansi-Saharsa rail route."
+        },
+        {
+          "stationName": "Khagaria Junction",
+          "code": "KGG",
+          "distanceKm": 22,
+          "details": "Major district junction connecting to Patna, Delhi, Guwahati, and Kolkata."
+        }
+      ],
+      "airport": [
+        {
+          "airportName": "Darbhanga Airport",
+          "code": "DBR",
+          "distanceKm": 115,
+          "details": "Nearest operational domestic airport with regular commercial flights."
+        },
+        {
+          "airportName": "Patna Jay Prakash Narayan Airport",
+          "code": "PAT",
+          "distanceKm": 185,
+          "details": "Major international and domestic airport connecting all prime Indian metros."
+        }
+      ],
+      "localTransport": {
+        "en": "Local auto-rickshaws, shared e-rickshaws from Mansi and Chautham, and passenger trains between Mansi and Saharsa halting directly at Dhamara Ghat.",
+        "hi": "मानसी और चौथम से स्थानीय ऑटो-रिक्शा, ई-रिक्शा तथा मानसी-सहरसा रेलखंड पर चलने वाली पैसेंजर ट्रेनें जो सीधे धमारा घाट पर रुकती हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 0,
+        "max": 0,
+        "currency": "INR",
+        "note": {
+          "en": "Free entry for all pilgrims and tourists.",
+          "hi": "सभी श्रद्धालुओं और पर्यटकों के लिए निःशुल्क प्रवेश।"
+        }
+      },
+      "localTransport": {
+        "min": 40,
+        "max": 150,
+        "currency": "INR",
+        "note": {
+          "en": "Shared auto or local train fare from Khagaria or Mansi.",
+          "hi": "खगड़िया या मानसी से शेयरिंग ऑटो अथवा लोकल ट्रेन का किराया।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": false,
+      "atm": false,
+      "medical": false
+    },
+    "accessibility": {
+      "difficulty": "moderate",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 400,
+      "stairs": true,
+      "wheelchairAccessible": false,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "**Rail Journey Recommendation**: Taking a passenger train on the Mansi-Saharsa branch line to **Dhamara Ghat (DHT)** is by far the most convenient transit mode, avoiding rough riverbed roads.",
+        "hi": "**ट्रेन यात्रा की प्राथमिकता**: मानसी-सहरसा रेलखंड की पैसेंजर ट्रेन से **धमारा घाट (DHT)** स्टेशन पहुँचना सबसे सुगम और आरामदायक माध्यम है, जिससे रेतीले रास्तों से बचा जा सकता है।"
+      },
+      {
+        "en": "**Milk Offering Etiquette**: Devotees intending to offer raw cow milk (*Kachha Doodh*) should purchase fresh earthenware pots from local village vendors right outside the temple gates.",
+        "hi": "**दूध अर्पण परंपरा**: कच्चा गाय का दूध अर्पित करने के इच्छुक श्रद्धालु मंदिर के मुख्य द्वार के बाहर स्थानीय विक्रेताओं से ताजे मिट्टी के कुल्हड़ अथवा पात्र प्राप्त कर सकते हैं।"
+      },
+      {
+        "en": "**Seasonal Monsoon Caution**: During peak monsoon months (July to September), river floodwaters often submerge access embankments; always verify train schedules and river conditions before departure.",
+        "hi": "**मानसून काल में सावधानी**: भारी बारिश के महीनों (जुलाई से सितंबर) में कोशी और बागमती का जलस्तर बढ़ने से रास्ते जलमग्न हो सकते हैं; यात्रा से पूर्व ट्रेन की स्थिति और स्थानीय जलस्तर की पुष्टि अवश्य करें।"
+      },
+      {
+        "en": "**Cash & Essentials**: Rural Dhamara Ghat has limited automated teller machines (ATMs); ensure you carry sufficient cash for offerings, prasad, and local boat or rickshaw fares.",
+        "hi": "**नकद राशि की व्यवस्था**: ग्रामीण धमारा घाट क्षेत्र में एटीएम की सीमित उपलब्धता है; अतः प्रसाद, पूजा सामग्री और स्थानीय किराए के लिए पर्याप्त नकद राशि साथ रखें।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "chandi-asthan",
+      "bawan-kothi-bharatkhand",
+      "aguwani-ghat"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        "Munger District Gazetteer 1926",
+        "Khagaria District Administration Portal (khagaria.nic.in)",
+        "Bihar State Tourism Development Corporation"
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "chandi-asthan",
+    "slug": "chandi-asthan",
+    "name": {
+      "en": "Maa Chandi Asthan Temple",
+      "hi": "माँ चंडी स्थान मंदिर"
+    },
+    "districtId": "khagaria",
+    "placeType": "temple",
+    "primaryCategory": "religious",
+    "categories": [
+      "religious",
+      "cultural",
+      "pilgrimage"
+    ],
+    "subcategories": [
+      "devi-mandir",
+      "shakti-temple",
+      "city-temple"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "shakti-circuit"
+    ],
+    "tags": [
+      "shakti",
+      "durga-puja",
+      "manokamna",
+      "city-temple",
+      "peaceful",
+      "heritage"
+    ],
+    "audiences": [
+      "pilgrims",
+      "families",
+      "cultural_enthusiasts",
+      "solo_travelers"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "A deeply revered Shakta sanctuary in Khagaria, dedicated to Goddess Chandi, renowned for divine protection, peace, and wish-fulfillment.",
+      "hi": "खगड़िया का एक अत्यंत प्रतिष्ठित शक्ति साधना स्थल, जो माँ चंडी को समर्पित है और रक्षा, शांति तथा मनोकामना सिद्धि के लिए प्रसिद्ध है।"
+    },
+    "description": {
+      "en": "**Maa Chandi Asthan**, situated in the bustling heart of **Khagaria** in the Indira Nagar and Paura vicinity, is one of the district's most cherished urban religious sanctuaries dedicated to the fiery and protective form of the divine mother, **Maa Chandi**.\n\nWhile the legendary Shakti Peeth of Chandika Sthan lies just across the Ganga in neighbouring Munger, this ancient municipal shrine has served for decades as the intimate, accessible spiritual anchor for the townsfolk of Khagaria. It provides a peaceful retreat from the surrounding commercial streets, where devotees gather every morning and evening to seek the divine blessings of Mother Durga.\n\n**Sanctuary Features & Experiences:**\n- **The Divine Sanctum**: Houses the consecrated idol and sacred sanctum of Goddess Chandi adorned with traditional silver ornaments, fragrant hibiscus garlands (*jaba pushpa*), and crimson vermillion.\n- **Vibrant Navratri Celebrations**: During **Sharadiya and Chaitra Navratri**, the entire temple courtyard is illuminated with festive fairy lights, reverberating with non-stop Durga Saptashati recitations, classical bhajans, and massive community aartis.\n- **Sacred Peepal Tree & Wish Ribbons**: The temple courtyard features an ancient sacred tree where devotees tie holy red threads (*moli*) and pray for health, prosperity, and the removal of negative energies.\n- **Community Annadanam**: On auspicious Tuesdays, Fridays, and festival culminations, dedicated temple volunteers serve freshly prepared pure vegetarian Prasad and Halwa-Puri to all visiting pilgrims.",
+      "hi": "**माँ चंडी स्थान मंदिर**, खगड़िया नगर के हृदय स्थल इंदिरा नगर एवं पौरा क्षेत्र में स्थित, नगरवासियों का सर्वाधिक प्रतिष्ठित और जाग्रत शक्ति धाम है, जो आदिशक्ति माँ दुर्गा के संहारक एवं कल्याणकारी स्वरूप **माँ चंडी** को समर्पित है।\n\nयद्यपि विश्वविख्यात 51 शक्तिपीठों में शामिल चंडिका स्थान गंगा के उस पार पड़ोसी मुंगेर जिले में स्थित है, परंतु खगड़िया नगर का यह प्राचीन चंडी स्थान दशकों से स्थानीय भक्तों के लिए एक सहज सुलभ, परम पावन एवं शांतिदायक तपोस्थली बना हुआ है। शहर की हलचल के बीच यह मंदिर प्रांगण आत्मिक शांति और भक्ति की एक अनुपम त्रिवेणी प्रस्तुत करता है।\n\n**मंदिर के मुख्य आकर्षण एवं आध्यात्मिक गतिविधियां:**\n- **दिव्य गर्भगृह दर्शन**: मंदिर के मुख्य गर्भगृह में माँ चंडी की तेजस्वी विग्रह प्रतिमा स्थापित है, जिसे भव्य रूप से लाल चुनरी, चांदी के मुकुट और ताजे गुड़हल के पुष्पों से सुसज्जित किया जाता है।\n- **नवरात्र एवं दुर्गा पूजा महोत्सव**: **शारदीय एवं चैत्र नवरात्र** के दौरान मंदिर परिसर को नयनाभिराम प्रकाश सज्जा से सजाया जाता है, जहाँ नौ दिनों तक अखंड दुर्गा सप्तशती का पाठ, भजन संध्या और विशाल महाआरती का आयोजन होता है।\n- **मनोकामना पूर्ति कल्पवृक्ष**: प्रांगण में स्थित प्राचीन पवित्र वृक्ष पर श्रद्धालु अपनी मनोकामनाएं पूरी करने के लिए लाल रक्षा सूत्र (मौली) और चुनरी बांधते हैं, और मन्नत पूरी होने पर प्रसाद चढ़ाते हैं।\n- **महाप्रसाद एवं भंडारा**: प्रत्येक मंगलवार, शुक्रवार और नवमी के शुभ अवसर पर मंदिर समिति द्वारा शुद्ध देशी घी से निर्मित हलवा, चना और पूड़ी का महाप्रसाद सभी आगंतुक भक्तों में वितरित किया जाता है।"
+    },
+    "history": {
+      "en": "The foundation of **Chandi Asthan** in Khagaria originated in the earlier half of the twentieth century when local merchants, saints, and devout residents consecrated an open-air platform (*pindi sthal*) under an auspicious tree to invoke the protective grace of **Maa Chandi** over the riverine trade town.\n\nHistorically, Khagaria was a vulnerable low-lying mercantile outpost prone to intense seasonal inundations and river shifts from the Koshi, Gandak, and Ganga rivers. Town elders and traders sought divine intervention against recurrent epidemics, river erosion, and commercial perils by establishing worship of Mother Chandi, the unassailable fortress of strength.\n\n**Historical Evolution:**\n- **Folk Shrine to Structural Temple**: What began as a humble brick platform with a consecrated rock relic was progressively transformed through community donations into a fully walled sanctum in the mid-1970s, complete with a traditional shikhar (spire) and expansive congregation hall.\n- **Cultural Safeguard**: Throughout modern decades, the shrine has served as a central focal point for peaceful inter-community celebrations, cultural gatherings, and religious discourse during turbulent flood seasons.",
+      "hi": "**चंडी स्थान मंदिर** की ऐतिहासिक स्थापना बीसवीं शताब्दी के पूर्वार्ध में खगड़िया के स्थानीय व्यापारियों, साधु-संतों और धर्मपरायण नागरिकों द्वारा नगर की रक्षा और सुख-शांति हेतु एक पवित्र वृक्ष के नीचे पिंडी स्थापना के साथ हुई थी।\n\nऐतिहासिक रूप से खगड़िया शहर गंगा, गंडक और कोशी नदियों के संगम के निकट स्थित होने के कारण निरंतर बाढ़, कटाव और संक्रामक विभीषिकाओं का सामना करता रहा है। तत्कालीन व्यापारी वर्ग और गृहस्थों ने प्राकृतिक आपदाओं और व्यापारिक संकटों से सुरक्षा पाने के लिए संकटमोचिनी माँ चंडी की नित्य उपासना प्रारंभ की।\n\n**ऐतिहासिक विकास के चरण:**\n- **कच्ची वेदी से भव्य मंदिर**: प्रारंभ में यह एक खुला चबूतरा और शिला रूपी पिंडी स्थल था, जिसे 1970 के दशक में स्थानीय जनसहयोग और दानदाताओं के माध्यम से एक भव्य पक्के शिखरयुक्त मंदिर और विशाल सभा मंडप में परिवर्तित किया गया।\n- **नगर का सांस्कृतिक केंद्र**: दशकों से यह मंदिर न केवल धार्मिक साधना का केंद्र रहा है, बल्कि बाढ़ और प्राकृतिक विपदाओं के समय राहत वितरण, सामाजिक सद्भाव और आध्यात्मिक जागरण का भी प्रमुख केंद्र रहा है।"
+    },
+    "significance": {
+      "en": "**Maa Chandi Asthan** holds deep spiritual, cultural, and community significance for the urban and rural populace of Khagaria:\n\n- **Protective Mother of the Town**: Revering the Mother as the guardian deity (*Nagar Rakshika*) who shields Khagaria's denizens from calamities, diseases, and misfortunes.\n- **Manokamna Fulfillment**: Faith holds that lighting ghee lamps on nine consecutive Tuesdays or Fridays at this altar clears obstacles in marriage, career, and legal conflicts.\n- **Hub of Traditional Festivities**: During the annual Durga Puja festivities, the temple hosts cultural programmes, traditional devotional singing in Maithili, Bhojpuri, and Angika dialects, fostering regional unity.\n- **Women's Spiritual Sanctuary**: Serves as a vital daily gathering space for women in the town for evening bhajan mandalis, offering a peaceful environment for spiritual sisterhood, reflection, and quiet prayer amidst hectic urban life.",
+      "hi": "**माँ चंडी स्थान मंदिर** खगड़िया के सामाजिक, सांस्कृतिक और धार्मिक ताने-बाने में एक अद्वितीय और महत्वपूर्ण स्थान रखता है:\n\n- **नगर रक्षिका की मान्यता**: स्थानीय जनमानस में माँ चंडी को नगर की प्रमुख संरक्षिका देवी माना जाता है, जिनकी असीम कृपा से नगरवासी प्राकृतिक आपदाओं और विघ्न-बाधाओं से सुरक्षित रहते हैं।\n- **मनोकामना सिद्धि केंद्र**: श्रद्धालुओं का दृढ़ विश्वास है कि यहाँ लगातार नौ मंगलवार या शुक्रवार को शुद्ध घी का दीपक प्रज्वलित करने और चंडी स्तोत्र का पाठ करने से रोग, व्याधि और पारिवारिक क्लेशों से मुक्ति मिलती है।\n- **सांस्कृतिक समरसता का प्रतीक**: नवरात्रि और दुर्गा पूजा के दौरान यहाँ मैथिली, अंगिका और भोजपुरी लोक-संस्कृति से ओत-प्रोत भजनों व सांस्कृतिक कार्यक्रमों का आयोजन होता है, जो सामाजिक समरसता को सुदृढ़ करता है।\n- **मातृशक्ति का आध्यात्मिक आश्रय**: नगर की महिलाओं के लिए यह मंदिर प्रतिदिन संध्या भजन-कीर्तन का मुख्य केंद्र है, जहाँ वे एकत्र होकर शांति, आत्मिक संबल और पारिवारिक कल्याण की प्रार्थना करती हैं।"
+    },
+    "location": {
+      "address": {
+        "en": "Maa Chandi Sthan Mandir Road, Indira Nagar, Paura Ward, Khagaria Town, Khagaria District, Bihar 851204, India",
+        "hi": "माँ चंडी स्थान मंदिर मार्ग, इंदिरा नगर, पौरा वार्ड, खगड़िया नगर, जिला खगड़िया, बिहार 851204, भारत"
+      },
+      "latitude": 25.5028,
+      "longitude": 86.4715,
+      "mapQuery": "Chandi Sthan Temple, Indira Nagar, Khagaria, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "day": "all_days",
+          "open": "05:30",
+          "close": "12:00"
+        },
+        {
+          "day": "all_days",
+          "open": "16:00",
+          "close": "21:30"
+        }
+      ],
+      "entryFee": {
+        "amount": 0,
+        "currency": "INR",
+        "type": "free"
+      },
+      "recommendedDurationMinutes": 45,
+      "bestTimeToVisit": {
+        "en": "Throughout the year, especially during morning/evening Aarti and during Chaitra and Sharadiya Navratri festivals.",
+        "hi": "वर्ष भर, विशेष रूप से सुबह और शाम की आरती के समय तथा चैत्र एवं शारदीय नवरात्र पर्व के दौरान।"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Situated centrally in Khagaria town within Indira Nagar. Easily reached by auto-rickshaw, e-rickshaw, cycle rickshaw, or two-wheeler from any part of the town or Khagaria Bus Stand (approx. 2 km).",
+        "hi": "खगड़िया नगर के इंदिरा नगर क्षेत्र में केंद्र में स्थित। शहर के किसी भी भाग अथवा खगड़िया बस स्टैंड (लगभग 2 किमी) से ऑटो, ई-रिक्शा या साइकिल रिक्शा द्वारा सुगमता से पहुँचा जा सकता है।"
+      },
+      "railway": [
+        {
+          "stationName": "Khagaria Junction",
+          "code": "KGG",
+          "distanceKm": 2.2,
+          "details": "Major railway junction on the Barauni-Katihar section with extensive express train connectivity across India."
+        },
+        {
+          "stationName": "Mansi Junction",
+          "code": "MNE",
+          "distanceKm": 9.5,
+          "details": "Nearby major junction connecting towards Saharsa, Madhepura, and Purnia."
+        }
+      ],
+      "airport": [
+        {
+          "airportName": "Darbhanga Airport",
+          "code": "DBR",
+          "distanceKm": 110,
+          "details": "Nearest regional operational airport offering daily domestic services to major cities."
+        },
+        {
+          "airportName": "Patna Jay Prakash Narayan Airport",
+          "code": "PAT",
+          "distanceKm": 175,
+          "details": "Primary gateway airport with extensive nationwide flight connectivity."
+        }
+      ],
+      "localTransport": {
+        "en": "Plentiful battery-operated e-rickshaws, shared autos, and pedal rickshaws readily operate across Khagaria city to the temple.",
+        "hi": "खगड़िया शहर में प्रचुर मात्रा में चलने वाले बैटरी चालित ई-रिक्शा, ऑटो-रिक्शा और पैडल रिक्शा आसानी से मंदिर तक उपलब्ध हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 0,
+        "max": 0,
+        "currency": "INR",
+        "note": {
+          "en": "Free entry for everyone.",
+          "hi": "सभी के लिए निःशुल्क प्रवेश।"
+        }
+      },
+      "localTransport": {
+        "min": 20,
+        "max": 60,
+        "currency": "INR",
+        "note": {
+          "en": "Typical e-rickshaw fare from Khagaria Junction railway station.",
+          "hi": "खगड़िया जंक्शन रेलवे स्टेशन से सामान्य ई-रिक्शा किराया।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": false,
+      "atm": true,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 100,
+      "stairs": false,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "**Aarti Timing**: Witnessing the evening Sandhya Aarti (between 6:30 PM and 7:15 PM) is highly recommended for its soul-stirring hymns, sacred conch blowing, and rhythmic dholak beats that elevate the spiritual atmosphere.",
+        "hi": "**आरती का समय**: शाम की संध्या आरती (शाम 6:30 से 7:15 के बीच) में भाग लेना अत्यंत फलदायी है, जब शंखनाद, ढोलक और वैदिक मंत्रोच्चार से वातावरण दिव्य ऊर्जा से गुंजायमान हो उठता है।"
+      },
+      {
+        "en": "**Offerings & Puja Samagri**: Fresh red hibiscus flowers (*Jaba Pushpa*), betel leaves, coconut, and decorative chunari are readily available at reasonable rates from traditional flower stalls flanking the temple entryway.",
+        "hi": "**पूजा सामग्री**: लाल गुड़हल पुष्प, पान के पत्ते, नारियल और चुनरी मंदिर प्रवेश द्वार के पास स्थित पारंपरिक दुकानों से अत्यंत उचित दर पर आसानी से प्राप्त की जा सकती है।"
+      },
+      {
+        "en": "**Footwear Management**: Devotees are requested to leave their footwear at the designated shoe stand near the outer archway before entering the sacred marble parikrama path.",
+        "hi": "**जूता स्टैंड सुविधा**: पवित्र संगमरमरी परिक्रमा मार्ग में प्रवेश करने से पहले मुख्य तोरण द्वार के निकट बने निःशुल्क जूता स्टैंड पर जूते-चप्पल उतारें।"
+      },
+      {
+        "en": "**Festive Rush Management**: During Ashtami and Navami of Durga Puja and Chaitra Navratri, expect massive devotee queues; visiting early in the morning around 6:00 AM ensures a peaceful, serene, and unhurried darshan experience.",
+        "hi": "**त्योहारों में भीड़**: दुर्गा पूजा और चैत्र नवरात्र की अष्टमी और नवमी को भारी भीड़ रहती है; शांतिपूर्ण और सुगम दर्शन के लिए प्रातः 6:00 बजे के आसपास पहुंचना उत्तम रहता है।"
+      },
+      {
+        "en": "**Quiet Contemplation**: After offering prayers, spend 15 to 20 minutes seated peacefully in the covered assembly pavilion (*Satsang Bhawan*) to soak in the divine tranquility.",
+        "hi": "**शांत ध्यान**: दर्शन-पूजन के उपरांत मंदिर के सत्संग मंडप में 15 से 20 मिनट मौन बैठकर आत्मिक शांति और ध्यान का आनंद अवश्य लें।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "katyayani-sthan",
+      "bawan-kothi-bharatkhand",
+      "aguwani-ghat"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        "Local Administration Directory Khagaria",
+        "Dharmik Nyas Samiti Bihar"
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "bawan-kothi-bharatkhand",
+    "slug": "bawan-kothi-bharatkhand",
+    "name": {
+      "en": "Bawan Kothi Tirpan Dwar (Bharatkhand Palace)",
+      "hi": "बावन कोठी तिरपन द्वार (भरतखंड महल)"
+    },
+    "districtId": "khagaria",
+    "placeType": "palace",
+    "primaryCategory": "heritage",
+    "categories": [
+      "heritage",
+      "history",
+      "architectural",
+      "monument"
+    ],
+    "subcategories": [
+      "palace",
+      "ruins",
+      "labyrinth",
+      "historical-site"
+    ],
+    "circuits": [
+      "heritage-circuit",
+      "ang-circuit",
+      "shiva_circuit"
+    ],
+    "tags": [
+      "featured",
+      "hiddenGem",
+      "historical",
+      "palace",
+      "architecture",
+      "labyrinth",
+      "mughal-era",
+      "photography"
+    ],
+    "audiences": [
+      "history_lovers",
+      "photographers",
+      "architects",
+      "explorers",
+      "families"
+    ],
+    "discoveryFlags": {
+      "popular": false,
+      "featured": true,
+      "hiddenGem": true,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "A mysterious 17th-century Mughal-era palace in Bharatkhand featuring 52 chambers, 53 gateways, acoustic marvels, and labyrinthine corridors.",
+      "hi": "भरतखंड में स्थित 17वीं सदी का एक रहस्यमयी मुगलकालीन महल, जिसमें 52 कमरे, 53 दरवाजे, ध्वनिक चमत्कार और भूलभुलैया जैसे गलियारे हैं।"
+    },
+    "description": {
+      "en": "**Bawan Kothi Tirpan Dwar**, situated in the historic village of **Bharatkhand** in the Parbatta (Gogri) block of Khagaria district, is an extraordinary 17th-century architectural marvel often hailed as the **Labyrinth (Bhul-Bhulaiya) of Eastern Bihar**.\n\nConstructed in the 1630s–1660s by the local chieftain **Raja Bairam Singh**, this grand palatial fortress derived its iconic moniker from its intricate structural layout comprising exactly **52 chambers (kothis)** and **53 majestic arched doorways (dwar)**. Emulating the breeze-welcoming principles found in grand medieval Rajput and Mughal palaces, the structure was engineered to remain naturally ventilated and cool during sweltering summer afternoons.\n\n**Fascinating Architectural Highlights:**\n- **The 52 Brick Varieties**: Master masons utilized 52 distinct shapes and dimensions of baked bricks, ranging from matchbox-sized miniature bricks to massive two-foot slabs, bonded with a durable mixture of crushed shells, lime, and *surkhi*.\n- **The Acoustic Pavilion**: A central open courtyard features special structural resonance chambers where clapping or tapping corners produces varied, melodious acoustic tones that echo through the corridors.\n- **Secret Underground Escape Tunnel**: Folklore and historical traces document an underground subterranean passageway used by royal family members to safely access a nearby private Shiva temple during wartime sieges.\n- **Labyrinthine Complexity**: An intricate network of interconnecting arches and symmetrical doorways creates a disorienting labyrinth that bewitches modern explorers and historians alike.",
+      "hi": "**बावन कोठी तिरपन द्वार**, खगड़िया जिले के परबत्ता (गोगरी) प्रखंड अंतर्गत ऐतिहासिक गाँव **भरतखंड** में स्थित, 17वीं शताब्दी की एक अद्भुत स्थापत्य धरोहर है, जिसे लोक भाषा में **पूर्वी बिहार की भूलभुलैया** के नाम से जाना जाता है।\n\nइस भव्य ऐतिहासिक महल का निर्माण लगभग **1633–1663 ईस्वी** में मुगल काल के दौरान स्थानीय प्रतापी शासक **राजा बैरम सिंह** द्वारा करवाया गया था। इस राजमहल का नामकरण इसकी विशिष्ट वास्तु संरचना के आधार पर हुआ है, जिसमें ठीक **52 कमरे (कोठियां)** और **53 भव्य तोरण द्वार** बनाए गए थे। राजपुताना और मुगल स्थापत्य कला के तत्वों को समेटे यह महल भीषण गर्मी में भी प्राकृतिक रूप से शीतल और हवादार रहने के लिए विशेष रूप से डिज़ाइन किया गया था।\n\n**प्रमुख स्थापत्य व रहस्यमयी विशेषताएं:**\n- **52 प्रकार की अनूठी ईंटें**: इस महल के निर्माण में कारीगरों ने माचिस की डिब्बी जितने छोटे आकार से लेकर दो फीट तक लंबी 52 अलग-अलग प्रकार की तराशी हुई ईंटों और सुर्खी-चूने के विशेष मिश्रण का प्रयोग किया था।\n- **ध्वनिक मंडप का चमत्कार**: महल के केंद्रीय मंडप में एक अद्भुत ध्वनिक (एकॉस्टिक) व्यवस्था है, जिसके चारों कोनों पर हल्के से आघात करने पर विभिन्न प्रकार की प्रतिध्वनियां और सुरमयी आवाजें उत्पन्न होती हैं।\n- **गुप्त सुरंग व्यवस्था**: महल के भीतर एक गुप्त भूमिगत सुरंग बनी हुई है, जिसका उपयोग राजा और राजपरिवार युद्ध अथवा संकट काल में सुरक्षित रूप से निकटवर्ती शिव मंदिर में पूजा-अर्चना हेतु जाने के लिए करते थे।\n- **भूलभुलैया जैसी संरचना**: कमरों और दरवाजों का सम्मोहनकारी जाल ऐसा रचा गया है कि अपरिचित व्यक्ति अंदर प्रवेश करने पर आसानी से बाहर निकलने का रास्ता भूल जाता है।"
+    },
+    "history": {
+      "en": "Built during the golden age of Mughal provincial architecture around **1633–1663 CE**, the **Bharatkhand Palace** served as the prestigious royal seat of **Raja Bairam Singh**, an influential regional landlord and ruler of the Bharatkhand estate bordering the Anga province.\n\nStrategically positioned close to the fertile trade routes of the Ganges, the palace reflected the king's ambitious vision to establish an impregnable yet culturally exquisite royal residence. In an era fraught with regional skirmishes, the ruler commissioned specialized master craftsmen from across Northern India who integrated sophisticated defense strategies into domestic architecture.\n\n**Historical Legacy:**\n- **Strategic Defense Design**: The 53 doorways were deliberately configured with alternating visual axes so that enemy infiltrators could never determine which chamber held the royal treasury or chambers.\n- **A Monument of Forgotten Splendour**: Following the decline of regional zamindari estates and decades of administrative neglect, the majestic palace fell into ruin. Today, its surviving brick arches, weathered stucco relief carvings, and majestic silhouette stand as a poignant monument to Khagaria's forgotten medieval grandeur.",
+      "hi": "**भरतखंड महल** का निर्माण लगभग **1633–1663 ईस्वी** के दौरान मुगल प्रांतीय शासनकाल में भरतखंड रियासत के प्रतापी राजा **बैरम सिंह** द्वारा करवाया गया था।\n\nगंगा और अंग प्रदेश की सीमा पर स्थित होने के कारण भरतखंड एक महत्वपूर्ण रणनीतिक और कृषि व्यापार केंद्र था। राजा बैरम सिंह ने इस महल को केवल विलास हेतु नहीं, बल्कि सामरिक सुरक्षा को ध्यान में रखकर तैयार करवाया था। उस काल में क्षेत्रीय संघर्षों और लुटेरों से बचाव हेतु उत्तर भारत के कुशल शिल्पकारों को बुलाकर इस अद्वितीय किलेनुमा महल की रूपरेखा तैयार की गई थी।\n\n**ऐतिहासिक धरोहर के पहलू:**\n- **रणनीतिक सुरक्षा योजना**: महल के 53 दरवाजों और 52 कमरों की योजना इस प्रकार बनाई गई थी कि कोई भी बाहरी हमलावर यह अनुमान नहीं लगा सके कि राजा का शयनकक्ष अथवा राजकोष किस दिशा में स्थित है।\n- **उपेक्षा और गौरव का साक्षी**: जमींदारी उन्मूलन और सरकारी उपेक्षा के कारण समय के साथ इस महल के कई हिस्से खंडहर में तब्दील हो गए हैं, किंतु आज भी इसकी विशाल लाल ईंटों की मेहराबें, नक्काशीदार कंगूरे और रहस्यमयी गलियारे खगड़िया के स्वर्णिम मध्यकालीन वैभव की मूक गवाही देते हैं।"
+    },
+    "significance": {
+      "en": "**Bawan Kothi Tirpan Dwar** holds exceptional archaeological, architectural, and educational significance as one of the rarest surviving examples of 17th-century secular brick architecture in North-Eastern Bihar:\n\n- **Unmatched Brickwork Engineering**: Showcases pre-industrial Indian civil engineering through the innovative use of 52 specialized brick designs crafted to build self-supporting vaults, arches, and cooling conduits without modern steel reinforcements.\n- **Acoustic and Spatial Genius**: Represents an early provincial exploration of structural acoustics where sound manipulation served both recreational music gatherings and defensive early-warning surveillance.\n- **Heritage Tourism Potential**: Often praised by conservationists as a hidden gem capable of becoming a prime destination on Bihar's heritage tourism map alongside Nalanda and Rohtasgarh.\n- **Folk Memory & Cultural Identity**: Inspires local pride and storytelling in Khagaria, serving as an irreplaceable living classroom for students of regional history, vernacular architecture, and folklore.",
+      "hi": "**बावन कोठी तिरपन द्वार** उत्तर-पूर्वी बिहार के स्थापत्य, पुरातात्विक और सांस्कृतिक इतिहास में एक अनूठा और अत्यंत महत्वपूर्ण स्थान रखता है:\n\n- **अद्वितीय ईंट इंजीनियरिंग का उत्कृष्ट नमूना**: बिना किसी आधुनिक लोहे या सीमेंट के, केवल 52 प्रकार की विशिष्ट ईंटों और पारंपरिक गारे से निर्मित यह महल प्राचीन भारतीय भवन निर्माण कौशल का एक जीवित चमत्कार है।\n- **ध्वनि विज्ञान और स्थापत्य का समन्वय**: महल का ध्वनिक मंडप यह प्रमाणित करता है कि 17वीं सदी के भारतीय वास्तुकार ध्वनि संचरण और प्राकृतिक वातानुकूलन की गूढ़ तकनीकों से भली-भांति परिचित थे।\n- **विरासत पर्यटन की असीम संभावनाएं**: यह ऐतिहासिक स्थल बिहार पर्यटन के मानचित्र पर एक प्रमुख हेरिटेज गंतव्य बनने की पूरी क्षमता रखता है, जो इतिहास प्रेमियों, शोधकर्ताओं और पर्यटकों को आकर्षित करता है।\n- **क्षेत्रीय अस्मिता का प्रतीक**: भरतखंड और संपूर्ण खगड़िया जिले के निवासियों के लिए यह महल उनके पूर्वजों के अद्वितीय स्वाभिमान, साहस और स्थापत्य कौशल का एक अमूल्य ऐतिहासिक गौरव है।"
+    },
+    "location": {
+      "address": {
+        "en": "Bawan Kothi Complex, Village Bharatkhand, Block Parbatta (Gogri Subdivision), Khagaria District, Bihar 851216, India",
+        "hi": "बावन कोठी परिसर, ग्राम भरतखंड, प्रखंड परबत्ता (गोगरी अनुमंडल), जिला खगड़िया, बिहार 851216, भारत"
+      },
+      "latitude": 25.3685,
+      "longitude": 86.7214,
+      "mapQuery": "Bawan Kothi Tirpan Dwar, Bharatkhand, Khagaria, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "day": "all_days",
+          "open": "06:00",
+          "close": "18:00"
+        }
+      ],
+      "entryFee": {
+        "amount": 0,
+        "currency": "INR",
+        "type": "free"
+      },
+      "recommendedDurationMinutes": 90,
+      "bestTimeToVisit": {
+        "en": "October to March when weather is pleasant for outdoor exploration and photography.",
+        "hi": "अक्टूबर से मार्च के मध्य, जब मौसम सुहावना होता है और बाहरी भ्रमण तथा फोटोग्राफी के लिए उपयुक्त रहता है।"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Accessible via National Highway 31 (NH-31) up to Maheshkhunt or Pasraha, followed by state/rural roads leading towards Bharatkhand village in Parbatta block (approx. 35 km from Khagaria city).",
+        "hi": "राष्ट्रीय राजमार्ग 31 (NH-31) से महेशखूंट या पसराहा होकर परबत्ता प्रखंड के भरतखंड गांव जाने वाली सड़क से पहुँचा जा सकता है (खगड़िया शहर से लगभग 35 किमी)।"
+      },
+      "railway": [
+        {
+          "stationName": "Bharatkhand Halt",
+          "code": "BKHR",
+          "distanceKm": 1.5,
+          "details": "Nearest passenger train halt serving local commuters."
+        },
+        {
+          "stationName": "Maheshkhunt Railway Station",
+          "code": "MSK",
+          "distanceKm": 14,
+          "details": "Major station on Barauni-Katihar railway line with regular express train halts."
+        },
+        {
+          "stationName": "Khagaria Junction",
+          "code": "KGG",
+          "distanceKm": 35,
+          "details": "Primary junction with extensive train links across Bihar, Bengal, and New Delhi."
+        }
+      ],
+      "airport": [
+        {
+          "airportName": "Darbhanga Airport",
+          "code": "DBR",
+          "distanceKm": 135,
+          "details": "Nearest operational domestic airport with direct connectivity to metro cities."
+        },
+        {
+          "airportName": "Patna Jay Prakash Narayan Airport",
+          "code": "PAT",
+          "distanceKm": 195,
+          "details": "Major commercial airport providing flights to all destinations in India."
+        }
+      ],
+      "localTransport": {
+        "en": "Private auto-rickshaws, shared jeeps, and taxis available from Maheshkhunt and Pasraha railway stations to Bharatkhand village.",
+        "hi": "महेशखूंट और पसराहा रेलवे स्टेशन से भरतखंड गाँव के लिए निजी ऑटो-रिक्शा, शेयरिंग जीप और टैक्सियाँ उपलब्ध हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 0,
+        "max": 0,
+        "currency": "INR",
+        "note": {
+          "en": "Open heritage site with no entry fee.",
+          "hi": "खुली ऐतिहासिक धरोहर, कोई प्रवेश शुल्क नहीं।"
+        }
+      },
+      "localTransport": {
+        "min": 50,
+        "max": 200,
+        "currency": "INR",
+        "note": {
+          "en": "Auto or jeep fare from Maheshkhunt or Pasraha.",
+          "hi": "महेशखूंट अथवा पसराहा से ऑटो या जीप का किराया।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": false,
+      "drinkingWater": false,
+      "food": false,
+      "accommodation": false,
+      "atm": false,
+      "medical": false
+    },
+    "accessibility": {
+      "difficulty": "moderate",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 300,
+      "stairs": true,
+      "wheelchairAccessible": false,
+      "suitableForChildren": true,
+      "suitableForElderly": false
+    },
+    "travelTips": [
+      {
+        "en": "**Daylight Exploration Only**: Because the palace is largely in ruins without artificial illumination, plan your visit strictly during full daylight hours between 8:00 AM and 4:30 PM.",
+        "hi": "**केवल दिन के उजाले में भ्रमण**: चूंकि महल खंडहर अवस्था में है और कृत्रिम प्रकाश की व्यवस्था नहीं है, इसलिए सुबह 8:00 बजे से शाम 4:30 बजे के बीच दिन के उजाले में ही जाएं।"
+      },
+      {
+        "en": "**Local Guide Assistance**: It is strongly advisable to seek guidance from friendly Bharatkhand villagers who can showcase the acoustic pavilion and safe walking paths through the chambers.",
+        "hi": "**स्थानीय ग्रामीणों की सहायता**: भरतखंड गाँव के स्थानीय लोगों की मदद लेना अत्यंत उपयोगी रहता है, जो ध्वनिक मंडप और सुरक्षित मार्गों को अच्छी तरह दिखाते हैं।"
+      },
+      {
+        "en": "**Sturdy Footwear & Flashlight**: Wear rugged walking shoes to traverse broken bricks and uneven stone paths; carry a mobile torch or flashlight to inspect intricate interior arches.",
+        "hi": "**मजबूत जूते और टॉर्च**: टूटी ईंटों और ऊबड़-खाबड़ रास्तों पर चलने के लिए मजबूत जूते पहनें तथा आंतरिक मेहराबों को देखने के लिए टॉर्च साथ रखें।"
+      },
+      {
+        "en": "**Carry Drinking Water & Snacks**: There are no formal tourist canteens inside Bharatkhand village; keep sufficient bottled water and light snacks in your backpack.",
+        "hi": "**पेयजल और अल्पाहार साथ रखें**: भरतखंड गाँव के अंदर कोई पर्यटन कैंटीन नहीं है; अतः अपने बैग में पर्याप्त पीने का पानी और हल्का नाश्ता अवश्य रखें।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "aguwani-ghat",
+      "katyayani-sthan",
+      "chandi-asthan"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        "Bihar State Archaeological Survey Archives",
+        "Khagaria District Heritage Monograph",
+        "District Gazetteers of Anga & Munger"
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "aguwani-ghat",
+    "slug": "aguwani-ghat",
+    "name": {
+      "en": "Aguwani Ganga Ghat",
+      "hi": "अगवानी गंगा घाट"
+    },
+    "districtId": "khagaria",
+    "placeType": "ghat",
+    "primaryCategory": "scenic",
+    "categories": [
+      "scenic",
+      "religious",
+      "heritage",
+      "nature"
+    ],
+    "subcategories": [
+      "river-ghat",
+      "ganga-snan",
+      "sunset-point",
+      "pilgrim-point"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "kanwar-circuit",
+      "ganga-circuit",
+      "eco_circuit",
+      "shiva_circuit"
+    ],
+    "tags": [
+      "ganga",
+      "sunset",
+      "holy-bath",
+      "kanwar-yatra",
+      "nature",
+      "peaceful",
+      "dolphins"
+    ],
+    "audiences": [
+      "pilgrims",
+      "nature_lovers",
+      "photographers",
+      "families",
+      "peace_seekers"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": false,
+      "hiddenGem": true,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "The sacred northern Ganga bank in Khagaria, offering panoramic river vistas, holy bathing ghats, and a gateway to Kanwar Yatra.",
+      "hi": "खगड़िया में पवित्र गंगा का उत्तरी तट, जो विहंगम नदी दर्शन, पावन स्नान घाट और कांवड़ यात्रा का प्रमुख प्रवेश द्वार प्रदान करता है।"
+    },
+    "description": {
+      "en": "**Aguwani Ghat**, resting serenely along the northern banks of the holy **River Ganga** in the Parbatta block of Khagaria district, is one of the region's most picturesque and spiritually significant riverfronts.\n\nPositioned directly opposite the revered temple town of **Sultanganj** in Bhagalpur district, this majestic ghat commands breathtaking panoramic views of the sacred Ganges as it curves northwards (*Uttarvahini*). From the riverbank, visitors can gaze across the vast expanse of water to catch a shimmering glimpse of the rocky island hill topped by the ancient shrine of **Baba Ajgaibinath Mahadev**.\n\n**Key Riverfront Attractions & Spiritual Experiences:**\n- **Holy Ganga Snan**: Thousands of devout pilgrims congregate here during auspicious lunar occasions including **Kartik Purnima**, **Makar Sankranti**, and **Ganga Dussehra** to partake in cleansing holy dips in the sacred waters.\n- **Gateway to Shravani Mela**: During the sacred month of Shravan, millions of Kanwariyas journey across or alongside Aguwani Ghat to fetch sanctified Ganga water for the monumental 105-km barefoot trek to Baba Baidyanath Jyotirlinga in Deoghar.\n- **Gangetic River Dolphins (Soos)**: The deep, pristine river waters near the ghat serve as an active sanctuary for endangered **Gangetic River Dolphins**, which can frequently be spotted surfacing during peaceful early mornings.\n- **Sublime Sunsets and Evening Aarti**: The sun sinking behind the wide water horizon casts golden and crimson reflections across the ripples, complemented by the fragrant incense and bells of evening river worship.",
+      "hi": "**अगवानी घाट**, खगड़िया जिले के परबत्ता प्रखंड अंतर्गत पावन **गंगा नदी** के उत्तरी तट पर स्थित, जिले का सर्वाधिक मनोहारी, प्राकृतिक एवं आध्यात्मिक दृष्टि से महत्वपूर्ण पावन तट है।\n\nभागलपुर जिले के प्रसिद्ध तीर्थ नगर **सुल्तानगंज** के ठीक सामने स्थित यह विशाल घाट उत्तरवाहिनी गंगा के विहंगम और अलौकिक दर्शन प्रदान करता है। इस तट से गंगा की अथाह जलराशि के पार ग्रेनाइट चट्टानों वाले द्वीप पर प्रतिष्ठित ऐतिहासिक **बाबा अजगैबीनाथ महादेव मंदिर** का मनोहारी दृश्य साफ दिखाई देता है।\n\n**प्रमुख आकर्षण एवं आध्यात्मिक अनुभूतियां:**\n- **पवित्र गंगा स्नान**: **कार्तिक पूर्णिमा**, **मकर संक्रांति**, **गंगा दशहरा** और सोमवती अमावस्या जैसे महापर्वों पर हजारों श्रद्धालु ब्रह्ममुहूर्त में पावन डुबकी लगाकर पुण्य लाभ अर्जित करते हैं।\n- **श्रावणी मेला एवं कांवड़ यात्रा का साक्षी**: सावन के पावन माह में यहाँ का वातावरण हर-हर महादेव और बोल बम के जयकारों से गूंज उठता है। उत्तर बिहार और नेपाल के लाखों कांवड़िए गंगाजल भरकर बाबा बैद्यनाथ धाम (देवघर) की 105 किमी की पदयात्रा प्रारंभ करने हेतु यहाँ पहुँचते हैं।\n- **गांगेय डॉल्फ़िन (सोंस) दर्शन**: अगवानी घाट के निकट गंगा की गहरी और स्वच्छ जलधारा में भारत के राष्ट्रीय जलीय जीव **गंगा डॉल्फ़िन (सोंस)** की अठखेलियाँ अक्सर सुबह के समय पर्यटकों को रोमांचित करती हैं।\n- **मनमोहक सूर्यास्त और संध्या आरती**: गोधूलि बेला में गंगा के अनंत जल विस्तार पर अस्ताचलगामी सूर्य की स्वर्णिम किरणें और स्थानीय पुरोहितों द्वारा की जाने वाली गंगा महाआरती का दृश्य अत्यंत नयनाभिराम और शांतिप्रद होता है।"
+    },
+    "history": {
+      "en": "Historically, **Aguwani Ghat** has served for centuries as the vital northern river harbor and ferry crossing (*ferry terminal*) connecting the ancient realms of **Mithila and Anga** across the mighty Ganges.\n\nDuring ancient and medieval eras, before modern rail and roadway bridges spanned the rivers, this crossing was navigated by merchant fleets transporting grains, spices, silk, and pottery between Northern Bihar and the historic silk emporiums of Bhagalpur and Bengal. Pilgrims following the Vedic trail of Maharishi Jahnu—whose hermitage is legendary in Sultanganj—have utilized Aguwani's natural sandy embankments as a campsite for centuries.\n\n**Historical & Modern Significance:**\n- **Ancient Ferry Heritage**: Traditional large wooden country boats (*Naav*) transported caravans of pilgrims, cavalry, and regional goods across the river for generations.\n- **Engineering Ambition**: In modern times, Aguwani Ghat achieved widespread prominence as the northern terminus of the landmark **Aguwani-Sultanganj Ganga Bridge** project, designed to create a direct physical link between Khagaria and Bhagalpur districts.",
+      "hi": "ऐतिहासिक दृष्टि से **अगवानी घाट** सदियों से गंगा के उस पार अंग प्रदेश और इस पार मिथिला व कोशी अंचल को जोड़ने वाला प्रमुख नदी पत्तन और नौका घाट रहा है।\n\nप्राचीन और मध्यकाल में जब गंगा पर विशाल आधुनिक पुलों का निर्माण नहीं हुआ था, तब व्यापारिक जहाजों और नौकाओं द्वारा उत्तरी बिहार से अनाज, मसाले, रेशम और मिट्टी के बर्तनों का परिवहन अगवानी घाट के माध्यम से ही सुल्तानगंज और भागलपुर के व्यापारिक बाजारों में होता था। पौराणिक मान्यताओं के अनुसार जाह्नु ऋषि की तपोस्थली से जुड़े होने के कारण सदियों से साधु-संन्यासियों और तीर्थयात्रियों के दल इस रेतीले तट पर विश्राम करते रहे हैं।\n\n**ऐतिहासिक व आधुनिक संदर्भ:**\n- **पारंपरिक नौकायन परंपरा**: पीढ़ियों से विशाल लकड़ी की देशी नौकाओं द्वारा यात्रियों, कांवड़ियों और मवेशियों को गंगा पार कराने की परंपरा यहाँ की जीवंत जीवनशैली का हिस्सा रही है।\n- **आधुनिक संपर्क का केंद्र**: आधुनिक काल में अगवानी घाट तब चर्चा के केंद्र में आया जब खगड़िया और भागलपुर को सीधे जोड़ने के लिए ऐतिहासिक **अगवानी-सुल्तानगंज गंगा महासेतु** परियोजना की आधारशिला रखी गई।"
+    },
+    "significance": {
+      "en": "**Aguwani Ganga Ghat** is of tremendous ecological, spiritual, and regional socioeconomic significance:\n\n- **Sanctified North-Flowing Ganga (Uttarvahini)**: In Hindu theology, the northward curve of Mother Ganga is deemed extraordinarily auspicious, amplifying the spiritual merit (*Punya*) of prayers, ancestral offerings (*Tarpan*), and ritual ablutions.\n- **Ecological Sanctuary for River Dolphins**: Serves as a vital habitat for freshwater wildlife, especially the endangered freshwater Gangetic dolphin (*Platanista gangetica*), migratory waterbirds, and diverse riverine fish species.\n- **Spiritual Confluence with Ajgaibinath**: Provides a sacred vantage point and embarkation ground for pilgrims paying homage to the divine swayambhu lingam of Baba Ajgaibinath enshrined across the water.\n- **Socio-Economic Lifeline**: The riverfront sustains generations of traditional fishermen, boatmen, local traders, and seasonal vendors whose livelihoods are intertwined with the river and its visiting pilgrims.",
+      "hi": "**अगवानी गंगा घाट** का धार्मिक, पारिस्थितिक और सामाजिक-आर्थिक महत्व अत्यंत गहरा है:\n\n- **उत्तरवाहिनी गंगा का पावन महात्म्य**: सनातन धर्म में उत्तर की ओर बहने वाली गंगा को अत्यंत पुण्यदायी माना गया है। यहाँ किया गया स्नान, तर्पण और दीपदान पूर्वजों की मुक्ति और जीवन के पापों के निवारण हेतु अमोघ माना जाता है।\n- **डॉल्फ़िन एवं जलीय जीवन का आश्रय स्थल**: यह घाट और इसके आसपास का गहरा जल क्षेत्र संकटग्रस्त गंगा डॉल्फ़िन (सोंस), प्रवासी पक्षियों और मीठे पानी की मछलियों के लिए एक समृद्ध प्राकृतिक पर्यावास प्रदान करता है।\n- **अजगैबीनाथ ज्योतिर्लिंग का दर्शन केंद्र**: गंगा पार प्रतिष्ठित बाबा अजगैबीनाथ के दर्शन हेतु यह तट प्रमुख प्रस्थान बिंदु है, जहाँ से शिवभक्त गंगाजल भरकर भगवान आशुतोष का जलाभिषेक करते हैं।\n- **क्षेत्रीय अर्थव्यवस्था की जीवनरेखा**: यह पावन घाट स्थानीय मल्लाहों, नाविकों, फल-फूल विक्रेताओं और छोटे व्यापारियों के लिए सदियों से आजीविका का एक मुख्य आधार बना हुआ है।"
+    },
+    "location": {
+      "address": {
+        "en": "Aguwani Ganga Ghat, Parbatta Block, Khagaria District, Bihar 851216, India",
+        "hi": "अगवानी गंगा घाट, प्रखंड परबत्ता, जिला खगड़िया, बिहार 851216, भारत"
+      },
+      "latitude": 25.265,
+      "longitude": 86.732,
+      "mapQuery": "Aguwani Ghat, Parbatta, Khagaria, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "day": "all_days",
+          "open": "04:30",
+          "close": "20:00"
+        }
+      ],
+      "entryFee": {
+        "amount": 0,
+        "currency": "INR",
+        "type": "free"
+      },
+      "recommendedDurationMinutes": 60,
+      "bestTimeToVisit": {
+        "en": "October to March for pleasant breeze and sunset views, and July-August during the holy Shravani Mela festivities.",
+        "hi": "अक्टूबर से मार्च के मध्य सुहावने मौसम और सूर्यास्त के दर्शन के लिए, तथा जुलाई-अगस्त में पावन श्रावणी मेला के समय।"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Reachable via NH-31 towards Pasraha / Maheshkhunt, branching off southward towards Parbatta and Aguwani Ghat (approx. 40 km from Khagaria city and 12 km from Parbatta).",
+        "hi": "राष्ट्रीय राजमार्ग 31 से पसराहा/महेशखूंट होकर दक्षिण दिशा में परबत्ता और अगवानी घाट जाने वाली सड़क से पहुँचा जा सकता है (खगड़िया शहर से लगभग 40 किमी)।"
+      },
+      "railway": [
+        {
+          "stationName": "Pasraha Railway Station",
+          "code": "PSR",
+          "distanceKm": 18,
+          "details": "Nearest railway station on Barauni-Katihar mainline route."
+        },
+        {
+          "stationName": "Maheshkhunt Railway Station",
+          "code": "MSK",
+          "distanceKm": 22,
+          "details": "Convenient station with passenger and express train halts."
+        },
+        {
+          "stationName": "Khagaria Junction",
+          "code": "KGG",
+          "distanceKm": 42,
+          "details": "Major district junction connecting northern, western, and eastern India."
+        }
+      ],
+      "airport": [
+        {
+          "airportName": "Darbhanga Airport",
+          "code": "DBR",
+          "distanceKm": 140,
+          "details": "Domestic airport offering daily commercial connections."
+        },
+        {
+          "airportName": "Patna Jay Prakash Narayan Airport",
+          "code": "PAT",
+          "distanceKm": 200,
+          "details": "Major airport with comprehensive domestic networks."
+        }
+      ],
+      "localTransport": {
+        "en": "Shared autos, passenger jeeps, and private taxis run regularly from Parbatta and Pasraha towards Aguwani Ghat.",
+        "hi": "परबत्ता और पसराहा से अगवानी घाट के लिए शेयरिंग ऑटो, जीप और निजी टैक्सियाँ नियमित रूप से चलती हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 0,
+        "max": 0,
+        "currency": "INR",
+        "note": {
+          "en": "Public river ghat with no entry fee.",
+          "hi": "सार्वजनिक नदी तट, कोई प्रवेश शुल्क नहीं।"
+        }
+      },
+      "localTransport": {
+        "min": 40,
+        "max": 150,
+        "currency": "INR",
+        "note": {
+          "en": "Local shared transport fare from Parbatta.",
+          "hi": "परबत्ता से स्थानीय शेयरिंग वाहन का किराया।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": false,
+      "atm": false,
+      "medical": false
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 150,
+      "stairs": true,
+      "wheelchairAccessible": false,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "**River Bathing Safety**: Always bathe strictly within designated shallow ghat steps and marked safety enclosures; avoid venturing into the main river channel where currents run surprisingly swift and unpredictable.",
+        "hi": "**गंगा स्नान में सुरक्षा**: हमेशा चिन्हित पक्के घाटों और उथले किनारों पर ही स्नान करें; मुख्य तेज जलधारा में गहराई में जाने से बचें क्योंकि बहाव अप्रत्याशित और तीव्र हो सकता है।"
+      },
+      {
+        "en": "**Dolphin Watching Hour**: The optimal hours to spot playful Gangetic river dolphins (*Soos*) breaking the river surface are between 6:00 AM and 8:00 AM when motorized boat traffic is minimal.",
+        "hi": "**डॉल्फ़िन देखने का सर्वोत्तम समय**: गांगेय डॉल्फ़िन (सोंस) की अठखेलियाँ देखने के लिए प्रातः 6:00 से 8:00 बजे का समय सबसे उपयुक्त है, जब नौकाओं का शोर और जल हलचल न्यूनतम रहती है।"
+      },
+      {
+        "en": "**Spectacular Sunset Views**: Bring a camera in the late afternoon around 4:45 PM to capture the awe-inspiring golden sunset casting crimson reflections over the vast expanse of the holy Ganges.",
+        "hi": "**सूर्यास्त फोटोग्राफी**: शाम 4:45 बजे के आसपास कैमरा साथ रखें, जब अस्ताचलगामी सूर्य की स्वर्णिम किरणें गंगा की अनंत जलराशि पर भव्य सिंदूरी छटा बिखेरती हैं।"
+      },
+      {
+        "en": "**Boat Ride Verification**: If hiring country wooden boats for river crossings or viewing Baba Ajgaibinath hill temple from the water, negotiate fares in advance and confirm safety lifejackets are provided.",
+        "hi": "**नौकायन में सावधानी**: यदि जलमार्ग से अजगैबीनाथ पर्वत मंदिर देखने अथवा नौकायन हेतु नाव किराए पर ले रहे हैं, तो किराया पहले तय करें और लाइफ जैकेट की उपलब्धता अवश्य सुनिश्चित करें।"
+      },
+      {
+        "en": "**Ecological Respect**: The Ganges riverfront is an ecologically sensitive aquatic habitat; strictly refrain from littering plastic waste, soap wrappers, or non-biodegradable trash along the sandy banks.",
+        "hi": "**पर्यावरणीय मर्यादा**: यह पावन तट दुर्लभ जलीय जीवों का प्राकृतिक आवास है; अतः गंगा तट पर प्लास्टिक कचरा, साबुन अथवा पॉलीथिन का प्रयोग करने से बचें और स्वच्छता बनाए रखें।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "bawan-kothi-bharatkhand",
+      "chandi-asthan",
+      "katyayani-sthan"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        "Inland Waterways Authority of India River Ghat Surveys",
+        "Khagaria District Administration Tourism Portal",
+        "Namami Gange Mission Documentation"
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  }
+]

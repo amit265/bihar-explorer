@@ -1,0 +1,317 @@
+{
+  "data": [
+    {
+      "id": "bihar-legislative-assembly",
+      "name": {
+        "en": "Bihar Legislative Assembly (Vidhan Sabha)",
+        "hi": "बिहार विधानसभा"
+      },
+      "category": {
+        "en": "Lower House of State Legislature",
+        "hi": "राज्य विधानमंडल का निचला सदन"
+      },
+      "constitutionalArticles": "Articles 170 to 174 of the Constitution of India",
+      "asOf": "2024-01-01",
+      "totalSeats": 243,
+      "seatReservation": {
+        "general": 203,
+        "scheduledCastes": {
+          "count": 38,
+          "details": {
+            "en": "38 constituencies reserved for Scheduled Castes (SC)",
+            "hi": "अनुसूचित जातियों (SC) के लिए 38 निर्वाचन क्षेत्र आरक्षित"
+          }
+        },
+        "scheduledTribes": {
+          "count": 2,
+          "details": {
+            "en": "2 constituencies reserved for Scheduled Tribes (ST): Manihari (Katihar district) and Katoria (Banka district)",
+            "hi": "अनुसूचित जनजातियों (ST) के लिए 2 निर्वाचन क्षेत्र आरक्षित: मनिहारी (कटिहार जिला) और कटोरिया (बांका जिला)"
+          }
+        }
+      },
+      "tenure": {
+        "en": "5 years from date appointed for its first meeting, unless dissolved earlier by the Governor",
+        "hi": "अपनी पहली बैठक की नियत तारीख से 5 वर्ष, जब तक कि राज्यपाल द्वारा पहले भंग न कर दिया जाए"
+      },
+      "minimumAgeForElection": "25 years",
+      "location": {
+        "en": "Bihar Vidhan Sabha Complex, Patna",
+        "hi": "बिहार विधानसभा परिसर, पटना"
+      },
+      "historicalFirsts": {
+        "firstSpeaker": {
+          "name": "Bindeshwari Prasad Verma",
+          "term": "1946 - 1962 (held office for 16 consecutive years)",
+          "legacy": {
+            "en": "First Speaker of Bihar Legislative Assembly post-independence",
+            "hi": "स्वतंत्रता के बाद बिहार विधानसभा के पहले अध्यक्ष"
+          }
+        }
+      },
+      "constitutionalPowers": {
+        "en": [
+          "Sole authority to originate Money Bills (Article 198); the Legislative Council can only delay for 14 days",
+          "Decides the survival of the Council of Ministers through Vote of Confidence or No-Confidence Motions",
+          "Elects members of the Rajya Sabha from Bihar and participates in the election of the President of India"
+        ],
+        "hi": [
+          "धन विधेयक पेश करने का एकमात्र अधिकार (अनुच्छेद 198); विधान परिषद केवल 14 दिनों के लिए विलंब कर सकती है",
+          "विश्वास मत या अविश्वास प्रस्ताव के माध्यम से मंत्रिपरिषद के अस्तित्व का फैसला करती है",
+          "बिहार से राज्यसभा सदस्यों का चुनाव करती है और भारत के राष्ट्रपति के चुनाव में भाग लेती है"
+        ]
+      },
+      "description": {
+        "en": "### The House of the People\nThe Bihar Legislative Assembly (Vidhan Sabha) is the directly elected lower house of Bihar's bicameral legislature. Serving as the primary seat of democratic power, it embodies popular sovereignty and reflects the immediate political will of the state's citizens.\n\n### Electoral Composition\nComposed of 243 members elected through first-past-the-post universal adult suffrage, the house ensures representation across diverse communities:\n* **SC Reservation:** 38 constituencies are strictly reserved for Scheduled Caste candidates.\n* **ST Reservation:** 2 constituencies (Manihari and Katoria) are reserved for Scheduled Tribe candidates.\n\n### Core Legislative Power\nThe Vidhan Sabha holds supreme authority over state finances; it possesses the sole constitutional right to originate Money Bills and ultimately determines the survival of the Chief Minister's government through confidence motions.",
+        "hi": "### जनता का सदन\nबिहार विधानसभा (विधान सभा) बिहार के द्विसदनीय विधानमंडल का प्रत्यक्ष रूप से निर्वाचित निचला सदन है। लोकतांत्रिक सत्ता की प्राथमिक सीट के रूप में कार्य करते हुए, यह जन संप्रभुता का प्रतीक है और राज्य के नागरिकों की तत्काल राजनीतिक इच्छाशक्ति को दर्शाता है।\n\n### चुनावी संरचना\nफर्स्ट-पास्ट-द-पोस्ट (सर्वाधिक मत प्राप्त करने वाले की जीत) सार्वभौमिक वयस्क मताधिकार के माध्यम से चुने गए 243 सदस्यों से मिलकर, सदन विविध समुदायों का प्रतिनिधित्व सुनिश्चित करता है:\n* **SC आरक्षण:** 38 निर्वाचन क्षेत्र अनुसूचित जाति के उम्मीदवारों के लिए सख्ती से आरक्षित हैं।\n* **ST आरक्षण:** 2 निर्वाचन क्षेत्र (मनिहारी और कटोरिया) अनुसूचित जनजाति के उम्मीदवारों के लिए आरक्षित हैं।\n\n### मुख्य विधायी शक्ति\nविधानसभा का राज्य के वित्त पर सर्वोच्च अधिकार है; इसके पास धन विधेयक पेश करने का एकमात्र संवैधानिक अधिकार है और अंततः विश्वास मतों के माध्यम से मुख्यमंत्री की सरकार के अस्तित्व का निर्धारण करती है।"
+      },
+      "bpscRelevance": {
+        "en": "Essential BPSC questions: Total seats (243), reserved seats breakdown (38 SC, 2 ST), specific names of the 2 ST constituencies (Manihari and Katoria), and first Speaker (Bindeshwari Prasad Verma).",
+        "hi": "अत्यंत महत्वपूर्ण BPSC प्रश्न: कुल सीटें (243), आरक्षित सीटों का विवरण (38 SC, 2 ST), 2 ST निर्वाचन क्षेत्रों के विशिष्ट नाम (मनिहारी और कटोरिया), और पहले अध्यक्ष (बिंदेश्वरी प्रसाद वर्मा)।"
+      }
+    },
+    {
+      "id": "bihar-legislative-council",
+      "name": {
+        "en": "Bihar Legislative Council (Vidhan Parishad)",
+        "hi": "बिहार विधान परिषद"
+      },
+      "category": {
+        "en": "Upper House of State Legislature",
+        "hi": "राज्य विधानमंडल का उच्च सदन"
+      },
+      "constitutionalArticles": "Articles 171 and 172 of the Constitution of India",
+      "asOf": "2024-01-01",
+      "totalSeats": 75,
+      "compositionFormula": {
+        "electedByMLAs": {
+          "count": 27,
+          "share": "1/3 of total members elected by MLAs of Bihar Legislative Assembly"
+        },
+        "electedByLocalAuthorities": {
+          "count": 24,
+          "share": "1/3 (approx 24 members) elected by Local Bodies (Municipalities, Zilla Parishads, Panchayat Samitis)"
+        },
+        "nominatedByGovernor": {
+          "count": 12,
+          "share": "1/6 of members nominated by the Governor having special knowledge in literature, science, art, cooperative movement, and social service"
+        },
+        "electedByGraduates": {
+          "count": 6,
+          "share": "1/12 of members elected by registered graduates of at least 3 years standing"
+        },
+        "electedByTeachers": {
+          "count": 6,
+          "share": "1/12 of members elected by secondary school and higher educational teachers"
+        }
+      },
+      "tenure": {
+        "en": "Permanent body, not subject to dissolution; members serve 6-year terms with one-third retiring every 2 years",
+        "hi": "स्थायी सदन, विघटन के अधीन नहीं; सदस्य 6 वर्ष की अवधि के लिए कार्य करते हैं और एक तिहाई सदस्य प्रत्येक 2 वर्ष में सेवानिवृत्त होते हैं"
+      },
+      "minimumAgeForElection": "30 years",
+      "historicalFirsts": {
+        "firstChairman": {
+          "name": "Sir Walter Maude (colonial period) / Shri Rajiv Ranjan Prasad Singh (post-independence)",
+          "legacy": {
+            "en": "Presided over the Upper Chamber",
+            "hi": "उच्च सदन की अध्यक्षता की"
+          }
+        }
+      },
+      "description": {
+        "en": "### The Chamber of Reflection\nThe Bihar Legislative Council (Vidhan Parishad) is the permanent upper revising chamber of the state legislature, comprising 75 seats. Unlike the lower house, it is not subject to dissolution, providing crucial institutional continuity.\n\n### A Unique Electoral Matrix\nUnder Article 171, its composition is specifically engineered to ensure diverse, expert representation rather than direct popular mandate:\n* **Indirect Elections:** Members are intricately elected by MLAs, Local Bodies (Municipalities/Panchayats), registered Graduates, and School Teachers.\n* **Gubernatorial Nominees:** The Governor directly nominates members possessing special knowledge in literature, science, art, cooperative movement, and social service.\n\n### Legislative Role\nWhile it cannot veto Money Bills or bring down a government, the Council acts as a vital advisory body, ensuring deep expert deliberation and preventing hasty, populist legislation.",
+        "hi": "### विचार-विमर्श का सदन\nबिहार विधान परिषद 75 सीटों वाला राज्य विधानमंडल का स्थायी उच्च पुनरीक्षण सदन है। निचले सदन के विपरीत, यह विघटन के अधीन नहीं है, जो महत्वपूर्ण संस्थागत निरंतरता प्रदान करता है।\n\n### एक अनूठा चुनावी मैट्रिक्स\nअनुच्छेद 171 के तहत, इसकी संरचना विशेष रूप से प्रत्यक्ष लोकप्रिय जनादेश के बजाय विविध, विशेषज्ञ प्रतिनिधित्व सुनिश्चित करने के लिए डिज़ाइन की गई है:\n* **अप्रत्यक्ष चुनाव:** सदस्यों को विधायकों, स्थानीय निकायों (नगर पालिकाओं/पंचायतों), पंजीकृत स्नातकों और स्कूल शिक्षकों द्वारा जटिल रूप से चुना जाता है।\n* **राज्यपाल के नामित सदस्य:** राज्यपाल सीधे उन सदस्यों को नामित करते हैं जिन्हें साहित्य, विज्ञान, कला, सहकारी आंदोलन और समाज सेवा में विशेष ज्ञान होता है।\n\n### विधायी भूमिका\nयद्यपि यह धन विधेयकों को वीटो नहीं कर सकता या सरकार को नहीं गिरा सकता, परिषद एक महत्वपूर्ण सलाहकार निकाय के रूप में कार्य करती है, जो गहन विशेषज्ञ विचार-विमर्श सुनिश्चित करती है और जल्दबाजी में, लोकलुभावन कानून को रोकती है।"
+      },
+      "bpscRelevance": {
+        "en": "Repeatedly asked: Total seats (75), breakdown of 5 election/nomination streams under Article 171, minimum age (30 years), and term of members (6 years with 1/3 retiring biennially).",
+        "hi": "बार-बार पूछा जाता है: कुल सीटें (75), अनुच्छेद 171 के तहत 5 निर्वाचन/नामांकन धाराओं का विवरण, न्यूनतम आयु (30 वर्ष), और सदस्यों का कार्यकाल (6 वर्ष, 1/3 सदस्य प्रति दो वर्ष सेवानिवृत्त)।"
+      }
+    },
+    {
+      "id": "centenary-and-legislative-history",
+      "name": {
+        "en": "Centenary & Heritage of Bihar Legislature",
+        "hi": "बिहार विधानमंडल का शताब्दी समारोह एवं ऐतिहासिक विरासत"
+      },
+      "category": {
+        "en": "Legislative Heritage & Architecture",
+        "hi": "विधायी विरासत एवं स्थापत्य"
+      },
+      "keyHistoricalDates": [
+        {
+          "date": "1913-01-20",
+          "milestone": {
+            "en": "First historic session of the Bihar and Orissa Legislative Council convened at Patna College Seminar Hall, Bankipore",
+            "hi": "बांकीपुर स्थित पटना कॉलेज सेमिनार हॉल में बिहार और उड़ीसा विधान परिषद का पहला ऐतिहासिक सत्र आयोजित हुआ"
+          }
+        },
+        {
+          "date": "1920-02-07",
+          "milestone": {
+            "en": "Foundation of the iconic Bihar Legislative Assembly Building laid; building designed in Italian Renaissance style by architect A. M. Millwood",
+            "hi": "प्रतिष्ठित बिहार विधानसभा भवन की आधारशिला रखी गई; वास्तुकार ए. एम. मिलवुड द्वारा इतालवी पुनर्जागरण शैली में डिज़ाइन किया गया"
+          }
+        },
+        {
+          "date": "1937-07-22",
+          "milestone": {
+            "en": "First session of the independent Bihar Legislative Assembly held under the Government of India Act 1935",
+            "hi": "भारत सरकार अधिनियम 1935 के तहत स्वतंत्र बिहार विधानसभा का पहला सत्र आयोजित हुआ"
+          }
+        },
+        {
+          "date": "2021 - 2022",
+          "milestone": {
+            "en": "Centenary celebrations of the Bihar Legislative Assembly Building (1921-2021); Shatabdi Smriti Stambh (Centenary Memorial Pillar) inaugurated",
+            "hi": "बिहार विधानसभा भवन का शताब्दी समारोह (1921-2021); 'शताब्दी स्मृति स्तंभ' का भव्य उद्घाटन"
+          }
+        }
+      ],
+      "centenaryMemorialPillar": {
+        "height": "40 feet tall (25 feet stone base + 15 feet bronze Bodhi Tree)",
+        "design": {
+          "en": "Carved from Chunar red sandstone, crowned with a 15-foot bronze Bodhi Tree featuring 318 leaves representing 243 MLAs and 75 MLCs, with 38 branches symbolizing Bihar's 38 districts",
+          "hi": "चुनार के लाल बलुआ पत्थर से तराशा गया, शीर्ष पर 15 फीट का कांस्य बोधि वृक्ष जिसमें 243 विधायकों और 75 विधान पार्षदों का प्रतिनिधित्व करने वाले 318 पत्ते हैं, और बिहार के 38 जिलों का प्रतीक 38 शाखाएं हैं"
+        }
+      },
+      "description": {
+        "en": "### A Century of Democracy\nThe Bihar Legislature possesses one of the richest and most historic parliamentary heritages in modern India. Meeting initially at Bankipore in 1913, the legislature eventually moved to its current stately, Italian Renaissance-style heritage complex in 1921.\n\n### Architectural Grandeur\nDesigned by renowned architect A. M. Millwood, the Vidhan Sabha building stands as a testament to colonial-era architectural brilliance fused with democratic aspirations.\n\n### The Shatabdi Smriti Stambh\nTo commemorate 100 years of this historic building, Prime Minister Narendra Modi unveiled the 'Shatabdi Smriti Stambh' (Centenary Memorial Pillar) in July 2022. Crowned with a bronze Bodhi Tree, its 318 leaves artistically immortalize the 243 MLAs and 75 MLCs of the state, with 38 branches symbolizing Bihar's 38 districts.",
+        "hi": "### लोकतंत्र की एक सदी\nबिहार विधानमंडल के पास आधुनिक भारत में सबसे समृद्ध और ऐतिहासिक संसदीय विरासतों में से एक है। 1913 में प्रारंभ में बांकीपुर में बैठक करने के बाद, विधानमंडल अंततः 1921 में अपने वर्तमान भव्य, इतालवी पुनर्जागरण-शैली के विरासत परिसर में चला गया।\n\n### स्थापत्य भव्यता\nप्रसिद्ध वास्तुकार ए. एम. मिलवुड द्वारा डिजाइन किया गया, विधानसभा भवन औपनिवेशिक काल की स्थापत्य प्रतिभा और लोकतांत्रिक आकांक्षाओं के संलयन के प्रमाण के रूप में खड़ा है।\n\n### शताब्दी स्मृति स्तंभ\nइस ऐतिहासिक इमारत के 100 वर्ष पूरे होने के उपलक्ष्य में, प्रधान मंत्री नरेंद्र मोदी ने जुलाई 2022 में 'शताब्दी स्मृति स्तंभ' का अनावरण किया। कांस्य बोधि वृक्ष से सजे, इसके 318 पत्ते कलात्मक रूप से राज्य के 243 विधायकों और 75 विधान पार्षदों को अमर करते हैं, जिसकी 38 शाखाएं बिहार के 38 जिलों का प्रतीक हैं।"
+      },
+      "bpscRelevance": {
+        "en": "Current and static BPSC relevance: Architect of Assembly building (A. M. Millwood), date of first meeting (20 Jan 1913), symbolism of Centenary Pillar (318 leaves, 38 branches, Bodhi tree motif).",
+        "hi": "समसामयिकी और सामान्य अध्ययन में महत्वपूर्ण: विधानसभा भवन के वास्तुकार (ए. एम. मिलवुड), पहली बैठक की तिथि (20 जनवरी 1913), शताब्दी स्तंभ की प्रतीकात्मकता (318 पत्ते, 38 शाखाएं, बोधि वृक्ष आकृति)।"
+      }
+    },
+    {
+      "id": "parliamentary-representation-lok-sabha",
+      "name": {
+        "en": "Parliamentary Representation: Lok Sabha",
+        "hi": "संसदीय प्रतिनिधित्व: लोकसभा"
+      },
+      "category": {
+        "en": "Federal Representation",
+        "hi": "संघीय प्रतिनिधित्व"
+      },
+      "asOf": "2024-01-01",
+      "totalSeatsAllocated": 40,
+      "nationalRank": "4th largest representation in Lok Sabha (behind UP 80, Maharashtra 48, West Bengal 42)",
+      "reservedSeats": {
+        "scheduledCastes": {
+          "count": 6,
+          "constituencies": [
+            "Gopalganj",
+            "Hajipur",
+            "Samastipur",
+            "Sasaram",
+            "Gaya",
+            "Jamui"
+          ]
+        },
+        "scheduledTribes": {
+          "count": 0,
+          "note": {
+            "en": "No Lok Sabha seat in Bihar is reserved for Scheduled Tribes since tribal-majority constituencies were transferred to Jharkhand in 2000",
+            "hi": "2000 में आदिवासी बहुल निर्वाचन क्षेत्रों के झारखंड में चले जाने के बाद से बिहार में कोई भी लोकसभा सीट अनुसूचित जनजाति के लिए आरक्षित नहीं है"
+          }
+        }
+      },
+      "description": {
+        "en": "### A Political Heavyweight\nBihar exercises massive influence over federal politics, sending 40 Members of Parliament (MPs) to the Lok Sabha (House of the People). This constitutes the fourth largest parliamentary delegation in India (behind UP, Maharashtra, and West Bengal).\n\n### Electoral Dynamics\n* **Reserved Constituencies:** To ensure adequate representation of marginalized communities, 6 of these 40 constituencies (Gopalganj, Hajipur, Samastipur, Sasaram, Gaya, and Jamui) are strictly reserved for Scheduled Castes (SC).\n* **ST Status:** Following the 2000 bifurcation that transferred tribal-majority regions to Jharkhand, no Lok Sabha seats in Bihar are currently reserved for Scheduled Tribes.\n\n### National Impact\nGiven its sheer electoral size and complex demographics, Bihar's electoral mandate has historically acted as a 'kingmaker', frequently determining the formation of national coalition governments in New Delhi.",
+        "hi": "### एक राजनीतिक हैवीवेट\nबिहार संघीय राजनीति पर व्यापक प्रभाव डालता है, जो लोकसभा (जनता का सदन) में 40 संसद सदस्यों (सांसदों) को भेजता है। यह भारत में चौथा सबसे बड़ा संसदीय प्रतिनिधिमंडल है (यूपी, महाराष्ट्र और पश्चिम बंगाल के बाद)।\n\n### चुनावी गतिशीलता\n* **आरक्षित निर्वाचन क्षेत्र:** हाशिए के समुदायों का पर्याप्त प्रतिनिधित्व सुनिश्चित करने के लिए, इन 40 निर्वाचन क्षेत्रों में से 6 (गोपालगंज, हाजीपुर, समस्तीपुर, सासाराम, गया और जमुई) सख्ती से अनुसूचित जाति (SC) के लिए आरक्षित हैं।\n* **ST स्थिति:** 2000 के विभाजन के बाद, जिसमें आदिवासी बहुल क्षेत्रों को झारखंड में स्थानांतरित कर दिया गया था, वर्तमान में बिहार में कोई भी लोकसभा सीट अनुसूचित जनजाति के लिए आरक्षित नहीं है।\n\n### राष्ट्रीय प्रभाव\nअपने विशाल चुनावी आकार और जटिल जनसांख्यिकी को देखते हुए, बिहार के चुनावी जनादेश ने ऐतिहासिक रूप से एक 'किंगमेकर' के रूप में काम किया है, जो अक्सर नई दिल्ली में राष्ट्रीय गठबंधन सरकारों के गठन का निर्धारण करता है।"
+      },
+      "bpscRelevance": {
+        "en": "Permanent BPSC question: Total Lok Sabha seats (40), number of SC reserved seats (6), exact names of the 6 reserved constituencies, and ST reservation count (0).",
+        "hi": "स्थायी BPSC प्रश्न: कुल लोकसभा सीटें (40), SC आरक्षित सीटों की संख्या (6), 6 आरक्षित निर्वाचन क्षेत्रों के सटीक नाम, और ST आरक्षण संख्या (0)।"
+      }
+    },
+    {
+      "id": "parliamentary-representation-rajya-sabha",
+      "name": {
+        "en": "Parliamentary Representation: Rajya Sabha",
+        "hi": "संसदीय प्रतिनिधित्व: राज्यसभा"
+      },
+      "category": {
+        "en": "Federal Representation",
+        "hi": "संघीय प्रतिनिधित्व"
+      },
+      "asOf": "2024-01-01",
+      "totalSeatsAllocated": 16,
+      "electionMechanism": {
+        "en": "Elected by elected members of the Bihar Legislative Assembly (MLAs) using proportional representation by means of single transferable vote (STV)",
+        "hi": "बिहार विधानसभा के निर्वाचित सदस्यों (विधायकों) द्वारा एकल संक्रमणीय मत (STV) के माध्यम से आनुपातिक प्रतिनिधित्व द्वारा निर्वाचित"
+      },
+      "tenure": "6-year staggered terms, one-third of seats up for election every two years",
+      "description": {
+        "en": "### Federal Voice\nAs specified in the Fourth Schedule of the Constitution, Bihar is allocated 16 critical seats in the Rajya Sabha (Council of States), the upper house of India's bicameral Parliament.\n\n### The Electoral Process\nThese MPs are not directly elected by the public. Instead, they are elected by the elected members of the Bihar Legislative Assembly (MLAs) using a complex system of proportional representation by means of a single transferable vote (STV).\n\n### Strategic Importance\nRajya Sabha MPs from Bihar serve 6-year staggered terms and act as the state's collective voice in New Delhi. They are vital in scrutinizing federal legislation, participating in constitutional amendment debates, and safeguarding state interests against central overreach.",
+        "hi": "### संघीय आवाज़\nसंविधान की चौथी अनुसूची में निर्दिष्ट अनुसार, बिहार को भारत की द्विसदनीय संसद के उच्च सदन राज्यसभा (राज्यों की परिषद) में 16 महत्वपूर्ण सीटें आवंटित की गई हैं।\n\n### चुनावी प्रक्रिया\nइन सांसदों को सीधे जनता द्वारा नहीं चुना जाता है। इसके बजाय, उन्हें एकल संक्रमणीय मत (STV) के माध्यम से आनुपातिक प्रतिनिधित्व की एक जटिल प्रणाली का उपयोग करके बिहार विधानसभा के निर्वाचित सदस्यों (विधायकों) द्वारा चुना जाता है।\n\n### रणनीतिक महत्व\nबिहार के राज्यसभा सांसद 6 साल के कार्यकाल की सेवा करते हैं और नई दिल्ली में राज्य की सामूहिक आवाज के रूप में कार्य करते हैं। वे संघीय कानून की जांच करने, संवैधानिक संशोधन बहसों में भाग लेने और केंद्रीय अतिरेक के खिलाफ राज्य के हितों की रक्षा करने में महत्वपूर्ण हैं।"
+      },
+      "bpscRelevance": {
+        "en": "Direct factual question: Total Rajya Sabha seats from Bihar (16) and constitutional schedule governing seat allocation (Fourth Schedule).",
+        "hi": "सीधा तथ्यात्मक प्रश्न: बिहार से कुल राज्यसभा सीटें (16) और सीट आवंटन को नियंत्रित करने वाली संवैधानिक अनुसूची (चौथी अनुसूची)।"
+      }
+    },
+    {
+      "id": "landmark-legislative-enactments",
+      "name": {
+        "en": "Landmark Enactments of the Bihar Legislature",
+        "hi": "बिहार विधानमंडल के ऐतिहासिक कानून"
+      },
+      "category": {
+        "en": "Socio-Economic Legislation",
+        "hi": "सामाजिक-आर्थिक कानून"
+      },
+      "landmarkActs": [
+        {
+          "actName": {
+            "en": "Bihar Land Reforms Act, 1950",
+            "hi": "बिहार भूमि सुधार अधिनियम, 1950"
+          },
+          "significance": {
+            "en": "First state in independent India to abolish the feudal Zamindari system, initiating land redistribution to tenant cultivators",
+            "hi": "स्वतंत्र भारत में सामंती जमींदारी व्यवस्था को समाप्त करने वाला पहला राज्य, जिसने काश्तकारों को भूमि पुनर्वितरण की शुरुआत की"
+          }
+        },
+        {
+          "actName": {
+            "en": "Bihar Panchayati Raj Act, 2006",
+            "hi": "बिहार पंचायती राज अधिनियम, 2006"
+          },
+          "significance": {
+            "en": "First state in India to grant 50% statutory reservation to women in Panchayati Raj Institutions (PRIs) and Urban Local Bodies",
+            "hi": "पंचायती राज संस्थाओं (PRIs) और शहरी स्थानीय निकायों में महिलाओं को 50% वैधानिक आरक्षण देने वाला भारत का पहला राज्य"
+          }
+        },
+        {
+          "actName": {
+            "en": "Bihar Prohibition and Excise Act, 2016",
+            "hi": "बिहार मद्यनिषेध और उत्पाद अधिनियम, 2016"
+          },
+          "significance": {
+            "en": "Enacted total prohibition on manufacture, bottling, distribution, transportation, sale, and consumption of alcohol across Bihar (effective 5 April 2016)",
+            "hi": "पूरे बिहार में शराब के निर्माण, बॉटलिंग, वितरण, परिवहन, बिक्री और उपभोग पर पूर्ण प्रतिबंध लागू किया (5 अप्रैल 2016 से प्रभावी)"
+          }
+        },
+        {
+          "actName": {
+            "en": "Bihar Reservation Amendment Act, 2023",
+            "hi": "बिहार आरक्षण संशोधन अधिनियम, 2023"
+          },
+          "significance": {
+            "en": "Following the historic Bihar Caste-based Survey (Jaati Ganana), raised state institutional quota for SC, ST, EBC, and OBC to 65% (plus 10% EWS = 75% total)",
+            "hi": "ऐतिहासिक बिहार जाति-आधारित गणना के बाद, SC, ST, EBC और OBC के लिए राज्य संस्थागत कोटे को बढ़ाकर 65% किया (प्लस 10% EWS = कुल 75%)"
+          }
+        }
+      ],
+      "description": {
+        "en": "### An Incubator of Social Reform\nThe Bihar Legislature has historically served as a bold incubator for pioneering, progressive social legislation that has fundamentally reshaped both the state and the nation.\n\n### Historic Milestones\n* **Zamindari Abolition (1950):** It became the first legislature in independent India to pass the Zamindari Abolition Act, forcing the First Constitutional Amendment (1951) to protect land reforms.\n* **Women's Empowerment (2006):** Bihar stunned the nation by becoming the first state to grant a massive 50% statutory reservation to women in Panchayati Raj Institutions.\n* **Social Engineering:** The historic 2016 Total Prohibition Act and the recent 2023 Reservation Amendment Act (which aggressively raised state institutional quotas to 75% post the caste census) further underscore its radical approach to socio-economic engineering.",
+        "hi": "### सामाजिक सुधार का इनक्यूबेटर\nबिहार विधानमंडल ने ऐतिहासिक रूप से अग्रणी, प्रगतिशील सामाजिक कानून के लिए एक साहसिक इनक्यूबेटर के रूप में कार्य किया है, जिसने राज्य और राष्ट्र दोनों को मौलिक रूप से नया आकार दिया है।\n\n### ऐतिहासिक मील के पत्थर\n* **जमींदारी उन्मूलन (1950):** यह स्वतंत्र भारत में जमींदारी उन्मूलन अधिनियम पारित करने वाला पहला विधानमंडल बन गया, जिसने भूमि सुधारों की रक्षा के लिए पहले संविधान संशोधन (1951) को मजबूर किया।\n* **महिला सशक्तिकरण (2006):** बिहार ने पंचायती राज संस्थाओं में महिलाओं को 50% वैधानिक आरक्षण देने वाला पहला राज्य बनकर देश को चौंका दिया।\n* **सोशल इंजीनियरिंग:** ऐतिहासिक 2016 का पूर्ण शराबबंदी अधिनियम और हाल ही का 2023 का आरक्षण संशोधन अधिनियम (जिसने जातिगत जनगणना के बाद राज्य संस्थागत कोटे को आक्रामक रूप से 75% तक बढ़ा दिया) सामाजिक-आर्थिक इंजीनियरिंग के प्रति इसके कट्टरपंथी दृष्टिकोण को और रेखांकित करते हैं।"
+      },
+      "bpscRelevance": {
+        "en": "High weightage in BPSC Polity: 1950 Land Reforms Act leading to 1st Constitutional Amendment (Article 31A/31B), 2006 Panchayati Raj 50% women reservation, and Prohibition Act implementation date (5 April 2016).",
+        "hi": "BPSC राजव्यवस्था में उच्च अंक भार: 1950 का भूमि सुधार अधिनियम जिसके कारण पहला संविधान संशोधन (अनुच्छेद 31A/31B) हुआ, 2006 पंचायती राज में 50% महिला आरक्षण, और शराबबंदी अधिनियम लागू होने की तिथि (5 अप्रैल 2016)।"
+      }
+    }
+  ]
+}

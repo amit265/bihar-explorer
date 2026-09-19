@@ -1,0 +1,395 @@
+{
+  "primaryCategories": [
+    {
+      "id": "popular",
+      "name": {
+        "en": "Popular",
+        "hi": "लोकप्रिय"
+      }
+    },
+    {
+      "id": "religious",
+      "name": {
+        "en": "Religious",
+        "hi": "धार्मिक"
+      }
+    },
+    {
+      "id": "nature",
+      "name": {
+        "en": "Nature",
+        "hi": "प्रकृति"
+      }
+    },
+    {
+      "id": "history",
+      "name": {
+        "en": "History",
+        "hi": "इतिहास"
+      }
+    },
+    {
+      "id": "heritage",
+      "name": {
+        "en": "Heritage",
+        "hi": "विरासत"
+      }
+    },
+    {
+      "id": "archaeological",
+      "name": {
+        "en": "Archaeological",
+        "hi": "पुरातात्विक"
+      }
+    },
+    {
+      "id": "wildlife",
+      "name": {
+        "en": "Wildlife",
+        "hi": "वन्यजीव"
+      }
+    },
+    {
+      "id": "cultural",
+      "name": {
+        "en": "Cultural",
+        "hi": "सांस्कृतिक"
+      }
+    },
+    {
+      "id": "adventure",
+      "name": {
+        "en": "Adventure",
+        "hi": "साहसिक"
+      }
+    },
+    {
+      "id": "educational",
+      "name": {
+        "en": "Educational",
+        "hi": "शैक्षिक"
+      }
+    },
+    {
+      "id": "architectural",
+      "name": {
+        "en": "Architecture",
+        "hi": "वास्तुकला"
+      }
+    },
+    {
+      "id": "scenic",
+      "name": {
+        "en": "Scenic",
+        "hi": "दृश्यात्मक"
+      }
+    },
+    {
+      "id": "spiritual",
+      "name": {
+        "en": "Spiritual",
+        "hi": "आध्यात्मिक"
+      }
+    },
+    {
+      "id": "food",
+      "name": {
+        "en": "Food",
+        "hi": "खानपान"
+      }
+    },
+    {
+      "id": "art-craft",
+      "name": {
+        "en": "Art & Craft",
+        "hi": "कला एवं शिल्प"
+      }
+    }
+  ],
+  "placeTypes": [
+    "temple",
+    "mosque",
+    "dargah",
+    "gurudwara",
+    "church",
+    "monastery",
+    "stupa",
+    "archaeological_site",
+    "museum",
+    "fort",
+    "palace",
+    "house",
+    "ashram",
+    "memorial",
+    "library",
+    "university",
+    "cave",
+    "hill",
+    "waterfall",
+    "lake",
+    "riverfront",
+    "dam",
+    "wildlife_reserve",
+    "national_park",
+    "zoo",
+    "forest",
+    "garden",
+    "viewpoint",
+    "bridge",
+    "market",
+    "food_destination",
+    "art_craft_destination",
+    "festival_site",
+    "village",
+    "other"
+  ],
+  "religions": [
+    {
+      "id": "hinduism",
+      "name": {
+        "en": "Hinduism",
+        "hi": "हिंदू धर्म"
+      }
+    },
+    {
+      "id": "buddhism",
+      "name": {
+        "en": "Buddhism",
+        "hi": "बौद्ध धर्म"
+      }
+    },
+    {
+      "id": "jainism",
+      "name": {
+        "en": "Jainism",
+        "hi": "जैन धर्म"
+      }
+    },
+    {
+      "id": "sikhism",
+      "name": {
+        "en": "Sikhism",
+        "hi": "सिख धर्म"
+      }
+    },
+    {
+      "id": "islam_sufi",
+      "name": {
+        "en": "Islam / Sufi",
+        "hi": "इस्लाम / सूफी"
+      }
+    },
+    {
+      "id": "christianity",
+      "name": {
+        "en": "Christianity",
+        "hi": "ईसाई धर्म"
+      }
+    },
+    {
+      "id": "multi_faith",
+      "name": {
+        "en": "Multi-faith",
+        "hi": "बहु-धार्मिक"
+      }
+    }
+  ],
+  "discoveryTags": [
+    "popular",
+    "featured",
+    "hidden_gem",
+    "offbeat",
+    "weekend_trip",
+    "family_friendly",
+    "photography",
+    "sunrise",
+    "sunset",
+    "monsoon",
+    "winter",
+    "festival",
+    "pilgrimage",
+    "history_lovers",
+    "students",
+    "nature_lovers",
+    "adventure",
+    "peaceful",
+    "near_city",
+    "free_entry"
+  ],
+  "audiences": [
+    "families",
+    "children",
+    "elderly",
+    "students",
+    "pilgrimage",
+    "history_lovers",
+    "nature_lovers",
+    "photography",
+    "adventure",
+    "international_travelers",
+    "weekend_travelers",
+    "food_lovers"
+  ],
+  "circuits": [
+    {
+      "id": "buddhist-circuit",
+      "name": {
+        "en": "Buddhist Circuit",
+        "hi": "बौद्ध सर्किट"
+      }
+    },
+    {
+      "id": "jain-circuit",
+      "name": {
+        "en": "Jain Circuit",
+        "hi": "जैन सर्किट"
+      }
+    },
+    {
+      "id": "hindu-circuit",
+      "name": {
+        "en": "Hindu Circuit",
+        "hi": "हिंदू सर्किट"
+      }
+    },
+    {
+      "id": "sikh-circuit",
+      "name": {
+        "en": "Sikh Circuit",
+        "hi": "सिख सर्किट"
+      }
+    },
+    {
+      "id": "sufi-circuit",
+      "name": {
+        "en": "Sufi Circuit",
+        "hi": "सूफी सर्किट"
+      }
+    },
+    {
+      "id": "ramayan-circuit",
+      "name": {
+        "en": "Ramayan Circuit",
+        "hi": "रामायण सर्किट"
+      }
+    },
+    {
+      "id": "eco-circuit",
+      "name": {
+        "en": "Eco Circuit",
+        "hi": "इको सर्किट"
+      }
+    },
+    {
+      "id": "gandhi-circuit",
+      "name": {
+        "en": "Gandhi Circuit",
+        "hi": "गांधी सर्किट"
+      }
+    },
+    {
+      "id": "heritage-circuit",
+      "name": {
+        "en": "Heritage Circuit",
+        "hi": "हेरिटेज सर्किट"
+      }
+    }
+  ],
+  "experiences": [
+    {
+      "id": "heritage",
+      "name": {
+        "en": "Heritage",
+        "hi": "विरासत"
+      }
+    },
+    {
+      "id": "spiritual",
+      "name": {
+        "en": "Spiritual Journeys",
+        "hi": "आध्यात्मिक यात्रा"
+      }
+    },
+    {
+      "id": "nature",
+      "name": {
+        "en": "Nature",
+        "hi": "प्रकृति"
+      }
+    },
+    {
+      "id": "wildlife",
+      "name": {
+        "en": "Wildlife",
+        "hi": "वन्यजीव"
+      }
+    },
+    {
+      "id": "culture",
+      "name": {
+        "en": "Culture",
+        "hi": "संस्कृति"
+      }
+    },
+    {
+      "id": "food",
+      "name": {
+        "en": "Local Flavors",
+        "hi": "स्थानीय स्वाद"
+      }
+    },
+    {
+      "id": "art",
+      "name": {
+        "en": "Art & Craft",
+        "hi": "कला एवं शिल्प"
+      }
+    },
+    {
+      "id": "adventure",
+      "name": {
+        "en": "Adventure",
+        "hi": "साहसिक यात्रा"
+      }
+    }
+  ],
+  "subcategories": [
+    "hindu",
+    "buddhist",
+    "jain",
+    "sikh",
+    "islamic",
+    "sufi",
+    "christian",
+    "multi_faith",
+    "shiva_temple",
+    "shakti_temple",
+    "pilgrimage",
+    "unesco_world_heritage",
+    "ancient_university",
+    "ruins",
+    "monument",
+    "fort",
+    "palace",
+    "colonial",
+    "ashokan",
+    "gandhian",
+    "museum",
+    "river",
+    "lake",
+    "waterfall",
+    "hill",
+    "forest",
+    "wildlife",
+    "tiger_reserve",
+    "birding",
+    "trekking",
+    "cave",
+    "scenic",
+    "photography",
+    "local_food",
+    "madhubani",
+    "silk",
+    "festival"
+  ]
+}

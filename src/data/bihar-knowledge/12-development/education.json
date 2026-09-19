@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": "literacy-profile-bihar",
+      "name": {
+        "en": "Bihar Literacy Profile & Trends",
+        "hi": "बिहार साक्षरता परिदृश्य एवं प्रवृत्तियाँ"
+      },
+      "category": "education-statistics",
+      "asOf": "2023-03-31",
+      "censusData": {
+        "censusYear": 2011,
+        "totalLiteracyRate": 61.8,
+        "maleLiteracyRate": 71.2,
+        "femaleLiteracyRate": 51.5,
+        "highestLiteracyDistrict": {
+          "districtId": "rohtas",
+          "rate": 73.37
+        },
+        "lowestLiteracyDistrict": {
+          "districtId": "purnia",
+          "rate": 51.08
+        },
+        "highestFemaleLiteracyDistrict": {
+          "districtId": "rohtas",
+          "rate": 62.97
+        },
+        "lowestFemaleLiteracyDistrict": {
+          "districtId": "saharsa",
+          "rate": 41.68
+        }
+      },
+      "description": {
+        "en": "### Literacy Growth & Trends\nAs per the 2011 Census, Bihar recorded a literacy rate of 61.80%, marking a substantial decadal leap of 14.8 percentage points from 47.00% in 2001. This represents one of the most rapid educational transformations in modern India.\n\n### Strategic Interventions\n* **Infrastructure Expansion:** The state has made massive investments in school infrastructure, ensuring elementary schools are available within a 1-km radius of almost all rural habitations.\n* **Incentive Schemes:** Extensive distribution of free textbooks, uniforms, and bicycle stipends has actively combated dropout rates.\n\n### Impact\nThese focused efforts have dramatically narrowed the gender gap in schooling and achieved near-universal primary school enrollment, laying a strong foundation for a knowledgeable future workforce.",
+        "hi": "### साक्षरता वृद्धि और प्रवृत्तियाँ\n2011 की जनगणना के अनुसार, बिहार में 61.80% की साक्षरता दर दर्ज की गई, जो 2001 के 47.00% की तुलना में 14.8 प्रतिशत अंकों की उल्लेखनीय दशकीय छलांग है। यह आधुनिक भारत में सबसे तेज़ शैक्षिक परिवर्तनों में से एक का प्रतिनिधित्व करता है।\n\n### रणनीतिक हस्तक्षेप\n* **बुनियादी ढांचे का विस्तार:** राज्य ने स्कूल के बुनियादी ढांचे में भारी निवेश किया है, जिससे यह सुनिश्चित हुआ है कि लगभग सभी ग्रामीण बस्तियों के 1 किमी के दायरे में प्राथमिक विद्यालय उपलब्ध हों।\n* **प्रोत्साहन योजनाएँ:** मुफ्त पाठ्यपुस्तकों, स्कूल यूनिफॉर्म और साइकिल भत्ते के व्यापक वितरण ने ड्रॉपआउट दरों से सक्रिय रूप से मुकाबला किया है।\n\n### प्रभाव\nइन केंद्रित प्रयासों ने स्कूली शिक्षा में लैंगिक अंतर को काफी कम कर दिया है और प्राथमिक विद्यालयों में लगभग शत-प्रतिशत नामांकन हासिल कर लिया है, जो भविष्य के जानकार कार्यबल के लिए एक मजबूत नींव तैयार करता है।"
+      }
+    },
+    {
+      "id": "mukhya-mantri-balak-balika-cycle-yojana",
+      "name": {
+        "en": "Mukhyamantri Balak/Balika Cycle Yojana",
+        "hi": "मुख्यमंत्री बालक/बालिका साइकिल योजना"
+      },
+      "category": "flagship-incentive-scheme",
+      "launchYear": 2006,
+      "asOf": "2024-01-01",
+      "description": {
+        "en": "### Scheme Overview\nThe Mukhyamantri Balak/Balika Cycle Yojana is a globally celebrated affirmative-action initiative. It provides direct financial assistance (presently Rs 3,000) directly into the bank accounts of every student enrolled in Class 9 in government secondary schools to purchase a bicycle.\n\n### Core Achievements\n* **Gender Equality:** Pioneered for girls in 2006 and extended to boys in 2010, the scheme triggered a dramatic 30% surge in female secondary school enrollment.\n* **Social Mobility:** It transformed rural mobility, allowing students to safely travel longer distances to secondary schools.\n\n### Global Impact\nRecognized by international bodies like the International Growth Centre, the scheme almost completely closed the gender gap in matriculation, delayed child marriages, and inspired similar policies across Indian states and several African nations.",
+        "hi": "### योजना का अवलोकन\nमुख्यमंत्री बालक/बालिका साइकिल योजना विश्व स्तर पर प्रशंसित एक सकारात्मक पहल है। इसके तहत सरकारी माध्यमिक विद्यालयों में कक्षा 9 में नामांकित प्रत्येक छात्र और छात्रा को साइकिल खरीदने के लिए सीधे उनके बैंक खाते में (वर्तमान में 3,000 रुपये) वित्तीय सहायता प्रदान की जाती है।\n\n### प्रमुख उपलब्धियां\n* **लैंगिक समानता:** 2006 में लड़कियों के लिए शुरू की गई और 2010 में लड़कों के लिए विस्तारित, इस योजना ने माध्यमिक विद्यालयों में छात्राओं के नामांकन में 30% की भारी वृद्धि की।\n* **सामाजिक गतिशीलता:** इसने ग्रामीण गतिशीलता को बदल दिया, जिससे छात्रों को माध्यमिक विद्यालयों तक लंबी दूरी तय करने में सुरक्षा और आसानी मिली।\n\n### वैश्विक प्रभाव\nइंटरनेशनल ग्रोथ सेंटर जैसी अंतरराष्ट्रीय संस्थाओं द्वारा मान्यता प्राप्त इस योजना ने मैट्रिक स्तर पर लैंगिक अंतर को लगभग समाप्त कर दिया, बाल विवाह को कम किया, और कई भारतीय राज्यों व अफ्रीकी देशों को इसी तरह की नीतियां बनाने के लिए प्रेरित किया।"
+      },
+      "impact": {
+        "en": "Transformed rural mobility, increased female retention, delayed child marriage, and inspired similar school bicycle schemes across multiple Indian states and African countries.",
+        "hi": "ग्रामीण बालिकाओं को गतिशीलता और आत्मविश्वास दिया, ड्रॉपआउट दरों में कमी आई और इसे भारत के अन्य राज्यों तथा कई अफ्रीकी देशों ने अपने यहाँ लागू किया।"
+      }
+    },
+    {
+      "id": "bihar-student-credit-card-scheme",
+      "name": {
+        "en": "Bihar Student Credit Card Scheme (BSCCS)",
+        "hi": "बिहार स्टूडेंट क्रेडिट कार्ड योजना"
+      },
+      "category": "higher-education-financing",
+      "launchYear": 2016,
+      "asOf": "2024-03-31",
+      "schemeComponent": "Saat Nischay-1 (Aarthik Hal Yuvaon Ko Bal)",
+      "description": {
+        "en": "### Scheme Overview\nThe Bihar Student Credit Card Scheme (BSCCS) is a transformative higher-education financing initiative launched in 2016 under the 'Saat Nischay' (Seven Resolves) program. It is designed to ensure that financial constraints do not hinder talented youth from pursuing higher education.\n\n### Key Features\n* **Collateral-Free Loans:** Provides state-guaranteed education loans up to Rs 4,00,000 for various professional courses like B.Tech, MBBS, BBA, and Polytechnics.\n* **Highly Subsidized Interest:** Offers an incredibly low interest rate of just 1% for female, transgender, and Divyang (differently-abled) students, and 4% for male students.\n\n### Impact\nManaged via a streamlined Single Window Clearance System, repayment only commences one year after course completion or gaining employment. This has significantly boosted the Gross Enrolment Ratio (GER) in higher education across the state.",
+        "hi": "### योजना का अवलोकन\nबिहार स्टूडेंट क्रेडिट कार्ड योजना (BSCCS) 'सात निश्चय' कार्यक्रम के तहत 2016 में शुरू की गई उच्च शिक्षा के वित्तपोषण की एक क्रांतिकारी पहल है। इसे यह सुनिश्चित करने के लिए डिज़ाइन किया गया है कि आर्थिक तंगी प्रतिभाशाली युवाओं को उच्च शिक्षा प्राप्त करने से न रोके।\n\n### मुख्य विशेषताएं\n* **गारंटी-मुक्त ऋण:** बी.टेक, एमबीबीएस, बीबीए और पॉलिटेक्निक जैसे विभिन्न व्यावसायिक पाठ्यक्रमों के लिए 4,00,000 रुपये तक का राज्य-गारंटीकृत शिक्षा ऋण प्रदान करता है।\n* **अत्यधिक रियायती ब्याज:** छात्राओं, ट्रांसजेंडर और दिव्यांग छात्रों के लिए मात्र 1% और छात्रों (लड़कों) के लिए 4% की अविश्वसनीय रूप से कम ब्याज दर प्रदान करता है।\n\n### प्रभाव\nएक सुव्यवस्थित सिंगल विंडो क्लीयरेंस सिस्टम के माध्यम से प्रबंधित, ऋण की अदायगी पाठ्यक्रम पूरा होने या रोजगार मिलने के एक वर्ष बाद ही शुरू होती है। इसने राज्य भर में उच्च शिक्षा में सकल नामांकन अनुपात (GER) को काफी बढ़ाया है।"
+      },
+      "maxLoanAmountINR": 400000
+    },
+    {
+      "id": "kushal-yuva-program-kyp",
+      "name": {
+        "en": "Kushal Yuva Program (KYP)",
+        "hi": "कुशल युवा कार्यक्रम (केवाईपी)"
+      },
+      "category": "skill-development",
+      "launchYear": 2016,
+      "asOf": "2024-03-31",
+      "administeringBody": "Bihar Skill Development Mission (BSDM)",
+      "description": {
+        "en": "### Program Overview\nAdministered by the Bihar Skill Development Mission (BSDM), the Kushal Yuva Program (KYP) is an intensive 240-hour foundation skilling initiative launched in 2016. It targets youth aged 15-28 who have passed Class 10 or 12, aiming to enhance their employability in the modern job market.\n\n### Core Curriculum Pillars\n* **Digital Literacy (120 Hours):** Comprehensive training in basic computer operations and essential software applications.\n* **Language Skills (80 Hours):** Practical enhancement of English and Hindi communication skills.\n* **Soft Skills (40 Hours):** Focus on workplace ethics, teamwork, and professional behavior.\n\n### Impact\nConducted through a massive network of over 1,500 dedicated centers covering all 534 blocks of Bihar, the program has successfully certified over 18 lakh youth, significantly boosting their confidence and career prospects.",
+        "hi": "### कार्यक्रम का अवलोकन\nबिहार कौशल विकास मिशन (BSDM) द्वारा संचालित, कुशल युवा कार्यक्रम (KYP) 2016 में शुरू की गई 240 घंटे की एक गहन बुनियादी कौशल प्रशिक्षण पहल है। यह 10वीं या 12वीं पास 15-28 आयु वर्ग के युवाओं को लक्षित करता है, जिसका उद्देश्य आधुनिक नौकरी बाजार में उनकी रोजगार क्षमता को बढ़ाना है।\n\n### मुख्य पाठ्यक्रम स्तंभ\n* **डिजिटल साक्षरता (120 घंटे):** बुनियादी कंप्यूटर संचालन और आवश्यक सॉफ्टवेयर अनुप्रयोगों में व्यापक प्रशिक्षण।\n* **भाषा कौशल (80 घंटे):** अंग्रेजी और हिंदी संचार कौशल का व्यावहारिक संवर्धन।\n* **सॉफ्ट स्किल्स (40 घंटे):** कार्यस्थल नैतिकता, टीम वर्क और पेशेवर व्यवहार पर ध्यान।\n\n### प्रभाव\nबिहार के सभी 534 प्रखंडों को कवर करने वाले 1,500 से अधिक समर्पित केंद्रों के एक विशाल नेटवर्क के माध्यम से संचालित, इस कार्यक्रम ने सफलतापूर्वक 18 लाख से अधिक युवाओं को प्रमाणित किया है, जिससे उनके आत्मविश्वास और करियर की संभावनाओं में काफी वृद्धि हुई है।"
+      }
+    },
+    {
+      "id": "primary-schooling-infrastructure",
+      "name": {
+        "en": "Elementary Education Infrastructure & Samagra Shiksha",
+        "hi": "प्रारंभिक शिक्षा अधोसंरचना एवं समग्र शिक्षा"
+      },
+      "category": "school-infrastructure",
+      "asOf": "2023-12-31",
+      "description": {
+        "en": "### Infrastructure Expansion\nOver the last two decades, Bihar has radically expanded its network of elementary educational institutions. Today, the state operates over 75,000 primary and middle schools, fulfilling the mandate of providing a primary school within a 1-kilometer radius of every rural habitation.\n\n### Modernization Initiatives\n* **Samagra Shiksha Abhiyan:** Extensive state and central investments have been channeled to upgrade physical school environments.\n* **Essential Amenities:** Ensuring 100% gender-segregated toilets, safe drinking water facilities, and boundary walls.\n* **Digital Classrooms:** Progressive integration of smart classrooms and ICT labs in upper primary and middle schools.\n\n### Impact\nThis robust infrastructural push has successfully transitioned Bihar from an era of severe school shortages to providing accessible, dignified, and conducive learning environments for millions of rural children.",
+        "hi": "### बुनियादी ढांचे का विस्तार\nपिछले दो दशकों में, बिहार ने अपने प्रारंभिक शैक्षणिक संस्थानों के नेटवर्क का काफी विस्तार किया है। आज, राज्य 75,000 से अधिक प्राथमिक और मध्य विद्यालयों का संचालन करता है, जो हर ग्रामीण बसावट के 1 किलोमीटर के दायरे में प्राथमिक विद्यालय प्रदान करने के लक्ष्य को पूरा करता है।\n\n### आधुनिकीकरण की पहल\n* **समग्र शिक्षा अभियान:** भौतिक स्कूल के वातावरण को उन्नत करने के लिए व्यापक राज्य और केंद्रीय निवेश किया गया है।\n* **आवश्यक सुविधाएं:** 100% अलग-अलग छात्र-छात्रा शौचालय, सुरक्षित पेयजल सुविधाएं और चहारदीवारी (बाउंड्री वॉल) सुनिश्चित करना।\n* **डिजिटल कक्षाएं:** उच्च प्राथमिक और मध्य विद्यालयों में स्मार्ट क्लासरूम और आईसीटी (ICT) प्रयोगशालाओं का प्रगतिशील एकीकरण।\n\n### प्रभाव\nइस मजबूत ढांचागत पहल ने बिहार को स्कूलों की भारी कमी के युग से निकालकर लाखों ग्रामीण बच्चों के लिए सुलभ, सम्मानजनक और अनुकूल शिक्षण वातावरण प्रदान करने वाले राज्य में सफलतापूर्वक बदल दिया है।"
+      }
+    },
+    {
+      "id": "kasturba-gandhi-balika-vidyalaya",
+      "name": {
+        "en": "Kasturba Gandhi Balika Vidyalaya (KGBV)",
+        "hi": "कस्तूरबा गांधी बालिका विद्यालय (केजीवीबी)"
+      },
+      "category": "girls-residential-education",
+      "asOf": "2023-12-31",
+      "description": {
+        "en": "### Overview\nKasturba Gandhi Balika Vidyalayas (KGBVs) are specialized residential schooling facilities established strategically across Educationally Backward Blocks (EBBs) of Bihar. They are designed to bring the most vulnerable girls back into the educational mainstream.\n\n### Target Demographics & Support\n* **Inclusivity:** Predominantly serves adolescent girls who have dropped out, focusing on those from SC, ST, OBC, minority, and BPL families.\n* **Holistic Care:** Provides entirely free, high-quality education, safe boarding, nutritious meals, school uniforms, and learning materials.\n\n### Impact\nBy removing the economic and geographical barriers to education, KGBVs act as safe havens that empower marginalized girls, delaying early marriages and fostering independent, educated women.",
+        "hi": "### अवलोकन\nकस्तूरबा गांधी बालिका विद्यालय (KGBV) बिहार के शैक्षणिक रूप से पिछड़े प्रखंडों (EBB) में रणनीतिक रूप से स्थापित विशेष आवासीय स्कूली सुविधाएं हैं। इन्हें सबसे कमजोर और वंचित लड़कियों को वापस शैक्षिक मुख्यधारा में लाने के लिए डिज़ाइन किया गया है।\n\n### लक्षित जनसांख्यिकी और सहायता\n* **समावेशिता:** मुख्य रूप से उन किशोर लड़कियों की सेवा करता है जिन्होंने स्कूल छोड़ दिया है, विशेषकर एससी, एसटी, ओबीसी, अल्पसंख्यक और बीपीएल परिवारों की लड़कियों पर ध्यान केंद्रित करता है।\n* **समग्र देखभाल:** पूरी तरह से मुफ्त, उच्च गुणवत्ता वाली शिक्षा, सुरक्षित आवास, पौष्टिक भोजन, स्कूल यूनिफॉर्म और अध्ययन सामग्री प्रदान करता है।\n\n### प्रभाव\nशिक्षा के लिए आर्थिक और भौगोलिक बाधाओं को दूर करके, केजीबीवी (KGBV) एक सुरक्षित आश्रय के रूप में कार्य करते हैं जो हाशिए की लड़कियों को सशक्त बनाते हैं, बाल विवाह को रोकते हैं और उन्हें स्वतंत्र, शिक्षित महिलाओं के रूप में विकसित करते हैं।"
+      }
+    },
+    {
+      "id": "pm-poshan-mid-day-meal",
+      "name": {
+        "en": "PM-POSHAN (Mid-Day Meal Scheme) Bihar",
+        "hi": "पीएम पोषण (मध्याह्न भोजन योजना) बिहार"
+      },
+      "category": "child-nutrition-education",
+      "asOf": "2023-12-31",
+      "description": {
+        "en": "### Scheme Overview\nThe PM-POSHAN (historically known as the Mid-Day Meal Scheme) in Bihar is one of the world's largest school feeding programs. It is designed to tackle the dual challenges of classroom hunger and poor educational access.\n\n### Operations & Nutrition\n* **Massive Scale:** Provides freshly cooked, hot, and highly nutritious meals to over 1.2 crore children enrolled in government elementary schools (Classes 1 to 8) every single school day.\n* **Dietary Standards:** Ensures each meal strictly meets mandated caloric and protein requirements to combat child malnutrition.\n\n### Socio-Educational Impact\nThe scheme has been instrumental in substantially boosting daily classroom attendance and student retention. Furthermore, it powerfully fosters social equity and harmony by encouraging children from all castes, religions, and economic backgrounds to sit and eat together.",
+        "hi": "### योजना का अवलोकन\nबिहार में पीएम-पोषण (ऐतिहासिक रूप से मध्याह्न भोजन योजना के रूप में जाना जाता है) दुनिया के सबसे बड़े स्कूल भोजन कार्यक्रमों में से एक है। इसे कक्षा में भूख और शिक्षा तक खराब पहुंच की दोहरी चुनौतियों से निपटने के लिए डिज़ाइन किया गया है।\n\n### संचालन और पोषण\n* **विशाल पैमाना:** यह राज्य भर के सरकारी प्रारंभिक विद्यालयों (कक्षा 1 से 8) में नामांकित 1.2 करोड़ से अधिक बच्चों को प्रत्येक कार्यदिवस पर ताजा, गर्म और अत्यधिक पौष्टिक भोजन प्रदान करता है।\n* **आहार मानक:** बाल कुपोषण से निपटने के लिए यह सुनिश्चित करता है कि प्रत्येक भोजन अनिवार्य कैलोरी और प्रोटीन आवश्यकताओं को सख्ती से पूरा करे।\n\n### सामाजिक-शैक्षणिक प्रभाव\nयह योजना दैनिक कक्षा उपस्थिति और छात्रों के ठहराव को काफी हद तक बढ़ाने में सहायक रही है। इसके अलावा, यह सभी जातियों, धर्मों और आर्थिक पृष्ठभूमि के बच्चों को एक साथ बैठकर भोजन करने के लिए प्रोत्साहित करके सामाजिक समानता और सद्भाव को दृढ़ता से बढ़ावा देती है।"
+      }
+    }
+  ]
+}

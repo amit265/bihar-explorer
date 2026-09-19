@@ -1,0 +1,286 @@
+{
+  "data": [
+    {
+      "id": "census-2011-state-totals",
+      "category": "census-benchmarks",
+      "title": {
+        "en": "Census of India 2011 — State Macro Benchmarks",
+        "hi": "भारत की जनगणना 2011 — राज्य के प्रमुख समग्र आंकड़े"
+      },
+      "description": {
+        "en": "According to the 2011 Census of India, Bihar had a total enumerated population of 104,099,452, constituting 8.6% of India's aggregate population and ranking it as the third most populous state. Between 2001 and 2011, the state witnessed a decadal population growth rate of 25.42%.",
+        "hi": "2011 की भारत की जनगणना के अनुसार, बिहार की कुल प्रगणित जनसंख्या 10,40,99,452 थी, जो भारत की कुल जनसंख्या का 8.6% थी और इसे तीसरा सबसे अधिक आबादी वाला राज्य बनाती है। 2001 और 2011 के बीच, राज्य ने 25.42% की दशकीय जनसंख्या वृद्धि दर दर्ज की।"
+      },
+      "benchmarks": {
+        "totalPopulation": 104099452,
+        "malePopulation": 54278157,
+        "femalePopulation": 49821295,
+        "decadalGrowthRatePercent": 25.42,
+        "nationalDecadalGrowthRatePercent": 17.7,
+        "populationRankInIndia": 3,
+        "nationalPopulationSharePercent": 8.6
+      },
+      "historicalContext": {
+        "en": "Official decennial count of India conducted prior to the bifurcation of state governance frameworks.",
+        "hi": "राज्य शासन ढांचे के पुनर्गठन से पहले आयोजित भारत की आधिकारिक दशकीय जनगणना।"
+      },
+      "asOf": "2011-03-31",
+      "source": {
+        "en": "Office of the Registrar General & Census Commissioner, Ministry of Home Affairs, Government of India",
+        "hi": "महारजिस्ट्रार एवं जनगणना आयुक्त का कार्यालय, गृह मंत्रालय, भारत सरकार"
+      },
+      "relatedDistricts": ["patna", "east-champaran", "muzaffarpur", "madhubani", "gaya"]
+    },
+    {
+      "id": "census-2011-literacy-breakdown",
+      "category": "census-benchmarks",
+      "title": {
+        "en": "Census 2011 — Literacy Profile & Disparities",
+        "hi": "जनगणना 2011 — साक्षरता दर एवं क्षेत्रीय विषमताएं"
+      },
+      "description": {
+        "en": "In Census 2011, Bihar recorded an overall literacy rate of 61.80%, with male literacy at 71.20% and female literacy at 51.50%. Rohtas emerged as the most literate district with 73.37% literacy, while Purnia recorded the lowest overall literacy at 51.08% and Saharsa recorded the lowest female literacy at 41.68%.",
+        "hi": "2011 की जनगणना में, बिहार ने 61.80% की समग्र साक्षरता दर दर्ज की, जिसमें पुरुष साक्षरता 71.20% और महिला साक्षरता 51.50% थी। रोहतास 73.37% साक्षरता के साथ सबसे साक्षर जिले के रूप में उभरा, जबकि पूर्णिया ने 51.08% पर सबसे कम समग्र साक्षरता और सहरसा ने 41.68% पर सबसे कम महिला साक्षरता दर्ज की।"
+      },
+      "benchmarks": {
+        "overallLiteracyPercent": 61.80,
+        "maleLiteracyPercent": 71.20,
+        "femaleLiteracyPercent": 51.50,
+        "genderLiteracyGapPercent": 19.70,
+        "highestLiteracyDistrict": {
+          "id": "rohtas",
+          "name": { "en": "Rohtas", "hi": "रोहतास" },
+          "overallLiteracyPercent": 73.37,
+          "maleLiteracyPercent": 82.88,
+          "femaleLiteracyPercent": 62.97
+        },
+        "lowestLiteracyDistrict": {
+          "id": "purnia",
+          "name": { "en": "Purnia", "hi": "पूर्णिया" },
+          "overallLiteracyPercent": 51.08
+        },
+        "lowestFemaleLiteracyDistrict": {
+          "id": "saharsa",
+          "name": { "en": "Saharsa", "hi": "सहरसा" },
+          "femaleLiteracyPercent": 41.68
+        }
+      },
+      "asOf": "2011-03-31",
+      "source": {
+        "en": "Census of India 2011, Primary Census Abstract (PCA)",
+        "hi": "भारत की जनगणना 2011, प्राथमिक जनगणना सार (PCA)"
+      },
+      "relatedDistricts": ["rohtas", "patna", "bhojpur", "purnia", "saharsa"]
+    },
+    {
+      "id": "caste-survey-2023-overview",
+      "category": "caste-survey-2023",
+      "title": {
+        "en": "Bihar Caste-Based Survey (Jati Adharit Ganana) 2023",
+        "hi": "बिहार जाति आधारित गणना 2023 — समग्र अवलोकन"
+      },
+      "description": {
+        "en": "On October 2, 2023, the Government of Bihar released the historic findings of its statewide Caste-Based Survey (Jati Adharit Ganana 2023). Covering 2.76 crore households across all 38 districts, the survey enumerated a total population of 13,07,25,310 (13.07 crore), providing empirical social and economic data on 215 castes.",
+        "hi": "2 अक्टूबर 2023 को, बिहार सरकार ने अपनी राज्यव्यापी जाति आधारित गणना 2023 के ऐतिहासिक निष्कर्ष जारी किए। सभी 38 जिलों में 2.76 करोड़ परिवारों को कवर करते हुए, इस गणना ने कुल 13,07,25,310 (13.07 करोड़) की आबादी दर्ज की, जिसने 215 जातियों पर अनुभवजन्य सामाजिक और आर्थिक डेटा प्रदान किया।"
+      },
+      "surveyMetrics": {
+        "totalEnumeratedPopulation": 130725310,
+        "totalFamiliesSurveyed": 27668930,
+        "releaseDate": "2023-10-02",
+        "broadGroupShares": [
+          { "group": { "en": "Extremely Backward Classes (EBC)", "hi": "अत्यंत पिछड़ा वर्ग" }, "population": 47080514, "percentage": 36.0148 },
+          { "group": { "en": "Other Backward Classes (OBC)", "hi": "पिछड़ा वर्ग" }, "population": 35463936, "percentage": 27.1286 },
+          { "group": { "en": "Scheduled Castes (SC)", "hi": "अनुसूचित जाति" }, "population": 25689820, "percentage": 19.6518 },
+          { "group": { "en": "Scheduled Tribes (ST)", "hi": "अनुसूचित जनजाति" }, "population": 2199361, "percentage": 1.6824 },
+          { "group": { "en": "General / Unreserved", "hi": "सामान्य / अनारक्षित" }, "population": 20291679, "percentage": 15.5224 }
+        ]
+      },
+      "asOf": "2023-10-02",
+      "source": {
+        "en": "General Administration Department, Government of Bihar — Bihar Caste-Based Survey 2023 Report",
+        "hi": "सामान्य प्रशासन विभाग, बिहार सरकार — बिहार जाति आधारित गणना 2023 प्रतिवेदन"
+      },
+      "relatedDistricts": ["patna", "muzaffarpur", "gaya", "darbhanga", "purnia"]
+    },
+    {
+      "id": "caste-survey-2023-ebc-profile",
+      "category": "caste-survey-2023",
+      "title": {
+        "en": "Extremely Backward Classes (EBC) — Demographic Profile",
+        "hi": "अत्यंत पिछड़ा वर्ग (EBC) — जनसांख्यिकीय रूपरेखा"
+      },
+      "description": {
+        "en": "Extremely Backward Classes (EBC) constitute the single largest demographic cohort in Bihar at 36.01% of the total population (4,70,80,514 persons). Spanning 112 castes, this diverse coalition comprises traditional artisan, fishing, farming, and service communities including Teli, Mallah, Nai, Dhanuk, Kanu, and Nonia.",
+        "hi": "अत्यंत पिछड़ा वर्ग (EBC) कुल जनसंख्या का 36.01% (4,70,80,514 व्यक्ति) होकर बिहार में सबसे बड़ा जनसांख्यिकीय समूह बनाता है। 112 जातियों में फैले इस विविध समूह में तेली, मल्लाह, नाई, धानुक, कानू और नोनिया सहित पारंपरिक कारीगर, मछुआरे, कृषक और सेवा समुदाय शामिल हैं।"
+      },
+      "groupMetrics": {
+        "totalEBCPopulation": 47080514,
+        "percentageOfStatePopulation": 36.0148,
+        "totalCastesInGroup": 112,
+        "prominentCommunities": [
+          { "caste": { "en": "Teli", "hi": "तेली" }, "population": 3677491, "percentage": 2.8131 },
+          { "caste": { "en": "Mallah / Nishad", "hi": "मल्लाह / निषाद" }, "population": 3410093, "percentage": 2.6086 },
+          { "caste": { "en": "Kanu", "hi": "कानू" }, "population": 2895475, "percentage": 2.2149 },
+          { "caste": { "en": "Dhanuk", "hi": "धानुक" }, "population": 2796605, "percentage": 2.1393 },
+          { "caste": { "en": "Nonia", "hi": "नोनिया" }, "population": 2498474, "percentage": 1.9112 },
+          { "caste": { "en": "Nai (Hajjam)", "hi": "नाई (हजाम)" }, "population": 2082214, "percentage": 1.5928 },
+          { "caste": { "en": "Kumhar (Prajapati)", "hi": "कुम्हार (प्रजापति)" }, "population": 1834418, "percentage": 1.4033 },
+          { "caste": { "en": "Badhai (Carpenter)", "hi": "बढ़ई" }, "population": 1895672, "percentage": 1.4501 }
+        ]
+      },
+      "asOf": "2023-10-02",
+      "source": {
+        "en": "General Administration Department, Government of Bihar",
+        "hi": "सामान्य प्रशासन विभाग, बिहार सरकार"
+      },
+      "relatedDistricts": ["patna", "muzaffarpur", "madhubani", "samastipur", "saharsa"]
+    },
+    {
+      "id": "caste-survey-2023-obc-profile",
+      "category": "caste-survey-2023",
+      "title": {
+        "en": "Other Backward Classes (OBC) — Demographic Profile",
+        "hi": "पिछड़ा वर्ग (OBC) — जनसांख्यिकीय रूपरेखा"
+      },
+      "description": {
+        "en": "Other Backward Classes (OBC / Backward Classes Annexure II) account for 27.13% of Bihar's population (3,54,63,936 persons) across 29 castes. The Yadav community is the single largest individual caste in Bihar (14.26%), followed by Kushwaha/Koeri (4.21%), Kurmi (2.87%), and Bania sub-groups (2.31%).",
+        "hi": "पिछड़ा वर्ग (OBC / अनुसूची-2) 29 जातियों में बिहार की 27.13% आबादी (3,54,63,936 व्यक्ति) का प्रतिनिधित्व करता है। यादव समुदाय बिहार में सबसे बड़ी एकल जाति (14.26%) है, जिसके बाद कुशवाहा/कोइरी (4.21%), कुर्मी (2.87%), और बनिया उप-समूह (2.31%) आते हैं।"
+      },
+      "groupMetrics": {
+        "totalOBCPopulation": 35463936,
+        "percentageOfStatePopulation": 27.1286,
+        "totalCastesInGroup": 29,
+        "majorCommunities": [
+          { "caste": { "en": "Yadav (Gwala, Ahir, Gope)", "hi": "यादव (ग्वाला, अहीर, गोप)" }, "population": 18650119, "percentage": 14.2666 },
+          { "caste": { "en": "Kushwaha (Koeri)", "hi": "कुशवाहा (कोइरी)" }, "population": 5506113, "percentage": 4.2120 },
+          { "caste": { "en": "Kurmi", "hi": "कुर्मी" }, "population": 3762438, "percentage": 2.8781 },
+          { "caste": { "en": "Bania (Various sub-castes)", "hi": "बनिया (विभिन्न उपजातियां)" }, "population": 3026042, "percentage": 2.3148 },
+          { "caste": { "en": "Surjapuri Muslim", "hi": "सुरजापुरी मुस्लिम" }, "population": 2446400, "percentage": 1.8714 }
+        ]
+      },
+      "asOf": "2023-10-02",
+      "source": {
+        "en": "General Administration Department, Government of Bihar",
+        "hi": "सामान्य प्रशासन विभाग, बिहार सरकार"
+      },
+      "relatedDistricts": ["patna", "madhepura", "nalanda", "rohtas", "kishanganj"]
+    },
+    {
+      "id": "caste-survey-2023-sc-profile",
+      "category": "caste-survey-2023",
+      "title": {
+        "en": "Scheduled Castes (SC) — Demographic Profile",
+        "hi": "अनुसूचित जाति (SC) — जनसांख्यिकीय रूपरेखा"
+      },
+      "description": {
+        "en": "Scheduled Castes constitute 19.65% of Bihar's population (2,56,89,820 persons) encompassing 22 communities. The largest groups are Chamar/Mochi/Ravidas (5.25%) and Dusadh/Dhari/Dharhi (5.31%), followed by the historically marginalized Musahar community (3.08%) classified under Mahadalit initiatives.",
+        "hi": "अनुसूचित जातियां 22 समुदायों को मिलाकर बिहार की आबादी का 19.65% (2,56,89,820 व्यक्ति) हिस्सा बनाती हैं। सबसे बड़े समूह चमार/मोची/रविदास (5.25%) और दुसाध/धारी/धरही (5.31%) हैं, जिसके बाद महादलित पहलों के तहत वर्गीकृत ऐतिहासिक रूप से हाशिए पर रहने वाला मुसहर समुदाय (3.08%) आता है।"
+      },
+      "groupMetrics": {
+        "totalSCPopulation": 25689820,
+        "percentageOfStatePopulation": 19.6518,
+        "totalCastesInGroup": 22,
+        "keyCommunities": [
+          { "caste": { "en": "Dusadh / Dhari / Dharhi", "hi": "दुसाध / धारी / धरही" }, "population": 6943000, "percentage": 5.3111 },
+          { "caste": { "en": "Chamar / Mochi / Ravidas", "hi": "चमार / मोची / रविदास" }, "population": 6869664, "percentage": 5.2550 },
+          { "caste": { "en": "Musahar", "hi": "मुसहर" }, "population": 4035787, "percentage": 3.0872 },
+          { "caste": { "en": "Pasi", "hi": "पासी" }, "population": 1288099, "percentage": 0.9853 },
+          { "caste": { "en": "Dhobi (Rajak)", "hi": "धोबी (रजक)" }, "population": 1091568, "percentage": 0.8350 }
+        ]
+      },
+      "asOf": "2023-10-02",
+      "source": {
+        "en": "General Administration Department, Government of Bihar",
+        "hi": "सामान्य प्रशासन विभाग, बिहार सरकार"
+      },
+      "relatedDistricts": ["gaya", "nawada", "patna", "samastipur", "vaishali"]
+    },
+    {
+      "id": "caste-survey-2023-st-profile",
+      "category": "caste-survey-2023",
+      "title": {
+        "en": "Scheduled Tribes (ST) — Demographic Profile",
+        "hi": "अनुसूचित जनजाति (ST) — जनसांख्यिकीय रूपरेखा"
+      },
+      "description": {
+        "en": "Following the bifurcation of Jharkhand in November 2000, Scheduled Tribes represent 1.68% of Bihar's population (21,99,361 persons). Major tribal groups include the Santhal, concentrated in Banka, Jamui, Katihar, and Purnia; the Tharu people inhabiting the sub-Himalayan forest belt of West Champaran; and Oraon and Gond communities.",
+        "hi": "नवंबर 2000 में झारखंड के विभाजन के बाद, अनुसूचित जनजातियां बिहार की आबादी का 1.68% (21,99,361 व्यक्ति) प्रतिनिधित्व करती हैं। प्रमुख आदिवासी समूहों में बांका, जमुई, कटिहार और पूर्णिया में केंद्रित संथाल; पश्चिमी चंपारण के उप-हिमालयी वन क्षेत्र में रहने वाले थारू लोग; तथा उरांव और गोंड समुदाय शामिल हैं।"
+      },
+      "groupMetrics": {
+        "totalSTPopulation": 2199361,
+        "percentageOfStatePopulation": 1.6824,
+        "prominentTribes": [
+          { "tribe": { "en": "Santhal", "hi": "संथाल" }, "population": 375417, "primaryDistricts": ["banka", "jamui", "katihar", "purnia"] },
+          { "tribe": { "en": "Tharu", "hi": "थारू" }, "population": 326712, "primaryDistricts": ["west-champaran"] },
+          { "tribe": { "en": "Oraon (Kurukh)", "hi": "उरांव (कुड़ुख)" }, "population": 197412, "primaryDistricts": ["rohtas", "purnia", "katihar"] },
+          { "tribe": { "en": "Kharwar", "hi": "खरवार" }, "population": 162540, "primaryDistricts": ["rohtas", "kaimur"] },
+          { "tribe": { "en": "Gond", "hi": "गोंड" }, "population": 154820, "primaryDistricts": ["siwan", "saran", "bhojpur"] }
+        ]
+      },
+      "asOf": "2023-10-02",
+      "source": {
+        "en": "General Administration Department, Government of Bihar",
+        "hi": "सामान्य प्रशासन विभाग, बिहार सरकार"
+      },
+      "relatedDistricts": ["west-champaran", "banka", "jamui", "katihar", "rohtas"]
+    },
+    {
+      "id": "caste-survey-2023-unreserved-general",
+      "category": "caste-survey-2023",
+      "title": {
+        "en": "General (Unreserved) Category Profile",
+        "hi": "सामान्य (अनारक्षित) वर्ग — जनसांख्यिकीय रूपरेखा"
+      },
+      "description": {
+        "en": "The General (Unreserved) category comprises 15.52% of Bihar's population (2,02,91,679 persons). This includes Hindu upper castes (Brahmin 3.65%, Rajput 3.45%, Bhumihar 2.86%, Kayastha 0.60%) as well as Muslim upper communities (Sheikh 3.82%, Pathan 0.75%, Syed 0.23%).",
+        "hi": "सामान्य (अनारक्षित) श्रेणी में बिहार की आबादी का 15.52% (2,02,91,679 व्यक्ति) शामिल है। इसमें हिंदू उच्च जातियां (ब्राह्मण 3.65%, राजपूत 3.45%, भूमिहार 2.86%, कायस्थ 0.60%) के साथ-साथ मुस्लिम उच्च समुदाय (शेख 3.82%, पठान 0.75%, सैयद 0.23%) शामिल हैं।"
+      },
+      "groupMetrics": {
+        "totalGeneralPopulation": 20291679,
+        "percentageOfStatePopulation": 15.5224,
+        "majorCommunities": [
+          { "community": { "en": "Sheikh (Muslim)", "hi": "शेख (मुस्लिम)" }, "population": 4988042, "percentage": 3.8233 },
+          { "community": { "en": "Brahmin (Hindu)", "hi": "ब्राह्मण (हिंदू)" }, "population": 4775130, "percentage": 3.6575 },
+          { "community": { "en": "Rajput (Hindu)", "hi": "राजपूत (हिंदू)" }, "population": 4510704, "percentage": 3.4505 },
+          { "community": { "en": "Bhumihar (Hindu)", "hi": "भूमिहार (हिंदू)" }, "population": 3750886, "percentage": 2.8694 },
+          { "community": { "en": "Pathan / Khan (Muslim)", "hi": "पठान / खान (मुस्लिम)" }, "population": 986664, "percentage": 0.7548 },
+          { "community": { "en": "Kayastha (Hindu)", "hi": "कायस्थ (हिंदू)" }, "population": 785771, "percentage": 0.6011 },
+          { "community": { "en": "Syed (Muslim)", "hi": "सैयद (मुस्लिम)" }, "population": 297954, "percentage": 0.2279 }
+        ]
+      },
+      "asOf": "2023-10-02",
+      "source": {
+        "en": "General Administration Department, Government of Bihar",
+        "hi": "सामान्य प्रशासन विभाग, बिहार सरकार"
+      },
+      "relatedDistricts": ["patna", "madhubani", "bhojpur", "kishanganj", "begusarai"]
+    },
+    {
+      "id": "caste-survey-2023-religious-demography",
+      "category": "religious-demographics",
+      "title": {
+        "en": "Religious Demography (Caste Survey 2023)",
+        "hi": "धार्मिक जनसांख्यिकी (जाति गणना 2023)"
+      },
+      "description": {
+        "en": "The 2023 Survey enumerated Bihar's religious composition: Hindus comprise 81.998% (10.72 crore), followed by Muslims who form 17.708% (2.31 crore). Christians (0.057%), Sikhs (0.011%), Buddhists (0.085%), and Jains (0.009%) constitute tiny, yet culturally and spiritually renowned minority presences.",
+        "hi": "2023 की गणना ने बिहार की धार्मिक संरचना दर्ज की: हिंदू 81.998% (10.72 करोड़) हैं, जिसके बाद मुस्लिम 17.708% (2.31 करोड़) हैं। ईसाई (0.057%), सिख (0.011%), बौद्ध (0.085%) और जैन (0.009%) छोटी, किंतु सांस्कृतिक और आध्यात्मिक रूप से प्रसिद्ध अल्पसंख्यक उपस्थिति दर्ज करते हैं।"
+      },
+      "religions": [
+        { "name": { "en": "Hinduism", "hi": "हिंदू धर्म" }, "population": 107192958, "percentage": 81.9986 },
+        { "name": { "en": "Islam", "hi": "इस्लाम" }, "population": 23149925, "percentage": 17.7088 },
+        { "name": { "en": "Buddhism", "hi": "बौद्ध धर्म" }, "population": 111201, "percentage": 0.0851 },
+        { "name": { "en": "Christianity", "hi": "ईसाई धर्म" }, "population": 75238, "percentage": 0.0576 },
+        { "name": { "en": "Sikhism", "hi": "सिख धर्म" }, "population": 14796, "percentage": 0.0113 },
+        { "name": { "en": "Jainism", "hi": "जैन धर्म" }, "population": 12523, "percentage": 0.0096 },
+        { "name": { "en": "Others & No Religion", "hi": "अन्य एवं कोई धर्म नहीं" }, "population": 214669, "percentage": 0.1664 }
+      ],
+      "asOf": "2023-10-02",
+      "source": {
+        "en": "General Administration Department, Government of Bihar",
+        "hi": "सामान्य प्रशासन विभाग, बिहार सरकार"
+      },
+      "relatedDistricts": ["patna", "kishanganj", "gaya", "nalanda"]
+    }
+  ]
+}

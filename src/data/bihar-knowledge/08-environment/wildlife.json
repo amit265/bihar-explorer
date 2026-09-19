@@ -1,0 +1,149 @@
+{
+  "data": [
+    {
+      "id": "gangetic-river-dolphin",
+      "name": {
+        "en": "Gangetic River Dolphin ('Souns')",
+        "hi": "गंगा डॉल्फिन ('सोंस')"
+      },
+      "scientificName": "Platanista gangetica",
+      "conservationStatus": "Endangered (IUCN)",
+      "wildlifeSchedule": "Schedule I (Wildlife Protection Act, 1972)",
+      "nationalDesignation": "National Aquatic Animal of India (declared 2009)",
+      "stateDesignation": "State Aquatic Animal of Bihar",
+      "districtIds": [
+        "bhagalpur",
+        "patna",
+        "vaishali",
+        "saran",
+        "katihar"
+      ],
+      "description": {
+        "en": "### The National Aquatic Animal\n\nA primitive freshwater cetacean, the **Gangetic Dolphin (Susu)** is the apex predator of the Ganga and India's prestigious National Aquatic Animal.\n\n### Species Characteristics\n\n* **Blind Navigators:** Being virtually blind, they rely entirely on highly sophisticated echolocation to hunt and navigate the muddy river waters.\n* **Sanctuary Protection:** The **Vikramshila Gangetic Dolphin Sanctuary** in Bhagalpur is Asia's only protected area dedicated specifically to their survival.\n* **Indicator Species:** Their presence is a direct indicator of river health, making their conservation an urgent ecological priority.\n\nRevered and endangered, the Dolphin is the true, beating heart of the Ganga's ecosystem.",
+        "hi": "### राष्ट्रीय जलीय पशु\n\nएक आदिम मीठे पानी का सिटासियन, **गांगेय डॉल्फ़िन (सोनस)** गंगा का शीर्ष शिकारी और भारत का प्रतिष्ठित राष्ट्रीय जलीय पशु है।\n\n### प्रजातियों की विशेषताएं\n\n* **नेत्रहीन नाविक:** लगभग अंधे होने के कारण, वे मैला नदी के पानी में शिकार करने और नेविगेट करने के लिए पूरी तरह से अत्यधिक परिष्कृत इकोलोकेशन पर निर्भर करते हैं।\n* **अभयारण्य संरक्षण:** भागलपुर में **विक्रमशिला गांगेय डॉल्फ़िन अभयारण्य** एशिया का एकमात्र संरक्षित क्षेत्र है जो विशेष रूप से उनके अस्तित्व के लिए समर्पित है।\n* **संकेतक प्रजातियां:** उनकी उपस्थिति नदी के स्वास्थ्य का प्रत्यक्ष संकेतक है, जो उनके संरक्षण को एक तत्काल पारिस्थितिक प्राथमिकता बनाती है।\n\nपूजनीय और लुप्तप्राय, डॉल्फ़िन गंगा के पारिस्थितिक तंत्र का सच्चा, धड़कता हुआ दिल है।"
+      },
+      "researchInstitutions": [
+        "National Dolphin Research Centre (NDRC), Patna University Campus, Patna (Inaugurated 2024)"
+      ]
+    },
+    {
+      "id": "bengal-tiger",
+      "name": {
+        "en": "Royal Bengal Tiger",
+        "hi": "रॉयल बंगाल टाइगर (बाघ)"
+      },
+      "scientificName": "Panthera tigris tigris",
+      "conservationStatus": "Endangered (IUCN)",
+      "wildlifeSchedule": "Schedule I",
+      "districtIds": [
+        "west-champaran"
+      ],
+      "population": {
+        "count": 54,
+        "asOf": "2022-07-29",
+        "source": "Status of Tigers in India 2022 Report, NTCA"
+      },
+      "description": {
+        "en": "### The Royal Apex Predator\n\nThe apex predator of Bihar's forests, the **Bengal Tiger** population is exclusively concentrated within the dense confines of the Valmiki Tiger Reserve.\n\n### Species Status\n\n* **Conservation Success:** Through rigorous anti-poaching measures, the reserve has witnessed a highly encouraging and steady increase in tiger numbers in recent years.\n* **Trans-Boundary Movement:** The tigers frequently utilize critical trans-boundary corridors, moving seamlessly between Valmiki and Nepal's Chitwan National Park.\n* **Ecosystem Balancing:** As the top predator, their robust presence guarantees the health and balance of the entire forest ecosystem.\n\nThe roar of the tiger in Valmiki is a testament to Bihar's conservation commitments.",
+        "hi": "### शाही शीर्ष शिकारी\n\nबिहार के जंगलों का शीर्ष शिकारी, **बंगाल टाइगर** की आबादी विशेष रूप से वाल्मीकि टाइगर रिजर्व की घनी सीमाओं के भीतर केंद्रित है।\n\n### प्रजाति की स्थिति\n\n* **संरक्षण की सफलता:** कठोर अवैध शिकार विरोधी उपायों के माध्यम से, रिजर्व ने हाल के वर्षों में बाघों की संख्या में अत्यधिक उत्साहजनक और निरंतर वृद्धि देखी है।\n* **सीमा पार आंदोलन:** बाघ अक्सर महत्वपूर्ण सीमा पार गलियारों का उपयोग करते हैं, जो वाल्मीकि और नेपाल के चितवन राष्ट्रीय उद्यान के बीच निर्बाध रूप से चलते हैं।\n* **पारिस्थितिकी तंत्र संतुलन:** शीर्ष शिकारी के रूप में, उनकी मजबूत उपस्थिति संपूर्ण वन पारिस्थितिकी तंत्र के स्वास्थ्य और संतुलन की गारंटी देती है।\n\nवाल्मीकि में बाघ की दहाड़ बिहार की संरक्षण प्रतिबद्धताओं का प्रमाण है।"
+      },
+      "habitat": "Dense tropical moist Sal forests, riverine alluvial grasslands, and cane brakes of Valmiki."
+    },
+    {
+      "id": "greater-one-horned-rhinoceros",
+      "name": {
+        "en": "Greater One-Horned Rhinoceros",
+        "hi": "एक सींग वाला भारतीय गैंडा"
+      },
+      "scientificName": "Rhinoceros unicornis",
+      "conservationStatus": "Vulnerable (IUCN)",
+      "wildlifeSchedule": "Schedule I",
+      "districtIds": [
+        "west-champaran",
+        "patna"
+      ],
+      "description": {
+        "en": "### The Armored Giant\n\nHistorically indigenous to the sprawling Gangetic floodplains, the majestic **Greater One-Horned Rhinoceros** had entirely vanished from Bihar due to historic overhunting.\n\n### Conservation Revival\n\n* **Valmiki Reintroduction:** The Valmiki National Park is currently undergoing systematic habitat preparation for a highly ambitious rhino reintroduction program.\n* **Patna Zoo Breeding:** The Sanjay Gandhi Biological Park (Patna Zoo) holds global acclaim for its spectacularly successful captive breeding program for this species.\n* **Grassland Dependency:** Their ultimate return depends heavily on the successful restoration of the Terai's tall, swampy grasslands.\n\nBringing the Rhino back to the wild remains one of Bihar's most inspiring wildlife goals.",
+        "hi": "### बख्तरबंद विशालकाय\n\nऐतिहासिक रूप से विस्तृत गंगा के बाढ़ के मैदानों के स्वदेशी, राजसी **ग्रेटर वन-हॉर्नड गैंडा** ऐतिहासिक अत्यधिक शिकार के कारण बिहार से पूरी तरह से गायब हो गया था।\n\n### संरक्षण पुनरुद्धार\n\n* **वाल्मीकि पुनर्प्रवेश:** वाल्मीकि राष्ट्रीय उद्यान वर्तमान में एक अत्यधिक महत्वाकांक्षी गैंडा पुनर्प्रवेश कार्यक्रम के लिए व्यवस्थित आवास की तैयारी से गुजर रहा है।\n* **पटना चिड़ियाघर प्रजनन:** संजय गांधी जैविक उद्यान (पटना चिड़ियाघर) इस प्रजाति के शानदार सफल कैप्टिव प्रजनन कार्यक्रम के लिए वैश्विक प्रशंसा रखता है।\n* **घास के मैदान पर निर्भरता:** उनकी अंतिम वापसी तराई के ऊंचे, दलदली घास के मैदानों की सफल बहाली पर काफी हद तक निर्भर करती है।\n\nगैंडे को वापस जंगल में लाना बिहार के सबसे प्रेरक वन्यजीव लक्ष्यों में से एक बना हुआ है।"
+      }
+    },
+    {
+      "id": "gharial",
+      "name": {
+        "en": "Gharial (Fish-eating Crocodile)",
+        "hi": "घड़ियाल"
+      },
+      "scientificName": "Gavialis gangeticus",
+      "conservationStatus": "Critically Endangered (IUCN)",
+      "wildlifeSchedule": "Schedule I",
+      "districtIds": [
+        "west-champaran",
+        "gopalganj",
+        "saran",
+        "vaishali"
+      ],
+      "description": {
+        "en": "### The Riverine Crocodilian\n\nA unique, critically endangered crocodilian easily identified by its long, incredibly narrow snout, the **Gharial** is a master fish-hunter.\n\n### Conservation Landscape\n\n* **Gandak Sanctuary:** The pristine, sandy banks of the **Gandak River** have been identified as one of India's most significant breeding sites for the Gharial.\n* **Nesting Requirements:** They are highly specialized, requiring undisturbed, clean sandbanks to safely lay their eggs.\n* **Threats:** They face severe pressure from devastating sand mining operations and accidental entanglement in fishing nets.\n\nProtecting the Gandak's sandbars is an absolute necessity for the survival of this ancient reptile.",
+        "hi": "### नदी का मगरमच्छ\n\nएक अद्वितीय, गंभीर रूप से लुप्तप्राय मगरमच्छ जिसे उसके लंबे, अविश्वसनीय रूप से संकीर्ण थूथन द्वारा आसानी से पहचाना जा सकता है, **घड़ियाल** एक मास्टर मछली-शिकारी है।\n\n### संरक्षण परिदृश्य\n\n* **गंडक अभयारण्य:** **गंडक नदी** के प्राचीन, रेतीले किनारों को घड़ियाल के लिए भारत के सबसे महत्वपूर्ण प्रजनन स्थलों में से एक के रूप में पहचाना गया है।\n* **घोंसले के शिकार की आवश्यकताएं:** वे अत्यधिक विशिष्ट हैं, जिन्हें सुरक्षित रूप से अपने अंडे देने के लिए अबाधित, स्वच्छ सैंडबैंक की आवश्यकता होती है।\n* **खतरे:** उन्हें विनाशकारी रेत खनन कार्यों और मछली पकड़ने के जाल में आकस्मिक उलझाव से गंभीर दबाव का सामना करना पड़ता है।\n\nगंडक के सैंडबार की रक्षा करना इस प्राचीन सरीसृप के अस्तित्व के लिए एक पूर्ण आवश्यकता है।"
+      }
+    },
+    {
+      "id": "greater-adjutant-stork",
+      "name": {
+        "en": "Greater Adjutant Stork ('Garuda')",
+        "hi": "ग्रेटर एडजुटेंट स्टॉर्क ('गरुड़')"
+      },
+      "scientificName": "Leptoptilos dubius",
+      "conservationStatus": "Endangered (IUCN)",
+      "wildlifeSchedule": "Schedule I",
+      "districtIds": [
+        "bhagalpur"
+      ],
+      "description": {
+        "en": "### The 'Garuda' of Bihar\n\nKnown locally and affectionately as 'Garuda', the **Greater Adjutant Stork** is a massive, globally endangered scavenging bird.\n\n### Conservation Miracle\n\n* **Bhagalpur Stronghold:** The Kadwa Diara region in Bhagalpur has miraculously emerged as one of the very few breeding strongholds for this bird globally.\n* **Community Protection:** Its incredible revival is credited heavily to intense, dedicated community-led conservation efforts and local awareness campaigns.\n* **Ecological Role:** As a large scavenger, it plays a critical, irreplaceable role in disease control and wetland hygiene.\n\nThe Garuda's return is a shining example of grassroots conservation success in Bihar.",
+        "hi": "### बिहार का 'गरुड़'\n\nस्थानीय रूप से और प्यार से 'गरुड़' के रूप में जाना जाने वाला, **ग्रेटर एडजुटेंट स्टॉर्क** एक विशाल, विश्व स्तर पर लुप्तप्राय मैला ढोने वाला पक्षी है।\n\n### संरक्षण चमत्कार\n\n* **भागलपुर गढ़:** भागलपुर में कदवा दियारा क्षेत्र चमत्कारी रूप से विश्व स्तर पर इस पक्षी के लिए बहुत कम प्रजनन गढ़ों में से एक के रूप में उभरा है।\n* **सामुदायिक सुरक्षा:** इसके अविश्वसनीय पुनरुद्धार का श्रेय तीव्र, समर्पित समुदाय-नेतृत्व वाले संरक्षण प्रयासों और स्थानीय जागरूकता अभियानों को जाता है।\n* **पारिस्थितिक भूमिका:** एक बड़े मेहतर के रूप में, यह रोग नियंत्रण और आर्द्रभूमि स्वच्छता में एक महत्वपूर्ण, अपूरणीय भूमिका निभाता है।\n\nगरुड़ की वापसी बिहार में जमीनी स्तर पर संरक्षण की सफलता का एक शानदार उदाहरण है।"
+      }
+    },
+    {
+      "id": "indian-leopard",
+      "name": {
+        "en": "Indian Leopard",
+        "hi": "भारतीय तेंदुआ"
+      },
+      "scientificName": "Panthera pardus fusca",
+      "conservationStatus": "Vulnerable (IUCN)",
+      "wildlifeSchedule": "Schedule I",
+      "districtIds": [
+        "west-champaran",
+        "kaimur",
+        "rohtas",
+        "munger",
+        "gaya"
+      ],
+      "description": {
+        "en": "### The Silent Phantom\n\nAn adaptable, incredibly stealthy big cat, the **Indian Leopard** is far more widely distributed across Bihar than the tiger.\n\n### Species Dynamics\n\n* **Plateau Predators:** They are the undisputed apex predators of the dry, rugged forests spanning Kaimur, Rohtas, and Gaya.\n* **Human Interface:** Due to severe habitat fragmentation, leopards increasingly venture into sugarcane fields and rural peripheries, leading to frequent conflicts.\n* **Survival Tactics:** Their unparalleled ability to climb trees and survive on smaller prey makes them incredibly resilient survivors.\n\nManaging leopard-human conflict is currently a primary focus for the state's forest department.",
+        "hi": "### मूक प्रेत\n\nएक अनुकूलनीय, अविश्वसनीय रूप से गुप्त बड़ी बिल्ली, **भारतीय तेंदुआ** बाघ की तुलना में बिहार भर में बहुत अधिक व्यापक रूप से वितरित है।\n\n### प्रजाति की गतिशीलता\n\n* **पठारी शिकारी:** वे कैमूर, रोहतास और गया में फैले शुष्क, बीहड़ जंगलों के निर्विवाद शीर्ष शिकारी हैं।\n* **मानव इंटरफेस:** गंभीर निवास स्थान विखंडन के कारण, तेंदुए तेजी से गन्ने के खेतों और ग्रामीण परिधि में उद्यम करते हैं, जिससे लगातार संघर्ष होते हैं।\n* **अस्तित्व की रणनीति:** पेड़ों पर चढ़ने और छोटे शिकार पर जीवित रहने की उनकी अद्वितीय क्षमता उन्हें अविश्वसनीय रूप से लचीला उत्तरजीवी बनाती है।\n\nतेंदुए-मानव संघर्ष का प्रबंधन वर्तमान में राज्य के वन विभाग के लिए एक प्राथमिक फोकस है।"
+      }
+    },
+    {
+      "id": "nilgai-and-blackbuck",
+      "name": {
+        "en": "Nilgai (Blue Bull) & Indian Blackbuck",
+        "hi": "नीलगाय (घोरपड़ास) एवं भारतीय कृष्णमृग (काला हिरण)"
+      },
+      "scientificName": "Boselaphus tragocamelus & Antilope cervicapra",
+      "conservationStatus": "Least Concern (Nilgai) / Least Concern (Blackbuck)",
+      "districtIds": [
+        "buxar",
+        "bhojpur",
+        "patna",
+        "saran",
+        "rohtas"
+      ],
+      "description": {
+        "en": "### The Antelopes of the Plains\n\n**Nilgai (Blue Bull)** is Asia's largest antelope and, alongside the elegant **Blackbuck**, defines the mammalian life of the open plains.\n\n### Ecological Realities\n\n* **Nilgai Conflict:** Having proliferated rapidly in the agricultural plains, the Nilgai is now widely considered a major pest due to extensive crop depredation.\n* **Blackbuck Sanctuaries:** In stark contrast, the highly endangered Blackbuck is strictly protected, with specific conservation zones like the one in Buxar dedicated to them.\n* **Bishnoi Connections:** Blackbuck conservation is often deeply tied to local religious sentiments and community protection ethics.\n\nThese antelopes represent the complex challenge of balancing wildlife protection with agricultural livelihoods.",
+        "hi": "### मैदानों के मृग\n\n**नीलगाय (ब्लू बुल)** एशिया का सबसे बड़ा मृग है और, सुरुचिपूर्ण **ब्लैकबक (काला हिरण)** के साथ, खुले मैदानों के स्तनधारी जीवन को परिभाषित करता है।\n\n### पारिस्थितिक वास्तविकताएं\n\n* **नीलगाय संघर्ष:** कृषि मैदानों में तेजी से फैलने के बाद, नीलगाय को अब व्यापक फसल विनाश के कारण व्यापक रूप से एक प्रमुख कीट माना जाता है।\n* **ब्लैकबक अभयारण्य:** इसके बिल्कुल विपरीत, अत्यधिक लुप्तप्राय ब्लैकबक कड़ाई से संरक्षित है, बक्सर में विशिष्ट संरक्षण क्षेत्र उन्हें समर्पित हैं।\n* **बिश्नोई कनेक्शन:** ब्लैकबक संरक्षण अक्सर स्थानीय धार्मिक भावनाओं और सामुदायिक संरक्षण नैतिकता से गहराई से जुड़ा होता है।\n\nये मृग कृषि आजीविका के साथ वन्यजीव संरक्षण को संतुलित करने की जटिल चुनौती का प्रतिनिधित्व करते हैं।"
+      }
+    }
+  ]
+}

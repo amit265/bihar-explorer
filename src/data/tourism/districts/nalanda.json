@@ -1,0 +1,386 @@
+{
+  "id": "nalanda",
+  "slug": "nalanda",
+  "name": {
+    "en": "Nalanda",
+    "hi": "नालंदा"
+  },
+  "division": "Patna",
+  "description": {
+    "en": "**Nalanda** is globally celebrated as the ancient world's premier sanctuary of higher learning and spiritual illumination. With its administrative headquarters located at **Bihar Sharif**, the district represents a glorious convergence of intellectual triumph, imperial heritage, and religious harmony spanning over two and a half millennia.\n\nHome to the UNESCO World Heritage **Archaeological Site of Nalanda Mahavihara**, the ancient hills and healing hot springs of **Rajgir**, and the sacred Jain pilgrimage of **Pawapuri**, Nalanda welcomes travellers into India's deepest intellectual and spiritual roots.",
+    "hi": "**नालंदा** प्राचीन विश्व में उच्च शिक्षा, दर्शन और आध्यात्मिक चेतना का वैश्विक उद्गम केंद्र रहा है। **बिहार शरीफ** मुख्यालय वाला यह ऐतिहासिक जिला ढाई सहस्राब्दियों से अधिक समय से भारतीय बौद्धिक चिंतन, साम्राज्यिक वैभव और सर्वधर्म सद्भाव का अप्रतिम प्रतीक है।\n\nयूनेस्को विश्व धरोहर **नालंदा महाविहार के पुरातात्विक अवशेष**, **राजगीर** की ऐतिहासिक पंच-पहाड़ियाँ व औषधीय गर्म जलकुंड, तथा **पावापुरी** का पावन जल मंदिर इस जिले को वैश्विक पटल पर अद्वितीय पहचान प्रदान करते हैं।"
+  },
+  "heroImage": null,
+  "coordinates": {
+    "latitude": 25.1982,
+    "longitude": 85.5149
+  },
+  "tourismThemes": [
+    "heritage",
+    "buddhist_pilgrimage",
+    "jain_pilgrimage",
+    "ancient_learning",
+    "eco_tourism",
+    "wellness_hot_springs",
+    "handloom_crafts"
+  ],
+  "religiousAssociations": [
+    "buddhism",
+    "jainism",
+    "hinduism",
+    "islam",
+    "sikhism"
+  ],
+  "placeIds": [
+    "archaeological-site-of-nalanda-mahavihara",
+    "nalanda-mahavihara",
+    "hiuen-tsang-memorial-hall",
+    "nalanda-archaeological-museum",
+    "pawapuri-jal-mandir",
+    "vishwa-shanti-stupa-rajgir",
+    "kundalpur-jain-temple"
+  ],
+  "featuredPlaceIds": [
+    "archaeological-site-of-nalanda-mahavihara",
+    "nalanda-mahavihara",
+    "hiuen-tsang-memorial-hall",
+    "nalanda-archaeological-museum",
+    "pawapuri-jal-mandir",
+    "vishwa-shanti-stupa-rajgir",
+    "kundalpur-jain-temple"
+  ],
+  "nearbyDistrictIds": [
+    "patna",
+    "gaya",
+    "nawada",
+    "sheikhpura",
+    "lakhisarai",
+    "jehanabad"
+  ],
+  "status": "published",
+  "verification": {
+    "status": "verified",
+    "lastVerifiedAt": "2026-09-19",
+    "sources": [
+      {
+        "name": "Nalanda District Administration Portal",
+        "url": "https://nalanda.nic.in",
+        "type": "official"
+      },
+      {
+        "name": "Census of India 2011",
+        "url": "https://censusindia.gov.in",
+        "type": "government"
+      },
+      {
+        "name": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1502",
+        "type": "official"
+      }
+    ]
+  },
+  "overview": {
+    "en": "**Nalanda**, situated in the heart of south Bihar, is universally celebrated as the ancient world's premier sanctuary of higher learning and spiritual illumination. With its administrative headquarters located at **Bihar Sharif**, the district represents a glorious convergence of intellectual triumph, imperial heritage, and religious tolerance spanning over two and a half millennia.\n\nThe district is globally immortalized by the **Archaeological Site of Nalanda Mahavihara**, an illustrious UNESCO World Heritage Site where thousands of scholars and monks once congregated from across Asia. Adjacent to it lies **Rajgir (ancient Rajagriha)**, the majestic first capital of the Magadha Empire, enveloped by five verdant hills, therapeutic hot springs, and sacred shrines venerated by Buddhists, Jains, Hindus, and Sikhs alike. Further south, **Pawapuri** stands as the holy pilgrimage where Lord Mahavira, the 24th Tirthankara of Jainism, attained supreme Nirvana.\n\nToday, Nalanda seamlessly marries its venerable past with vibrant modern progress. Blessed with lush agricultural valleys, flourishing handlooms like GI-tagged **Bawan Buti**, culinary legends like **Silao Khaja**, and state-of-the-art eco-tourism landmarks such as the Rajgir Glass Skywalk, Nalanda offers an unforgettable journey into India's deepest intellectual and cultural soul.",
+    "hi": "**नालंदा**, दक्षिण बिहार के हृदय स्थल में स्थित, ज्ञान, दर्शन और आध्यात्मिक चेतना का वैश्विक उद्गम केंद्र रहा है। **बिहार शरीफ** के प्रशासनिक मुख्यालय वाला यह ऐतिहासिक जिला ढाई सहस्राब्दियों से अधिक समय से भारतीय बौद्धिक चिंतन, साम्राज्यिक वैभव और सर्वधर्म सद्भाव का अप्रतिम प्रतीक है।\n\nयह जिला विश्व पटल पर **नालंदा महाविहार के पुरातात्विक स्थल** के लिए सुविख्यात है, जो यूनेस्को का एक प्रतिष्ठित विश्व धरोहर स्थल है। 5वीं शताब्दी से 12वीं शताब्दी तक यह संसार का पहला पूर्णतः आवासीय अंतरराष्ट्रीय विश्वविद्यालय था, जहाँ संपूर्ण एशिया से जिज्ञासु ज्ञानार्जन हेतु आते थे। इसके समीप ही **राजगीर (प्राचीन राजगृह)** स्थित है, जो कभी शक्तिशाली मगध साम्राज्य की प्रथम राजधानी थी। पाँच सुरम्य पहाड़ियों, औषधीय गंधक युक्त गर्म जलकुंडों और वेणुवन से सुशोभित राजगीर बौद्ध, जैन, हिंदू एवं सिख परंपराओं का पावन संगम है। इसी जिले में **पावापुरी** स्थित है, जहाँ जैन धर्म के 24वें तीर्थंकर भगवान महावीर ने निर्वाण प्राप्त किया था।\n\nवर्तमान में नालंदा अपनी पुरातन गरिमा को आधुनिक विकास के साथ समाहित किए हुए है। जीआई-टैग प्राप्त **बावन बूटी** हथकरघा, लजीज **सिलाव का खाजा**, उन्नत कृषि और राजगीर ग्लास स्काईवॉक जैसे आधुनिक इको-टूरिज्म आकर्षणों से समृद्ध यह जिला भारत की शाश्वत आत्मा का दर्शन कराता है।"
+  },
+  "history": {
+    "en": "The history of **Nalanda** is inextricably interwoven with the foundation of Indian philosophical inquiry, monastic Buddhism, and classical statecraft.\n\n- **The Golden Age of Learning (5th – 12th Century CE):** Established during the reign of Gupta Emperor **Kumaragupta I** (415–455 CE), the **Nalanda Mahavihara** grew into an unprecedented monastic university. Patronized generously by the later Guptas, King **Harshavardhana** of Kannauj, and the Buddhist **Pala monarchs**, it attracted over 10,000 students and 2,000 savants from China, Korea, Tibet, and Central Asia. Chinese pilgrim-scholars **Xuanzang (Hiuen Tsang)** and **Yijing** documented its rigorous entrance debates, distinguished faculty led by venerable abbots like **Shilabhadra**, and its three-towered celestial library, *Dharmaganja*.\n\n- **Epicenter of Ancient Empires:** Before Pataliputra, Rajgir (*Girivraja*) served as the fortified capital of Magadha under **King Bimbisara** and **Ajatashatru**. The rocky battlements, Jarasandha's Akhada, and Bimbisara's jail testify to the epic geopolitical dramas recorded in the *Mahabharata* and Buddhist *Tripitaka*.\n\n- **Spiritual Watershed:** Both **Gautama Buddha** and **Lord Mahavira** spent decades wandering and preaching across this soil. The First Buddhist Council convened in Rajgir's Saptaparni Cave shortly after Buddha's Mahaparinirvana in 483 BCE to compile the canonical teachings.\n\n- **Medieval & Sufi Heritage:** The tragic sack of the monastic complex in 1193 CE marked the end of the classical university. In the medieval era, Bihar Sharif flourished as a premier administrative seat and spiritual center under the Delhi Sultanate and Suri dynasty, immortalized by the revered 14th-century Sufi mystic **Makhdum Sharfuddin Yahya Maneri**.",
+    "hi": "**नालंदा का इतिहास** भारतीय दार्शनिक चेतना, बौद्ध धर्म के उत्कर्ष और प्राचीन साम्राज्यिक शासन व्यवस्था का स्वर्णिम अध्याय है।\n\n- **ज्ञान का स्वर्ण युग (5वीं से 12वीं शताब्दी ईस्वी):** गुप्त वंश के प्रतापी सम्राट **कुमारगुप्त प्रथम** ने 5वीं शताब्दी में नालंदा महाविहार की आधारशिला रखी थी। परवर्ती गुप्त सम्राटों, कन्नौज के राजा **हर्षवर्धन** और **पाल राजवंश** के उदार संरक्षण में यह महाविहार विश्व के सर्वोच्च ज्ञान पीठ के रूप में प्रतिष्ठित हुआ। यहाँ चीन, तिब्बत, कोरिया, जावा और मध्य एशिया से 10,000 से अधिक विद्यार्थी और 2,000 शिक्षक निवास करते थे। चीनी यात्री **ह्वेनसांग (Xuanzang)** और **इत्सिंग (Yijing)** ने यहाँ वर्षों रहकर शिक्षा ग्रहण की और कुलपति **शीलभद्र** के सान्निध्य में ज्ञानार्जन का सजीव वर्णन लिखा। यहाँ का बहुमंजिला पुस्तकालय *धर्मगंज* (रत्नसागर, रत्नोदधि, और रत्नरंजक) ज्ञान का अक्षय भंडार था।\n\n- **मगध का साम्राज्यिक उद्गम:** पाटलिपुत्र से पूर्व, राजगीर (गिरिव्रज) **बिंबिसार** और **अजातशत्रु** के काल में मगध साम्राज्य की अभेद्य राजधानी थी। महाभारत कालीन जरासंध का अखाड़ा और चक्रवर्ती राजाओं की प्राचीरें आज भी जीवंत हैं।\n\n- **तीर्थंकरों और बुद्ध की पावन भूमि:** भगवान बुद्ध ने राजगीर के गृद्धकूट पर्वत और वेणुवन में अनेक वर्षावास बिताए। भगवान बुद्ध के महापरिनिर्वाण के पश्चात 483 ईसा पूर्व में प्रथम बौद्ध संगीति राजगीर की सप्तपर्णी गुफा में आयोजित हुई। वहीं पावापुरी में भगवान महावीर ने कैवल्य और निर्वाण प्राप्त किया।\n\n- **मध्यकालीन एवं सूफी विरासत:** 1193 ईस्वी में बख्तियार खिलजी के आक्रमण से महाविहार को भारी क्षति पहुँची। मध्यकाल में बिहार शरीफ दिल्ली सल्तनत व मुगलों के अधीन मगध का प्रमुख प्रशासनिक केंद्र बना, जिसे 14वीं शताब्दी के महान सूफी संत **हजरत मखदूम शरफुद्दीन यहया मनेरी** की साधना स्थली होने का गौरव प्राप्त हुआ।"
+  },
+  "geography": {
+    "location": {
+      "en": "Located in the south-central plains of Bihar within Patna Division, extending between 24°57' N to 25°27' N latitudes and 85°10' E to 85°56' E longitudes.",
+      "hi": "दक्षिण-मध्य बिहार के पटना प्रमंडल में स्थित, जिसका भौगोलिक विस्तार 24°57' उत्तरी से 25°27' उत्तरी अक्षांश तथा 85°10' पूर्वी से 85°56' पूर्वी देशांतर के मध्य है।"
+    },
+    "areaSqKm": 2355,
+    "boundaries": {
+      "en": "Bounded by Patna district to the north, Nawada district to the south, Sheikhpura and Lakhisarai districts to the east, and Gaya and Jehanabad districts to the west.",
+      "hi": "उत्तर में पटना जिला, दक्षिण में नवादा जिला, पूर्व में शेखपुरा एवं लखीसराय जिले, तथा पश्चिम में गया और जहानाबाद जिलों से घिरा हुआ है।"
+    },
+    "physiography": {
+      "en": "The landscape predominantly features flat, highly fertile Gangetic alluvial plains in the central and northern regions, juxtaposed with the ancient, rugged Rajgir hill range in the south. The Rajgir hills comprise five famous quartzite and phyllite ridges—Vipulagiri, Ratnagiri, Vaibhargiri, Songiri, and Udaygiri—rising to elevations of up to 388 metres and harboring natural, mineral-rich geothermal hot springs.",
+      "hi": "जिले का अधिकांश भूभाग उपजाऊ जलोढ़ मैदानों से निर्मित है, जबकि दक्षिणी भाग में राजगीर की सुरम्य शैलमालाएं विद्यमान हैं। राजगीर की पहाड़ियों में पाँच प्रमुख पर्वत शिखर—विपुलगिरि, रत्नागिरि, वैभारगिरि, सोनगिरि और उदयगिरि—शामिल हैं, जिनकी अधिकतम ऊंचाई लगभग 388 मीटर है। यह क्षेत्र औषधीय गुणों से युक्त प्राकृतिक गंधक गर्म जल स्रोतों (कुंडों) के लिए प्रसिद्ध है।"
+    },
+    "climate": {
+      "en": "Features a humid subtropical climate (Köppen Cwa) marked by three distinct seasons: hot, dry summers (March to June) with maximum temperatures reaching 42°C-44°C, a monsoon season (July to September) bringing approximately 1,000 mm of rainfall, and pleasant, crisp winters (November to February) with temperatures ranging between 8°C and 22°C.",
+      "hi": "उपोष्णकटिबंधीय आर्द्र जलवायु (Köppen Cwa) पाई जाती है जिसमें तीन प्रमुख मौसम होते हैं: ग्रीष्मकाल (मार्च से जून) जिसमें तापमान 42°C से 44°C तक पहुँच जाता है, मानसूनी वर्षाकाल (जुलाई से सितंबर) जिसमें लगभग 1,000 मिमी औसत वर्षा होती है, तथा सुखद शीतकाल (नवंबर से फरवरी) जहाँ तापमान 8°C से 22°C के मध्य रहता है।"
+    },
+    "rivers": [
+      {
+        "name": {
+          "en": "Falgu",
+          "hi": "फल्गु"
+        },
+        "description": {
+          "en": "Flows along the southwestern periphery of the district, deeply revered in spiritual rituals and characterized by its broad, seasonal sandy riverbed.",
+          "hi": "जिले के दक्षिण-पश्चिमी सीमांत क्षेत्र से बहने वाली पवित्र नदी, जो धार्मिक अनुष्ठानों और अपने विस्तृत रेतीले पाट के लिए जानी जाती है।"
+        }
+      },
+      {
+        "name": {
+          "en": "Panchane",
+          "hi": "पंचाने"
+        },
+        "description": {
+          "en": "Formed by the confluence of five hill torrents entering the plains near Giriyak, serving as the critical drainage and irrigation lifeline for central Nalanda.",
+          "hi": "गिरियक के समीप पाँच पहाड़ी धाराओं के संगम से निर्मित होने वाली मुख्य नदी, जो मध्य नालंदा में कृषि और जल निकासी की जीवन रेखा है।"
+        }
+      },
+      {
+        "name": {
+          "en": "Mohane",
+          "hi": "मुहाने"
+        },
+        "description": {
+          "en": "Flows northward from the Chota Nagpur plateau fringes, providing vital seasonal water resources for agriculture in southern blocks.",
+          "hi": "छोटानागपुर के पठारी ढलानों से उत्तर की ओर प्रवाहित होने वाली महत्वपूर्ण नदी, जो दक्षिणी प्रखंडों में कृषि हेतु जल उपलब्ध कराती है।"
+        }
+      },
+      {
+        "name": {
+          "en": "Sakri",
+          "hi": "सकरी"
+        },
+        "description": {
+          "en": "Emerges from the Hazaribagh range and traverses eastern Nalanda, feeding a dense network of traditional indigenous irrigation channels (Ahars and Pynes).",
+          "hi": "हजारीबाग की पहाड़ियों से निकलकर पूर्वी नालंदा से होकर बहने वाली नदी, जो पारंपरिक आहर-पाइन सिंचाई प्रणालियों को समृद्ध करती है।"
+        }
+      },
+      {
+        "name": {
+          "en": "Jirayan",
+          "hi": "जिरायन"
+        },
+        "description": {
+          "en": "Meanders through the agricultural plains of Rahui and Bind blocks, nurturing extensive vegetable and paddy farming before joining lower marshlands.",
+          "hi": "रहुई और बिंद प्रखंडों के उपजाऊ कृषि मैदानों से प्रवाहित होने वाली स्थानीय नदी, जो सब्जी व धान की खेती के लिए जल प्रदान करती है।"
+        }
+      }
+    ]
+  },
+  "demographics": {
+    "population": {
+      "value": 2877653,
+      "year": 2011,
+      "source": "Census of India 2011"
+    },
+    "density": {
+      "value": 1222,
+      "year": 2011
+    },
+    "literacyRate": {
+      "value": 64.43,
+      "year": 2011
+    },
+    "sexRatio": {
+      "value": 922,
+      "year": 2011
+    }
+  },
+  "administration": {
+    "headquarters": {
+      "en": "Bihar Sharif",
+      "hi": "बिहार शरीफ"
+    },
+    "subdivisions": 3,
+    "blocks": 20,
+    "villages": 1084,
+    "asOf": "2024"
+  },
+  "economy": {
+    "description": {
+      "en": "The economy of Nalanda represents a balanced synergy of **agro-horticulture**, **international pilgrimage and eco-tourism**, and **traditional rural handlooms**.\n\n- **Tourism & Hospitality:** Anchored by the UNESCO World Heritage Nalanda ruins, the Rajgir pilgrimage circuit, and Pawapuri, tourism is a massive employment driver supporting hospitality, transport, guides, and artisanal craft markets.\n- **Industrial Presence:** Houses the strategic **Ordnance Factory Nalanda (OFN)** at Rajgir, along with cold storages, rice milling units, and agro-processing plants.\n- **Handloom Weaving:** Baswan Bigha and Nepura form a renowned rural cluster creating GI-tagged **Bawan Buti** textiles, engaging generations of master weavers.",
+      "hi": "नालंदा की अर्थव्यवस्था मुख्यतः **कृषि-बागवानी**, **अंतरराष्ट्रीय एवं पारिस्थितिकी पर्यटन**, और **पारंपरिक हथकरघा उद्योग** पर आधारित है।\n\n- **पर्यटन का वैश्विक केंद्र:** यूनेस्को विश्व धरोहर स्थल नालंदा महाविहार के खंडहर, राजगीर का बहुधार्मिक पर्यटन परिक्षेत्र और पावापुरी हर वर्ष लाखों देशी-विदेशी पर्यटकों को आकर्षित करते हैं, जिससे होटल, परिवहन और हस्तशिल्प क्षेत्र को बड़ा आर्थिक संबल मिलता है।\n- **औद्योगिक अवसंरचना:** राजगीर में रक्षा मंत्रालय का सामरिक **आयुध निर्माणी नालंदा (Ordnance Factory Nalanda)** स्थित है। इसके अतिरिक्त आधुनिक कोल्ड स्टोरेज, चावल मिलें और कृषि-आधारित प्रसंस्करण इकाइयाँ कार्यरत हैं।\n- **हथकरघा क्लस्टर:** बसवन बीघा और नेपुरा के बुनकर क्लस्टर में जीआई टैग प्राप्त **बावन बूटी** साड़ियों का निर्माण होता है, जो ग्रामीण रोजगार का प्रमुख माध्यम है।"
+    },
+    "majorIndustries": {
+      "en": "- Tourism & Hospitality (Hotels, Heritage Guides, Ropeway & Safari Services)\n- Defense Manufacturing (Ordnance Factory Nalanda at Rajgir)\n- Handlooms & Textiles (GI-tagged Bawan Buti weaving at Baswan Bigha and Nepura)\n- Agro-Processing (Commercial cold storage network for potatoes, modern rice mills)\n- Food & Confectionery (GI-tagged Silao Khaja manufacturing clusters)",
+      "hi": "- पर्यटन एवं आतिथ्य उद्योग (होटल, गाइड सेवाएं, रोपवे एवं सफारी प्रबंधन)\n- रक्षा विनिर्माण (राजगीर स्थित आयुध निर्माणी नालंदा)\n- हथकरघा एवं वस्त्र उद्योग (बसवन बीघा व नेपुरा की जीआई-प्रमाणित बावन बूटी बुनाई)\n- कृषि प्रसंस्करण (आलू भंडारण हेतु कोल्ड स्टोरेज श्रृंखला, आधुनिक चावल मिलें)\n- पारंपरिक मिष्ठान्न उद्योग (सिलाव खाजा निर्माण क्लस्टर)"
+    }
+  },
+  "agriculture": {
+    "description": {
+      "en": "Agriculture constitutes the primary livelihood foundation of Nalanda, propelled by rich alluvial soil, modern tube-well infrastructure, and traditional Ahar-Pyne canal networks.\n\n- **Vegetable Powerhouse of Bihar:** Nalanda is widely celebrated as eastern India's foremost hub for year-round potato production and certified seed farming, alongside extensive onion and cauliflower yields.\n- **Magahi Paan:** The specialized farmers of Islampur and Rajgir cultivate the world-famous GI-tagged **Magahi Paan**, prized across the subcontinent for its aromatic, melting texture.\n- **Agricultural Innovation:** Nalanda's farmers have achieved record-breaking yields in rice and potato through the widespread adoption of the System of Rice Intensification (SRI) and certified organic farming practices.",
+      "hi": "कृषि नालंदा की आजीविका का मुख्य आधार है, जिसे उपजाऊ जलोढ़ मृदा, सुदृढ़ नलकूप अवसंरचना तथा ऐतिहासिक आहर-पाइन सिंचाई प्रणालियों का संबल प्राप्त है।\n\n- **सब्जियों का प्रमुख केंद्र:** नालंदा को बिहार का सबसे प्रमुख सब्जी उत्पादक जिला माना जाता है। यहाँ का आलू, प्याज और फूलगोभी उत्पादन पूरे देश में ख्याति प्राप्त है, जहाँ उन्नत बीज उत्पादन भी होता है।\n- **मगही पान:** इस्लामपुर और राजगीर प्रखंडों में पारंपरिक 'बरेजा' में जीआई-टैग प्राप्त **मगही पान** का उत्पादन किया जाता है, जो अपने रेशारहित कोमल पत्तों और लाजवाब स्वाद के लिए प्रसिद्ध है।\n- **उन्नत कृषि नवाचार:** इस जिले के कृषकों ने धान की सघन प्रणाली (SRI विधि) और जैविक खेती अपनाकर राष्ट्रीय स्तर पर रिकॉर्ड पैदावार दर्ज की है।"
+    },
+    "majorCrops": {
+      "en": "- Cereals: Paddy (Rice), Wheat, Maize, Barley\n- Pulses: Lentil (Masoor), Gram (Chana), Arhar (Pigeon Pea), Khesari\n- Commercial & Vegetables: Potato, Onion, Cauliflower, Pointed Gourd (Parwal), Magahi Paan (Betel Leaf), Mustard\n- Fruits: Mango, Guava, Papaya",
+      "hi": "- खाद्यान्न: धान (चावल), गेहूँ, मक्का, जौ\n- दलहन: मसूर, चना, अरहर, खेसारी\n- नकदी व सब्जियां: आलू, प्याज, फूलगोभी, परवल, मगही पान, सरसों\n- फल: आम, अमरूद, पपीता"
+    }
+  },
+  "culture": {
+    "festivals": {
+      "en": "- **Rajgir Mahotsav:** A premier multi-day state cultural festival held each winter in Rajgir, showcasing classical music legends, traditional dance recitals, and artisan crafts.\n- **Chhath Puja:** Celebrated with unmatched devotion along water bodies, drawing tens of thousands of pilgrims to the ancient **Surya Mandir in Bargaon** and Aungari Dham.\n- **Mahavira Nirvana Mahotsav (Pawapuri):** Celebrated annually on Diwali with grand ceremonial lighting of lamps (Deepotsava) at the Jal Mandir and the offering of Laddu.\n- **Buddha Jayanti:** Observed with sacred chants, meditation retreats, and international peace processions at the Vishwa Shanti Stupa and Nalanda ruins.\n- **Malamas Mela (Rajgir):** A mammoth sacred month-long fair held every three years during leap month (Adhik Maas), drawing millions for ritual bathing in the 22 holy hot water springs.\n- **Urs of Badi Dargah (Bihar Sharif):** An annual inter-faith spiritual gathering commemorating the revered 14th-century Sufi mystic Hazrat Makhdum Sharfuddin Yahya Maneri.",
+      "hi": "- **राजगीर महोत्सव:** बिहार पर्यटन द्वारा शीत ऋतु में आयोजित एक भव्य बहुदिवसीय सांस्कृतिक उत्सव, जिसमें देश के मूर्धन्य शास्त्रीय संगीतकार, नर्तक और लोक कलाकार भाग लेते हैं।\n- **छठ पूजा:** जिले भर में अपार श्रद्धा से मनाया जाने वाला महापर्व, विशेषकर नालंदा महाविहार के समीप स्थित ऐतिहासिक **बड़गांव सूर्य मंदिर** और औंगारी धाम में।\n- **महावीर निर्वाण महोत्सव (पावापुरी):** दीपावली के पावन अवसर पर पावापुरी के जल मंदिर में विश्व भर से आए जैन धर्मावलंबियों द्वारा भव्य दीपोत्सव और निर्वाण लाडू अर्पण।\n- **बुद्ध जयंती:** विश्व शांति स्तूप (राजगीर) और नालंदा महाविहार में विशेष बौद्ध प्रार्थनाओं, ध्यान साधना और अंतरराष्ट्रीय शांति यात्राओं का आयोजन।\n- **मलमास (अधिकमास) मेला:** राजगीर में प्रत्येक तीन वर्ष में आयोजित होने वाला ऐतिहासिक मेला, जहाँ लाखों श्रद्धालु 22 पवित्र गर्म जलकुंडों में आस्था की डुबकी लगाते हैं।\n- **बड़ी दरगाह उर्स (बिहार शरीफ):** 14वीं सदी के महान सूफी संत हजरत मखदूम शरफुद्दीन यहया मनेरी की याद में आयोजित उर्स, जो सर्वधर्म सद्भाव का अनुपम संगम है।"
+    },
+    "artAndCrafts": {
+      "en": "- **Bawan Buti Handloom Weaving:** A rare 52-motif extra-weft cotton and silk weaving craft from Baswan Bigha and Nepura, officially protected with a Geographical Indication (GI) tag.\n- **Stone Carving & Sculpture:** Traditional artisans around Rajgir carving intricate religious idols, architectural panels, and stone artefacts.\n- **Terracotta & Pottery:** Skilled village potters producing decorative earthen lamps, ritual vessels, and terracotta pottery for regional festivals.\n- **Sikki Grass & Bamboo Craft:** Delicate traditional baskets, hand fans, and ritual accessories woven from indigenous golden grass and wild reeds.",
+      "hi": "- **बावन बूटी हथकरघा:** बसवन बीघा और नेपुरा के बुनकरों द्वारा 52 विशिष्ट प्रतीकों (बूटियों) से सुसज्जित पारंपरिक वस्त्र कला, जिसे प्रतिष्ठित जीआई (GI) टैग प्राप्त है।\n- **पत्थर तराशी एवं मूर्तिकला:** राजगीर की पहाड़ियों के समीप स्थित पारंपरिक शिल्पकारों द्वारा मूर्तियों, जालीदार कलाकृतियों और पाषाण बर्तनों का निर्माण।\n- **टेराकोटा एवं मृदभांड कला:** स्थानीय कुम्हारों द्वारा पर्व-त्योहारों के लिए मिट्टी के सुंदर दीये, कलश, खिलौने और सजावटी बर्तन निर्माण।\n- **सिक्की घास एवं बांस हस्तशिल्प:** पारंपरिक सुनहरी सिक्की घास और बांस से कलात्मक डलिया, पंखे और घरेलू उपयोगी सजावटी वस्तुओं का निर्माण।"
+    },
+    "food": {
+      "en": "- **Silao Khaja:** A legendary crisp, 52-layered sweet prepared from wheat flour and dipped in sugar syrup, granted the GI Tag in 2018.\n- **Litti Chokha:** Traditional baked whole-wheat dumplings stuffed with spiced roasted gram flour (sattu), served with desi ghee, baingan bharta, and mashed potatoes.\n- **Tilkut & Anarsa:** Traditional festive treats made from roasted sesame, jaggery, and fermented rice batter.\n- **Magahi Paan:** Savored after meals for its melt-in-the-mouth tenderness and delicately scented blend of traditional spices.\n- **Dal Puri & Kheer:** Ceremonial comfort dish prepared during auspicious festivities and household gatherings.",
+      "hi": "- **सिलाव का खाजा:** मैदा, घी और चीनी की चाशनी से निर्मित 52 परतों वाला अत्यंत कुरकुरा और स्वादिष्ट पारंपरिक मिष्ठान्न, जिसे वर्ष 2018 में आधिकारिक जीआई (GI) टैग प्रदान किया गया।\n- **लिट्टी चोखा:** भुने हुए चने के सत्तू और मसालों से भरी गेहूं के आटे की बाटी, जिसे उपलों पर सेंककर शुद्ध देसी घी में डुबोया जाता है और चोखे के साथ परोसा जाता है।\n- **अनरसा एवं तिलकुट:** चावल के आटे, खोया, तिल और गुड़ अथवा चीनी से तैयार किए जाने वाले लोकप्रिय पारंपरिक मिष्ठान्न।\n- **मगही पान:** भोजन के पश्चात खाया जाने वाला सुप्रसिद्ध पान, जो अपने रेशारहित कोमल पत्तों और विशिष्ट सुवास के लिए जाना जाता है।\n- **दाल पूरी और खीर:** मांगलिक और धार्मिक अवसरों पर बनने वाला पारंपरिक मगही भोजन।"
+    }
+  },
+  "transport": {
+    "road": {
+      "en": "Nalanda enjoys exceptional road connectivity. **National Highway 20 (NH-20)** traverses north-south through Bihar Sharif, linking it directly to Bakhtiyarpur (NH-31) and Nawada/Ranchi. **NH-120** connects Bihar Sharif to Rajgir, Gaya, and Bodh Gaya. A smooth 4-lane expressway corridor provides seamless, rapid transit between Patna, Rajgir, and Nalanda, serviced by daily luxury state (BSRTC) and private tourist buses.",
+      "hi": "नालंदा सड़क मार्ग द्वारा राजधानी पटना और पड़ोसी जिलों से उत्कृष्ट रूप से जुड़ा हुआ है। **राष्ट्रीय राजमार्ग 20 (NH-20)** बिहार शरीफ से होकर गुजरता है, जो बख्तियारपुर और नवादा/राँची को जोड़ता है। **राष्ट्रीय राजमार्ग 120 (NH-120)** बिहार शरीफ को राजगीर और गया/बोधगया से जोड़ता है। पटना से राजगीर के लिए आधुनिक 4-लेन एक्सप्रेसवे कॉरिडोर उपलब्ध है, जिस पर बिहार राज्य सड़क परिवहन निगम (BSRTC) की डीलक्स बसें और निजी वाहन सुगमता से संचालित होते हैं।"
+    },
+    "railway": {
+      "en": "The district is serviced by two major rail stations: **Bihar Sharif Junction (BEHS)** and **Rajgir Railway Station (RGD)** under the East Central Railway (Danapur Division). Key long-distance trains including the *Shramjeevi Superfast Express* (to New Delhi), *Budhpurnima Express* (to Varanasi), and *Rajgir-Howrah Express* offer direct daily connectivity.",
+      "hi": "जिला पूर्व मध्य रेलवे (दानापुर मंडल) के तहत दो प्रमुख स्टेशनों—**बिहार शरीफ जंक्शन (BEHS)** और **राजगीर रेलवे स्टेशन (RGD)**—से जुड़ा है। यहाँ से नई दिल्ली के लिए *श्रमजीवी सुपरफास्ट एक्सप्रेस*, वाराणसी के लिए *बुद्ध पूर्णिमा एक्सप्रेस*, तथा कोलकाता के लिए *राजगीर-हावड़ा एक्सप्रेस* जैसी महत्वपूर्ण रेलगाड़ियाँ नियमित संचालित होती हैं।"
+    },
+    "airport": {
+      "en": "The nearest operational domestic and international airport is **Jay Prakash Narayan International Airport (PAT)** in Patna, approximately 75 km to the northwest, offering connections to all major Indian hubs. Additionally, **Gaya International Airport (GAY)** is situated 78 km to the southwest, operating seasonal international flights for Buddhist pilgrims. A fully equipped VIP helipad is also active at Rajgir.",
+      "hi": "निकटतम प्रमुख चालू हवाई अड्डा पटना स्थित **जयप्रकाश नारायण अंतरराष्ट्रीय हवाई अड्डा (PAT)** है, जो लगभग 75 किमी उत्तर-पश्चिम में स्थित है और देश के सभी प्रमुख महानगरों से सीधे जुड़ा है। दूसरा विकल्प दक्षिण-पश्चिम में लगभग 78 किमी दूर **गया अंतरराष्ट्रीय हवाई अड्डा (GAY)** है, जहाँ से दक्षिण-पूर्व एशियाई बौद्ध देशों के लिए मौसमी उड़ानें उपलब्ध रहती हैं। राजगीर में एक आधुनिक हेलीपैड भी सक्रिय है।"
+    }
+  },
+  "importantPersonalities": [
+    {
+      "name": {
+        "en": "Aryabhata",
+        "hi": "आर्यभट"
+      },
+      "association": {
+        "en": "Legendary ancient Indian mathematician and astronomer who developed foundational principles of trigonometry and zero; deeply associated with astronomical observations at Nalanda and Taregana.",
+        "hi": "प्राचीन भारत के महान गणितज्ञ और खगोलशास्त्री, जिन्होंने शून्य और त्रिकोणमिति के मूल सिद्धांतों की रचना की; नालंदा और तारेगना वेधशाला से गहराई से जुड़े रहे।"
+      }
+    },
+    {
+      "name": {
+        "en": "Xuanzang (Hiuen Tsang)",
+        "hi": "ह्वेनसांग"
+      },
+      "association": {
+        "en": "Celebrated 7th-century Chinese Buddhist monk, scholar, and traveler who studied and taught at Nalanda Mahavihara for years under Chancellor Shilabhadra; commemorated today at the Xuanzang Memorial Hall.",
+        "hi": "7वीं शताब्दी के महान चीनी बौद्ध भिक्षु, विद्वान और यात्री, जिन्होंने कुलपति शीलभद्र के मार्गदर्शन में नालंदा महाविहार में वर्षों तक अध्ययन और अध्यापन किया; उनकी स्मृति में नालंदा में भव्य ह्वेनसांग मेमोरियल हॉल निर्मित है।"
+      }
+    },
+    {
+      "name": {
+        "en": "Acharya Shilabhadra",
+        "hi": "आचार्य शीलभद्र"
+      },
+      "association": {
+        "en": "Venerated Buddhist philosopher and supreme Abbot of Nalanda Mahavihara who mentored Xuanzang and steered the university to the zenith of classical scholarship.",
+        "hi": "नालंदा महाविहार के पूज्य कुलाधिपति और दार्शनिक गुरु, जिन्होंने ह्वेनसांग को योगशास्त्र की शिक्षा दी और नालंदा को वैश्विक ज्ञान की पराकाष्ठा पर पहुँचाया।"
+      }
+    },
+    {
+      "name": {
+        "en": "Nagarjuna",
+        "hi": "नागार्जुन"
+      },
+      "association": {
+        "en": "Eminent 2nd-century Buddhist philosopher who founded the Madhyamaka (Middle Way) school of Mahayana Buddhism, traditionally revered as a master teacher at Nalanda.",
+        "hi": "महायान बौद्ध दर्शन के माध्यमिक (शून्यवाद) संप्रदाय के संस्थापक एवं महान दार्शनिक, जिनका नालंदा महाविहार से अभिन्न संबंध रहा।"
+      }
+    },
+    {
+      "name": {
+        "en": "Lord Mahavira",
+        "hi": "भगवान महावीर"
+      },
+      "association": {
+        "en": "The 24th Tirthankara of Jainism, who spent numerous monsoon retreats preaching across Nalanda and attained final liberation (Moksha) at Pawapuri in 527 BCE.",
+        "hi": "जैन धर्म के 24वें तीर्थंकर, जिन्होंने नालंदा में कई वर्षावास बिताए और 527 ईसा पूर्व में पावापुरी की पावन भूमि पर महापरिनिर्वाण (मोक्ष) प्राप्त किया।"
+      }
+    },
+    {
+      "name": {
+        "en": "Sariputra",
+        "hi": "सारिपुत्र"
+      },
+      "association": {
+        "en": "One of Gautama Buddha's two chief disciples, born in Nalaka village near Nalanda; the monumental Great Stupa (Site 3) within the Nalanda excavations honors his sacred relics.",
+        "hi": "भगवान बुद्ध के प्रधान और परम प्रज्ञावान शिष्य, जिनका जन्म नालंदा के समीप नालक ग्राम में हुआ था; नालंदा उत्खनन का विशाल सारिपुत्र स्तूप उनकी पावन स्मृति को समर्पित है।"
+      }
+    },
+    {
+      "name": {
+        "en": "Hazrat Makhdum Sharfuddin Yahya Maneri",
+        "hi": "हजरत मखदूम शरफुद्दीन यहया मनेरी"
+      },
+      "association": {
+        "en": "Eminent 14th-century Sufi saint of the Firdausiya order whose resting shrine at Badi Dargah in Bihar Sharif stands as an enduring beacon of communal harmony and mysticism.",
+        "hi": "फिरदौसिया सिलसिले के महान 14वीं सदी के सूफी संत, जिनकी बिहार शरीफ स्थित 'बड़ी दरगाह' सर्वधर्म सद्भाव, रूहानी शांति और सूफी परंपरा का पवित्र केंद्र है।"
+      }
+    }
+  ],
+  "tourismIdentity": [
+    {
+      "en": "**Cradle of Universal Wisdom (Nalanda Mahavihara):** UNESCO World Heritage site showcasing the excavated brick monasteries and stupas of the world's first residential international university.",
+      "hi": "**वैश्विक ज्ञान का उद्गम (नालंदा महाविहार):** विश्व के प्रथम आवासीय अंतरराष्ट्रीय विश्वविद्यालय के उत्खनित मठों, विहारों और स्तूपों का साक्षी यूनेस्को विश्व धरोहर स्थल।"
+    },
+    {
+      "en": "**Valley of Five Sacred Hills (Rajgir / Rajagriha):** Ancient capital of the Magadha Empire boasting hot sulphur springs, Vishwa Shanti Stupa, Griddhakuta Peak, and Bimbisara's jail.",
+      "hi": "**पाँच पावन पहाड़ियों की घाटी (राजगीर):** मगध साम्राज्य की प्राचीन राजधानी, जहाँ गर्म गंधक जलकुंड, विश्व शांति स्तूप, गृद्धकूट पर्वत और बिंबिसार का कारागार स्थित हैं।"
+    },
+    {
+      "en": "**Jain Holy Sanctuary of Nirvana (Pawapuri):** The mesmerizing white marble Jal Mandir standing amidst a blooming lotus lake where Lord Mahavira attained supreme liberation.",
+      "hi": "**जैन धर्म का परम निर्वाण तीर्थ (पावापुरी):** कमल सरोवर के मध्य श्वेत संगमरमर से सुशोभित जल मंदिर, जहाँ भगवान महावीर ने मोक्ष प्राप्त किया था।"
+    },
+    {
+      "en": "**Modern Eco-Adventure Destination (Rajgir Nature & Zoo Safari):** Home to India's premier Glass Skywalk bridge, suspension bridges, modern zoo safari, and scenic ropeway.",
+      "hi": "**आधुनिक इको-एडवेंचर एवं सफारी (राजगीर):** भारत का प्रसिद्ध ग्लास स्काईवॉक ब्रिज, सस्पेंशन ब्रिज, आधुनिक चिड़ियाघर सफारी और सुरम्य रोपवे।"
+    },
+    {
+      "en": "**Living Handloom & Culinary GI Heritage:** The authentic home of 52-layered crispy Silao Khaja sweets and delicate Bawan Buti handwoven sarees.",
+      "hi": "**जीवंत जीआई सांस्कृतिक धरोहर:** 52 परतों वाले लजीज सिलाव खाजा और 52 बूटियों से अलंकृत ऐतिहासिक बावन बूटी हथकरघा साड़ियों की पावन भूमि।"
+    }
+  ],
+  "didYouKnow": [
+    {
+      "en": "When the ancient library of Nalanda (*Dharmaganja*) was destroyed in 1193 CE, its collection of hundreds of thousands of handwritten manuscripts was so vast that it reportedly burned for over three full months.",
+      "hi": "जब 1193 ईस्वी में नालंदा के विशाल पुस्तकालय (*धर्मगंज*) को नष्ट किया गया, तो पांडुलिपियों का संग्रह इतना विपुल था कि वह तीन महीने से अधिक समय तक धधकता रहा था।"
+    },
+    {
+      "en": "Nalanda Mahavihara accommodated over 10,000 resident students and 2,000 eminent teachers from China, Korea, Japan, Tibet, Mongolia, and Sri Lanka, all supported completely free of cost through the royal revenue of 100 to 200 endowed villages.",
+      "hi": "नालंदा महाविहार में 10,000 से अधिक छात्र और 2,000 आचार्य निवास करते थे, जिनका भोजन, वस्त्र, आवास और चिकित्सा 100 से 200 दान दिए गए गांवों के राजस्व से पूर्णतः निःशुल्क संचालित होता था।"
+    },
+    {
+      "en": "Rajgir is ringed by an ancient 40-kilometer-long cyclopean stone wall built without mortar before the 6th century BCE—one of the oldest surviving stone fortifications in South Asia.",
+      "hi": "राजगीर 40 किलोमीटर लंबी प्राचीन साइक्लोपियन पाषाण प्राचीर से घिरा हुआ है, जो बिना गारे के ईसा पूर्व छठी शताब्दी से पहले बनाई गई थी और दक्षिण एशिया के सबसे पुराने पत्थर के किलों में से एक है।"
+    },
+    {
+      "en": "The renowned sweet delicacy **Silao Khaja** has 52 distinct crisp layers, and folklore traces its origins back to the era of Gautama Buddha, who was offered this sweet while traveling through the region.",
+      "hi": "प्रसिद्ध मिष्ठान्न **सिलाव खाजा** में 52 परतें होती हैं, और लोककथाओं के अनुसार इसकी उत्पत्ति गौतम बुद्ध के काल से जुड़ी है, जिन्हें इस क्षेत्र से गुजरते समय यह मिष्ठान्न भेंट किया गया था।"
+    },
+    {
+      "en": "The hot water springs of Rajgir (*Brahmakund* and *Saptadhara*) maintain a natural temperature of 45°C throughout the year and are infused with healing sulphur and minerals originating deep within the quartzite hills.",
+      "hi": "राजगीर के गर्म जलकुंड (*ब्रह्मकुंड* और *सप्तधारा*) वर्ष भर 45°C का प्राकृतिक तापमान बनाए रखते हैं, जो क्वार्ट्जाइट पहाड़ियों की गहराई से निकलने वाले औषधीय गंधक और खनिजों से युक्त हैं।"
+    }
+  ],
+  "sources": [
+    {
+      "title": "District Census Handbook: Nalanda (Series-11, Part XII-A & B)",
+      "organization": "Directorate of Census Operations, Bihar, Ministry of Home Affairs, Government of India",
+      "url": "https://censusindia.gov.in/census.website/data/census-tables",
+      "year": 2011
+    },
+    {
+      "title": "Archaeological Site of Nalanda Mahavihara at Nalanda, Bihar (UNESCO World Heritage List Ref: 1502)",
+      "organization": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/1502",
+      "year": 2016
+    },
+    {
+      "title": "Official Portal of Nalanda District Administration",
+      "organization": "District Administration Nalanda, Government of Bihar",
+      "url": "https://nalanda.nic.in",
+      "year": 2024
+    },
+    {
+      "title": "Geographical Indications Registry - Silao Khaja (GI Application No. 555) & Bawan Buti",
+      "organization": "Intellectual Property India, Ministry of Commerce and Industry, Government of India",
+      "url": "https://ipindia.gov.in",
+      "year": 2018
+    },
+    {
+      "title": "Bihar Tourism - Nalanda & Rajgir Destination Profiles",
+      "organization": "Bihar State Tourism Development Corporation (BSTDC), Department of Tourism, Government of Bihar",
+      "url": "https://tourism.bihar.gov.in",
+      "year": 2024
+    }
+  ]
+}

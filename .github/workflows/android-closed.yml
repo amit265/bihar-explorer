@@ -1,0 +1,81 @@
+name: Android Closed Testing Build
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    env:
+      EXPO_TOKEN: ${{ secrets.EXPO_TOKEN }}
+
+    steps:
+      # --------------------------------------------------
+      # 1. Checkout repository
+      # --------------------------------------------------
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # --------------------------------------------------
+      # 1.5. Safely Free Disk Space
+      # --------------------------------------------------
+      - name: Free Disk Space (Ubuntu)
+        uses: jlumbroso/free-disk-space@main
+        with:
+          tool-cache: false
+          android: false
+          dotnet: true
+          haskell: true
+          large-packages: true
+          docker-images: true
+          swap-storage: true
+
+      # --------------------------------------------------
+      # 2. Setup Node.js
+      # --------------------------------------------------
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      # --------------------------------------------------
+      # 3. Install dependencies
+      # --------------------------------------------------
+      - name: Install dependencies
+        run: npm ci
+
+      # --------------------------------------------------
+      # 4. Build using EAS locally on GitHub runner
+      # --------------------------------------------------
+      - name: Build Android with EAS
+        run: |
+          npx eas-cli build \
+            --platform android \
+            --profile production \
+            --local \
+            --non-interactive \
+            --output ./place-sathi-android.aab
+
+      # --------------------------------------------------
+      # 5. Upload AAB to GitHub Artifacts
+      # --------------------------------------------------
+      - name: Upload AAB artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: place-sathi-android-closed
+          path: ./place-sathi-android.aab
+          if-no-files-found: error
+
+      # --------------------------------------------------
+      # 6. Upload to Google Play Closed Testing
+      # --------------------------------------------------
+      - name: Upload to Google Play Closed Testing
+        uses: r0adkll/upload-google-play@v1
+        with:
+          serviceAccountJsonPlainText: ${{ secrets.GOOGLE_PLAY_SERVICE_ACCOUNT_JSON }}
+          packageName: com.mahavyomastudio.placesathi
+          releaseFiles: ./place-sathi-android.aab
+          track: alpha
+          status: completed

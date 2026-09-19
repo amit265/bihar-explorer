@@ -1,0 +1,495 @@
+{
+  "data": [
+    {
+      "id": "shiwalik-someshwar-hilly-region",
+      "name": {
+        "en": "Shiwalik & Someshwar Range",
+        "hi": "शिवालिक एवं सोमेश्वर श्रेणी"
+      },
+      "category": {
+        "en": "Hilly Region",
+        "hi": "पहाड़ी क्षेत्र"
+      },
+      "location": {
+        "en": "North-western tip of West Champaran district along the Nepal border",
+        "hi": "नेपाल सीमा के साथ पश्चिमी चंपारण जिले का उत्तर-पश्चिमी छोर"
+      },
+      "associatedDistricts": [
+        "west-champaran"
+      ],
+      "elevation": {
+        "en": "Highest peak: Someshwar Fort (~880 meters / 2,887 ft)",
+        "hi": "सर्वोच्च शिखर: सोमेश्वर किला (~880 मीटर / 2,887 फीट)"
+      },
+      "geologicalAge": {
+        "en": "Tertiary Period (Cenozoic Era), youngest mountain system",
+        "hi": "तृतीयक कल्प (सेनोज़ोइक युग), सबसे नवीन पर्वत प्रणाली"
+      },
+      "keyCharacteristics": {
+        "en": [
+          "Covers approximately 932 square kilometers in West Champaran",
+          "Divided into three sub-units: Someshwar Range, Ramnagar Dun, and Harha Valley (Dun Valley)",
+          "Formed of poorly consolidated sandstone, conglomerate, and shale",
+          "Rich dense sal and moist deciduous forests housing the Valmiki National Park",
+          "Key mountain passes into Nepal include Someshwar, Bhikhna Thori, and Marwat passes"
+        ],
+        "hi": [
+          "पश्चिमी चंपारण में लगभग 932 वर्ग किलोमीटर क्षेत्र में विस्तृत",
+          "तीन उप-इकाइयों में विभाजित: सोमेश्वर श्रेणी, रामनगर दून और हरहा घाटी (दून घाटी)",
+          "कम संहत बलुआ पत्थर, कांग्लोमरेट और शेल से निर्मित",
+          "वाल्मीकि राष्ट्रीय उद्यान को आश्रय देने वाले घने साल और आर्द्र पर्णपाती वन",
+          "नेपाल में जाने वाले प्रमुख पर्वतीय दर्रों में सोमेश्वर, भिखना ठोरी और मरवत दर्रे शामिल हैं"
+        ]
+      },
+      "description": {
+        "en": "### The Majestic Shiwalik Range\n\nThe **Shiwalik Range** in Bihar represents the state's only true mountainous terrain, proudly positioned in the north-western corner of **West Champaran**. \n\n### Key Geographic Highlights\n\n* **Highest Peak:** The **Someshwar fort summit** reaches an elevation of **880 meters**, marking the highest point in Bihar.\n* **Valley Formation:** The **Harha Valley** lies nestled between the northern Someshwar range and the southern Ramnagar Dun.\n* **Fertile Lands:** The region creates undulating valleys that are continuously drained and nourished by the swift tributaries of the **Gandak River**.\n\nThis majestic region is essential for preserving the rich biodiversity of the **Valmiki Tiger Reserve** and forming a robust ecological boundary.",
+        "hi": "### राजसी शिवालिक श्रेणी\n\nबिहार में **शिवालिक श्रेणी** राज्य के एकमात्र वास्तविक पर्वतीय भूभाग का प्रतिनिधित्व करती है, जो गर्व से **पश्चिमी चंपारण** के उत्तर-पश्चिमी कोने में स्थित है।\n\n### प्रमुख भौगोलिक विशेषताएं\n\n* **सर्वोच्च शिखर:** **सोमेश्वर किला शिखर** **880 मीटर** की ऊंचाई तक पहुंचता है, जो बिहार में उच्चतम बिंदु को चिह्नित करता है।\n* **घाटी निर्माण:** **हरहा घाटी** उत्तरी सोमेश्वर श्रेणी और दक्षिणी रामनगर दून के बीच स्थित है।\n* **उपजाऊ भूमि:** यह क्षेत्र ऐसी लहरदार घाटियों का निर्माण करता है जो **गंडक नदी** की तेज सहायक नदियों द्वारा निरंतर सिंचित और पोषित होती हैं।\n\nयह राजसी क्षेत्र **वाल्मीकि टाइगर रिजर्व** की समृद्ध जैव विविधता को संरक्षित करने और एक मजबूत पारिस्थितिक सीमा बनाने के लिए आवश्यक है।"
+      },
+      "economicSignificance": {
+        "en": "Forest timber, biodiversity conservation, eco-tourism at Valmiki Tiger Reserve, and watershed catchment for the Gandak river system.",
+        "hi": "वन्य काष्ठ, जैव विविधता संरक्षण, वाल्मीकि टाइगर रिजर्व में पर्यावरण-पर्यटन और गंडक नदी प्रणाली के लिए जल-ग्रहण क्षेत्र।"
+      },
+      "bpscRelevance": {
+        "en": "Frequently asked in BPSC Prelims regarding highest peak of Bihar (Someshwar Fort), passes of Champaran, and geological age of Himalayan formations.",
+        "hi": "BPSC प्रारंभिक परीक्षा में बिहार के सर्वोच्च शिखर (सोमेश्वर किला), चंपारण के दर्रों और हिमालयी संरचनाओं के भूवैज्ञानिक काल से संबंधित प्रश्न अक्सर पूछे जाते हैं।"
+      }
+    },
+    {
+      "id": "terai-marshland-belt",
+      "name": {
+        "en": "Terai & Bhabhar Sub-Himalayan Belt",
+        "hi": "तराई एवं भाभर उप-हिमालयी पट्टी"
+      },
+      "category": {
+        "en": "Sub-Himalayan Foothills & Marshes",
+        "hi": "उप-हिमालयी तलहटी एवं दलदली क्षेत्र"
+      },
+      "location": {
+        "en": "Northern international border with Nepal extending from West Champaran to Kishanganj",
+        "hi": "पश्चिमी चंपारण से किशनगंज तक नेपाल के साथ उत्तरी अंतरराष्ट्रीय सीमा"
+      },
+      "associatedDistricts": [
+        "west-champaran",
+        "east-champaran",
+        "sitamarhi",
+        "sheohar",
+        "madhubani",
+        "supaul",
+        "araria",
+        "kishanganj"
+      ],
+      "elevation": {
+        "en": "65 to 90 meters above mean sea level",
+        "hi": "समुद्र तल से 65 से 90 मीटर"
+      },
+      "geologicalAge": {
+        "en": "Pleistocene to Holocene Alluvium",
+        "hi": "प्लीस्टोसीन से होलोसीन जलोढ़"
+      },
+      "keyCharacteristics": {
+        "en": [
+          "Narrow piedmont strip running parallel to the Nepal frontier (8 to 15 km wide)",
+          "High water table, waterlogged conditions, marshy grasslands, and swamps",
+          "High annual precipitation ranging from 1,200 mm in the west to over 1,800 mm in Kishanganj",
+          "Soils are acidic to neutral, rich in organic matter and humus",
+          "Ideal for paddy, sugarcane, jute, and tea cultivation in Kishanganj"
+        ],
+        "hi": [
+          "नेपाल सीमा के समानांतर चलने वाली 8 से 15 किमी चौड़ी संकरी तलहटी पट्टी",
+          "उच्च भूजल स्तर, जलभराव की स्थिति, दलदली घास के मैदान और दलदल",
+          "वार्षिक उच्च वर्षा जो पश्चिम में 1,200 मिमी से लेकर किशनगंज में 1,800 मिमी से अधिक तक है",
+          "मिट्टी अम्लीय से तटस्थ, जैविक पदार्थ और ह्यूमस से भरपूर है",
+          "धान, गन्ना, जूट और किशनगंज में चाय की खेती के लिए आदर्श"
+        ]
+      },
+      "description": {
+        "en": "### The Lush Terai & Bhabhar Belt\n\nThe **Terai region** of Bihar is an ill-drained, characteristically damp, and deeply marshy strip that stretches beautifully along the foothills of the **Nepal Himalayas**.\n\n### Hydrology and Landscape\n\n* **Subterranean Rivers:** Himalayan streams dramatically emerge onto the plains here, reappearing after flowing underground through the highly porous gravels of the **Bhabhar tract**.\n* **Heavy Monsoons:** The belt witnesses torrential monsoon rainfall, which generously supports thick, verdant vegetation.\n* **Moist Ecosystems:** The rich, moist agricultural ecosystems are ideal for cultivating water-intensive crops like paddy and jute.\n\nThis belt acts as a natural sponge, playing a critical role in the hydrological cycle and groundwater recharge for northern Bihar.",
+        "hi": "### हरी-भरी तराई और भाभर बेल्ट\n\nबिहार का **तराई क्षेत्र** एक खराब जल निकासी वाली, विशिष्ट रूप से नम और दलदली पट्टी है जो **नेपाल हिमालय** की तलहटी के साथ खूबसूरती से फैली हुई है।\n\n### जल विज्ञान और परिदृश्य\n\n* **भूमिगत नदियां:** हिमालयी नदियां यहां नाटकीय रूप से मैदानों में निकलती हैं, जो **भाभर क्षेत्र** की अत्यधिक छिद्रपूर्ण बजरी के माध्यम से भूमिगत रूप से बहने के बाद फिर से प्रकट होती हैं।\n* **भारी मानसून:** इस बेल्ट में मूसलाधार मानसूनी वर्षा होती है, जो घनी, हरी-भरी वनस्पतियों को उदारतापूर्वक सहारा देती है।\n* **नम पारिस्थितिकी तंत्र:** समृद्ध, नम कृषि पारिस्थितिकी तंत्र धान और जूट जैसी पानी की अधिक खपत वाली फसलों की खेती के लिए आदर्श हैं।\n\nयह बेल्ट एक प्राकृतिक स्पंज के रूप में कार्य करता है, जो उत्तरी बिहार के लिए जल विज्ञान चक्र और भूजल पुनर्भरण में महत्वपूर्ण भूमिका निभाता है।"
+      },
+      "economicSignificance": {
+        "en": "Extensive rice and jute production, thriving tea plantations in Kishanganj, and vital groundwater recharge zones.",
+        "hi": "व्यापक चावल और जूट उत्पादन, किशनगंज में चाय बागान, और भूजल पुनर्भरण के महत्वपूर्ण क्षेत्र।"
+      },
+      "bpscRelevance": {
+        "en": "Important for BPSC questions on agro-climatic conditions, tea cultivation in Bihar, and soil characteristics of northern border districts.",
+        "hi": "कृषि-जलवायु परिस्थितियों, बिहार में चाय की खेती और उत्तरी सीमावर्ती जिलों की मिट्टी की विशेषताओं पर BPSC प्रश्नों के लिए महत्वपूर्ण।"
+      }
+    },
+    {
+      "id": "north-bihar-alluvial-plains",
+      "name": {
+        "en": "North Bihar Alluvial Plains",
+        "hi": "उत्तर बिहार का जलोढ़ मैदान"
+      },
+      "category": {
+        "en": "Riverine Alluvial Plains",
+        "hi": "नदी-निर्मित जलोढ़ मैदान"
+      },
+      "location": {
+        "en": "Extends from the Nepal border in the north to the Ganga river in the south",
+        "hi": "उत्तर में नेपाल सीमा से लेकर दक्षिण में गंगा नदी तक विस्तृत"
+      },
+      "associatedDistricts": [
+        "west-champaran",
+        "east-champaran",
+        "saran",
+        "siwan",
+        "gopalganj",
+        "muzaffarpur",
+        "sitamarhi",
+        "sheohar",
+        "vaishali",
+        "darbhanga",
+        "madhubani",
+        "samastipur",
+        "saharsa",
+        "supaul",
+        "madhepura",
+        "purnia",
+        "katihar",
+        "araria",
+        "kishanganj",
+        "khagaria",
+        "begusarai"
+      ],
+      "elevation": {
+        "en": "35 to 80 meters above sea level, gentle south-easterly slope",
+        "hi": "समुद्र तल से 35 से 80 मीटर, दक्षिण-पूर्व की ओर धीमा ढलान"
+      },
+      "geologicalAge": {
+        "en": "Quaternary / Recent Holocene Alluvial Deposits",
+        "hi": "चतुर्थक / नवीन होलोसीन जलोढ़ निक्षेप"
+      },
+      "keyCharacteristics": {
+        "en": [
+          "Accounts for roughly 56,980 sq km (over 60% of Bihar's geographical area)",
+          "Formed by thick sediments brought down by perennial rivers: Ghaghara, Gandak, Burhi Gandak, Bagmati, Kamla, Kosi, and Mahananda",
+          "Dotted with extensive chaurs (seasonal lake-like depressions), mauns (oxbow lakes), and diaras (riverine sandbars)",
+          "Divided into doabs: Ghaghara-Gandak doab, Gandak-Kosi doab, and Kosi-Mahananda interfluvial tract",
+          "Highly prone to recurrent annual monsoon flooding due to gentle gradient (6 cm/km)"
+        ],
+        "hi": [
+          "लगभग 56,980 वर्ग किमी (बिहार के भौगोलिक क्षेत्रफल का 60% से अधिक) में विस्तृत",
+          "सदाबहार नदियों—घाघरा, गंडक, बूढ़ी गंडक, बागमती, कमला, कोसी और महानंदा—द्वारा लाए गए अवसादों से निर्मित",
+          "विस्तृत चौर (मौसमी जलभराव वाले गर्त), मौन (गोखुर झीलें) और दियारा (नदी बालू के टीले) से युक्त",
+          "दोआबों में विभाजित: घाघरा-गंडक दोआब, गंडक-कोसी दोआब, और कोसी-महानंदा अंतर-नदी क्षेत्र",
+          "धीमी ढलान (6 सेमी/किमी) के कारण वार्षिक मानसूनी बाढ़ के प्रति अत्यधिक संवेदनशील"
+        ]
+      },
+      "description": {
+        "en": "### The Granary of the North\n\nThe **North Bihar Plain** is recognized globally as one of the most remarkably fertile alluvial tracts, continually shaped by the depositional action of glacial-fed **Himalayan rivers**.\n\n### Topographical Features\n\n* **Gentle Gradient:** The region slopes almost imperceptibly from the north-west to the south-east, gradually dropping from approximately **80m in West Champaran** to below **35m in Katihar**.\n* **Annual Rejuvenation:** Recurring seasonal inundations deposit fresh **Khadar alluvium** annually across the expansive plains.\n* **Agricultural Might:** This process makes the soil exceptionally productive for intensive agriculture, standing resilient despite severe and regular flood hazards.\n\nOften called the granary of Bihar, these plains are the lifeblood of the state's agricultural economy.",
+        "hi": "### उत्तर का अन्नागार\n\n**उत्तर बिहार का मैदान** विश्व स्तर पर सबसे उल्लेखनीय रूप से उपजाऊ जलोढ़ क्षेत्रों में से एक के रूप में मान्यता प्राप्त है, जो हिमनद-पोषित **हिमालयी नदियों** की निक्षेपण क्रिया द्वारा निरंतर आकार लेता है।\n\n### स्थलाकृतिक विशेषताएं\n\n* **सौम्य ढाल:** यह क्षेत्र उत्तर-पश्चिम से दक्षिण-पूर्व की ओर लगभग अदृश्य रूप से ढलान वाला है, जो **पश्चिमी चंपारण में लगभग 80 मीटर** से धीरे-धीरे गिरकर **कटिहार में 35 मीटर** से नीचे आ जाता है।\n* **वार्षिक कायाकल्प:** बार-बार आने वाली मौसमी बाढ़ विस्तृत मैदानों में प्रतिवर्ष ताजा **खादर जलोढ़** जमा करती है।\n* **कृषि शक्ति:** यह प्रक्रिया गंभीर और नियमित बाढ़ के खतरों के बावजूद, मिट्टी को गहन कृषि के लिए असाधारण रूप से उत्पादक बनाती है।\n\nअक्सर बिहार का अन्नागार कहे जाने वाले ये मैदान राज्य की कृषि अर्थव्यवस्था की जीवन रेखा हैं।"
+      },
+      "economicSignificance": {
+        "en": "Heartland of Bihar's food grain production (maize, rice, wheat, pulses), famous litchi and mango orchards, and freshwater inland fisheries.",
+        "hi": "बिहार के खाद्यान्न उत्पादन (मक्का, चावल, गेहूं, दलहन) का मुख्य केंद्र, प्रसिद्ध लीची और आम के बागान, और मीठे पानी की अंतर्देशीय मत्स्य पालन।"
+      },
+      "bpscRelevance": {
+        "en": "Crucial for BPSC Mains Geography questions on flood mitigation, oxbow lake landforms, and river interlinking projects.",
+        "hi": "बाढ़ नियंत्रण, गोखुर झील स्थलाकृतियों और नदी जोड़ो परियोजनाओं पर BPSC मुख्य परीक्षा भूगोल के प्रश्नों के लिए अत्यंत महत्वपूर्ण।"
+      }
+    },
+    {
+      "id": "south-bihar-alluvial-plains",
+      "name": {
+        "en": "South Bihar Alluvial Plains",
+        "hi": "दक्षिण बिहार का जलोढ़ मैदान"
+      },
+      "category": {
+        "en": "Peninsular Alluvial Plains",
+        "hi": "प्रायद्वीपीय जलोढ़ मैदान"
+      },
+      "location": {
+        "en": "South of the Ganga river extending up to the northern fringes of the Chota Nagpur Plateau",
+        "hi": "गंगा नदी के दक्षिण से छोटानागपुर पठार के उत्तरी किनारे तक विस्तृत"
+      },
+      "associatedDistricts": [
+        "buxar",
+        "bhojpur",
+        "patna",
+        "nalanda",
+        "rohtas",
+        "aurangabad",
+        "gaya",
+        "jehanabad",
+        "arwal",
+        "nawada",
+        "sheikhpura",
+        "lakhisarai",
+        "munger",
+        "bhagalpur",
+        "banka",
+        "jamui"
+      ],
+      "elevation": {
+        "en": "50 to 120 meters above sea level, sloping towards north and north-east",
+        "hi": "समुद्र तल से 50 से 120 मीटर, उत्तर और उत्तर-पूर्व की ओर ढलान"
+      },
+      "geologicalAge": {
+        "en": "Pleistocene to Holocene Alluvium with shallow underlying basement",
+        "hi": "उथले आधारभूत शैल के साथ प्लीस्टोसीन से होलोसीन जलोढ़"
+      },
+      "keyCharacteristics": {
+        "en": [
+          "Covers roughly 33,670 sq km (approx. 36% of Bihar's territory)",
+          "Narrower in width than North Bihar Plain, tapering towards the east near Munger and Rajmahal",
+          "Drained by peninsular non-perennial rivers: Son, Punpun, Phalgu, Kiul, Badua, and Chandan",
+          "Characterized by natural levees along the Ganga creating the backwater depression known as 'Tal' land",
+          "Alluvium is thinner than in North Bihar, with granitic and gneissic isolated hills (inselbergs) protruding near Gaya and Rajgir"
+        ],
+        "hi": [
+          "लगभग 33,670 वर्ग किमी (बिहार के क्षेत्रफल का लगभग 36%) में विस्तृत",
+          "उत्तर बिहार के मैदान की तुलना में कम चौड़ा, मुंगेर और राजमहल के पास पूर्व की ओर संकरा होता जाता है",
+          "प्रायद्वीपीय गैर-बारहमासी नदियों—सोन, पुनपुन, फल्गु, किऊल, बदुआ और चंदन—द्वारा अपवाहित",
+          "गंगा के साथ प्राकृतिक तटबंधों द्वारा चिह्नित, जिससे 'टाल' भूमि नामक जलमग्न गर्त का निर्माण होता है",
+          "उत्तर बिहार की तुलना में जलोढ़ परत पतली है, जिसमें गया और राजगीर के पास ग्रेनाइट और नीस की एकाकी पहाड़ियाँ (इंसलबर्ग) उभरी हुई हैं"
+        ]
+      },
+      "description": {
+        "en": "### The Southern Tal and Plains\n\nThe **South Bihar Plain** is uniquely positioned between the mighty **Ganga river** and the robust southern crystalline plateau, offering a distinctly different landscape compared to the north.\n\n### Hydrological Dynamics\n\n* **Steeper Gradient:** Unlike the swampy north, it features a much steeper northward gradient, causing peninsular streams to flow rapidly during torrential downpours.\n* **Natural Levees:** The Ganga has built massive natural high levees that obstruct the direct entry of southern tributaries.\n* **Tal Lands Formation:** This obstruction forms the extensive backwater basins known as **Tal lands**, which stay completely submerged during monsoons.\n\nFollowing the retreat of the floodwaters, these Tal lands yield phenomenally bumper **rabi pulse harvests**, driving the local agricultural economy.",
+        "hi": "### दक्षिणी टाल और मैदान\n\n**दक्षिण बिहार का मैदान** विशाल **गंगा नदी** और मजबूत दक्षिणी क्रिस्टलीय पठार के बीच विशिष्ट रूप से स्थित है, जो उत्तर की तुलना में एक स्पष्ट रूप से भिन्न परिदृश्य प्रस्तुत करता है।\n\n### जलवैज्ञानिक गतिशीलता\n\n* **तीव्र ढाल:** दलदली उत्तर के विपरीत, इसमें उत्तर की ओर बहुत अधिक तीव्र ढाल है, जिससे मूसलाधार बारिश के दौरान प्रायद्वीपीय नदियां तेजी से बहती हैं।\n* **प्राकृतिक तटबंध:** गंगा ने बड़े पैमाने पर प्राकृतिक ऊंचे तटबंध बनाए हैं जो दक्षिणी सहायक नदियों के सीधे प्रवेश को रोकते हैं।\n* **टाल भूमि का निर्माण:** यह रुकावट **टाल भूमि** के रूप में जाने जाने वाले व्यापक बैकवाटर बेसिन बनाती है, जो मानसून के दौरान पूरी तरह से जलमग्न रहते हैं।\n\nबाढ़ के पानी के घटने के बाद, ये टाल भूमियां अभूतपूर्व रूप से बंपर **रबी दलहन की फसल** देती हैं, जो स्थानीय कृषि अर्थव्यवस्था को गति प्रदान करती हैं।"
+      },
+      "economicSignificance": {
+        "en": "Major cereal and pulse belt of India ('Mokama Tal' pulse bowl), extensive canal irrigation powered by the historic Son Canal network.",
+        "hi": "भारत की प्रमुख अनाज और दलहन पेटी ('मोकामा टाल' दलहन का कटोरा), ऐतिहासिक सोन नहर नेटवर्क द्वारा संचालित व्यापक नहर सिंचाई।"
+      },
+      "bpscRelevance": {
+        "en": "Frequently evaluated in BPSC on Son canal system, formation of Tal land morphology, and contrasting features of North vs South Bihar plains.",
+        "hi": "सोन नहर प्रणाली, टाल भूमि की भू-आकृति विज्ञान और उत्तर बनाम दक्षिण बिहार मैदानों की तुलनात्मक विशेषताओं पर BPSC में बार-बार पूछा जाता है।"
+      }
+    },
+    {
+      "id": "kaimur-rohtas-plateau",
+      "name": {
+        "en": "Kaimur & Rohtas Plateau",
+        "hi": "कैमूर एवं रोहतास पठार"
+      },
+      "category": {
+        "en": "Plateau & Escarpment",
+        "hi": "पठार एवं कगार"
+      },
+      "location": {
+        "en": "South-western Bihar bordering Uttar Pradesh and Madhya Pradesh",
+        "hi": "उत्तर प्रदेश और मध्य प्रदेश की सीमा पर दक्षिण-पश्चिमी बिहार"
+      },
+      "associatedDistricts": [
+        "kaimur",
+        "rohtas"
+      ],
+      "elevation": {
+        "en": "300 to 450 meters above sea level (highest points reach over 600m)",
+        "hi": "समुद्र तल से 300 से 450 मीटर (उच्चतम बिंदु 600 मीटर से अधिक)"
+      },
+      "geologicalAge": {
+        "en": "Proterozoic Era (Vindhyan Supergroup, ~1.4 to 1.0 billion years old)",
+        "hi": "प्रोटरोचोइक युग (विंध्यन महासमूह, ~1.4 से 1.0 अरब वर्ष प्राचीन)"
+      },
+      "keyCharacteristics": {
+        "en": [
+          "Easternmost continuation of the Vindhyan mountain chain in India",
+          "Consists of massive sandstones, quartzites, limestones, and shales",
+          "Features dramatic vertical escarpments dropping steeply into the Son and Karmanasa valleys",
+          "Spectacular waterfalls including Telhar Kund, Karkat Waterfall, Tutla Bhawani, and Dhua Kund",
+          "Houses the Kaimur Wildlife Sanctuary, the largest wildlife sanctuary in Bihar"
+        ],
+        "hi": [
+          "भारत में विंध्य पर्वत श्रृंखला का सबसे पूर्वी विस्तार",
+          "विशाल बलुआ पत्थर, क्वार्टजाइट, चूना पत्थर और शेल से निर्मित",
+          "सोन और कर्मनाशा घाटियों में सीधे गिरने वाले नाटकीय ऊर्ध्वाधर कगारों की विशेषता",
+          "तेलहार कुंड, करकट जलप्रपात, तुतला भवानी और धुआं कुंड सहित दर्शनीय जलप्रपात",
+          "बिहार के सबसे बड़े वन्यजीव अभयारण्य, कैमूर वन्यजीव अभयारण्य का गृह"
+        ]
+      },
+      "description": {
+        "en": "### The Ancient Vindhyan Plateau\n\nThe **Kaimur-Rohtas Plateau** is a spectacular elevated tableland situated in south-western Bihar. Structurally distinct, it proudly stands as part of the ancient **Vindhyan Supergroup**.\n\n### Rugged and Rich Terrain\n\n* **Dramatic Escarpments:** The plateau terminates abruptly in steep, breathtaking cliffs that dramatically overlook the sprawling alluvial plains.\n* **Deep Gorges:** It features magnificent deep gorges and intensely scenic canyon-like rivers cutting through the rock.\n* **Rich Resources:** The region boasts exceptionally rich mineral deposits, particularly **limestone** and **pyrites**.\n\nAdditionally, this ancient landscape serves as a window into the past, preserving prehistoric rock-art shelters at invaluable sites like **Chand** and **Rohtasgarh**.",
+        "hi": "### प्राचीन विंध्यन पठार\n\n**कैमूर-रोहतास पठार** दक्षिण-पश्चिमी बिहार में स्थित एक शानदार ऊंचा टेबललैंड है। संरचनात्मक रूप से भिन्न, यह गर्व से प्राचीन **विंध्यन महासमूह** के हिस्से के रूप में खड़ा है।\n\n### बीहड़ और समृद्ध भूभाग\n\n* **नाटकीय कगार:** पठार अचानक खड़ी, लुभावनी चट्टानों में समाप्त होता है जो नाटकीय रूप से फैले हुए जलोढ़ मैदानों को देखते हैं।\n* **गहरी घाटियां:** इसमें शानदार गहरी घाटियां और चट्टानों को काटती हुई अत्यधिक दर्शनीय घाटी जैसी नदियां हैं।\n* **समृद्ध संसाधन:** यह क्षेत्र असाधारण रूप से समृद्ध खनिज भंडार का दावा करता है, विशेष रूप से **चूना पत्थर** और **पाइराइट्स**।\n\nइसके अतिरिक्त, यह प्राचीन परिदृश्य अतीत की एक खिड़की के रूप में कार्य करता है, जो **चांद** और **रोहतासगढ़** जैसे अमूल्य स्थलों पर प्रागैतिहासिक शैल-कला आश्रयों को संरक्षित करता है।"
+      },
+      "economicSignificance": {
+        "en": "Vast high-grade limestone for cement industries (e.g., Banjari and Dalmianagar), pyrites at Amjhore, forest minor produce, and burgeoning ecotourism.",
+        "hi": "सीमेंट उद्योगों के लिए विशाल उच्च-श्रेणी का चूना पत्थर (उदा. बंजारी और डालमियानगर), अमझोर में पाइराइट्स, वनोपज और बढ़ता पर्यावरण-पर्यटन।"
+      },
+      "bpscRelevance": {
+        "en": "A favorite BPSC question area: Vindhyan rock system in Bihar, Kaimur sanctuary area, and Amjhore pyrite mines.",
+        "hi": "BPSC का एक पसंदीदा प्रश्न क्षेत्र: बिहार में विंध्यन शैल प्रणाली, कैमूर अभयारण्य क्षेत्र, और अमझोर पाइराइट खदानें।"
+      }
+    },
+    {
+      "id": "rajgir-kharagpur-hills",
+      "name": {
+        "en": "Rajgir & Kharagpur Dharwar Hills",
+        "hi": "राजगीर एवं खड़कपुर धारवाड़ पहाड़ियाँ"
+      },
+      "category": {
+        "en": "Ancient Crystalline Hills",
+        "hi": "प्राचीन क्रिस्टलीय पहाड़ियाँ"
+      },
+      "location": {
+        "en": "Central-southern Bihar across Nalanda, Munger, Jamui, and Sheikhpura",
+        "hi": "नालंदा, मुंगेर, जमुई और शेखपुरा में मध्य-दक्षिणी बिहार"
+      },
+      "associatedDistricts": [
+        "nalanda",
+        "munger",
+        "jamui",
+        "sheikhpura",
+        "gaya",
+        "nawada"
+      ],
+      "elevation": {
+        "en": "150 to 400 meters above sea level",
+        "hi": "समुद्र तल से 150 से 400 मीटर"
+      },
+      "geologicalAge": {
+        "en": "Pre-Cambrian / Archean (Dharwar System, over 2.5 billion years old)",
+        "hi": "प्री-कैम्ब्रियन / आर्कियन (धारवाड़ प्रणाली, 2.5 अरब वर्ष से अधिक प्राचीन)"
+      },
+      "keyCharacteristics": {
+        "en": [
+          "Among the oldest rock formations in the Indian subcontinent",
+          "Composed mainly of hard resistant quartzites, phyllites, schists, and granites",
+          "Rajgir hills form a natural fortified pentagonal ring of five hills surrounding ancient Rajagriha",
+          "Renowned geothermal hot sulphur springs: Brahmakund and Saptadhara in Rajgir, Bhimbandh and Sita Kund in Munger",
+          "Heavily folded and faulted structures representing eroded roots of ancient mountain ranges"
+        ],
+        "hi": [
+          "भारतीय उपमहाद्वीप में सबसे पुरानी शैल संरचनाओं में से एक",
+          "मुख्य रूप से कठोर प्रतिरोधी क्वार्टजाइट, फाइलाइट, शिस्ट और ग्रेनाइट से निर्मित",
+          "राजगीर की पहाड़ियाँ प्राचीन राजगृह को घेरती हुई पाँच पहाड़ियों का एक प्राकृतिक दृढ़ पंचकोणीय वलय बनाती हैं",
+          "प्रसिद्ध भू-तापीय गर्म गंधक जलप्रपात: राजगीर में ब्रह्मकुंड और सप्तधारा, मुंगेर में भीमबांध और सीता कुंड",
+          "अत्यधिक वलित और भ्रंशित संरचनाएं जो प्राचीन पर्वत श्रृंखलाओं की अपक्षयित जड़ों का प्रतिनिधित्व करती हैं"
+        ]
+      },
+      "description": {
+        "en": "### The Historic Dharwar Relics\n\nThe **Rajgir-Kharagpur hills** stand as majestic relics of the ancient **Dharwar System**, abruptly jutting out into the surrounding flat Gangetic alluvium.\n\n### Historical and Natural Fortifications\n\n* **Rajgir's Natural Defenses:** In Nalanda, the five iconic hills of Rajgir—**Vibhargiri, Ratnagiri, Chaityagiri, Sonagiri, and Udayagiri**—provided an impenetrable natural fortification for the ancient **Magadha capital**.\n* **Kharagpur Enclosures:** In Munger, the Kharagpur hills gracefully enclose the dense **Bhimbandh Wildlife Sanctuary**.\n* **Geological Wonders:** The entire region is replete with prehistoric quartzite tools, therapeutic hot springs, and dense sal canopies.\n\nThese hills seamlessly blend incredible geological history with profound mythological and historical significance.",
+        "hi": "### ऐतिहासिक धारवाड़ अवशेष\n\n**राजगीर-खड़कपुर पहाड़ियां** प्राचीन **धारवाड़ प्रणाली** के राजसी अवशेषों के रूप में खड़ी हैं, जो आसपास के सपाट गंगा जलोढ़ में अचानक उभर आती हैं।\n\n### ऐतिहासिक और प्राकृतिक किलेबंदी\n\n* **राजगीर की प्राकृतिक रक्षा:** नालंदा में, राजगीर की पांच प्रतिष्ठित पहाड़ियों—**वैभारगिरि, रत्नागिरि, चैत्यगिरि, सोनागिरि और उदयगिरि**—ने प्राचीन **मगध राजधानी** के लिए एक अभेद्य प्राकृतिक किलेबंदी प्रदान की।\n* **खड़कपुर परिबद्ध क्षेत्र:** मुंगेर में, खड़कपुर की पहाड़ियां घने **भीमबांध वन्यजीव अभयारण्य** को शालीनता से घेरे हुए हैं।\n* **भूवैज्ञानिक चमत्कार:** संपूर्ण क्षेत्र प्रागैतिहासिक क्वार्टजाइट उपकरणों, उपचारात्मक गर्म झरनों और घने साल के चंदवा से परिपूर्ण है।\n\nये पहाड़ियां सहजता से अविश्वसनीय भूवैज्ञानिक इतिहास को गहरे पौराणिक और ऐतिहासिक महत्व के साथ मिश्रित करती हैं।"
+      },
+      "economicSignificance": {
+        "en": "World-heritage pilgrimage and leisure tourism (Rajgir Glass Bridge, Ropeway, Vishwa Shanti Stupa), building stones, quartz deposits, and thermal balneotherapy.",
+        "hi": "विश्व धरोहर तीर्थ और अवकाश पर्यटन (राजगीर ग्लास ब्रिज, रोपवे, विश्व शांति स्तूप), निर्माण पत्थर, क्वार्ट्ज भंडार और औषधीय जल चिकित्सा।"
+      },
+      "bpscRelevance": {
+        "en": "Regularly tested on Dharwar rock distribution, historical hill names of Rajgir, and names of hot springs in Rajgir and Munger.",
+        "hi": "धारवाड़ शैल वितरण, राजगीर की ऐतिहासिक पहाड़ियों के नाम, और राजगीर तथा मुंगेर के गर्म जलकुंडों के नामों पर नियमित रूप से प्रश्न पूछे जाते हैं।"
+      }
+    },
+    {
+      "id": "indo-gangetic-trough-depression",
+      "name": {
+        "en": "Indo-Gangetic Alluvial Foredeep (Trough)",
+        "hi": "भारत-गंगा जलोढ़ अग्रगर्त (द्रोणी)"
+      },
+      "category": {
+        "en": "Subsurface Foreland Basin",
+        "hi": "उपसतही अग्रभूमि द्रोणी"
+      },
+      "location": {
+        "en": "Subsurface depression beneath the entire Gangetic plains of Bihar",
+        "hi": "बिहार के संपूर्ण गंगा मैदान के नीचे की उपसतही द्रोणी"
+      },
+      "associatedDistricts": [
+        "patna",
+        "muzaffarpur",
+        "samastipur",
+        "darbhanga",
+        "saharsa",
+        "begusarai",
+        "khagaria"
+      ],
+      "elevation": {
+        "en": "Bedrock lies 1,000 to 3,500 meters beneath modern alluvial surface",
+        "hi": "आधारभूत शैल आधुनिक जलोढ़ सतह से 1,000 से 3,500 मीटर नीचे स्थित है"
+      },
+      "geologicalAge": {
+        "en": "Tertiary to Quaternary flexural downwarp",
+        "hi": "तृतीयक से चतुर्थक वलन-जनित अवतलन"
+      },
+      "keyCharacteristics": {
+        "en": [
+          "Asymmetrical crustal downwarp formed due to the collision of the Indian Plate with the Eurasian Plate",
+          "Maximum sediment thickness reaches over 3,000 meters in northern Bihar near Motihari and Raxaul",
+          "Serves as one of the world's most productive multi-layered deep aquifer systems",
+          "Forms a high seismic hazard zone (Seismic Zones IV and V) due to active Himalayan tectonic adjustments",
+          "Target zone for hydrocarbon and deep natural gas basin studies by ONGC"
+        ],
+        "hi": [
+          "भारतीय प्लेट के यूरेशियन प्लेट से टकराने के कारण बना असममित भू-पर्पटीय अवतलन",
+          "मोतिहारी और रक्सौल के पास उत्तरी बिहार में अवसाद की अधिकतम मोटाई 3,000 मीटर से अधिक है",
+          "विश्व की सबसे समृद्ध बहुस्तरीय गहरी जलभृत प्रणालियों में से एक के रूप में कार्य करता है",
+          "सक्रिय हिमालयी विवर्तनिक हलचलों के कारण उच्च भूकंपीय जोखिम क्षेत्र (भूकंपीय क्षेत्र IV और V) बनाता है",
+          "ओएनजीसी द्वारा हाइड्रोकार्बन और गहरे प्राकृतिक गैस बेसिन अध्ययनों के लिए लक्षित क्षेत्र"
+        ]
+      },
+      "description": {
+        "en": "### The Deep Alluvial Foredeep\n\nThe **Indo-Gangetic Trough** in Bihar is a vast and complex structural foredeep directly created by the monumental uplift of the **Himalayas**.\n\n### Tectonic Origins and Structure\n\n* **Crustal Flexure:** The immense flexure of the rigid Indian peninsular shield, buckling under the colossal load of advancing Himalayan thrust sheets, created this immense depression.\n* **Continuous Sedimentation:** For millions of years, it has been continuously and heavily filled with river-borne silt, sand, and clay.\n* **Agricultural Infinite Depth:** This ceaseless process has resulted in the flat topographies and virtually infinite agricultural soil depth seen today.\n\nHidden deep beneath the surface, it forms one of the most prolific multi-layered deep aquifer systems globally.",
+        "hi": "### गहरा जलोढ़ अग्रगर्त\n\nबिहार में **भारत-गंगा गर्त** एक विशाल और जटिल संरचनात्मक अग्रगर्त है जो सीधे **हिमालय** के स्मारकीय उत्थान द्वारा निर्मित है।\n\n### विवर्तनिक उत्पत्ति और संरचना\n\n* **पर्पटीय वलन:** आगे बढ़ती हिमालयी थ्रस्ट शीट के भारी भार के नीचे झुकने वाली कठोर भारतीय प्रायद्वीपीय शील्ड के विशाल वलन ने इस विशाल गर्त का निर्माण किया।\n* **निरंतर अवसादन:** लाखों वर्षों से, यह लगातार और भारी रूप से नदियों द्वारा लाई गई गाद, रेत और मिट्टी से भर रहा है।\n* **कृषि अनंत गहराई:** इस निरंतर प्रक्रिया के परिणामस्वरूप सपाट स्थलाकृतियां और लगभग अनंत कृषि मिट्टी की गहराई बनी है जो आज देखी जाती है।\n\nसतह के गहरे नीचे छिपा हुआ, यह विश्व स्तर पर सबसे विपुल बहु-स्तरीय गहरे जलभृत प्रणालियों में से एक बनाता है।"
+      },
+      "economicSignificance": {
+        "en": "Immense groundwater storage capacity sustaining 130+ million people, rich clay beds for brick manufacturing, and potential sedimentary hydrocarbon deposits.",
+        "hi": "13 करोड़ से अधिक लोगों को बनाए रखने वाली विशाल भूजल भण्डारण क्षमता, ईंट निर्माण के लिए समृद्ध मिट्टी, और संभावित तलछटी हाइड्रोकार्बन भंडार।"
+      },
+      "bpscRelevance": {
+        "en": "Significance in physical geography of Bihar: depth of alluvium, 1934 Bihar earthquake epicenter dynamics, and seismic zoning classifications.",
+        "hi": "बिहार के भौतिक भूगोल में महत्व: जलोढ़ की गहराई, 1934 के बिहार भूकंप के अधिकेंद्र की विवर्तनिकी, और भूकंपीय क्षेत्र वर्गीकरण।"
+      }
+    },
+    {
+      "id": "wetlands-chaurs-and-tal-depressions",
+      "name": {
+        "en": "Chaurs, Mauns, & Tal Wetland Complexes",
+        "hi": "चौर, मौन एवं टाल आर्द्रभूमि संकुल"
+      },
+      "category": {
+        "en": "Wetlands & Aquatic Ecosystems",
+        "hi": "आर्द्रभूमि एवं जलीय पारिस्थितिकी तंत्र"
+      },
+      "location": {
+        "en": "Spread across the floodplains of Begusarai, Darbhanga, Saharsa, Vaishali, and Mokama belt",
+        "hi": "बेगूसराय, दरभंगा, सहरसा, वैशाली और मोकामा क्षेत्र के बाढ़ के मैदानों में विस्तृत"
+      },
+      "associatedDistricts": [
+        "begusarai",
+        "darbhanga",
+        "saharsa",
+        "vaishali",
+        "patna",
+        "samastipur"
+      ],
+      "elevation": {
+        "en": "30 to 52 meters above sea level",
+        "hi": "समुद्र तल से 30 से 52 मीटर"
+      },
+      "geologicalAge": {
+        "en": "Recent Holocene fluvial geomorphology",
+        "hi": "नवीन होलोसीन नदीय भू-आकृति"
+      },
+      "keyCharacteristics": {
+        "en": [
+          "Includes Kabartal (Kanwar Lake) in Begusarai, designated as Bihar's first Ramsar Wetland of International Importance in 2020",
+          "Kusheshwar Asthan bird sanctuary in Darbhanga covering extensive seasonally flooded chaurs",
+          "Baraila Lake in Vaishali and Simri Bakhtiyarpur Lake in Saharsa",
+          "Mokama Tal covering over 1,000 sq km south of the Ganga levee",
+          "Crucial wintering haven for migratory birds from Central Asia and Siberia"
+        ],
+        "hi": [
+          "बेगूसराय में काबरताल (कांवर झील) शामिल है, जिसे 2020 में बिहार के पहले रामसर अंतरराष्ट्रीय आर्द्रभूमि स्थल के रूप में नामित किया गया",
+          "दरभंगा में कुशेश्वर अस्थान पक्षी अभयारण्य जो मौसमी बाढ़ वाले विशाल चौरों को कवर करता है",
+          "वैशाली में बरेला झील और सहरसा में सिमरी बख्तियारपुर झील",
+          "गंगा तटबंध के दक्षिण में 1,000 वर्ग किमी से अधिक में फैला मोकामा टाल",
+          "मध्य एशिया और साइबेरिया से आने वाले प्रवासी पक्षियों के लिए महत्वपूर्ण शीतकालीन आश्रय"
+        ]
+      },
+      "description": {
+        "en": "### The Vital Wetland Networks\n\nWetlands form some of the most distinctive and crucial hydrological features across Bihar's landscape, playing a vital role in regional ecology.\n\n### Types of Aquatic Ecosystems\n\n* **Chaurs:** These are tectonic or topographic shallow saucer-shaped depressions that reliably retain water for most of the year.\n* **Mauns:** Characterized as oxbow lakes, these are abandoned channels formed during severe river meander cut-offs, particularly common along the meandering **Burhi Gandak**.\n* **Tals:** These consist of the vast, incredibly productive backwater plains situated immediately south of the Ganga.\n\nTogether, they constitute an invaluable, interconnected ecological network that heavily supports rich biodiversity, natural flood moderation, and thriving inland fisheries.",
+        "hi": "### महत्वपूर्ण आर्द्रभूमि नेटवर्क\n\nआर्द्रभूमियां बिहार के परिदृश्य में कुछ सबसे विशिष्ट और महत्वपूर्ण जलवैज्ञानिक विशेषताओं का निर्माण करती हैं, जो क्षेत्रीय पारिस्थितिकी में महत्वपूर्ण भूमिका निभाती हैं।\n\n### जलीय पारिस्थितिकी तंत्र के प्रकार\n\n* **चौर:** ये विवर्तनिक या स्थलाकृतिक उथले तश्तरी के आकार के गर्त हैं जो वर्ष के अधिकांश समय मज़बूती से पानी बनाए रखते हैं।\n* **मौन:** गोखुर झीलों के रूप में विशेषता वाले, ये परित्यक्त चैनल हैं जो गंभीर नदी विसर्प कटाव के दौरान बनते हैं, जो विशेष रूप से घुमावदार **बूढ़ी गंडक** के साथ आम हैं।\n* **टाल:** इनमें गंगा के ठीक दक्षिण में स्थित विशाल, अविश्वसनीय रूप से उत्पादक बैकवाटर मैदान शामिल हैं।\n\nएक साथ, वे एक अमूल्य, परस्पर जुड़े पारिस्थितिक नेटवर्क का गठन करते हैं जो समृद्ध जैव विविधता, प्राकृतिक बाढ़ नियंत्रण और संपन्न अंतर्देशीय मत्स्य पालन का भारी समर्थन करता है।"
+      },
+      "economicSignificance": {
+        "en": "Makhana (foxnut) and water-chestnut (singhara) farming, commercial aquaculture, water bird conservation, and winter rabi pulse cultivation in drained beds.",
+        "hi": "मखाना और सिंघाड़ा की खेती, व्यावसायिक मत्स्य पालन, जलीय पक्षी संरक्षण, और जल निकासी के बाद तलछट में शीतकालीन रबी दलहन की खेती।"
+      },
+      "bpscRelevance": {
+        "en": "Very prominent topic in BPSC Prelims & Mains: Ramsar sites of Bihar (Kabartal), bird sanctuaries, and wetland conservation policies.",
+        "hi": "BPSC प्रारंभिक और मुख्य परीक्षा में अत्यंत प्रमुख विषय: बिहार के रामसर स्थल (काबरताल), पक्षी अभयारण्य, और आर्द्रभूमि संरक्षण नीतियां।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "data": [
+    {
+      "id": "state-emblem",
+      "symbolType": "emblem",
+      "title": {
+        "en": "State Emblem of Bihar",
+        "hi": "बिहार का राजकीय प्रतीक"
+      },
+      "name": {
+        "en": "Bodhi Tree with Swastikas",
+        "hi": "बोधि वृक्ष एवं स्वास्तिक"
+      },
+      "description": {
+        "en": "### The Seal of Bihar\n\nThe official emblem of Bihar is a profound representation of the state's spiritual history. \n\n*   **Central Figure**: It depicts the sacred **Bodhi Tree** situated precisely in the center, representing the site of enlightenment.\n*   **Base Symbols**: The tree is flanked by two ancient **Swastika** symbols at its base.\n*   **Border**: The entire composition is enclosed within a decorative circular border, often with the word 'Bihar' inscribed at the bottom.\n\n### Historical Significance\nThe Bodhi Tree represents the timeless spiritual legacy of **Gautama Buddha** achieving Supreme Enlightenment at Bodh Gaya. The twin swastikas are universally recognized in ancient Indian thought (Hinduism, Buddhism, and Jainism) as powerful symbols of auspiciousness, well-being, and cosmic harmony.",
+        "hi": "### बिहार की राजमुद्रा\n\nबिहार का आधिकारिक राजकीय प्रतीक चिन्ह राज्य के आध्यात्मिक इतिहास का एक गहरा प्रतिनिधित्व है।\n\n*   **केंद्रीय आकृति**: इसमें केंद्र में पवित्र **बोधि वृक्ष** अंकित है, जो ज्ञान प्राप्ति के स्थल का प्रतिनिधित्व करता है।\n*   **आधार प्रतीक**: वृक्ष के आधार के दोनों ओर दो प्राचीन **स्वास्तिक** चिन्ह बने हुए हैं।\n*   **सीमा**: पूरी रचना एक गोलाकार सजावटी सीमा के भीतर आवेष्टित है, जिसके आधार पर प्रायः 'बिहार' अंकित होता है।\n\n### ऐतिहासिक महत्व\nबोधि वृक्ष बोधगया में **भगवान बुद्ध** को प्राप्त ज्ञान, शांति एवं सार्वभौमिक करुणा की शाश्वत विरासत का प्रतीक है। दोनों स्वास्तिकों को प्राचीन भारतीय संस्कृति (हिंदू, बौद्ध और जैन धर्म) में शुभता, कल्याण और ब्रह्मांडीय सद्भाव के शक्तिशाली प्रतीकों के रूप में मान्यता प्राप्त है।"
+      },
+      "adoptionYear": "1912",
+      "asOf": "2024-01-01",
+      "associatedDistrictIds": [
+        "gaya",
+        "patna"
+      ],
+      "sources": [
+        "Government of Bihar Official Gazette",
+        "Cabinet Secretariat, Bihar"
+      ]
+    },
+    {
+      "id": "state-animal",
+      "symbolType": "animal",
+      "title": {
+        "en": "State Animal of Bihar",
+        "hi": "बिहार का राजकीय पशु"
+      },
+      "name": {
+        "en": "Gaur / Bull (Ox)",
+        "hi": "बैल / गौर"
+      },
+      "scientificName": "Bos gaurus / Bos taurus indicus",
+      "description": {
+        "en": "### The Symbol of Agrarian Strength\n\nThe **Bull (Ox)**, or specifically the Gaur, was officially declared the State Animal of Bihar in 2013, replacing the wild bear (Reech). \n\n*   **Why the Bull?** The bull serves as the undisputed backbone of rural Bihar's agrarian economy. It symbolizes immense physical strength, resilience, and the tireless hard work of the Indian farmer.\n\n### Civilizational Roots\nBullocks have been integral to Bihar's farming civilization for millennia. Their significance is etched in stone—quite literally. \n*   The magnificent **Rampurva Bull Capital** (part of the Mauryan Emperor Ashoka's pillars found in West Champaran, now proudly preserved at the Rashtrapati Bhavan in New Delhi) stands as a testament to the bull's artistic and cultural importance in ancient Magadha.",
+        "hi": "### कृषि शक्ति का प्रतीक\n\nवर्ष 2013 में बिहार सरकार ने भालू (रीछ) के स्थान पर **बैल (गौर)** को राज्य पशु घोषित किया।\n\n*   **बैल क्यों?** बैल ग्रामीण बिहार की कृषि अर्थव्यवस्था की निर्विवाद रीढ़ है। यह अपार शारीरिक शक्ति, सहनशीलता और भारतीय किसान की अथक मेहनत का प्रतीक है।\n\n### सभ्यतागत जड़ें\nबैल सहस्राब्दियों से बिहार की कृषि सभ्यता का अभिन्न अंग रहा है। इसका महत्व पत्थरों पर उकेरा गया है।\n*   शानदार **रामपुरवा वृषभ शीर्ष** (पश्चिम चंपारण में पाए गए मौर्य सम्राट अशोक के स्तंभों का हिस्सा, जो अब नई दिल्ली के राष्ट्रपति भवन में गर्व से संरक्षित है) प्राचीन मगध में बैल के कलात्मक और सांस्कृतिक महत्व का प्रमाण है।"
+      },
+      "adoptionYear": "2013",
+      "asOf": "2024-01-01",
+      "associatedDistrictIds": [
+        "west-champaran",
+        "patna"
+      ],
+      "sources": [
+        "Department of Environment, Forest and Climate Change, Bihar"
+      ]
+    },
+    {
+      "id": "state-bird",
+      "symbolType": "bird",
+      "title": {
+        "en": "State Bird of Bihar",
+        "hi": "बिहार का राजकीय पक्षी"
+      },
+      "name": {
+        "en": "House Sparrow (Gauraiya)",
+        "hi": "गौरैया (हाउस स्पैरो)"
+      },
+      "scientificName": "Passer domesticus",
+      "description": {
+        "en": "### A Call for Conservation\n\nThe humble **House Sparrow** (*Gauraiya*) was notified as the State Bird of Bihar in March 2013. \n\nOnce the most ubiquitous bird in Indian courtyards, the sparrow population has witnessed a drastic decline due to modern concrete architecture, loss of nesting spaces, and pesticide use.\n\n### State Initiatives\n*   **World Sparrow Day**: By adopting the sparrow, the state government aims to foster community-driven environmental consciousness. \n*   Every year on **March 20**, special sparrow conservation drives are launched across all districts in Bihar to encourage citizens to build wooden nests and provide water bowls for these tiny birds.",
+        "hi": "### संरक्षण का आह्वान\n\nमार्च 2013 में छोटी और प्यारी **घरेलू गौरैया** को बिहार का राजकीय पक्षी घोषित किया गया।\n\nकभी भारतीय आंगनों में सबसे ज्यादा पाया जाने वाला यह पक्षी, आधुनिक कंक्रीट वास्तुकला, घोंसले बनाने के स्थानों की कमी और कीटनाशकों के उपयोग के कारण अपनी आबादी में भारी गिरावट का सामना कर रहा है।\n\n### राज्य की पहल\n*   **विश्व गौरैया दिवस**: गौरैया को अपनाकर, राज्य सरकार का उद्देश्य समुदाय-संचालित पर्यावरण जागरूकता को बढ़ावा देना है।\n*   हर साल **20 मार्च** को, बिहार के सभी जिलों में विशेष गौरैया संरक्षण अभियान चलाए जाते हैं, ताकि नागरिकों को इन छोटे पक्षियों के लिए लकड़ी के घोंसले बनाने और पानी के कटोरे रखने के लिए प्रोत्साहित किया जा सके।"
+      },
+      "adoptionYear": "2013",
+      "asOf": "2024-01-01",
+      "associatedDistrictIds": [
+        "patna"
+      ],
+      "sources": [
+        "Department of Environment, Forest and Climate Change, Bihar",
+        "Bihar State Biodiversity Board"
+      ]
+    },
+    {
+      "id": "state-tree",
+      "symbolType": "tree",
+      "title": {
+        "en": "State Tree of Bihar",
+        "hi": "बिहार का राजकीय वृक्ष"
+      },
+      "name": {
+        "en": "Peepal (Sacred Fig)",
+        "hi": "पीपल (बोधि द्रुम)"
+      },
+      "scientificName": "Ficus religiosa",
+      "description": {
+        "en": "### The Tree of Enlightenment\n\nThe **Peepal tree** (*Ficus religiosa*) is the revered State Tree of Bihar. It is deeply interwoven with the state's historical and spiritual identity.\n\n*   **Historical Legacy**: It was under a Peepal tree in Uruvela (modern-day **Bodh Gaya**) that Prince Siddhartha meditated and achieved Supreme Enlightenment to become *Gautama Buddha*.\n\n### Ecological & Spiritual Significance\n*   **Religious Harmony**: The Peepal holds a highly sacred status across Vedic, Buddhist, and Jain traditions. It is worshipped as the abode of the divine trinity in Hinduism.\n*   **Ecological Hero**: Scientifically, it is one of the few trees known to release oxygen even at night (through Crassulacean Acid Metabolism) and acts as a massive ecological anchor supporting diverse micro-ecosystems.",
+        "hi": "### ज्ञान का वृक्ष\n\n**पीपल का पेड़** (*फाइकस रिलिजियोसा*) बिहार का श्रद्धेय राजकीय वृक्ष है। यह राज्य की ऐतिहासिक और आध्यात्मिक पहचान के साथ गहराई से बुना हुआ है।\n\n*   **ऐतिहासिक विरासत**: उरुवेला (वर्तमान **बोधगया**) में एक पीपल के पेड़ के नीचे ही राजकुमार सिद्धार्थ ने ध्यान लगाया था और *गौतम बुद्ध* बनने के लिए सर्वोच्च ज्ञान प्राप्त किया था।\n\n### पारिस्थितिक और आध्यात्मिक महत्व\n*   **धार्मिक सद्भाव**: वैदिक, बौद्ध और जैन परंपराओं में पीपल को अत्यंत पवित्र दर्जा प्राप्त है। हिंदू धर्म में इसे ईश्वरीय त्रिमूर्ति का निवास स्थान मानकर पूजा जाता है।\n*   **पारिस्थितिक नायक**: वैज्ञानिक रूप से, यह उन गिने-चुने पेड़ों में से एक है जो रात में भी ऑक्सीजन छोड़ते हैं और विविध सूक्ष्म पारिस्थितिक तंत्रों (micro-ecosystems) को आश्रय देने वाले एक विशाल पारिस्थितिक आधार के रूप में कार्य करते हैं।"
+      },
+      "adoptionYear": "1912",
+      "asOf": "2024-01-01",
+      "associatedDistrictIds": [
+        "gaya"
+      ],
+      "sources": [
+        "Bihar Forest Department",
+        "State Biodiversity Strategy and Action Plan"
+      ]
+    },
+    {
+      "id": "state-flower",
+      "symbolType": "flower",
+      "title": {
+        "en": "State Flower of Bihar",
+        "hi": "बिहार का राजकीय पुष्प"
+      },
+      "name": {
+        "en": "Marigold (Genda)",
+        "hi": "गेंदा (गेंदा फूल)"
+      },
+      "scientificName": "Tagetes erecta / Tagetes patula",
+      "description": {
+        "en": "### The Flower of Festivities\n\n**Marigold** (locally known as *Genda*) is the official State Flower of Bihar. \n\nWidely cultivated across the rich alluvial plains of the state, this resilient and brilliantly colored flower is the visual hallmark of Bihar's festive spirit.\n\n### Cultural Importance\n*   **Rituals & Offerings**: The marigold is an absolutely indispensable part of devotional offerings in temples across the state.\n*   **Chhath Puja**: No festival in Bihar, especially the grand **Chhath Puja**, is complete without sprawling garlands and offerings of fresh marigolds.\n*   It universally symbolizes vibrancy, auspicious beginnings, and community festivity.",
+        "hi": "### उत्सवों का पुष्प\n\n**गेंदा** बिहार का आधिकारिक राजकीय पुष्प है।\n\nराज्य के समृद्ध जलोढ़ मैदानों में व्यापक रूप से उगाया जाने वाला यह लचीला और चमकीले रंग का फूल बिहार की उत्सव भावना का दृश्य प्रमाण है।\n\n### सांस्कृतिक महत्व\n*   **अनुष्ठान और प्रसाद**: गेंदा पूरे राज्य के मंदिरों में भक्ति प्रसाद का एक नितांत आवश्यक हिस्सा है।\n*   **छठ पूजा**: बिहार में कोई भी त्योहार, विशेषकर भव्य **छठ पूजा**, ताजे गेंदे की विशाल मालाओं और प्रसाद के बिना पूरा नहीं होता है।\n*   यह सार्वभौमिक रूप से ऊर्जा, शुभ शुरुआत और सामुदायिक उत्सव का प्रतीक है।"
+      },
+      "adoptionYear": "2013",
+      "asOf": "2024-01-01",
+      "associatedDistrictIds": [
+        "patna",
+        "samastipur",
+        "vaishali"
+      ],
+      "sources": [
+        "Directorate of Horticulture, Govt of Bihar"
+      ]
+    },
+    {
+      "id": "state-fish",
+      "symbolType": "fish",
+      "title": {
+        "en": "State Fish of Bihar",
+        "hi": "बिहार की राजकीय मछली"
+      },
+      "name": {
+        "en": "Desi Mangur (Walking Catfish)",
+        "hi": "देसी मांगुर"
+      },
+      "scientificName": "Clarias batrachus",
+      "description": {
+        "en": "### The Pride of Bihar's Wetlands\n\nThe native indigenous catfish, locally known as **Desi Mangur**, was declared the official State Fish of Bihar on July 10, 2008.\n\n*   **Ecology**: It thrives naturally in the muddy wetlands, *chaurs* (floodplains), oxbow lakes (*mauns*), and river channels across North Bihar, particularly in the Kosi and Gandak basins.\n\n### Purpose of Declaration\nThe primary goal behind giving it a state symbol status was to:\n1.  Foster the conservation of native aquatic species against invasive foreign breeds (like the banned Thai Mangur).\n2.  Promote local pisciculture.\n3.  Highlight its immense nutritional value, as Desi Mangur is highly recommended in local diets for recovering patients due to its rich iron and protein content.",
+        "hi": "### बिहार की आर्द्रभूमियों का गौरव\n\nस्थानीय देशी कैटफिश, जिसे **देसी मांगुर** के रूप में जाना जाता है, को 10 जुलाई 2008 को बिहार की आधिकारिक राजकीय मछली घोषित किया गया था।\n\n*   **पारिस्थितिकी**: यह उत्तर बिहार में, विशेष रूप से कोसी और गंडक बेसिन के पार कीचड़ युक्त आर्द्रभूमियों (wetlands), चौर (बाढ़ के मैदानों), मन (गोखुर झीलों) और नदी चैनलों में प्राकृतिक रूप से पनपती है।\n\n### घोषणा का उद्देश्य\nइसे राज्य प्रतीक का दर्जा देने के पीछे प्राथमिक लक्ष्य था:\n1.  आक्रामक विदेशी नस्लों (जैसे प्रतिबंधित थाई मांगुर) के खिलाफ देशी जलीय प्रजातियों के संरक्षण को बढ़ावा देना।\n2.  स्थानीय मत्स्य पालन (pisciculture) को प्रोत्साहित करना।\n3.  इसके अत्यधिक पोषण मूल्य को उजागर करना, क्योंकि लौह और प्रोटीन से भरपूर होने के कारण स्थानीय आहार में मरीजों को स्वस्थ होने के लिए देसी मांगुर की अत्यधिक अनुशंसा की जाती है।"
+      },
+      "adoptionYear": "2008",
+      "asOf": "2024-01-01",
+      "associatedDistrictIds": [
+        "madhubani",
+        "darbhanga",
+        "saharsa"
+      ],
+      "sources": [
+        "Animal & Fisheries Resource Department, Govt of Bihar"
+      ]
+    },
+    {
+      "id": "state-song",
+      "symbolType": "song",
+      "title": {
+        "en": "State Anthem of Bihar",
+        "hi": "बिहार का राज्य गीत"
+      },
+      "name": {
+        "en": "'Mere Bharat Ke Kanthhar'",
+        "hi": "'मेरे भारत के कंठहार'"
+      },
+      "description": {
+        "en": "### The Musical Tribute to Bihar\n\nAdopted officially in March 2012 to mark the centenary (100th anniversary) of Bihar's formation, **'Mere Bharat Ke Kanthhar, Tujhko Shat Shat Vandan Bihar'** serves as the official ceremonial anthem of the state.\n\n*   **Lyrics**: Written by eminent poet *Satyanarayan*.\n*   **Composition**: Musically composed by the legendary classical maestros **Pt. Hari Prasad Chaurasia** and **Pt. Shiv Kumar Sharma**.\n\n### The Essence of the Anthem\nThe song beautifully celebrates the glorious heritage of Bihar, describing it as the \"necklace\" (Kanthhar) of Mother India. It pays homage to Bihar's sacred soil, its mighty rivers, its legacy as the mother of democracy (Vaishali), and its history of producing world-renowned saints and scholars.",
+        "hi": "### बिहार को संगीतमय श्रद्धांजलि\n\nबिहार के गठन की शताब्दी (100वीं वर्षगांठ) को चिह्नित करने के लिए मार्च 2012 में आधिकारिक तौर पर अपनाया गया, **'मेरे भारत के कंठहार, तुझको शत-शत वंदन बिहार'** राज्य के आधिकारिक औपचारिक गीत (Anthem) के रूप में कार्य करता है।\n\n*   **गीतकार**: प्रख्यात कवि *सत्यनारायण* द्वारा रचित।\n*   **संगीतकार**: महान शास्त्रीय संगीतकारों **पं. हरिप्रसाद चौरसिया** और **पं. शिवकुमार शर्मा** द्वारा संगीतबद्ध।\n\n### गीत का सार\nयह गीत बिहार की गौरवशाली विरासत का खूबसूरती से जश्न मनाता है, इसे भारत माता के \"हार\" (कंठहार) के रूप में वर्णित करता है। यह बिहार की पवित्र मिट्टी, इसकी शक्तिशाली नदियों, लोकतंत्र की जननी (वैशाली) के रूप में इसकी विरासत और विश्व प्रसिद्ध संतों और विद्वानों को जन्म देने के इसके इतिहास को श्रद्धांजलि अर्पित करता है।"
+      },
+      "adoptionYear": "2012",
+      "asOf": "2024-01-01",
+      "associatedDistrictIds": [
+        "patna"
+      ],
+      "sources": [
+        "Cabinet Secretariat, Government of Bihar Resolution No. 2012/18"
+      ]
+    },
+    {
+      "id": "state-prayer",
+      "symbolType": "prayer",
+      "title": {
+        "en": "State Prayer of Bihar",
+        "hi": "बिहार की राज्य प्रार्थना"
+      },
+      "name": {
+        "en": "'Meri Raftaar Pe Sooraj Ki Kiran Naaz Kare'",
+        "hi": "'मेरी रफ्तार पे सूरज की किरण नाज करे'"
+      },
+      "description": {
+        "en": "### The Anthem of the Youth\n\nDistinct from the State Anthem, **'Meri Raftaar Pe Sooraj Ki Kiran Naaz Kare'** was adopted as the official State Prayer Song of Bihar.\n\n*   **Lyrics**: Penned by *M. R. Chisty*.\n*   **Usage**: It is mandatorily recited during morning assemblies in government schools across the state and at official youth empowerment programs.\n\n### Meaning and Impact\nThe prayer is an incredibly energetic and forward-looking poem. It expresses the burning aspiration of Bihar's youthful populace to rise rapidly with knowledge, maintain communal harmony, and march forward with an unshakeable determination so bright that even the \"rays of the sun feel proud of their speed\".",
+        "hi": "### युवाओं का गान\n\nराज्य गीत से अलग, **'मेरी रफ्तार पे सूरज की किरण नाज करे'** को बिहार के आधिकारिक राज्य प्रार्थना गीत के रूप में अपनाया गया था।\n\n*   **गीतकार**: *एम. आर. चिश्ती* द्वारा रचित।\n*   **उपयोग**: इसे राज्य भर के सरकारी स्कूलों में सुबह की प्रार्थना सभाओं और आधिकारिक युवा सशक्तिकरण कार्यक्रमों के दौरान अनिवार्य रूप से गाया जाता है।\n\n### अर्थ और प्रभाव\nयह प्रार्थना एक अविश्वसनीय रूप से ऊर्जावान और भविष्योन्मुखी कविता है। यह ज्ञान के साथ तेजी से उठने, सांप्रदायिक सद्भाव बनाए रखने और एक अटूट दृढ़ संकल्प के साथ आगे बढ़ने की बिहार के युवाओं की ज्वलंत आकांक्षा को व्यक्त करती है, जो इतनी उज्ज्वल है कि \"सूरज की किरणों को भी उनकी गति पर गर्व महसूस हो\"।"
+      },
+      "adoptionYear": "2012",
+      "asOf": "2024-01-01",
+      "associatedDistrictIds": [
+        "patna"
+      ],
+      "sources": [
+        "Education Department, Government of Bihar"
+      ]
+    }
+  ]
+}

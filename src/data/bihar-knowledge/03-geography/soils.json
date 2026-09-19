@@ -1,0 +1,551 @@
+{
+  "data": [
+    {
+      "id": "piemont-swamp-soil",
+      "name": {
+        "en": "Piemont Swamp Soil",
+        "hi": "पीडमोंट दलदली मिट्टी (तराई दलदली मिट्टी)"
+      },
+      "broadCategory": {
+        "en": "North Bihar Soils",
+        "hi": "उत्तर बिहार की मिट्टियाँ"
+      },
+      "geographicalLocation": {
+        "en": "North-western corner of West Champaran district along the Someshwar foothills and Dun Valley",
+        "hi": "सोमेश्वर की तलहटी और दून घाटी के साथ पश्चिमी चंपारण जिले का उत्तर-पश्चिमी कोना"
+      },
+      "associatedDistricts": [
+        "west-champaran"
+      ],
+      "soilTexture": {
+        "en": "Porous, coarse sandy-loam with gravels and organic marshy silt",
+        "hi": "छिद्रयुक्त, बजरी और जैविक दलदली गाद से युक्त मोटी बलुई-दोमट"
+      },
+      "chemicalProperties": {
+        "pH": "Acidic to neutral (pH 5.5 to 6.8)",
+        "organicMatter": "Very high humus and nitrogen content",
+        "deficiencies": "Deficient in phosphate and potash"
+      },
+      "colour": {
+        "en": "Dark brown to blackish grey",
+        "hi": "गहरा भूरा से कालापन लिए धूसर"
+      },
+      "suitableCrops": {
+        "en": [
+          "Paddy",
+          "Sugarcane",
+          "Jute",
+          "Forest vegetation (Sal, Teak)"
+        ],
+        "hi": [
+          "धान",
+          "गन्ना",
+          "जूट",
+          "वन्य वनस्पति (साल, सागौन)"
+        ]
+      },
+      "description": {
+        "en": "### The Piedmont Swamp Soils\n\n**Piedmont Swamp soil** is an exclusive, highly localized soil type found only in the extreme north-western corner of West Champaran.\n\n### Key Soil Properties\n\n* **Gravelly Nature:** Developed directly over the weathered Bhabhar gravels, it is intensely porous.\n* **Organic Richness:** The heavy forest cover of the Someshwar hills supplies it with abundant organic matter and humus.\n* **Marshy Tendencies:** Despite porosity, localized waterlogging creates distinct swampy conditions.\n\nWhile not suited for broad agriculture, it crucially supports the dense forestry of the Valmiki Tiger Reserve.",
+        "hi": "### पीडमोंट दलदली मिट्टी\n\n**पीडमोंट दलदली मिट्टी** एक विशिष्ट, अत्यधिक स्थानीयकृत मिट्टी का प्रकार है जो केवल पश्चिमी चंपारण के चरम उत्तर-पश्चिमी कोने में पाया जाता है।\n\n### प्रमुख मिट्टी के गुण\n\n* **पथरीली प्रकृति:** अपक्षयित भाभर बजरी के ऊपर सीधे विकसित, यह अत्यधिक छिद्रपूर्ण है।\n* **जैविक समृद्धि:** सोमेश्वर पहाड़ियों का भारी वन आवरण इसे प्रचुर मात्रा में जैविक पदार्थ और ह्यूमस की आपूर्ति करता है।\n* **दलदली प्रवृत्तियां:** सरंध्रता के बावजूद, स्थानीयकृत जलभराव विशिष्ट दलदली स्थिति पैदा करता है।\n\nयद्यपि यह व्यापक कृषि के लिए उपयुक्त नहीं है, लेकिन यह वाल्मीकि टाइगर रिजर्व के घने वानिकी का महत्वपूर्ण समर्थन करता है।"
+      },
+      "bpscRelevance": {
+        "en": "Location-specific question: Exclusively found in West Champaran, high organic matter, and associated with Valmiki Tiger Reserve foothills.",
+        "hi": "स्थान-विशिष्ट प्रश्न: विशेष रूप से पश्चिमी चंपारण में पाई जाने वाली, उच्च जैविक पदार्थ, और वाल्मीकि टाइगर रिजर्व की तलहटी से जुड़ी।"
+      }
+    },
+    {
+      "id": "terai-soil",
+      "name": {
+        "en": "Terai Soil",
+        "hi": "तराई मिट्टी"
+      },
+      "broadCategory": {
+        "en": "North Bihar Soils",
+        "hi": "उत्तर बिहार की मिट्टियाँ"
+      },
+      "geographicalLocation": {
+        "en": "Narrow belt 5 to 10 km wide along the Nepal international border from West Champaran to Kishanganj",
+        "hi": "पश्चिमी चंपारण से किशनगंज तक नेपाल अंतरराष्ट्रीय सीमा के साथ 5 से 10 किमी चौड़ी संकरी पट्टी"
+      },
+      "associatedDistricts": [
+        "west-champaran",
+        "east-champaran",
+        "sitamarhi",
+        "sheohar",
+        "madhubani",
+        "supaul",
+        "araria",
+        "kishanganj"
+      ],
+      "soilTexture": {
+        "en": "Sandy loam to silty clay, waterlogged and poorly drained",
+        "hi": "बलुई दोमट से गाद-युक्त मटियार, जलभराव वाली और खराब जल निकासी"
+      },
+      "chemicalProperties": {
+        "pH": "Mildly acidic to neutral (pH 6.0 to 7.0)",
+        "organicMatter": "Medium to high nitrogen, deficient in phosphorus",
+        "deficiencies": "Phosphorus and zinc deficiency"
+      },
+      "colour": {
+        "en": "Yellowish grey to dark grey",
+        "hi": "पीलापन लिए धूसर से गहरा धूसर"
+      },
+      "suitableCrops": {
+        "en": [
+          "Jute",
+          "Paddy",
+          "Sugarcane",
+          "Tea (in Kishanganj)"
+        ],
+        "hi": [
+          "जूट",
+          "धान",
+          "गन्ना",
+          "चाय (किशनगंज में)"
+        ]
+      },
+      "description": {
+        "en": "### The Acidic Terai Soils\n\nThe **Terai soil belt** forms a continuous, narrow, and damp ribbon running parallel to the Nepal border from Champaran to Kishanganj.\n\n### Key Soil Properties\n\n* **High Moisture:** Constantly recharged by Himalayan runoff, these soils remain perennially moist.\n* **Chemical Makeup:** They range from slightly acidic to neutral and are exceptionally rich in nitrogen and organic carbon.\n* **Commercial Cultivation:** These specific properties make them the only soils in Bihar capable of supporting **jute and tea plantations**.\n\nThese soils are an economic powerhouse for cash crop farming in the Seemanchal region.",
+        "hi": "### अम्लीय तराई मिट्टी\n\n**तराई मिट्टी बेल्ट** चंपारण से किशनगंज तक नेपाल सीमा के समानांतर चलने वाला एक निरंतर, संकीर्ण और नम रिबन बनाता है।\n\n### प्रमुख मिट्टी के गुण\n\n* **उच्च नमी:** हिमालयी अपवाह द्वारा लगातार रिचार्ज की जाने वाली, ये मिट्टी बारहमासी नम रहती हैं।\n* **रासायनिक श्रृंगार:** वे हल्के अम्लीय से तटस्थ तक होते हैं और नाइट्रोजन और कार्बनिक कार्बन में असाधारण रूप से समृद्ध होते हैं।\n* **वाणिज्यिक खेती:** ये विशिष्ट गुण उन्हें बिहार में एकमात्र मिट्टी बनाते हैं जो **जूट और चाय बागानों** का समर्थन करने में सक्षम हैं।\n\nये मिट्टी सीमांचल क्षेत्र में नकदी फसल की खेती के लिए एक आर्थिक पावरहाउस हैं।"
+      },
+      "bpscRelevance": {
+        "en": "Important for queries on tea cultivation soils in Kishanganj and geographical extent along the Nepal border.",
+        "hi": "किशनगंज में चाय की खेती वाली मिट्टी और नेपाल सीमा पर इसके भौगोलिक विस्तार पर प्रश्नों के लिए महत्वपूर्ण।"
+      }
+    },
+    {
+      "id": "bhangar-older-alluvium-north",
+      "name": {
+        "en": "Bhangar (Older Alluvium of North Bihar)",
+        "hi": "बांगर (उत्तर बिहार की पुरानी जलोढ़ मिट्टी)"
+      },
+      "broadCategory": {
+        "en": "North Bihar Soils",
+        "hi": "उत्तर बिहार की मिट्टियाँ"
+      },
+      "geographicalLocation": {
+        "en": "Upland interfluvial plains of Ghaghara-Gandak and Gandak-Burhi Gandak doab",
+        "hi": "घाघरा-गंडक और गंडक-बूढ़ी गंडक दोआब के ऊंचे अंतर्नदी मैदान"
+      },
+      "associatedDistricts": [
+        "gopalganj",
+        "siwan",
+        "saran",
+        "west-champaran",
+        "east-champaran"
+      ],
+      "soilTexture": {
+        "en": "Clay loam to heavy clay, compact texture with nodular calcium carbonate concretions (kankar)",
+        "hi": "मटियार दोमट से भारी मटियार, कंकड़ (कैल्शियम कार्बोनेट की गांठों) के साथ सघन बनावट"
+      },
+      "chemicalProperties": {
+        "pH": "Alkaline (pH 7.5 to 8.4), highly calcareous with free lime",
+        "organicMatter": "Moderate organic content, rich in potash and lime",
+        "deficiencies": "Deficient in nitrogen and phosphorus"
+      },
+      "colour": {
+        "en": "Dark brown to yellowish grey",
+        "hi": "गहरा भूरा से पीलापन लिए धूसर"
+      },
+      "suitableCrops": {
+        "en": [
+          "Sugarcane",
+          "Wheat",
+          "Maize",
+          "Paddy",
+          "Pulses",
+          "Oilseeds"
+        ],
+        "hi": [
+          "गन्ना",
+          "गेहूं",
+          "मक्का",
+          "धान",
+          "दलहन",
+          "तिलहन"
+        ]
+      },
+      "description": {
+        "en": "### The Mature Bhangar\n\n**Bhangar** represents the older, mature alluvium found on the slightly elevated terraces of the North Bihar plains.\n\n### Key Soil Properties\n\n* **Flood Immunity:** Being situated above the present flood-level, it rarely receives fresh silt deposits.\n* **Nodular Calcium:** A defining characteristic is the presence of *kankar* (calcareous nodules), making the soil relatively loamy and slightly alkaline.\n* **Sustained Yields:** While requiring regular fertilizers, it safely supports steady, flood-free cultivation of wheat, maize, and pulses.\n\nBhangar lands provide reliable agricultural stability amidst the otherwise flood-prone north.",
+        "hi": "### परिपक्व बांगर\n\n**बांगर** उत्तर बिहार के मैदानों की थोड़ी उभरी हुई छतों पर पाई जाने वाली पुरानी, परिपक्व जलोढ़ का प्रतिनिधित्व करता है।\n\n### प्रमुख मिट्टी के गुण\n\n* **बाढ़ से प्रतिरक्षा:** वर्तमान बाढ़ के स्तर से ऊपर स्थित होने के कारण, इसे शायद ही कभी ताजा गाद जमा मिलती है।\n* **गांठदार कैल्शियम:** एक परिभाषित विशेषता *कंकड़* (चूनेदार नोड्यूल) की उपस्थिति है, जो मिट्टी को अपेक्षाकृत दोमट और थोड़ा क्षारीय बनाती है।\n* **निरंतर पैदावार:** नियमित उर्वरकों की आवश्यकता होने पर भी, यह सुरक्षित रूप से गेहूं, मक्का और दालों की स्थिर, बाढ़-मुक्त खेती का समर्थन करता है।\n\nबांगर भूमि बाढ़-प्रवण उत्तर के बीच विश्वसनीय कृषि स्थिरता प्रदान करती है।"
+      },
+      "bpscRelevance": {
+        "en": "Distinction between Bhangar (older, higher, kankar-rich) and Khadar (newer, floodplain, fine), and presence in Gopalganj, Siwan, and Saran.",
+        "hi": "बांगर (पुरानी, ऊंची, कंकड़-युक्त) और खादर (नवीन, बाढ़ का मैदान, महीन) के बीच अंतर, और गोपालगंज, सीवान व सारण में इसकी उपस्थिति।"
+      }
+    },
+    {
+      "id": "khadar-newer-alluvium-north",
+      "name": {
+        "en": "Khadar (Newer Alluvium of North Bihar)",
+        "hi": "खादर (उत्तर बिहार की नवीन जलोढ़ मिट्टी)"
+      },
+      "broadCategory": {
+        "en": "North Bihar Soils",
+        "hi": "उत्तर बिहार की मिट्टियाँ"
+      },
+      "geographicalLocation": {
+        "en": "Active floodplains and low-lying river basins of Gandak, Burhi Gandak, Bagmati, Kosi, and Mahananda",
+        "hi": "गंडक, बूढ़ी गंडक, बागमती, कोसी और महानंदा के सक्रिय बाढ़ के मैदान और निचले नदी बेसिन"
+      },
+      "associatedDistricts": [
+        "muzaffarpur",
+        "sitamarhi",
+        "darbhanga",
+        "madhubani",
+        "samastipur",
+        "saharsa",
+        "supaul",
+        "madhepura",
+        "purnia",
+        "katihar",
+        "khagaria"
+      ],
+      "soilTexture": {
+        "en": "Fine silty loam, sandy loam to silt clay, light and friable",
+        "hi": "महीन गाद-युक्त दोमट, बलुई दोमट से सिल्ट मटियार, हल्की और भुरभुरी"
+      },
+      "chemicalProperties": {
+        "pH": "Neutral to mildly alkaline (pH 7.0 to 7.8), non-calcareous in eastern zone",
+        "organicMatter": "Rich in fresh mineral nutrients and silt, moderate nitrogen",
+        "deficiencies": "Low in humus retention due to recurrent flooding"
+      },
+      "colour": {
+        "en": "Light ash-grey to pale brown",
+        "hi": "हल्का राख जैसा धूसर से पीला-भूरा"
+      },
+      "suitableCrops": {
+        "en": [
+          "Paddy",
+          "Jute",
+          "Maize",
+          "Wheat",
+          "Summer vegetables (Kharif and Garma crops)"
+        ],
+        "hi": [
+          "धान",
+          "जूट",
+          "मक्का",
+          "गेहूं",
+          "ग्रीष्मकालीन सब्जियां (खरीफ और गरमा फसलें)"
+        ]
+      },
+      "description": {
+        "en": "### The Rejuvenated Khadar\n\n**Khadar** is the aggressively young, continually replenished new alluvium dominating the active floodplains of the Kosi, Gandak, and Ganga.\n\n### Key Soil Properties\n\n* **Annual Renewal:** Every monsoon, retreating floodwaters lay down a fresh, nutrient-rich layer of fine silt and clay.\n* **Unmatched Fertility:** It is inherently highly fertile, rich in potash, and low in humic acid, drastically reducing the need for chemical fertilizers.\n* **Crop Diversity:** It excellently supports water-intensive crops like deep-water paddy, wheat, and commercial sugarcane.\n\nKhadar is the true agricultural engine of Bihar, constantly reborn through the destructive power of floods.",
+        "hi": "### कायाकल्पित खादर\n\n**खादर** आक्रामक रूप से युवा, लगातार भरपाई की जाने वाली नई जलोढ़ है जो कोसी, गंडक और गंगा के सक्रिय बाढ़ के मैदानों पर हावी है।\n\n### प्रमुख मिट्टी के गुण\n\n* **वार्षिक नवीनीकरण:** हर मानसून, बाढ़ का पानी पीछे हटने पर महीन गाद और मिट्टी की एक ताज़ा, पोषक तत्वों से भरपूर परत बिछा देता है।\n* **अतुलनीय उर्वरता:** यह स्वाभाविक रूप से अत्यधिक उपजाऊ है, पोटाश में समृद्ध है, और ह्यूमिक एसिड में कम है, जिससे रासायनिक उर्वरकों की आवश्यकता काफी कम हो जाती है।\n* **फसल विविधता:** यह गहरे पानी वाले धान, गेहूं और वाणिज्यिक गन्ने जैसी पानी की गहन फसलों का उत्कृष्ट समर्थन करता है।\n\nखादर बिहार का सच्चा कृषि इंजन है, जो बाढ़ की विनाशकारी शक्ति के माध्यम से लगातार पुनर्जन्म लेता है।"
+      },
+      "bpscRelevance": {
+        "en": "Annual silt replenishment mechanism, spatial distribution across Kosi and Burhi Gandak basins, and contrast with Bhangar.",
+        "hi": "वार्षिक गाद नवीनीकरण तंत्र, कोसी और बूढ़ी गंडक बेसिन में स्थानिक वितरण, और बांगर के साथ तुलना।"
+      }
+    },
+    {
+      "id": "balsundari-soil",
+      "name": {
+        "en": "Balsundari Soil (Calcareous Alluvium)",
+        "hi": "बालसुंदरी मिट्टी (चूनायुक्त जलोढ़ मिट्टी)"
+      },
+      "broadCategory": {
+        "en": "North Bihar Soils",
+        "hi": "उत्तर बिहार की मिट्टियाँ"
+      },
+      "geographicalLocation": {
+        "en": "Southern sector of North Bihar plain extending from Champaran through Muzaffarpur, Darbhanga to Saharsa",
+        "hi": "उत्तर बिहार के मैदान का दक्षिणी भाग जो चंपारण से मुजफ्फरपुर, दरभंगा होते हुए सहरसा तक विस्तृत है"
+      },
+      "associatedDistricts": [
+        "west-champaran",
+        "east-champaran",
+        "muzaffarpur",
+        "vaishali",
+        "darbhanga",
+        "samastipur",
+        "saharsa"
+      ],
+      "soilTexture": {
+        "en": "Sandy loam with high proportion of fine sand and calcium carbonate (lime)",
+        "hi": "महीन बालू और कैल्शियम कार्बोनेट (चूने) के उच्च अनुपात वाली बलुई दोमट"
+      },
+      "chemicalProperties": {
+        "pH": "Alkaline (pH 7.8 to 8.6), contains over 30% CaCO3 in some tracts",
+        "organicMatter": "Moderate organic matter, very high calcium",
+        "deficiencies": "Deficient in zinc and iron (causes lime-induced chlorosis in fruit trees)"
+      },
+      "colour": {
+        "en": "Whitish yellow to light grey",
+        "hi": "सफेद-पीला से हल्का धूसर"
+      },
+      "suitableCrops": {
+        "en": [
+          "Shahi Litchi",
+          "Zardalu / Malda Mango",
+          "Maize",
+          "Tobacco",
+          "Sugarcane",
+          "Wheat"
+        ],
+        "hi": [
+          "शाही लीची",
+          "जर्दालु / मालदह आम",
+          "मक्का",
+          "तंबाकू",
+          "गन्ना",
+          "गेहूं"
+        ]
+      },
+      "description": {
+        "en": "### The Sandy Balsundari\n\n**Balsundari** is a unique loamy-sand soil prevalent predominantly in the older alluvial tracts of North-Western Bihar (Saran, Gopalganj, Siwan).\n\n### Key Soil Properties\n\n* **High Sand Content:** As the name suggests, it contains over 30% fine sand, offering excellent drainage and aeration.\n* **Calcareous Nature:** It often exhibits a high lime content, making it distinctly alkaline.\n* **Cash Crop Champion:** Its loamy texture makes it an undisputed champion for deep-rooted commercial crops like **sugarcane, tobacco, and maize**.\n\nThis specific soil type is the primary reason behind the historic success of the sugar industry in the Saran-Tirhut belt.",
+        "hi": "### रेतीली बलसुंदरी\n\n**बलसुंदरी** एक अद्वितीय दोमट-रेतीली मिट्टी है जो मुख्य रूप से उत्तर-पश्चिमी बिहार (सारण, गोपालगंज, सीवान) के पुराने जलोढ़ क्षेत्रों में प्रचलित है।\n\n### प्रमुख मिट्टी के गुण\n\n* **उच्च रेत सामग्री:** जैसा कि नाम से पता चलता है, इसमें 30% से अधिक महीन रेत होती है, जो उत्कृष्ट जल निकासी और वातन प्रदान करती है।\n* **चूनेदार प्रकृति:** यह अक्सर एक उच्च चूना सामग्री प्रदर्शित करती है, जिससे यह विशिष्ट रूप से क्षारीय हो जाती है।\n* **नकदी फसल चैंपियन:** इसकी दोमट बनावट इसे **गन्ना, तंबाकू और मक्का** जैसी गहरी जड़ों वाली वाणिज्यिक फसलों के लिए एक निर्विवाद चैंपियन बनाती है।\n\nयह विशिष्ट मिट्टी का प्रकार सारण-तिरहुत बेल्ट में चीनी उद्योग की ऐतिहासिक सफलता के पीछे प्राथमिक कारण है।"
+      },
+      "bpscRelevance": {
+        "en": "Signature question in BPSC: Soil responsible for Muzaffarpur Shahi Litchi, high lime content (>30%), and districts having Balsundari soil.",
+        "hi": "BPSC का ट्रेडमार्क प्रश्न: मुजफ्फरपुर की शाही लीची के लिए जिम्मेदार मिट्टी, उच्च चूना सामग्री (>30%), और बालसुंदरी मिट्टी वाले जिले।"
+      }
+    },
+    {
+      "id": "karail-kewal-soil",
+      "name": {
+        "en": "Karail-Kewal Soil (Heavy Clay Alluvium)",
+        "hi": "कराइल-केवल मिट्टी (भारी मटियार जलोढ़ मिट्टी)"
+      },
+      "broadCategory": {
+        "en": "South Bihar Plain Soils",
+        "hi": "दक्षिण बिहार मैदान की मिट्टियाँ"
+      },
+      "geographicalLocation": {
+        "en": "Extends broadly across the South Bihar plains from Rohtas in the west to Bhagalpur in the east",
+        "hi": "पश्चिम में रोहतास से लेकर पूर्व में भागलपुर तक दक्षिण बिहार के मैदानों में व्यापक रूप से विस्तृत"
+      },
+      "associatedDistricts": [
+        "rohtas",
+        "bhojpur",
+        "buxar",
+        "patna",
+        "jehanabad",
+        "arwal",
+        "gaya",
+        "aurangabad",
+        "nalanda",
+        "munger",
+        "bhagalpur"
+      ],
+      "soilTexture": {
+        "en": "Heavy, dense, stiff clay with deep shrink-swell cracks in dry summer",
+        "hi": "भारी, सघन, चिपचिपी मटियार मिट्टी जिसमें शुष्क गर्मियों में गहरी दरारें पड़ जाती हैं"
+      },
+      "chemicalProperties": {
+        "pH": "Neutral to mildly alkaline (pH 7.2 to 8.0)",
+        "organicMatter": "Balanced fertility, moderate organic matter and nitrogen",
+        "deficiencies": "Moderate phosphate deficiency"
+      },
+      "colour": {
+        "en": "Dark brown to greyish black",
+        "hi": "गहरा भूरा से धूसर काला"
+      },
+      "suitableCrops": {
+        "en": [
+          "Rice (Paddy)",
+          "Wheat",
+          "Gram (Chana)",
+          "Lentil (Masur)",
+          "Linseed (Alsi)",
+          "Mustard"
+        ],
+        "hi": [
+          "चावल (धान)",
+          "गेहूं",
+          "चना",
+          "मसूर",
+          "तीसी (अलसी)",
+          "सरसों"
+        ]
+      },
+      "description": {
+        "en": "### The Heavy Karail-Kewal\n\n**Karail-Kewal** is the defining mature soil of the South Bihar Plains, stretching broadly from Rohtas to Bhagalpur.\n\n### Key Soil Properties\n\n* **High Clay Content:** It is an exceptionally heavy clay loam that turns rock-hard when dry and remarkably sticky when wet.\n* **Moisture Retention:** Its legendary capacity to retain moisture makes it ideal for crops during dry spells.\n* **The Wheat Bowl:** It provides the perfect firm grounding for Bihar's massive winter **Rabi wheat** and gram production.\n\nIts formidable texture requires strong tilling but rewards farmers with unmatched cereal yields.",
+        "hi": "### भारी करैल-केवाल\n\n**करैल-केवाल** दक्षिण बिहार के मैदानों की परिभाषित परिपक्व मिट्टी है, जो रोहतास से भागलपुर तक व्यापक रूप से फैली हुई है।\n\n### प्रमुख मिट्टी के गुण\n\n* **उच्च चिकनी मिट्टी सामग्री:** यह एक असाधारण रूप से भारी चिकनी दोमट मिट्टी है जो सूखी होने पर चट्टान की तरह कठोर और गीली होने पर उल्लेखनीय रूप से चिपचिपी हो जाती है।\n* **नमी प्रतिधारण:** नमी बनाए रखने की इसकी महान क्षमता इसे शुष्क अवधि के दौरान फसलों के लिए आदर्श बनाती है।\n* **गेहूं का कटोरा:** यह बिहार के विशाल शीतकालीन **रबी गेहूं** और चने के उत्पादन के लिए एकदम सही दृढ़ आधार प्रदान करती है।\n\nइसकी विकट बनावट के लिए मजबूत जुताई की आवश्यकता होती है, लेकिन यह किसानों को बेजोड़ अनाज की पैदावार से पुरस्कृत करती है।"
+      },
+      "bpscRelevance": {
+        "en": "Repeatedly asked in BPSC: Dominant soil of South Bihar plains, high clay content and moisture retention, and staple crops supported.",
+        "hi": "BPSC में बार-बार पूछा गया: दक्षिण बिहार के मैदानों की प्रमुख मिट्टी, उच्च मटियार सामग्री और नमी धारण क्षमता, और उगाई जाने वाली प्रमुख फसलें।"
+      }
+    },
+    {
+      "id": "tal-soil",
+      "name": {
+        "en": "Tal Soil (Backwater Depression Soil)",
+        "hi": "टाल मिट्टी (जलमग्न गर्त की मिट्टी)"
+      },
+      "broadCategory": {
+        "en": "South Bihar Plain Soils",
+        "hi": "दक्षिण बिहार मैदान की मिट्टियाँ"
+      },
+      "geographicalLocation": {
+        "en": "Low-lying backwater basin 8 to 10 km south of the Ganga levee, stretching from Buxar to Pirpainti (Bhagalpur), centered on Mokama",
+        "hi": "गंगा के प्राकृतिक तटबंध के 8 से 10 किमी दक्षिण में बक्सर से पीरपैंती (भागलपुर) तक फैला निचला बेसिन, मोकामा पर केंद्रित"
+      },
+      "associatedDistricts": [
+        "patna",
+        "lakhisarai",
+        "sheikhpura",
+        "munger",
+        "bhagalpur",
+        "buxar",
+        "bhojpur"
+      ],
+      "soilTexture": {
+        "en": "Heavy silty clay, sticky when submerged, develops deep wide fissures when dry",
+        "hi": "भारी गाद-युक्त मटियार, जलमग्न होने पर चिपचिपी, सूखने पर गहरी चौड़ी दरारें विकसित करती है"
+      },
+      "chemicalProperties": {
+        "pH": "Neutral to mildly alkaline (pH 7.0 to 7.8)",
+        "organicMatter": "Rich in organic matter and minerals deposited by retreating monsoon waters",
+        "deficiencies": "Poor aeration during rainy months due to total submersion"
+      },
+      "colour": {
+        "en": "Dark grey to brownish black",
+        "hi": "गहरा धूसर से भूरा-काला"
+      },
+      "suitableCrops": {
+        "en": [
+          "Gram (Chana)",
+          "Lentil (Masur)",
+          "Khesari",
+          "Peas (Matar)",
+          "Mustard",
+          "Wheat"
+        ],
+        "hi": [
+          "चना",
+          "मसूर",
+          "खेसारी",
+          "मटर",
+          "सरसों",
+          "गेहूं"
+        ]
+      },
+      "description": {
+        "en": "### The Submerged Tal Soils\n\n**Tal soil** is exclusively found in the backwater depression basins spanning south of the Ganga's natural levees, notably in Mokama and Barahiya.\n\n### Key Soil Properties\n\n* **Monsoon Submergence:** These heavy soils remain entirely submerged under floodwaters for 3-4 months during the monsoon.\n* **Post-Flood Fertility:** As waters recede in late autumn, they leave behind an incredibly rich, moist clay bed.\n* **Pulse Perfection:** The residual moisture and nutrient density make it the undisputed 'Pulse Bowl' of India, yielding record harvests of lentils, chickpeas, and mustard.\n\nTal soils represent a perfect example of nature turning flood adversity into immense agricultural prosperity.",
+        "hi": "### जलमग्न टाल मिट्टी\n\n**टाल मिट्टी** विशेष रूप से गंगा के प्राकृतिक तटबंधों के दक्षिण में फैले बैकवाटर गर्त घाटियों में पाई जाती है, विशेष रूप से मोकामा और बड़हिया में।\n\n### प्रमुख मिट्टी के गुण\n\n* **मानसूनी जलमग्नता:** ये भारी मिट्टी मानसून के दौरान 3-4 महीने तक पूरी तरह से बाढ़ के पानी में डूबी रहती है।\n* **बाढ़ के बाद की उर्वरता:** जैसे ही देर से शरद ऋतु में पानी कम होता है, वे अपने पीछे एक अविश्वसनीय रूप से समृद्ध, नम मिट्टी का बिस्तर छोड़ जाते हैं।\n* **दलहन पूर्णता:** अवशिष्ट नमी और पोषक तत्व घनत्व इसे भारत का निर्विवाद 'दलहन का कटोरा' बनाते हैं, जिससे मसूर, चना और सरसों की रिकॉर्ड फसल प्राप्त होती है।\n\nटाल मिट्टी प्रकृति द्वारा बाढ़ की प्रतिकूलता को अपार कृषि समृद्धि में बदलने का एक आदर्श उदाहरण प्रस्तुत करती है।"
+      },
+      "bpscRelevance": {
+        "en": "Legendary BPSC question: Mokama Tal as the Pulse Bowl of Bihar/India, single-cropping rabi cycle, and mechanism of seasonal waterlogging.",
+        "hi": "BPSC का क्लासिक प्रश्न: बिहार/भारत के दलहन के कटोरे के रूप में मोकामा टाल, एकल-फसल रबी चक्र, और मौसमी जलभराव का तंत्र।"
+      }
+    },
+    {
+      "id": "balther-soil",
+      "name": {
+        "en": "Balther Soil (Red-Yellow Transition Soil)",
+        "hi": "बलथर मिट्टी (लाल-पीली संक्रमणकालीन मिट्टी)"
+      },
+      "broadCategory": {
+        "en": "Plateau Fringe Soils",
+        "hi": "पठारी सीमांत मिट्टियाँ"
+      },
+      "geographicalLocation": {
+        "en": "Narrow transitional strip (8-15 km wide) between the South Bihar alluvial plain and Chota Nagpur plateau along Kaimur to Banka",
+        "hi": "कैमूर से बांका तक दक्षिण बिहार के जलोढ़ मैदान और छोटानागपुर पठार के बीच संकरी संक्रमण पट्टी (8-15 किमी चौड़ी)"
+      },
+      "associatedDistricts": [
+        "kaimur",
+        "rohtas",
+        "aurangabad",
+        "gaya",
+        "nawada",
+        "jamui",
+        "banka"
+      ],
+      "soilTexture": {
+        "en": "Coarse sand, gravel, and ferruginous pebbles, highly porous with very low moisture retention",
+        "hi": "मोटी बालू, बजरी और लौह कंकड़, बहुत कम जल धारण क्षमता के साथ अत्यधिक छिद्रपूर्ण"
+      },
+      "chemicalProperties": {
+        "pH": "Acidic to neutral (pH 5.8 to 6.5)",
+        "organicMatter": "Severely deficient in nitrogen, phosphorus, and organic humus",
+        "ironContent": "High ferric oxide giving reddish tint"
+      },
+      "colour": {
+        "en": "Reddish yellow to rusty ochre",
+        "hi": "लालिमायुक्त पीला से गेरुआ"
+      },
+      "suitableCrops": {
+        "en": [
+          "Coarse cereals (Maize, Jowar, Bajra)",
+          "Kodo-Kutki (millets)",
+          "Arhar (Pigeon pea)",
+          "Khesari"
+        ],
+        "hi": [
+          "मोटे अनाज (मक्का, ज्वार, बाजरा)",
+          "कोदो-कुटकी (मिलेट्स)",
+          "अरहर (तूर)",
+          "खेसारी"
+        ]
+      },
+      "description": {
+        "en": "### The Transitionary Balther\n\n**Balther soil** marks the narrow, defining transitional zone where the southern Gangetic alluvium merges into the peninsular Chota Nagpur plateau.\n\n### Key Soil Properties\n\n* **Sandy and Gravelly:** Formed by hill-wash from the southern plateau, it is highly sandy, gravelly, and coarse.\n* **Iron Enriched:** A distinct presence of iron oxide gives this soil a characteristic reddish-yellow or pale hue.\n* **Low Fertility:** It possesses very poor water retention and low organic matter, making it generally unsuitable for intensive agriculture.\n\nWhile agriculturally challenging, it effectively supports drought-resistant coarse millets, arhar, and robust scrub forests.",
+        "hi": "### संक्रमणकालीन बलथर\n\n**बलथर मिट्टी** उस संकीर्ण, परिभाषित संक्रमणकालीन क्षेत्र को चिह्नित करती है जहां दक्षिणी गंगा का जलोढ़ प्रायद्वीपीय छोटानागपुर पठार में विलीन हो जाता है।\n\n### प्रमुख मिट्टी के गुण\n\n* **रेतीली और पथरीली:** दक्षिणी पठार से पहाड़ी-धुलाई द्वारा निर्मित, यह अत्यधिक रेतीली, पथरीली और खुरदरी है।\n* **लौह समृद्ध:** लौह ऑक्साइड की एक विशिष्ट उपस्थिति इस मिट्टी को एक विशिष्ट लाल-पीला या हल्का रंग देती है।\n* **कम उर्वरता:** इसमें जल प्रतिधारण क्षमता बहुत कम होती है और कार्बनिक पदार्थ कम होते हैं, जिससे यह आमतौर पर गहन कृषि के लिए अनुपयुक्त हो जाती है।\n\nकृषि की दृष्टि से चुनौतीपूर्ण होने पर भी, यह सूखा-प्रतिरोधी मोटे बाजरा, अरहर और मजबूत झाड़ीदार जंगलों का प्रभावी ढंग से समर्थन करती है।"
+      },
+      "bpscRelevance": {
+        "en": "Transition zone between alluvium and plateau, districts where Balther is found (Kaimur, Rohtas, Gaya, Jamui), and acidic nature.",
+        "hi": "जलोढ़ और पठार के बीच संक्रमण क्षेत्र, वे जिले जहाँ बलथर पाई जाती है (कैमूर, रोहतास, गया, जमुई), और इसकी अम्लीय प्रकृति।"
+      }
+    },
+    {
+      "id": "red-and-yellow-soil",
+      "name": {
+        "en": "Red and Yellow Crystalline Soil",
+        "hi": "लाल एवं पीली क्रिस्टलीय मिट्टी"
+      },
+      "broadCategory": {
+        "en": "Plateau Fringe Soils",
+        "hi": "पठारी सीमांत मिट्टियाँ"
+      },
+      "geographicalLocation": {
+        "en": "Southern undulating hillocks and plateau margins in Banka, Jamui, Nawada, and Gaya",
+        "hi": "बांका, जमुई, नवादा और गया में दक्षिणी लहरदार पहाड़ियाँ और पठारी किनारे"
+      },
+      "associatedDistricts": [
+        "banka",
+        "jamui",
+        "nawada",
+        "gaya"
+      ],
+      "soilTexture": {
+        "en": "Sandy loam to gravelly clay loam, shallow profile",
+        "hi": "बलुई दोमट से कंकड़युक्त मटियार दोमट, उथली परत"
+      },
+      "chemicalProperties": {
+        "pH": "Acidic (pH 5.2 to 6.2)",
+        "organicMatter": "Low nitrogen, phosphorus, and humus; high in potash and iron oxides",
+        "deficiencies": "Low water-holding capacity, deficient in lime"
+      },
+      "colour": {
+        "en": "Brick red on uplands (ferric diffusion) turning yellowish in lower valley depressions",
+        "hi": "ऊपरी भागों में ईंट जैसा लाल (लौह प्रसार) जो निचली घाटी के गर्तों में पीला हो जाता है"
+      },
+      "suitableCrops": {
+        "en": [
+          "Millets (Ragi / Marua, Jowar)",
+          "Arhar (Pigeon pea)",
+          "Oilseeds (Mustard, Til)",
+          "Forest produce"
+        ],
+        "hi": [
+          "मोटे अनाज (रागी / मड़ुआ, ज्वार)",
+          "अरहर (तूर)",
+          "तिलहन (सरसों, तिल)",
+          "वनोपज"
+        ]
+      },
+      "description": {
+        "en": "### The Ancient Red & Yellow Soils\n\n**Red and Yellow soil** is deeply entrenched in the extreme southern, ancient crystalline hilly tracts of Jamui, Munger, Banka, and Gaya.\n\n### Key Soil Properties\n\n* **Crystalline Origins:** It develops directly through the prolonged, intense weathering of ancient Archean granites and metamorphic gneisses.\n* **Color Dynamics:** The rich red color comes from high iron diffusion, while the yellow signifies hydration.\n* **Nutrient Profile:** Highly porous and generally deficient in nitrogen, phosphorus, and humus.\n\nThough poorly suited for standard crops, with modern irrigation, it has become a testing ground for hardy orchards and dry-land farming techniques.",
+        "hi": "### प्राचीन लाल और पीली मिट्टी\n\n**लाल और पीली मिट्टी** जमुई, मुंगेर, बांका और गया के चरम दक्षिणी, प्राचीन क्रिस्टलीय पहाड़ी इलाकों में गहराई से जमी हुई है।\n\n### प्रमुख मिट्टी के गुण\n\n* **क्रिस्टलीय उत्पत्ति:** यह सीधे प्राचीन आर्कियन ग्रेनाइट और कायांतरित नीस के लंबे समय तक, तीव्र अपक्षय के माध्यम से विकसित होती है।\n* **रंग की गतिशीलता:** समृद्ध लाल रंग उच्च लौह प्रसार से आता है, जबकि पीला जलयोजन का प्रतीक है।\n* **पोषक तत्व प्रोफ़ाइल:** अत्यधिक छिद्रपूर्ण और आमतौर पर नाइट्रोजन, फास्फोरस और ह्यूमस की कमी होती है।\n\nयद्यपि यह मानक फसलों के लिए कम उपयुक्त है, लेकिन आधुनिक सिंचाई के साथ, यह कठोर बागानों और शुष्क-भूमि खेती तकनीकों के लिए एक परीक्षण मैदान बन गया है।"
+      },
+      "bpscRelevance": {
+        "en": "Parent rock (Archean granite-gneiss), iron oxide content responsible for red color, and presence in Banka, Jamui, and Nawada.",
+        "hi": "मूल शैल (आर्कियन ग्रेनाइट-नीस), लाल रंग के लिए जिम्मेदार आयरन ऑक्साइड, और बांका, जमुई व नवादा में इसकी उपस्थिति।"
+      }
+    }
+  ]
+}

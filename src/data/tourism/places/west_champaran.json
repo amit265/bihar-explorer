@@ -1,0 +1,292 @@
+[
+  {
+    "id": "valmiki-tiger-reserve",
+    "slug": "valmiki-tiger-reserve",
+    "name": {
+      "en": "Valmiki Tiger Reserve",
+      "hi": "वाल्मीकि टाइगर रिजर्व"
+    },
+    "districtId": "west_champaran",
+    "placeType": "national_park",
+    "primaryCategory": "wildlife",
+    "categories": [
+      "wildlife",
+      "natural",
+      "eco_tourism"
+    ],
+    "tags": [
+      "mustVisit"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "The only tiger reserve in Bihar, offering diverse flora, fauna, and tiger safaris.",
+      "hi": "बिहार का एकमात्र बाघ अभयारण्य, जो विविध वनस्पतियों, जीवों और बाघ सफारी की पेशकश करता है।"
+    },
+    "description": {
+      "en": "**Valmiki Tiger Reserve** is the crown jewel of Bihar's wildlife, situated in the verdant landscapes of West Champaran. Spread over a vast expanse of lush forests, it forms the easternmost limit of the Himalayan Terai forests in India. \n\nThis magnificent reserve is home to the majestic Royal Bengal Tiger, leopards, Indian flying foxes, and a rich diversity of flora. Visitors are often captivated by the serene environment, the thrilling tiger safaris, and the scenic beauty of the Gandak River that borders the reserve. \n\nWhether you are an avid wildlife photographer, a nature enthusiast, or someone seeking an escape into the wilderness, Valmiki Tiger Reserve promises an unforgettable adventure amidst nature's raw beauty.",
+      "hi": "**वाल्मीकि टाइगर रिजर्व** बिहार के वन्यजीवों का मुकुट रत्न है, जो पश्चिमी चंपारण के हरे-भरे परिदृश्यों में स्थित है। हरे-भरे जंगलों के विशाल विस्तार में फैला, यह भारत में हिमालयी तराई के जंगलों की सबसे पूर्वी सीमा बनाता है। \n\nयह शानदार रिजर्व राजसी रॉयल बंगाल टाइगर, तेंदुओं, भारतीय उड़ने वाली लोमड़ियों और वनस्पतियों की समृद्ध विविधता का घर है। आगंतुक अक्सर शांत वातावरण, रोमांचकारी बाघ सफारी और रिजर्व की सीमा से लगे गंडक नदी की प्राकृतिक सुंदरता से मंत्रमुग्ध हो जाते हैं। \n\nचाहे आप एक उत्साही वन्यजीव फोटोग्राफर हों, प्रकृति प्रेमी हों, या जंगल में भागने की तलाश में हों, वाल्मीकि टाइगर रिजर्व प्रकृति की कच्ची सुंदरता के बीच एक अविस्मरणीय रोमांच का वादा करता है।"
+    },
+    "history": {
+      "en": "The history of the **Valmiki Tiger Reserve** dates back to its establishment as a wildlife sanctuary in 1978, later upgraded to a Tiger Reserve in 1990 under **Project Tiger**. \n\nThe region historically served as a dense forest tract integral to the Terai ecosystem. Over the decades, rigorous conservation efforts have transformed it into a safe haven for endangered species. \n\nThe reserve is named after sage Valmiki, and local legends suggest the ancient hermitage of the sage was located in this very forest.",
+      "hi": "**वाल्मीकि टाइगर रिजर्व** का इतिहास 1978 में एक वन्यजीव अभयारण्य के रूप में इसकी स्थापना के समय का है, जिसे बाद में 1990 में **प्रोजेक्ट टाइगर** के तहत टाइगर रिजर्व में अपग्रेड किया गया। \n\nयह क्षेत्र ऐतिहासिक रूप से तराई पारिस्थितिकी तंत्र के लिए अभिन्न घने जंगल के रूप में कार्य करता था। दशकों से, कठोर संरक्षण प्रयासों ने इसे लुप्तप्राय प्रजातियों के लिए एक सुरक्षित आश्रय स्थल में बदल दिया है। \n\nरिजर्व का नाम महर्षि वाल्मीकि के नाम पर रखा गया है, और स्थानीय किंवदंतियों का सुझाव है कि महर्षि का प्राचीन आश्रम इसी जंगल में स्थित था।"
+    },
+    "significance": {
+      "en": "The reserve holds **immense ecological significance** as the only tiger reserve in Bihar. \n\n- It acts as a critical corridor for wildlife movement between India and Nepal.\n- Preserves the unique Terai-Bhabar ecosystem.\n- Supports a healthy population of tigers and herbivores, showcasing successful conservation strategies.",
+      "hi": "बिहार के एकमात्र बाघ अभयारण्य के रूप में यह रिजर्व **अत्यधिक पारिस्थितिक महत्व** रखता है। \n\n- यह भारत और नेपाल के बीच वन्यजीवों की आवाजाही के लिए एक महत्वपूर्ण गलियारे के रूप में कार्य करता है।\n- अद्वितीय तराई-भाबर पारिस्थितिकी तंत्र को संरक्षित करता है।\n- बाघों और शाकाहारी जीवों की एक स्वस्थ आबादी का समर्थन करता है, जो सफल संरक्षण रणनीतियों को प्रदर्शित करता है।"
+    },
+    "location": {
+      "address": {
+        "en": "Valmiki Nagar, West Champaran District, Bihar, India",
+        "hi": "वाल्मीकि नगर, पश्चिमी चंपारण जिला, बिहार, भारत"
+      },
+      "mapQuery": "Valmiki Tiger Reserve, West Champaran, Bihar"
+    },
+    "visitingInfo": {
+      "recommendedDurationMinutes": 60,
+      "bestTimeToVisit": {
+        "en": "October to March",
+        "hi": "अक्टूबर से मार्च"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Accessible by road from West Champaran district headquarters.",
+        "hi": "पश्चिमी चंपारण जिला मुख्यालय से सड़क मार्ग द्वारा पहुँचा जा सकता है।"
+      },
+      "localTransport": {
+        "en": "Local auto-rickshaws and taxis are generally available.",
+        "hi": "स्थानीय ऑटो-रिक्शा और टैक्सी आमतौर पर उपलब्ध हैं।"
+      }
+    },
+    "accessibility": {
+      "difficulty": "moderate",
+      "walkingRequired": true,
+      "suitableForChildren": true
+    },
+    "travelTips": [
+      {
+        "en": "- **Safari Booking**: Book your tiger safari well in advance during peak seasons.\n- **Clothing**: Wear muted earth tones to blend in with the forest surroundings.\n- **Guidelines**: Strictly follow the forest department's rules and maintain silence during safaris to spot wildlife.",
+        "hi": "- **सफारी बुकिंग**: चरम मौसम के दौरान अपनी बाघ सफारी को पहले से बुक करें।\n- **कपड़े**: जंगल के परिवेश के साथ घुलने-मिलने के लिए हल्के और प्राकृतिक रंग के कपड़े पहनें।\n- **दिशानिर्देश**: वन्यजीवों देखने के लिए वन विभाग के नियमों का सख्ती से पालन करें और सफारी के दौरान मौन बनाए रखें।"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-18",
+      "sources": [
+        {
+          "title": "Valmiki Tiger Reserve",
+          "organization": "Bihar Tourism",
+          "url": "https://tourism.bihar.gov.in/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-18",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": [],
+    "circuits": [
+      "eco_circuit"
+    ]
+  },
+  {
+    "id": "bhitiharwa-ashram",
+    "slug": "bhitiharwa-ashram",
+    "name": {
+      "en": "Bhitiharwa Ashram",
+      "hi": "भितिहरवा आश्रम"
+    },
+    "districtId": "west_champaran",
+    "placeType": "historical_site",
+    "primaryCategory": "historical",
+    "categories": [
+      "historical",
+      "freedom_movement"
+    ],
+    "tags": [
+      "mustVisit"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "A historic site where Mahatma Gandhi established a school and ashram during the Champaran Satyagraha.",
+      "hi": "एक ऐतिहासिक स्थल जहां महात्मा गांधी ने चंपारण सत्याग्रह के दौरान एक स्कूल और आश्रम की स्थापना की थी।"
+    },
+    "description": {
+      "en": "**Bhitiharwa Ashram** holds a deeply revered spot in the annals of Indian independence. Located in the tranquil village of Bhitiharwa in West Champaran, this humble ashram is intrinsically linked to Mahatma Gandhi's early political journey in India. \n\nDuring the Champaran Satyagraha of 1917, Gandhi Ji chose this location to set up a school and an ashram to uplift the local indigo farmers and instil a sense of self-reliance and education. \n\nToday, the ashram preserves the relics of that era, including the simple hut used by Gandhi, his personal belongings, and old photographs. A visit here is a poignant walk through the very foundations of India's non-violent freedom struggle.",
+      "hi": "**भितिहरवा आश्रम** भारतीय स्वतंत्रता के इतिहास में एक अत्यंत श्रद्धेय स्थान रखता है। पश्चिमी चंपारण के शांत गांव भितिहरवा में स्थित, यह विनम्र आश्रम भारत में महात्मा गांधी की प्रारंभिक राजनीतिक यात्रा से आंतरिक रूप से जुड़ा हुआ है। \n\n1917 के चंपारण सत्याग्रह के दौरान, गांधी जी ने स्थानीय नील किसानों के उत्थान और आत्मनिर्भरता और शिक्षा की भावना पैदा करने के लिए एक स्कूल और एक आश्रम स्थापित करने के लिए इस स्थान को चुना। \n\nआज, आश्रम उस युग के अवशेषों को संरक्षित करता है, जिसमें गांधी द्वारा उपयोग की जाने वाली साधारण झोपड़ी, उनका व्यक्तिगत सामान और पुरानी तस्वीरें शामिल हैं। यहाँ की यात्रा भारत के अहिंसक स्वतंत्रता संग्राम की नींव के माध्यम से एक मार्मिक सैर है।"
+    },
+    "history": {
+      "en": "The history of the **Bhitiharwa Ashram** is synonymous with the **Champaran Satyagraha of 1917**. \n\n- It was established by Mahatma Gandhi as a center for basic education and social reform.\n- The original ashram was built by local volunteers and served as a base for Gandhi and his associates like Kasturba Gandhi and Rajendra Prasad.\n- The British authorities constantly monitored the ashram, which became a beacon of resistance against the oppressive indigo plantation system.",
+      "hi": "**भितिहरवा आश्रम** का इतिहास **1917 के चंपारण सत्याग्रह** का पर्याय है। \n\n- इसकी स्थापना महात्मा गांधी ने बुनियादी शिक्षा और सामाजिक सुधार के केंद्र के रूप में की थी।\n- मूल आश्रम का निर्माण स्थानीय स्वयंसेवकों द्वारा किया गया था और यह गांधी और कस्तूरबा गांधी और राजेंद्र प्रसाद जैसे उनके सहयोगियों के लिए एक आधार के रूप में कार्य करता था।\n- ब्रिटिश अधिकारियों ने आश्रम की लगातार निगरानी की, जो दमनकारी नील वृक्षारोपण प्रणाली के खिलाफ प्रतिरोध का प्रतीक बन गया।"
+    },
+    "significance": {
+      "en": "The ashram is of **monumental historical significance** as the birthplace of the Satyagraha movement in India. \n\n- It marks Gandhi's transition into a mass leader in India.\n- Symbolizes the power of non-violent resistance and grassroots education.\n- Serves as a place of pilgrimage for history scholars and patriots.",
+      "hi": "आश्रम भारत में सत्याग्रह आंदोलन के जन्मस्थान के रूप में **स्मारकीय ऐतिहासिक महत्व** का है। \n\n- यह भारत में जन नेता के रूप में गांधी के संक्रमण को चिह्नित करता है।\n- अहिंसक प्रतिरोध और जमीनी स्तर की शिक्षा की शक्ति का प्रतीक है।\n- इतिहास के विद्वानों और देशभक्तों के लिए तीर्थ स्थान के रूप में कार्य करता है।"
+    },
+    "location": {
+      "address": {
+        "en": "Bhitiharwa Village, West Champaran District, Bihar, India",
+        "hi": "भितिहरवा गांव, पश्चिमी चंपारण जिला, बिहार, भारत"
+      },
+      "mapQuery": "Bhitiharwa Ashram, West Champaran, Bihar"
+    },
+    "visitingInfo": {
+      "recommendedDurationMinutes": 60,
+      "bestTimeToVisit": {
+        "en": "October to March",
+        "hi": "अक्टूबर से मार्च"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Accessible by road from West Champaran district headquarters.",
+        "hi": "पश्चिमी चंपारण जिला मुख्यालय से सड़क मार्ग द्वारा पहुँचा जा सकता है।"
+      },
+      "localTransport": {
+        "en": "Local auto-rickshaws and taxis are generally available.",
+        "hi": "स्थानीय ऑटो-रिक्शा और टैक्सी आमतौर पर उपलब्ध हैं।"
+      }
+    },
+    "accessibility": {
+      "difficulty": "moderate",
+      "walkingRequired": true,
+      "suitableForChildren": true
+    },
+    "travelTips": [
+      {
+        "en": "- **Respectful Demeanour**: Maintain a quiet and respectful demeanour as it is a place of historical reverence.\n- **Museum Visit**: Spend time in the small museum to read the original documents and letters from the Satyagraha era.\n- **Photography**: Photography is permitted, but avoid using flash near old artifacts.",
+        "hi": "- **सम्मानजनक व्यवहार**: शांत और सम्मानजनक व्यवहार बनाए रखें क्योंकि यह ऐतिहासिक श्रद्धा का स्थान है।\n- **संग्रहालय का दौरा**: सत्याग्रह युग के मूल दस्तावेजों और पत्रों को पढ़ने के लिए छोटे संग्रहालय में समय बिताएं।\n- **फोटोग्राफी**: फोटोग्राफी की अनुमति है, लेकिन पुरानी कलाकृतियों के पास फ्लैश का उपयोग करने से बचें।"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-18",
+      "sources": [
+        {
+          "title": "Champaran Satyagraha",
+          "organization": "Gandhi Heritage Portal",
+          "url": "https://www.gandhiheritageportal.org/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-18",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": [],
+    "circuits": []
+  },
+  {
+    "id": "ashokan-pillar-lauriya-nandangarh",
+    "slug": "ashokan-pillar-lauriya-nandangarh",
+    "name": {
+      "en": "Ashokan Pillar, Lauriya Nandangarh",
+      "hi": "अशोक स्तंभ, लौरिया नंदनगढ़"
+    },
+    "districtId": "west_champaran",
+    "placeType": "archaeological_site",
+    "primaryCategory": "archaeological",
+    "categories": [
+      "archaeological",
+      "historical"
+    ],
+    "tags": [
+      "mustVisit"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "One of the best-preserved Ashokan pillars in India, featuring a single lion capital.",
+      "hi": "भारत में सबसे अच्छी तरह से संरक्षित अशोक स्तंभों में से एक, जिसमें एक शेर की राजधानी है।"
+    },
+    "description": {
+      "en": "The **Ashokan Pillar at Lauriya Nandangarh** is a magnificent testament to the ancient Mauryan Empire's architectural and cultural grandeur. Situated in the historical landscape of West Champaran, this imposing pillar is one of the most perfectly preserved monolithic columns erected by Emperor Ashoka. \n\nCarved from a single block of polished Chunar sandstone, the pillar soars high and is crowned with a beautifully sculpted single lion capital facing north. The shaft is inscribed with the first six edicts of Ashoka in the Brahmi script, promoting peace, morality, and Dhamma. \n\nSurrounded by sprawling greenery and ancient stupa mounds, the site offers a profound glimpse into India's glorious past, leaving visitors in awe of the craftsmanship and vision of the 3rd century BCE.",
+      "hi": "**लौरिया नंदनगढ़ में अशोक स्तंभ** प्राचीन मौर्य साम्राज्य की स्थापत्य और सांस्कृतिक भव्यता का एक शानदार प्रमाण है। पश्चिमी चंपारण के ऐतिहासिक परिदृश्य में स्थित, यह भव्य स्तंभ सम्राट अशोक द्वारा बनाए गए सबसे पूरी तरह से संरक्षित अखंड स्तंभों में से एक है। \n\nपॉलिश किए गए चुनार बलुआ पत्थर के एक ही ब्लॉक से उकेरा गया, यह स्तंभ ऊंचा है और इसके ऊपर उत्तर की ओर मुंह किए हुए एक खूबसूरती से गढ़ी गई एकल शेर की राजधानी है। शाफ्ट पर शांति, नैतिकता और धम्म को बढ़ावा देने वाले ब्राह्मी लिपि में अशोक के पहले छह फरमान खुदे हुए हैं। \n\nफैली हुई हरियाली और प्राचीन स्तूप के टीलों से घिरा, यह स्थल भारत के गौरवशाली अतीत की एक गहरी झलक प्रस्तुत करता है, जिससे आगंतुक तीसरी शताब्दी ईसा पूर्व के शिल्प कौशल और दृष्टि के विस्मय में पड़ जाते हैं।"
+    },
+    "history": {
+      "en": "Erected in the **3rd century BCE** by the great Mauryan Emperor Ashoka, this pillar is part of a series of columns placed across the Indian subcontinent. \n\n- It was designed to disseminate Ashoka's moral teachings and royal decrees.\n- The adjacent area of Nandangarh features immense brick mounds, believed to be the remains of ancient stupas housing the ashes of Buddha.\n- The site was extensively explored and documented by British archaeologists in the 19th and 20th centuries, revealing its massive historical scope.",
+      "hi": "महान मौर्य सम्राट अशोक द्वारा **तीसरी शताब्दी ईसा पूर्व** में निर्मित, यह स्तंभ भारतीय उपमहाद्वीप में रखे गए स्तंभों की एक श्रृंखला का हिस्सा है। \n\n- इसे अशोक की नैतिक शिक्षाओं और शाही फरमानों को प्रसारित करने के लिए डिज़ाइन किया गया था।\n- नंदनगढ़ के आसन्न क्षेत्र में ईंटों के विशाल टीले हैं, जिन्हें बुद्ध की राख रखने वाले प्राचीन स्तूपों के अवशेष माना जाता है।\n- 19वीं और 20वीं शताब्दी में ब्रिटिश पुरातत्वविदों द्वारा इस स्थल का बड़े पैमाने पर पता लगाया गया और इसका दस्तावेजीकरण किया गया, जिससे इसके विशाल ऐतिहासिक दायरे का पता चला।"
+    },
+    "significance": {
+      "en": "This site is of **global archaeological and historical significance**. \n\n- It features the pristine **Lion Capital** and unblemished Mauryan polish.\n- The Brahmi inscriptions are crucial for the linguistic and historical study of ancient India.\n- The surrounding stupas point to the area's importance in early Buddhism.",
+      "hi": "यह स्थल **वैश्विक पुरातात्विक और ऐतिहासिक महत्व** का है। \n\n- इसमें प्राचीन **शेर की राजधानी** और बेदाग मौर्य पॉलिश है।\n- प्राचीन भारत के भाषाई और ऐतिहासिक अध्ययन के लिए ब्राह्मी शिलालेख महत्वपूर्ण हैं।\n- आसपास के स्तूप प्रारंभिक बौद्ध धर्म में क्षेत्र के महत्व को दर्शाते हैं।"
+    },
+    "location": {
+      "address": {
+        "en": "Lauriya Nandangarh, West Champaran District, Bihar, India",
+        "hi": "लौरिया नंदनगढ़, पश्चिमी चंपारण जिला, बिहार, भारत"
+      },
+      "mapQuery": "Ashokan Pillar, Lauriya Nandangarh, West Champaran, Bihar"
+    },
+    "visitingInfo": {
+      "recommendedDurationMinutes": 60,
+      "bestTimeToVisit": {
+        "en": "October to March",
+        "hi": "अक्टूबर से मार्च"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Accessible by road from West Champaran district headquarters.",
+        "hi": "पश्चिमी चंपारण जिला मुख्यालय से सड़क मार्ग द्वारा पहुँचा जा सकता है।"
+      },
+      "localTransport": {
+        "en": "Local auto-rickshaws and taxis are generally available.",
+        "hi": "स्थानीय ऑटो-रिक्शा और टैक्सी आमतौर पर उपलब्ध हैं।"
+      }
+    },
+    "accessibility": {
+      "difficulty": "moderate",
+      "walkingRequired": true,
+      "suitableForChildren": true
+    },
+    "travelTips": [
+      {
+        "en": "- **Best Time**: Early morning or late afternoon is ideal to appreciate the details of the pillar without the harsh sun.\n- **Guided Tour**: Hire a local guide or carry a historical guidebook to fully understand the meaning of the Brahmi edicts.\n- **Exploration**: Do not miss walking up to the nearby stupa mounds for a panoramic view of the ancient site.",
+        "hi": "- **सबसे अच्छा समय**: तेज धूप के बिना स्तंभ के विवरण की सराहना करने के लिए सुबह जल्दी या देर दोपहर आदर्श है।\n- **गाइडेड टूर**: ब्राह्मी फरमानों के अर्थ को पूरी तरह से समझने के लिए एक स्थानीय गाइड को किराए पर लें या एक ऐतिहासिक गाइडबुक ले जाएं।\n- **अन्वेषण**: प्राचीन स्थल के मनोरम दृश्य के लिए पास के स्तूप के टीलों तक जाने से न चूकें।"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-18",
+      "sources": [
+        {
+          "title": "Lauriya Nandangarh",
+          "organization": "Archaeological Survey of India",
+          "url": "https://asi.nic.in/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-18",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": [],
+    "circuits": [
+      "buddhist_circuit"
+    ]
+  }
+]

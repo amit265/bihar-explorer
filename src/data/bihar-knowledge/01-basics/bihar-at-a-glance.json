@@ -1,0 +1,245 @@
+{
+  "data": [
+    {
+      "id": "statehood-formation",
+      "category": "history",
+      "title": {
+        "en": "State Formation & Bihar Diwas",
+        "hi": "राज्य स्थापना एवं बिहार दिवस"
+      },
+      "value": {
+        "en": "March 22, 1912",
+        "hi": "22 मार्च 1912"
+      },
+      "description": {
+        "en": "### The Birth of Modern Bihar\n\nBihar was officially carved out of the Bengal Presidency on **March 22, 1912**. This day represents a major milestone in the state's modern history and is celebrated annually across the state as **Bihar Diwas** with grand cultural festivities.\n\n#### Historical Bifurcations\nAfter its initial formation, the state underwent two major geographical bifurcations to improve administrative efficiency and address regional demands:\n\n*   **April 1, 1936**: The province of Odisha (then Orissa) was separated from Bihar to form a distinct administrative region.\n*   **November 15, 2000**: Following a prolonged movement, the southern tribal and mineral-rich region of Bihar was separated to create the new state of **Jharkhand**.\n\nToday, the modern state of Bihar is a geographically defined entity primarily consisting of the immensely fertile, flat Gangetic plains.",
+        "hi": "### आधुनिक बिहार का जन्म\n\nबिहार आधिकारिक तौर पर **22 मार्च 1912** को बंगाल प्रेसीडेंसी से अलग होकर एक नए प्रांत के रूप में अस्तित्व में आया। इस ऐतिहासिक दिन को प्रतिवर्ष राज्य भर में **'बिहार दिवस'** के रूप में भव्य सांस्कृतिक कार्यक्रमों के साथ मनाया जाता है।\n\n#### ऐतिहासिक विभाजन\nअपने प्रारंभिक गठन के बाद, प्रशासनिक दक्षता में सुधार और क्षेत्रीय मांगों को पूरा करने के लिए राज्य में दो बड़े भौगोलिक विभाजन हुए:\n\n*   **1 अप्रैल 1936**: प्रशासनिक सुगमता के लिए उड़ीसा (अब ओडिशा) को बिहार से अलग कर एक नया प्रांत बनाया गया।\n*   **15 नवंबर 2000**: एक लंबे आंदोलन के बाद, राज्य के दक्षिणी खनिज बहुल और आदिवासी क्षेत्र को अलग करके **झारखंड** नामक एक नए राज्य का गठन किया गया।\n\nवर्तमान में, बिहार मुख्य रूप से अत्यधिक उपजाऊ गंगा के मैदानों से युक्त एक भौगोलिक इकाई है।"
+      },
+      "details": {
+        "separatedFrom": {
+          "en": "Bengal Presidency",
+          "hi": "बंगाल प्रेसीडेंसी"
+        },
+        "bifurcationJharkhand": "2000-11-15",
+        "separationOdisha": "1936-04-01"
+      },
+      "asOf": "2024-01-01",
+      "associatedDistrictIds": [
+        "patna"
+      ],
+      "sources": [
+        "Government of Bihar Official Portal",
+        "Bihar State Archives"
+      ]
+    },
+    {
+      "id": "capital-and-judiciary",
+      "category": "administration",
+      "title": {
+        "en": "State Capital & High Court",
+        "hi": "राजधानी एवं उच्च न्यायालय"
+      },
+      "value": {
+        "en": "Patna (High Court est. 1916)",
+        "hi": "पटना (उच्च न्यायालय स्था. 1916)"
+      },
+      "description": {
+        "en": "### The Seat of Power: Patna\n\n**Patna**, historically known as *Pataliputra*, serves as the capital and primary administrative hub of Bihar. It is one of the oldest continuously inhabited places in the world and sits gracefully on the southern banks of the River Ganga.\n\n#### Judiciary System\nThe **Patna High Court** is the highest judicial authority in the state.\n*   **Established**: February 9, 1916\n*   **Jurisdiction**: Entire state of Bihar\n*   **Architecture**: The High Court building is a magnificent example of neo-classical architecture designed by Mr. Munnings.\n\nThe administrative setup in Patna includes the Secretariat (Vikas Bhavan/Visvesvaraya Bhavan) and the Chief Minister's office, from where the entire state machinery is governed.",
+        "hi": "### सत्ता का केंद्र: पटना\n\n**पटना**, जिसे ऐतिहासिक रूप से *पाटलिपुत्र* के नाम से जाना जाता था, बिहार की राजधानी और प्राथमिक प्रशासनिक केंद्र है। यह दुनिया के सबसे पुराने लगातार बसे हुए स्थानों में से एक है और पवित्र गंगा नदी के दक्षिणी तट पर शान से स्थित है।\n\n#### न्यायपालिका प्रणाली\n**पटना उच्च न्यायालय** राज्य का सर्वोच्च न्यायिक प्राधिकरण है।\n*   **स्थापना**: 9 फरवरी 1916\n*   **क्षेत्राधिकार**: संपूर्ण बिहार राज्य\n*   **वास्तुकला**: उच्च न्यायालय का भवन नव-शास्त्रीय वास्तुकला (neo-classical architecture) का एक शानदार उदाहरण है जिसे श्री मुनिंग्स द्वारा डिजाइन किया गया था।\n\nपटना में प्रशासनिक व्यवस्था में सचिवालय और मुख्यमंत्री कार्यालय शामिल हैं, जहाँ से पूरे राज्य की मशीनरी संचालित होती है।"
+      },
+      "details": {
+        "capitalCity": {
+          "en": "Patna",
+          "hi": "पटना"
+        },
+        "highCourtLocation": {
+          "en": "Patna",
+          "hi": "पटना"
+        },
+        "highCourtEstablished": "1916-02-09"
+      },
+      "asOf": "2024-01-01",
+      "associatedDistrictIds": [
+        "patna"
+      ],
+      "sources": [
+        "Patna High Court Official Portal",
+        "Govt of Bihar"
+      ]
+    },
+    {
+      "id": "geographical-extent",
+      "category": "geography",
+      "title": {
+        "en": "Geographical Location & Area",
+        "hi": "भौगोलिक स्थिति एवं क्षेत्रफल"
+      },
+      "value": {
+        "en": "94,163 sq km (12th in India)",
+        "hi": "94,163 वर्ग किमी (भारत में 12वां)"
+      },
+      "description": {
+        "en": "### Geographic Overview\n\nBihar is a strictly landlocked state located in the eastern part of northern India. It acts as a vital bridge between the culturally rich East India and the political heart of North India.\n\n#### Boundaries & Borders\n*   **North**: Shares an international border with **Nepal** (an open, porous border crucial for trade and cultural exchange).\n*   **East**: West Bengal\n*   **West**: Uttar Pradesh\n*   **South**: Jharkhand\n\n#### Topographical Details\n*   **Total Area**: 94,163 square kilometers.\n*   **Rank**: It is the **12th largest state** in India by geographical area, accounting for roughly **2.86%** of the country's total landmass.\n*   **Dimensions**: The state measures approximately 345 km from North to South and 483 km from East to West.\n*   **Elevation**: The average elevation above sea level is 53 meters, making it highly prone to river flooding, particularly in the northern plains.",
+        "hi": "### भौगोलिक अवलोकन\n\nबिहार उत्तर भारत के पूर्वी भाग में स्थित एक पूरी तरह से स्थल-रुद्ध (landlocked) राज्य है। यह सांस्कृतिक रूप से समृद्ध पूर्वी भारत और उत्तर भारत के राजनीतिक हृदय के बीच एक महत्वपूर्ण सेतु के रूप में कार्य करता है।\n\n#### सीमाएँ\n*   **उत्तर**: **नेपाल** के साथ अंतर्राष्ट्रीय सीमा साझा करता है (व्यापार और सांस्कृतिक आदान-प्रदान के लिए एक खुली सीमा)।\n*   **पूर्व**: पश्चिम बंगाल\n*   **पश्चिम**: उत्तर प्रदेश\n*   **दक्षिण**: झारखंड\n\n#### स्थलाकृतिक विवरण\n*   **कुल क्षेत्रफल**: 94,163 वर्ग किलोमीटर।\n*   **रैंक**: भौगोलिक क्षेत्रफल के हिसाब से यह भारत का **12वां सबसे बड़ा राज्य** है, जो देश के कुल भूभाग का लगभग **2.86%** है।\n*   **आयाम**: राज्य उत्तर से दक्षिण तक लगभग 345 किमी और पूर्व से पश्चिम तक 483 किमी मापता है।\n*   **ऊंचाई**: समुद्र तल से औसत ऊंचाई 53 मीटर है, जिससे विशेष रूप से उत्तरी मैदानों में नदी की बाढ़ का खतरा बना रहता है।"
+      },
+      "details": {
+        "areaSqKm": 94163,
+        "shareOfIndiaArea": "2.86%",
+        "nationalRankArea": 12,
+        "lengthNorthSouthKm": 345,
+        "widthEastWestKm": 483,
+        "averageElevationMeters": 53
+      },
+      "asOf": "2024-01-01",
+      "associatedDistrictIds": [
+        "patna",
+        "west-champaran",
+        "kishanganj",
+        "gaya",
+        "kaimur"
+      ],
+      "sources": [
+        "Survey of India",
+        "Department of Environment, Forest and Climate Change, Bihar"
+      ]
+    },
+    {
+      "id": "administrative-structure",
+      "category": "administration",
+      "title": {
+        "en": "Administrative Units",
+        "hi": "प्रशासनिक इकाइयां"
+      },
+      "value": {
+        "en": "9 Divisions, 38 Districts, 101 Subdivisions, 534 Blocks",
+        "hi": "9 प्रमंडल, 38 जिले, 101 अनुमंडल, 534 प्रखंड"
+      },
+      "description": {
+        "en": "### Administrative Decentralization\n\nTo ensure effective governance and delivery of public services to its massive population, Bihar operates under a deeply decentralized administrative structure.\n\n#### The Hierarchy of Administration\n1.  **Divisions (Pramandal)**: The state is divided into **9 major divisions** (Patna, Tirhut, Saran, Darbhanga, Kosi, Purnia, Bhagalpur, Munger, and Magadh). Each is headed by a Divisional Commissioner.\n2.  **Districts (Zila)**: There are **38 districts** functioning under District Magistrates (DMs).\n3.  **Subdivisions (Anumandal)**: The districts are further divided into **101 subdivisions**.\n4.  **Blocks (Prakhand)**: At the grassroots administrative level, there are **534 Community Development Blocks**, headed by Block Development Officers (BDOs).\n\nAdditionally, for rural local governance (Panchayati Raj), Bihar is divided into **8,406 Gram Panchayats**, which oversee local development across thousands of revenue villages.",
+        "hi": "### प्रशासनिक विकेंद्रीकरण\n\nअपनी विशाल आबादी तक प्रभावी शासन और सार्वजनिक सेवाओं का वितरण सुनिश्चित करने के लिए, बिहार एक गहराई से विकेंद्रीकृत प्रशासनिक ढांचे के तहत काम करता है।\n\n#### प्रशासन का पदानुक्रम\n1.  **प्रमंडल (Divisions)**: राज्य को **9 प्रमुख प्रमंडलों** (पटना, तिरहुत, सारण, दरभंगा, कोसी, पूर्णिया, भागलपुर, मुंगेर और मगध) में बांटा गया है। प्रत्येक प्रमंडल का प्रमुख एक प्रमंडलीय आयुक्त (Divisional Commissioner) होता है।\n2.  **जिले (Districts)**: राज्य में **38 जिले** हैं जो जिलाधिकारी (DM) के अधीन कार्य करते हैं।\n3.  **अनुमंडल (Subdivisions)**: जिलों को आगे **101 अनुमंडलों** में विभाजित किया गया है।\n4.  **प्रखंड (Blocks)**: जमीनी स्तर पर प्रशासन के लिए, **534 सामुदायिक विकास प्रखंड** हैं, जिनका नेतृत्व प्रखंड विकास पदाधिकारी (BDO) करते हैं।\n\nइसके अतिरिक्त, ग्रामीण स्थानीय शासन (पंचायती राज) के लिए, बिहार को **8,406 ग्राम पंचायतों** में विभाजित किया गया है, जो हजारों राजस्व गांवों में स्थानीय विकास की देखरेख करते हैं।"
+      },
+      "details": {
+        "divisionsCount": 9,
+        "districtsCount": 38,
+        "subdivisionsCount": 101,
+        "blocksCount": 534,
+        "gramPanchayatsCount": 8406,
+        "revenueVillagesCount": 45103
+      },
+      "asOf": "2024-01-01",
+      "associatedDistrictIds": [
+        "patna",
+        "muzaffarpur",
+        "darbhanga",
+        "bhagalpur",
+        "gaya",
+        "purnia",
+        "saran",
+        "munger"
+      ],
+      "sources": [
+        "Department of General Administration, Government of Bihar"
+      ]
+    },
+    {
+      "id": "legislative-representation",
+      "category": "polity",
+      "title": {
+        "en": "Legislative & Parliamentary Representation",
+        "hi": "विधायी एवं संसदीय प्रतिनिधित्व"
+      },
+      "value": {
+        "en": "Bicameral: 243 Assembly, 75 Council | 40 Lok Sabha, 16 Rajya Sabha",
+        "hi": "द्विसदनीय: 243 विधानसभा, 75 विधान परिषद | 40 लोकसभा, 16 राज्यसभा"
+      },
+      "description": {
+        "en": "### State Legislature\nBihar is one of the few states in India featuring a **bicameral legislature** (two houses), deeply rooted in democratic traditions.\n\n*   **Vidhan Sabha (Legislative Assembly)**: The lower house consists of **243 directly elected Members** of Legislative Assembly (MLAs). Out of these, 38 seats are reserved for Scheduled Castes (SC) and 2 for Scheduled Tribes (ST).\n*   **Vidhan Parishad (Legislative Council)**: The upper house consists of **75 Members** (MLCs), comprising teachers, graduates, local authorities, and nominated experts.\n\n### Parliamentary Representation\nDue to its large population, Bihar wields massive political influence in the national Parliament in New Delhi.\n*   **Lok Sabha**: Bihar sends **40 Members** of Parliament to the lower house, making it the 4th largest contributor to the Lok Sabha.\n*   **Rajya Sabha**: Bihar sends **16 Members** to the upper house of Parliament.",
+        "hi": "### राज्य विधायिका\nबिहार भारत के उन गिने-चुने राज्यों में से एक है जहां **द्विसदनीय विधायिका** (दो सदन) है, जो लोकतांत्रिक परंपराओं में गहराई से निहित है।\n\n*   **विधानसभा (Legislative Assembly)**: निचले सदन में सीधे चुने गए **243 सदस्य** (MLA) होते हैं। इनमें से 38 सीटें अनुसूचित जाति (SC) और 2 अनुसूचित जनजाति (ST) के लिए आरक्षित हैं।\n*   **विधान परिषद (Legislative Council)**: उच्च सदन में **75 सदस्य** (MLC) होते हैं, जिनमें शिक्षक, स्नातक, स्थानीय निकाय प्रतिनिधि और नामित विशेषज्ञ शामिल होते हैं।\n\n### संसदीय प्रतिनिधित्व\nअपनी विशाल आबादी के कारण, नई दिल्ली में राष्ट्रीय संसद में बिहार का बड़े पैमाने पर राजनीतिक प्रभाव है।\n*   **लोकसभा**: बिहार निचले सदन में **40 सांसद** भेजता है, जो इसे लोकसभा में चौथा सबसे बड़ा योगदानकर्ता बनाता है।\n*   **राज्यसभा**: बिहार संसद के उच्च सदन में **16 सदस्य** भेजता है।"
+      },
+      "details": {
+        "assemblySeats": 243,
+        "councilSeats": 75,
+        "lokSabhaSeats": 40,
+        "rajyaSabhaSeats": 16,
+        "scReservedAssembly": 38,
+        "stReservedAssembly": 2,
+        "scReservedLokSabha": 6
+      },
+      "asOf": "2024-01-01",
+      "associatedDistrictIds": [
+        "patna"
+      ],
+      "sources": [
+        "Election Commission of India",
+        "Bihar Vidhan Sabha"
+      ]
+    },
+    {
+      "id": "demographics-census",
+      "category": "demographics",
+      "title": {
+        "en": "Population & Density",
+        "hi": "जनसंख्या एवं घनत्व"
+      },
+      "value": {
+        "en": "10.41 Crore (1,106 per sq km - Census 2011)",
+        "hi": "10.41 करोड़ (1,106 प्रति वर्ग किमी - जनगणना 2011)"
+      },
+      "description": {
+        "en": "### Demographic Scale\n\nAccording to the official Census of 2011, Bihar recorded a staggering total population of **104,099,452** (approx. 10.41 crore), solidifying its position as the **3rd most populous state** in India (behind Uttar Pradesh and Maharashtra).\n\n### Population Density\nPerhaps the most defining geographic characteristic of Bihar is its extreme population density.\n*   With **1,106 persons per square kilometer**, Bihar ranks **first among all Indian states** in population density.\n*   This dense population is primarily sustained by the state's highly fertile agricultural land fueled by the Ganga river system.\n\n### Growth and Gender Ratio\n*   **Decadal Growth Rate**: The state recorded a high decadal growth rate of 25.42% between 2001 and 2011.\n*   **Sex Ratio**: The overall sex ratio stands at 918 females per 1,000 males, while the child sex ratio (0-6 years) is slightly healthier at 935.",
+        "hi": "### जनसांख्यिकीय पैमाना\n\n2011 की आधिकारिक जनगणना के अनुसार, बिहार की कुल आबादी **10,40,99,452** (लगभग 10.41 करोड़) दर्ज की गई, जिसने इसे भारत में **तीसरे सबसे अधिक आबादी वाले राज्य** (उत्तर प्रदेश और महाराष्ट्र के बाद) के रूप में स्थापित किया।\n\n### जनसंख्या घनत्व\nशायद बिहार की सबसे परिभाषित भौगोलिक विशेषता इसका अत्यधिक जनसंख्या घनत्व है।\n*   **1,106 व्यक्ति प्रति वर्ग किलोमीटर** के साथ, जनसंख्या घनत्व में बिहार भारत के सभी राज्यों में **प्रथम स्थान** पर है।\n*   यह घनी आबादी मुख्य रूप से गंगा नदी प्रणाली द्वारा सिंचित राज्य की अत्यधिक उपजाऊ कृषि भूमि द्वारा समर्थित है।\n\n### वृद्धि और लिंगानुपात\n*   **दशकीय वृद्धि दर**: 2001 और 2011 के बीच राज्य ने 25.42% की उच्च दशकीय वृद्धि दर दर्ज की।\n*   **लिंगानुपात**: समग्र लिंगानुपात 918 महिलाएं प्रति 1,000 पुरुष है, जबकि बाल लिंगानुपात (0-6 वर्ष) 935 के साथ थोड़ा बेहतर है।"
+      },
+      "details": {
+        "totalPopulation": 104099452,
+        "malePopulation": 54278157,
+        "femalePopulation": 49821295,
+        "populationDensity": 1106,
+        "decadalGrowthRate": "25.42%",
+        "sexRatio": 918,
+        "childSexRatio": 935,
+        "nationalRankPopulation": 3,
+        "nationalRankDensity": 1
+      },
+      "asOf": "2011-03-31",
+      "associatedDistrictIds": [
+        "patna",
+        "sheohar",
+        "kaimur"
+      ],
+      "sources": [
+        "Census of India 2011, Office of the Registrar General & Census Commissioner"
+      ]
+    },
+    {
+      "id": "literacy-profile",
+      "category": "demographics",
+      "title": {
+        "en": "Literacy Rate Overview",
+        "hi": "साक्षरता दर परिदृश्य"
+      },
+      "value": {
+        "en": "61.80% (Male: 71.20%, Female: 51.50%)",
+        "hi": "61.80% (पुरुष: 71.20%, महिला: 51.50%)"
+      },
+      "description": {
+        "en": "### Educational Landscape\n\nAs per Census 2011, the overall literacy rate of Bihar stood at **61.80%**. While this places the state below the national average, there has been a significant upward trend in educational enrollment over the past decade due to various government schemes targeting girls' education (like the Mukhyamantri Balika Cycle Yojana).\n\n#### Gender Disparity\n*   **Male Literacy**: 71.20%\n*   **Female Literacy**: 51.50%\n\nBridging this 20% gender gap in literacy remains a primary focus for state developmental policies.\n\n#### District-wise Performance\n*   **Highest Literacy**: **Rohtas** district leads the state with an impressive literacy rate of 73.37%, followed closely by Patna.\n*   **Lowest Literacy**: **Purnia** district recorded the lowest overall literacy rate at 51.08%.",
+        "hi": "### शैक्षिक परिदृश्य\n\n2011 की जनगणना के अनुसार, बिहार की कुल साक्षरता दर **61.80%** थी। हालाँकि यह राज्य को राष्ट्रीय औसत से नीचे रखता है, लेकिन लड़कियों की शिक्षा (जैसे मुख्यमंत्री बालिका साइकिल योजना) को लक्षित करने वाली विभिन्न सरकारी योजनाओं के कारण पिछले एक दशक में शैक्षिक नामांकन में महत्वपूर्ण वृद्धि हुई है।\n\n#### लैंगिक असमानता\n*   **पुरुष साक्षरता**: 71.20%\n*   **महिला साक्षरता**: 51.50%\n\nसाक्षरता में इस 20% लैंगिक अंतर को पाटना राज्य की विकास नीतियों का प्राथमिक फोकस बना हुआ है।\n\n#### जिलेवार प्रदर्शन\n*   **सर्वाधिक साक्षरता**: **रोहतास** जिला 73.37% की प्रभावशाली साक्षरता दर के साथ राज्य में सबसे आगे है, इसके बाद पटना का स्थान है।\n*   **न्यूनतम साक्षरता**: **पूर्णिया** जिले में सबसे कम समग्र साक्षरता दर 51.08% दर्ज की गई।"
+      },
+      "details": {
+        "overallLiteracy": "61.80%",
+        "maleLiteracy": "71.20%",
+        "femaleLiteracy": "51.50%",
+        "highestLiteracyDistrict": "rohtas",
+        "lowestLiteracyDistrict": "purnia"
+      },
+      "asOf": "2011-03-31",
+      "associatedDistrictIds": [
+        "rohtas",
+        "purnia"
+      ],
+      "sources": [
+        "Census of India 2011"
+      ]
+    }
+  ]
+}

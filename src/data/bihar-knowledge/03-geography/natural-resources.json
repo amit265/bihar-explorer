@@ -1,0 +1,376 @@
+{
+  "data": [
+    {
+      "id": "limestone-deposits",
+      "name": {
+        "en": "Limestone Deposits of Rohtas & Kaimur",
+        "hi": "रोहतास एवं कैमूर के चूना पत्थर भंडार"
+      },
+      "resourceType": {
+        "en": "Non-Metallic Industrial Mineral",
+        "hi": "अधात्विक औद्योगिक खनिज"
+      },
+      "geologicalFormation": {
+        "en": "Rohtas Stage of Semri Series, Vindhyan Supergroup",
+        "hi": "सेमरी श्रेणी की रोहतास अवस्था, विंध्यन महासमूह"
+      },
+      "primaryLocations": [
+        "rohtas",
+        "kaimur"
+      ],
+      "keyMiningCentres": {
+        "en": [
+          "Banjari",
+          "Baulia",
+          "Chunahatta",
+          "Rohtasgarh",
+          "Ramdhira",
+          "Chunar border"
+        ],
+        "hi": [
+          "बंजारी",
+          "बौलिया",
+          "चूनाहट्टा",
+          "रोहतासगढ़",
+          "रामधीरा",
+          "चुनार सीमा"
+        ]
+      },
+      "industrialUses": {
+        "en": "Manufacturing of Portland cement, lime burning, blast furnace flux in steel plants, chemical and paper industries",
+        "hi": "पोर्टलैंड सीमेंट का निर्माण, चूना निर्माण, इस्पात संयंत्रों में ब्लास्ट फर्नेस फ्लक्स, रसायन और कागज उद्योग"
+      },
+      "description": {
+        "en": "### High-Grade Limestone\n\nHigh-grade limestone is abundantly found in the ancient Vindhyan rocks of the **Kaimur and Rohtas districts**, forming the backbone of regional construction industries.\n\n### Resource Significance\n\n* **Industrial Bedrock:** These deposits are the primary raw material source for Bihar's legacy cement factories located in Dalmianagar and Banjari.\n* **Geological Purity:** The limestone here is characterized by high calcium carbonate content, ideal for quality cement clinkers.\n* **Economic Driver:** The continued mining and processing of limestone remains a significant employment generator in the south-western plateau region.",
+        "hi": "### उच्च-श्रेणी का चूना पत्थर\n\nउच्च-श्रेणी का चूना पत्थर **कैमूर और रोहतास जिलों** की प्राचीन विंध्यन चट्टानों में प्रचुर मात्रा में पाया जाता है, जो क्षेत्रीय निर्माण उद्योगों की रीढ़ बनाता है।\n\n### संसाधन का महत्व\n\n* **औद्योगिक आधार:** ये भंडार डालमियानगर और बंजारी में स्थित बिहार की विरासत सीमेंट कारखानों के लिए प्राथमिक कच्चे माल का स्रोत हैं।\n* **भूवैज्ञानिक शुद्धता:** यहाँ का चूना पत्थर उच्च कैल्शियम कार्बोनेट सामग्री की विशेषता है, जो गुणवत्ता वाले सीमेंट क्लिंकर के लिए आदर्श है।\n* **आर्थिक चालक:** चूना पत्थर का निरंतर खनन और प्रसंस्करण दक्षिण-पश्चिमी पठारी क्षेत्र में रोजगार का एक महत्वपूर्ण स्रोत बना हुआ है।"
+      },
+      "bpscRelevance": {
+        "en": "Frequently asked in BPSC: Distribution of limestone in Bihar (Rohtas and Kaimur), geological age (Vindhyan), and cement industrial base.",
+        "hi": "BPSC में बार-बार पूछा जाने वाला प्रश्न: बिहार में चूना पत्थर का वितरण (रोहतास और कैमूर), भूवैज्ञानिक काल (विंध्यन), और सीमेंट औद्योगिक आधार।"
+      }
+    },
+    {
+      "id": "pyrite-deposits-amjhore",
+      "name": {
+        "en": "Pyrite Deposits of Amjhore",
+        "hi": "अमझोर के पाइराइट भंडार"
+      },
+      "resourceType": {
+        "en": "Sulphide Ore (Iron Pyrite, FeS2)",
+        "hi": "सल्फाइड अयस्क (आयरन पाइराइट, FeS2)"
+      },
+      "geologicalFormation": {
+        "en": "Bijaigarh Shales, Kaimur Group, Vindhyan Supergroup",
+        "hi": "बीजईगढ़ शेल, कैमूर समूह, विंध्यन महासमूह"
+      },
+      "primaryLocations": [
+        "rohtas"
+      ],
+      "nationalShare": "Bihar holds over 95% of India's total recoverable iron pyrite reserves",
+      "industrialUses": {
+        "en": "Manufacture of Sulphuric Acid (H2SO4), phosphatic fertilizers (Single Super Phosphate), and sulfur recovery",
+        "hi": "सल्फ्यूरिक एसिड (H2SO4), फॉस्फेटिक उर्वरक (सिंगल सुपर फॉस्फेट), और सल्फर निष्कर्षण का निर्माण"
+      },
+      "description": {
+        "en": "### The Pyrite Wealth of Amjhore\n\n**Amjhore**, located in the Rohtas district, holds the distinction of possessing one of the largest and finest deposits of Pyrites (iron sulfide) in India.\n\n### Resource Significance\n\n* **Sulphur Source:** Pyrites are critically extracted to produce sulphur and commercial-grade sulphuric acid, reducing India's import reliance.\n* **Fertilizer Industry:** The sulphuric acid derived here is instrumental in manufacturing superphosphate fertilizers, essential for agrarian states.\n* **Historical Operations:** For decades, the Pyrites, Phosphates & Chemicals Ltd (PPCL) spearheaded intense industrial operations in this zone.",
+        "hi": "### अमझोर की पाइराइट संपदा\n\nरोहतास जिले में स्थित **अमझोर**, भारत में पाइराइट्स (आयरन सल्फाइड) के सबसे बड़े और बेहतरीन भंडारों में से एक होने का गौरव रखता है।\n\n### संसाधन का महत्व\n\n* **सल्फर का स्रोत:** पाइराइट्स को मुख्य रूप से सल्फर और वाणिज्यिक-श्रेणी के सल्फ्यूरिक एसिड का उत्पादन करने के लिए निकाला जाता है, जिससे भारत की आयात निर्भरता कम होती है।\n* **उर्वरक उद्योग:** यहाँ से प्राप्त सल्फ्यूरिक एसिड सुपरफॉस्फेट उर्वरकों के निर्माण में सहायक है, जो कृषि प्रधान राज्यों के लिए आवश्यक है।\n* **ऐतिहासिक संचालन:** दशकों तक, पाइराइट्स, फॉस्फेट्स एंड केमिकल्स लिमिटेड (PPCL) ने इस क्षेत्र में गहन औद्योगिक संचालन का नेतृत्व किया।"
+      },
+      "bpscRelevance": {
+        "en": "Classic BPSC question: State with 95% of India's pyrite reserves (Bihar), location of pyrite mines (Amjhore, Rohtas).",
+        "hi": "BPSC का प्रसिद्ध प्रश्न: भारत के 95% पाइराइट भंडार वाला राज्य (बिहार), पाइराइट खदानों का स्थान (अमझोर, रोहतास)।"
+      }
+    },
+    {
+      "id": "gold-ore-jamui",
+      "name": {
+        "en": "Gold Ore Reserves of Jamui (Sono)",
+        "hi": "जमुई (सोनो) के स्वर्ण अयस्क भंडार"
+      },
+      "resourceType": {
+        "en": "Precious Metal Ore (Gold)",
+        "hi": "बहुमूल्य धातु अयस्क (सोना)"
+      },
+      "geologicalFormation": {
+        "en": "Dharwar Metasediments / Chotanagpur Gneissic Complex",
+        "hi": "धारवाड़ मेटामॉर्फिक चट्टानें / छोटानागपुर नीस परिसर"
+      },
+      "primaryLocations": [
+        "jamui"
+      ],
+      "keyMiningCentres": {
+        "en": [
+          "Karmatia",
+          "Sono block",
+          "Jhajha tract"
+        ],
+        "hi": [
+          "करमटिया",
+          "सोनो प्रखंड",
+          "झाझा क्षेत्र"
+        ]
+      },
+      "nationalShare": "Bihar accounts for approximately 44% of India's total indicated gold ore reserves (~222.88 million tonnes)",
+      "description": {
+        "en": "### The Golden Promise of Karmatiya\n\nAccording to profound geological surveys, the **Karmatiya region in Jamui** district is reputed to hold massive, unexploited primary gold ore reserves.\n\n### Resource Significance\n\n* **National Potential:** Surveys indicate it could account for over 40% of India's total gold ore reserves.\n* **Geological Setting:** The gold is found dispersed within the ancient Dharwar quartzite and schist rocks.\n* **Future Prospects:** While currently deep and technologically complex to extract, it represents a staggering latent economic asset for Bihar.",
+        "hi": "### करमटिया का स्वर्णिम वादा\n\nगहन भूवैज्ञानिक सर्वेक्षणों के अनुसार, **जमुई जिले का करमटिया क्षेत्र** बड़े पैमाने पर, अविकसित प्राथमिक स्वर्ण अयस्क भंडार रखने के लिए प्रसिद्ध है।\n\n### संसाधन का महत्व\n\n* **राष्ट्रीय क्षमता:** सर्वेक्षणों से संकेत मिलता है कि यह भारत के कुल स्वर्ण अयस्क भंडार के 40% से अधिक के लिए जिम्मेदार हो सकता है।\n* **भूवैज्ञानिक स्थापना:** सोना प्राचीन धारवाड़ क्वार्टजाइट और शिस्ट चट्टानों के भीतर फैला हुआ पाया जाता है।\n* **भविष्य की संभावनाएं:** हालांकि वर्तमान में इसे निकालना गहरा और तकनीकी रूप से जटिल है, यह बिहार के लिए एक चौंका देने वाली अव्यक्त आर्थिक संपत्ति का प्रतिनिधित्व करता है।"
+      },
+      "bpscRelevance": {
+        "en": "Massive current-affairs and static BPSC relevance: District containing 44% of India's gold ore (Jamui) and village name (Karmatia / Sono).",
+        "hi": "समसामयिकी और सामान्य अध्ययन में अत्यधिक प्रासंगिक: भारत के 44% स्वर्ण अयस्क वाला जिला (जमुई) और स्थल का नाम (करमटिया / सोनो)।"
+      }
+    },
+    {
+      "id": "mica-belt-nawada-gaya",
+      "name": {
+        "en": "Mica Deposits of Southern Bihar",
+        "hi": "दक्षिणी बिहार के अभ्रक (माइका) भंडार"
+      },
+      "resourceType": {
+        "en": "Non-Metallic Insulating Mineral (Muscovite / Ruby Mica)",
+        "hi": "अधात्विक विद्युत-रोधी खनिज (मस्कोवाइट / रूबी अभ्रक)"
+      },
+      "geologicalFormation": {
+        "en": "Pegmatite veins of Archean Dharwar System",
+        "hi": "आर्कियन धारवाड़ प्रणाली की पेग्माटाइट नसें"
+      },
+      "primaryLocations": [
+        "nawada",
+        "gaya",
+        "jamui"
+      ],
+      "keyMiningCentres": {
+        "en": [
+          "Rajauli (Nawada)",
+          "Sirdala",
+          "Chakai (Jamui)",
+          "Fatehpur (Gaya)"
+        ],
+        "hi": [
+          "रजौली (नवादा)",
+          "सिरदला",
+          "चकाई (जमुई)",
+          "फतेहपुर (गया)"
+        ]
+      },
+      "industrialUses": {
+        "en": "Electrical and electronics insulation, condenser plates, paints, plastics, aerospace thermal shields, cosmetics",
+        "hi": "विद्युत और इलेक्ट्रॉनिक्स इंसुलेशन, कंडेनसर प्लेट्स, पेंट, प्लास्टिक, एयरोस्पेस थर्मल शील्ड, सौंदर्य प्रसाधन"
+      },
+      "description": {
+        "en": "### The Historic Mica Belt\n\nThe famous **Bihar Mica Belt** extends gracefully through Nawada, Gaya, and Jamui, historically renowned globally for producing the highest quality 'Ruby Mica'.\n\n### Resource Significance\n\n* **Electrical Insulation:** Ruby mica possesses unmatched dielectric strength, making it historically invaluable for global electronics and aerospace industries.\n* **Pegmatite Veins:** The deposits occur as large 'books' inside pegmatite intrusions piercing the ancient granites.\n* **Current Status:** Though synthetic alternatives have reduced global demand, the belt remains a vital piece of India's mineral heritage.",
+        "hi": "### ऐतिहासिक अभ्रक बेल्ट\n\nप्रसिद्ध **बिहार अभ्रक बेल्ट** नवादा, गया और जमुई से होकर शालीनता से फैली हुई है, जो ऐतिहासिक रूप से उच्चतम गुणवत्ता वाले 'रूबी अभ्रक' के उत्पादन के लिए विश्व स्तर पर प्रसिद्ध है।\n\n### संसाधन का महत्व\n\n* **विद्युत इन्सुलेशन:** रूबी अभ्रक में बेजोड़ ढांकता हुआ ताकत होती है, जो इसे ऐतिहासिक रूप से वैश्विक इलेक्ट्रॉनिक्स और एयरोस्पेस उद्योगों के लिए अमूल्य बनाती है।\n* **पेग्माटाइट नसें:** प्राचीन ग्रेनाइटों को भेदने वाले पेग्माटाइट अंतर्भेदन के अंदर भंडार बड़े 'किताबों' के रूप में पाए जाते हैं।\n* **वर्तमान स्थिति:** हालांकि सिंथेटिक विकल्पों ने वैश्विक मांग को कम कर दिया है, फिर भी बेल्ट भारत की खनिज विरासत का एक महत्वपूर्ण हिस्सा बनी हुई है।"
+      },
+      "bpscRelevance": {
+        "en": "Districts producing mica in present Bihar (Nawada, Gaya, Jamui) and quality variety (Ruby Mica / Muscovite).",
+        "hi": "वर्तमान बिहार में अभ्रक उत्पादक जिले (नवादा, गया, जमुई) और गुणवत्ता वाली किस्म (रूबी माइका / मस्कोवाइट)।"
+      }
+    },
+    {
+      "id": "groundwater-aquifer-resources",
+      "name": {
+        "en": "Groundwater & Alluvial Aquifer Systems",
+        "hi": "भूजल एवं जलोढ़ जलभृत प्रणालियाँ"
+      },
+      "resourceType": {
+        "en": "Freshwater Hydrological Resource",
+        "hi": "मीठा जल जलवैज्ञानिक संसाधन"
+      },
+      "geologicalFormation": {
+        "en": "Quaternary Multi-layered Alluvial Sand Aquifers of the Indo-Gangetic Foredeep",
+        "hi": "भारत-गंगा अग्रगर्त के चतुर्थक बहुस्तरीय जलोढ़ बालू जलभृत"
+      },
+      "primaryLocations": [
+        "patna",
+        "muzaffarpur",
+        "samastipur",
+        "darbhanga",
+        "purnia",
+        "katihar",
+        "vaishali"
+      ],
+      "annualReplenishableGroundwater": "~31.4 Billion Cubic Metres (BCM)",
+      "groundwaterStageOfExtraction": "~46% (categorized overall as 'Safe' at state level)",
+      "waterQualityChallenges": {
+        "en": [
+          "Arsenic Contamination: High natural geogenic arsenic (>10-50 ppb) in shallow aquifers along 18 Gangetic plain districts (e.g., Bhojpur, Buxar, Patna, Samastipur, Bhagalpur)",
+          "Fluoride Contamination: Elevated fluoride (>1.5 mg/l) in southern plateau-fringe districts (Gaya, Nawada, Jamui, Rohtas, Banka)",
+          "Iron Contamination: Excessive dissolved iron (>1.0 mg/l) widespread across North-Eastern high-rainfall tracts"
+        ],
+        "hi": [
+          "आर्सेनिक संदूषण: 18 गंगा मैदानी जिलों (उदा. भोजपुर, बक्सर, पटना, समस्तीपुर, भागलपुर) में उथले जलभृतों में उच्च प्राकृतिक भूगर्भीय आर्सेनिक (>10-50 पीपीबी)",
+          "फ्लोराइड संदूषण: दक्षिणी पठारी सीमांत जिलों (गया, नवादा, जमुई, रोहतास, बांका) में फ्लोराइड की अधिकता (>1.5 मिलीग्राम/लीटर)",
+          "आयरन संदूषण: उत्तर-पूर्वी उच्च वर्षा वाले क्षेत्रों में अत्यधिक घुला हुआ लोहा (>1.0 मिलीग्राम/लीटर)"
+        ]
+      },
+      "description": {
+        "en": "### The Deep Alluvial Aquifers\n\nBihar is blessed with an incredibly vast and dynamic underground asset: the **Gangetic multi-layered aquifer system**, offering virtually limitless fresh groundwater.\n\n### Resource Significance\n\n* **Agricultural Lifeline:** It powers thousands of tube wells, providing critical drought-proofing for the intense agricultural cycles.\n* **Drinking Water:** Serves as the primary source of potable water for over a hundred million residents.\n* **Quality Challenges:** Despite abundance, severe contamination issues—namely Arsenic in the east and Fluoride in the south—pose profound public health challenges.",
+        "hi": "### गहरे जलोढ़ जलभृत\n\nबिहार एक अविश्वसनीय रूप से विशाल और गतिशील भूमिगत संपत्ति का धनी है: **गांगेय बहु-स्तरीय जलभृत प्रणाली**, जो लगभग असीमित ताजा भूजल प्रदान करती है।\n\n### संसाधन का महत्व\n\n* **कृषि जीवन रेखा:** यह हजारों नलकूपों को शक्ति प्रदान करता है, जो गहन कृषि चक्रों के लिए महत्वपूर्ण सूखा-सुरक्षा प्रदान करता है।\n* **पेयजल:** दस करोड़ से अधिक निवासियों के लिए पीने योग्य पानी के प्राथमिक स्रोत के रूप में कार्य करता है।\n* **गुणवत्ता की चुनौतियाँ:** प्रचुरता के बावजूद, गंभीर संदूषण मुद्दे—अर्थात पूर्व में आर्सेनिक और दक्षिण में फ्लोराइड—गहरी सार्वजनिक स्वास्थ्य चुनौतियाँ खड़ी करते हैं।"
+      },
+      "bpscRelevance": {
+        "en": "High priority: Arsenic affected districts along the Ganga (Bhojpur was first identified in 2002), fluoride in southern hills, and 'Har Ghar Nal Ka Jal' scheme under Saat Nischay.",
+        "hi": "अत्यंत महत्वपूर्ण: गंगा के किनारे आर्सेनिक प्रभावित जिले (भोजपुर की पहचान 2002 में सबसे पहले हुई), दक्षिणी पहाड़ियों में फ्लोराइड, और सात निश्चय के तहत 'हर घर नल का जल' योजना।"
+      }
+    },
+    {
+      "id": "geothermal-hot-springs",
+      "name": {
+        "en": "Geothermal Hot Springs & Mineral Waters",
+        "hi": "भूतापीय गर्म जलकुंड एवं खनिज जल"
+      },
+      "resourceType": {
+        "en": "Geothermal Energy & Therapeutic Mineral Water",
+        "hi": "भूतापीय ऊर्जा एवं उपचारात्मक खनिज जल"
+      },
+      "geologicalFormation": {
+        "en": "Deep crustal fault zones in Dharwar Quartzite Formations",
+        "hi": "धारवाड़ क्वार्टजाइट संरचनाओं में गहरे भू-पर्पटीय भ्रंश क्षेत्र"
+      },
+      "primaryLocations": [
+        "nalanda",
+        "munger",
+        "gaya"
+      ],
+      "keySprings": [
+        {
+          "district": "nalanda",
+          "springs": {
+            "en": [
+              "Brahmakund (hottest, ~87°C)",
+              "Saptadhara",
+              "Surya Kund",
+              "Makhdum Kund",
+              "Ganesh Kund"
+            ],
+            "hi": [
+              "ब्रह्मकुंड (सबसे गर्म, ~87°C)",
+              "सप्तधारा",
+              "सूर्य कुंड",
+              "मखदूम कुंड",
+              "गणेश कुंड"
+            ]
+          }
+        },
+        {
+          "district": "munger",
+          "springs": {
+            "en": [
+              "Bhimbandh (copious discharge, ~65°C)",
+              "Sita Kund",
+              "Rishikund",
+              "Rameshwar Kund",
+              "Kharagpur springs"
+            ],
+            "hi": [
+              "भीमबांध (प्रचुर प्रवाह, ~65°C)",
+              "सीता कुंड",
+              "ऋषिकुंड",
+              "रामेश्वर कुंड",
+              "खड़कपुर जलकुंड"
+            ]
+          }
+        }
+      ],
+      "mineralContent": {
+        "en": "Sulphur, radon, radioactivity traces, lithium, silica, low dissolved solids",
+        "hi": "सल्फर (गंधक), रेडॉन, रेडियोधर्मिता के अंश, लिथियम, सिलिका, कम घुले हुए ठोस"
+      },
+      "description": {
+        "en": "### Therapeutic Geothermal Springs\n\nBihar's ancient crystalline tracts in **Rajgir (Nalanda)** and **Munger** are heavily dotted with potent geothermal hot springs, erupting from deep tectonic faults.\n\n### Resource Significance\n\n* **Balneotherapy:** The waters, highly rich in sulphur and beneficial minerals, are famous for their profound curative and therapeutic properties.\n* **Tourism Anchors:** Sites like *Brahmakund* (Rajgir) and *Bhimbandh* (Munger) act as major magnets for both religious pilgrims and eco-tourists.\n* **Geothermal Potential:** They highlight the active subsurface thermal dynamics of the Dharwar rock systems.",
+        "hi": "### उपचारात्मक भूतापीय झरने\n\n**राजगीर (नालंदा)** और **मुंगेर** में बिहार के प्राचीन क्रिस्टलीय पथ शक्तिशाली भूतापीय गर्म झरनों से भरे हुए हैं, जो गहरे विवर्तनिक भ्रंशों से निकलते हैं।\n\n### संसाधन का महत्व\n\n* **जल चिकित्सा:** पानी, सल्फर और लाभकारी खनिजों में अत्यधिक समृद्ध, अपने गहरे उपचारात्मक और चिकित्सीय गुणों के लिए प्रसिद्ध है।\n* **पर्यटन एंकर:** *ब्रह्मकुंड* (राजगीर) और *भीमबांध* (मुंगेर) जैसे स्थल धार्मिक तीर्थयात्रियों और पर्यावरण-पर्यटकों दोनों के लिए प्रमुख चुंबक के रूप में कार्य करते हैं।\n* **भूतापीय क्षमता:** वे धारवाड़ शैल प्रणालियों के सक्रिय उपसतह तापीय गतिशीलता को उजागर करते हैं।"
+      },
+      "bpscRelevance": {
+        "en": "Classic BPSC questions: Hottest spring in Bihar (Brahmakund, Rajgir), location of Bhimbandh and Sita Kund (Munger), and source of heat (geothermal fault circulation).",
+        "hi": "BPSC के क्लासिक प्रश्न: बिहार का सबसे गर्म जलकुंड (ब्रह्मकुंड, राजगीर), भीमबांध और सीता कुंड का स्थान (मुंगेर), और ऊष्मा का स्रोत (भूतापीय भ्रंश परिसंचरण)।"
+      }
+    },
+    {
+      "id": "china-clay-and-fireclay",
+      "name": {
+        "en": "China Clay (Kaolin) & Fireclay Deposits",
+        "hi": "चीनी मिट्टी (काओलिन) एवं अग्निसह मिट्टी भंडार"
+      },
+      "resourceType": {
+        "en": "Ceramic & Refractory Industrial Clay",
+        "hi": "सिरेमिक एवं अग्निसह औद्योगिक मिट्टी"
+      },
+      "geologicalFormation": {
+        "en": "Weathered granitic and pegmatitic felspars in Dharwar / Archean terrain",
+        "hi": "धारवाड़ / आर्कियन क्षेत्र में अपक्षयित ग्रेनाइट और पेग्माटाइट फेल्डस्पार"
+      },
+      "primaryLocations": [
+        "bhagalpur",
+        "banka",
+        "munger"
+      ],
+      "keyMiningCentres": {
+        "en": [
+          "Pathargatta (Bhagalpur)",
+          "Samukhia (Banka)",
+          "Kharagpur Hills (Munger)"
+        ],
+        "hi": [
+          "पत्थरघट्टा (भागलपुर)",
+          "समुख्या (बांका)",
+          "खड़कपुर पहाड़ियाँ (मुंगेर)"
+        ]
+      },
+      "industrialUses": {
+        "en": "High-grade porcelain, sanitaryware, paper coating, rubber fillers, refractories for blast furnaces",
+        "hi": "उच्च-श्रेणी चीनी मिट्टी के बर्तन, सेनेटरी वेयर, पेपर कोटिंग, रबर फिलर, ब्लास्ट फर्नेस के लिए अग्निरोधी ईंटें"
+      },
+      "description": {
+        "en": "### Kaolin and Industrial Clays\n\nDeposits of high-purity **China Clay (Kaolin)** are uniquely concentrated along the Bhagalpur and Banka borders, most notably at the historic Pathargatta hill.\n\n### Resource Significance\n\n* **Ceramic Excellence:** Known for exceptional plasticity and low iron content, it is heavily used for high-grade porcelain and sanitaryware.\n* **Industrial Utility:** It functions as a critical raw material for electrical insulators, rubber fillers, and paper coating industries.\n* **Fireclay Synergy:** Found alongside coal seams, fireclays are utilized to manufacture robust refractory bricks for blast furnaces.",
+        "hi": "### काओलिन और औद्योगिक मिट्टी\n\nउच्च शुद्धता वाली **चीनी मिट्टी (काओलिन)** के भंडार विशेष रूप से भागलपुर और बांका सीमाओं के साथ संकेंद्रित हैं, विशेष रूप से ऐतिहासिक पत्थरघट्टा पहाड़ी पर।\n\n### संसाधन का महत्व\n\n* **सिरेमिक उत्कृष्टता:** असाधारण लचीलापन और कम लौह सामग्री के लिए जाना जाता है, इसका उपयोग उच्च ग्रेड चीनी मिट्टी के बरतन और सेनेटरी वेयर के लिए भारी मात्रा में किया जाता है।\n* **औद्योगिक उपयोगिता:** यह विद्युत इन्सुलेटर, रबर फिलर्स और पेपर कोटिंग उद्योगों के लिए एक महत्वपूर्ण कच्चे माल के रूप में कार्य करता है।\n* **अग्निसह मिट्टी का तालमेल:** कोयले की परतों के साथ पाई जाने वाली, अग्निसह मिट्टी का उपयोग ब्लास्ट फर्नेस के लिए मजबूत आग रोक ईंटों के निर्माण के लिए किया जाता है।"
+      },
+      "bpscRelevance": {
+        "en": "Districts rich in China Clay (Bhagalpur - Pathargatta, Banka) and its industrial uses.",
+        "hi": "चीनी मिट्टी से समृद्ध जिले (भागलपुर - पत्थरघट्टा, बांका) और इसके औद्योगिक उपयोग।"
+      }
+    },
+    {
+      "id": "quartz-silica-sand-feldspar",
+      "name": {
+        "en": "Quartz, Silica Sand & Feldspar",
+        "hi": "क्वार्ट्ज, सिलिका सैंड एवं फेल्डस्पार"
+      },
+      "resourceType": {
+        "en": "Glass & Refractory Raw Minerals",
+        "hi": "कांच एवं अग्निरोधी कच्चे खनिज"
+      },
+      "geologicalFormation": {
+        "en": "Quartzite veins and pegmatites of Dharwar and Vindhyan systems",
+        "hi": "धारवाड़ और विंध्यन प्रणालियों की क्वार्टजाइट नसें और पेग्माटाइट"
+      },
+      "primaryLocations": [
+        "munger",
+        "jamui",
+        "gaya",
+        "banka"
+      ],
+      "keyMiningCentres": {
+        "en": [
+          "Chakai (Jamui)",
+          "Kharagpur hills (Munger)",
+          "Banka pegmatite zones"
+        ],
+        "hi": [
+          "चकाई (जमुई)",
+          "खड़कपुर पहाड़ियाँ (मुंगेर)",
+          "बांका पेग्माटाइट क्षेत्र"
+        ]
+      },
+      "industrialUses": {
+        "en": "Glass manufacturing, optical instruments, foundry moulds, ferrosilicon alloys, and electronics",
+        "hi": "कांच निर्माण, ऑप्टिकल उपकरण, फाउंड्री मोल्ड्स, फेरोसिलिकॉन मिश्र धातु और इलेक्ट्रॉनिक्स"
+      },
+      "description": {
+        "en": "### Glass and Refractory Minerals\n\nPure **quartz** and high-grade **silica sand** occur extensively within the Dharwar quartzites and pegmatite intrusions spanning Jamui, Munger, and Banka.\n\n### Resource Significance\n\n* **Glassworks:** The crushed quartz from areas like Chakai provides the indispensable silica required for the glass manufacturing industry.\n* **Alloy and Electronics:** It is critical in producing ferrosilicon alloys and specialized optical instruments.\n* **Feldspar Addition:** The associated feldspar from these pegmatite zones richly serves the thriving ceramics and enamel industries.",
+        "hi": "### कांच और अग्निरोधी खनिज\n\nशुद्ध **क्वार्ट्ज** और उच्च-श्रेणी की **सिलिका सैंड** जमुई, मुंगेर और बांका में फैले धारवाड़ क्वार्टजाइट और पेग्माटाइट अंतर्भेदन के भीतर व्यापक रूप से पाए जाते हैं।\n\n### संसाधन का महत्व\n\n* **कांच के काम:** चकाई जैसे क्षेत्रों से कुचला हुआ क्वार्ट्ज कांच निर्माण उद्योग के लिए आवश्यक अपरिहार्य सिलिका प्रदान करता है।\n* **मिश्र धातु और इलेक्ट्रॉनिक्स:** यह फेरोसिलिकॉन मिश्र धातु और विशेष ऑप्टिकल उपकरणों के उत्पादन में महत्वपूर्ण है।\n* **फेल्डस्पार का योग:** इन पेग्माटाइट क्षेत्रों से जुड़ा फेल्डस्पार संपन्न सिरेमिक और इनेमल उद्योगों की अच्छी तरह से सेवा करता है।"
+      },
+      "bpscRelevance": {
+        "en": "Locations of quartz and silica sand deposits in Jamui and Munger.",
+        "hi": "जमुई और मुंगेर में क्वार्ट्ज और सिलिका सैंड के भंडारों के स्थल।"
+      }
+    }
+  ]
+}

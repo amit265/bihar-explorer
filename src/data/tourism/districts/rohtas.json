@@ -1,0 +1,355 @@
+{
+  "id": "rohtas",
+  "slug": "rohtas",
+  "name": {
+    "en": "Rohtas",
+    "hi": "रोहतास"
+  },
+  "division": "Patna",
+  "description": {
+    "en": "Celebrated as the 'Rice Bowl of Bihar' and the seat of Sher Shah Suri, Rohtas blends monumental hilltop forts, sacred Shakti shrines, and spectacular waterfalls amidst the rugged Kaimur Plateau.",
+    "hi": "बिहार के 'धान का कटोरा' और शेरशाह सूरी की ऐतिहासिक स्थली के रूप में विख्यात रोहतास जिला भव्य किलों, सिद्ध शक्तिपीठों और विंध्य पर्वतमाला के विहंगम जलप्रपातों का मनोरम संगम है।"
+  },
+  "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+  "coordinates": {
+    "latitude": 24.9547,
+    "longitude": 84.0152
+  },
+  "tourismThemes": [
+    "historical_heritage",
+    "eco_waterfalls",
+    "religious_pilgrimage",
+    "forts_and_monuments"
+  ],
+  "religiousAssociations": [
+    "hinduism",
+    "islam",
+    "tribal_traditions"
+  ],
+  "placeIds": [
+    "rohtasgarh-fort",
+    "sher-shah-suri-tomb",
+    "tutla-bhawani-waterfall",
+    "tara-chandi-temple",
+    "dhua-kund-waterfalls"
+  ],
+  "featuredPlaceIds": [
+    "sher-shah-suri-tomb",
+    "rohtasgarh-fort",
+    "tutla-bhawani-waterfall",
+    "tara-chandi-temple"
+  ],
+  "nearbyDistrictIds": [
+    "kaimur",
+    "aurangabad",
+    "bhojpur",
+    "buxar",
+    "arwal"
+  ],
+  "status": "published",
+  "verification": {
+    "status": "verified",
+    "lastVerifiedAt": "2026-09-19",
+    "sources": [
+      {
+        "name": "District Administration Rohtas Official Portal",
+        "url": "https://rohtas.nic.in",
+        "type": "government"
+      },
+      {
+        "name": "Census of India 2011",
+        "url": "https://censusindia.gov.in",
+        "type": "official"
+      },
+      {
+        "name": "Archaeological Survey of India (ASI)",
+        "url": "https://asipatnacircircle.bih.nic.in",
+        "type": "government"
+      }
+    ]
+  },
+  "overview": {
+    "en": "Celebrated as both the historic sentinel of southwestern Bihar and the renowned **'Rice Bowl of Bihar'** (*धान का कटोरा*), **Rohtas district** is an extraordinary land where majestic Vindhyan plateaus meet the emerald alluvial basin of the sacred Son River. Administered from the historic city of **Sasaram**, the district holds an illustrious legacy tracing from Prince Rohitashwa of the ancient Solar Dynasty to the revolutionary administrative reign of **Sher Shah Suri**, who built the monumental Grand Trunk Road and introduced India's standardized silver Rupiya.\n\nGeographically endowed with dramatic sandstone escarpments, perennial river gorges, and thundering cataracts such as **Tutla Bhawani**, **Dhua Kund**, and **Manjhar Kund**, Rohtas is an enchanting haven for eco-tourists and pilgrims alike. It is crowned by the colossal **Rohtasgarh Fort**—one of the largest hilltop citadels in India—and the UNESCO World Heritage-calibre octagonal water mausoleum of Sher Shah Suri. Distinguished by the **highest literacy rate in Bihar (73.37%)** and an advanced agro-industrial economy powered by the historic Son Canal network, Rohtas bridges medieval grandeur with progressive modern enterprise.",
+    "hi": "दक्षिण-पश्चिमी बिहार का ऐतिहासिक प्रवेशद्वार और गौरवशाली **'धान का कटोरा'** माना जाने वाला **रोहतास जिला** विंध्य पर्वतमाला के भव्य पठारों और पवित्र सोन नदी के उपजाऊ मैदानी विस्तार का अनूठा संगम है। जिला मुख्यालय **सासाराम** से प्रशासित यह क्षेत्र प्राचीन सूर्यवंशी राजा हरिश्चंद्र के पुत्र राजकुमार रोहिताश्व के पौराणिक काल से लेकर मध्यकालीन भारत के महान सुधारक **शेरशाह सूरी** के ऐतिहासिक शासनकाल तक की समृद्ध विरासत को संजोए हुए है, जिन्होंने ग्रांड ट्रंक रोड का निर्माण कराया और आधुनिक चांदी के 'रुपये' का सूत्रपात किया।\n\nभौगोलिक दृष्टि से यह जिला विशाल बलुआ पत्थर के कगारों, गहरी घाटियों तथा **तुतला भवानी**, **धुआं कुंड** और **मंझार कुंड** जैसे विहंगम प्राकृतिक जलप्रपातों से सुशोभित है। एशिया के विशालतम गिरि-दुर्गों में शुमार **रोहतासगढ़ किला** और तालाब के मध्य निर्मित शेरशाह सूरी का अष्टकोणीय भव्य मकबरा इसके वास्तुशिल्प के शिखर हैं। **73.37% के साथ बिहार में सर्वाधिक साक्षरता दर** दर्ज करने वाला रोहतास जिला सोन नहर प्रणाली द्वारा सिंचित अपनी समृद्ध कृषि, चूना पत्थर आधारित उद्योगों और जीवंत सांस्कृतिक परंपराओं के लिए पूरे भारत में विशिष्ट पहचान रखता है।"
+  },
+  "history": {
+    "en": "The annals of **Rohtas** span millennia of political, military, and spiritual evolution, serving as an unyielding natural stronghold that safeguarded empires:\n\n- **Ancient & Mauryan Epoch**: Inhabited since prehistoric antiquity as evidenced by rock shelters and cave petroglyphs across the Kaimur hills, Rohtas rose to prominence under the Mauryan Empire. A landmark **Minor Rock Edict of Emperor Ashoka** carved into the cliff of Chandan Shahid hill in Sasaram testifies to its strategic placement along ancient arterial trade routes during the 3rd century BCE.\n- **Epic Legends & Indigenous Dynasties**: Puranic tradition attributes the naming of the region to Prince **Rohitashwa**, son of the legendary King Harishchandra of the Solar Dynasty. Regional indigenous dynasties including the Cheros and Kharwars ruled the plateau before local chieftains like Raja Pratapadhavala of the Japila principality established autonomous medieval governance in the 12th century.\n- **The Suri Golden Era**: In the 16th century, Sasaram-born **Farid Khan (Sher Shah Suri)** transformed Rohtas into the geopolitical epicenter of northern India. After establishing the Sur Empire (1540–1545 CE), Sher Shah overhauled administrative governance, introducing the standardized silver **Rupiya**, the postal *dak chauki* system, the *patta* and *qabuliyat* agricultural land records, and the 2,500-kilometer Grand Trunk Road (*Sadak-e-Azam*).\n- **Mughal Hegemony & Raja Man Singh**: In 1588 CE, Emperor Akbar's supreme general **Raja Man Singh** selected Rohtasgarh as the viceregal capital of Bihar and Bengal, constructing the magnificent Rajput-Mughal palace complex (*Mahal-e-Sarai*).\n- **Freedom Movement**: During the 1857 First War of Independence, revolutionary forces coordinated with Babu Veer Kunwar Singh took refuge in Rohtas's natural ramparts, later followed by vigorous participation in the 1942 Quit India Movement and peasant uprisings led by the Kisan Sabha.",
+    "hi": "रोहतास का इतिहास सामरिक, राजनीतिक और आध्यात्मिक दृष्टि से अत्यंत गौरवशाली रहा है, जिसने सहस्राब्दियों तक भारतीय उपमहाद्वीप के इतिहास को दिशा दी:\n\n- **प्राचीन काल एवं मौर्य साम्राज्य**: कैमूर पहाड़ियों में प्रागैतिहासिक शैलचित्रों और गुफाओं से प्रमाणित इस क्षेत्र का इतिहास अत्यंत प्राचीन है। ईसा पूर्व तीसरी शताब्दी में सम्राट अशोक ने सासाराम की चंदन शहीद पहाड़ी पर एक **लघु शिलालेख (Minor Rock Edict)** उत्कीर्ण कराया, जो मगध साम्राज्य के प्रमुख व्यापारिक मार्ग पर इस क्षेत्र के रणनीतिक महत्व को दर्शाता है।\n- **पौराणिक परंपरा एवं स्थानीय राजवंश**: पौराणिक मान्यता के अनुसार, इस क्षेत्र का नामकरण सत्यवादी राजा हरिश्चंद्र के पुत्र राजकुमार **रोहिताश्व** के नाम पर हुआ। मध्यकाल के आरंभ में यहां चेरो, खरवार तथा 12वीं शताब्दी में जापील के राजा प्रतापदवल जैसे प्रतापी शासकों का आधिपत्य रहा।\n- **सूरी साम्राज्य का उत्थान**: 16वीं शताब्दी में सासाराम की धरती पर जन्मे **फरीद खान (शेरशाह सूरी)** ने भारत का राजनीतिक परिदृश्य बदल दिया। 1540 से 1545 ईस्वी के अपने युगांतरकारी शासन में शेरशाह ने ग्रांड ट्रंक रोड का निर्माण, आधुनिक 'रुपया' मुद्रा का प्रचलन, डाक व्यवस्था तथा पट्टा एवं कबूलियत जैसी पारदर्शी भूमि बंदोबस्त प्रणाली लागू की। सासाराम स्थित उनका अष्टकोणीय जल मकबरा आज भी वास्तुशिल्प का बेजोड़ चमत्कार है।\n- **मुगल काल एवं राजा मानसिंह**: सन् 1588 में सम्राट अकबर के प्रधान सेनापति **राजा मानसिंह** ने बिहार-बंगाल के सूबेदार के रूप में रोहतासगढ़ किले को अपनी प्रशासनिक राजधानी बनाया और भव्य महल-ए-सराय का निर्माण कराया।\n- **स्वाधीनता संग्राम**: 1857 के प्रथम स्वतंत्रता संग्राम में बाबू वीर कुंवर सिंह के सैन्य दस्तों ने रोहतासगढ़ की दुर्गम पहाड़ियों को अपना सुरक्षित आधार बनाया। इसके बाद 1942 के भारत छोड़ो आंदोलन और किसान सभा आंदोलनों में भी यहां के स्वाधीनता सेनानियों ने अग्रणी भूमिका निभाई।"
+  },
+  "geography": {
+    "location": {
+      "en": "Situated in the southwestern corner of Bihar between 24°30' N to 25°19' N latitudes and 83°14' E to 84°27' E longitudes, Rohtas forms an integral part of the Patna Administrative Division.",
+      "hi": "दक्षिण-पश्चिमी बिहार में 24°30' उत्तरी अक्षांश से 25°19' उत्तरी अक्षांश तथा 83°14' पूर्वी देशांतर से 84°27' पूर्वी देशांतर के मध्य स्थित रोहतास जिला पटना प्रशासनिक प्रमंडल का एक प्रमुख भाग है।"
+    },
+    "areaSqKm": 3850,
+    "boundaries": {
+      "en": "Bounded by Bhojpur and Buxar districts to the north, Kaimur district to the west, Aurangabad and Arwal districts across the Son River to the east, and Garhwa district of Jharkhand to the south.",
+      "hi": "उत्तर में भोजपुर एवं बक्सर जिले, पश्चिम में कैमूर जिला, पूर्व में सोन नदी के पार औरंगाबाद एवं अरवल जिले तथा दक्षिण में झारखंड राज्य का गढ़वा जिला इसकी सीमाओं को निर्धारित करते हैं।"
+    },
+    "physiography": {
+      "en": "Geomorphologically divided into two distinct physiographic units: the rugged **Kaimur-Rohtas Plateau** in the south rising abruptly over 1,500 feet with dramatic Vindhyan sandstone cliffs, deep gorges, and dry deciduous forests; and the vast, fertile **Alluvial Plains** in the north and east nurtured by the perennial Son River drainage basin.",
+      "hi": "भौगोलिक रूप से जिला दो स्पष्ट प्राकृतिक भागों में विभाजित है: दक्षिण में 1,500 फीट से अधिक ऊंचा बीहड़ **कैमूर-रोहतास पठार** जो विंध्य बलुआ पत्थर की खड़ी चट्टानों, गहरी घाटियों व पर्णपाती वनों से आच्छादित है; तथा उत्तर और पूर्व में सोन नदी बेसिन द्वारा निर्मित अत्यधिक उपजाऊ **जलोढ़ मैदानी भाग**।"
+    },
+    "climate": {
+      "en": "Features a humid subtropical continental climate with three marked seasons: dry, intense summers (March to June) with temperatures occasionally reaching 44°C and experiencing westerly 'Loo' winds; a rejuvenating monsoon season (July to September) bringing an average annual rainfall of approximately 1,000 mm; and crisp, pleasant winters (November to February) with temperatures dipping to 8°C.",
+      "hi": "उपोष्णकटिबंधीय महाद्वीपीय जलवायु, जिसमें तीन प्रमुख मौसम होते हैं: शुष्क ग्रीष्म ऋतु (मार्च से जून) जिसमें तापमान 44°C तक पहुंच जाता है और तेज 'लू' चलती है; मानसूनी वर्षा काल (जुलाई से सितंबर) जिसमें लगभग 1,000 मिमी की औसत वार्षिक वर्षा होती है; तथा सुखद एवं शीतल शीत ऋतु (नवंबर से फरवरी) जिसमें न्यूनतम तापमान 8°C तक गिर जाता है।"
+    },
+    "rivers": [
+      {
+        "name": {
+          "en": "Son River",
+          "hi": "सोन नदी"
+        },
+        "description": {
+          "en": "The principal river defining the entire eastern border of the district; famous for its wide beds of radiant yellow sand ('Son Balu') and the iconic Indrapuri Barrage at Dehri-on-Sone, which feeds the 150-year-old Son Canal irrigation network.",
+          "hi": "जिले की संपूर्ण पूर्वी सीमा का निर्धारण करने वाली मुख्य नदी; अपनी चमकीली सुनहरी रेत ('सोन बालू') और डेहरी-ऑन-सोन स्थित ऐतिहासिक इंद्रपुरी बैराज के लिए विख्यात, जिससे 150 वर्ष पुरानी सोन नहर प्रणाली संचालित होती है।"
+        }
+      },
+      {
+        "name": {
+          "en": "Durgavati River",
+          "hi": "दुर्गावती नदी"
+        },
+        "description": {
+          "en": "Originating in the forested ridges of the Kaimur Plateau, this perennial river flows northward, feeding the vital Durgavati Reservoir Project and irrigating extensive agrarian tracts.",
+          "hi": "कैमूर पठार की वनाच्छादित श्रेणियों से उद्गमित होने वाली यह बारहमासी नदी उत्तर की ओर बहती है और महत्वपूर्ण दुर्गावती जलाशय परियोजना के माध्यम से व्यापक कृषि भूमि को सींचती है।"
+        }
+      },
+      {
+        "name": {
+          "en": "Kao River",
+          "hi": "काव नदी"
+        },
+        "description": {
+          "en": "A dynamic plateau-fed stream carving deep rocky canyons through the Vindhyan sandstone before tumbling across precipices to form the renowned Dhua Kund and Manjhar Kund waterfalls near Sasaram.",
+          "hi": "कैमूर पठार से निकलने वाली एक तीव्रगामी पहाड़ी नदी जो विंध्य चट्टानों को काटकर गहरी घाटियों का निर्माण करती है और प्राकृतिक रूप से गिरकर प्रसिद्ध धुआं कुंड और मंझार कुंड जलप्रपातों की रचना करती है।"
+        }
+      },
+      {
+        "name": {
+          "en": "Kachhuar River",
+          "hi": "कछुआड़ नदी"
+        },
+        "description": {
+          "en": "A scenic hill torrent winding through the deep sandstone amphitheater of Tilouthu, plunging over a 200-foot vertical cliff to create the sacred Tutla Bhawani Waterfall.",
+          "hi": "तिलौथू के सघन बलुआ पत्थर की संकरी घाटी से होकर बहने वाली एक सुंदर पहाड़ी नदी, जो 200 फीट ऊंचे कगार से गिरकर पवित्र तुतला भवानी जलप्रपात का निर्माण करती है।"
+        }
+      }
+    ]
+  },
+  "demographics": {
+    "population": {
+      "value": 2959918,
+      "year": 2011,
+      "source": "Census of India 2011"
+    },
+    "density": {
+      "value": 763,
+      "year": 2011
+    },
+    "literacyRate": {
+      "value": 73.37,
+      "year": 2011
+    },
+    "sexRatio": {
+      "value": 918,
+      "year": 2011
+    }
+  },
+  "administration": {
+    "headquarters": {
+      "en": "Sasaram",
+      "hi": "सासाराम"
+    },
+    "subdivisions": 3,
+    "blocks": 19,
+    "villages": 2072,
+    "asOf": "Census 2011 / District Administration Rohtas"
+  },
+  "economy": {
+    "description": {
+      "en": "The economy of Rohtas is a powerful tri-pillar structure driven by high-yield agriculture, mineral-based heavy industries, and construction logistics:\n\n- **Agrarian Engine**: Universally recognized as the 'Rice Bowl of Bihar', Rohtas generates massive foodgrain surpluses supported by the perennial Son Canal network.\n- **Mineral & Industrial Heartland**: The district rests atop vast Vindhyan limestone and sandstone deposits, which historically fostered premier cement manufacturing at Dalmianagar and Banjari (Kalyanpur Cements). Amjhore holds country-wide acclaim for housing over 95% of India's pyrite reserves.\n- **Son River Sand Mining**: The premium quartz-rich yellow sand extracted along the Son River bed forms the primary construction backbone for building infrastructure across Bihar, eastern Uttar Pradesh, and West Bengal.",
+      "hi": "रोहतास की अर्थव्यवस्था उच्च उत्पादकता वाली कृषि, खनिज आधारित भारी उद्योगों और निर्माण लॉजिस्टिक्स का एक सुदृढ़ त्रिकोणीय आधार प्रस्तुत करती है:\n\n- **कृषि का इंजन**: बिहार के 'धान का कटोरा' के रूप में विख्यात यह जिला सोन नहर प्रणाली से सुनिश्चित सिंचाई के कारण राज्य के खाद्यान्न उत्पादन में शीर्ष स्थान रखता है।\n- **खनिज एवं औद्योगिक केंद्र**: विंध्य शैलसमूह से प्राप्त उच्च गुणवत्ता वाले चूना पत्थर और बलुआ पत्थर के विशाल भंडारों के कारण यह जिला ऐतिहासिक रूप से डालमियानगर और बंजारी (कल्याणपुर सीमेंट्स) में प्रमुख सीमेंट संयंत्रों का आधार रहा है। आमझोर में देश के 95% से अधिक पाइराइट निक्षेप संचित हैं।\n- **सोन बालू खनन**: सोन नदी तट पर खनन की जाने वाली प्रसिद्ध उच्च सिलिका युक्त 'पीली बालू' पूरे बिहार, पूर्वी उत्तर प्रदेश और पश्चिम बंगाल के निर्माण उद्योग की रीढ़ है।"
+    },
+    "majorIndustries": {
+      "en": "- **Cement & Building Materials**: Portland cement manufacturing, limestone quarrying, stone crushing, and sandstone shaping.\n- **Agro-Processing & Milling**: Hundreds of state-of-the-art automated rice mills concentrated around Nokha and Sasaram, wheat flour mills, and mustard oil processing.\n- **Riverbed Sand Mining**: Regulated extraction and freight transport of famous Son yellow sand.\n- **Heritage & Eco-Tourism**: Flourishing tourism hospitality centered around Sasaram's medieval monuments, Rohtasgarh Fort, and Kaimur waterfalls.",
+      "hi": "- **सीमेंट एवं निर्माण सामग्री**: पोर्टलैंड सीमेंट विनिर्माण, चूना पत्थर उत्खनन, गिट्टी पिसाई (क्रशर उद्योग) तथा बलुआ पत्थर तराशी।\n- **कृषि प्रसंस्करण एवं राइस मिल्स**: नोखा और सासाराम में केंद्रित सैकड़ों आधुनिक स्वचालित चावल मिलें, आटा मिलें और सरसों तेल निष्कर्षण इकाइयां।\n- **सोन बालू खनन**: उच्च मांग वाली सोन नदी की पीली बालू का बड़े पैमाने पर खनन और माल परिवहन।\n- **विरासत एवं ईको-पर्यटन**: सासाराम के मध्यकालीन स्मारकों, रोहतासगढ़ दुर्ग और कैमूर जलप्रपात परिपथ पर आधारित पर्यटन व आतिथ्य उद्योग।"
+    }
+  },
+  "agriculture": {
+    "description": {
+      "en": "Earning the proud epithet **'Rice Bowl of Bihar'** (*धान का कटोरा*), Rohtas represents the most advanced agrarian landscape in the state:\n\n- **Son Canal Network**: Commissioned in 1874 with its command headworks at Indrapuri Barrage, the canal system provides perennial gravitational irrigation to over 80% of net cultivated acreage.\n- **Technological Leadership**: Rohtas leads Bihar in agricultural mechanization, boasting the highest per-capita concentration of combine harvesters, laser levelers, and automated transplanters.\n- **Cropping Intensity**: Exemplary double and triple cropping cycles yield bumper Kharif paddy followed by record-setting Rabi wheat and pulses, recording wheat productivities exceeding 3,500 kg/hectare.",
+      "hi": "बिहार के **'धान का कटोरा'** के गौरवशाली उपनाम से अलंकृत रोहतास जिला राज्य के कृषि परिदृश्य का सबसे उन्नत और उत्पादक क्षेत्र है:\n\n- **सोन नहर प्रणाली का वरदान**: 1874 में स्थापित और इंद्रपुरी बैराज से संचालित यह ऐतिहासिक नहर नेटवर्क जिले की 80% से अधिक कृषि भूमि को बारहमासी सिंचाई प्रदान करता है।\n- **तकनीकी एवं यंत्रीकरण में अग्रणी**: रोहतास कृषि यंत्रीकरण में पूरे बिहार में प्रथम स्थान पर है, जहां कंबाइन हार्वेस्टर, लेजर लैंड लेवलर और आधुनिक ट्रैक्टरों का सर्वाधिक उपयोग होता है।\n- **सघन फसल चक्र**: यहां के किसान खरीफ में उच्च उपज वाले धान, रबी में रिकॉर्ड उत्पादन करने वाले गेहूं (3,500 किग्रा/हेक्टेयर से अधिक) तथा ग्रीष्मकालीन मूंग व दलहन की खेती से राज्य में सर्वाधिक उत्पादकता दर्ज करते हैं।"
+    },
+    "majorCrops": {
+      "en": "- **Cereals**: Paddy (staple Kharif crop including Katarni, Sonam, and premium hybrid varieties), Wheat (dominant Rabi crop), and Maize.\n- **Pulses**: Gram (Chana), Lentil (Masoor), Pigeon Pea (Arhar), and Green Gram (Moong).\n- **Oilseeds & Cash Crops**: Mustard, Rapeseed, Linseed (Tisi), and Sugarcane.\n- **Horticulture**: Guava, Mango, seasonal green vegetables, and potato.",
+      "hi": "- **अनाज**: धान (खरीफ की प्रमुख फसल - कतरनी, सोनम और उच्च गुणवत्ता वाली संकर किस्में), गेहूं (रबी की शीर्ष फसल) और मक्का।\n- **दलहन**: चना, मसूर, अरहर और मूंग।\n- **तिलहन एवं नकदी फसलें**: सरसों, राई, तीसी और गन्ना।\n- **बागवानी**: अमरूद, आम, मौसमी हरी सब्जियां और आलू।"
+    }
+  },
+  "culture": {
+    "festivals": {
+      "en": "- **Chhath Puja**: Celebrated with unmatched spiritual grandeur along the stone ghats of the Son River and historic temple tanks, where lakhs of devotees offer sacred *Arghya* to the Sun God.\n- **Raksha Bandhan Mela at Manjhar Kund**: A century-old folk tradition where communities ascend the picturesque Kaimur hills near Sasaram for festive outdoor feasting and folk musical celebrations.\n- **Navratri & Tara Chandi Mela**: Reverent devotional congregations during Chaitra and Sharad Navratri at the sacred Maa Tara Chandi Shaktipeeth.\n- **Karam Puja & Sarhul**: Celebrated with traditional music and dance by indigenous Oraon and Kharwar communities on the Rohtasgarh Plateau honoring nature and ancestors.\n- **Urs of Chandan Shahid**: An annual spiritual congregation at the hilltop Sufi shrine of Hazrat Chandan Shahid in Sasaram, exemplifying communal brotherhood.",
+      "hi": "- **छठ महापर्व**: सोन नदी के विस्तृत पक्के घाटों और ऐतिहासिक सरोवरों पर अपार श्रद्धा के साथ आयोजित, जहां लाखों श्रद्धालु अस्ताचलगामी और उदीयमान भगवान सूर्य को 'अर्घ्य' अर्पित करते हैं।\n- **मंझार कुंड रक्षाबंधन मेला**: सासाराम की पहाड़ियों पर आयोजित एक सदी पुराना अनूठा लोक मेला, जहां प्राकृतिक जलप्रपातों के सानिध्य में पारंपरिक सामूहिक उत्सव और लोक संगीत का आनंद लिया जाता है।\n- **नवरात्रि एवं तारा चंडी मेला**: मां तारा चंडी शक्तिपीठ पर चैत्र एवं शारदीय नवरात्रि में उमड़ने वाला विशाल भक्तिमय समागम।\n- **करम पूजा एवं सरहुल**: रोहतासगढ़ पठार पर निवास करने वाले उरांव और खरवार जनजातीय समाज द्वारा प्रकृति और पूर्वजों की आराधना का पावन पर्व।\n- **चंदन शहीद का उर्स**: सासाराम स्थित हजरत चंदन शहीद की पहाड़ी दरगाह पर आयोजित सालाना उर्स, जो कौमी एकता और सूफी परंपरा का प्रतीक है।"
+    },
+    "artAndCrafts": {
+      "en": "- **Stone Carving & Masonry**: Ancient stone sculpting traditions inherited from medieval masons who crafted Sher Shah Suri's monuments and Rohtasgarh Fort using Vindhyan sandstone.\n- **Bhojpuri Folk Music**: Rich traditions of *Biraha*, *Kajari*, *Chaiti*, and *Pachara* resonant during agricultural harvests and temple festivals.\n- **Sikki Grass & Bamboo Weaving**: Eco-friendly handcrafted baskets, storage containers, and decorative toys woven by skilled rural artisans.\n- **Handloom Weaving**: Traditional pit-loom cotton textile weaving preserved in rural craft pockets around Tilouthu and Nasriganj.",
+      "hi": "- **पत्थर तराशी एवं मूर्तिकला**: शेरशाह सूरी के स्मारकों और रोहतासगढ़ के कुशल वास्तुकारों से विरासत में मिली विंध्य बलुआ पत्थर तराशी की समृद्ध परंपरा।\n- **भोजपुरी लोक संगीत**: कृषि चक्र और उत्सवों के दौरान गाए जाने वाले *बिरहा*, *कजरी*, *चैती* और *पचरा* की सुरीली और जीवंत लोक परंपरा।\n- **सिक्की व बांस शिल्प**: ग्रामीण महिलाओं द्वारा प्राकृतिक सिक्की घास और स्थानीय बांस से तैयार की जाने वाली सुंदर डलिया, खिलौने और उपयोगी कलाकृतियां।\n- **पारंपरिक हथकरघा**: तिलौथू और नासरीगंज के आसपास ग्रामीण बुनकरों द्वारा तैयार सूती वस्त्र और पारंपरिक हथकरघा उत्पाद।"
+    },
+    "food": {
+      "en": "- **Litti Chokha**: Char-roasted whole wheat balls stuffed with spiced sattu and dipped in pure desi ghee, served with smoky roasted brinjal-tomato chokha.\n- **Sasaram's Balushahi**: Melt-in-the-mouth flaky sweet pastry deep-fried in pure ghee and soaked in fragrant cardamom sugar syrup.\n- **Thekua & Pua**: Crisp, aromatic wheat cakes sweetened with jaggery and spiced with fennel seeds, prepared traditionally during sacred festivals.\n- **Sattu Drink & Parathas**: Savory, protein-rich roasted gram flour blended with roasted cumin, green chillies, and lemon juice, acting as the iconic rural refresher.",
+      "hi": "- **लिट्टी चोखा**: शुद्ध देसी घी में डूबी, भुने हुए सत्तू और मसालों से भरी पारंपरिक गेहूं की लिट्टी, जिसे बैंगन-टमाटर के भुने चोखे के साथ परोसा जाता है।\n- **सासाराम की बालूशाही**: शुद्ध घी में तली हुई और इलायची युक्त चाशनी में डूबी खस्ता और मुंह में घुल जाने वाली सुप्रसिद्ध पारंपरिक मिठाई।\n- **ठेकुआ एवं पुआ**: गेहूं के आटे, गुड़, सौंफ और सूखे मेवों से निर्मित पारंपरिक पकवान, जो विशेष रूप से छठ पर्व पर बनाए जाते हैं।\n- **सत्तू का शरबत एवं पराठा**: भुने चने के सत्तू, भुना जीरा, नींबू और हरी मिर्च से बना ऊर्जादायक प्राकृतिक पेय तथा सत्तू भरवां पराठे।"
+    }
+  },
+  "transport": {
+    "road": {
+      "en": "Superb national highway connectivity anchored by **National Highway 19 (NH-19 / Golden Quadrilateral / Old Grand Trunk Road)** passing directly through Sasaram and Dehri-on-Sone, connecting to Varanasi, Kolkata, and New Delhi. **NH-119** links Sasaram directly to Arrah and Patna, while well-maintained state highways (SH-15, SH-2) interconnect every block.",
+      "hi": "ऐतिहासिक **राष्ट्रीय राजमार्ग 19 (NH-19 / स्वर्णिम चतुर्भुज / ग्रांड ट्रंक रोड)** जिले के सासाराम और डेहरी-ऑन-सोन से होकर गुजरता है, जो इसे सीधे वाराणसी, कोलकाता और नई दिल्ली से जोड़ता है। **NH-119** सासाराम को आरा और राजधानी पटना से जोड़ता है, जबकि राजकीय राजमार्ग (SH-15, SH-2) सभी प्रखंडों को बारहमासी सड़कों से जोड़ते हैं।"
+    },
+    "railway": {
+      "en": "**Sasaram Junction (SSM)** and **Dehri-on-Sone (DOS)** are prominent A-grade railway stations on the high-speed Grand Chord section of East Central Railway (Pt. Deen Dayal Upadhyaya – Gaya – Dhanbad – Howrah line). Scores of express, superfast, and Rajdhani trains provide round-the-clock connectivity to Delhi, Mumbai, Kolkata, Patna, and Ranchi. Sasaram also connects directly northward via the Ara–Sasaram branch line.",
+      "hi": "**सासाराम जंक्शन (SSM)** और **डेहरी-ऑन-सोन (DOS)** पूर्व मध्य रेलवे के व्यस्ततम ग्रैंड कॉर्ड रूट (पंडित दीनदयाल उपाध्याय – गया – धनबाद – हावड़ा खंड) पर स्थित प्रमुख रेलवे स्टेशन हैं। यहां से राजधानी, सुपरफास्ट और एक्सप्रेस ट्रेनों द्वारा दिल्ली, मुंबई, कोलकाता, पटना और रांची के लिए चौबीसों घंटे सीधी रेल सेवा उपलब्ध है। सासाराम से आरा के लिए सीधी रेल लाइन भी संचालित है।"
+    },
+    "airport": {
+      "en": "The nearest operational commercial airport is **Lal Bahadur Shastri International Airport (VNS)** in Varanasi (approximately 115 km west via NH-19). The state capital's **Jay Prakash Narayan International Airport (PAT)** in Patna is located roughly 150 km northeast, offering comprehensive domestic flights across India.",
+      "hi": "निकटतम प्रमुख वाणिज्यिक हवाई अड्डा वाराणसी स्थित **लाल बहादुर शास्त्री अंतर्राष्ट्रीय हवाई अड्डा (VNS)** है, जो NH-19 के माध्यम से लगभग 115 किमी पश्चिम में स्थित है। इसके अतिरिक्त राज्य की राजधानी पटना का **जयप्रकाश नारायण अंतर्राष्ट्रीय हवाई अड्डा (PAT)** लगभग 150 किमी उत्तर-पूर्व में स्थित है।"
+    }
+  },
+  "importantPersonalities": [
+    {
+      "name": {
+        "en": "Sher Shah Suri",
+        "hi": "शेरशाह सूरी"
+      },
+      "association": {
+        "en": "Founder of the Sur Empire (1540–1545 CE) and visionary ruler who built the Grand Trunk Road, introduced the silver Rupiya, overhauled revenue administration with the Patta system, and whose majestic island mausoleum stands in Sasaram.",
+        "hi": "सूरी साम्राज्य के संस्थापक (1540–1545 ईस्वी) और दूरदर्शी शासक जिन्होंने ग्रांड ट्रंक रोड का निर्माण कराया, चांदी का 'रुपया' चलाया, पट्टा प्रणाली से राजस्व सुधार किए और जिनका भव्य जल मकबरा सासाराम में स्थित है।"
+      }
+    },
+    {
+      "name": {
+        "en": "Raja Man Singh",
+        "hi": "राजा मान सिंह"
+      },
+      "association": {
+        "en": "Eminent Kachhwaha Rajput general and Akbar's Subahdar (Governor) of Bihar and Bengal; established Rohtasgarh Fort as his viceregal headquarters in 1588 CE, building the magnificent palace complex Mahal-e-Sarai.",
+        "hi": "मुगल सम्राट अकबर के प्रधान सेनापति तथा बिहार और बंगाल के सूबेदार; जिन्होंने 1588 ईस्वी में रोहतासगढ़ किले को अपनी प्रशासनिक राजधानी बनाया और भव्य महल-ए-सराय का निर्माण कराया।"
+      }
+    },
+    {
+      "name": {
+        "en": "Babu Jagjivan Ram",
+        "hi": "बाबू जगजीवन राम"
+      },
+      "association": {
+        "en": "Iconic freedom fighter, crusader for social justice, and former Deputy Prime Minister of India. Born in Chandwa near Sasaram, he spearheaded India's Green Revolution as Agriculture Minister and led the Defense Ministry during the 1971 Liberation War.",
+        "hi": "महान स्वतंत्रता सेनानी, सामाजिक समरसता के अग्रदूत और भारत के पूर्व उप-प्रधानमंत्री। सासाराम के निकट चंदवा में जन्मे बाबूजी ने कृषि मंत्री के रूप में हरित क्रांति का नेतृत्व किया तथा 1971 के मुक्ति संग्राम में देश के रक्षा मंत्री रहे।"
+      }
+    },
+    {
+      "name": {
+        "en": "Emperor Ashoka",
+        "hi": "सम्राट अशोक महान"
+      },
+      "association": {
+        "en": "Great Mauryan Emperor whose 3rd-century BCE Minor Rock Edict is inscribed inside a natural cave atop Chandan Shahid Hill in Sasaram, serving as physical testament to Rohtas's ancient Mauryan lineage.",
+        "hi": "महान मौर्य सम्राट जिनका ईसा पूर्व तीसरी शताब्दी का 'लघु शिलालेख' सासाराम की चंदन शहीद पहाड़ी पर एक प्राकृतिक गुफा में स्थित है, जो रोहतास के प्राचीन मौर्यकालीन इतिहास का जीवंत प्रमाण है।"
+      }
+    },
+    {
+      "name": {
+        "en": "Meira Kumar",
+        "hi": "श्रीमती मीरा कुमार"
+      },
+      "association": {
+        "en": "Distinguished diplomat, senior parliamentarian, and the first woman Speaker of the Lok Sabha (2009–2014); represented the historic Sasaram parliamentary constituency in the Parliament of India.",
+        "hi": "वरिष्ठ राजनयिक, राजनेता और भारत की प्रथम महिला लोकसभा अध्यक्ष (2009–2014); जिन्होंने भारतीय संसद में ऐतिहासिक सासाराम संसदीय क्षेत्र का प्रतिनिधित्व किया।"
+      }
+    },
+    {
+      "name": {
+        "en": "Prince Rohitashwa",
+        "hi": "राजकुमार रोहिताश्व"
+      },
+      "association": {
+        "en": "Legendary prince of the ancient Solar Dynasty (Suryavansha) and son of the truthful King Harishchandra, after whom the historic region of Rohtas and the hill fortress of Rohtasgarh are named.",
+        "hi": "प्राचीन सूर्यवंश के पौराणिक राजकुमार और सत्यवादी राजा हरिश्चंद्र के सुपुत्र, जिनके नाम पर इस पावन क्षेत्र और ऐतिहासिक रोहतासगढ़ दुर्ग का नामकरण हुआ।"
+      }
+    }
+  ],
+  "tourismIdentity": [
+    {
+      "en": "**The Incomparable Sher Shah Suri Mausoleum**: An architectural wonder rising 122 feet from the center of a scenic square artificial lake in Sasaram, celebrated for possessing one of medieval India's widest single-span stone masonry domes.",
+      "hi": "**शेरशाह सूरी का अद्‌भुत जल मकबरा**: सासाराम के एक विशाल कृत्रिम सरोवर के मध्य 122 फीट ऊंचा खड़ा भारत-इस्लामी वास्तुशिल्प का बेजोड़ चमत्कार, जो मध्यकालीन भारत के विशालतम पत्थर के गुंबदों में गिना जाता है।"
+    },
+    {
+      "en": "**The Impregnable Rohtasgarh Citadel**: One of the largest and most dramatic hill fortresses in the Indian subcontinent, sprawling across 42 square kilometers atop sheer 1,500-foot sandstone cliffs with royal palaces, elephant gates, and temples.",
+      "hi": "**अजेय रोहतासगढ़ गिरि-दुर्ग**: भारतीय उपमहाद्वीप के विशालतम पहाड़ी किलों में से एक, जो 1,500 फीट ऊंचे विंध्य कगारों पर 42 वर्ग किलोमीटर में फैला है और अपने महलों, हाथी पोल व मंदिरों के लिए विख्यात है।"
+    },
+    {
+      "en": "**Vibrant Waterfall & Eco-Tourism Escapes**: A paradise of natural cataracts including the sacred canyon waterfall of **Tutla Bhawani** with its hanging suspension bridge, and the twin forest cascades of **Dhua Kund** and **Manjhar Kund**.",
+      "hi": "**विहंगम जलप्रपात और ईको-टूरिज्म सर्किट**: संकरी पहाड़ी घाटियों में स्थित पवित्र **तुतला भवानी** का हैंगिंग ब्रिज जलप्रपात तथा विंध्य शैलमालाओं से गिरते **धुआं कुंड** और **मंझार कुंड** के मनोहारी प्राकृतिक झरने।"
+    },
+    {
+      "en": "**Maa Tara Chandi Shaktipeeth**: An ancient rock-cut cave shrine on the Chandan Shahid hill slopes where the right eye (*netra*) of Goddess Sati is believed to have fallen, revered as one of the 51 sacred Maha Shaktipeeths.",
+      "hi": "**मां तारा चंडी शक्तिपीठ**: चंदन शहीद पहाड़ी की तलहटी में स्थित अत्यंत प्राचीन एवं सिद्ध गुफा मंदिर, जहां माता सती का 'दायां नेत्र' गिरा था और जो 51 शक्तिपीठों में प्रमुख माना जाता है।"
+    },
+    {
+      "en": "**Indrapuri Barrage & The Golden Son**: The fourth longest barrage in the world (1,407 meters) situated at Dehri-on-Sone, framing spectacular river sunsets over radiant golden sand banks.",
+      "hi": "**इंद्रपुरी बैराज एवं स्वर्णिम सोन तट**: डेहरी-ऑन-सोन में स्थित विश्व का चौथा सबसे लंबा बैराज (1,407 मीटर), जहां सोन नदी की सुनहरी रेत पर ढलते सूरज का विहंगम दृश्य पर्यटकों को मंत्रमुग्ध कर देता है।"
+    }
+  ],
+  "didYouKnow": [
+    {
+      "en": "**State Leader in Literacy**: Rohtas proudly holds the highest overall literacy rate in Bihar at **73.37%** (Census 2011), with male literacy peaking at **82.88%** and female literacy at **62.97%**, far outperforming the state average.",
+      "hi": "**साक्षरता में बिहार का सिरमौर**: रोहतास जिला 2011 की जनगणना में **73.37%** साक्षरता दर के साथ पूरे बिहार में प्रथम स्थान पर है, जहां पुरुष साक्षरता **82.88%** और महिला साक्षरता **62.97%** दर्ज की गई।"
+    },
+    {
+      "en": "**Birthplace of Modern Currency**: The silver **Rupiya** was first introduced from this soil by Sher Shah Suri in 1540 CE, weighing 178 troy grains of pure silver, establishing the direct etymological and financial ancestor of today's Indian Rupee.",
+      "hi": "**आधुनिक रुपये की जन्मभूमि**: शेरशाह सूरी ने 1540 ईस्वी में इसी माटी से पहली बार 178 ग्रेन शुद्ध चांदी का **'रुपिया'** जारी किया था, जो आज भारत, पाकिस्तान और नेपाल की आधिकारिक मुद्राओं का प्रत्यक्ष जनक है।"
+    },
+    {
+      "en": "**World-Record Barrage**: The **Indrapuri Barrage** on the Son River at Dehri is 1,407 meters (4,616 ft) long, making it the 4th longest barrage in the world and the engineering heart of Bihar's green revolution.",
+      "hi": "**विश्व का चौथा सबसे लंबा बैराज**: डेहरी-ऑन-सोन स्थित **इंद्रपुरी बैराज** 1,407 मीटर लंबा है, जो विश्व के सबसे लंबे बैराजों में चौथे स्थान पर आता है और दक्षिण बिहार की कृषि क्रांति का आधारस्तंभ है।"
+    },
+    {
+      "en": "**2,250-Year-Old Ashokan Inscription**: Emperor Ashoka inscribed one of his rare Minor Rock Edicts inside a rock cavern on Chandan Shahid hill in Sasaram during the 3rd century BCE, demonstrating Sasaram's antiquity along imperial Mauryan routes.",
+      "hi": "**2,250 वर्ष पुराना अशोक का शिलालेख**: सासाराम की चंदन शहीद पहाड़ी पर सम्राट अशोक का दुर्लभ लघु शिलालेख स्थित है, जो प्रमाणित करता है कि मौर्यकाल में सासाराम एक अत्यंत महत्वपूर्ण प्रशासनिक पड़ाव था।"
+    },
+    {
+      "en": "**India's Largest Pyrite Reserve**: The Amjhore region of Rohtas holds over **95% of India's total known pyrite (iron sulfide) reserves**, which was mined by Pyrites, Phosphates & Chemicals Ltd (PPCL) to manufacture indigenous sulphuric acid.",
+      "hi": "**भारत का 95% पाइराइट भंडार**: रोहतास का आमझोर क्षेत्र भारत के कुल ज्ञात पाइराइट (आयरन सल्फाइड) भंडारों का 95% से अधिक हिस्सा समाहित करता है, जिसका उपयोग देश में सल्फ्यूरिक एसिड और उर्वरक उत्पादन के लिए किया जाता था।"
+    }
+  ],
+  "sources": [
+    {
+      "title": "District Census Handbook: Rohtas (Census of India 2011)",
+      "organization": "Directorate of Census Operations, Bihar, Ministry of Home Affairs, Government of India",
+      "url": "https://censusindia.gov.in",
+      "year": 2011
+    },
+    {
+      "title": "Official Portal of Rohtas District Administration",
+      "organization": "District Administration Rohtas, Government of Bihar",
+      "url": "https://rohtas.nic.in",
+      "year": 2024
+    },
+    {
+      "title": "Archaeological Survey of India: Tomb of Sher Shah Suri & Rohtasgarh Fort Monograph",
+      "organization": "Archaeological Survey of India (ASI), Patna Circle",
+      "url": "https://asipatnacircircle.bih.nic.in",
+      "year": 2022
+    },
+    {
+      "title": "Bihar Through the Ages & Bihar State Gazetteer",
+      "organization": "Department of Cabinet Secretariat (Gazetteer Unit), Government of Bihar",
+      "url": "https://state.bihar.gov.in",
+      "year": 2020
+    },
+    {
+      "title": "Bihar Tourism Official Guide: Rohtas Circuit",
+      "organization": "Bihar State Tourism Development Corporation (BSTDC)",
+      "url": "https://tourism.bihar.gov.in",
+      "year": 2023
+    }
+  ]
+}

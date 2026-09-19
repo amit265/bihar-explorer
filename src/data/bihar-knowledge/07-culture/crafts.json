@@ -1,0 +1,142 @@
+{
+  "data": [
+    {
+      "id": "sikki-grass-craft",
+      "name": {
+        "en": "Sikki Grass Craft (Golden Grass)",
+        "hi": "सिक्की घास शिल्प (गोल्डन ग्रास)"
+      },
+      "category": "grass-weaving",
+      "giTagged": true,
+      "giRegistrationYear": 2007,
+      "districtIds": [
+        "madhubani",
+        "sitamarhi",
+        "darbhanga"
+      ],
+      "description": {
+        "en": "### Introduction\n**Sikki Grass Craft** is an ancient and eco-friendly folk craft native to the Mithila region. Awarded a Geographical Indication (GI) tag in 2007, it transforms wild, golden-hued grass into breathtaking pieces of art.\n\n### The Crafting Process\n* **The Golden Grass:** Artisans gather wild *Vetiveria zizanioides* (Sikki) from riverbanks and wetlands, drying them until they achieve a brilliant golden luster.\n* **Weaving with Takua:** Predominantly practiced by rural women, the craft involves using an indigenous needle-like steel tool (*Takua*) to coil and weave the grass.\n* **Vibrant Creations:** The artisans dye portions of the grass in vivid reds, greens, and blues to create exquisite containers (*Pauti*), storage baskets (*Dauri*), intricate toys, coasters, and idols.\n\n### Cultural Significance\nThe craft is deeply embedded in Mithila's social fabric. A beautifully woven *Pauti* is traditionally gifted to brides during their weddings to store jewelry and vermillion (*sindoor*), standing as a proud testament to the bride’s artistic skill, patience, and cultural rootedness.",
+        "hi": "### परिचय\n**सिक्की घास शिल्प** मिथिला क्षेत्र का एक प्राचीन और पर्यावरण के अनुकूल लोक शिल्प है। 2007 में भौगोलिक संकेत (GI) टैग से सम्मानित, यह सुनहरी जंगली घास को कला के लुभावने टुकड़ों में बदल देता है।\n\n### निर्माण प्रक्रिया\n* **सुनहरी घास:** कारीगर नदियों और आर्द्रभूमियों के किनारे से जंगली *वेटिवेरिया ज़िज़ैनियोइड्स* (सिक्की) इकट्ठा करते हैं, और उन्हें तब तक सुखाते हैं जब तक कि वे एक शानदार सुनहरी चमक प्राप्त न कर लें।\n* **तकुआ से बुनाई:** मुख्य रूप से ग्रामीण महिलाओं द्वारा प्रचलित इस शिल्प में घास को मोड़ने और गूंथने के लिए एक स्वदेशी सुई जैसे स्टील के उपकरण (*तकुआ*) का उपयोग किया जाता है।\n* **जीवंत रचनाएँ:** कारीगर घास के कुछ हिस्सों को चमकीले लाल, हरे और नीले रंगों में रंगते हैं, ताकि उत्कृष्ट डिब्बे (*पौती*), भंडारण टोकरियाँ (*दौरी*), जटिल खिलौने, कोस्टर और मूर्तियाँ बनाई जा सकें।\n\n### सांस्कृतिक महत्व\nयह शिल्प मिथिला के सामाजिक ताने-बाने में गहराई से जुड़ा हुआ है। एक खूबसूरती से बुनी हुई *पौती* पारंपरिक रूप से विवाह के दौरान दुल्हनों को आभूषण और सिंदूर रखने के लिए उपहार में दी जाती है, जो दुल्हन के कलात्मक कौशल, धैर्य और सांस्कृतिक जड़ों के गौरवशाली प्रमाण के रूप में खड़ी होती है।"
+      },
+      "culturalSignificance": {
+        "en": "Traditionally gifted to brides during weddings as a repository of jewelry, vermillion (sindoor), and dry fruits as a testament to her artistic skill and patience.",
+        "hi": "विवाह के समय वधू को आभूषण, सिंदूर और सूखे मेवे रखने के लिए सिक्की की बनी 'पौती' उपहार में दी जाती है, जो उसके धैर्य और कला-कौशल का प्रमाण मानी जाती है।"
+      }
+    },
+    {
+      "id": "bhagalpuri-silk",
+      "name": {
+        "en": "Bhagalpuri Silk (Tussar Silk)",
+        "hi": "भागलपुरी रेशम (तसर सिल्क)"
+      },
+      "category": "textile-weaving",
+      "giTagged": true,
+      "giRegistrationYear": 2012,
+      "districtIds": [
+        "bhagalpur",
+        "banka"
+      ],
+      "description": {
+        "en": "### Introduction\nGlobally celebrated as the 'Silk City of India', Bhagalpur is the heartland of a 200-year-old sericulture and handloom weaving legacy. **Bhagalpuri Silk** is renowned for its unparalleled quality, natural sheen, and eco-friendly production.\n\n### The Silk Varieties\n* **Tussar Silk (Kosa Silk):** The city specializes in wild Tussar silk, famous for its rich texture and natural gold sheen.\n* **Bafta and Eri:** Master weavers also produce *Bafta* fabrics (an elegant cotton-silk blend) and *Eri* silk, known for its thermal resilience and highly breathable texture.\n\n### The 'Ahimsa' Weave\nBhagalpuri silk is particularly celebrated for its sustainable and eco-friendly reeling processes. Often referred to as 'Peace Silk' or 'Ahimsa Silk', the extraction process respects the life cycle of the silkworm, avoiding unnecessary cruelty.\n\n### Economic Lifeline\nBeyond its sheer beauty, this ancient craft is the economic backbone of the region. It sustains over 30,000 traditional handloom weavers, powerloom operators, and sericulture rearers across the Bhagalpur and Banka belt.",
+        "hi": "### परिचय\nविश्व स्तर पर 'भारत की सिल्क सिटी' के रूप में प्रसिद्ध, भागलपुर 200 साल पुरानी रेशम उत्पादन और हथकरघा बुनाई विरासत का गढ़ है। **भागलपुरी रेशम** अपनी बेजोड़ गुणवत्ता, प्राकृतिक चमक और पर्यावरण के अनुकूल उत्पादन के लिए प्रसिद्ध है।\n\n### रेशम की किस्में\n* **तसर सिल्क (कोसा सिल्क):** यह शहर जंगली तसर सिल्क में माहिर है, जो अपनी समृद्ध बनावट और प्राकृतिक सुनहरी चमक के लिए प्रसिद्ध है।\n* **बाफ्ता और एरी:** कुशल बुनकर *बाफ्ता* (कपास-रेशम का एक सुंदर मिश्रण) और *एरी* सिल्क भी बनाते हैं, जो अपने थर्मल लचीलेपन और हवादार (सांस लेने योग्य) बनावट के लिए जाना जाता है।\n\n### 'अहिंसा' बुनाई\nभागलपुरी रेशम विशेष रूप से अपने टिकाऊ और पर्यावरण के अनुकूल कताई प्रक्रियाओं के लिए मनाया जाता है। अक्सर 'पीस सिल्क' या 'अहिंसा सिल्क' के रूप में जाना जाता है, इसके निष्कर्षण की प्रक्रिया में अनावश्यक क्रूरता से बचते हुए रेशम के कीड़े के जीवन चक्र का सम्मान किया जाता है।\n\n### आर्थिक जीवनरेखा\nअपनी सुंदरता से परे, यह प्राचीन शिल्प क्षेत्र की आर्थिक रीढ़ है। यह भागलपुर और बांका बेल्ट में 30,000 से अधिक पारंपरिक हथकरघा बुनकरों, पावरलूम ऑपरेटरों और रेशम कीट पालकों को आजीविका प्रदान करता है।"
+      },
+      "economicImpact": {
+        "en": "Sustains over 30,000 traditional handloom and powerloom weavers and sericulture rearers across the Bhagalpur and Banka belt.",
+        "hi": "भागलपुर और बांका के 30,000 से अधिक बुनकर परिवारों और रेशम कीट पालकों की आजीविका का मुख्य आधार।"
+      }
+    },
+    {
+      "id": "patharkatti-stone-carving",
+      "name": {
+        "en": "Patharkatti Stone Carving",
+        "hi": "पत्थरकट्टी प्रस्तर शिल्प (पत्थर तराशी)"
+      },
+      "category": "stone-sculpting",
+      "giTagged": true,
+      "giRegistrationYear": 2024,
+      "districtIds": [
+        "gaya"
+      ],
+      "originPlace": {
+        "en": "Patharkatti, Gaya",
+        "hi": "पत्थरकट्टी, गया"
+      },
+      "description": {
+        "en": "### Introduction\n**Patharkatti Stone Carving** is a centuries-old sculptural tradition practiced in the Patharkatti village near Atri in Gaya. In 2024, this magnificent craft was rightfully awarded a Geographical Indication (GI) tag.\n\n### Historical Origins\nThe craft took root in the late 18th century. When the visionary Queen Ahilyabai Holkar of Indore resolved to rebuild the monumental Vishnupad Temple in Gaya, she invited master stone sculptors from Rajasthan. These artisans settled in Patharkatti, establishing a lineage of stone carvers that continues to this day.\n\n### The Craftsmanship\n* **The Stone:** Artisans predominantly work with locally sourced blue-black chlorite and soft stones.\n* **The Artistry:** Using traditional chisels and hammers, they breathe life into the cold stone, carving highly detailed statues of deities, majestic Shivalingas, traditional mortar-pestles (*kundi*), and intricate ornamental fountains.\n\n### Cultural Value\nToday, Patharkatti remains a vital center for religious and architectural stone art, keeping the ancient Magadhan legacy of stone sculpting vibrantly alive.",
+        "hi": "### परिचय\n**पत्थरकट्टी प्रस्तर शिल्प** गया में अतरी के पास पत्थरकट्टी गांव में प्रचलित एक सदियों पुरानी मूर्तिकला परंपरा है। 2024 में, इस शानदार शिल्प को सही मायनों में भौगोलिक संकेत (GI) टैग से सम्मानित किया गया।\n\n### ऐतिहासिक उत्पत्ति\nइस शिल्प की जड़ें 18वीं सदी के अंत में जमीं। जब इंदौर की दूरदर्शी महारानी अहिल्याबाई होल्कर ने गया में भव्य विष्णुपद मंदिर के पुनर्निर्माण का संकल्प लिया, तो उन्होंने राजस्थान से कुशल पत्थर मूर्तिकारों को आमंत्रित किया। ये कारीगर पत्थरकट्टी में बस गए, और पत्थर तराशने वालों की एक वंशावली स्थापित की जो आज भी जारी है.\n\n### शिल्प कौशल\n* **पत्थर:** कारीगर मुख्य रूप से स्थानीय नीले-काले क्लोराइट और नरम पत्थरों के साथ काम करते हैं।\n* **कलाकारी:** पारंपरिक छेनी और हथौड़ों का उपयोग करते हुए, वे ठंडे पत्थर में जान फूंकते हैं, देवी-देवताओं की विस्तृत मूर्तियां, राजसी शिवलिंग, पारंपरिक ओखली-मूसल (*कुंडी*), और जटिल सजावटी फव्वारे तराशते हैं।\n\n### सांस्कृतिक मूल्य\nआज, पत्थरकट्टी धार्मिक और स्थापत्य पत्थर कला के लिए एक महत्वपूर्ण केंद्र बना हुआ है, जो पत्थर की मूर्तिकला की प्राचीन मगध विरासत को जीवंत बनाए रखता है।"
+      }
+    },
+    {
+      "id": "parev-brass-and-bell-metal",
+      "name": {
+        "en": "Parev Brass & Bell Metal Craft",
+        "hi": "परेव पीतल एवं कांसा शिल्प"
+      },
+      "category": "metalwork",
+      "giTagged": false,
+      "districtIds": [
+        "patna"
+      ],
+      "originPlace": {
+        "en": "Parev, Bihta, Patna",
+        "hi": "परेव, बिहटा, पटना"
+      },
+      "description": {
+        "en": "### Introduction\nNestled on the banks of the Sone river in the Patna district, the village of Parev is widely celebrated as the **'Brass Village of Bihar'**. It is the epicenter of the traditional **Brass & Bell Metal Craft**.\n\n### Master Artisans\nFor generations, artisans belonging to the *Kasera* and *Thathera* metal-working communities have kept this fiery craft alive. \n\n### Techniques and Products\n* **Ancient Methods:** The artisans utilize ancient metallurgical techniques, primarily lost-wax casting (*dhokra*) and sand-casting, coupled with vigorous manual hammering to shape the molten alloys.\n* **The Creations:** They cast and polish brass and bell metal (*kansa*) into heavy, gleaming ceremonial platters (*thalis*), sacred water vessels (*lotas*), sonorous temple bells, robust cooking pots (*handis*), and intricate sacrificial vessels.\n\n### Significance\nBeyond daily utility, these utensils hold immense ritual purity in Hindu traditions. The rhythmic clanging of hammers from the workshops of Parev remains a testament to Bihar's enduring industrial and artisanal heritage.",
+        "hi": "### परिचय\nपटना जिले में सोन नदी के तट पर बसा परेव गांव व्यापक रूप से **'बिहार के पीतल गांव'** के रूप में प्रसिद्ध है। यह पारंपरिक **पीतल और कांसा शिल्प** का केंद्र है।\n\n### कुशल कारीगर\nपीढ़ियों से, *कसेरा* और *ठठेरा* धातु-कर्म समुदायों के कारीगरों ने इस धधकते शिल्प को जीवित रखा है।\n\n### तकनीक और उत्पाद\n* **प्राचीन विधियां:** कारीगर प्राचीन धातुकर्म तकनीकों का उपयोग करते हैं, मुख्य रूप से लॉस्ट-वैक्स कास्टिंग (*ढोकरा*) और सैंड-कास्टिंग (रेत ढलाई), साथ ही पिघले हुए मिश्र धातुओं को आकार देने के लिए जोरदार हथौड़े से पीटते हैं।\n* **रचनाएँ:** वे पीतल और कांसे (*kansa*) को ढालकर और पॉलिश करके भारी, चमचमाती अनुष्ठानिक थालियाँ (*thalis*), पवित्र जल पात्र (*lotas*), मधुर मंदिर की घंटियाँ, मजबूत खाना पकाने के बर्तन (*handis*), और जटिल पूजा के बर्तन बनाते हैं।\n\n### महत्व\nदैनिक उपयोग से परे, ये बर्तन हिंदू परंपराओं में अत्यधिक अनुष्ठानिक पवित्रता रखते हैं। परेव की कार्यशालाओं से आने वाली हथौड़ों की लयबद्ध झंकार बिहार की स्थायी औद्योगिक और कलात्मक विरासत का एक प्रमाण बनी हुई है।"
+      }
+    },
+    {
+      "id": "bamboo-and-cane-craft",
+      "name": {
+        "en": "Bamboo & Cane Handicrafts",
+        "hi": "बांस एवं बेंत हस्तशिल्प"
+      },
+      "category": "natural-fiber-craft",
+      "districtIds": [
+        "west-champaran",
+        "kishanganj",
+        "purnia",
+        "katihar"
+      ],
+      "description": {
+        "en": "### Introduction\n**Bamboo and Cane Handicrafts** form a deeply utilitarian and eco-friendly artisanal tradition in Bihar, practiced extensively across the moist sub-Himalayan and Kosi belts (such as West Champaran, Kishanganj, and Purnia) where high-quality green bamboo grows in abundance.\n\n### Crafting Daily Life\n* **Agricultural Utility:** Highly skilled artisans slice and weave bamboo into essential agrarian tools. They craft traditional winnowing fans (*Soop*) indispensable for Chhath Puja, intricate sieves (*Chalni*), massive grain storage containers (*Bakhari*), and conical fish traps (*Taap*).\n* **Modern Adaptation:** Refusing to fade into obscurity, the craft has elegantly adapted to modern aesthetics. Today, artisans weave sophisticated eco-friendly furniture, intricate lampshades, decorative room dividers, and chic baskets.\n\n### Sustainability\nDeeply tied to the rhythm of rural life, this craft represents the ultimate sustainable industry. It provides vital supplementary income to farming communities while utilizing a fast-growing, renewable natural resource.",
+        "hi": "### परिचय\n**बांस और बेंत हस्तशिल्प** बिहार में एक गहराई से उपयोगी और पर्यावरण के अनुकूल कलात्मक परंपरा का निर्माण करते हैं, जिसका तराई-हिमालयी और कोसी बेल्ट (जैसे पश्चिम चंपारण, किशनगंज और पूर्णिया) में बड़े पैमाने पर अभ्यास किया जाता है, जहां उच्च गुणवत्ता वाले हरे बांस बहुतायत में उगते हैं।\n\n### दैनिक जीवन का निर्माण\n* **कृषि उपयोग:** अत्यधिक कुशल कारीगर बांस को छीलकर आवश्यक कृषि उपकरणों में गूंथते हैं। वे छठ पूजा के लिए अपरिहार्य पारंपरिक अनाज फटकने का सूप (*Soop*), जटिल छलनी (*Chalni*), विशाल अनाज भंडारण कंटेनर (*Bakhari*), और शंक्वाकार मछली पकड़ने के जाल (*Taap*) बनाते हैं।\n* **आधुनिक अनुकूलन:** गुमनामी में खोने से इनकार करते हुए, इस शिल्प ने खुद को आधुनिक सौंदर्यशास्त्र के अनुकूल भी ढाला है। आज, कारीगर परिष्कृत पर्यावरण-अनुकूल फर्नीचर, जटिल लैंपशेड, सजावटी रूम डिवाइडर और आकर्षक टोकरियां बुनते हैं।\n\n### स्थिरता\nग्रामीण जीवन की लय से गहराई से जुड़ा यह शिल्प अंतिम टिकाऊ उद्योग का प्रतिनिधित्व करता है। यह तेजी से बढ़ने वाले, नवीकरणीय प्राकृतिक संसाधन का उपयोग करते हुए कृषक समुदायों को महत्वपूर्ण अतिरिक्त आय प्रदान करता है।"
+      }
+    },
+    {
+      "id": "wood-carving-and-lacquerware",
+      "name": {
+        "en": "Patna Wooden Toys & Lacquerware",
+        "hi": "पटना काष्ठ खिलौने एवं लाख शिल्प"
+      },
+      "category": "woodcraft",
+      "districtIds": [
+        "patna",
+        "vaishali"
+      ],
+      "description": {
+        "en": "### Introduction\nCentered around the bustling, historic bazars of Patna and Vaishali, the **Patna Wooden Toys & Lacquerware** craft is a vibrant celebration of color, childhood, and cultural heritage.\n\n### The Artistic Process\n* **Wood Turning:** Artisans employ traditional hand-operated or motorized lathes to meticulously shape blocks of soft, locally sourced wood.\n* **The Lacquer Finish:** As the wood spins on the lathe, sticks of colored natural lacquer (*Lakh*) are pressed against it. The friction melts the lacquer, coating the wood in a brilliantly glossy, seamless, and completely non-toxic layer.\n\n### Iconic Creations\n* **Childhood Wonders:** The craftsmen produce brightly colored, safe wooden toys, spinning tops (*lattu*), and adorable miniature culinary sets (*khelouna*) that have enchanted generations of Bihari children.\n* **Ritual Objects:** Beyond toys, the craft is famous for producing highly auspicious, ceremonial *Sindoor-danis* (vermillion pots) with vibrant red, yellow, and green stripes, which are essential items in traditional Bihari weddings.",
+        "hi": "### परिचय\nपटना और वैशाली के हलचल भरे, ऐतिहासिक बाजारों के आसपास केंद्रित, **पटना काष्ठ खिलौने और लाख शिल्प** रंग, बचपन और सांस्कृतिक विरासत का एक जीवंत उत्सव है।\n\n### कलात्मक प्रक्रिया\n* **लकड़ी तराशना (खराद):** कारीगर स्थानीय रूप से प्राप्त नरम लकड़ी के ब्लॉकों को सावधानीपूर्वक आकार देने के लिए पारंपरिक हाथ से संचालित या मोटर चालित खराद (लेथ) का उपयोग करते हैं।\n* **लाख की पॉलिश:** जैसे ही लकड़ी खराद पर घूमती है, रंगीन प्राकृतिक लाख की छड़ियों को उस पर दबाया जाता है। घर्षण से लाख पिघल जाती है, जो लकड़ी को एक शानदार चमकदार, निर्बाध और पूरी तरह से गैर विषैले परत में कोट करती है।\n\n### प्रतिष्ठित रचनाएँ\n* **बचपन के चमत्कार:** शिल्पकार चमकीले रंग के, सुरक्षित लकड़ी के खिलौने, लट्टू और मनमोहक लघु रसोई सेट (*खिलौना*) बनाते हैं, जिन्होंने बिहारी बच्चों की पीढ़ियों को मंत्रमुग्ध किया है।\n* **अनुष्ठानिक वस्तुएं:** खिलौनों से परे, यह शिल्प अत्यंत शुभ, मांगलिक *सिंदूरदानी* (सिंदूर के बर्तन) बनाने के लिए प्रसिद्ध है, जिसमें जीवंत लाल, पीले और हरे रंग की धारियां होती हैं, जो पारंपरिक बिहारी शादियों में आवश्यक वस्तुएं हैं।"
+      }
+    },
+    {
+      "id": "clay-terracotta-sculpture",
+      "name": {
+        "en": "Terracotta & Earthen Pottery",
+        "hi": "टेराकोटा एवं मृण्मूर्तिकला (मिट्टी शिल्प)"
+      },
+      "category": "ceramic-pottery",
+      "districtIds": [
+        "darbhanga",
+        "siwan",
+        "patna",
+        "madhubani"
+      ],
+      "description": {
+        "en": "### Introduction\n**Terracotta & Earthen Pottery** is arguably the oldest continuously surviving craft in Bihar. It traces an unbroken, awe-inspiring antiquity right back to the Mauryan and Harappan terracotta figurines excavated at the ancient ruins of Kumhrar and Vaishali.\n\n### The Art of Earth\n* **The Clay:** Generations of potters (*Kumhars*) use the rich, alluvial clay deposited by the sacred Ganga and Gandak rivers to shape their creations.\n* **The Wheel and Fire:** Using the traditional potter's wheel and open-air kilns, the soft clay is transformed into enduring terracotta.\n\n### Cultural Creations\nThe creations span from the highly functional to the deeply spiritual:\n* **Ritual Pottery:** Crafting the millions of earthen lamps (*diyas*) that illuminate Diwali, and the sacred clay pots and elephant lamps (*Hathi-Diya*) essential for Chhath Puja.\n* **Folk Deities:** The artisans sculpt expressive, unglazed terracotta horses (*Ghodwa*) and intricate wall panels, traditionally offered to the *Gramdevatas* (village protector deities) in rural Bihar.",
+        "hi": "### परिचय\n**टेराकोटा और मृण्मूर्तिकला (मिट्टी शिल्प)** यकीनन बिहार में सबसे पुराना और लगातार जीवित रहने वाला शिल्प है। यह कुम्हरार और वैशाली के प्राचीन खंडहरों में खुदाई में मिली मौर्य और हड़प्पाकालीन टेराकोटा मूर्तियों तक एक अखंड, विस्मयकारी प्राचीनता का पता लगाता है।\n\n### मिट्टी की कला\n* **मिट्टी:** कुम्हारों की पीढ़ियां अपनी रचनाओं को आकार देने के लिए पवित्र गंगा और गंडक नदियों द्वारा जमा की गई समृद्ध, जलोढ़ मिट्टी का उपयोग करती हैं।\n* **चाक और आग:** पारंपरिक कुम्हार के चाक और खुली हवा के भट्टों का उपयोग करके, नरम मिट्टी को स्थायी टेराकोटा में बदल दिया जाता है।\n\n### सांस्कृतिक रचनाएँ\nरचनाएँ अत्यधिक कार्यात्मक से लेकर गहरे आध्यात्मिक तक फैली हुई हैं:\n* **अनुष्ठानिक बर्तन:** लाखों मिट्टी के दीये बनाना जो दिवाली को रोशन करते हैं, और पवित्र मिट्टी के घड़े और हाथी-दीये जो छठ पूजा के लिए आवश्यक हैं।\n* **लोक देवता:** कारीगर अभिव्यंजक, बिना चमक वाले टेराकोटा के घोड़े (*घोड़वा*) और जटिल दीवार पैनल तराशते हैं, जो पारंपरिक रूप से ग्रामीण बिहार में *ग्रामदेवताओं* (गांव के रक्षक देवताओं) को चढ़ाए जाते हैं।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "data": [
+    {
+      "id": "jat-jatin",
+      "name": {
+        "en": "Jat-Jatin Folk Dance",
+        "hi": "जाट-जतिन लोक नृत्य"
+      },
+      "category": "dramatic-folk-dance",
+      "region": "Mithila & Kosi",
+      "districtIds": [
+        "madhubani",
+        "darbhanga",
+        "sitamarhi",
+        "saharsa",
+        "supaul"
+      ],
+      "description": {
+        "en": "### Introduction\n**Jat-Jatin** is the most iconic dramatic folk dance of the Mithila region. Traditionally performed on moonlit monsoon nights from midnight till dawn, it brings the entire village together to witness a compelling theatrical performance.\n\n### Narrative Themes\nThe dance revolves around pairs of women who take on the roles of 'Jat' (the husband) and 'Jatin' (the wife). It vividly enacts the bittersweet moments of their married life—their playful quarrels, poignant separation, resilience against poverty, and their tender reunion. It acts as a profound commentary on the struggles of rural peasant life, particularly facing drought and economic hardship.\n\n### Cultural Significance\n* **Invoking Rain:** The performance peaks during the monsoon months (Shravana-Bhadrapad). When rain is scarce, this lively dance is traditionally believed to propitiate Lord Indra, the god of rain.\n* **Women's Voice:** It provides a safe, festive space for women to express their social grievances, narrate their sorrows, and find solidarity.",
+        "hi": "### परिचय\n**जाट-जतिन** मिथिला क्षेत्र का सबसे प्रतिष्ठित और लोकप्रिय लोक नृत्य-नाट्य है। पारंपरिक रूप से वर्षा ऋतु की चांदनी रातों में आधी रात से भोर तक प्रस्तुत किए जाने वाले इस नृत्य को देखने पूरा गांव इकट्ठा होता है।\n\n### कथात्मक विषय\nयह नृत्य महिलाओं के जोड़ों के इर्द-गिर्द घूमता है जो 'जाट' (पति) और 'जतिन' (पत्नी) की भूमिका निभाती हैं। यह उनके वैवाहिक जीवन के खट्टे-मीठे पलों का सजीव चित्रण करता है—उनकी चंचल नोक-झोंक, मार्मिक वियोग, गरीबी के खिलाफ लचीलापन, और उनका कोमल पुनर्मिलन। यह विशेष रूप से सूखे और आर्थिक कठिनाई का सामना कर रहे ग्रामीण किसान जीवन के संघर्षों पर एक गहरी टिप्पणी के रूप में कार्य करता है।\n\n### सांस्कृतिक महत्व\n* **बारिश का आह्वान:** सावन-भादो के महीनों में जब बारिश की कमी होती है, तो माना जाता है कि यह जीवंत नृत्य इंद्र देव (वर्षा के देवता) को प्रसन्न करने के लिए किया जाता है।\n* **महिलाओं की आवाज:** यह महिलाओं को अपनी सामाजिक शिकायतों को व्यक्त करने, अपने दुखों को बयां करने और एकजुटता खोजने के लिए एक सुरक्षित, उत्सवपूर्ण स्थान प्रदान करता है।"
+      },
+      "performanceContext": {
+        "en": "Performed during the monsoon months (Shravana-Bhadrapad) when rain is scarce, traditionally believed to propitiate Indra, the god of rain.",
+        "hi": "सावन-भादो में वर्षा न होने पर अच्छी बारिश की कामना और इंद्र देव को प्रसन्न करने के विश्वास के साथ प्रस्तुत किया जाता है।"
+      },
+      "participants": "Exclusively performed by women",
+      "instruments": [
+        "Dholak",
+        "Kartaal"
+      ]
+    },
+    {
+      "id": "jhijhiya",
+      "name": {
+        "en": "Jhijhiya Devotional Dance",
+        "hi": "झिझिया भक्ति नृत्य"
+      },
+      "category": "devotional-ritual-dance",
+      "region": "Mithila",
+      "districtIds": [
+        "madhubani",
+        "darbhanga",
+        "muzaffarpur",
+        "samastipur"
+      ],
+      "description": {
+        "en": "### Introduction\n**Jhijhiya** is a deeply sacred, ritualistic dance performed predominantly in the Mithila region during the Ashwin Navratri festival. It is a mesmerizing display of devotion, balancing, and spiritual invocation.\n\n### The Ritual Performance\n* **The Illuminated Pitcher:** Women balance earthen pitchers (ghadas) perforated with dozens of holes on their heads. Inside these pitchers burn oil lamps, casting dancing shadows in the night.\n* **Chants and Circles:** Moving gracefully in synchronized circular patterns, the dancers continuously chant folk songs dedicated to Goddess Durga, invoking her divine protection.\n\n### Myth and Belief\nThe dance is fiercely protective. According to local folklore, if an evil spirit or a witch succeeds in counting all the illuminated holes of the moving pitcher, disaster will strike the dancer or the village. To prevent this, the dancers move rapidly and employ complex rhythmic steps to disorient malevolent forces.",
+        "hi": "### परिचय\n**झिझिया** एक अत्यंत पवित्र और अनुष्ठानिक नृत्य है जो मुख्य रूप से मिथिला क्षेत्र में आश्विन नवरात्रि उत्सव के दौरान किया जाता है। यह भक्ति, संतुलन और आध्यात्मिक आह्वान का एक मंत्रमुग्ध कर देने वाला प्रदर्शन है।\n\n### अनुष्ठानिक प्रदर्शन\n* **रोशन घड़ा:** महिलाएं अपने सिर पर दर्जनों छिद्रों वाले मिट्टी के घड़े को संतुलित करती हैं। इन घड़ों के अंदर जलते हुए दीपक रखे होते हैं, जो रात में नाचती हुई परछाइयां उकेरते हैं।\n* **मंत्र और घेरे:** लयबद्ध और वृत्ताकार स्वरूप में सुंदर ढंग से घूमते हुए, नर्तकियां देवी दुर्गा को समर्पित लोक गीतों का निरंतर गान करती हैं और उनकी दिव्य सुरक्षा का आह्वान करती हैं।\n\n### मिथक और मान्यता\nयह नृत्य अत्यधिक सुरक्षात्मक माना जाता है। स्थानीय लोककथाओं के अनुसार, यदि कोई दुष्ट आत्मा या डायन चलते हुए घड़े के सभी रोशन छिद्रों को गिनने में सफल हो जाती है, तो नर्तकी या गांव पर विपत्ति आ जाएगी। इसे रोकने के लिए, नर्तकियां तेजी से घूमती हैं और बुरी शक्तियों को भ्रमित करने के लिए जटिल ताल और कदमों का उपयोग करती हैं।"
+      },
+      "ritualSignificance": {
+        "en": "It is believed that if a witch succeeds in counting all the holes in the illuminated pot while the dance is ongoing, danger will fall on the performer; hence dancers move rapidly in intricate patterns.",
+        "hi": "लोक मान्यता है कि नृत्य के दौरान जलते घड़े के छिद्रों को यदि कोई तांत्रिक गिन ले तो अनिष्ट हो सकता है, इसलिए नर्तकियां तीव्र गति और जटिल ताल में थिरकती हैं।"
+      },
+      "instruments": [
+        "Dholak",
+        "Jhanjh",
+        "Harmonium"
+      ]
+    },
+    {
+      "id": "bidesia",
+      "name": {
+        "en": "Bidesia Folk Theatre & Dance",
+        "hi": "बिदेसिया लोक नाट्य एवं नृत्य"
+      },
+      "category": "theatrical-folk-dance",
+      "region": "Bhojpur",
+      "districtIds": [
+        "bhojpur",
+        "saran",
+        "siwan",
+        "gopalganj",
+        "buxar"
+      ],
+      "description": {
+        "en": "### Introduction\n**Bidesia** is not just a dance; it is the cultural anthem of rural western Bihar. Created by the legendary folk playwright and poet Bhikhari Thakur (often hailed as the 'Shakespeare of Bhojpuri'), Bidesia is a powerful theatrical folk dance that emerged in the early 20th century.\n\n### Social Commentary\n* **The Pain of Migration:** Set against the backdrop of heavy indentured and industrial migration to Kolkata and overseas colonies, the drama vividly depicts the harrowing realities of men leaving their homeland for work.\n* **The Left-Behind:** It gives voice to the profound agony (*viraha*) of rural women left behind to manage households, face poverty, and ward off social predators.\n\n### Artistic Form\nCombining rustic Bhojpuri dialects, soul-stirring songs, and dramatic acting, Bidesia remains profoundly relevant, reflecting the continuing narrative of economic migration and the resilience of the Bihari spirit.",
+        "hi": "### परिचय\n**बिदेसिया** केवल एक नृत्य नहीं है; यह ग्रामीण पश्चिमी बिहार का सांस्कृतिक गान है। भोजपुरी के शेक्सपियर कहे जाने वाले महान लोक नाटककार और कवि भिखारी ठाकुर द्वारा रचित बिदेसिया, 20वीं सदी की शुरुआत में उभरा एक शक्तिशाली नाट्य लोक नृत्य है।\n\n### सामाजिक टिप्पणी\n* **पलायन का दर्द:** कोलकाता और विदेशी उपनिवेशों में भारी गिरमिटिया और औद्योगिक पलायन की पृष्ठभूमि पर आधारित, यह नाटक रोजी-रोटी के लिए अपनी मातृभूमि छोड़ने वाले पुरुषों की दर्दनाक वास्तविकताओं को सजीव रूप से दर्शाता है।\n* **पीछे छूट गई स्त्रियां:** यह उन ग्रामीण महिलाओं की गहरी पीड़ा (विरह) को आवाज देता है, जिन्हें घर चलाने, गरीबी का सामना करने और सामाजिक विसंगतियों से लड़ने के लिए गांव में छोड़ दिया गया था।\n\n### कलात्मक रूप\nठेठ भोजपुरी बोली, दिल को छू लेने वाले गीतों और नाटकीय अभिनय का संयोजन, बिदेसिया आज भी गहराई से प्रासंगिक है, जो आर्थिक पलायन की निरंतर कहानी और बिहारी भावना के लचीलेपन को दर्शाता है।"
+      },
+      "historicalContext": {
+        "en": "Emerged in the early 20th century during heavy indentured and industrial migration from western Bihar to Kolkata and overseas colonies.",
+        "hi": "20वीं सदी की शुरुआत में पश्चिमी बिहार से कोलकाता और विदेशों में गिरमिटिया/मजदूर पलायन की पृष्ठभूमि में इस नाटक का उदय हुआ।"
+      },
+      "keyFigure": "Bhikhari Thakur (1887-1971)"
+    },
+    {
+      "id": "domkach",
+      "name": {
+        "en": "Domkach Intimate Wedding Dance",
+        "hi": "डोमकच विवाह लोक नृत्य"
+      },
+      "category": "satirical-ceremonial-dance",
+      "region": "Statewide (Mithila, Magadh, Bhojpur)",
+      "districtIds": [
+        "patna",
+        "darbhanga",
+        "gaya",
+        "bhojpur",
+        "muzaffarpur"
+      ],
+      "description": {
+        "en": "### Introduction\n**Domkach** is a highly unique, uproarious, and deeply private nocturnal folk dance performed during wedding ceremonies across Bihar. \n\n### The Setting\nThe dance takes place in the bridegroom’s house exclusively after the men have departed with the *Barat* (wedding procession) to the bride's village. Left behind to guard the house, the women gather in closed courtyards to entertain themselves throughout the night.\n\n### The Performance\n* **Role Reversal and Parody:** Women dress up as men and enact satirical plays. They heavily mimic and parody their in-laws, husbands, and traditional patriarchal gender roles with sharp wit and uninhibited humor.\n* **Security through Art:** Beyond entertainment, the loud, rhythmic beating of brass plates (*thalis*) and dholaks serves a practical purpose—it keeps everyone awake and vigilant, protecting the unguarded house from thieves.",
+        "hi": "### परिचय\n**डोमकच** बिहार भर में विवाह समारोहों के दौरान किया जाने वाला एक अत्यधिक अनूठा, हास्यपूर्ण और पूरी तरह से निजी रात्रिकालीन लोक नृत्य है।\n\n### पृष्ठभूमि\nयह नृत्य दूल्हे के घर पर विशेष रूप से तब होता है जब पुरुष बारात के साथ दुल्हन के गांव के लिए प्रस्थान कर जाते हैं। घर की रखवाली के लिए पीछे छूट गई महिलाएं पूरी रात अपना मनोरंजन करने के लिए बंद आंगनों में इकट्ठा होती हैं।\n\n### प्रदर्शन\n* **भूमिका उलटना और प्रहसन:** महिलाएं पुरुषों की वेशभूषा धारण करती हैं और व्यंग्यात्मक नाटक करती हैं। वे अपने ससुराल वालों, पतियों और पारंपरिक पितृसत्तात्मक लिंग भूमिकाओं की नकल और पैरोडी अपनी तीखी बुद्धि और बेलगाम हास्य के साथ करती हैं।\n* **कला के माध्यम से सुरक्षा:** मनोरंजन से परे, पीतल की थालियों और ढोलक की तेज, लयबद्ध थाप एक व्यावहारिक उद्देश्य पूरा करती है—यह सभी को जगाए रखती है और सतर्क रखती है, जिससे असुरक्षित घर की चोरों से रक्षा होती है।"
+      },
+      "nature": "Exclusively nocturnal and performed behind closed domestic courtyards away from male gaze.",
+      "instruments": [
+        "Dholak",
+        "Thali (brass plate beaten rhythmically)"
+      ]
+    },
+    {
+      "id": "kajari-dance",
+      "name": {
+        "en": "Kajari Dance",
+        "hi": "कजरी लोक नृत्य"
+      },
+      "category": "seasonal-folk-dance",
+      "region": "Bhojpur & Magadh",
+      "districtIds": [
+        "bhojpur",
+        "buxar",
+        "rohtas",
+        "kaimur"
+      ],
+      "description": {
+        "en": "### Introduction\nThe **Kajari Dance** is a lyrical and graceful seasonal folk dance that heralds the arrival of the life-giving monsoon rains. It is deeply connected to Kajari singing, a prominent semi-classical music style of western Bihar.\n\n### Rhythm of the Rain\n* **Joy of Nature:** Performed predominantly by women in lush courtyards and on swings tied to ancient trees, the dance embodies the sheer relief and joy that follows the scorching summer.\n* **Graceful Movements:** The dancers elegantly mimic the swaying of blooming peacocks, the swooping flight of monsoon birds, and the gentle rustling of fresh crops responding to the rain.\n\n### Atmosphere\nThe soft, swaying rhythms of the dance, accompanied by the soulful strains of Kajari songs, evoke a deeply nostalgic and romantic atmosphere that celebrates fertility and rejuvenation.",
+        "hi": "### परिचय\n**कजरी नृत्य** एक गीतात्मक और सुंदर मौसमी लोक नृत्य है जो जीवनदायिनी मानसूनी बारिश के आगमन की घोषणा करता है। यह कजरी गायन से गहराई से जुड़ा हुआ है, जो पश्चिमी बिहार की एक प्रमुख उप-शास्त्रीय संगीत शैली है।\n\n### बारिश की लय\n* **प्रकृति का आनंद:** मुख्य रूप से महिलाओं द्वारा हरे-भरे आंगनों में और पुराने पेड़ों से बंधे झूलों पर किया जाने वाला यह नृत्य चिलचिलाती गर्मी के बाद मिलने वाली राहत और खुशी का प्रतीक है।\n* **सुंदर गतिविधियां:** नर्तकियां खूबसूरती से नाचते हुए मोरों, मानसूनी पक्षियों की उड़ान, और बारिश से झूमती ताजी फसलों की कोमल सरसराहट की नकल करती हैं।\n\n### माहौल\nनृत्य की कोमल, झूमती लय, कजरी गीतों की मनमोहक धुनों के साथ मिलकर, एक गहरी पुरानी और रोमांटिक भावना पैदा करती है जो उर्वरता और कायाकल्प का जश्न मनाती है।"
+      },
+      "season": "Shravana (Monsoon)"
+    },
+    {
+      "id": "paika-dance",
+      "name": {
+        "en": "Paika Martial Dance",
+        "hi": "पाइका युद्ध लोक नृत्य"
+      },
+      "category": "martial-folk-dance",
+      "region": "Southern & South-Western Bihar",
+      "districtIds": [
+        "rohtas",
+        "kaimur",
+        "aurangabad",
+        "jamui"
+      ],
+      "description": {
+        "en": "### Introduction\n**Paika** is a high-energy, electrifying martial dance that preserves the ancient combat traditions of southern and south-western Bihar. Historically, it was performed by the *Paiks* (infantry warriors or foot soldiers) to maintain peak physical fitness and instill combat readiness.\n\n### Martial Artistry\n* **Warrior Attire:** Dancers don colorful traditional headgear, tight dhotis, and heavy ankle bells, arming themselves with gleaming swords and sturdy wooden shields.\n* **Acrobatic Duels:** The performance is a breathtaking display of agility and strength, featuring rapid acrobatics, mock sword duels, and intricate spear-handling drills.\n\n### The Rhythm of War\nAccompanied by the thunderous, adrenaline-pumping beats of the *Dhak* and *Nagada* (war drums), punctuated by the sharp wail of the *Shehnai*, Paika is not just a dance—it is a glorious tribute to the valor and martial heritage of Bihar.",
+        "hi": "### परिचय\n**पाइका** एक अत्यधिक ऊर्जावान और रोमांचक युद्ध नृत्य है जो दक्षिणी और दक्षिण-पश्चिमी बिहार की प्राचीन युद्ध परंपराओं को संरक्षित करता है। ऐतिहासिक रूप से, यह 'पाइक' (पैदल सैनिकों) द्वारा चरम शारीरिक फिटनेस बनाए रखने और युद्ध की तत्परता पैदा करने के लिए किया जाता था।\n\n### मार्शल कला\n* **योद्धा वेशभूषा:** नर्तक रंगीन पारंपरिक साफा, कसी हुई धोती और भारी घुंघरू पहनते हैं, और खुद को चमचमाती तलवारों और मजबूत लकड़ी की ढालों से लैस करते हैं।\n* **करतब और द्वंद्वयुद्ध:** यह प्रदर्शन चपलता और ताकत का एक लुभावनी छटा प्रस्तुत करता है, जिसमें तेज करतब, नकली तलवारबाजी और भाला चलाने के जटिल अभ्यास शामिल होते हैं।\n\n### युद्ध की लय\n'ढाक' और 'नगाड़ा' (युद्ध के ढोल) की गगनभेदी और उत्साह बढ़ाने वाली थाप के साथ, और बीच-बीच में 'शहनाई' की तीखी आवाज के साथ, पाइका केवल एक नृत्य नहीं है—यह बिहार की वीरता और मार्शल विरासत को एक शानदार श्रद्धांजलि है।"
+      },
+      "instruments": [
+        "Dhak",
+        "Nagada",
+        "Shehnai",
+        "Bansi"
+      ]
+    },
+    {
+      "id": "karma-dance",
+      "name": {
+        "en": "Karma Folk Dance",
+        "hi": "करमा लोक नृत्य"
+      },
+      "category": "pastoral-tribal-dance",
+      "region": "Chotanagpur Border / Southern Plateau",
+      "districtIds": [
+        "kaimur",
+        "rohtas",
+        "jamui",
+        "banka"
+      ],
+      "description": {
+        "en": "### Introduction\nThe **Karma Folk Dance** is a deeply spiritual and vibrant pastoral-tribal dance celebrated along the Chotanagpur borders and southern plateaus of Bihar. It is the centerpiece of the Karma festival, held on *Bhadrapad Ekadashi*.\n\n### The Sacred Karam Tree\n* **Nature Worship:** At the heart of the festival is a freshly cut, sanctified branch of the Karam tree (*Nauclea parvifolia*), which is ceremoniously planted in the village square (*akhra*).\n* **Community Bonding:** Young men and women link their arms to form a massive, human chain around the sacred branch, swaying in perfect harmony to the beats of the *Mandar* and *Dholak*.\n\n### Symbolism\nThe dance is a powerful invocation of nature's benevolence. It celebrates the dignity of hard labor (*karma*), prays for prosperous harvests, and seeks the blessings of Karam Devta for the fertility of the land and the longevity of the community.",
+        "hi": "### परिचय\n**करमा लोक नृत्य** एक गहरा आध्यात्मिक और जीवंत चरवाहा-जनजातीय नृत्य है जिसे बिहार के छोटानागपुर सीमा और दक्षिणी पठारों में मनाया जाता है। यह 'भाद्रपद एकादशी' को आयोजित होने वाले करमा उत्सव का मुख्य आकर्षण है।\n\n### पवित्र करम वृक्ष\n* **प्रकृति पूजा:** इस उत्सव के केंद्र में करम वृक्ष (नौक्लिया पारविफोलिया) की एक ताजी कटी हुई, पवित्र शाखा होती है, जिसे पूरे सम्मान के साथ गांव के चौक (अखरा) में स्थापित किया जाता है।\n* **सामुदायिक जुड़ाव:** युवक-युवतियां एक-दूसरे के हाथ पकड़कर पवित्र शाखा के चारों ओर एक विशाल मानव श्रृंखला बनाते हैं, और 'मांदर' तथा 'ढोलक' की थाप पर पूर्ण सामंजस्य के साथ झूमते हैं।\n\n### प्रतीकवाद\nयह नृत्य प्रकृति की कृपा का एक शक्तिशाली आह्वान है। यह कठिन श्रम (कर्म) की गरिमा का जश्न मनाता है, समृद्ध फसल के लिए प्रार्थना करता है, और भूमि की उर्वरता और समुदाय की दीर्घायु के लिए करम देवता का आशीर्वाद मांगता है।"
+      },
+      "instruments": [
+        "Mandar",
+        "Dholak",
+        "Kartaal"
+      ]
+    },
+    {
+      "id": "fagua-dance",
+      "name": {
+        "en": "Fagua (Holi) Folk Dance",
+        "hi": "फगुआ (होली) लोक नृत्य"
+      },
+      "category": "festive-community-dance",
+      "region": "Statewide",
+      "districtIds": [
+        "patna",
+        "bhojpur",
+        "gaya",
+        "darbhanga",
+        "saran"
+      ],
+      "description": {
+        "en": "### Introduction\nThe **Fagua Dance** is the ultimate expression of unbridled joy and community brotherhood in Bihar, performed exclusively during the riotous festival of colors, Holi (Phalgun).\n\n### Celebratory Madness\n* **Spontaneous Energy:** As winter fully recedes and the spring harvest comes in, village folks gather in open spaces, smearing each other with vibrant *abir* and *gulal* (colored powders).\n* **Thunderous Rhythms:** The dance is fueled by the incredibly loud, rhythmic clashing of heavy bronze cymbals (*jhanjh*) and the pulsating, fast-paced rhythms of the *dholak* and *mridang*.\n\n### Cultural Fabric\nFagua breaks down all social hierarchies. It is a time when the entire village forms celebratory circles, dancing spontaneously, chanting humorous and devotional Holi songs, and embracing the joyous chaos of life.",
+        "hi": "### परिचय\n**फगुआ नृत्य** बिहार में बेलगाम खुशी और सामुदायिक भाईचारे की अंतिम अभिव्यक्ति है, जिसे विशेष रूप से रंगों के दंगापूर्ण त्योहार, होली (फाल्गुन) के दौरान किया जाता है।\n\n### उत्सव का उल्लास\n* **सहज ऊर्जा:** जैसे ही सर्दी पूरी तरह खत्म हो जाती है और वसंत की फसल आ जाती है, गांव के लोग खुली जगहों पर इकट्ठा होते हैं, और एक-दूसरे को जीवंत 'अबीर' और 'गुलाल' (रंगीन पाउडर) लगाते हैं।\n* **गगनभेदी लय:** यह नृत्य भारी पीतल की झांझ की अविश्वसनीय रूप से तेज, लयबद्ध टकराहट और 'ढोलक' व 'मृदंग' की तेज गति वाली लय से प्रेरित होता है।\n\n### सांस्कृतिक ताना-बाना\nफगुआ सभी सामाजिक पदानुक्रमों को तोड़ देता है। यह वह समय होता है जब पूरा गांव उत्सव के घेरे बनाता है, सहज रूप से नृत्य करता है, हास्यपूर्ण और भक्तिपूर्ण होली गीतों का गान करता है, और जीवन की खुशी और मस्ती को गले लगाता है।"
+      },
+      "instruments": [
+        "Dholak",
+        "Jhanjh",
+        "Mridang"
+      ]
+    }
+  ]
+}

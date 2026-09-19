@@ -1,0 +1,691 @@
+[
+  {
+    "id": "kishanganj-tea-gardens",
+    "slug": "kishanganj-tea-gardens",
+    "name": {
+      "en": "Kishanganj Tea Gardens",
+      "hi": "किशनगंज चाय बागान"
+    },
+    "districtId": "kishanganj",
+    "placeType": "natural_attraction",
+    "primaryCategory": "natural",
+    "categories": [
+      "natural",
+      "eco_tourism",
+      "agriculture",
+      "scenic"
+    ],
+    "tags": [
+      "featured",
+      "mustVisit",
+      "ecoTourism",
+      "photography"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "Bihar's only commercial tea-producing region, featuring sprawling emerald plantations, agro-tourism, and tranquil foothill landscapes.",
+      "hi": "बिहार का एकमात्र वाणिज्यिक चाय उत्पादक क्षेत्र, जिसमें फैले हुए हरे-भरे बागान, कृषि-पर्यटन और शांत तराई परिदृश्य शामिल हैं।"
+    },
+    "description": {
+      "en": "The **Kishanganj Tea Gardens** represent one of the most distinctive and surprising geographic landscapes in the entire state of Bihar, serving as the state's sole commercial tea-cultivating hub. Nestled across the fertile plains of the **Pothia**, **Thakurganj**, **Dighalbank**, and **Belwa** blocks near the border of North Bengal and Nepal, these lush plantations stretch across thousands of hectares of verdant greenery.\n\nKey features of the Kishanganj tea region include:\n- **Lush Emerald Plantations**: Beautifully contoured rows of manicured Camellia sinensis bushes that offer a striking contrast to Bihar's conventional agrarian plains.\n- **Agri-Tourism Experiences**: Guided estate strolls allowing visitors to observe tea-pluckers nimbly harvesting 'two leaves and a bud' in traditional wicker baskets.\n- **Modern Processing Units**: State-of-the-art tea factories where fresh green leaves undergo withering, rolling, fermentation, and CTC processing, filling the air with an invigorating herbal aroma.\n\nThe breathtaking scenery, cool morning mists, and unique agro-climatic environment make the tea gardens a magnificent destination for ecotourists, nature enthusiasts, and photographers exploring Bihar's eastern frontier.",
+      "hi": "**किशनगंज चाय बागान** पूरे बिहार राज्य में सबसे विशिष्ट और सुरम्य भौगोलिक परिदृश्यों में से एक का प्रतिनिधित्व करते हैं, जो राज्य के एकमात्र वाणिज्यिक चाय उत्पादक केंद्र के रूप में प्रसिद्ध हैं। उत्तरी बंगाल और नेपाल की सीमा के समीप **पोठिया**, **ठाकुरगंज**, **दिघलबैंक** और **बेलवा** ब्लॉकों के उपजाऊ मैदानी इलाकों में फैले ये हरे-भरे बागान हजारों हेक्टेयर में फैली प्राकृतिक सुंदरता प्रदान करते हैं।\n\nकिशनगंज चाय क्षेत्र की प्रमुख विशेषताएं:\n- **मनोरम हरित विस्तार**: सुव्यवस्थित रूप से तराशी गई चाय की झाड़ियों (कैमेलिया सिनेंसिस) की सुंदर क्यारियां, जो बिहार के पारंपरिक मैदानी परिदृश्य से बिल्कुल अलग एक सुखद दृश्य प्रस्तुत करती हैं।\n- **कृषि-पर्यटन का अनूठा अनुभव**: बागानों में निर्देशित भ्रमण जहां पर्यटक पारंपरिक बांस की टोकरियों में 'दो पत्तियां और एक कली' चुनते हुए कुशल श्रमिकों को देख सकते हैं।\n- **आधुनिक प्रसंस्करण इकाइयां**: अत्याधुनिक चाय कारखाने जहां ताजी हरी पत्तियों को सुखाने, रोलिंग, किण्वन और सीटीसी प्रसंस्करण की प्रक्रिया से गुजारा जाता है, जिससे वातावरण में ताजी चाय की सुगंध भर जाती है।\n\nसुबह का सुहाना कोहरा, सुखद जलवायु और अद्वितीय कृषि-पारिस्थितिकी इन चाय बागानों को बिहार के पूर्वी छोर पर पर्यावरण-प्रेमियों, प्रकृति-उपासकों और फोटोग्राफरों के लिए एक अनिवार्य दर्शनीय स्थल बनाती है।"
+    },
+    "history": {
+      "en": "The cultivation of tea in **Kishanganj** is a fascinating modern agricultural triumph that began in the late 1980s and gained commercial momentum in the early 1990s. Historically, Kishanganj was predominantly known for the cultivation of paddy and jute. However, visionary local entrepreneurs and agronomists observed that the district shared contiguous geographic, geological, and climatic attributes with the world-famous tea-growing **Terai and Dooars** tracts of neighboring Jalpaiguri and Darjeeling districts in West Bengal.\n\nKey historical milestones include:\n- **Pioneering Estates**: The founding of the **Rajbari Tea Estate** in the 1990s catalyzed commercial planting across vast tracts of acidic, well-drained alluvium soil.\n- **Socio-Economic Renaissance**: The transition from traditional subsistence farming to commercial plantation agriculture generated year-round employment, transforming the livelihoods of thousands of indigenous families, particularly empowering local women as specialized tea pluckers.\n- **Expansion and Recognition**: Government encouragement and private investments enabled local factories to produce high-grade CTC black tea and green tea, officially cementing Kishanganj's reputation as the **'Tea City of Bihar'**.\n\nToday, the region's tea industry continues to flourish, standing as a proud testament to innovation in Indian agriculture.",
+      "hi": "**किशनगंज** में चाय की खेती एक उल्लेखनीय आधुनिक कृषि क्रांति की गाथा है, जिसकी शुरुआत 1980 के दशक के उत्तरार्ध में हुई और 1990 के दशक के आरंभ में इसे व्यापक वाणिज्यिक सफलता मिली। ऐतिहासिक रूप से, किशनगंज मुख्य रूप से धान और जूट की खेती के लिए जाना जाता था। हालांकि, दूरदर्शी स्थानीय कृषि विशेषज्ञों और उद्यमियों ने अनुभव किया कि इस जिले की मिट्टी, उच्च मानसूनी वर्षा और आर्द्र उपोष्णकटिबंधीय जलवायु पश्चिम बंगाल के पड़ोसी जलपाईगुड़ी और दार्जिलिंग जिलों के विश्व प्रसिद्ध **तराई और डुआर्स** चाय क्षेत्रों के बिल्कुल समान है।\n\nप्रमुख ऐतिहासिक मील के पत्थर:\n- **प्रारंभिक बागान स्थापना**: 1990 के दशक में **राजबाड़ी चाय एस्टेट** की स्थापना ने इस क्षेत्र की अम्लीय और उत्तम जल निकासी वाली जलोढ़ मिट्टी पर बड़े पैमाने पर चाय रोपण को प्रेरित किया।\n- **सामाजिक-आर्थिक बदलाव**: पारंपरिक खेती से बागान कृषि की ओर बदलाव ने हजारों ग्रामीण परिवारों को स्थायी रोजगार दिया, विशेष रूप से कुशल चाय बीनने वालों के रूप में स्थानीय महिलाओं को आर्थिक रूप से सशक्त बनाया।\n- **विस्तार और राज्य स्तरीय पहचान**: सरकारी प्रोत्साहन और निजी निवेश के फलस्वरूप स्थानीय कारखानों ने उच्च गुणवत्ता वाली सीटीसी ब्लैक टी और ग्रीन टी का उत्पादन शुरू किया, जिससे किशनगंज को **'बिहार की चाय राजधानी'** के रूप में आधिकारिक पहचान मिली।\n\nआज, यह फलता-फूलता चाय उद्योग भारतीय कृषि में अभिनव प्रयोग और आर्थिक आत्मनिर्भरता का एक उत्कृष्ट प्रतीक है।"
+    },
+    "significance": {
+      "en": "The significance of the **Kishanganj Tea Gardens** lies in their unique status as Bihar's sole tea belt, serving as both an economic powerhouse and an exceptional agro-tourism attraction.\n\nKey dimensions of its significance include:\n- **Unique Geographic Distinction**: As the only district in Bihar cultivating tea commercially, Kishanganj challenges the conventional perception of Gangetic agriculture, bringing Himalayan foothill aesthetic charm directly into the state.\n- **Agri-Tourism & Rural Economy**: Tea tourism allows travelers to connect deeply with sustainable farming practices, observe authentic leaf-to-cup processing cycles, and support rural artisan-growers.\n- **Photographic & Ecotourism Value**: The endless undulating carpets of greenery, bordered by shade trees, exotic birdlife, and distant vistas of the sub-Himalayan ranges, create an extraordinary sanctuary for photographers and nature enthusiasts.\n- **Industrial & Commercial Importance**: Modern processing factories across Pothia and Thakurganj contribute vital revenues to Bihar's agricultural commerce while supplying premium-grade tea to domestic auctions across Kolkata and Siliguri.",
+      "hi": "**किशनगंज चाय बागानों** का महत्व बिहार के एकमात्र चाय क्षेत्र के रूप में उनकी अद्वितीय स्थिति में निहित है, जो एक सशक्त आर्थिक आधार और एक असाधारण कृषि-पर्यटन स्थल दोनों के रूप में कार्य करते हैं।\n\nमहत्व के प्रमुख पहलू:\n- **अद्वितीय भौगोलिक गौरव**: व्यावसायिक रूप से चाय का उत्पादन करने वाला बिहार का एकमात्र जिला होने के नाते, किशनगंज पारंपरिक गंगा के मैदानी कृषि ढांचे को तोड़ते हुए राज्य में उप-हिमालयी तराई की प्राकृतिक सुंदरता लाता है।\n- **कृषि-पर्यटन एवं ग्रामीण अर्थव्यवस्था**: चाय पर्यटन यात्रियों को टिकाऊ कृषि पद्धतियों से जुड़ने, ताजी पत्तियों से कप तक की संपूर्ण प्रसंस्करण यात्रा देखने और स्थानीय ग्रामीण उत्पादकों का समर्थन करने का सुनहरा अवसर प्रदान करता है।\n- **फोटोग्राफी एवं पर्यावरण-पर्यटन**: छायादार वृक्षों, प्रवासी पक्षियों और दूर स्थित हिमालयी तलहटी के मनोरम दृश्यों से घिरी हरी-भरी क्यारियां फोटोग्राफरों और प्रकृति प्रेमियों के लिए एक अद्भुत स्वर्ग का निर्माण करती हैं।\n- **औद्योगिक एवं वाणिज्यिक योगदान**: पोठिया और ठाकुरगंज में स्थित आधुनिक चाय कारखाने बिहार के कृषि व्यापार में मूल्यवान योगदान देते हैं तथा कोलकाता और सिलीगुड़ी के राष्ट्रीय नीलामी केंद्रों में उच्च गुणवत्ता वाली चाय की आपूर्ति करते हैं।"
+    },
+    "location": {
+      "address": {
+        "en": "Kishanganj Tea Estates and Agro-Tourism Belt, situated primarily across the administrative blocks of Pothia and Thakurganj (encompassing major plantations such as the Rajbari Tea Estate, Belwa Gardens, and Dighalbank Agro-Estates), situated along and off National Highway 27 (formerly NH-31), Kishanganj District, Bihar 855107, India. The sprawling tea plantations are located approximately 15 to 35 kilometers northeast of Kishanganj district headquarters. The estates span the borderlands near the Mahananda and Mechi river basins, neighboring the North Dinajpur and Darjeeling districts of West Bengal to the east and the international border of Nepal to the north, offering smooth vehicular accessibility from Kishanganj Railway Junction and Bagdogra International Airport.",
+        "hi": "किशनगंज चाय एस्टेट एवं कृषि-पर्यटन कॉरिडोर, मुख्य रूप से पोठिया एवं ठाकुरगंज प्रशासनिक प्रखंडों में स्थित (जिसमें राजबाड़ी टी एस्टेट, बेलवा चाय बागान एवं दिघलबैंक कृषि संपदाएं शामिल हैं), राष्ट्रीय राजमार्ग 27 (पूर्व में एनएच-31) के किनारे एवं उससे जुड़े मार्गों पर, किशनगंज जिला, बिहार 855107, भारत। ये विस्तृत चाय बागान किशनगंज जिला मुख्यालय से लगभग 15 से 35 किलोमीटर उत्तर-पूर्व में स्थित हैं। यह बागान क्षेत्र महानंदा और मेची नदी घाटियों के उपजाऊ कछार में फैला हुआ है, जिसके पूर्व में पश्चिम बंगाल के उत्तर दिनाजपुर एवं दार्जिलिंग जिले तथा उत्तर में नेपाल की अंतरराष्ट्रीय सीमा लगती है। यह संपूर्ण क्षेत्र किशनगंज रेलवे जंक्शन और सिलीगुड़ी-बागडोगरा हवाई अड्डे से सुव्यवस्थित पक्की सड़कों द्वारा आसानी से सुलभ है।"
+      },
+      "latitude": 26.2415,
+      "longitude": 88.1925,
+      "mapQuery": "Kishanganj Tea Gardens, Pothia, Kishanganj, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "days": {
+            "en": "Monday to Sunday",
+            "hi": "सोमवार से रविवार"
+          },
+          "open": "07:00",
+          "close": "17:30"
+        }
+      ],
+      "entryFee": {
+        "standard": 0,
+        "currency": "INR",
+        "isFree": true,
+        "description": {
+          "en": "Free entry to exterior plantation trails; nominal fees may apply for guided tea factory tours.",
+          "hi": "बागानों के बाहरी रास्तों पर निःशुल्क प्रवेश; निर्देशित चाय कारखाने के दौरे के लिए मामूली शुल्क लागू हो सकता है।"
+        }
+      },
+      "recommendedDurationMinutes": 120,
+      "bestTimeToVisit": {
+        "en": "October to March",
+        "hi": "अक्टूबर से मार्च"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Well-connected via National Highway 27 (East-West Corridor) and State Highway 98. Regular private cabs, auto-rickshaws, and state roadways buses link Kishanganj city with Pothia (18 km) and Thakurganj (42 km).",
+        "hi": "राष्ट्रीय राजमार्ग 27 (ईस्ट-वेस्ट कॉरिडोर) और राज्य राजमार्ग 98 के माध्यम से सुगम कनेक्टिविटी। नियमित निजी टैक्सी, ऑटो-रिक्शा और बसें किशनगंज शहर को पोठिया (18 किमी) और ठाकुरगंज (42 किमी) से जोड़ती हैं।"
+      },
+      "railway": [
+        {
+          "name": {
+            "en": "Kishanganj Railway Junction (KNE)",
+            "hi": "किशनगंज रेलवे जंक्शन (KNE)"
+          },
+          "distanceKm": 18
+        },
+        {
+          "name": {
+            "en": "Thakurganj Railway Station (TKG)",
+            "hi": "ठाकुरगंज रेलवे स्टेशन (TKG)"
+          },
+          "distanceKm": 12
+        }
+      ],
+      "airport": [
+        {
+          "name": {
+            "en": "Bagdogra International Airport, Siliguri (IXB)",
+            "hi": "बागडोगरा अंतरराष्ट्रीय हवाई अड्डा, सिलीगुड़ी (IXB)"
+          },
+          "distanceKm": 75
+        }
+      ],
+      "localTransport": {
+        "en": "Local auto-rickshaws, e-rickshaws, and hired jeeps are readily accessible along the highways and township market centers.",
+        "hi": "स्थानीय ऑटो-रिक्शा, ई-रिक्शा और किराए की जीपें राजमार्गों तथा कस्बाई बाजारों में आसानी से उपलब्ध हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": 0,
+      "localTransport": 300
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": true,
+      "atm": true,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 800,
+      "stairs": false,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "When planning a tour of the Kishanganj Tea Gardens, timing your visit between October and March provides the most pleasant weather, characterized by refreshing morning breezes, comfortable sunshine, and crystal-clear skies. It is highly recommended to explore the gardens in the early morning hours between 7:00 AM and 10:30 AM or during the golden hour before sunset, when the lighting across the rolling emerald rows is magical for photography and workers can be seen harvesting fresh tea leaves. Always request prior permission from estate management or tea factory supervisors before entering industrial processing facilities to observe the CTC withering, crushing, and drying procedures. Wear sturdy, comfortable walking shoes or boots suitable for traversing damp earthen trails and grassy plantation bunds. Carrying sun protection, drinking water, and insect repellent is advisable. Don't miss the opportunity to purchase freshly packaged artisanal CTC black tea and orthodox green tea directly from local estate counters as delightful souvenirs.",
+        "hi": "किशनगंज चाय बागानों के भ्रमण की योजना बनाते समय, अक्टूबर से मार्च के महीनों के बीच यात्रा करना सबसे आदर्श माना जाता है, जब सुबह की ठंडी हवाएं, सुहावनी धूप और साफ आसमान मन को आनंदित कर देते हैं। बागानों की सैर सुबह 7:00 बजे से 10:30 बजे के बीच अथवा सूर्यास्त से पहले गोधूलि बेला में करने की अत्यधिक अनुशंसा की जाती है, जब ढलानदार हरी क्यारियों पर धूप की सुनहरी किरणें फोटोग्राफी के लिए जादुई दृश्य बनाती हैं और बागान कर्मियों को ताजी पत्तियां चुनते देखा जा सकता है। सीटीसी और ऑर्थोडॉक्स चाय की विदरिंग, क्रशिंग एवं सुखाने की औद्योगिक प्रक्रिया देखने के लिए कारखाने में प्रवेश से पूर्व एस्टेट प्रबंधन से अनुमति अवश्य लें। बागानों के कच्चे रास्तों और गीली मिट्टी पर चलने के लिए आरामदायक व मजबूत जूते पहनें। धूप से बचाव के लिए टोपी, पर्याप्त पेयजल और कीट-पतंगों से बचाव की क्रीम साथ रखें। स्थानीय एस्टेट काउंटरों से ताजी पैक की गई सुगंधित चाय खरीदना न भूलें।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "khagra-mela",
+      "har-gauri-temple-thakurganj",
+      "ruins-of-ruidhasa-churli"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-18",
+      "sources": [
+        {
+          "title": "Kishanganj District Tourism - Tea Cultivation",
+          "organization": "District Administration Kishanganj",
+          "url": "https://kishanganj.nic.in/tourist-places/"
+        },
+        {
+          "title": "Bihar Tourism - Agro Tourism in Kishanganj",
+          "organization": "Bihar State Tourism Development Corporation (BSTDC)",
+          "url": "https://tourism.bihar.gov.in/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-18",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": [],
+    "circuits": [
+      "eco_circuit"
+    ]
+  },
+  {
+    "id": "khagra-mela",
+    "slug": "khagra-mela",
+    "name": {
+      "en": "Khagra Mela Grounds & Nawab Estate",
+      "hi": "खगरा मेला मैदान एवं नवाब एस्टेट"
+    },
+    "districtId": "kishanganj",
+    "placeType": "cultural_site",
+    "primaryCategory": "cultural",
+    "categories": [
+      "cultural",
+      "historical",
+      "heritage",
+      "fair"
+    ],
+    "tags": [
+      "featured",
+      "culturalHeritage",
+      "historicFair",
+      "localTraditions"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "Historic open fairground hosting one of Eastern India's largest and oldest traditional socio-cultural exhibitions, established by the Khagada Nawabs.",
+      "hi": "पूर्वी भारत की सबसे बड़ी और पुरानी पारंपरिक सामाजिक-सांस्कृतिक प्रदर्शनियों में से एक की मेजबानी करने वाला ऐतिहासिक मेला मैदान, जिसकी स्थापना खगड़ा नवाबों द्वारा की गई थी।"
+    },
+    "description": {
+      "en": "The **Khagra Mela Grounds** (historically associated with the **Khagada Nawab Estate**) is a celebrated cultural and historical landmark in Kishanganj city, serving as the permanent venue for one of the oldest, largest, and most vibrant traditional fairs in Eastern India.\n\nKey attractions of the grounds and fair include:\n- **Sprawling Fairground Grounds**: Vast open terrain stretching along the scenic banks of the **Ramzan River**, historically laid out by the local aristocracy.\n- **Grand Annual Khagra Mela**: A month-long socio-cultural festival commencing every year on Republic Day (**January 26**) and continuing through late February, drawing hundreds of thousands of visitors from Bihar, West Bengal, and Nepal.\n- **Artisanal & Trade Pavilions**: Bustling bazaars featuring traditional hand-carved wooden furniture from Saharanpur, brass utensils, Kashmiri shawls, agrarian implements, rural livestock exhibitions, and traditional handloom fabrics.\n- **Cultural & Recreational Arenas**: Theatrical stages, open-air circus tents, folk musical performances, giant Ferris wheels, and bustling food streets serving authentic North Bihari delicacies.\n\nThe grounds serve as an enduring cultural melting pot, embodying the warmth, diversity, and rural vibrancy of the historic Seemanchal borderland.",
+      "hi": "**खगरा मेला मैदान** (ऐतिहासिक रूप से **खगड़ा नवाब एस्टेट** से संबद्ध) किशनगंज शहर का एक अत्यंत प्रसिद्ध सांस्कृतिक एवं ऐतिहासिक मील का पत्थर है, जो पूर्वी भारत के सबसे पुराने, सबसे बड़े और सबसे जीवंत पारंपरिक मेलों में से एक के स्थायी स्थल के रूप में प्रतिष्ठित है।\n\nमैदान एवं मेले के मुख्य आकर्षण:\n- **विशाल मेला प्रांगण**: मनोरम **रमजान नदी** के तट पर फैला हुआ एक विशाल खुला भूभाग, जिसे ऐतिहासिक रूप से स्थानीय नवाबों द्वारा सार्वजनिक आयोजनों के लिए स्थापित किया गया था।\n- **भव्य वार्षिक खगरा मेला**: प्रत्येक वर्ष गणतंत्र दिवस (**26 जनवरी**) से शुरू होकर फरवरी के अंत तक चलने वाला एक माह लंबा सांस्कृतिक महाकुंभ, जो बिहार, पश्चिम बंगाल और नेपाल से लाखों आगंतुकों को आकर्षित करता है।\n- **शिल्प एवं व्यापारिक दीर्घाएं**: सहारनपुर का पारंपरिक नक्काशीदार लकड़ी का फर्नीचर, पीतल के बर्तन, कश्मीरी शॉल, कृषि उपकरण, ग्रामीण पशु प्रदर्शनी और हथकरघा वस्त्रों से सजे चहल-पहल भरे बाजार।\n- **मनोरंजन एवं सांस्कृतिक मंच**: नौटंकी व लोकनाट्य मंच, विशाल सर्कस, पारंपरिक संगीत प्रस्तुतियां, विशाल झूले और उत्तर बिहारी व्यंजनों के पारंपरिक फूड स्टॉल।\n\nयह मैदान एक जीवंत सांस्कृतिक संगम के रूप में खड़ा है, जो ऐतिहासिक सीमांचल क्षेत्र के सौहार्द, विविधता और ग्रामीण ऊर्जा को जीवंत करता है।"
+    },
+    "history": {
+      "en": "The historical origins of the **Khagra Mela Grounds** are deeply intertwined with the noble dynasty of the **Nawabs of Khagada**, who administered this territory as an autonomous zamindari estate during the Mughal Empire and the British colonial era. Established on the banks of the Ramzan River, the town of Khagra was founded under Nawab Mohammed Fakiruddin, who constructed a fortified residential complex, administrative offices, and public meeting grounds.\n\nHistorical progression of the fair and grounds:\n- **Agrarian Foundations**: In the late 19th and early 20th centuries, the Khagada Nawabs organized regional gatherings and horse-and-cattle trading meets to stimulate agrarian enterprise in the frontier zone.\n- **Formal Rebirth in 1950**: In 1950, prominent visionary **Syed Ata Hussain**, alongside regional leaders, formally consolidated the gathering into an organized **'Krishi Pradarshini'** (Agricultural Exhibition) designed to showcase modern farming techniques, indigenous livestock, and village cottage industries.\n- **Cross-Border Exchange**: Due to Kishanganj's strategic proximity to East Pakistan (now Bangladesh), Nepal, and Bengal, the fair emerged as a vital mercantile crossroads in post-independence India.\n\nOver the decades, the fair evolved into an iconic civic institution managed by the district administration, preserving centuries of aristocratic heritage and rural community traditions.",
+      "hi": "**खगरा मेला मैदान** की ऐतिहासिक जड़ें **खगड़ा के नवाबों** के कुलीन राजवंश के साथ गहराई से जुड़ी हुई हैं, जिन्होंने मुगल साम्राज्य और ब्रिटिश औपनिवेशिक काल के दौरान इस क्षेत्र को एक स्वायत्त जमींदारी एस्टेट के रूप में प्रशासित किया था। रमजान नदी के तट पर स्थित खगरा कस्बे की स्थापना नवाब मोहम्मद फकीरुद्दीन के समय हुई थी, जिन्होंने यहां एक मजबूत आवासीय परिसर, कचहरी और सार्वजनिक सभा स्थल का निर्माण कराया था।\n\nमेले और मैदान का ऐतिहासिक विकास:\n- **कृषि-व्यापारिक आधार**: 19वीं सदी के अंत और 20वीं सदी के प्रारंभ में, खगड़ा के नवाबों ने सीमावर्ती क्षेत्र में कृषि व्यापार को बढ़ावा देने के लिए बड़े पैमाने पर पशु और घोड़ा मेलों का आयोजन शुरू किया।\n- **1950 में औपचारिक पुनर्गठन**: वर्ष 1950 में, प्रख्यात जननायक **सैयद अता हुसैन** ने स्थानीय प्रशासन के सहयोग से इसे एक संगठित **'कृषि प्रदर्शनी'** का रूप दिया, जिसका उद्देश्य किसानों को आधुनिक कृषि तकनीकों, उन्नत पशु नस्लों और कुटीर उद्योगों से जोड़ना था।\n- **सीमा पार व्यापारिक संगम**: नेपाल और तत्कालीन पूर्वी पाकिस्तान (वर्तमान बांग्लादेश) के निकट होने के कारण, यह मेला आजादी के बाद पूर्वी भारत का एक अत्यंत महत्वपूर्ण व्यापारिक केंद्र बन गया।\n\nदशकों के सफर में, यह मेला जिला प्रशासन द्वारा संचालित एक ऐतिहासिक नागरिक उत्सव में बदल गया, जो सदियों पुरानी नवाबकालीन विरासत और ग्रामीण संस्कृति को संजोए हुए है।"
+    },
+    "significance": {
+      "en": "The significance of the **Khagra Mela Grounds** lies in its extraordinary role as a living emblem of regional unity, agrarian prosperity, and historical synthesis in Seemanchal.\n\nKey dimensions of its significance include:\n- **Cultural Synthesis & Harmony**: The annual Khagra Mela unites people of diverse religious backgrounds, linguistic identities (Surjapuri, Hindi, Maithili, Urdu, and Bengali), and communities in a shared festival of joy and camaraderie.\n- **Preservation of Living Heritage**: It keeps alive the feudal urban planning and civic patronage of the Khagada Nawabs, honoring historical figures like Syed Ata Hussain who championed public education and rural welfare.\n- **Economic Catalyst for Rural Artisans**: The grounds provide an essential commercial platform for hundreds of traditional potters, blacksmiths, carpenters, weavers, and small-scale entrepreneurs whose livelihood depends on annual exhibition sales.\n- **Recreational Heart of the District**: As Kishanganj's primary public assembly space, the grounds host national holiday parades, athletic tournaments, and public celebrations throughout the year.",
+      "hi": "**खगरा मेला मैदान** का महत्व सीमांचल में क्षेत्रीय एकता, कृषि समृद्धि और ऐतिहासिक समन्वय के एक जीवंत प्रतीक के रूप में इसकी असाधारण भूमिका में निहित है।\n\nमहत्व के प्रमुख पहलू:\n- **सांस्कृतिक समन्वय और सौहार्द**: वार्षिक खगरा मेला विभिन्न धार्मिक पृष्ठभूमियों, भाषाई पहचानों (सुरजापुरी, हिंदी, मैथिली, उर्दू और बांग्ला) और समुदायों के लोगों को आपसी प्रेम और भाईचारे के एक साझा उत्सव में जोड़ता है।\n- **जीवंत ऐतिहासिक विरासत का संरक्षण**: यह खगड़ा के नवाबों के नगर नियोजन और नागरिक संरक्षण को जीवित रखता है, साथ ही सैयद अता हुसैन जैसे जननायकों के योगदान का स्मरण कराता है जिन्होंने ग्रामीण कल्याण की नींव रखी।\n- **ग्रामीण कारीगरों के लिए आर्थिक संबल**: यह मेला मैदान सैकड़ों पारंपरिक कुम्हारों, लोहारों, बढ़इयों, बुनकरों और लघु उद्यमियों के लिए एक अनिवार्य वाणिज्यिक मंच प्रदान करता है जिनकी आजीविका वार्षिक मेला बिक्री पर निर्भर करती है।\n- **जिले का प्रमुख नागरिक एवं मनोरंजन स्थल**: किशनगंज के सबसे बड़े खुले सार्वजनिक स्थल के रूप में, यह मैदान साल भर राष्ट्रीय पर्वों, खेलकूद प्रतियोगिताओं और सामाजिक समारोहों की मेजबानी करता है।"
+    },
+    "location": {
+      "address": {
+        "en": "Khagra Mela Grounds and Historic Nawab Estate Complex, situated along Khagra Main Road, Ward Number 1, Kishanganj Urban Agglomeration, Kishanganj District, Bihar 855108, India. The historic grounds are positioned approximately 2.5 kilometers north of the Kishanganj Railway Junction and roughly 3 kilometers from the District Collectorate headquarters. Flanked by the serene course of the meandering Ramzan River, the site lies adjacent to the historic residential quarters, old gateways, and heritage landmarks of the erstwhile Khagada Nawab estate. The expansive grounds are directly accessible via wide arterial city roads branching from National Highway 27, offering convenient transport connections for local buses, autorickshaws, and private vehicles.",
+        "hi": "खगरा मेला मैदान एवं ऐतिहासिक नवाब एस्टेट परिसर, खगरा मुख्य मार्ग, वार्ड संख्या 1, किशनगंज नगर परिषद, किशनगंज जिला, बिहार 855108, भारत। यह ऐतिहासिक मैदान किशनगंज रेलवे जंक्शन से लगभग 2.5 किलोमीटर उत्तर में और जिला समाहरणालय (कलेक्ट्रेट) मुख्यालय से लगभग 3 किलोमीटर की दूरी पर स्थित है। घुमावदार रमजान नदी के सुरम्य तट पर बसा यह स्थल तत्कालीन खगड़ा नवाब रियासत के ऐतिहासिक आवासीय परिसरों, प्राचीन द्वारों और विरासत स्थलों के ठीक निकट स्थित है। यह विशाल मैदान राष्ट्रीय राजमार्ग 27 से शहर के केंद्र को जोड़ने वाली चौड़ी मुख्य सड़कों द्वारा सीधे जुड़ा हुआ है, जिससे स्थानीय बसों, ऑटो-रिक्शा और निजी वाहनों द्वारा यहां आसानी से पहुंचा जा सकता है।"
+      },
+      "latitude": 26.1158,
+      "longitude": 87.9452,
+      "mapQuery": "Khagra Mela Grounds, Khagra, Kishanganj, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "days": {
+            "en": "Monday to Sunday (Annual Mela: Jan 26 - late Feb)",
+            "hi": "सोमवार से रविवार (वार्षिक मेला: 26 जनवरी - फरवरी अंत)"
+          },
+          "open": "10:00",
+          "close": "22:00"
+        }
+      ],
+      "entryFee": {
+        "standard": 0,
+        "currency": "INR",
+        "isFree": true,
+        "description": {
+          "en": "Free entry to fairgrounds; individual carnival rides, shows, and attractions charge separate nominal tickets.",
+          "hi": "मेला मैदान में निःशुल्क प्रवेश; व्यक्तिगत झूलों, सर्कस और प्रदर्शनों के लिए अलग-अलग मामूली टिकट शुल्क लागू होता है।"
+        }
+      },
+      "recommendedDurationMinutes": 180,
+      "bestTimeToVisit": {
+        "en": "January to February",
+        "hi": "जनवरी से फरवरी"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Centrally situated in Kishanganj city, just off NH-27. Readily accessible from all parts of the district via well-paved municipal roads, with extensive parking spaces allocated during the fair.",
+        "hi": "किशनगंज शहर के केंद्र में NH-27 के ठीक पास स्थित। अच्छी पक्की सड़कों के माध्यम से जिले के सभी हिस्सों से सुगम, मेले के दौरान व्यापक पार्किंग स्थल उपलब्ध रहते हैं।"
+      },
+      "railway": [
+        {
+          "name": {
+            "en": "Kishanganj Railway Junction (KNE)",
+            "hi": "किशनगंज रेलवे जंक्शन (KNE)"
+          },
+          "distanceKm": 2.5
+        }
+      ],
+      "airport": [
+        {
+          "name": {
+            "en": "Bagdogra International Airport, Siliguri (IXB)",
+            "hi": "बागडोगरा अंतरराष्ट्रीय हवाई अड्डा, सिलीगुड़ी (IXB)"
+          },
+          "distanceKm": 88
+        }
+      ],
+      "localTransport": {
+        "en": "Continuous battery-operated e-rickshaws, cycle rickshaws, and auto-rickshaws operate from the railway station and bus stand directly to the grounds.",
+        "hi": "रेलवे स्टेशन और बस स्टैंड से सीधे मैदान तक लगातार ई-रिक्शा, साइकिल रिक्शा और ऑटो-रिक्शा चलते हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": 0,
+      "localTransport": 50
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": true,
+      "atm": true,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 1000,
+      "stairs": false,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "The ideal time to visit the Khagra Mela Grounds is during the annual winter fair running between January 26 and late February, when the entire expanse transforms into an electrifying spectacle of lights, colors, and music. Plan your visit during the late afternoon and evening hours (between 4:00 PM and 9:00 PM) to experience the vibrant carnival atmosphere, cultural stages, and bustling culinary alleys at their peak. Given the large crowds during weekends, keep a close watch on personal belongings and accompany young children diligently. Carrying cash in smaller denominations is strongly advised as rural artisans and street vendors frequently experience mobile network connectivity issues for UPI transactions. Be sure to explore the artisan woodworking pavilions for durable Sheesham furniture and sample iconic winter street foods like freshly made jalebis, khaja, and piping-hot litti-chokha.",
+        "hi": "खगरा मेला मैदान का दौरा करने का सबसे उत्तम समय 26 जनवरी से फरवरी के अंत तक आयोजित होने वाले वार्षिक शीतकालीन मेले के दौरान होता है, जब पूरा मैदान रोशनी, रंगों और संगीत के एक भव्य उत्सव में बदल जाता है। शाम के समय (शाम 4:00 बजे से रात 9:00 बजे के बीच) अपनी यात्रा की योजना बनाएं ताकि आप जीवंत कार्निवल माहौल, सांस्कृतिक मंचों और स्वादिष्ट खान-पान की गलियों का भरपूर आनंद ले सकें। सप्ताहांत के दौरान अत्यधिक भीड़ को देखते हुए अपने निजी सामान की सुरक्षा का ध्यान रखें और बच्चों का हाथ पकड़कर चलें। ग्रामीण कारीगरों और छोटे दुकानदारों से खरीदारी के लिए नकद धनराशि साथ रखें क्योंकि कई बार ऑनलाइन भुगतान में नेटवर्क समस्या आ सकती है। शीशम के टिकाऊ फर्नीचर की दुकानों का भ्रमण अवश्य करें और ताजी जलेबी, खाजा और गरमा-गरम लिट्टी-चोखा जैसे लजीज व्यंजनों का स्वाद लेना न भूलें।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "kishanganj-tea-gardens",
+      "har-gauri-temple-thakurganj"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-18",
+      "sources": [
+        {
+          "title": "Historic Khagra Mela Kishanganj",
+          "organization": "District Administration Kishanganj",
+          "url": "https://kishanganj.nic.in/tourist-places/"
+        },
+        {
+          "title": "Fairs and Festivals of Bihar - Khagra Mela",
+          "organization": "Bihar State Tourism Development Corporation (BSTDC)",
+          "url": "https://tourism.bihar.gov.in/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-18",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": [],
+    "circuits": []
+  },
+  {
+    "id": "har-gauri-temple-thakurganj",
+    "slug": "har-gauri-temple-thakurganj",
+    "name": {
+      "en": "Har Gauri Temple, Thakurganj",
+      "hi": "हरगौरी मंदिर, ठाकुरगंज"
+    },
+    "districtId": "kishanganj",
+    "placeType": "temple",
+    "primaryCategory": "religious",
+    "categories": [
+      "religious",
+      "historical",
+      "heritage",
+      "pilgrimage"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "tags": [
+      "featured",
+      "pilgrimage",
+      "shivaTemple",
+      "ancientIdol"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "Centuries-old revered Shaivite shrine in Thakurganj housing a rare, co-joined black granite idol of Lord Shiva and Goddess Parvati.",
+      "hi": "ठाकुरगंज में स्थित सदियों पुराना पूज्य शैव तीर्थ, जिसमें भगवान शिव और माता पार्वती की एक दुर्लभ, संयुक्त काले ग्रेनाइट की प्रतिमा स्थापित है।"
+    },
+    "description": {
+      "en": "The **Har Gauri Temple** (Sri Hargauri Mandir) is a venerable and deeply revered century-old pilgrimage shrine situated in the heart of Thakurganj in the Kishanganj district of Bihar. Dedicated to Lord Shiva and Goddess Parvati, the temple is distinguished across the region for enshrining an extraordinary and ancient composite idol carved from lustrous black granite, representing the sacred co-joined manifestation of the divine couple (**Ardhanarishvara** or **Har-Gauri**).\n\nKey architectural and spiritual highlights include:\n- **Rare Conjoined Murti**: The sanctum sanctorum houses an impeccably preserved antique stone idol depicting Lord Shiva and Devi Parvati seamlessly unified, symbolizing the cosmic union of masculine and feminine energies.\n- **Heritage Architecture**: Traditional North Indian temple shikhara, embellished arched doorways, and a tranquil inner sanctum designed for quiet contemplation and devotional rituals.\n- **Sacred Temple Complex**: Includes a serene courtyard, a dedicated Hanuman shrine, sacred peepal trees, and ceremonial ghats where devotees assemble for ablutions and meditative prayers.\n\nThe temple is an enduring beacon of peace, faith, and spiritual solace, attracting continuous streams of pilgrims from across northern Bihar, neighboring West Bengal districts, and the nearby Kingdom of Nepal.",
+      "hi": "**हरगौरी मंदिर** (श्री हरगौरी मंदिर) बिहार के किशनगंज जिले के ठाकुरगंज के हृदय स्थल में स्थित एक अत्यंत पूज्य और शताब्दी पुराना ऐतिहासिक तीर्थ स्थल है। भगवान शिव और माता पार्वती को समर्पित यह मंदिर एक अत्यंत दुर्लभ और प्राचीन काले ग्रेनाइट पत्थर से तराशी गई संयुक्त प्रतिमा के लिए पूरे क्षेत्र में प्रसिद्ध है, जो दिव्य युगल के **अर्धनारीश्वर** (हर-गौरी) स्वरूप का प्रतिनिधित्व करती है।\n\nमंदिर के प्रमुख आध्यात्मिक एवं स्थापत्य आकर्षण:\n- **दुर्लभ संयुक्त पाषाण प्रतिमा**: गर्भगृह में भगवान शिव और देवी पार्वती की एक अद्वितीय और अत्यंत प्राचीन मूर्ति प्रतिष्ठित है, जो एक ही पाषाण में संयुक्त होकर पुरुष और प्रकृति (शक्ति) के ब्रह्मांडीय मिलन का प्रतीक है।\n- **पारंपरिक स्थापत्य कला**: उत्तर भारतीय शैली का सुंदर शिखर, नक्काशीदार मेहराबदार द्वार और शांत आंतरिक गर्भगृह जो गहन ध्यान और भक्तिमय अनुष्ठानों के लिए अनुकूल वातावरण प्रदान करता है।\n- **पवित्र मंदिर परिसर**: शांत प्रांगण, श्री हनुमान जी का उप-मंदिर, प्राचीन पीपल वृक्ष और अनुष्ठानिक स्थल जहां श्रद्धालु जलार्पण, ध्यान और कीर्तन के लिए एकत्रित होते हैं।\n\nयह मंदिर शांति, विश्वास और आध्यात्मिक ऊर्जा का एक प्रमुख केंद्र है, जो उत्तर बिहार, पश्चिम बंगाल और सीमावर्ती नेपाल से आने वाले लाखों श्रद्धालुओं की अटूट आस्था का संबल है।"
+    },
+    "history": {
+      "en": "The historic **Har Gauri Temple** traces its origins back over a century to the late 19th and early 20th centuries, deeply connected with the benevolent patronage of the **Tagore Estate** (the aristocratic zamindari family of Bengal, ancestors of Rabindranath Tagore), who held extensive administrative landholdings across the Thakurganj frontier.\n\nHistorical narrative and founding folklore:\n- **Miraculous Discovery**: Local historical accounts and folklore record that while local agricultural laborers were tilling the fertile soil of the Tagore Estate lands, the plow struck a solid stone object. Upon careful excavation, they unearthed a magnificently sculpted, undamaged black stone idol of Lord Shiva and Goddess Parvati intimately conjoined.\n- **Divine Dream and Enshrinement**: According to regional lore, the resident Zamindar received a profound divine dream commanding him to honor and consecrate the sacred murti on that exact sanctified ground rather than transferring it to a private collection.\n- **Construction of the Mandir**: The zamindari estate funded the construction of an auspicious brick-and-mortar temple, establishing formal priestly rituals, daily bhog offerings, and annual festive endowments.\n\nOver the past hundred years, the shrine has been maintained and embellished by local community trusts, standing as a living monument of composite cultural heritage and timeless devotion.",
+      "hi": "ऐतिहासिक **हरगौरी मंदिर** का इतिहास 100 से अधिक वर्ष पुराना है, जिसकी स्थापना 19वीं सदी के उत्तरार्ध और 20वीं सदी के प्रारंभ में प्रतिष्ठित **टैगोर एस्टेट** (बंगाल के प्रसिद्ध जमींदार परिवार, जिनसे गुरुदेव रवींद्रनाथ टैगोर संबंधित थे) के संरक्षण में हुई थी। तत्कालीन दौर में ठाकुरगंज सीमावर्ती क्षेत्र में टैगोर एस्टेट की विस्तृत जमींदारी फैली हुई थी।\n\nस्थापना का इतिहास एवं दिव्य लोककथा:\n- **अलौकिक पाषाण प्राप्ति**: स्थानीय अभिलेखों और जनश्रुतियों के अनुसार, जब एस्टेट की उपजाऊ भूमि पर खेत की जुताई की जा रही थी, तब हल का फाल एक ठोस शिला से टकराया। सावधानीपूर्वक खुदाई करने पर भगवान शिव और माता पार्वती की एक अत्यंत सुंदर, अखंडित काले ग्रेनाइट पत्थर की संयुक्त प्रतिमा प्रकट हुई।\n- **दिव्य स्वप्न और स्थापना**: क्षेत्रीय मान्यता के अनुसार, तत्कालीन जमींदार को एक दिव्य स्वप्न प्राप्त हुआ जिसमें उन्हें इस पवित्र प्रतिमा को किसी निजी संग्रह में ले जाने के बजाय उसी पावन भूमि पर स्थापित करने का आदेश मिला।\n- **मंदिर का भव्य निर्माण**: जमींदार परिवार ने धन और संसाधन प्रदान करके एक सुदृढ़ ईंट और चूने के मंदिर का निर्माण कराया तथा दैनिक भोग, आरती और पुजारियों की स्थायी व्यवस्था की।\n\nबीती एक सदी में स्थानीय श्रद्धालु समुदाय और न्यास समिति ने इस मंदिर का संवर्धन किया है, जिससे यह सनातन आस्था और ऐतिहासिक धरोहर का एक अप्रतिम केंद्र बन चुका है।"
+    },
+    "significance": {
+      "en": "The significance of the **Har Gauri Temple** in Thakurganj encompasses profound mythological, iconographic, and inter-state cultural dimensions.\n\nKey aspects of its significance include:\n- **Unique Ardhanarishvara Iconography**: Unlike the vast majority of Shaivite temples that house a Shiva Lingam, this sanctuary features an anthropomorphic dual form of Shiva and Parvati carved in exquisite intimacy, representing cosmic unity, gender harmony, and marital bliss.\n- **Epicenter of Maha Shivaratri**: The temple serves as the grand spiritual hub for the district during Maha Shivaratri, attracting over fifty thousand pilgrims who undertake fasts, offer holy water, and participate in overnight vigils.\n- **Cross-Border Pilgrim Convergence**: Situated mere kilometers from the Indo-Nepal international border and the northern corridor of West Bengal, the temple fosters deep spiritual unity among diverse regional communities.\n- **Tagore Estate Zamindari Legacy**: The shrine serves as a precious physical chronicle of the Tagore family's benevolent socio-cultural contributions to the northern borderland territories of Bihar.",
+      "hi": "ठाकुरगंज के **हरगौरी मंदिर** का महत्व गहन पौराणिक, प्रतिमा-विज्ञान और अंतरराज्यीय सांस्कृतिक आयामों को समाहित करता है।\n\nमहत्व के प्रमुख पहलू:\n- **अद्वितीय अर्धनारीश्वर प्रतिमा-विधान**: अधिकांश शैव मंदिरों के विपरीत जहां शिवलिंग स्थापित होता है, इस मंदिर के गर्भगृह में भगवान शिव और माता पार्वती का अत्यंत सजीव मानवरूपी संयुक्त विग्रह प्रतिष्ठित है, जो ब्रह्मांडीय संतुलन, प्रकृति-पुरुष के सामंजस्य और दांपत्य सुख का प्रतीक है।\n- **महाशिवरात्रि का प्रमुख केंद्र**: महाशिवरात्रि के पावन पर्व पर यह मंदिर पूरे जिले का सबसे बड़ा आध्यात्मिक केंद्र बन जाता है, जहां 50,000 से अधिक भक्तजन जलाभिषेक करने, व्रत रखने और रात्रि जागरण के लिए एकत्रित होते हैं।\n- **सीमा पार तीर्थ संगम**: भारत-नेपाल अंतरराष्ट्रीय सीमा और पश्चिम बंगाल के सिलीगुड़ी-इस्लामपुर कॉरिडोर से सटा होने के कारण यह मंदिर विभिन्न संस्कृतियों और भाषाओं के लोगों को एक साझा आध्यात्मिक सूत्र में पिरोता है।\n- **टैगोर एस्टेट की ऐतिहासिक विरासत**: यह पावन धाम बिहार के सुदूर उत्तर-पूर्वी सीमांचल में टैगोर परिवार के ऐतिहासिक जमींदारी काल और उनके जनकल्याणकारी योगदान का एक अमूल्य जीवंत साक्ष्य है।"
+    },
+    "location": {
+      "address": {
+        "en": "Sri Har Gauri Mandir, Dhibripada Locality, Ward Number 12, Thakurganj Municipality, Kishanganj District, Bihar 855116, India. The temple is conveniently situated approximately 1.5 kilometers south of the Thakurganj Railway Station and roughly 45 kilometers northeast of the Kishanganj district headquarters. Positioned near State Highway 98 (connecting Kishanganj and Galgalia) and National Highway 327C, the sacred shrine is easily reachable via motorized auto-rickshaws, private cars, local taxis, and state roadways buses. Its close geographical proximity to the Nepal international border crossing at Bhadrapur (situated approximately 15 kilometers away) makes it a prominent pilgrimage stop for devotees travelling between eastern Bihar, Siliguri in North Bengal, and the southern Terai plains of Nepal.",
+        "hi": "श्री हरगौरी मंदिर, ढिबरीपाड़ा मोहल्ला, वार्ड संख्या 12, ठाकुरगंज नगर पंचायत, किशनगंज जिला, बिहार 855116, भारत। यह पवित्र मंदिर ठाकुरगंज रेलवे स्टेशन से लगभग 1.5 किलोमीटर दक्षिण में और किशनगंज जिला मुख्यालय से लगभग 45 किलोमीटर उत्तर-पूर्व में स्थित है। राज्य राजमार्ग 98 (किशनगंज-गलगलिया मार्ग) और राष्ट्रीय राजमार्ग 327C के निकट स्थित होने के कारण यहां स्थानीय ऑटो, निजी वाहनों और बसों द्वारा सुगमता से पहुंचा जा सकता है। भद्रपुर (नेपाल) सीमा चौकी से मात्र 15 किलोमीटर की दूरी पर स्थित होने के कारण यह मंदिर पूर्वी बिहार, सिलीगुड़ी और नेपाल के तराई क्षेत्रों के बीच आवागमन करने वाले श्रद्धालुओं के लिए एक प्रमुख आध्यात्मिक पड़ाव है।"
+      },
+      "latitude": 26.4485,
+      "longitude": 88.1362,
+      "mapQuery": "Har Gauri Temple, Dhibripada, Thakurganj, Kishanganj, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "days": {
+            "en": "Monday to Sunday",
+            "hi": "सोमवार से रविवार"
+          },
+          "open": "05:30",
+          "close": "20:30"
+        }
+      ],
+      "entryFee": {
+        "standard": 0,
+        "currency": "INR",
+        "isFree": true,
+        "description": {
+          "en": "Free entry for all devotees; donations to the temple trust are voluntary.",
+          "hi": "सभी श्रद्धालुओं के लिए निःशुल्क प्रवेश; मंदिर ट्रस्ट को दान पूर्णतः स्वैच्छिक है।"
+        }
+      },
+      "recommendedDurationMinutes": 60,
+      "bestTimeToVisit": {
+        "en": "October to March (Special: Maha Shivaratri and Shravan)",
+        "hi": "अक्टूबर से मार्च (विशेष: महाशिवरात्रि एवं सावन)"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Situated directly on the main Thakurganj urban route via SH-98 and NH-327C. Easily connected by regular buses and private vehicles from Kishanganj city (45 km), Siliguri (40 km), and Islampur (25 km).",
+        "hi": "SH-98 और NH-327C के माध्यम से ठाकुरगंज के मुख्य शहरी मार्ग पर स्थित। किशनगंज शहर (45 किमी), सिलीगुड़ी (40 किमी) और इस्लामपुर (25 किमी) से नियमित बसों और निजी वाहनों द्वारा आसानी से जुड़ा हुआ है।"
+      },
+      "railway": [
+        {
+          "name": {
+            "en": "Thakurganj Railway Station (TKG)",
+            "hi": "ठाकुरगंज रेलवे स्टेशन (TKG)"
+          },
+          "distanceKm": 1.5
+        },
+        {
+          "name": {
+            "en": "Kishanganj Railway Junction (KNE)",
+            "hi": "किशनगंज रेलवे जंक्शन (KNE)"
+          },
+          "distanceKm": 45
+        }
+      ],
+      "airport": [
+        {
+          "name": {
+            "en": "Bagdogra International Airport, Siliguri (IXB)",
+            "hi": "बागडोगरा अंतरराष्ट्रीय हवाई अड्डा, सिलीगुड़ी (IXB)"
+          },
+          "distanceKm": 48
+        }
+      ],
+      "localTransport": {
+        "en": "Local e-rickshaws, shared autos, and pedal rickshaws are available in abundance right outside the Thakurganj station directly to the temple.",
+        "hi": "ठाकुरगंज स्टेशन के बाहर से सीधे मंदिर के लिए स्थानीय ई-रिक्शा, शेयरिंग ऑटो और पैडल रिक्शा प्रचुर मात्रा में उपलब्ध हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": 0,
+      "localTransport": 30
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": false,
+      "atm": true,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": false,
+      "walkingDistanceMeters": 100,
+      "stairs": true,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "The temple can be visited year-round, but the period from October to March offers the most pleasant climatic conditions for travel. Visiting during the sacred festival of Maha Shivaratri (February/March) or during the auspicious Mondays of the holy month of Shravan (July/August) allows travelers to witness grand religious processions, devotional bhajans, and vibrant street fairs, although visitors should prepare for large crowds. The temple opens early in the morning around 5:30 AM and closes after the evening sandhya aarti around 8:30 PM; attending the morning or evening aarti provides a serene spiritual experience. Devotees are expected to dress modestly and remove footwear before stepping onto the temple parikrama and sanctum. High-grade brass puja samagri, fresh flowers, and belpatra can be purchased from small stalls lining the temple entrance road. Photography is permitted within the outer courtyard but should be restricted inside the inner sanctum out of reverence.",
+        "hi": "इस मंदिर के दर्शन वर्ष भर किए जा सकते हैं, लेकिन अक्टूबर से मार्च का समय सबसे सुहावना और अनुकूल रहता है। महाशिवरात्रि (फरवरी/मार्च) के महापर्व पर अथवा सावन मास के पवित्र सोमवारों के दौरान यहां की यात्रा करने से भव्य शोभायात्राओं, भक्तिमय संकीर्तन और पारंपरिक मेलों का जीवंत अनुभव मिलता है, हालांकि इस दौरान श्रद्धालुओं की भारी भीड़ के लिए तैयार रहना चाहिए। मंदिर के पट प्रातः 5:30 बजे खुलते हैं और रात्रि 8:30 बजे शयन आरती के बाद बंद होते हैं; प्रातःकालीन मंगला आरती और संध्या आरती में भाग लेना अत्यंत शांतिदायक अनुभूति देता है। मंदिर परिसर और गर्भगृह में प्रवेश से पूर्व जूते-चप्पल बाहर उतारें और शालीन वस्त्र पहनें। प्रवेश द्वार पर स्थित दुकानों से ताजे पुष्प, बेलपत्र और पूजन सामग्री सुलभता से मिल जाती है। बाहरी प्रांगण में फोटोग्राफी की जा सकती है, किंतु गर्भगृह के भीतर मर्यादा बनाए रखें।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "ruins-of-ruidhasa-churli",
+      "kishanganj-tea-gardens"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-18",
+      "sources": [
+        {
+          "title": "Places of Interest - Thakurganj Har Gauri Temple",
+          "organization": "District Administration Kishanganj",
+          "url": "https://kishanganj.nic.in/tourist-places/"
+        },
+        {
+          "title": "Temples and Sacred Circuits of Bihar",
+          "organization": "Bihar State Tourism Development Corporation (BSTDC)",
+          "url": "https://tourism.bihar.gov.in/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-18",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": [],
+    "circuits": [
+      "shiva_circuit"
+    ]
+  },
+  {
+    "id": "ruins-of-ruidhasa-churli",
+    "slug": "ruins-of-ruidhasa-churli",
+    "name": {
+      "en": "Ruins of Churli Estate & Historic Ruidhasa",
+      "hi": "चूरली एस्टेट के खंडहर एवं ऐतिहासिक रुईधासा"
+    },
+    "districtId": "kishanganj",
+    "placeType": "historical_site",
+    "primaryCategory": "historical",
+    "categories": [
+      "historical",
+      "heritage",
+      "archaeological",
+      "monument"
+    ],
+    "tags": [
+      "hiddenGem",
+      "historicRuins",
+      "zamindariHeritage",
+      "photography"
+    ],
+    "discoveryFlags": {
+      "popular": false,
+      "featured": true,
+      "hiddenGem": true,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "Atmospheric 19th-century zamindari ruins featuring palatial haveli architecture, colonial arches, and feudal courts near the Indo-Nepal border.",
+      "hi": "भारत-नेपाल सीमा के पास स्थित 19वीं सदी के वायुमंडलीय जमींदारी खंडहर, जिनमें भव्य हवेली वास्तुकला, औपनिवेशिक मेहराब और सामंती कचहरी शामिल हैं।"
+    },
+    "description": {
+      "en": "The **Ruins of the Churli Estate** (and the historically associated heritage of **Ruidhasa** in Thakurganj) constitute one of the most enigmatic and atmospheric heritage landmarks in the Kishanganj district of Bihar. Situated on the rural outskirts of Thakurganj near the Indo-Nepal border, this historical complex preserves the evocative remnants of a once-palatial 19th-century zamindari mansion (**haveli**), administrative court buildings (**kachharis**), and ancestral gardens established by the aristocratic landlord **Babu Kudan Lal Singh**.\n\nKey architectural and scenic highlights include:\n- **Colonial-Feudal Haveli Architecture**: Weathered red-brick masonry, classical semicircular archways, ornate plaster cornices, and sturdy vaulted chambers reflecting the syncretic European-Anglo-Indian and Bengali architectural styles of the British Raj.\n- **Administrative Kachhari Remains**: The lingering foundations of judicial courtyards, treasuries, and stables where feudal taxes, land records, and community disputes across dozens of villages were managed.\n- **Verdant Rural Setting**: The ivy-draped ruins rise dramatically amidst surrounding emerald bamboo groves, mango orchards, and gently undulating tea plantations.\n\nThe site stands as a poignant historical monument to the rise, opulence, and eventual dissolution of the frontier landed aristocracy, making it an extraordinary hidden gem for historians, heritage explorers, and photographers.",
+      "hi": "**चूरली एस्टेट के खंडहर** (और ठाकुरगंज स्थित **रुईधासा** की ऐतिहासिक विरासत) बिहार के किशनगंज जिले के सबसे रहस्यमयी और आकर्षक ऐतिहासिक स्थलों में से एक हैं। भारत-नेपाल सीमा के निकट ठाकुरगंज के ग्रामीण अंचल में स्थित यह ऐतिहासिक परिसर 19वीं शताब्दी के एक भव्य जमींदारी महल (**हवेली**), प्रशासनिक कचहरी भवनों और पूर्व जमींदार **बाबू कुंदन लाल सिंह** द्वारा स्थापित पैतृक उद्यानों के अवशेषों को संजोए हुए है।\n\nप्रमुख स्थापत्य एवं प्राकृतिक विशेषताएं:\n- **औपनिवेशिक-सामंती वास्तुकला**: लाल ईंटों की प्राचीन चिनाई, शास्त्रीय अर्धवृत्ताकार मेहराबें, प्लास्टर की अलंकृत नक्काशी और मजबूत गुंबददार कक्ष जो ब्रिटिश राज के दौरान एंग्लो-इंडियन और बंगाली स्थापत्य शैलियों के अनूठे मिश्रण को दर्शाते हैं।\n- **प्रशासनिक कचहरी के अवशेष**: पुराने न्यायिक कक्षों, कोषगृहों और अस्तबलों के खंडहर, जहां कभी दर्जनों गांवों के लगान, भूमि अभिलेख और दीवानी मामलों का निपटारा किया जाता था।\n- **मनोरम ग्रामीण परिवेश**: हरे-भरे बांस के झुरमुटों, आम के बगीचों और समीपवर्ती चाय बागानों के बीच स्थित यह परिसर इतिहास की एक मूक गाथा सुनाता है।\n\nयह स्थल उत्तर-पूर्वी सीमांचल के सीमावर्ती सामंती अभिजात्य वर्ग के उत्थान, वैभव और पतन का एक प्रभावशाली स्मारक है, जो इतिहासकारों, विरासत शोधकर्ताओं और फोटोग्राफरों के लिए एक अद्भुत गुप्त धरोहर (hidden gem) है।"
+    },
+    "history": {
+      "en": "The historical origins of the **Churli Estate** date back to the late 19th century during the consolidation of British agrarian administration in northern Bengal and Bihar. The estate was founded by the prominent regional landlord **Babu Kudan Lal Singh**, who acquired extensive proprietary and zamindari rights over prime agricultural mauzas—including Besarpatti and Nijagacch—from the distinguished **Tagore Estate** of Calcutta.\n\nKey historical phases of the estate include:\n- **Vast Feudal Domain**: At its peak, the Churli Estate exercised authority over vast tracts of fertile land stretching nearly 100 kilometers toward Sonapur in West Bengal, Kharudah in Kishanganj, and the foothills of Nepal.\n- **Aristocratic Splendor**: The mansion served as the vibrant socio-political center of the frontier territory, hosting colonial magistrates, holding lavish festive durbars, and overseeing thousands of tenant farmers and agricultural laborers.\n- **The Twilight of Zamindari**: Following India's independence in 1947 and the landmark passage of the Bihar Land Reforms Act of 1950, the proprietors of Churli, alongside the Tagore Estate, mounted a legal challenge in the Supreme Court against the abolition of zamindari rights. Upon the law's affirmation, the estate lost its feudal revenues and lands under the Land Ceiling Act.\n\nOver the subsequent decades, the grand haveli was abandoned to the elements, transforming into a hauntingly picturesque ruin that chronicles the dramatic socio-political transformations of modern India.",
+      "hi": "**चूरली एस्टेट** का इतिहास 19वीं शताब्दी के उत्तरार्ध का है, जब ब्रिटिश हुकूमत के दौरान उत्तरी बंगाल और बिहार के सीमावर्ती इलाकों में कृषि बंदोबस्त को सुदृढ़ किया जा रहा था। इस रियासत की स्थापना प्रख्यात क्षेत्रीय जमींदार **बाबू कुंदन लाल सिंह** ने की थी, जिन्होंने कलकत्ता के प्रतिष्ठित **टैगोर एस्टेट** से बेसरपट्टी और निजगच्छ सहित कई प्रमुख मौजों के स्थायी जमींदारी अधिकार खरीदे थे।\n\nरियासत के प्रमुख ऐतिहासिक चरण:\n- **विशाल सामंती प्रभाव**: अपने चरमोत्कर्ष के समय, चूरली एस्टेट का अधिकार क्षेत्र पश्चिम बंगाल के सोनापुर, किशनगंज के खरुदाह और नेपाल की तराई तक लगभग 100 किलोमीटर के दायरे में फैली उपजाऊ कृषि भूमि पर था।\n- **वैभवशाली सामंती दौर**: यह हवेली इस सुदूर सीमांत क्षेत्र का प्रमुख प्रशासनिक और सामाजिक केंद्र थी, जहां ब्रिटिश अधिकारियों की मेजबानी होती थी, भव्य दरबारी उत्सव मनाए जाते थे और हजारों काश्तकारों के मामलों का प्रबंधन होता था।\n- **जमींदारी का सूर्यास्त**: 1947 में देश की आजादी और 1950 में 'बिहार भूमि सुधार कानून' लागू होने के बाद, चूरली के जमींदारों ने टैगोर एस्टेट के साथ मिलकर जमींदारी उन्मूलन के विरुद्ध सर्वोच्च न्यायालय तक कानूनी लड़ाई लड़ी। किंतु कानून लागू होने और भूमि सीलिंग एक्ट के कारण रियासत की अधिकांश भूमि और कर अधिकार समाप्त हो गए।\n\nदेखरेख के अभाव और मानसूनी थपेड़ों के कारण यह विशाल हवेली धीरे-धीरे खंडहरों में तब्दील हो गई, जो आधुनिक भारत के सामाजिक-राजनीतिक बदलावों का एक मूक ऐतिहासिक गवाह बन गई।"
+    },
+    "significance": {
+      "en": "The significance of the **Ruins of Churli Estate** lies in their rare status as an authentic surviving monument to the frontier feudal history of northeastern Bihar.\n\nKey dimensions of its significance include:\n- **Architectural Archive of Feudalism**: The ruins provide architects, archaeologists, and heritage conservationists with a tangible look at late 19th-century zamindari construction techniques, brick firing, and decorative stucco craftsmanship along the Bengal-Bihar border.\n- **Direct Linkage to the Tagore Family**: As landholdings directly acquired from the Tagore Estate, the site holds vital archival and historical interest for scholars studying the economic footprints of Bengal's aristocratic families in the Seemanchal region.\n- **Atmospheric Ecotourism & Photography**: The interaction between crumbling brick structures and thriving tropical flora creates a mesmerizing visual aesthetic, ideal for landscape photography, historical documentation, and cinematic projects.\n- **Educational Resource on Land Reforms**: The estate serves as an open-air historical classroom demonstrating the monumental social and economic shifts that reshaped independent India through land reform and feudal abolition.",
+      "hi": "**चूरली एस्टेट के खंडहरों** का महत्व उत्तर-पूर्वी बिहार के सीमावर्ती सामंती इतिहास के एक दुर्लभ और प्रामाणिक अवशेष के रूप में उनकी स्थिति में निहित है।\n\nमहत्व के प्रमुख पहलू:\n- **सामंती वास्तुकला का ऐतिहासिक दस्तावेज**: ये खंडहर वास्तुकारों, पुरातत्वविदों और इतिहास प्रेमियों को बंगाल-बिहार सीमा पर 19वीं सदी के अंत की जमींदारी निर्माण तकनीकों, ईंटों की चिनाई और प्लास्टर नक्काशी का प्रत्यक्ष अध्ययन करने का अवसर देते हैं।\n- **टैगोर परिवार से सीधा ऐतिहासिक संबंध**: टैगोर एस्टेट से खरीदे गए मौजों का हिस्सा होने के कारण, यह स्थल सीमांचल क्षेत्र में बंगाल के ऐतिहासिक जमींदार परिवारों के आर्थिक और सामाजिक प्रभाव का अध्ययन करने वाले शोधकर्ताओं के लिए अत्यधिक मूल्यवान है।\n- **फोटोग्राफी और विरासत पर्यटन**: पुरानी ईंटों की संरचनाओं और चारों ओर फैली उष्णकटिबंधीय वनस्पति का संगम एक अत्यंत सुरम्य दृश्य उत्पन्न करता है, जो हेरिटेज वॉक, लैंडस्केप फोटोग्राफी और वृत्तचित्रों के लिए सर्वथा उपयुक्त है।\n- **भूमि सुधारों का जीवंत इतिहास**: यह एस्टेट एक खुली ऐतिहासिक पाठशाला की तरह है जो आजादी के बाद जमींदारी उन्मूलन और भूमि सुधार कानूनों द्वारा भारतीय समाज में आए क्रांतिकारी बदलावों को प्रत्यक्ष दर्शाती है।"
+    },
+    "location": {
+      "address": {
+        "en": "Ruins of Churli Estate and Historical Ruidhasa Heritage Precinct, Churli Gram Panchayat, situated adjacent to Ruidhasa Village, Thakurganj Community Development Block, Kishanganj District, Bihar 855116, India. The archaeological site is located approximately 8 kilometers west of Thakurganj municipal town and about 52 kilometers northeast of the Kishanganj district administrative headquarters. Nestled amidst peaceful rural flatlands near the Mechi and Mahananda river corridors, the site lies within 10 kilometers of the international frontier with the Jhapa District of Nepal. The ruins can be approached via local paved and semi-paved rural connector roads branching off from State Highway 98 and National Highway 327C, easily reachable by private cars, motorbikes, and hired rural taxis.",
+        "hi": "चूरली एस्टेट के खंडहर एवं ऐतिहासिक रुईधासा हेरिटेज क्षेत्र, चूरली ग्राम पंचायत, रुईधासा गांव के समीप, ठाकुरगंज सामुदायिक विकास प्रखंड, किशनगंज जिला, बिहार 855116, भारत। यह ऐतिहासिक एवं पुरातात्विक स्थल ठाकुरगंज नगर केंद्र से लगभग 8 किलोमीटर पश्चिम में और किशनगंज जिला समाहरणालय मुख्यालय से लगभग 52 किलोमीटर उत्तर-पूर्व में स्थित है। मेची और महानंदा नदी गलियारों के पास शांत ग्रामीण अंचल में स्थित यह स्थल नेपाल के झापा जिले की अंतरराष्ट्रीय सीमा से मात्र 10 किलोमीटर के दायरे में स्थित है। राज्य राजमार्ग 98 और राष्ट्रीय राजमार्ग 327C से अलग होने वाली ग्रामीण पक्की और अर्ध-पक्की संपर्क सड़कों के माध्यम से यहां निजी वाहनों, मोटरसाइकिलों और किराए की टैक्सियों द्वारा सुगमता से पहुंचा जा सकता है।"
+      },
+      "latitude": 26.4621,
+      "longitude": 88.0815,
+      "mapQuery": "Ruins of Churli Estate, Churli, Thakurganj, Kishanganj, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "days": {
+            "en": "Monday to Sunday (Daylight hours recommended)",
+            "hi": "सोमवार से रविवार (दिन के उजाले के दौरान अनुशंसित)"
+          },
+          "open": "08:00",
+          "close": "17:00"
+        }
+      ],
+      "entryFee": {
+        "standard": 0,
+        "currency": "INR",
+        "isFree": true,
+        "description": {
+          "en": "Free open access heritage site; no commercial ticketing.",
+          "hi": "निःशुल्क खुली विरासत स्थल; कोई वाणिज्यिक टिकट नहीं।"
+        }
+      },
+      "recommendedDurationMinutes": 90,
+      "bestTimeToVisit": {
+        "en": "October to March",
+        "hi": "अक्टूबर से मार्च"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Approached via State Highway 98 connecting Kishanganj to Thakurganj, followed by rural link roads heading west towards Churli and Ruidhasa. Suitable for private cars, sports utility vehicles, and motorbikes.",
+        "hi": "किशनगंज को ठाकुरगंज से जोड़ने वाले राज्य राजमार्ग 98 के माध्यम से पहुंचा जाता है, जिसके बाद पश्चिम में चूरली और रुईधासा की ओर जाने वाली ग्रामीण संपर्क सड़कें हैं। निजी कारों, एसयूवी और मोटरसाइकिलों के लिए उपयुक्त।"
+      },
+      "railway": [
+        {
+          "name": {
+            "en": "Thakurganj Railway Station (TKG)",
+            "hi": "ठाकुरगंज रेलवे स्टेशन (TKG)"
+          },
+          "distanceKm": 8
+        },
+        {
+          "name": {
+            "en": "Kishanganj Railway Junction (KNE)",
+            "hi": "किशनगंज रेलवे जंक्शन (KNE)"
+          },
+          "distanceKm": 52
+        }
+      ],
+      "airport": [
+        {
+          "name": {
+            "en": "Bagdogra International Airport, Siliguri (IXB)",
+            "hi": "बागडोगरा अंतरराष्ट्रीय हवाई अड्डा, सिलीगुड़ी (IXB)"
+          },
+          "distanceKm": 54
+        }
+      ],
+      "localTransport": {
+        "en": "Hired jeeps, private taxis, and rural auto-rickshaws can be booked from Thakurganj market to reach Churli village.",
+        "hi": "चूरली गांव तक पहुंचने के लिए ठाकुरगंज बाजार से किराए की जीप, निजी टैक्सी और ग्रामीण ऑटो-रिक्शा बुक किए जा सकते हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": 0,
+      "localTransport": 250
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": false,
+      "drinkingWater": false,
+      "food": false,
+      "accommodation": false,
+      "atm": false,
+      "medical": false
+    },
+    "accessibility": {
+      "difficulty": "moderate",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 500,
+      "stairs": true,
+      "wheelchairAccessible": false,
+      "suitableForChildren": true,
+      "suitableForElderly": false
+    },
+    "travelTips": [
+      {
+        "en": "When planning an excursion to explore the Ruins of Churli Estate, it is strongly advised to schedule your trip exclusively during the dry winter months between October and March. The monsoon season brings heavy precipitation that can make rural approach pathways muddy and causes wild foliage to grow densely around the masonry. Arrive during bright daylight hours (preferably between 9:00 AM and 3:30 PM) to ensure clear visibility and safe footing around ancient brickwork, arches, and uneven stairways. Wear sturdy closed-toe walking boots or trekking shoes and full-length trousers to protect against briars, wild brambles, and insects. Because the site is an unrestored ruin situated in an agricultural village, there are no commercial amenities; travelers must carry adequate bottled drinking water, snacks, hand sanitizer, and a fully charged mobile phone. Enlisting a polite local villager to guide your path is highly beneficial, as they can direct you toward the safest vantage points and narrate fascinating oral folklore surrounding the zamindars.",
+        "hi": "चूरली एस्टेट के खंडहरों के भ्रमण की योजना बनाते समय, केवल अक्टूबर से मार्च के बीच शुष्क शीतकालीन महीनों में यात्रा करने की दृढ़ता से सलाह दी जाती है। मानसूनी मौसम में भारी बारिश के कारण ग्रामीण रास्ते कीचड़युक्त हो जाते हैं और पुरानी इमारतों के चारों ओर घनी जंगली झाड़ियां उग आती हैं। दिन के उजाले में (प्रातः 9:00 बजे से दोपहर 3:30 बजे के बीच) पहुंचना सुनिश्चित करें ताकि प्राचीन ईंटों, मेहराबों और असमान सीढ़ियों पर सुरक्षित रूप से चला जा सके। कांटों, झाड़ियों और कीटों से सुरक्षा के लिए मजबूत बंद जूते और पूरी आस्तीन के कपड़े पहनें। चूंकि यह ग्रामीण क्षेत्र में स्थित एक असंरक्षित ऐतिहासिक खंडहर है, इसलिए आसपास कोई वाणिज्यिक सुविधाएं नहीं हैं; पर्यटकों को पर्याप्त पेयजल, स्नैक्स, जरूरी दवाइयां और पूरी तरह से चार्ज मोबाइल साथ रखना चाहिए। गांव के किसी जानकार स्थानीय निवासी को साथ लेना बहुत फायदेमंद होता है, जो सुरक्षित रास्तों का मार्गदर्शन करने के साथ-साथ रियासत के रोचक किस्से भी साझा कर सकते हैं।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "har-gauri-temple-thakurganj",
+      "kishanganj-tea-gardens"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-18",
+      "sources": [
+        {
+          "title": "Heritage and Historic Monuments of Kishanganj",
+          "organization": "District Administration Kishanganj",
+          "url": "https://kishanganj.nic.in/tourist-places/"
+        },
+        {
+          "title": "Archaeological and Historical Sites of Seemanchal",
+          "organization": "Archaeological Directorate, Department of Art, Culture & Youth, Govt. of Bihar",
+          "url": "https://yac.bihar.gov.in/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-18",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": [],
+    "circuits": []
+  }
+]

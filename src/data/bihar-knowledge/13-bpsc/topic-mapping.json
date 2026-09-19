@@ -1,0 +1,182 @@
+{
+  "data": [
+    {
+      "id": "bpsc-ancient-history-magadha-map",
+      "examSection": "BPSC Prelims GS & Mains GS Paper 1",
+      "topicName": {
+        "en": "Ancient Bihar: Mahajanapadas, Magadha, Maurya & Gupta Empires",
+        "hi": "प्राचीन बिहार: महाजनपद, मगध, मौर्य एवं गुप्त साम्राज्य"
+      },
+      "syllabusCoverage": {
+        "en": "Rise of Magadha, Bimbisara and Ajatashatru, Mauryan administration and Ashoka's Dhamma, Gupta Golden Age, ancient universities (Nalanda, Vikramashila, Odantapuri).",
+        "hi": "मगध का उत्कर्ष, बिंबिसार और अजातशत्रु, मौर्य प्रशासन एवं अशोक का धम्म, गुप्त स्वर्ण युग तथा प्राचीन विश्वविद्यालय (नालंदा, विक्रमशिला, ओदंतपुरी)।"
+      },
+      "mappedModules": [
+        "02-history/ancient.json",
+        "09-districts/districts.json",
+        "10-people/personalities.json"
+      ],
+      "bpscRelevance": {
+        "prelimsWeightage": "Very High (8-12 questions typically in Prelims)",
+        "mainsWeightage": "High (Direct questions on Mauryan/Pala art, administrative structures)"
+      },
+      "keyStudyPoints": {
+        "en": "Three Buddhist Councils held in Bihar; capital shifts from Rajgir (Girivraja) to Pataliputra by Udayin; Megasthenes' Indica account of Pataliputra municipal administration; Kautilya's Arthashastra.",
+        "hi": "बिहार में आयोजित बौद्ध संगीतियां; उदयन द्वारा राजधानी का राजगृह से पाटलिपुत्र स्थानांतरण; मेगास्थनीज की 'इंडिका' में वर्णित पाटलिपुत्र नगर प्रशासन; कौटिल्य का अर्थशास्त्र।"
+      }
+    },
+    {
+      "id": "bpsc-freedom-struggle-bihar-map",
+      "examSection": "BPSC Prelims GS & Mains GS Paper 1",
+      "topicName": {
+        "en": "Role of Bihar in the Indian National Movement (1857-1947)",
+        "hi": "भारतीय राष्ट्रीय आंदोलन में बिहार की भूमिका (1857-1947)"
+      },
+      "syllabusCoverage": {
+        "en": "1857 Revolt led by Veer Kunwar Singh; Champaran Satyagraha (1917); Non-Cooperation and Civil Disobedience Movements; Quit India Movement (1942); Azad Dasta; Kisan Sabha Movement.",
+        "hi": "वीर कुंवर सिंह के नेतृत्व में 1857 का विद्रोह; चंपारण सत्याग्रह (1917); असहयोग एवं सविनय अवज्ञा आंदोलन; भारत छोड़ो आंदोलन (1942); आजाद दस्ता; किसान सभा आंदोलन।"
+      },
+      "mappedModules": [
+        "02-history/freedom-movement.json",
+        "02-history/modern.json",
+        "10-people/personalities.json"
+      ],
+      "bpscRelevance": {
+        "prelimsWeightage": "Extremely High (15-20 questions in History section)",
+        "mainsWeightage": "Mandatory 38-mark questions in GS Paper 1 Section 1"
+      },
+      "keyStudyPoints": {
+        "en": "Kunwar Singh's campaigns across Jagdishpur, Arrah, and Azamgarh; Raj Kumar Shukla inviting Gandhiji to Champaran; Tinkathia system abolition; Patna Secretariat firing (11 August 1942) and seven martyrs; Jayaprakash Narayan's escape from Hazaribagh jail and formation of Azad Dasta.",
+        "hi": "जगदीशपुर और आजमगढ़ में कुंवर सिंह का सैन्य अभियान; राजकुमार शुक्ल द्वारा गांधीजी को चंपारण निमंत्रण; तिनकठिया प्रथा की समाप्ति; पटना सचिवालय गोलीकांड (11 अगस्त 1942) के 7 शहीद; जयप्रकाश नारायण का हजारीबाग जेल से पलायन और आजाद दस्ता का गठन।"
+      }
+    },
+    {
+      "id": "bpsc-bihar-art-and-culture-map",
+      "examSection": "BPSC Mains GS Paper 1 (Section 1)",
+      "topicName": {
+        "en": "Art & Architecture of Bihar: Mauryan, Pala & Patna Kalam",
+        "hi": "बिहार की कला एवं वास्तुकला: मौर्य कला, पाल कला एवं पटना कलम"
+      },
+      "syllabusCoverage": {
+        "en": "Architectural features, materials, court patronage, folk traditions, sculpture, and miniature paintings of Bihar.",
+        "hi": "बिहार की स्थापत्य कला विशेषताएं, प्रयुक्त सामग्री, राज्याश्रय, लोक कला, मूर्तिकला एवं लघु चित्रकला।"
+      },
+      "mappedModules": [
+        "07-culture/art.json",
+        "07-culture/crafts.json",
+        "07-culture/literature.json"
+      ],
+      "bpscRelevance": {
+        "prelimsWeightage": "Moderate (3-5 questions on GI tags, painters, monuments)",
+        "mainsWeightage": "Extremely High (Almost cyclic rotational 38-mark question in Mains GS-1)"
+      },
+      "keyStudyPoints": {
+        "en": "Mauryan polished monolithic pillars, Didarganj Yakshi, Barabar rock-cut caves (Lomas Rishi); Pala bronzes created by Dhiman and Vitapala; Patna Kalam's Kajli Siyahi technique and depiction of commoners; Madhubani styles (Kachni, Bharni, Godna).",
+        "hi": "मौर्यकालीन चमकदार एकाश्मक स्तंभ, दीदारगंज यक्षी, बराबर की गुफाएं (लोमश ऋषि); धीमान और विटपाल द्वारा निर्मित पाल कांस्य प्रतिमाएं; पटना कलम की 'कजली सियाही' तकनीक और आम जनजीवन का चित्रण; मधुबनी की शैलियां (कचनी, भरणी, गोदना)।"
+      }
+    },
+    {
+      "id": "bpsc-bihar-geography-and-rivers-map",
+      "examSection": "BPSC Prelims GS & Mains GS Paper 2 (Section 2)",
+      "topicName": {
+        "en": "Physical Geography, Drainage & River Systems of Bihar",
+        "hi": "बिहार का भौतिक भूगोल, अपवाह तंत्र एवं नदियाँ"
+      },
+      "syllabusCoverage": {
+        "en": "Physiographic divisions (Shiwalik foothills, North Bihar Plain, South Bihar Plain), River Ganga and its northern (Ghaghara, Gandak, Burhi Gandak, Bagmati, Kamla, Kosi, Mahananda) and southern (Karmanasa, Sone, Punpun, Falgu, Kiul) tributaries, river confluence points, and flood-drought hazards.",
+        "hi": "भू-आकृतिक विभाजन (शिवालिक तराई, उत्तर बिहार का मैदान, दक्षिण बिहार का मैदान), गंगा नदी और उसकी उत्तरी (घाघरा, गंडक, बूढ़ी गंडक, बागमती, कमला, कोसी, महानंदा) तथा दक्षिणी (कर्मनाशा, सोन, पुनपुन, फल्गु, किऊल) सहायक नदियां, संगम स्थल और बाढ़-सुखाड़ समस्या।"
+      },
+      "mappedModules": [
+        "03-geography/physical-geography.json",
+        "03-geography/rivers.json",
+        "08-environment/ecology.json"
+      ],
+      "bpscRelevance": {
+        "prelimsWeightage": "Very High (8-10 questions in Geography)",
+        "mainsWeightage": "High (Questions on river water management, flood recurrence, and river linking)"
+      },
+      "keyStudyPoints": {
+        "en": "Ganga enters Bihar at Chausa (Buxar) and leaves at Manihari (Katihar), traversing ~445 km across 12 districts; Kosi's shifting nature; Sone enters near Rohtas from Amarkantak; Sonpur confluence of Gandak and Ganga.",
+        "hi": "गंगा चौसा (बक्सर) में बिहार में प्रवेश करती है और मनिहारी (कटिहार) से निकलती है (12 जिलों से होकर लगभग 445 किमी प्रवाह); कोसी का मार्ग परिवर्तन; अमरकंटक से निकलकर रोहतास के पास सोन का प्रवेश; गंडक-गंगा का सोनपुर संगम।"
+      }
+    },
+    {
+      "id": "bpsc-bihar-economy-and-agriculture-map",
+      "examSection": "BPSC Mains GS Paper 2 (Section 2) & Prelims GS",
+      "topicName": {
+        "en": "Economy, Agriculture Roadmaps & Industrial Growth of Bihar",
+        "hi": "बिहार की अर्थव्यवस्था, कृषि रोडमैप एवं औद्योगिक विकास"
+      },
+      "syllabusCoverage": {
+        "en": "Agrarian economy, Agriculture Roadmap IV (2023-2028), agro-based industries (sugar, makhana, food processing), ethanol policy, Bihar Industrial Investment Promotion Policy, and Economic Survey analysis.",
+        "hi": "कृषि आधारित अर्थव्यवस्था, चतुर्थ कृषि रोडमैप (2023-2028), कृषि-प्रसंस्करण उद्योग (चीनी, मखाना, खाद्य प्रसंस्करण), एथेनॉल नीति, बिहार औद्योगिक निवेश प्रोत्साहन नीति तथा आर्थिक सर्वेक्षण का विश्लेषण।"
+      },
+      "mappedModules": [
+        "05-economy/economy.json",
+        "05-economy/agriculture.json",
+        "12-development/development-indicators.json",
+        "12-development/schemes.json"
+      ],
+      "bpscRelevance": {
+        "prelimsWeightage": "High (Budget and Economic Survey factual questions)",
+        "mainsWeightage": "Extremely High (Standard 38-mark analytical question on Bihar's economic progress and agrarian challenges)"
+      },
+      "keyStudyPoints": {
+        "en": "Agriculture Roadmap IV priorities; Bihar as India's first state to implement an Ethanol Production Promotion Policy (2021); GSDP growth rate (10.64% in 2022-23); Per capita income dynamics.",
+        "hi": "चतुर्थ कृषि रोडमैप की प्राथमिकताएं; 2021 में एथेनॉल प्रोत्साहन नीति लागू करने वाला बिहार देश का पहला राज्य; 2022-23 में GSDP की 10.64% विकास दर; प्रति व्यक्ति आय का विश्लेषण।"
+      }
+    },
+    {
+      "id": "bpsc-panchayati-raj-governance-map",
+      "examSection": "BPSC Mains GS Paper 2 (Section 1) & Prelims GS",
+      "topicName": {
+        "en": "Polity & Panchayati Raj System in Bihar",
+        "hi": "बिहार में राजव्यवस्था एवं पंचायती राज प्रणाली"
+      },
+      "syllabusCoverage": {
+        "en": "Bihar Panchayati Raj Act 2006, pioneering 50% reservation for women in local bodies, structure of Gram Panchayat, Panchayat Samiti, and Zila Parishad, Governor's role, and administrative machinery.",
+        "hi": "बिहार पंचायती राज अधिनियम 2006, स्थानीय निकायों में महिलाओं को 50% आरक्षण देने वाला देश का पहला राज्य, ग्राम पंचायत, पंचायत समिति और जिला परिषद की संरचना, राज्यपाल की भूमिका एवं प्रशासनिक तंत्र।"
+      },
+      "mappedModules": [
+        "04-polity/polity.json",
+        "04-polity/local-government.json",
+        "12-development/schemes.json"
+      ],
+      "bpscRelevance": {
+        "prelimsWeightage": "Moderate (4-6 questions)",
+        "mainsWeightage": "High (Questions on grassroots democracy, women empowerment via local governance, Jeevika)"
+      },
+      "keyStudyPoints": {
+        "en": "Bihar was the first state in India to grant 50% reservation to women in Panchayats in 2006; Gram Katchahry judicial mechanism at village level; administrative structure (9 divisions, 38 districts, 101 subdivisions, 534 blocks).",
+        "hi": "2006 में पंचायती राज संस्थाओं में महिलाओं को 50% आरक्षण देने वाला भारत का पहला राज्य; ग्राम स्तर पर ग्राम कचहरी की न्यायिक प्रणाली; प्रशासनिक ढांचा (9 प्रमंडल, 38 जिले, 101 अनुमंडल, 534 प्रखंड)।"
+      }
+    },
+    {
+      "id": "bpsc-environment-and-disaster-management-map",
+      "examSection": "BPSC Mains GS Paper 2 (Section 3 - Science & Tech) & Prelims GS",
+      "topicName": {
+        "en": "Environment, Forests, Wildlife & Disaster Management in Bihar",
+        "hi": "पर्यावरण, वन, वन्यजीव एवं आपदा प्रबंधन (बिहार)"
+      },
+      "syllabusCoverage": {
+        "en": "ISFR forest survey statistics, Valmiki Tiger Reserve, Ramsar sites (Kanwar Lake, Nagi-Nakti), Jal-Jeevan-Hariyali Abhiyan, flood management technology, and lightning/earthquake mitigation.",
+        "hi": "ISFR वन रिपोर्ट आंकड़े, वाल्मीकि टाइगर रिजर्व, रामसर स्थल (कांवर झील, नागी-नकटी), जल-जीवन-हरियाली अभियान, बाढ़ प्रबंधन में विज्ञान एवं प्रौद्योगिकी तथा वज्रपात/भूकंप न्यूनीकरण।"
+      },
+      "mappedModules": [
+        "08-environment/forests.json",
+        "08-environment/wildlife.json",
+        "08-environment/protected-areas.json",
+        "11-institutions/institutions.json",
+        "12-development/schemes.json"
+      ],
+      "bpscRelevance": {
+        "prelimsWeightage": "High (Forest area, sanctuaries, endangered species)",
+        "mainsWeightage": "High (Role of Science & Tech in combating recurring floods, drought, and climate change in Bihar)"
+      },
+      "keyStudyPoints": {
+        "en": "Kaimur has highest forest area and percentage; Valmiki is only National Park; Kanwar Lake is first Ramsar site; Nagi and Nakti designated in 2024; Har Ghar Gangajal project utilizing flood water for drinking; Indravajra app for lightning alert.",
+        "hi": "कैमूर में सर्वाधिक वन क्षेत्र एवं प्रतिशत; वाल्मीकि एकमात्र राष्ट्रीय उद्यान; काबरताल पहला रामसर स्थल; नागी एवं नकटी 2024 में घोषित रामसर स्थल; बाढ़ के पानी से पेयजल आपूर्ति की 'हर घर गंगाजल' परियोजना; वज्रपात चेतावनी के लिए इंद्रवज्र ऐप।"
+      }
+    }
+  ]
+}

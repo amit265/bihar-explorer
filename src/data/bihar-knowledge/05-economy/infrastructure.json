@@ -1,0 +1,510 @@
+{
+  "data": [
+    {
+      "id": "ganga-path-marine-drive",
+      "category": "urban-expressways",
+      "title": {
+        "en": "Loknayak Ganga Path (Patna Marine Drive)",
+        "hi": "लोकनायक गंगा पथ (पटना मरीन ड्राइव)"
+      },
+      "description": {
+        "en": "### Urban Transformation\nThe Loknayak Ganga Path, enthusiastically acclaimed as Patna's Marine Drive, is a remarkable 20.5 km long riverside and elevated expressway running beautifully along the southern bank of the holy Ganga.\n\n### Seamless Connectivity\n* **Route:** It connects Digha in the west seamlessly to Didarganj in the east.\n* **Interchanges:** Features major interchanges at crucial nodes like LCT Ghat, AN Sinha Institute, and Gandhi Maidan, ensuring rapid transit.\n\n### Civic Impact\nBeyond significantly easing urban mobility and traffic congestion in Patna, it has successfully created a vibrant, scenic riverfront promenade that serves as a major recreational spot for citizens.",
+        "hi": "### शहरी परिवर्तन\nलोकनायक गंगा पथ, जिसे पटना के मरीन ड्राइव के रूप में उत्साहपूर्वक सराहा जाता है, पवित्र गंगा के दक्षिणी तट के किनारे चलने वाला एक उल्लेखनीय 20.5 किमी लंबा रिवरसाइड और एलिवेटेड एक्सप्रेसवे है।\n\n### निर्बाध कनेक्टिविटी\n* **मार्ग:** यह पश्चिम में दीघा को पूर्व में दीदारगंज से निर्बाध रूप से जोड़ता है।\n* **इंटरचेंज:** इसमें LCT घाट, एएन सिन्हा संस्थान और गांधी मैदान जैसे महत्वपूर्ण नोड्स पर प्रमुख इंटरचेंज हैं, जो तेजी से आवागमन सुनिश्चित करते हैं।\n\n### नागरिक प्रभाव\nपटना में शहरी गतिशीलता और यातायात की भीड़ को काफी कम करने के अलावा, इसने सफलतापूर्वक एक जीवंत, सुंदर रिवरफ्रंट प्रोमेनेड बनाया है जो नागरिकों के लिए एक प्रमुख मनोरंजन स्थल के रूप में कार्य करता है।"
+      },
+      "indicators": {
+        "lengthKm": 20.5,
+        "type": "Elevated & embankment expressway",
+        "westernTerminus": "Digha (Patna)",
+        "easternTerminus": "Didarganj (Patna)",
+        "interchanges": [
+          "Digha",
+          "LCT Ghat",
+          "AN Sinha Institute",
+          "Gandhi Maidan / Golghar",
+          "Gai Ghat",
+          "Kangan Ghat",
+          "Didarganj"
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Bihar Rajya Pul Nirman Nigam Limited (BRPNNL) / Road Construction Department, Bihar",
+        "hi": "बिहार राज्य पुल निर्माण निगम लिमिटेड (BRPNNL) / पथ निर्माण विभाग, बिहार"
+      },
+      "relatedDistricts": [
+        "patna"
+      ]
+    },
+    {
+      "id": "expressway-network",
+      "category": "expressways-highways",
+      "title": {
+        "en": "Access-Controlled Expressway Network",
+        "hi": "एक्सेस-नियंत्रित एक्सप्रेसवे नेटवर्क"
+      },
+      "description": {
+        "en": "### A New Era of Highways\nBihar is rapidly entering a transformative era of high-speed highway connectivity, characterized by multiple greenfield, access-controlled expressways currently under rapid development by the National Highways Authority of India (NHAI).\n\n### Major Expressway Projects\n* **Amas-Darbhanga Expressway (NH-119D):** Bihar's first access-controlled expressway, directly linking the Grand Trunk Road to North Bihar.\n* **Varanasi-Kolkata Expressway (NH-319B):** A high-speed economic corridor traversing through the southern districts of Kaimur, Rohtas, Aurangabad, and Gaya.\n* **Raxaul-Haldia Expressway:** A critical port-connectivity corridor linking the Nepal border straight to Haldia Port.\n\n### Economic Significance\nThese massive projects will drastically reduce travel times, boost logistics efficiency, and spur industrial corridors along their routes.",
+        "hi": "### राजमार्गों का एक नया युग\nबिहार तेजी से हाई-स्पीड हाईवे कनेक्टिविटी के एक परिवर्तनकारी युग में प्रवेश कर रहा है, जिसकी विशेषता भारतीय राष्ट्रीय राजमार्ग प्राधिकरण (NHAI) द्वारा तेजी से विकसित किए जा रहे कई ग्रीनफील्ड, एक्सेस-नियंत्रित एक्सप्रेसवे हैं।\n\n### प्रमुख एक्सप्रेसवे परियोजनाएं\n* **अमास-दरभंगा एक्सप्रेसवे (NH-119D):** बिहार का पहला एक्सेस-नियंत्रित एक्सप्रेसवे, जो सीधे ग्रांड ट्रंक रोड को उत्तर बिहार से जोड़ता है।\n* **वाराणसी-कोलकाता एक्सप्रेसवे (NH-319B):** कैमूर, रोहतास, औरंगाबाद और गया के दक्षिणी जिलों से गुजरने वाला एक हाई-स्पीड आर्थिक गलियारा।\n* **रक्सौल-हल्दिया एक्सप्रेसवे:** नेपाल सीमा को सीधे हल्दिया बंदरगाह से जोड़ने वाला एक महत्वपूर्ण बंदरगाह-कनेक्टिविटी गलियारा।\n\n### आर्थिक महत्व\nये विशाल परियोजनाएं यात्रा के समय को काफी कम करेंगी, रसद दक्षता को बढ़ावा देंगी और अपने मार्गों के साथ औद्योगिक गलियारों को प्रेरित करेंगी।"
+      },
+      "expressways": [
+        {
+          "name": {
+            "en": "Amas-Darbhanga Expressway (NH-119D)",
+            "hi": "अमास-दरभंगा एक्सप्रेसवे (NH-119D)"
+          },
+          "lengthKm": 189,
+          "route": [
+            "aurangabad",
+            "gaya",
+            "jehanabad",
+            "patna",
+            "vaishali",
+            "samastipur",
+            "darbhanga"
+          ],
+          "significance": {
+            "en": "First access-controlled expressway of Bihar, linking GT Road to North Bihar",
+            "hi": "बिहार का पहला एक्सेस-नियंत्रित एक्सप्रेसवे, जो जीटी रोड को उत्तर बिहार से जोड़ता है"
+          }
+        },
+        {
+          "name": {
+            "en": "Varanasi-Kolkata Expressway (NH-319B)",
+            "hi": "वाराणसी-कोलकाता एक्सप्रेसवे (NH-319B)"
+          },
+          "lengthKmInBihar": 159,
+          "route": [
+            "kaimur",
+            "rohtas",
+            "aurangabad",
+            "gaya"
+          ],
+          "significance": {
+            "en": "High-speed economic corridor linking Uttar Pradesh, Bihar, Jharkhand, and West Bengal",
+            "hi": "उत्तर प्रदेश, बिहार, झारखंड और पश्चिम बंगाल को जोड़ने वाला हाई-स्पीड आर्थिक गलियारा"
+          }
+        },
+        {
+          "name": {
+            "en": "Raxaul-Haldia Expressway",
+            "hi": "रक्सौल-हल्दिया एक्सप्रेसवे"
+          },
+          "lengthKmInBihar": 367,
+          "route": [
+            "east-champaran",
+            "sheohar",
+            "muzaffarpur",
+            "samastipur",
+            "begusarai",
+            "lakhisarai",
+            "jamui",
+            "banka"
+          ],
+          "significance": {
+            "en": "Port-connectivity corridor connecting Nepal border at Raxaul directly to Haldia Port",
+            "hi": "रक्सौल में नेपाल सीमा को सीधे हल्दिया बंदरगाह से जोड़ने वाला बंदरगाह-कनेक्टिविटी गलियारा"
+          }
+        }
+      ],
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "National Highways Authority of India (NHAI) / Ministry of Road Transport and Highways (MoRTH)",
+        "hi": "भारतीय राष्ट्रीय राजमार्ग प्राधिकरण (NHAI) / सड़क परिवहन एवं राजमार्ग मंत्रालय (MoRTH)"
+      },
+      "relatedDistricts": [
+        "aurangabad",
+        "gaya",
+        "patna",
+        "darbhanga",
+        "kaimur",
+        "rohtas",
+        "east-champaran"
+      ]
+    },
+    {
+      "id": "major-ganga-river-bridges",
+      "category": "bridges-and-river-crossings",
+      "title": {
+        "en": "Bridges Across the River Ganga",
+        "hi": "गंगा नदी पर प्रमुख महासेतु"
+      },
+      "description": {
+        "en": "### Bridging the Divide\nThe mighty River Ganga physically bisects Bihar into northern and southern halves. However, major engineering milestones have successfully bridged this geographic divide, unifying the two regions economically and socially.\n\n### Marvels of Engineering\n* **Mahatma Gandhi Setu:** The iconic 5.57 km bridge, recently reconstructed with a modern steel superstructure, remains the lifeline between Patna and North Bihar.\n* **JP Ganga Setu:** The Digha-Sonpur rail-cum-road bridge provides a critical dual-transport link.\n* **Vikramshila Setu:** Essential for eastern Bihar, connecting Bhagalpur and Naugachia.\n\n### Future Expansion\nOngoing projects like the 6-lane bridge parallel to Gandhi Setu and the Bakhtiyarpur-Tajpur bridge will further decongest and streamline trans-Ganga traffic.",
+        "hi": "### विभाजन को पाटना\nविशाल गंगा नदी बिहार को भौतिक रूप से उत्तरी और दक्षिणी हिस्सों में विभाजित करती है। हालाँकि, प्रमुख इंजीनियरिंग चमत्कारों ने इस भौगोलिक विभाजन को सफलतापूर्वक पाट दिया है, जिससे दोनों क्षेत्र आर्थिक और सामाजिक रूप से एकजुट हो गए हैं।\n\n### इंजीनियरिंग के चमत्कार\n* **महात्मा गांधी सेतु:** 5.57 किमी लंबा प्रतिष्ठित पुल, जिसे हाल ही में आधुनिक स्टील सुपरस्ट्रक्चर के साथ फिर से बनाया गया है, पटना और उत्तर बिहार के बीच जीवन रेखा बना हुआ है।\n* **जेपी गंगा सेतु:** दीघा-सोनपुर रेल-सह-सड़क पुल एक महत्वपूर्ण दोहरे-परिवहन लिंक प्रदान करता है।\n* **विक्रमशिला सेतु:** भागलपुर और नवगछिया को जोड़ने वाला पूर्वी बिहार के लिए आवश्यक पुल।\n\n### भविष्य का विस्तार\nगांधी सेतु के समानांतर 6-लेन पुल और बख्तियारपुर-ताजपुर पुल जैसी चल रही परियोजनाएं गंगा के पार यातायात को और अधिक सुव्यवस्थित और भीड़भाड़ मुक्त करेंगी।"
+      },
+      "bridges": [
+        {
+          "name": {
+            "en": "Mahatma Gandhi Setu",
+            "hi": "महात्मा गांधी सेतु"
+          },
+          "lengthKm": 5.575,
+          "connects": [
+            "patna",
+            "vaishali"
+          ],
+          "reconstructedSuperstructure": "Steel Truss (MoRTH)"
+        },
+        {
+          "name": {
+            "en": "Digha-Sonpur Rail-cum-Road Bridge (JP Setu)",
+            "hi": "दीघा-सोनपुर रेल-सह-सड़क पुल (जेपी सेतु)"
+          },
+          "lengthKm": 4.556,
+          "connects": [
+            "patna",
+            "saran"
+          ]
+        },
+        {
+          "name": {
+            "en": "Vikramshila Setu & Parallel 4-Lane Bridge",
+            "hi": "विक्रमशिला सेतु एवं समानांतर 4-लेन पुल"
+          },
+          "lengthKm": 4.367,
+          "connects": [
+            "bhagalpur",
+            "naugachia"
+          ]
+        },
+        {
+          "name": {
+            "en": "Rajendra Setu & New 6-Lane Bridge at Mokama",
+            "hi": "राजेंद्र सेतु एवं नया 6-लेन पुल (मोकामा)"
+          },
+          "lengthKm": 2.0,
+          "connects": [
+            "patna",
+            "begusarai"
+          ]
+        }
+      ],
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Road Construction Department, Government of Bihar / MoRTH",
+        "hi": "पथ निर्माण विभाग, बिहार सरकार / MoRTH"
+      },
+      "relatedDistricts": [
+        "patna",
+        "vaishali",
+        "saran",
+        "bhagalpur",
+        "begusarai"
+      ]
+    },
+    {
+      "id": "kosi-mahametu",
+      "category": "bridges-and-river-crossings",
+      "title": {
+        "en": "Kosi Mahasetu — Reuniting Mithila and Kosi",
+        "hi": "कोसी महासेतु — मिथिला और कोसी का ऐतिहासिक पुनर्मिलन"
+      },
+      "description": {
+        "en": "### A Historic Reunion\nThe devastating 1934 Bihar-Nepal earthquake washed away the rail bridge across the turbulent Kosi river, tragically severing direct transit between Nirmali (Supaul) and Saraigarh for a grueling 86 years.\n\n### The Engineering Feat\nThe monumental construction of the Kosi Rail and Road Mahasetu finally ended this decades-long separation.\n* **Rail Link:** Restored the 1.9 km direct railway track.\n* **Highway Link:** Developed a massive 10.6 km road bridge network.\n\n### Regional Impact\nThis restoration acts as a massive lifeline, seamlessly reuniting the Mithila and Kosi-Seemanchal divisions and drastically reducing travel time and distance for millions of residents.",
+        "hi": "### एक ऐतिहासिक पुनर्मिलन\nविनाशकारी 1934 के बिहार-नेपाल भूकंप ने उफनती कोसी नदी पर बने रेल पुल को बहा दिया था, जिससे दर्दनाक रूप से 86 वर्षों तक निर्मली (सुपौल) और सरायगढ़ के बीच सीधा संपर्क टूट गया था।\n\n### इंजीनियरिंग उपलब्धि\nकोसी रेल और सड़क महासेतु के स्मारकीय निर्माण ने अंततः इस दशकों लंबे अलगाव को समाप्त कर दिया।\n* **रेल लिंक:** 1.9 किमी लंबे सीधे रेलवे ट्रैक को बहाल किया।\n* **राजमार्ग लिंक:** 10.6 किमी के विशाल सड़क पुल नेटवर्क का विकास किया।\n\n### क्षेत्रीय प्रभाव\nयह बहाली एक विशाल जीवन रेखा के रूप में कार्य करती है, जो मिथिला और कोसी-सीमांचल प्रमंडलों को निर्बाध रूप से फिर से जोड़ती है और लाखों निवासियों के लिए यात्रा के समय और दूरी को काफी कम करती है।"
+      },
+      "indicators": {
+        "railBridgeLengthKm": 1.9,
+        "roadBridgeLengthKm": 10.6,
+        "inaugurationYear": 2020,
+        "connectedDivisions": [
+          "Tirhut",
+          "Darbhanga",
+          "Kosi",
+          "Purnia"
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "East Central Railway / National Highways Authority of India",
+        "hi": "पूर्व मध्य रेलवे / भारतीय राष्ट्रीय राजमार्ग प्राधिकरण"
+      },
+      "relatedDistricts": [
+        "supaul",
+        "madhubani",
+        "saharsa"
+      ]
+    },
+    {
+      "id": "patna-metro-rail",
+      "category": "urban-transit",
+      "title": {
+        "en": "Patna Metro Rail Project",
+        "hi": "पटना मेट्रो रेल परियोजना"
+      },
+      "description": {
+        "en": "### Urban Transit Evolution\nThe Patna Metro Rail Project is an ambitious, under-construction rapid transit system designed to fundamentally relieve Patna's escalating traffic density and modernize its public transport.\n\n### Network Architecture\n* **Phase 1 Corridors:** The project spans 32.4 km across two meticulously planned corridors (Danapur to Khemnichak, and Patna Junction to New ISBT).\n* **Infrastructure:** It features a strategic mix of both underground and elevated tracks to navigate the densely populated urban landscape.\n\n### Execution and Future\nExecuted by the Patna Metro Rail Corporation (PMRC) with technical expertise from the DMRC, the project promises to deliver a world-class, eco-friendly commuting experience to the capital's residents.",
+        "hi": "### शहरी परिवहन विकास\nपटना मेट्रो रेल परियोजना एक महत्वाकांक्षी, निर्माणाधीन रैपिड ट्रांजिट प्रणाली है जिसे पटना के बढ़ते यातायात घनत्व को कम करने और इसके सार्वजनिक परिवहन को आधुनिक बनाने के लिए डिज़ाइन किया गया है।\n\n### नेटवर्क वास्तुकला\n* **चरण 1 कॉरिडोर:** यह परियोजना दो सावधानीपूर्वक नियोजित कॉरिडोर (दानापुर से खेमनीचक, और पटना जंक्शन से न्यू आईएसबीटी) में 32.4 किमी तक फैली है।\n* **बुनियादी ढांचा:** घनी आबादी वाले शहरी परिदृश्य को नेविगेट करने के लिए इसमें भूमिगत और एलिवेटेड दोनों पटरियों का रणनीतिक मिश्रण है।\n\n### निष्पादन और भविष्य\nडीएमआरसी (DMRC) की तकनीकी विशेषज्ञता के साथ पटना मेट्रो रेल कॉर्पोरेशन (PMRC) द्वारा निष्पादित, यह परियोजना राजधानी के निवासियों को विश्व स्तरीय, पर्यावरण के अनुकूल यात्रा का अनुभव प्रदान करने का वादा करती है।"
+      },
+      "indicators": {
+        "totalLengthKm": 32.497,
+        "corridors": [
+          {
+            "name": {
+              "en": "Corridor 1: Danapur to Khemnichak",
+              "hi": "कॉरिडोर 1: दानापुर से खेमनीचक"
+            },
+            "lengthKm": 17.933,
+            "stationsCount": 14,
+            "type": "Elevated & Underground"
+          },
+          {
+            "name": {
+              "en": "Corridor 2: Patna Junction to New ISBT",
+              "hi": "कॉरिडोर 2: पटना जंक्शन से न्यू आईएसबीटी"
+            },
+            "lengthKm": 14.564,
+            "stationsCount": 12,
+            "type": "Elevated & Underground"
+          }
+        ],
+        "depotLocation": "Bairiya (Patna)"
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Patna Metro Rail Corporation Ltd. (PMRC) / Urban Development & Housing Department, Bihar",
+        "hi": "पटना मेट्रो रेल कॉर्पोरेशन लिमिटेड (PMRC) / नगर विकास एवं आवास विभाग, बिहार"
+      },
+      "relatedDistricts": [
+        "patna"
+      ]
+    },
+    {
+      "id": "railway-network-vande-bharat",
+      "category": "rail-infrastructure",
+      "title": {
+        "en": "Railway Modernization & Vande Bharat Express",
+        "hi": "रेलवे आधुनिकीकरण एवं वंदे भारत एक्सप्रेस"
+      },
+      "description": {
+        "en": "### The Railway Nerve Center\nHeadquartered at Hajipur, the East Central Railway (ECR) zone serves as the indispensable nerve center for Bihar's vast railway infrastructure, handling massive passenger and freight volumes.\n\n### Modernization Milestones\n* **Full Electrification:** Bihar has proudly achieved 100% electrification of its broad-gauge railway network, enabling greener and faster transit.\n* **Vande Bharat Fleet:** Multiple state-of-the-art, semi-high-speed Vande Bharat Express trains now operate seamlessly from Patna, Gaya, and Bhagalpur.\n\n### Enhanced Connectivity\nThese premium trains provide rapid connectivity to major national hubs including New Delhi, Howrah, Ranchi, Lucknow, and New Jalpaiguri, revolutionizing interstate travel.",
+        "hi": "### रेलवे का मुख्य केंद्र\nहाजीपुर में मुख्यालय वाला पूर्व मध्य रेलवे (ECR) जोन बिहार के विशाल रेलवे बुनियादी ढांचे के लिए अपरिहार्य तंत्रिका केंद्र (नर्व सेंटर) के रूप में कार्य करता है, जो बड़े पैमाने पर यात्री और माल ढुलाई को संभालता है।\n\n### आधुनिकीकरण के मील के पत्थर\n* **पूर्ण विद्युतीकरण:** बिहार ने गर्व से अपने ब्रॉड-गेज रेलवे नेटवर्क का 100% विद्युतीकरण हासिल कर लिया है, जिससे हरित और तेज आवागमन संभव हो गया है।\n* **वंदे भारत बेड़ा:** कई अत्याधुनिक, सेमी-हाई-स्पीड वंदे भारत एक्सप्रेस ट्रेनें अब पटना, गया और भागलपुर से निर्बाध रूप से संचालित होती हैं।\n\n### उन्नत कनेक्टिविटी\nये प्रीमियम ट्रेनें नई दिल्ली, हावड़ा, रांची, लखनऊ और न्यू जलपाईगुड़ी सहित प्रमुख राष्ट्रीय केंद्रों के लिए तीव्र कनेक्टिविटी प्रदान करती हैं, जिससे अंतरराज्यीय यात्रा में क्रांति आ गई है।"
+      },
+      "indicators": {
+        "railwayZoneHQ": "Hajipur (Vaishali)",
+        "electrificationStatus": "100% Broad Gauge Electrified",
+        "keyVandeBharatRoutes": [
+          "Patna – New Delhi (via Prayagraj, Kanpur)",
+          "Patna – Ranchi (via Gaya, Koderma)",
+          "Patna – Howrah (via Asansol)",
+          "Patna – Lucknow (via Ayodhya, Varanasi)",
+          "Patna – New Jalpaiguri (via Katihar, Kishanganj)",
+          "Bhagalpur – Howrah (via Dumka)"
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "East Central Railway, Indian Railways",
+        "hi": "पूर्व मध्य रेलवे, भारतीय रेल"
+      },
+      "relatedDistricts": [
+        "patna",
+        "vaishali",
+        "gaya",
+        "bhagalpur",
+        "katihar"
+      ]
+    },
+    {
+      "id": "civil-aviation-airports",
+      "category": "aviation-infrastructure",
+      "title": {
+        "en": "Civil Aviation & Airport Network",
+        "hi": "नागर विमानन एवं हवाई अड्डा नेटवर्क"
+      },
+      "description": {
+        "en": "### Skyrocketing Growth\nCivil aviation in Bihar has witnessed exponential passenger growth over the last decade, transitioning from a luxury to an essential mode of connectivity for millions.\n\n### Key Airport Developments\n* **Patna (PAT):** Jayprakash Narayan International Airport is undergoing a massive infrastructural expansion, featuring a new state-of-the-art multi-level passenger terminal.\n* **Gaya (GAY):** Facilitates crucial seasonal international pilgrim charters, primarily serving Southeast Asian Buddhist nations.\n* **Darbhanga (DBR):** Has remarkably emerged as India's most successful and heavily patronized regional connectivity (UDAN) hub.\n\n### Future Horizons\nUpcoming greenfield civil enclaves at Bihta and Purnea are aggressively being developed to decongest Patna and serve the Seemanchal region, respectively.",
+        "hi": "### आसमान छूती वृद्धि\nपिछले एक दशक में बिहार में नागर विमानन ने यात्रियों की संख्या में अभूतपूर्व वृद्धि देखी है, जो लाखों लोगों के लिए विलासिता से कनेक्टिविटी के एक आवश्यक साधन में बदल गया है।\n\n### प्रमुख हवाई अड्डा विकास\n* **पटना (PAT):** जयप्रकाश नारायण अंतरराष्ट्रीय हवाई अड्डे का बड़े पैमाने पर ढांचागत विस्तार हो रहा है, जिसमें एक नया अत्याधुनिक बहु-स्तरीय यात्री टर्मिनल शामिल है।\n* **गया (GAY):** महत्वपूर्ण मौसमी अंतरराष्ट्रीय तीर्थयात्री चार्टर उड़ानों की सुविधा प्रदान करता है, जो मुख्य रूप से दक्षिण-पूर्व एशियाई बौद्ध देशों की सेवा करता है।\n* **दरभंगा (DBR):** उल्लेखनीय रूप से भारत के सबसे सफल और भारी संरक्षण वाले क्षेत्रीय कनेक्टिविटी (उड़ान) हब के रूप में उभरा है।\n\n### भविष्य के क्षितिज\nबिहटा और पूर्णिया में आगामी ग्रीनफील्ड सिविल एन्क्लेव को क्रमशः पटना की भीड़ कम करने और सीमांचल क्षेत्र की सेवा करने के लिए आक्रामक रूप से विकसित किया जा रहा है।"
+      },
+      "airports": [
+        {
+          "code": "PAT",
+          "name": {
+            "en": "Jayprakash Narayan International Airport (Patna)",
+            "hi": "जयप्रकाश नारायण अंतरराष्ट्रीय हवाई अड्डा (पटना)"
+          },
+          "type": "Operational Domestic / Customs Airport",
+          "district": "patna"
+        },
+        {
+          "code": "GAY",
+          "name": {
+            "en": "Gaya International Airport",
+            "hi": "गया अंतरराष्ट्रीय हवाई अड्डा"
+          },
+          "type": "Operational International / Seasonal Buddhist Pilgrimage Airport",
+          "district": "gaya"
+        },
+        {
+          "code": "DBR",
+          "name": {
+            "en": "Darbhanga Airport",
+            "hi": "दरभंगा हवाई अड्डा"
+          },
+          "type": "Operational Regional Civil Enclave (IAF Base / UDAN RCS)",
+          "district": "darbhanga"
+        },
+        {
+          "code": "BIH",
+          "name": {
+            "en": "Bihta Civil Enclave (Upcoming)",
+            "hi": "बिहटा सिविल एन्क्लेव (आगामी)"
+          },
+          "type": "Upcoming Greenfield Commercial Airport to decongest Patna",
+          "district": "patna"
+        },
+        {
+          "code": "PRN",
+          "name": {
+            "en": "Purnea Civil Enclave (Under Development)",
+            "hi": "पूर्णिया सिविल एन्क्लेव (निर्माणाधीन)"
+          },
+          "type": "Under development for Seemanchal regional connectivity",
+          "district": "purnia"
+        }
+      ],
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Airports Authority of India (AAI) / Directorate of Civil Aviation, Bihar",
+        "hi": "भारतीय विमानपत्तन प्राधिकरण (AAI) / नागर विमानन निदेशालय, बिहार"
+      },
+      "relatedDistricts": [
+        "patna",
+        "gaya",
+        "darbhanga",
+        "purnia"
+      ]
+    },
+    {
+      "id": "thermal-power-stations",
+      "category": "energy-and-power",
+      "title": {
+        "en": "Major Thermal Power Stations",
+        "hi": "प्रमुख ताप विद्युत परियोजनाएं"
+      },
+      "description": {
+        "en": "### Powering the State\nPower availability and consumption in Bihar have surged spectacularly, successfully meeting and surpassing a peak demand of 7,500 MW, effectively ending the era of chronic power shortages.\n\n### The National Super Stations\nThis monumental turnaround is underpinned by gigantic national super thermal power stations operating within the state, primarily managed by NTPC.\n* **Barh STPS:** A colossal 3300 MW capacity station acting as a major baseload provider.\n* **Kahalgaon & Nabinagar:** These massive plants (2340 MW and 1980 MW respectively) ensure grid stability and continuous supply.\n\n### Energy Security\nTogether with the Barauni Thermal Power Station, these facilities supply highly dependable base-load power to both the state and the broader national grid.",
+        "hi": "### राज्य को शक्ति प्रदान करना\nबिहार में बिजली की उपलब्धता और खपत में शानदार वृद्धि हुई है, जो 7,500 मेगावाट की चरम मांग को सफलतापूर्वक पूरा करते हुए और पार करते हुए, पुरानी बिजली की कमी के युग को प्रभावी ढंग से समाप्त कर चुकी है।\n\n### राष्ट्रीय सुपर स्टेशन\nयह स्मारकीय बदलाव राज्य के भीतर काम कर रहे विशाल राष्ट्रीय सुपर थर्मल पावर स्टेशनों द्वारा समर्थित है, जिन्हें मुख्य रूप से एनटीपीसी (NTPC) द्वारा प्रबंधित किया जाता है।\n* **बाढ़ STPS:** 3300 मेगावाट क्षमता का एक विशाल स्टेशन जो प्रमुख बेसलॉड प्रदाता के रूप में कार्य करता है।\n* **कहलगांव और नबीनगर:** ये विशाल संयंत्र (क्रमशः 2340 मेगावाट और 1980 मेगावाट) ग्रिड स्थिरता और निरंतर आपूर्ति सुनिश्चित करते हैं।\n\n### ऊर्जा सुरक्षा\nबरौनी थर्मल पावर स्टेशन के साथ मिलकर, ये सुविधाएं राज्य और व्यापक राष्ट्रीय ग्रिड दोनों को अत्यधिक भरोसेमंद बेस-लोड बिजली की आपूर्ति करती हैं।"
+      },
+      "plants": [
+        {
+          "name": {
+            "en": "NTPC Barh Super Thermal Power Station",
+            "hi": "एनटीपीसी बाढ़ सुपर थर्मल पावर स्टेशन"
+          },
+          "installedCapacityMW": 3300,
+          "district": "patna"
+        },
+        {
+          "name": {
+            "en": "NTPC Kahalgaon Super Thermal Power Station",
+            "hi": "एनटीपीसी कहलगांव सुपर थर्मल पावर स्टेशन"
+          },
+          "installedCapacityMW": 2340,
+          "district": "bhagalpur"
+        },
+        {
+          "name": {
+            "en": "Nabinagar Super Thermal Power Project (NPGC)",
+            "hi": "नबीनगर सुपर थर्मल पावर प्रोजेक्ट (NPGC)"
+          },
+          "installedCapacityMW": 1980,
+          "district": "aurangabad"
+        },
+        {
+          "name": {
+            "en": "Barauni Thermal Power Station",
+            "hi": "बरौनी थर्मल पावर स्टेशन"
+          },
+          "installedCapacityMW": 720,
+          "district": "begusarai"
+        }
+      ],
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Bihar State Power Holding Company Limited (BSPHCL) / NTPC Ltd.",
+        "hi": "बिहार स्टेट पावर होल्डिंग कंपनी लिमिटेड (BSPHCL) / एनटीपीसी लिमिटेड"
+      },
+      "relatedDistricts": [
+        "patna",
+        "bhagalpur",
+        "aurangabad",
+        "begusarai"
+      ]
+    },
+    {
+      "id": "renewable-energy-initiatives",
+      "category": "renewable-energy",
+      "title": {
+        "en": "Renewable Energy & Floating Solar Plants",
+        "hi": "नवीकरणीय ऊर्जा एवं फ्लोटिंग सोलर संयंत्र"
+      },
+      "description": {
+        "en": "### Embracing Green Energy\nDriven by global climate commitments, the Bihar Renewable Energy Development Agency (BREDA) is actively pioneering innovative green energy solutions across the state.\n\n### Floating Solar Innovations\nTo conserve highly valuable arable land, Bihar has aggressively promoted floating solar installations over abundant water bodies.\n* **Darbhanga Plant:** Bihar's very first floating solar plant of 2 MW capacity was successfully commissioned over a pond in Kadadirabad.\n* **Supaul Expansion:** Followed closely by another 0.5 MW floating installation in Supaul.\n\n### Decentralized Power\nComplementing these are massive decentralized rooftop solar initiatives aggressively rolled out under the state's flagship Jal-Jeevan-Hariyali environmental mission.",
+        "hi": "### हरित ऊर्जा को अपनाना\nवैश्विक जलवायु प्रतिबद्धताओं से प्रेरित होकर, बिहार नवीकरणीय ऊर्जा विकास एजेंसी (BREDA) राज्य भर में नवीन हरित ऊर्जा समाधानों को सक्रिय रूप से आगे बढ़ा रही है।\n\n### फ्लोटिंग सोलर नवाचार\nअत्यधिक मूल्यवान कृषि योग्य भूमि के संरक्षण के लिए, बिहार ने प्रचुर जलाशयों के ऊपर फ्लोटिंग सोलर (तैरते सौर संयंत्र) प्रतिष्ठानों को आक्रामक रूप से बढ़ावा दिया है।\n* **दरभंगा संयंत्र:** बिहार का पहला 2 मेगावाट क्षमता का फ्लोटिंग सोलर प्लांट कादिराबाद के एक तालाब के ऊपर सफलतापूर्वक चालू किया गया।\n* **सुपौल विस्तार:** इसके तुरंत बाद सुपौल में एक और 0.5 मेगावाट का फ्लोटिंग इंस्टॉलेशन किया गया।\n\n### विकेंद्रीकृत ऊर्जा\nइनके पूरक राज्य के प्रमुख 'जल-जीवन-हरियाली' पर्यावरण मिशन के तहत आक्रामक रूप से शुरू की गई बड़े पैमाने पर विकेंद्रीकृत रूफटॉप सोलर पहल हैं।"
+      },
+      "indicators": {
+        "firstFloatingSolarLocation": {
+          "en": "Kadadirabad, Darbhanga (2 MW)",
+          "hi": "कादिराबाद, दरभंगा (2 MW)"
+        },
+        "secondFloatingSolarLocation": {
+          "en": "Supaul (0.5 MW)",
+          "hi": "सुपौल (0.5 MW)"
+        },
+        "agency": "BREDA (Bihar Renewable Energy Development Agency)"
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Bihar Renewable Energy Development Agency (BREDA)",
+        "hi": "बिहार नवीकरणीय ऊर्जा विकास एजेंसी (BREDA)"
+      },
+      "relatedDistricts": [
+        "darbhanga",
+        "supaul",
+        "patna"
+      ]
+    },
+    {
+      "id": "inland-waterways-nw1",
+      "category": "water-transport",
+      "title": {
+        "en": "National Waterway 1 (NW-1) on the Ganga",
+        "hi": "गंगा नदी पर राष्ट्रीय जलमार्ग 1 (NW-1)"
+      },
+      "description": {
+        "en": "### The Ganga Waterway\nThe mighty River Ganga hosts India's premier inland water transport route, the National Waterway 1 (NW-1), which stretches an impressive 1,620 km from Prayagraj all the way to Haldia.\n\n### Logistics Infrastructure\nUnder the ambitious Jal Marg Vikas Project (JMVP), heavy inland water transport infrastructure has been rapidly developed within Bihar to facilitate cheap freight movement.\n* **Gaighat Terminal:** A versatile Multi-Modal Terminal constructed in Patna for passenger and cargo transit.\n* **Kalughat Terminal:** A state-of-the-art intermodal container terminal in Saran, strategically built to handle and boost lucrative Nepal-bound cargo.\n\n### Economic Viability\nThis waterway network provides a highly cost-effective, eco-friendly alternative to road and rail logistics for bulk commodities.",
+        "hi": "### गंगा जलमार्ग\nविशाल गंगा नदी भारत के प्रमुख अंतर्देशीय जल परिवहन मार्ग, राष्ट्रीय जलमार्ग 1 (NW-1) की मेजबानी करती है, जो प्रयागराज से हल्दिया तक प्रभावशाली 1,620 किमी तक फैला है।\n\n### रसद बुनियादी ढांचा\nमहत्वाकांक्षी जल मार्ग विकास परियोजना (JMVP) के तहत, सस्ते माल ढुलाई की सुविधा के लिए बिहार के भीतर भारी अंतर्देशीय जल परिवहन बुनियादी ढांचे को तेजी से विकसित किया गया है।\n* **गायघाट टर्मिनल:** यात्री और माल पारगमन के लिए पटना में निर्मित एक बहुमुखी मल्टी-मॉडल टर्मिनल।\n* **कालूघाट टर्मिनल:** सारण में एक अत्याधुनिक इंटरमॉडल कंटेनर टर्मिनल, जिसे रणनीतिक रूप से नेपाल जाने वाले आकर्षक कार्गो को संभालने और बढ़ावा देने के लिए बनाया गया है।\n\n### आर्थिक व्यवहार्यता\nयह जलमार्ग नेटवर्क थोक वस्तुओं के लिए सड़क और रेल रसद का एक अत्यधिक लागत प्रभावी, पर्यावरण के अनुकूल विकल्प प्रदान करता है।"
+      },
+      "indicators": {
+        "waterway": "National Waterway 1 (Ganga-Bhagirathi-Hooghly river system)",
+        "totalStretchKm": 1620,
+        "terminalsInBihar": [
+          {
+            "terminal": "Gaighat Multi-Modal Terminal",
+            "district": "patna",
+            "purpose": "Passenger & Cargo Jetty"
+          },
+          {
+            "terminal": "Kalughat Intermodal Terminal",
+            "district": "saran",
+            "purpose": "Container Cargo handling for Nepal Trade"
+          }
+        ],
+        "governingBody": "Inland Waterways Authority of India (IWAI)"
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Inland Waterways Authority of India (IWAI), Ministry of Ports, Shipping and Waterways",
+        "hi": "भारतीय अंतर्देशीय जलमार्ग प्राधिकरण (IWAI), पत्तन, पोत परिवहन और जलमार्ग मंत्रालय"
+      },
+      "relatedDistricts": [
+        "patna",
+        "saran",
+        "buxar",
+        "munger",
+        "bhagalpur"
+      ]
+    }
+  ]
+}

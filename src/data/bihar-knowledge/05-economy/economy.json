@@ -1,0 +1,369 @@
+{
+  "data": [
+    {
+      "id": "gsdp-growth-trajectory",
+      "category": "macroeconomics",
+      "title": {
+        "en": "Gross State Domestic Product (GSDP) & Growth Rate",
+        "hi": "सकल राज्य घरेलू उत्पाद (GSDP) एवं विकास दर"
+      },
+      "description": {
+        "en": "### Overview\nBihar has been among the fastest-growing state economies in India over the past decade, consistently clocking double-digit real Gross State Domestic Product (GSDP) growth. This robust performance underscores the state's economic transformation and resilience.\n\n### Key Drivers of Growth\n* **Public Capital Investment:** The state government has significantly increased capital expenditure, driving economic momentum.\n* **Infrastructure Modernization:** Massive investments in roads, bridges, and energy have created a strong foundation for business and connectivity.\n* **Resilient Services Sector:** The tertiary sector continues to expand, contributing heavily to the overall GSDP.\n\n### Future Outlook\nWith sustained policy focus on industrialization and investment in human capital, Bihar is poised to maintain its high growth trajectory, bridging the developmental gap with the national average.",
+        "hi": "### अवलोकन\nबिहार पिछले दशक में भारत की सबसे तेजी से बढ़ती राज्य अर्थव्यवस्थाओं में से एक रहा है, जिसने लगातार दोहरे अंकों में वास्तविक सकल राज्य घरेलू उत्पाद (GSDP) विकास दर दर्ज की है। यह मजबूत प्रदर्शन राज्य के आर्थिक परिवर्तन और लचीलेपन को रेखांकित करता है।\n\n### विकास के प्रमुख चालक\n* **सार्वजनिक पूंजीगत निवेश:** राज्य सरकार ने पूंजीगत व्यय में उल्लेखनीय वृद्धि की है, जिससे आर्थिक गति को बढ़ावा मिला है।\n* **बुनियादी ढांचे का आधुनिकीकरण:** सड़कों, पुलों और ऊर्जा में बड़े पैमाने पर निवेश ने व्यापार और कनेक्टिविटी के लिए एक मजबूत नींव तैयार की है।\n* **मजबूत सेवा क्षेत्र:** तृतीयक क्षेत्र का विस्तार जारी है, जो कुल GSDP में भारी योगदान दे रहा है।\n\n### भविष्य का दृष्टिकोण\nऔद्योगीकरण और मानव पूंजी में निवेश पर निरंतर नीतिगत ध्यान के साथ, बिहार अपनी उच्च विकास दर को बनाए रखने और राष्ट्रीय औसत के साथ विकासात्मक अंतर को पाटने के लिए तैयार है।"
+      },
+      "indicators": {
+        "gsdpCurrentPricesInCrores": 751398,
+        "gsdpConstantPricesInCrores": 442473,
+        "realGrowthRatePercent": 10.64,
+        "nationalAverageGrowthPercent": 7.24
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Directorate of Economics and Statistics, Government of Bihar / Bihar Economic Survey",
+        "hi": "अर्थशास्त्र एवं सांख्यिकी निदेशालय, बिहार सरकार / बिहार आर्थिक सर्वेक्षण"
+      },
+      "relatedDistricts": [
+        "patna",
+        "begusarai",
+        "muzaffarpur"
+      ]
+    },
+    {
+      "id": "per-capita-income",
+      "category": "macroeconomics",
+      "title": {
+        "en": "Per Capita Net State Domestic Product (NSDP)",
+        "hi": "प्रति व्यक्ति शुद्ध राज्य घरेलू उत्पाद (NSDP)"
+      },
+      "description": {
+        "en": "### Current Economic Standing\nBihar's per capita income at current prices stands at approximately ₹59,637. While it currently remains below the national average, the state has witnessed a substantial expansion from under ₹8,000 in the 2004-05 period, reflecting continuous economic upliftment.\n\n### Regional Disparities\n* **Urban vs Rural:** There are pronounced inter-district disparities, primarily between the highly urbanized commercial centers and the predominantly rural northern districts.\n* **Top Performers:** Districts like Patna lead significantly in per capita income due to concentrated services and administration.\n\n### Strategic Priorities\nThe government's focus is on inclusive growth, aiming to boost rural incomes through agriculture diversification, MSME support, and targeted welfare schemes to ensure equitable wealth distribution.",
+        "hi": "### वर्तमान आर्थिक स्थिति\nवर्तमान मूल्यों पर बिहार की प्रति व्यक्ति आय लगभग ₹59,637 है। हालांकि यह वर्तमान में राष्ट्रीय औसत से नीचे बनी हुई है, लेकिन राज्य ने 2004-05 की अवधि में ₹8,000 से कम के स्तर से उल्लेखनीय विस्तार देखा है, जो निरंतर आर्थिक उत्थान को दर्शाता है।\n\n### क्षेत्रीय विषमताएं\n* **शहरी बनाम ग्रामीण:** मुख्य रूप से अत्यधिक शहरीकृत वाणिज्यिक केंद्रों और मुख्य रूप से ग्रामीण उत्तरी जिलों के बीच स्पष्ट अंतर-जिला विषमताएं मौजूद हैं।\n* **शीर्ष प्रदर्शनकर्ता:** केंद्रित सेवाओं और प्रशासन के कारण पटना जैसे जिले प्रति व्यक्ति आय में काफी आगे हैं।\n\n### रणनीतिक प्राथमिकताएं\nसरकार का ध्यान समावेशी विकास पर है, जिसका उद्देश्य कृषि विविधीकरण, MSME समर्थन और लक्षित कल्याणकारी योजनाओं के माध्यम से ग्रामीण आय को बढ़ाना है ताकि धन का समान वितरण सुनिश्चित किया जा सके।"
+      },
+      "indicators": {
+        "perCapitaCurrentPricesINR": 59637,
+        "perCapitaConstantPricesINR": 34114,
+        "highestDistrict": "patna",
+        "highestDistrictPerCapitaINR": 131064,
+        "lowestDistrict": "sheohar",
+        "lowestDistrictPerCapitaINR": 23618
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Bihar Economic Survey 2023-24, Planning and Development Department",
+        "hi": "बिहार आर्थिक सर्वेक्षण 2023-24, योजना एवं विकास विभाग"
+      },
+      "relatedDistricts": [
+        "patna",
+        "sheohar",
+        "araria",
+        "begusarai",
+        "munger"
+      ]
+    },
+    {
+      "id": "sectoral-share-primary",
+      "category": "sectoral-composition",
+      "title": {
+        "en": "Primary Sector (Agriculture & Allied Activities)",
+        "hi": "प्राथमिक क्षेत्र (कृषि एवं संबद्ध गतिविधियां)"
+      },
+      "description": {
+        "en": "### Economic Contribution\nThe primary sector, predominantly Agriculture and Allied Activities, contributes roughly 20.0% to Bihar's Gross State Value Added (GSVA). It remains the foundational pillar of the state's rural economy.\n\n### Livelihood and Employment\n* **Workforce Backbone:** It acts as the livelihood backbone, employing over 65% of the total workforce in the state.\n* **Diverse Activities:** Employment is sustained through diverse channels including crop agriculture, horticulture, dairy farming, fisheries, and agro-forestry.\n\n### Development Initiatives\nRecent agricultural policies emphasize climate-resilient farming, crop diversification, and expanding irrigation networks to enhance productivity and secure farmers' incomes against erratic weather patterns.",
+        "hi": "### आर्थिक योगदान\nप्राथमिक क्षेत्र, मुख्य रूप से कृषि और संबद्ध गतिविधियाँ, बिहार के सकल राज्य मूल्यवर्धन (GSVA) में लगभग 20.0% का योगदान देता है। यह राज्य की ग्रामीण अर्थव्यवस्था का आधारभूत स्तंभ बना हुआ है。\n\n### आजीविका और रोजगार\n* **कार्यबल की रीढ़:** यह आजीविका की रीढ़ के रूप में कार्य करता है, जो राज्य में कुल कार्यबल के 65% से अधिक को रोजगार प्रदान करता है।\n* **विविध गतिविधियाँ:** फसल कृषि, बागवानी, डेयरी फार्मिंग, मत्स्य पालन और कृषि-वानिकी सहित विविध माध्यमों से रोजगार कायम है。\n\n### विकास पहल\nहाल की कृषि नीतियां उत्पादकता बढ़ाने और अनियमित मौसम के मिजाज के खिलाफ किसानों की आय को सुरक्षित करने के लिए जलवायु-लचीली खेती, फसल विविधीकरण और सिंचाई नेटवर्क के विस्तार पर जोर देती हैं।"
+      },
+      "indicators": {
+        "gsvaSharePercent": 20.0,
+        "subSectors": [
+          {
+            "name": {
+              "en": "Crops",
+              "hi": "फसलें"
+            },
+            "sharePercent": 10.7
+          },
+          {
+            "name": {
+              "en": "Livestock",
+              "hi": "पशुधन"
+            },
+            "sharePercent": 6.6
+          },
+          {
+            "name": {
+              "en": "Forestry & Logging",
+              "hi": "वानिकी एवं लट्ठे बनाना"
+            },
+            "sharePercent": 1.4
+          },
+          {
+            "name": {
+              "en": "Fishing & Aquaculture",
+              "hi": "मत्स्य पालन"
+            },
+            "sharePercent": 1.3
+          }
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Department of Agriculture, Government of Bihar",
+        "hi": "कृषि विभाग, बिहार सरकार"
+      },
+      "relatedDistricts": [
+        "rohtas",
+        "purnia",
+        "samastipur",
+        "west-champaran"
+      ]
+    },
+    {
+      "id": "sectoral-share-secondary",
+      "category": "sectoral-composition",
+      "title": {
+        "en": "Secondary Sector (Industry & Construction)",
+        "hi": "द्वितीयक क्षेत्र (उद्योग एवं निर्माण)"
+      },
+      "description": {
+        "en": "### Sectoral Overview\nThe secondary sector, encompassing Industry and Construction, accounts for approximately 19.3% of Bihar's GSVA. This sector is critical for creating non-farm employment and driving industrial modernization.\n\n### Key Growth Areas\n* **Construction Boom:** The sector's growth is predominantly spurred by massive public investments in highway networks, major bridge projects, and rural housing programs.\n* **Manufacturing & Processing:** Agro-processing and food manufacturing are emerging as strong sub-sectors, capitalized by the state's agricultural base.\n* **Ethanol Production:** Bihar is rapidly emerging as a hub for ethanol production, supported by proactive state industrial policies.\n\n### Industrial Environment\nThe state is continuously improving its ease of doing business, offering attractive incentives through the Bihar Industrial Investment Promotion Policy to attract domestic and foreign direct investments.",
+        "hi": "### क्षेत्रीय अवलोकन\nद्वितीयक क्षेत्र, जिसमें उद्योग और निर्माण शामिल हैं, बिहार के GSVA का लगभग 19.3% है। यह क्षेत्र गैर-कृषि रोजगार पैदा करने और औद्योगिक आधुनिकीकरण को चलाने के लिए महत्वपूर्ण है।\n\n### प्रमुख विकास क्षेत्र\n* **निर्माण उछाल:** इस क्षेत्र का विकास मुख्य रूप से राजमार्ग नेटवर्क, प्रमुख पुल परियोजनाओं और ग्रामीण आवास कार्यक्रमों में बड़े पैमाने पर सार्वजनिक निवेश से प्रेरित है।\n* **विनिर्माण और प्रसंस्करण:** कृषि-प्रसंस्करण और खाद्य विनिर्माण राज्य के कृषि आधार से लाभान्वित होकर मजबूत उप-क्षेत्रों के रूप में उभर रहे हैं।\n* **एथेनॉल उत्पादन:** सक्रिय राज्य औद्योगिक नीतियों द्वारा समर्थित, बिहार एथेनॉल उत्पादन के केंद्र के रूप में तेजी से उभर रहा है।\n\n### औद्योगिक वातावरण\nराज्य व्यापार करने में आसानी (Ease of Doing Business) में लगातार सुधार कर रहा है, घरेलू और प्रत्यक्ष विदेशी निवेश को आकर्षित करने के लिए बिहार औद्योगिक निवेश प्रोत्साहन नीति के माध्यम से आकर्षक प्रोत्साहन प्रदान कर रहा है।"
+      },
+      "indicators": {
+        "gsvaSharePercent": 19.3,
+        "subSectors": [
+          {
+            "name": {
+              "en": "Construction",
+              "hi": "निर्माण"
+            },
+            "sharePercent": 12.1
+          },
+          {
+            "name": {
+              "en": "Manufacturing",
+              "hi": "विनिर्माण"
+            },
+            "sharePercent": 5.4
+          },
+          {
+            "name": {
+              "en": "Electricity, Gas & Water Supply",
+              "hi": "विद्युत, गैस एवं जल आपूर्ति"
+            },
+            "sharePercent": 1.4
+          },
+          {
+            "name": {
+              "en": "Mining & Quarrying",
+              "hi": "खनन एवं उत्खनन"
+            },
+            "sharePercent": 0.4
+          }
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Bihar Economic Survey 2023-24",
+        "hi": "बिहार आर्थिक सर्वेक्षण 2023-24"
+      },
+      "relatedDistricts": [
+        "begusarai",
+        "patna",
+        "muzaffarpur",
+        "bhojpur"
+      ]
+    },
+    {
+      "id": "sectoral-share-tertiary",
+      "category": "sectoral-composition",
+      "title": {
+        "en": "Tertiary Sector (Services Economy)",
+        "hi": "तृतीयक क्षेत्र (सेवा अर्थव्यवस्था)"
+      },
+      "description": {
+        "en": "### The Largest Contributor\nThe tertiary (services) sector stands as the most dominant force in Bihar's economy, accounting for a massive 60.7% of the GSVA. Its rapid expansion has been the primary engine for the state's double-digit growth rate.\n\n### Prime Growth Engines\n* **Trade & Hospitality:** Trade, repair services, hotels, and restaurants form a substantial chunk of this sector's revenue.\n* **Infrastructure Services:** Expansion in road transport and telecommunications has drastically improved connectivity and service delivery.\n* **Professional & Public Services:** Financial services, real estate, and robust public administration have shown consistent upward trends.\n\n### Socio-Economic Impact\nThe booming services sector reflects rising consumer demand, improved standard of living, and rapid urbanization within the state, creating vast entrepreneurial and employment opportunities.",
+        "hi": "### सबसे बड़ा योगदानकर्ता\nतृतीयक (सेवा) क्षेत्र बिहार की अर्थव्यवस्था में सबसे प्रमुख शक्ति के रूप में खड़ा है, जो GSVA का 60.7% हिस्सा है। इसका तीव्र विस्तार राज्य की दोहरे अंकों की विकास दर का प्राथमिक इंजन रहा है।\n\n### प्रमुख विकास इंजन\n* **व्यापार और आतिथ्य:** व्यापार, मरम्मत सेवाएं, होटल और रेस्तरां इस क्षेत्र के राजस्व का एक बड़ा हिस्सा बनाते हैं。\n* **बुनियादी ढांचा सेवाएं:** सड़क परिवहन और दूरसंचार में विस्तार ने कनेक्टिविटी और सेवा वितरण में काफी सुधार किया है。\n* **व्यावसायिक और सार्वजनिक सेवाएं:** वित्तीय सेवाओं, रियल एस्टेट और मजबूत लोक प्रशासन ने लगातार ऊपर की ओर रुझान दिखाया है。\n\n### सामाजिक-आर्थिक प्रभाव\nउभरता हुआ सेवा क्षेत्र राज्य के भीतर बढ़ती उपभोक्ता मांग, बेहतर जीवन स्तर और तेजी से शहरीकरण को दर्शाता है, जिससे व्यापक उद्यमशीलता और रोजगार के अवसर पैदा होते हैं।"
+      },
+      "indicators": {
+        "gsvaSharePercent": 60.7,
+        "subSectors": [
+          {
+            "name": {
+              "en": "Trade, Repair, Hotels & Restaurants",
+              "hi": "व्यापार, मरम्मत, होटल एवं रेस्तरां"
+            },
+            "sharePercent": 17.8
+          },
+          {
+            "name": {
+              "en": "Transport, Storage & Communication",
+              "hi": "परिवहन, भंडारण एवं संचार"
+            },
+            "sharePercent": 10.5
+          },
+          {
+            "name": {
+              "en": "Financial Services",
+              "hi": "वित्तीय सेवाएं"
+            },
+            "sharePercent": 5.8
+          },
+          {
+            "name": {
+              "en": "Real Estate & Professional Services",
+              "hi": "रियल एस्टेट एवं व्यावसायिक सेवाएं"
+            },
+            "sharePercent": 8.7
+          },
+          {
+            "name": {
+              "en": "Public Administration",
+              "hi": "लोक प्रशासन"
+            },
+            "sharePercent": 6.9
+          }
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Bihar Economic Survey 2023-24",
+        "hi": "बिहार आर्थिक सर्वेक्षण 2023-24"
+      },
+      "relatedDistricts": [
+        "patna",
+        "gaya",
+        "bhagalpur",
+        "muzaffarpur"
+      ]
+    },
+    {
+      "id": "banking-cd-ratio",
+      "category": "financial-inclusion",
+      "title": {
+        "en": "Credit-Deposit (CD) Ratio & Financial Inclusion",
+        "hi": "ऋण-जमा (CD) अनुपात एवं वित्तीय समावेशन"
+      },
+      "description": {
+        "en": "### Credit Expansion\nThe Credit-Deposit (CD) Ratio of commercial banks in Bihar has shown a highly positive trajectory, climbing from a mere 32% in 2004-05 to approximately 55.6% in 2023-24. This indicates a growing credit appetite and better fund utilization within the state.\n\n### Drivers of Financial Inclusion\n* **Micro-Finance:** Enhanced credit flow to micro-enterprises and women entrepreneurs, largely driven by Jeevika Self-Help Groups (SHGs).\n* **Government Schemes:** Widespread adoption of Mudra loans and agriculture credit schemes has deepened rural financial inclusion.\n\n### Policy Priorities\nWhile significant progress has been made, bridging the gap with the national average CD ratio (which hovers around 75%) remains a critical policy priority to ensure optimal capital availability for large-scale industrialization.",
+        "hi": "### ऋण विस्तार\nबिहार में वाणिज्यिक बैंकों के ऋण-जमा (CD) अनुपात ने अत्यधिक सकारात्मक प्रक्षेपवक्र दिखाया है, जो 2004-05 में मात्र 32% से बढ़कर 2023-24 में लगभग 55.6% हो गया है। यह राज्य के भीतर बढ़ती ऋण क्षमता और बेहतर निधि उपयोग को इंगित करता है।\n\n### वित्तीय समावेशन के चालक\n* **सूक्ष्म-वित्त:** सूक्ष्म उद्यमों और महिला उद्यमियों के लिए ऋण प्रवाह में वृद्धि, जो काफी हद तक जीविका स्वयं सहायता समूहों (SHGs) द्वारा संचालित है。\n* **सरकारी योजनाएं:** मुद्रा ऋण और कृषि ऋण योजनाओं को व्यापक रूप से अपनाने से ग्रामीण वित्तीय समावेशन गहरा हुआ है。\n\n### नीतिगत प्राथमिकताएं\nहालांकि महत्वपूर्ण प्रगति हुई है, लेकिन राष्ट्रीय औसत CD अनुपात (जो लगभग 75% है) के साथ अंतर को पाटना बड़े पैमाने पर औद्योगीकरण के लिए इष्टतम पूंजी उपलब्धता सुनिश्चित करने हेतु एक महत्वपूर्ण नीतिगत प्राथमिकता बनी हुई है।"
+      },
+      "indicators": {
+        "cdRatioPercent": 55.63,
+        "totalDepositsInCrores": 458920,
+        "totalCreditInCrores": 255300,
+        "highestCDRatioDistrict": "purnia",
+        "lowestCDRatioDistrict": "munger"
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "State Level Bankers' Committee (SLBC) Bihar",
+        "hi": "राज्य स्तरीय बैंकर्स समिति (SLBC) बिहार"
+      },
+      "relatedDistricts": [
+        "patna",
+        "purnia",
+        "kishanganj",
+        "munger"
+      ]
+    },
+    {
+      "id": "economic-corridors-trade",
+      "category": "corridors-and-logistics",
+      "title": {
+        "en": "Industrial Corridors & Logistics Connectivity",
+        "hi": "औद्योगिक गलियारे एवं लॉजिस्टिक्स कनेक्टिविटी"
+      },
+      "description": {
+        "en": "### Strategic Positioning\nBihar is actively leveraging its strategic geographic positioning to become a major logistics and industrial hub in Eastern India. The integration with national trade routes is transforming the state's commercial landscape.\n\n### Major Infrastructure Projects\n* **Amritsar-Kolkata Industrial Corridor (AKIC):** Spanning across southern Bihar, this corridor is set to catalyze massive industrial townships and manufacturing zones.\n* **Integrated Manufacturing Clusters:** The 1,600+ acre cluster at Dobhi (Gaya) is being developed as a state-of-the-art industrial node.\n* **Highway Connectivity:** The Golden Quadrilateral along NH-19 and the East-West Corridor (NH-27) provide seamless nationwide freight movement.\n\n### Trade Impact\nThese logistical advancements are drastically reducing freight costs and transit times, making Bihar an attractive destination for warehousing, e-commerce fulfillment centers, and export-oriented manufacturing.",
+        "hi": "### रणनीतिक स्थिति\nपूर्वी भारत में एक प्रमुख लॉजिस्टिक्स और औद्योगिक केंद्र बनने के लिए बिहार सक्रिय रूप से अपनी रणनीतिक भौगोलिक स्थिति का लाभ उठा रहा है। राष्ट्रीय व्यापार मार्गों के साथ एकीकरण राज्य के वाणिज्यिक परिदृश्य को बदल रहा है。\n\n### प्रमुख बुनियादी ढांचा परियोजनाएं\n* **अमृतसर-कोलकाता औद्योगिक गलियारा (AKIC):** दक्षिणी बिहार में फैले इस गलियारे से बड़े पैमाने पर औद्योगिक टाउनशिप और विनिर्माण क्षेत्रों को बढ़ावा मिलने की उम्मीद है。\n* **एकीकृत विनिर्माण क्लस्टर:** डोभी (गया) में 1,600+ एकड़ के क्लस्टर को अत्याधुनिक औद्योगिक नोड के रूप में विकसित किया जा रहा है。\n* **राजमार्ग कनेक्टिविटी:** NH-19 पर स्वर्णिम चतुर्भुज और पूर्व-पश्चिम गलियारा (NH-27) निर्बाध राष्ट्रव्यापी माल ढुलाई प्रदान करते हैं。\n\n### व्यापार प्रभाव\nये लॉजिस्टिक प्रगति माल ढुलाई लागत और पारगमन समय को काफी कम कर रही है, जिससे बिहार वेयरहाउसिंग, ई-कॉमर्स पूर्ति केंद्रों और निर्यात-उन्मुख विनिर्माण के लिए एक आकर्षक गंतव्य बन गया है।"
+      },
+      "indicators": {
+        "majorCorridors": [
+          {
+            "name": {
+              "en": "Amritsar-Kolkata Industrial Corridor (AKIC)",
+              "hi": "अमृतसर-कोलकाता औद्योगिक गलियारा"
+            },
+            "nodes": [
+              "gaya",
+              "aurangabad",
+              "kaimur",
+              "rohtas"
+            ]
+          },
+          {
+            "name": {
+              "en": "Dobhi Integrated Manufacturing Cluster (1,600+ Acres)",
+              "hi": "डोभी एकीकृत विनिर्माण क्लस्टर (1,600+ एकड़)"
+            },
+            "nodes": [
+              "gaya"
+            ]
+          },
+          {
+            "name": {
+              "en": "East-West Corridor (NH-27)",
+              "hi": "पूर्व-पश्चिम गलियारा (NH-27)"
+            },
+            "nodes": [
+              "gopalganj",
+              "muzaffarpur",
+              "darbhanga",
+              "purnia",
+              "kishanganj"
+            ]
+          }
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "National Industrial Corridor Development Corporation (NICDC) / Bihar Industrial Area Development Authority (BIADA)",
+        "hi": "राष्ट्रीय औद्योगिक गलियारा विकास निगम (NICDC) / बिहार औद्योगिक क्षेत्र विकास प्राधिकरण (BIADA)"
+      },
+      "relatedDistricts": [
+        "gaya",
+        "aurangabad",
+        "rohtas",
+        "kaimur",
+        "patna"
+      ]
+    },
+    {
+      "id": "district-economic-disparities",
+      "category": "regional-disparity",
+      "title": {
+        "en": "Inter-District Economic Disparity Index",
+        "hi": "अंतर-जिला आर्थिक विषमता सूचकांक"
+      },
+      "description": {
+        "en": "### Regional Economic Variations\nEconomic output and general prosperity in Bihar exhibit stark regional differences. Balancing this growth across different geographies is a primary challenge for state planners.\n\n### Spectrum of Prosperity\n* **Top Tier Districts:** Patna acts as the undisputed commercial and administrative capital. It is closely followed by industrial hubs like Begusarai and manufacturing centers like Munger, which consistently record the highest per capita incomes.\n* **Vulnerable Zones:** Conversely, districts situated in the northern flood-prone zones, such as Sheohar, Araria, and Kishanganj, lag significantly in economic indices.\n\n### Corrective Measures\nTo mitigate these disparities, targeted developmental interventions are underway. These include special infrastructure packages for backward districts, flood management projects in the Seemanchal region, and localized skill development programs.",
+        "hi": "### क्षेत्रीय आर्थिक विविधताएं\nबिहार में आर्थिक उत्पादन और सामान्य समृद्धि में तीव्र क्षेत्रीय अंतर दिखाई देता है। विभिन्न भौगोलिक क्षेत्रों में इस विकास को संतुलित करना राज्य के योजनाकारों के लिए एक प्राथमिक चुनौती है。\n\n### समृद्धि का स्पेक्ट्रम\n* **शीर्ष स्तर के जिले:** पटना निर्विवाद वाणिज्यिक और प्रशासनिक राजधानी के रूप में कार्य करता है। इसके बाद बेगूसराय जैसे औद्योगिक केंद्र और मुंगेर जैसे विनिर्माण केंद्र हैं, जो लगातार उच्चतम प्रति व्यक्ति आय दर्ज करते हैं。\n* **संवेदनशील क्षेत्र:** इसके विपरीत, उत्तरी बाढ़ संभावित क्षेत्रों में स्थित जिले, जैसे शिवहर, अररिया और किशनगंज, आर्थिक सूचकांकों में काफी पीछे हैं。\n\n### सुधारात्मक उपाय\nइन विषमताओं को कम करने के लिए, लक्षित विकासात्मक हस्तक्षेप चल रहे हैं। इनमें पिछड़े जिलों के लिए विशेष बुनियादी ढांचा पैकेज, सीमांचल क्षेत्र में बाढ़ प्रबंधन परियोजनाएं और स्थानीयकृत कौशल विकास कार्यक्रम शामिल हैं।"
+      },
+      "indicators": {
+        "topDistricts": [
+          "patna",
+          "begusarai",
+          "munger"
+        ],
+        "bottomDistricts": [
+          "sheohar",
+          "araria",
+          "kishanganj"
+        ],
+        "patnaShareInStateGSDPPercent": 14.8
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Bihar Economic Survey, Chapter on State Income",
+        "hi": "बिहार आर्थिक सर्वेक्षण, राज्य आय अध्याय"
+      },
+      "relatedDistricts": [
+        "patna",
+        "begusarai",
+        "munger",
+        "sheohar",
+        "araria",
+        "kishanganj"
+      ]
+    }
+  ]
+}

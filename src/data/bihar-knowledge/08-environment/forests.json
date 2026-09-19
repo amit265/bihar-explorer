@@ -1,0 +1,217 @@
+{
+  "data": [
+    {
+      "id": "bihar-forest-cover-isfr",
+      "name": {
+        "en": "Bihar Forest Cover Profile (ISFR)",
+        "hi": "बिहार वन आवरण परिदृश्य (ISFR रिपोर्ट)"
+      },
+      "category": "forest-statistics",
+      "asOf": "2021-12-31",
+      "source": "India State of Forest Report (ISFR 2021), Forest Survey of India",
+      "description": {
+        "en": "### The Forest Blueprint\n\nAccording to the official **India State of Forest Report (ISFR)**, Bihar's forest cover is largely restricted to its peripheral hilly districts, facing constant pressure from its dense population.\n\n### Key Statistics\n\n* **Total Coverage:** The state maintains a forest cover of approximately **7.84%** of its total geographical area.\n* **District Leaders:** **Kaimur and West Champaran** proudly lead the state, possessing the largest absolute areas of dense, unbroken forest cover.\n* **Conservation Goals:** The state government has launched aggressive, large-scale afforestation campaigns (like *Jal Jeevan Hariyali*) aimed at rapidly increasing the green cover footprint.\n\nExpanding this cover remains one of Bihar's most critical long-term environmental imperatives.",
+        "hi": "### वन ब्लूप्रिंट\n\nआधिकारिक **इंडिया स्टेट ऑफ फॉरेस्ट रिपोर्ट (ISFR)** के अनुसार, बिहार का वन आवरण काफी हद तक इसके परिधीय पहाड़ी जिलों तक सीमित है, जो अपनी घनी आबादी के निरंतर दबाव का सामना कर रहा है।\n\n### प्रमुख आँकड़े\n\n* **कुल कवरेज:** राज्य अपने कुल भौगोलिक क्षेत्रफल का लगभग **7.84%** वन आवरण बनाए रखता है।\n* **जिला नेता:** **कैमूर और पश्चिमी चंपारण** गर्व से राज्य का नेतृत्व करते हैं, जिनके पास घने, अखंड वन आवरण के सबसे बड़े पूर्ण क्षेत्र हैं।\n* **संरक्षण लक्ष्य:** राज्य सरकार ने ग्रीन कवर फुटप्रिंट को तेजी से बढ़ाने के उद्देश्य से आक्रामक, बड़े पैमाने पर वनीकरण अभियान (जैसे *जल जीवन हरियाली*) शुरू किए हैं।\n\nइस आवरण का विस्तार करना बिहार की सबसे महत्वपूर्ण दीर्घकालिक पर्यावरणीय अनिवार्यताओं में से एक बना हुआ है।"
+      },
+      "canopyDensityBreakdown": {
+        "veryDenseForest": {
+          "areaSqKm": 333.42,
+          "description": {
+            "en": "Canopy density > 70%, predominantly in West Champaran",
+            "hi": "70% से अधिक वितान घनत्व, मुख्यतः पश्चिम चंपारण"
+          }
+        },
+        "moderatelyDenseForest": {
+          "areaSqKm": 3285.83,
+          "description": {
+            "en": "Canopy density 40% - 70%",
+            "hi": "40% से 70% वितान घनत्व"
+          }
+        },
+        "openForest": {
+          "areaSqKm": 3761.54,
+          "description": {
+            "en": "Canopy density 10% - 40%",
+            "hi": "10% से 40% वितान घनत्व"
+          }
+        },
+        "scrub": {
+          "areaSqKm": 235.89,
+          "description": {
+            "en": "Degraded forest lands with canopy < 10%",
+            "hi": "10% से कम वितान वाले अवक्रमित वन"
+          }
+        }
+      },
+      "topDistrictsByForestArea": [
+        {
+          "districtId": "kaimur",
+          "forestAreaSqKm": 1051.56,
+          "percentage": 31.56
+        },
+        {
+          "districtId": "west-champaran",
+          "forestAreaSqKm": 903.34,
+          "percentage": 17.28
+        },
+        {
+          "districtId": "rohtas",
+          "forestAreaSqKm": 669.91,
+          "percentage": 17.26
+        },
+        {
+          "districtId": "jamui",
+          "forestAreaSqKm": 661.17,
+          "percentage": 21.34
+        }
+      ],
+      "lowestDistrictsByForestArea": [
+        {
+          "districtId": "sheikhpura",
+          "forestAreaSqKm": 1.19,
+          "percentage": 0.17
+        },
+        {
+          "districtId": "arwal",
+          "forestAreaSqKm": 4.14,
+          "percentage": 0.65
+        },
+        {
+          "districtId": "jehanabad",
+          "forestAreaSqKm": 4.43,
+          "percentage": 0.48
+        }
+      ]
+    },
+    {
+      "id": "tropical-moist-deciduous-forests",
+      "name": {
+        "en": "Tropical Moist Deciduous Forests",
+        "hi": "उष्णकटिबंधीय आर्द्र पर्णपाती वन"
+      },
+      "category": "forest-type",
+      "districtIds": [
+        "west-champaran"
+      ],
+      "description": {
+        "en": "### The Lush Canopy\n\nConfined exclusively to the high-rainfall, sub-Himalayan tracts of West Champaran (Someshwar and Dun ranges), these forests represent Bihar's most magnificent timber resources.\n\n### Forest Features\n\n* **Dominant Species:** The majestic **Sal tree (*Shorea robusta*)** dominates the upper canopy, supported by lush, dense undergrowth.\n* **Climate Dependency:** They thrive specifically in areas receiving substantial rainfall (over 1,200 mm) with distinct, prolonged wet seasons.\n* **Ecological Importance:** These deeply shaded forests form the absolute core habitat of the **Valmiki Tiger Reserve**, sheltering the state's largest predators.\n\nThey are the verdant crown jewels of Bihar's natural heritage.",
+        "hi": "### हरा-भरा चंदवा\n\nपश्चिमी चंपारण (सोमेश्वर और दून पर्वतमाला) के उच्च-वर्षा वाले उप-हिमालयी क्षेत्रों तक विशेष रूप से सीमित, ये जंगल बिहार के सबसे शानदार लकड़ी संसाधनों का प्रतिनिधित्व करते हैं।\n\n### वन विशेषताएं\n\n* **प्रमुख प्रजातियां:** राजसी **साल का पेड़ (*शोरिया रोबस्टा*)** ऊपरी चंदवा पर हावी है, जो रसीले, घने अंडरग्रोथ द्वारा समर्थित है।\n* **जलवायु निर्भरता:** वे विशेष रूप से पर्याप्त वर्षा (1,200 मिमी से अधिक) प्राप्त करने वाले क्षेत्रों में विशिष्ट, लंबे गीले मौसमों के साथ पनपते हैं।\n* **पारिस्थितिक महत्व:** ये गहरी छाया वाले जंगल **वाल्मीकि टाइगर रिजर्व** का पूर्ण मुख्य आवास बनाते हैं, जो राज्य के सबसे बड़े शिकारियों को आश्रय देते हैं।\n\nवे बिहार की प्राकृतिक विरासत के हरे-भरे मुकुट रत्न हैं।"
+      },
+      "dominantSpecies": [
+        {
+          "botanical": "Shorea robusta",
+          "commonEn": "Sal",
+          "commonHi": "साल / साखू"
+        },
+        {
+          "botanical": "Terminalia tomentosa",
+          "commonEn": "Asan / Silver Grey Wood",
+          "commonHi": "आसन"
+        },
+        {
+          "botanical": "Bombax ceiba",
+          "commonEn": "Semal / Silk Cotton",
+          "commonHi": "सेमल"
+        },
+        {
+          "botanical": "Mallotus philippensis",
+          "commonEn": "Kamala Tree",
+          "commonHi": "रोहिणी"
+        }
+      ]
+    },
+    {
+      "id": "tropical-dry-deciduous-forests",
+      "name": {
+        "en": "Tropical Dry Deciduous Forests",
+        "hi": "उष्णकटिबंधीय शुष्क पर्णपाती वन"
+      },
+      "category": "forest-type",
+      "districtIds": [
+        "kaimur",
+        "rohtas",
+        "gaya",
+        "nawada",
+        "jamui",
+        "banka",
+        "munger",
+        "aurangabad"
+      ],
+      "description": {
+        "en": "### The Resilient Woodlands\n\nThe most widespread forest type in Bihar, extending prominently across the southern plateau fringes from Kaimur to Banka.\n\n### Forest Features\n\n* **Seasonal Adaptation:** These resilient trees undergo massive leaf-fall during the scorching summer to aggressively conserve internal moisture.\n* **Flora Diversity:** The woodland is characterized by hardy species such as **Amaltas, Mahua, Palash (Flame of the Forest), and Khair**.\n* **Economic Value:** Beyond timber, these forests are immensely valuable for their diverse minor forest produce, sustaining local tribal economies.\n\nThese rugged forests embody the hardy spirit of the southern Bihar landscape.",
+        "hi": "### लचीले वुडलैंड्स\n\nबिहार में सबसे व्यापक वन प्रकार, जो कैमूर से बांका तक दक्षिणी पठार के किनारों में प्रमुखता से फैला हुआ है।\n\n### वन विशेषताएं\n\n* **मौसमी अनुकूलन:** ये लचीले पेड़ झुलसाने वाली गर्मी के दौरान आक्रामक रूप से आंतरिक नमी को संरक्षित करने के लिए बड़े पैमाने पर पत्तियां गिराते हैं।\n* **वनस्पति विविधता:** वुडलैंड की विशेषता **अमलतास, महुआ, पलाश (जंगल की आग), और खैर** जैसी कठोर प्रजातियां हैं।\n* **आर्थिक मूल्य:** लकड़ी से परे, ये जंगल अपने विविध लघु वनोपज के लिए अत्यधिक मूल्यवान हैं, जो स्थानीय आदिवासी अर्थव्यवस्थाओं को बनाए रखते हैं।\n\nये ऊबड़-खाबड़ जंगल दक्षिणी बिहार के परिदृश्य की कठोर भावना का प्रतीक हैं।"
+      },
+      "dominantSpecies": [
+        {
+          "botanical": "Butea monosperma",
+          "commonEn": "Flame of the Forest",
+          "commonHi": "पलाश / ढाक"
+        },
+        {
+          "botanical": "Madhuca longifolia",
+          "commonEn": "Mahua",
+          "commonHi": "महुआ"
+        },
+        {
+          "botanical": "Diospyros melanoxylon",
+          "commonEn": "Kendu / Tendu",
+          "commonHi": "केंदु / तेंदू पत्ता"
+        },
+        {
+          "botanical": "Boswellia serrata",
+          "commonEn": "Indian Frankincense",
+          "commonHi": "सलाई"
+        },
+        {
+          "botanical": "Anogeissus latifolia",
+          "commonEn": "Axle Wood",
+          "commonHi": "धौ / धावड़ा"
+        }
+      ]
+    },
+    {
+      "id": "agro-forestry-and-plantations",
+      "name": {
+        "en": "Agro-Forestry & Green Cover Expansion",
+        "hi": "कृषि वानिकी एवं हरित आवरण विस्तार"
+      },
+      "category": "conservation-program",
+      "asOf": "2024-03-31",
+      "districtIds": [
+        "vaishali",
+        "samastipur",
+        "muzaffarpur",
+        "purnia",
+        "patna"
+      ],
+      "description": {
+        "en": "### The Greening of the Plains\n\nDriven aggressively by state initiatives, **agro-forestry** is actively transforming the traditionally tree-less agricultural plains of central and northern Bihar.\n\n### Initiative Features\n\n* **Poplar and Eucalyptus:** Fast-growing, commercially lucrative species are being integrated directly into traditional farming cycles.\n* **Economic Boost:** This dual-use approach provides farmers with significant supplementary income through the burgeoning timber and paper industries.\n* **Carbon Sequestration:** Mass plantations are playing a rapidly growing role in sequestering carbon and mitigating local temperature extremes.\n\nAgro-forestry represents the modern, sustainable fusion of agriculture and environmental stewardship.",
+        "hi": "### मैदानों की हरियाली\n\nराज्य की पहलों द्वारा आक्रामक रूप से संचालित, **कृषि-वानिकी** मध्य और उत्तरी बिहार के पारंपरिक रूप से वृक्ष-रहित कृषि मैदानों को सक्रिय रूप से बदल रही है।\n\n### पहल की विशेषताएं\n\n* **पॉपलर और नीलगिरी:** तेजी से बढ़ने वाली, व्यावसायिक रूप से आकर्षक प्रजातियों को सीधे पारंपरिक कृषि चक्रों में एकीकृत किया जा रहा है।\n* **आर्थिक बढ़ावा:** यह दोहरे उपयोग का दृष्टिकोण तेजी से बढ़ते लकड़ी और कागज उद्योगों के माध्यम से किसानों को महत्वपूर्ण पूरक आय प्रदान करता है।\n* **कार्बन सीक्वेस्ट्रेशन:** बड़े पैमाने पर वृक्षारोपण कार्बन को अलग करने और स्थानीय तापमान चरम सीमाओं को कम करने में तेजी से बढ़ती भूमिका निभा रहे हैं।\n\nकृषि-वानिकी कृषि और पर्यावरण प्रबंधन के आधुनिक, टिकाऊ संलयन का प्रतिनिधित्व करती है।"
+      },
+      "programs": [
+        "Jal-Jeevan-Hariyali Afforestation Component",
+        "Harit Jeevika Green Nursery Promotion",
+        "Panchayat-level Roadside Plantation"
+      ]
+    },
+    {
+      "id": "minor-forest-produce-livelihoods",
+      "name": {
+        "en": "Minor Forest Produce (MFP) & Forest Communities",
+        "hi": "लघु वनोपज (MFP) एवं वनवासी आजीविका"
+      },
+      "category": "forest-economy",
+      "districtIds": [
+        "kaimur",
+        "rohtas",
+        "jamui",
+        "banka",
+        "west-champaran"
+      ],
+      "description": {
+        "en": "### The Wealth of the Woods\n\nForest-dwelling and tribal communities, particularly in districts like Rohtas and Jamui, rely profoundly on the sustainable extraction of **Minor Forest Produce (MFP)**.\n\n### Key Resources\n\n* **Bidi Industry:** The collection of **Tendu leaves** acts as a massive seasonal employment generator for the traditional Bidi rolling industry.\n* **Cultural Foraging:** The gathering of **Mahua flowers** (for local brewing and food), honey, and medicinal herbs is deeply woven into indigenous cultures.\n* **Bamboo Craft:** Wild bamboo harvesting supports intricate, traditional artisan crafts and local cottage industries.\n\nManaging MFP effectively is crucial for balancing ecological preservation with indigenous economic survival.",
+        "hi": "### लकड़ियों की संपत्ति\n\nवन-निवासी और आदिवासी समुदाय, विशेष रूप से रोहतास और जमुई जैसे जिलों में, **लघु वनोपज (MFP)** के स्थायी निष्कर्षण पर गहराई से निर्भर करते हैं।\n\n### प्रमुख संसाधन\n\n* **बीड़ी उद्योग:** **तेंदू के पत्तों** का संग्रह पारंपरिक बीड़ी रोलिंग उद्योग के लिए बड़े पैमाने पर मौसमी रोजगार जनरेटर के रूप में कार्य करता है।\n* **सांस्कृतिक चारागाह:** **महुआ के फूलों** (स्थानीय शराब बनाने और भोजन के लिए), शहद, और औषधीय जड़ी-बूटियों का संग्रह स्वदेशी संस्कृतियों में गहराई से बुना गया है।\n* **बांस शिल्प:** जंगली बांस की कटाई जटिल, पारंपरिक कारीगर शिल्प और स्थानीय कुटीर उद्योगों का समर्थन करती है।\n\nस्वदेशी आर्थिक अस्तित्व के साथ पारिस्थितिक संरक्षण को संतुलित करने के लिए MFP का प्रभावी ढंग से प्रबंधन करना महत्वपूर्ण है।"
+      }
+    }
+  ]
+}

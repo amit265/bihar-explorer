@@ -1,0 +1,516 @@
+{
+  "data": [
+    {
+      "id": "agro-climatic-zones",
+      "category": "agro-ecology",
+      "title": {
+        "en": "Agro-Climatic Zones of Bihar",
+        "hi": "बिहार के कृषि-जलवायु क्षेत्र"
+      },
+      "description": {
+        "en": "### Geographic Diversity\nBihar is broadly divided into three distinct agro-climatic zones based on soil characteristics, rainfall patterns, and temperature profiles.\n\n### The Three Zones\n* **Zone I (North-West Alluvial Plains):** Characterized by calcareous soils and good rainfall, ideal for sugarcane and paddy.\n* **Zone II (North-East Alluvial Plains):** Known for acidic soils and high rainfall; it is the maize and jute heartland.\n* **Zone III (South Bihar Alluvial Plains):** Subdivided into South-East (III-A) and South-West (III-B), this region features heavier soils and relies heavily on canal irrigation.\n\n### Strategic Importance\nUnderstanding these zones is critical for formulating localized agricultural interventions and ensuring climate-resilient farming practices across the state.",
+        "hi": "### भौगोलिक विविधता\nमिट्टी की विशेषताओं, वर्षा के पैटर्न और तापमान प्रोफाइल के आधार पर बिहार को मोटे तौर पर तीन अलग-अलग कृषि-जलवायु क्षेत्रों में विभाजित किया गया है।\n\n### तीन प्रमुख क्षेत्र\n* **जोन I (उत्तर-पश्चिम जलोढ़ मैदान):** चूनायुक्त मिट्टी और अच्छी वर्षा इसकी विशेषता है, जो गन्ना और धान के लिए आदर्श है।\n* **जोन II (उत्तर-पूर्व जलोढ़ मैदान):** अपनी अम्लीय मिट्टी और उच्च वर्षा के लिए जाना जाता है; यह मक्का और जूट का प्रमुख क्षेत्र है।\n* **जोन III (दक्षिण बिहार जलोढ़ मैदान):** इसे दक्षिण-पूर्व (III-A) और दक्षिण-पश्चिम (III-B) में उप-विभाजित किया गया है, इस क्षेत्र में भारी मिट्टी पाई जाती है और यह मुख्य रूप से नहर सिंचाई पर निर्भर है।\n\n### रणनीतिक महत्व\nराज्य भर में स्थानीयकृत कृषि हस्तक्षेप तैयार करने और जलवायु-अनुकूल कृषि पद्धतियों को सुनिश्चित करने के लिए इन क्षेत्रों को समझना महत्वपूर्ण है।"
+      },
+      "zones": [
+        {
+          "zoneId": "zone-1",
+          "name": {
+            "en": "Zone I: North-West Alluvial Plain",
+            "hi": "जोन I: उत्तर-पश्चिम जलोढ़ मैदान"
+          },
+          "soilType": {
+            "en": "Calcareous alluvial, sandy loam to clay loam",
+            "hi": "चूनायुक्त जलोढ़, बलुई दोमट से चिकनी दोमट"
+          },
+          "rainfallMm": 1245,
+          "districts": [
+            "west-champaran",
+            "east-champaran",
+            "gopalganj",
+            "siwan",
+            "saran",
+            "muzaffarpur",
+            "sitamarhi",
+            "sheohar",
+            "vaishali",
+            "darbhanga",
+            "madhubani",
+            "samastipur",
+            "begusarai"
+          ]
+        },
+        {
+          "zoneId": "zone-2",
+          "name": {
+            "en": "Zone II: North-East Alluvial Plain",
+            "hi": "जोन II: उत्तर-पूर्व जलोढ़ मैदान"
+          },
+          "soilType": {
+            "en": "Acidic to neutral alluvial, sandy to silty loam",
+            "hi": "अम्लीय से उदासीन जलोढ़, बलुई से गादयुक्त दोमट"
+          },
+          "rainfallMm": 1450,
+          "districts": [
+            "purnia",
+            "katihar",
+            "kishanganj",
+            "araria",
+            "saharsa",
+            "supaul",
+            "madhepura",
+            "khagaria"
+          ]
+        },
+        {
+          "zoneId": "zone-3a",
+          "name": {
+            "en": "Zone III-A: South-East Alluvial Plain",
+            "hi": "जोन III-A: दक्षिण-पूर्व जलोढ़ मैदान"
+          },
+          "soilType": {
+            "en": "Older alluvial, sandy loam to clay",
+            "hi": "पुरानी जलोढ़, बलुई दोमट से चिकनी मिट्टी"
+          },
+          "rainfallMm": 1115,
+          "districts": [
+            "bhagalpur",
+            "banka",
+            "munger",
+            "jamui",
+            "lakhisarai",
+            "sheikhpura"
+          ]
+        },
+        {
+          "zoneId": "zone-3b",
+          "name": {
+            "en": "Zone III-B: South-West Alluvial Plain",
+            "hi": "जोन III-B: दक्षिण-पश्चिम जलोढ़ मैदान"
+          },
+          "soilType": {
+            "en": "Heavy clay, Karail-Kewal soils",
+            "hi": "भारी चिकनी मिट्टी, करैल-केवल मिट्टी"
+          },
+          "rainfallMm": 990,
+          "districts": [
+            "patna",
+            "nalanda",
+            "bhojpur",
+            "buxar",
+            "rohtas",
+            "kaimur",
+            "gaya",
+            "jehanabad",
+            "arwal",
+            "nawada",
+            "aurangabad"
+          ]
+        }
+      ],
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Bihar Agricultural University (BAU), Sabour & Dr. Rajendra Prasad Central Agricultural University (RPCAU), Pusa",
+        "hi": "बिहार कृषि विश्वविद्यालय (BAU), सबौर एवं डॉ. राजेंद्र प्रसाद केंद्रीय कृषि विश्वविद्यालय (RPCAU), पूसा"
+      },
+      "relatedDistricts": [
+        "west-champaran",
+        "purnia",
+        "bhagalpur",
+        "rohtas",
+        "patna"
+      ]
+    },
+    {
+      "id": "paddy-rice-production",
+      "category": "major-crops",
+      "title": {
+        "en": "Paddy (Rice) — Staple Kharif Crop",
+        "hi": "धान (चावल) — प्रमुख खरीफ फसल"
+      },
+      "description": {
+        "en": "### The Primary Foodgrain\nPaddy is the foremost foodgrain crop in Bihar, covering over 3.2 million hectares of the gross cropped area during the Kharif season.\n\n### Major Production Hubs\n* **The Rice Bowl:** Rohtas district, irrigated by the historic Sone Canal system, is widely revered as the 'Rice Bowl of Bihar'.\n* **Other Leading Districts:** Kaimur, Buxar, and West Champaran also exhibit exceptionally high yields owing to fertile soils and assured irrigation.\n\n### Future Enhancements\nOngoing efforts are focused on the adoption of high-yielding varieties (HYV), System of Rice Intensification (SRI), and better mechanization to further augment production.",
+        "hi": "### प्राथमिक खाद्यान्न\nधान बिहार की प्रमुख खाद्यान्न फसल है, जो खरीफ मौसम के दौरान 32 लाख हेक्टेयर से अधिक सकल फसली क्षेत्र को आच्छादित करती है।\n\n### प्रमुख उत्पादन केंद्र\n* **धान का कटोरा:** ऐतिहासिक सोन नहर प्रणाली से सिंचित रोहतास जिले को व्यापक रूप से 'बिहार का धान का कटोरा' कहा जाता है।\n* **अन्य अग्रणी जिले:** उपजाऊ मिट्टी और सुनिश्चित सिंचाई के कारण कैमूर, बक्सर और पश्चिमी चंपारण में भी असाधारण रूप से उच्च उपज होती है।\n\n### भविष्य के सुधार\nउत्पादन को और बढ़ाने के लिए उच्च उपज वाली किस्मों (HYV), धान सघनीकरण प्रणाली (SRI) और बेहतर यंत्रीकरण को अपनाने पर निरंतर प्रयास केंद्रित हैं।"
+      },
+      "indicators": {
+        "season": "Kharif",
+        "annualProductionMetricTonnes": 7750000,
+        "averageYieldKgPerHectare": 2480,
+        "leadingDistricts": [
+          "rohtas",
+          "kaimur",
+          "buxar",
+          "west-champaran",
+          "aurangabad"
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Directorate of Statistics and Evaluation, Department of Agriculture, Government of Bihar",
+        "hi": "सांख्यिकी एवं मूल्यांकन निदेशालय, कृषि विभाग, बिहार सरकार"
+      },
+      "relatedDistricts": [
+        "rohtas",
+        "kaimur",
+        "buxar",
+        "west-champaran",
+        "bhojpur"
+      ]
+    },
+    {
+      "id": "wheat-production",
+      "category": "major-crops",
+      "title": {
+        "en": "Wheat — Premier Rabi Grain",
+        "hi": "गेहूं — प्रमुख रबी खाद्यान्न"
+      },
+      "description": {
+        "en": "### The Dominant Winter Crop\nWheat stands out as the predominant Rabi crop in Bihar, spanning approximately 2.2 million hectares across the state.\n\n### Yield Advancements\n* **Modern Interventions:** The implementation of extensive seed replacement programs and expanded tube-well irrigation networks have drastically elevated productivity.\n* **High Yield Corridors:** Agrarian belts in Nalanda, Rohtas, and Bhojpur consistently record average yields surpassing 3,000 kg per hectare.\n\n### Nutritional Security\nAs a staple, wheat production is pivotal not just for farmers' incomes, but for ensuring long-term food and nutritional security across the region.",
+        "hi": "### प्रमुख शीतकालीन फसल\nगेहूं बिहार में प्रमुख रबी फसल के रूप में उभरा है, जो राज्य भर में लगभग 22 लाख हेक्टेयर में फैला है।\n\n### उपज में प्रगति\n* **आधुनिक हस्तक्षेप:** व्यापक बीज प्रतिस्थापन कार्यक्रमों और विस्तारित नलकूप सिंचाई नेटवर्क के कार्यान्वयन ने उत्पादकता को काफी बढ़ा दिया है।\n* **उच्च उपज वाले गलियारे:** नालंदा, रोहतास और भोजपुर के कृषि क्षेत्रों में लगातार 3,000 किग्रा प्रति हेक्टेयर से अधिक औसत उपज दर्ज की जाती है।\n\n### पोषण सुरक्षा\nएक मुख्य भोजन के रूप में, गेहूं का उत्पादन न केवल किसानों की आय के लिए, बल्कि पूरे क्षेत्र में दीर्घकालिक खाद्य और पोषण सुरक्षा सुनिश्चित करने के लिए भी महत्वपूर्ण है।"
+      },
+      "indicators": {
+        "season": "Rabi",
+        "annualProductionMetricTonnes": 6620000,
+        "averageYieldKgPerHectare": 3050,
+        "leadingDistricts": [
+          "rohtas",
+          "nalanda",
+          "bhojpur",
+          "buxar",
+          "siwan"
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Department of Agriculture, Government of Bihar",
+        "hi": "कृषि विभाग, बिहार सरकार"
+      },
+      "relatedDistricts": [
+        "rohtas",
+        "nalanda",
+        "bhojpur",
+        "buxar"
+      ]
+    },
+    {
+      "id": "maize-corn-revolution",
+      "category": "major-crops",
+      "title": {
+        "en": "Maize (Corn) — The Golden Revolution of Eastern Bihar",
+        "hi": "मक्का (कॉर्न) — पूर्वी बिहार की सुनहरी क्रांति"
+      },
+      "description": {
+        "en": "### The Golden Revolution\nBihar has rapidly transformed into India's powerhouse for maize production. Its performance in Rabi maize is particularly striking, with productivity in the Kosi and Seemanchal plains rivaling global benchmarks like the United States Corn Belt.\n\n### Trading & Industry\n* **Asia's Largest Hub:** The Gulab Bagh Mandi in Purnia operates as Asia's largest trading terminal for maize.\n* **Industrial Linkages:** The massive output seamlessly feeds into robust starch, poultry feed, and ethanol manufacturing industries.\n\n### Economic Engine\nThis revolution has significantly elevated farm incomes in eastern Bihar, driving substantial rural prosperity and agricultural entrepreneurship.",
+        "hi": "### सुनहरी क्रांति\nबिहार तेजी से मक्का उत्पादन के लिए भारत के पावरहाउस में बदल गया है। रबी मक्के में इसका प्रदर्शन विशेष रूप से आश्चर्यजनक है, जहां कोसी और सीमांचल के मैदानों में उत्पादकता संयुक्त राज्य अमेरिका के कॉर्न बेल्ट जैसे वैश्विक बेंचमार्क को टक्कर देती है।\n\n### व्यापार और उद्योग\n* **एशिया का सबसे बड़ा हब:** पूर्णिया की गुलाब बाग मंडी मक्के के लिए एशिया की सबसे बड़ी व्यापारिक मंडी के रूप में कार्य करती है।\n* **औद्योगिक जुड़ाव:** यह बड़े पैमाने पर उत्पादन आसानी से स्टार्च, पोल्ट्री फीड और एथेनॉल निर्माण उद्योगों को आपूर्ति करता है।\n\n### आर्थिक इंजन\nइस क्रांति ने पूर्वी बिहार में कृषि आय को काफी बढ़ा दिया है, जिससे पर्याप्त ग्रामीण समृद्धि और कृषि उद्यमिता को बढ़ावा मिला है।"
+      },
+      "indicators": {
+        "annualProductionMetricTonnes": 3480000,
+        "rabiYieldKgPerHectare": 5200,
+        "topTradingHub": {
+          "en": "Gulab Bagh Mandi (Purnia)",
+          "hi": "गुलाब बाग मंडी (पूर्णिया)"
+        },
+        "leadingDistricts": [
+          "purnia",
+          "katihar",
+          "khagaria",
+          "samastipur",
+          "madhepura",
+          "begusarai"
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Bihar Economic Survey & Agriculture Technology Management Agency (ATMA)",
+        "hi": "बिहार आर्थिक सर्वेक्षण एवं कृषि प्रौद्योगिकी प्रबंधन एजेंसी (आत्मा)"
+      },
+      "relatedDistricts": [
+        "purnia",
+        "katihar",
+        "khagaria",
+        "samastipur",
+        "madhepura",
+        "begusarai"
+      ]
+    },
+    {
+      "id": "makhana-foxnut-gi",
+      "category": "gi-specialty-crops",
+      "title": {
+        "en": "Mithila Makhana (Foxnut) — Geographical Indication Superfood",
+        "hi": "मिथिला मखाना (फॉक्सनट) — भौगोलिक संकेतक (GI) सुपरफूड"
+      },
+      "description": {
+        "en": "### A Global Superfood\nBihar enjoys a near-monopoly in the production of Makhana (Euryale ferox), accounting for a staggering 85% to 90% of the world's total supply. Grown extensively in the wetlands and ponds of the Mithila region, it has gained international recognition.\n\n### Heritage & Research\n* **Geographical Indication (GI):** Acknowledging its unique origin and quality, 'Mithila Makhana' was awarded the prestigious GI tag in 2022.\n* **Research and Development:** The National Research Centre for Makhana, located in Darbhanga, spearheads scientific cultivation and value-addition techniques.\n\n### Economic Significance\nMakhana farming has evolved into a highly profitable cash crop, elevating the socio-economic status of wetland farmers across North Bihar.",
+        "hi": "### एक वैश्विक सुपरफूड\nमखाना (यूराइल फेरोक्स) के उत्पादन में बिहार का लगभग एकाधिकार है, जो दुनिया की कुल आपूर्ति का आश्चर्यजनक 85% से 90% हिस्सा है। मिथिला क्षेत्र के आर्द्रभूमि और तालाबों में बड़े पैमाने पर उगाए जाने वाले इस उत्पाद ने अंतरराष्ट्रीय ख्याति प्राप्त की है।\n\n### विरासत और अनुसंधान\n* **भौगोलिक संकेतक (GI):** इसकी अनूठी उत्पत्ति और गुणवत्ता को स्वीकार करते हुए, 2022 में 'मिथिला मखाना' को प्रतिष्ठित GI टैग प्रदान किया गया।\n* **अनुसंधान और विकास:** दरभंगा में स्थित राष्ट्रीय मखाना अनुसंधान केंद्र, वैज्ञानिक खेती और मूल्यवर्धन तकनीकों का नेतृत्व करता है।\n\n### आर्थिक महत्व\nमखाना की खेती एक अत्यधिक लाभदायक नकदी फसल के रूप में विकसित हुई है, जिससे उत्तर बिहार में आर्द्रभूमि किसानों की सामाजिक-आर्थिक स्थिति में सुधार हुआ है।"
+      },
+      "indicators": {
+        "giTagNumber": 699,
+        "giRegistrationYear": 2022,
+        "globalProductionSharePercent": 88.0,
+        "areaUnderCultivationHectares": 35000,
+        "researchCentre": {
+          "en": "ICAR-National Research Centre for Makhana, Darbhanga",
+          "hi": "भाकृअनुप-राष्ट्रीय मखाना अनुसंधान केंद्र, दरभंगा"
+        },
+        "leadingDistricts": [
+          "darbhanga",
+          "madhubani",
+          "saharsa",
+          "katihar",
+          "purnia",
+          "supaul"
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Geographical Indications Registry, Government of India / ICAR",
+        "hi": "भौगोलिक उपदर्शन रजिस्ट्री, भारत सरकार / भाकृअनुप"
+      },
+      "relatedDistricts": [
+        "darbhanga",
+        "madhubani",
+        "saharsa",
+        "katihar",
+        "purnia",
+        "supaul"
+      ]
+    },
+    {
+      "id": "shahi-litchi-muzaffarpur-gi",
+      "category": "gi-specialty-crops",
+      "title": {
+        "en": "Shahi Litchi of Muzaffarpur — GI-Tagged Queen of Fruits",
+        "hi": "मुजफ्फरपुर की शाही लीची — GI टैग प्राप्त फलों की रानी"
+      },
+      "description": {
+        "en": "### The Queen of Fruits\nThe Shahi Litchi of Muzaffarpur is internationally celebrated for its distinct rose-scented fragrance, exceptionally high pulp content, and irresistibly sweet, juicy flavor. Bihar alone is responsible for over 40% of India's entire litchi production.\n\n### Recognition and Quality\n* **GI Tag Status:** Validating its exclusivity, the Shahi Litchi was conferred a Geographical Indication (GI) tag in 2018.\n* **Scientific Backing:** The ICAR-National Research Centre on Litchi at Mushahari, Muzaffarpur, plays a crucial role in maintaining quality and extending the fruit's shelf life.\n\n### Export Potential\nWith improved cold chain logistics, the export footprint of Shahi Litchi is expanding rapidly across European and Middle Eastern markets.",
+        "hi": "### फलों की रानी\nमुजफ्फरपुर की शाही लीची अपनी विशिष्ट गुलाब जैसी सुगंध, असाधारण रूप से अधिक गूदे और अनूठे मीठे व रसीले स्वाद के लिए अंतरराष्ट्रीय स्तर पर प्रसिद्ध है। भारत के कुल लीची उत्पादन में अकेले बिहार की हिस्सेदारी 40% से अधिक है।\n\n### मान्यता और गुणवत्ता\n* **GI टैग का दर्जा:** इसकी विशिष्टता को प्रमाणित करते हुए, 2018 में शाही लीची को भौगोलिक संकेतक (GI) टैग प्रदान किया गया था।\n* **वैज्ञानिक समर्थन:** मुजफ्फरपुर के मुशहरी में स्थित आईसीएआर-राष्ट्रीय लीची अनुसंधान केंद्र, गुणवत्ता बनाए रखने और फल की शेल्फ लाइफ बढ़ाने में महत्वपूर्ण भूमिका निभाता है।\n\n### निर्यात क्षमता\nबेहतर कोल्ड चेन लॉजिस्टिक्स के साथ, शाही लीची का निर्यात पदचिह्न यूरोपीय और मध्य पूर्वी बाजारों में तेजी से फैल रहा है।"
+      },
+      "indicators": {
+        "giTagNumber": 553,
+        "giRegistrationYear": 2018,
+        "nationalSharePercent": 42.5,
+        "researchCentre": {
+          "en": "ICAR-National Research Centre on Litchi, Mushahari, Muzaffarpur",
+          "hi": "भाकृअनुप-राष्ट्रीय लीची अनुसंधान केंद्र, मुशहरी, मुजफ्फरपुर"
+        },
+        "leadingDistricts": [
+          "muzaffarpur",
+          "vaishali",
+          "east-champaran",
+          "samastipur",
+          "sitamarhi"
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "National Research Centre on Litchi / Department of Horticulture, Bihar",
+        "hi": "राष्ट्रीय लीची अनुसंधान केंद्र / बागवानी विभाग, बिहार"
+      },
+      "relatedDistricts": [
+        "muzaffarpur",
+        "vaishali",
+        "east-champaran",
+        "samastipur",
+        "sitamarhi"
+      ]
+    },
+    {
+      "id": "specialty-crops-gi",
+      "category": "gi-specialty-crops",
+      "title": {
+        "en": "Katarni Rice, Zardalu Mango & Magahi Paan",
+        "hi": "कतरनी चावल, जर्दालू आम एवं मगही पान"
+      },
+      "description": {
+        "en": "### Agricultural Heritage\nBeyond mainstream crops, Bihar holds immense pride in its niche agricultural GI products, each with a rich historical legacy and unparalleled taste profiles.\n\n### The Prestigious Trio\n* **Katarni Rice:** Cultivated along the Champa river basin in Bhagalpur and Banka, this short-grain rice is loved for its distinct aroma.\n* **Zardalu Mango:** A delicacy from Bhagalpur, noted for its creamy texture, non-fibrous pulp, and golden hue.\n* **Magahi Paan:** Grown in Nawada, Gaya, Nalanda, and Aurangabad, these tender betel leaves are highly prized for their soft texture and melt-in-the-mouth quality.\n\n### Cultural Importance\nThese crops are deeply interwoven with the regional culture, fetching premium prices and preserving traditional agricultural knowledge.",
+        "hi": "### कृषि विरासत\nमुख्यधारा की फसलों के अलावा, बिहार को अपने विशिष्ट कृषि GI उत्पादों पर बहुत गर्व है, जिनमें से प्रत्येक की एक समृद्ध ऐतिहासिक विरासत और बेजोड़ स्वाद है।\n\n### प्रतिष्ठित त्रयी\n* **कतरनी चावल:** भागलपुर और बांका में चंपा नदी बेसिन के किनारे उगाए जाने वाले इस छोटे दाने वाले चावल को इसकी विशिष्ट सुगंध के लिए पसंद किया जाता है।\n* **जर्दालू आम:** भागलपुर का एक स्वादिष्ट फल, जो अपनी मलाईदार बनावट, रेशारहित गूदे और सुनहरे रंग के लिए जाना जाता है।\n* **मगही पान:** नवादा, गया, नालंदा और औरंगाबाद में उगाए जाने वाले इन कोमल पान के पत्तों को उनकी मुलायम बनावट और मुंह में घुलने वाली गुणवत्ता के लिए बहुत महत्व दिया जाता है।\n\n### सांस्कृतिक महत्व\nये फसलें क्षेत्रीय संस्कृति के साथ गहराई से जुड़ी हुई हैं, जिन्हें प्रीमियम मूल्य मिलता है और जो पारंपरिक कृषि ज्ञान को संरक्षित करती हैं।"
+      },
+      "items": [
+        {
+          "name": {
+            "en": "Katarni Rice",
+            "hi": "कतरनी चावल"
+          },
+          "giTagYear": 2018,
+          "primaryDistricts": [
+            "bhagalpur",
+            "banka"
+          ]
+        },
+        {
+          "name": {
+            "en": "Zardalu Mango",
+            "hi": "जर्दालू आम"
+          },
+          "giTagYear": 2018,
+          "primaryDistricts": [
+            "bhagalpur"
+          ]
+        },
+        {
+          "name": {
+            "en": "Magahi Paan (Betel Leaf)",
+            "hi": "मगही पान"
+          },
+          "giTagYear": 2018,
+          "primaryDistricts": [
+            "nawada",
+            "gaya",
+            "nalanda",
+            "aurangabad"
+          ]
+        },
+        {
+          "name": {
+            "en": "Marcha Rice (Mircha Chawal)",
+            "hi": "मर्चा चावल (मिर्चा धान)"
+          },
+          "giTagYear": 2023,
+          "primaryDistricts": [
+            "west-champaran"
+          ]
+        }
+      ],
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Intellectual Property India (GI Registry) / Government of Bihar",
+        "hi": "भारतीय बौद्धिक संपदा (GI रजिस्ट्री) / बिहार सरकार"
+      },
+      "relatedDistricts": [
+        "bhagalpur",
+        "banka",
+        "nawada",
+        "gaya",
+        "nalanda",
+        "west-champaran"
+      ]
+    },
+    {
+      "id": "sugarcane-farming",
+      "category": "cash-crops",
+      "title": {
+        "en": "Sugarcane & Sugar Industry Belt",
+        "hi": "गन्ना एवं चीनी उद्योग बेल्ट"
+      },
+      "description": {
+        "en": "### The Commercial Cash Crop\nSugarcane continues to be the primary commercial cash crop dominating the landscape of north-western Bihar. It forms the backbone of the region's agro-economy.\n\n### The Industrial Belt\n* **Tirhut and Saran Divisions:** These sub-Himalayan plains host a dense network of major sugar mills.\n* **Integrated Units:** Modern mills are heavily integrated with cogeneration power plants and ethanol distillation units, maximizing by-product utilization.\n\n### Livelihood Impact\nThe entire value chain of the sugarcane industry securely provides livelihoods to over 3 lakh farming households, playing a pivotal role in rural employment.",
+        "hi": "### व्यावसायिक नकदी फसल\nउत्तर-पश्चिमी बिहार के परिदृश्य पर हावी गन्ना लगातार प्राथमिक व्यावसायिक नकदी फसल बना हुआ है। यह इस क्षेत्र की कृषि-अर्थव्यवस्था की रीढ़ है।\n\n### औद्योगिक बेल्ट\n* **तिरहुत और सारण प्रमंडल:** ये उप-हिमालयी मैदान प्रमुख चीनी मिलों के घने नेटवर्क की मेजबानी करते हैं।\n* **एकीकृत इकाइयां:** आधुनिक मिलें सह-उत्पादन बिजली संयंत्रों और एथेनॉल आसवन इकाइयों के साथ मजबूती से जुड़ी हुई हैं, जिससे उप-उत्पादों का अधिकतम उपयोग होता है।\n\n### आजीविका पर प्रभाव\nगन्ना उद्योग की पूरी मूल्य श्रृंखला सुरक्षित रूप से 3 लाख से अधिक कृषक परिवारों को आजीविका प्रदान करती है, जो ग्रामीण रोजगार में महत्वपूर्ण भूमिका निभाती है।"
+      },
+      "indicators": {
+        "areaUnderCultivationHectares": 240000,
+        "annualCaneProductionTonnes": 12800000,
+        "operatingSugarMills": 10,
+        "leadingDistricts": [
+          "west-champaran",
+          "east-champaran",
+          "gopalganj",
+          "sitamarhi"
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Sugarcane Industry Department, Government of Bihar",
+        "hi": "गन्ना उद्योग विभाग, बिहार सरकार"
+      },
+      "relatedDistricts": [
+        "west-champaran",
+        "east-champaran",
+        "gopalganj",
+        "sitamarhi"
+      ]
+    },
+    {
+      "id": "dairy-livestock-sudha",
+      "category": "allied-sectors",
+      "title": {
+        "en": "Dairy Development & COMFED (Sudha)",
+        "hi": "डेयरी विकास एवं कॉम्फेड (सुधा)"
+      },
+      "description": {
+        "en": "### The White Revolution\nThe dairy sector in eastern India experienced a monumental transformation pioneered by the Bihar State Milk Co-operative Federation (COMFED), functioning under the immensely trusted brand name 'Sudha'.\n\n### Uniting Producers\n* **The Anand Pattern:** Established in 1983 on the successful Anand cooperative model, COMFED ensures fair prices to producers.\n* **Massive Network:** It successfully unites over 1.3 million milk producers across a staggering 28,000+ village-level dairy cooperative societies.\n\n### Women Empowerment\nRemarkably, this movement has established thousands of women-exclusive dairy cooperatives, fostering immense financial independence and gender empowerment in rural Bihar.",
+        "hi": "### श्वेत क्रांति\nपूर्वी भारत में डेयरी क्षेत्र ने एक स्मारकीय परिवर्तन का अनुभव किया, जिसका नेतृत्व बिहार राज्य दुग्ध सहकारी संघ (कॉम्फेड) ने किया, जो अत्यधिक विश्वसनीय ब्रांड नाम 'सुधा' के तहत काम कर रहा है।\n\n### उत्पादकों को एकजुट करना\n* **आणंद पैटर्न:** 1983 में सफल आणंद सहकारी मॉडल पर स्थापित, कॉम्फेड उत्पादकों को उचित मूल्य सुनिश्चित करता है।\n* **विशाल नेटवर्क:** यह 28,000 से अधिक ग्राम-स्तरीय दुग्ध सहकारी समितियों के माध्यम से 13 लाख से अधिक दुग्ध उत्पादकों को सफलतापूर्वक एकजुट करता है।\n\n### महिला सशक्तिकरण\nउल्लेखनीय रूप से, इस आंदोलन ने ग्रामीण बिहार में भारी वित्तीय स्वतंत्रता और लैंगिक सशक्तिकरण को बढ़ावा देते हुए हजारों महिला-विशिष्ट डेयरी सहकारी समितियों की स्थापना की है।"
+      },
+      "indicators": {
+        "dailyMilkProcurementLakhLiters": 31.5,
+        "villageSocietiesCount": 28450,
+        "womenDairyCooperativeSocieties": 7800,
+        "majorDairyPlants": [
+          "patna",
+          "barauni",
+          "muzaffarpur",
+          "samastipur",
+          "gaya"
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Bihar State Milk Co-operative Federation Ltd. (COMFED)",
+        "hi": "बिहार स्टेट मिल्क को-ऑपरेटिव फेडरेशन लिमिटेड (कॉम्फेड)"
+      },
+      "relatedDistricts": [
+        "patna",
+        "begusarai",
+        "samastipur",
+        "muzaffarpur",
+        "gaya"
+      ]
+    },
+    {
+      "id": "krishi-roadmap-iv",
+      "category": "agricultural-policy",
+      "title": {
+        "en": "Fourth Krishi Roadmap (2023–2028)",
+        "hi": "चौथा कृषि रोडमैप (2023–2028)"
+      },
+      "description": {
+        "en": "### Vision 2028\nThe Fourth Krishi Roadmap of Bihar (2023-2028) is a monumental agricultural blueprint launched with a massive investment outlay of ₹1.62 lakh crore, designed to future-proof the state's agrarian economy.\n\n### Key Focus Areas\n* **Organic Corridors:** Massive push for organic farming development along the banks of the river Ganga.\n* **Climate Resilience & Seed Autonomy:** Emphasis on climate-resilient agriculture practices and achieving complete seed self-sufficiency.\n* **Crop Diversification:** Strategic promotion of millets ('Shree Anna'), micro-irrigation systems, and large-scale agro-forestry.\n\n### Transformational Goal\nThe ultimate objective is to elevate farmers' income, ensure food security, and mitigate the adverse impacts of climate change on crop cycles.",
+        "hi": "### विजन 2028\nबिहार का चौथा कृषि रोडमैप (2023-2028) एक स्मारकीय कृषि ब्लूप्रिंट है, जिसे राज्य की कृषि अर्थव्यवस्था को भविष्य के लिए सुरक्षित करने हेतु ₹1.62 लाख करोड़ के विशाल निवेश परिव्यय के साथ शुरू किया गया है।\n\n### प्रमुख फोकस क्षेत्र\n* **जैविक गलियारे:** गंगा नदी के किनारे जैविक खेती के विकास पर भारी जोर।\n* **जलवायु लचीलापन और बीज स्वायत्तता:** जलवायु-अनुकूल कृषि पद्धतियों पर जोर और पूर्ण बीज आत्मनिर्भरता प्राप्त करना।\n* **फसल विविधीकरण:** मोटे अनाजों ('श्री अन्न'), सूक्ष्म सिंचाई प्रणालियों और बड़े पैमाने पर कृषि-वानिकी को रणनीतिक बढ़ावा देना।\n\n### परिवर्तनकारी लक्ष्य\nअंतिम उद्देश्य किसानों की आय बढ़ाना, खाद्य सुरक्षा सुनिश्चित करना और फसल चक्रों पर जलवायु परिवर्तन के प्रतिकूल प्रभावों को कम करना है।"
+      },
+      "indicators": {
+        "outlayInCrores": 162268,
+        "timeframe": "2023-2028",
+        "keyPillars": [
+          {
+            "name": {
+              "en": "Organic Farming Corridor along Ganga River",
+              "hi": "गंगा किनारे जैविक खेती गलियारा"
+            },
+            "districtsCovered": 13
+          },
+          {
+            "name": {
+              "en": "Promotion of Coarse Cereals & Millets (Shree Anna)",
+              "hi": "मोटे अनाज एवं मिलेट्स (श्री अन्न) को प्रोत्साहन"
+            }
+          },
+          {
+            "name": {
+              "en": "Har Khet Tak Sinchai Ka Pani (Irrigation to Every Field)",
+              "hi": "हर खेत तक सिंचाई का पानी"
+            }
+          },
+          {
+            "name": {
+              "en": "Climate Resilient Agriculture Program (CRAP)",
+              "hi": "जलवायु अनुकूल कृषि कार्यक्रम"
+            }
+          }
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Agriculture Department & Planning Department, Government of Bihar",
+        "hi": "कृषि विभाग एवं योजना विभाग, बिहार सरकार"
+      },
+      "relatedDistricts": [
+        "patna",
+        "nalanda",
+        "bhojpur",
+        "vaishali",
+        "samastipur",
+        "begusarai"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "data": [
+    {
+      "id": "state-election-commission-bihar",
+      "name": {
+        "en": "State Election Commission, Bihar (SEC)",
+        "hi": "राज्य निर्वाचन आयोग, बिहार"
+      },
+      "category": {
+        "en": "Constitutional Electoral Body",
+        "hi": "संवैधानिक निर्वाचन निकाय"
+      },
+      "constitutionalArticles": "Articles 243K and 243ZA of the Constitution of India",
+      "office": {
+        "en": "State Election Commission Building, 3rd Floor, Sone Bhawan, Birchand Patel Path, Patna",
+        "hi": "राज्य निर्वाचन आयोग भवन, तृतीय तल, सोन भवन, बीरचंद पटेल पथ, पटना"
+      },
+      "head": {
+        "title": {
+          "en": "State Election Commissioner",
+          "hi": "राज्य निर्वाचन आयुक्त"
+        },
+        "appointment": {
+          "en": "Appointed by the Governor of Bihar; can only be removed from office in like manner and on like grounds as a Judge of a High Court (Article 243K(2))",
+          "hi": "बिहार के राज्यपाल द्वारा नियुक्त; उच्च न्यायालय के न्यायाधीश के समान रीति और समान आधारों पर ही पद से हटाया जा सकता है (अनुच्छेद 243K(2))"
+        }
+      },
+      "constitutionalMandate": {
+        "en": [
+          "Superintendence, direction, and control of the preparation of electoral rolls for all rural and urban local bodies",
+          "Conduct of elections to all 8,387 Gram Panchayats, 534 Panchayat Samitis, and 38 Zilla Parishads",
+          "Conduct of elections to all 19 Municipal Corporations, 88 Municipal Councils, and 154 Town Councils",
+          "Conduct of elections to 8,387 Gram Kachaharis (Sarpanch and Panch)"
+        ],
+        "hi": [
+          "सभी ग्रामीण और शहरी स्थानीय निकायों के लिए मतदाता सूचियों की तैयारी का अधीक्षण, निर्देशन और नियंत्रण",
+          "सभी 8,387 ग्राम पंचायतों, 534 पंचायत समितियों और 38 जिला परिषदों के चुनावों का संचालन",
+          "सभी 19 नगर निगमों, 88 नगर परिषदों और 154 नगर पंचायतों के चुनावों का संचालन",
+          "8,387 ग्राम कचारियों (सरपंच और पंच) के चुनावों का संचालन"
+        ]
+      },
+      "description": {
+        "en": "### Constitutional Autonomy\nThe State Election Commission (SEC), Bihar is a powerful, autonomous constitutional body established under Articles 243K and 243ZA. It operates entirely independent of the Election Commission of India (ECI).\n\n### Exclusive Mandate\nThe SEC holds exclusive constitutional jurisdiction to direct, control, and conduct elections for all local governance bodies in the state. This massive democratic exercise includes elections for 8,387 Gram Panchayats, 534 Panchayat Samitis, 38 Zilla Parishads, and all Urban Local Bodies (Municipal Corporations, Councils, and Panchayats).\n\n### Tenure Security\nTo ensure absolute electoral fairness free from state government interference, the State Election Commissioner enjoys constitutional tenure security equivalent to a High Court judge and can only be removed through a similar rigorous process.",
+        "hi": "### संवैधानिक स्वायत्तता\nराज्य निर्वाचन आयोग (SEC), बिहार अनुच्छेद 243K और 243ZA के तहत स्थापित एक शक्तिशाली, स्वायत्त संवैधानिक निकाय है। यह भारत निर्वाचन आयोग (ECI) से पूरी तरह स्वतंत्र रूप से काम करता है।\n\n### विशेष जनादेश\nSEC के पास राज्य में सभी स्थानीय शासन निकायों के चुनावों को निर्देशित, नियंत्रित और संचालित करने का विशेष संवैधानिक अधिकार है। इस विशाल लोकतांत्रिक अभ्यास में 8,387 ग्राम पंचायतों, 534 पंचायत समितियों, 38 जिला परिषदों और सभी शहरी स्थानीय निकायों (नगर निगमों, परिषदों और पंचायतों) के चुनाव शामिल हैं।\n\n### कार्यकाल की सुरक्षा\nराज्य सरकार के हस्तक्षेप से मुक्त पूर्ण चुनावी निष्पक्षता सुनिश्चित करने के लिए, राज्य निर्वाचन आयुक्त को उच्च न्यायालय के न्यायाधीश के समान संवैधानिक कार्यकाल सुरक्षा प्राप्त है और उसे केवल उसी तरह की कठोर प्रक्रिया के माध्यम से हटाया जा सकता है।"
+      },
+      "bpscRelevance": {
+        "en": "Articles 243K & 243ZA, independent nature from ECI, removal procedure identical to High Court judge, and mandate over PRIs and ULBs.",
+        "hi": "अनुच्छेद 243K और 243ZA, ईसीआई से स्वतंत्र प्रकृति, उच्च न्यायालय के न्यायाधीश के समान हटाने की प्रक्रिया, और पीआरआई तथा यूएलबी पर अधिकार क्षेत्र।"
+      }
+    },
+    {
+      "id": "chief-electoral-officer-bihar",
+      "name": {
+        "en": "Chief Electoral Officer (CEO Bihar) & ECI",
+        "hi": "मुख्य निर्वाचन पदाधिकारी (सीईओ बिहार) एवं भारत निर्वाचन आयोग"
+      },
+      "category": {
+        "en": "Parliamentary & Assembly Elections Management",
+        "hi": "संसदीय एवं विधानसभा चुनाव प्रबंधन"
+      },
+      "constitutionalArticles": "Article 324 of the Constitution of India & Section 13A of Representation of the People Act, 1950",
+      "office": {
+        "en": "7, Sardar Patel Marg (Mangles Road), Patna",
+        "hi": "7, सरदार पटेल मार्ग (मंगल्स रोड), पटना"
+      },
+      "mandate": {
+        "en": [
+          "Supervises the conduct of Parliamentary elections (40 Lok Sabha seats) and State Assembly elections (243 Vidhan Sabha seats) in Bihar",
+          "Manages electoral rolls and elections to the Bihar Legislative Council and Rajya Sabha",
+          "Headed by a senior IAS officer designated as Chief Electoral Officer under superintendence of the Election Commission of India (ECI)",
+          "Coordinates district election machinery where District Magistrates act as District Election Officers (DEO)"
+        ],
+        "hi": [
+          "बिहार में संसदीय चुनावों (40 लोकसभा सीटें) और राज्य विधानसभा चुनावों (243 विधानसभा सीटें) के संचालन की निगरानी",
+          "बिहार विधान परिषद और राज्यसभा के चुनावों और मतदाता सूचियों का प्रबंधन",
+          "भारत निर्वाचन आयोग (ECI) के अधीक्षण में मुख्य निर्वाचन पदाधिकारी के रूप में नामित एक वरिष्ठ आईएएस अधिकारी द्वारा संचालित",
+          "जिला चुनाव मशीनरी का समन्वय जहां जिलाधिकारी जिला निर्वाचन अधिकारी (डीईओ) के रूप में कार्य करते हैं"
+        ]
+      },
+      "description": {
+        "en": "### The ECI Representative\nThe Chief Electoral Officer (CEO), Bihar is the apex administrative official representing the Election Commission of India (ECI) at the state level. Operating strictly under Article 324, this office is entirely distinct from the State Election Commission.\n\n### Macro Electoral Mandate\nWhile the SEC handles local body elections, the CEO supervises the colossal task of conducting Parliamentary (Lok Sabha), State Assembly (Vidhan Sabha), and Legislative Council elections in Bihar.\n\n### Continuous Revision\nWorking through District Magistrates (who act as District Election Officers), the CEO oversees the continuous, vital revision of electoral rolls, the issuance of Voter ID cards (EPIC), and enforces the strict Model Code of Conduct during general elections.",
+        "hi": "### ईसीआई प्रतिनिधि\nमुख्य निर्वाचन पदाधिकारी (सीईओ), बिहार राज्य स्तर पर भारत निर्वाचन आयोग (ECI) का प्रतिनिधित्व करने वाला शीर्ष प्रशासनिक अधिकारी है। अनुच्छेद 324 के तहत सख्ती से काम करने वाला यह कार्यालय राज्य निर्वाचन आयोग से बिल्कुल अलग है।\n\n### वृहद चुनावी जनादेश\nजबकि SEC स्थानीय निकाय चुनावों को संभालता है, सीईओ बिहार में संसदीय (लोकसभा), राज्य विधानसभा (विधानसभा) और विधान परिषद के चुनावों के संचालन के विशाल कार्य की देखरेख करता है।\n\n### निरंतर संशोधन\nजिलाधिकारियों (जो जिला निर्वाचन अधिकारी के रूप में कार्य करते हैं) के माध्यम से काम करते हुए, सीईओ मतदाता सूचियों के निरंतर, महत्वपूर्ण संशोधन, मतदाता पहचान पत्र (ईपीआईसी) जारी करने की देखरेख करता है, और आम चुनावों के दौरान सख्त आदर्श आचार संहिता लागू करता है।"
+      },
+      "bpscRelevance": {
+        "en": "Distinction between SEC (Articles 243K/ZA for local bodies) and CEO/ECI (Article 324 for Assembly & Parliament), and role of DM as District Election Officer.",
+        "hi": "राज्य निर्वाचन आयोग (स्थानीय निकायों के लिए अनुच्छेद 243K/ZA) और सीईओ/ईसीआई (विधानसभा और संसद के लिए अनुच्छेद 324) के बीच अंतर, और जिला निर्वाचन अधिकारी के रूप में डीएम की भूमिका।"
+      }
+    },
+    {
+      "id": "first-general-elections-1952",
+      "name": {
+        "en": "First General Elections (1952) in Bihar",
+        "hi": "बिहार में प्रथम आम चुनाव (1952)"
+      },
+      "category": {
+        "en": "Democratic Milestone",
+        "hi": "लोकतांत्रिक मील का पत्थर"
+      },
+      "historicalDate": "1952-01-01",
+      "undividedAssemblySeats": 330,
+      "majorOutcomes": {
+        "winnerParty": {
+          "name": "Indian National Congress (INC)",
+          "seatsWon": 239,
+          "share": "Swept an overwhelming absolute majority"
+        },
+        "mainOpposition": {
+          "name": "Socialist Party (led by Jayaprakash Narayan, Ram Manohar Lohia, and Karpoori Thakur)",
+          "seatsWon": 23
+        },
+        "chiefMinisterAppointed": {
+          "name": "Dr. Sri Krishna Sinha",
+          "oath": "Took oath as the first elected Chief Minister of Bihar"
+        },
+        "voterTurnout": "40.5% voter turnout under universal adult suffrage"
+      },
+      "description": {
+        "en": "### The Dawn of Democracy\nThe 1952 general elections marked Bihar's triumphant and historic entry into universal adult franchise. Despite massive illiteracy and immense logistical challenges, tens of millions of citizens successfully cast their votes using innovative pictorial ballot boxes.\n\n### Political Outcomes\nThe elections witnessed a sweeping victory for the Indian National Congress (INC), which won an overwhelming 239 out of 330 seats in undivided Bihar, leading to Dr. Sri Krishna Sinha taking the oath as the state's first elected Chief Minister.\n\n### Birth of the Opposition\nSimultaneously, these elections birthed Bihar's rich tradition of democratic opposition. The nascent Socialist movement, led by stalwarts like Jayaprakash Narayan and Ram Manohar Lohia, established itself as the principal ideological counter-force, electing future giants like Karpoori Thakur.",
+        "hi": "### लोकतंत्र का उदय\n1952 के आम चुनावों ने सार्वभौमिक वयस्क मताधिकार में बिहार के विजयी और ऐतिहासिक प्रवेश को चिह्नित किया। भारी निरक्षरता और रसद की विशाल चुनौतियों के बावजूद, करोड़ों नागरिकों ने अभिनव सचित्र मतपेटियों का उपयोग करके सफलतापूर्वक अपना वोट डाला।\n\n### राजनीतिक परिणाम\nचुनावों में भारतीय राष्ट्रीय कांग्रेस (INC) की भारी जीत देखी गई, जिसने अविभाजित बिहार में 330 में से 239 सीटों पर शानदार जीत हासिल की, जिससे डॉ. श्री कृष्ण सिन्हा ने राज्य के पहले निर्वाचित मुख्यमंत्री के रूप में शपथ ली।\n\n### विपक्ष का जन्म\nसाथ ही, इन चुनावों ने लोकतांत्रिक विरोध की बिहार की समृद्ध परंपरा को जन्म दिया। जयप्रकाश नारायण और राम मनोहर लोहिया जैसे दिग्गजों के नेतृत्व वाले नवोदित समाजवादी आंदोलन ने खुद को प्रमुख वैचारिक विरोधी ताकत के रूप में स्थापित किया, और कर्पूरी ठाकुर जैसे भविष्य के दिग्गजों को चुना।"
+      },
+      "bpscRelevance": {
+        "en": "First elected CM (Dr. Sri Krishna Sinha), total assembly seats in 1952 undivided Bihar (330 seats), and emergence of the Socialist opposition under Karpoori Thakur.",
+        "hi": "प्रथम निर्वाचित मुख्यमंत्री (डॉ. श्रीकृष्ण सिन्हा), 1952 अविभाजित बिहार में कुल विधानसभा सीटें (330 सीटें), और कर्पूरी ठाकुर के नेतृत्व में समाजवादी विपक्ष का उभार।"
+      }
+    },
+    {
+      "id": "jp-movement-total-revolution-1974",
+      "name": {
+        "en": "JP Movement & Total Revolution (1974)",
+        "hi": "जेपी आंदोलन एवं संपूर्ण क्रांति (1974)"
+      },
+      "category": {
+        "en": "Democratic Mass Movements",
+        "hi": "लोकतांत्रिक जन आंदोलन"
+      },
+      "historicalDate": "1974-06-05",
+      "epicenter": {
+        "en": "Gandhi Maidan, Patna",
+        "hi": "गांधी मैदान, पटना"
+      },
+      "supremeLeader": {
+        "name": "Loknayak Jayaprakash Narayan",
+        "title": {
+          "en": "Loknayak (Leader of the People)",
+          "hi": "लोकनायक (जनता के नेता)"
+        }
+      },
+      "sevenFacetsOfTotalRevolution": {
+        "en": [
+          "Social Revolution",
+          "Economic Revolution",
+          "Political Revolution",
+          "Cultural Revolution",
+          "Ideological / Intellectual Revolution",
+          "Educational Revolution",
+          "Spiritual / Moral Revolution"
+        ],
+        "hi": [
+          "सामाजिक क्रांति",
+          "आर्थिक क्रांति",
+          "राजनीतिक क्रांति",
+          "सांस्कृतिक क्रांति",
+          "वैचारिक / बौद्धिक क्रांति",
+          "शैक्षणिक क्रांति",
+          "आध्यात्मिक / नैतिक क्रांति"
+        ]
+      },
+      "politicalImpact": {
+        "en": [
+          "Student leaders of the Bihar Chhatra Sangharsh Samiti (including Lalu Prasad Yadav, Nitish Kumar, Sushil Kumar Modi, Ram Vilas Paswan) emerged as the future leaders of Bihar and India",
+          "Directly catalyzed the nationwide agitation leading to the imposition of Internal Emergency on 25 June 1975",
+          "Resulted in the historic defeat of the Congress party in the 1977 general elections and formation of India's first non-Congress central government (Janata Party)"
+        ],
+        "hi": [
+          "बिहार छात्र संघर्ष समिति के छात्र नेता (लालू प्रसाद यादव, नीतीश कुमार, सुशील कुमार मोदी, राम विलास पासवान सहित) बिहार और भारत के भावी नेताओं के रूप में उभरे",
+          "सीधे तौर पर देशव्यापी आंदोलन को गति दी जिसके परिणामस्वरूप 25 जून 1975 को आंतरिक आपातकाल लगाया गया",
+          "1977 के आम चुनावों में कांग्रेस पार्टी की ऐतिहासिक हार और भारत की पहली गैर-कांग्रेसी केंद्र सरकार (जनता पार्टी) का गठन हुआ"
+        ]
+      },
+      "description": {
+        "en": "### The Call at Gandhi Maidan\nOn June 5, 1974, addressing a mammoth gathering of over a million people at Gandhi Maidan in Patna, Loknayak Jayaprakash Narayan issued his historic clarion call for 'Total Revolution' (Sampoorna Kranti).\n\n### From Protest to Upheaval\nWhat began as a localized student protest against rising prices, corruption, and unemployment rapidly burgeoned into a colossal democratic upsurge. It fundamentally shook the foundations of Indian politics, firmly establishing Bihar as the crucible of national democratic resistance.\n\n### Lasting Legacy\nThe movement directly catalyzed the nationwide agitation leading to the Emergency (1975). More importantly, it produced a new generation of student leaders (Lalu Prasad Yadav, Nitish Kumar, Ram Vilas Paswan) who would profoundly dominate Bihar and Indian politics for the next half-century.",
+        "hi": "### गांधी मैदान में आह्वान\n5 जून, 1974 को, पटना के गांधी मैदान में दस लाख से अधिक लोगों की एक विशाल सभा को संबोधित करते हुए, लोकनायक जयप्रकाश नारायण ने 'संपूर्ण क्रांति' का अपना ऐतिहासिक आह्वान किया।\n\n### विरोध से उथल-पुथल तक\nबढ़ती कीमतों, भ्रष्टाचार और बेरोजगारी के खिलाफ एक स्थानीय छात्र विरोध के रूप में जो शुरू हुआ वह तेजी से एक विशाल लोकतांत्रिक उभार में बदल गया। इसने मौलिक रूप से भारतीय राजनीति की नींव हिला दी, और बिहार को राष्ट्रीय लोकतांत्रिक प्रतिरोध के केंद्र के रूप में दृढ़ता से स्थापित किया।\n\n### स्थायी विरासत\nआंदोलन ने सीधे तौर पर देशव्यापी आंदोलन को गति दी जिसके कारण आपातकाल (1975) लगा। इससे भी महत्वपूर्ण बात यह है कि इसने छात्र नेताओं (लालू प्रसाद यादव, नीतीश कुमार, रामविलास पासवान) की एक नई पीढ़ी को जन्म दिया जो अगली आधी सदी तक बिहार और भारतीय राजनीति पर गहराई से हावी रहेंगे।"
+      },
+      "bpscRelevance": {
+        "en": "Date of JP's Total Revolution call (5 June 1974 at Gandhi Maidan), 7 dimensions of Sampoorna Kranti, and leaders produced by the movement.",
+        "hi": "जेपी के संपूर्ण क्रांति आह्वान की तिथि (5 जून 1974, गांधी मैदान), संपूर्ण क्रांति के 7 आयाम, और आंदोलन द्वारा दिए गए प्रमुख नेता।"
+      }
+    },
+    {
+      "id": "social-justice-coalition-era",
+      "name": {
+        "en": "Social Justice & Rise of Regional Coalitions (Post-1990)",
+        "hi": "सामाजिक न्याय एवं क्षेत्रीय गठबंधन युग (1990 के बाद)"
+      },
+      "category": {
+        "en": "Political Realignment",
+        "hi": "राजनीतिक पुनर्गठन"
+      },
+      "asOf": "2024-01-01",
+      "definingMilestones": [
+        {
+          "year": 1990,
+          "event": {
+            "en": "Ascendancy of backward-class political leadership; implementation of Mandal Commission recommendations providing 27% reservation to Other Backward Classes (OBCs)",
+            "hi": "पिछड़ा वर्ग राजनीतिक नेतृत्व का उदय; अन्य पिछड़ा वर्ग (ओबीसी) को 27% आरक्षण प्रदान करने वाली मंडल आयोग की सिफारिशों का कार्यान्वयन"
+          }
+        },
+        {
+          "year": 1997,
+          "event": {
+            "en": "Formation of Rashtriya Janata Dal (RJD) led by Lalu Prasad Yadav, anchoring a powerful backward and minority electoral coalition",
+            "hi": "लालू प्रसाद यादव के नेतृत्व में राष्ट्रीय जनता दल (राजद) का गठन, जिसने एक शक्तिशाली पिछड़ा और अल्पसंख्यक चुनावी गठबंधन बनाया"
+          }
+        },
+        {
+          "year": 2003,
+          "event": {
+            "en": "Consolidation of Janata Dal (United) - JD(U) led by Nitish Kumar, forming enduring coalition partnerships and championing Extremely Backward Classes (EBC) and Mahadalit political assertion",
+            "hi": "नीतीश कुमार के नेतृत्व में जनता दल (यूनाइटेड) - जद(यू) का गठन, जिसने गठबंधन साझेदारी बनाई और अत्यंत पिछड़ा वर्ग (EBC) और महादलित राजनीतिक उभार का नेतृत्व किया"
+          }
+        }
+      ],
+      "description": {
+        "en": "### A Political Realignment\nThe post-1990 political era in Bihar sparked a fundamental restructuring of social and electoral power dynamics. Breaking decisively away from traditional upper-caste dominated politics, the state witnessed the powerful democratic assertion of the marginalized.\n\n### The Rise of Regional Forces\nFollowing the implementation of the Mandal Commission recommendations, intermediate backward castes mobilized heavily. This led to the formation of powerful regional entities like the Rashtriya Janata Dal (RJD), anchoring a formidable backward-minority electoral coalition.\n\n### Coalition Engineering\nSubsequently, the Janata Dal (United) under Nitish Kumar forged new enduring coalition architectures, championing the political empowerment of Extremely Backward Classes (EBCs) and Mahadalits. Today, regional coalition politics remains the absolute fulcrum of Bihar's governance and legislative priorities.",
+        "hi": "### एक राजनीतिक पुनर्गठन\nबिहार में 1990 के बाद के राजनीतिक युग ने सामाजिक और चुनावी सत्ता की गतिशीलता के एक मौलिक पुनर्गठन को जन्म दिया। पारंपरिक सवर्ण-वर्चस्व वाली राजनीति से निर्णायक रूप से दूर हटते हुए, राज्य ने हाशिए के लोगों के शक्तिशाली लोकतांत्रिक मुखरता को देखा।\n\n### क्षेत्रीय ताकतों का उदय\nमंडल आयोग की सिफारिशों के कार्यान्वयन के बाद, मध्यवर्ती पिछड़ी जातियां भारी रूप से लामबंद हुईं। इससे राष्ट्रीय जनता दल (RJD) जैसी शक्तिशाली क्षेत्रीय संस्थाओं का निर्माण हुआ, जिसने एक मजबूत पिछड़ा-अल्पसंख्यक चुनावी गठबंधन को स्थापित किया।\n\n### गठबंधन इंजीनियरिंग\nइसके बाद, नीतीश कुमार के नेतृत्व में जनता दल (यूनाइटेड) ने अत्यंत पिछड़ा वर्ग (EBC) और महादलितों के राजनीतिक सशक्तिकरण का समर्थन करते हुए नए स्थायी गठबंधन आर्किटेक्चर बनाए। आज, क्षेत्रीय गठबंधन की राजनीति बिहार के शासन और विधायी प्राथमिकताओं का पूर्ण आधार बनी हुई है।"
+      },
+      "bpscRelevance": {
+        "en": "Mandal Commission impact, rise of coalition politics, creation of Mahadalit Commission, and empowerment of EBCs.",
+        "hi": "मंडल आयोग का प्रभाव, गठबंधन राजनीति का उदय, महादलित आयोग का गठन, और ईबीसी का सशक्तिकरण।"
+      }
+    },
+    {
+      "id": "voter-demographics-and-turnout",
+      "name": {
+        "en": "The Silent Revolution: Women Voter Participation",
+        "hi": "मूक क्रांति: महिला मतदाताओं की भागीदारी में ऐतिहासिक उछाल"
+      },
+      "category": {
+        "en": "Electoral Sociology & Turnout Trends",
+        "hi": "चुनावी समाजशास्त्र एवं मतदान रुझान"
+      },
+      "asOf": "2024-01-01",
+      "turnoutTrajectory": [
+        {
+          "electionYear": "2010 Assembly",
+          "femaleTurnout": "54.49%",
+          "maleTurnout": "51.12%",
+          "historicalSignificance": {
+            "en": "First time in Bihar's electoral history that female voter turnout surpassed male turnout",
+            "hi": "बिहार के चुनावी इतिहास में पहली बार महिला मतदान पुरुष मतदान से अधिक हुआ"
+          }
+        },
+        {
+          "electionYear": "2015 Assembly",
+          "femaleTurnout": "60.48%",
+          "maleTurnout": "53.32%",
+          "gap": "+7.16% higher women turnout"
+        },
+        {
+          "electionYear": "2020 Assembly",
+          "femaleTurnout": "59.69%",
+          "maleTurnout": "54.68%",
+          "gap": "+5.01% higher women turnout"
+        }
+      ],
+      "underlyingDrivers": {
+        "en": [
+          "Mukhya Mantri Balika Cycle Yojana: Provided free bicycles to schoolgirls, dramatically transforming mobility and adolescent confidence",
+          "JEEViKA (Bihar Rural Livelihoods Project): Mobilized over 1.3 crore rural women into Self-Help Groups (SHGs), creating collective social awareness",
+          "Complete prohibition of alcohol (enacted in 2016) in direct response to intense rural women grassroots petitions",
+          "50% reservation for women in Panchayati Raj and Urban Local Bodies creating local female role models"
+        ],
+        "hi": [
+          "मुख्यमंत्री बालिका साइकिल योजना: स्कूली छात्राओं को मुफ्त साइकिलें प्रदान कीं, जिसने गतिशीलता और किशोर आत्मविश्वास को बदल दिया",
+          "जीविका (बिहार ग्रामीण आजीविका परियोजना): 1.3 करोड़ से अधिक ग्रामीण महिलाओं को स्वयं सहायता समूहों (SHG) में संगठित किया, जिससे सामूहिक सामाजिक जागरूकता पैदा हुई",
+          "ग्रामीण महिलाओं की जमीनी याचिकाओं के जवाब में शराब की पूर्ण बंदी (2016 में लागू)",
+          "पंचायती राज और शहरी स्थानीय निकायों में महिलाओं के लिए 50% आरक्षण जिससे स्थानीय महिला नेतृत्व उभरा"
+        ]
+      },
+      "description": {
+        "en": "### The Silent Electoral Revolution\nThe steady, spectacular rise of women voters in Bihar is widely characterized by political scientists as a 'silent revolution'. Breaking firmly away from historical patriarchal voting directives, rural women have emerged as an independent and deeply decisive voting bloc.\n\n### Surpassing Male Turnout\nThe watershed moment occurred during the 2010 Assembly elections, marking the first time in Bihar's history that female voter turnout surpassed male turnout. This trend of higher women participation (+5% to +7% gaps) has consistently held across all subsequent assembly and parliamentary elections.\n\n### Policy Drivers\nThis mobilization was actively catalyzed by highly targeted women-centric welfare policies: the revolutionary schoolgirl cycle scheme, massive SHG mobilization via 'JEEViKA', 50% reservation in local bodies, and notably, the strict prohibition of alcohol enacted in response to grassroots women's petitions.",
+        "hi": "### मूक चुनावी क्रांति\nबिहार में महिला मतदाताओं की स्थिर, शानदार वृद्धि को राजनीतिक वैज्ञानिकों द्वारा व्यापक रूप से 'मूक क्रांति' के रूप में वर्णित किया गया है। ऐतिहासिक पितृसत्तात्मक मतदान निर्देशों से मजबूती से टूटते हुए, ग्रामीण महिलाएं एक स्वतंत्र और गहराई से निर्णायक मतदान समूह के रूप में उभरी हैं।\n\n### पुरुष मतदान को पार करना\nऐतिहासिक क्षण 2010 के विधानसभा चुनावों के दौरान आया, जब बिहार के इतिहास में पहली बार महिला मतदान प्रतिशत पुरुष मतदान से अधिक हो गया। उच्च महिला भागीदारी (+5% से +7% अंतर) की यह प्रवृत्ति बाद के सभी विधानसभा और संसदीय चुनावों में लगातार बनी हुई है।\n\n### नीतिगत चालक\nइस लामबंदी को अत्यधिक लक्षित महिला-केंद्रित कल्याणकारी नीतियों द्वारा सक्रिय रूप से उत्प्रेरित किया गया था: क्रांतिकारी स्कूली छात्रा साइकिल योजना, 'जीविका' के माध्यम से व्यापक स्वयं सहायता समूह लामबंदी, स्थानीय निकायों में 50% आरक्षण, और विशेष रूप से, जमीनी स्तर की महिलाओं की याचिकाओं के जवाब में लागू शराब की सख्त बंदी।"
+      },
+      "bpscRelevance": {
+        "en": "Electoral sociology question in BPSC GS-II: Trends in gender voting gap, year when women turnout first surpassed men (2010), and policy drivers behind women mobilization.",
+        "hi": "BPSC GS-II में चुनावी समाजशास्त्र प्रश्न: लैंगिक मतदान अंतर में रुझान, वह वर्ष जब महिला मतदान पहली बार पुरुषों से अधिक हुआ (2010), और महिला लामबंदी के पीछे नीतिगत प्रेरक।"
+      }
+    },
+    {
+      "id": "electoral-reforms-and-booth-capturing-elimination",
+      "name": {
+        "en": "Electoral Reforms & Elimination of Booth Capturing",
+        "hi": "चुनावी सुधार एवं बूथ कैप्चरिंग का उन्मूलन"
+      },
+      "category": {
+        "en": "Electoral Integrity & Technological Reforms",
+        "hi": "चुनावी शुचिता एवं तकनीकी सुधार"
+      },
+      "historicalContext": {
+        "en": "During the 1970s, 1980s, and early 1990s, elections in Bihar were frequently marred by criminal intimidation, physical ballot box snatching, booth capturing, and caste violence",
+        "hi": "1970, 1980 और 1990 के दशक की शुरुआत में, बिहार में चुनाव अक्सर आपराधिक धमकी, मतपेटियों की लूट, बूथ कैप्चरिंग और जातीय हिंसा से प्रभावित होते थे"
+      },
+      "institutionalTurningPoint": {
+        "era": "1990 - 1996",
+        "keyReforms": {
+          "en": [
+            "Rigorous enforcement of the Model Code of Conduct (MCC) under Chief Election Commissioner T. N. Seshan",
+            "Multi-phase staggered polling allowing comprehensive deployment of Central Armed Police Forces (CAPF) at every polling booth",
+            "Introduction of Electronic Voting Machines (EVMs) in 2000s, making physical paper ballot stuffing physically impossible",
+            "Voter Verifiable Paper Audit Trail (VVPAT) implementation ensuring 100% paper audit verification",
+            "Live webcasting from over 50% of polling stations and micro-observers deployed in vulnerable hamlets"
+          ],
+          "hi": [
+            "मुख्य चुनाव आयुक्त टी. एन. शेषन के तहत आदर्श आचार संहिता (MCC) का कड़ाई से प्रवर्तन",
+            "बहु-चरणीय मतदान जिससे प्रत्येक मतदान केंद्र पर केंद्रीय सशस्त्र पुलिस बलों (CAPF) की व्यापक तैनाती संभव हुई",
+            "2000 के दशक में इलेक्ट्रॉनिक वोटिंग मशीनों (EVM) की शुरुआत, जिससे कागजी मतपत्रों को ठूंसना असंभव हो गया",
+            "वोटर वेरिफिएबल पेपर ऑडिट ट्रेल (VVPAT) कार्यान्वयन जिससे 100% कागजी ऑडिट सत्यापन सुनिश्चित हुआ",
+            "50% से अधिक मतदान केंद्रों से लाइव वेबकास्टिंग और संवेदनशील बस्तियों में माइक्रो-ऑब्जर्वर की तैनाती"
+          ]
+        }
+      },
+      "description": {
+        "en": "### The Dark Era\nDuring the 1970s, 80s, and early 90s, elections in Bihar were globally infamous for democratic subversion. The paper ballot era was frequently marred by violent criminal intimidation, physical ballot box snatching, aggressive caste violence, and organized 'booth capturing'.\n\n### Institutional Crackdown\nThe turning point arrived in the mid-1990s with the rigorous, uncompromising enforcement of the Model Code of Conduct (MCC) spearheaded by Chief Election Commissioner T. N. Seshan. The EC introduced heavily staggered, multi-phase polling to allow overwhelming deployments of Central Armed Police Forces (CAPF) at vulnerable booths.\n\n### Technological Safeguards\nThe subsequent introduction of Electronic Voting Machines (EVMs), reinforced by Voter Verifiable Paper Audit Trails (VVPAT) and live webcasting, made physical vote stuffing impossible. Today, Bihar's electoral process stands as a global triumph of institutional reform, ensuring peaceful, transparent, and fair democratic transitions.",
+        "hi": "### अंधकार युग\n1970, 80 और 90 के दशक की शुरुआत में, बिहार में चुनाव लोकतांत्रिक रूप से कुख्यात थे। कागजी मतपत्रों का युग अक्सर हिंसक आपराधिक धमकी, मतपेटियों की शारीरिक लूट, आक्रामक जातीय हिंसा और संगठित 'बूथ कैप्चरिंग' से प्रभावित रहता था।\n\n### संस्थागत कार्रवाई\nमुख्य चुनाव आयुक्त टी. एन. शेषन के नेतृत्व में आदर्श आचार संहिता (MCC) के कठोर, समझौताहीन प्रवर्तन के साथ 1990 के दशक के मध्य में टर्निंग पॉइंट आया। चुनाव आयोग ने संवेदनशील बूथों पर केंद्रीय सशस्त्र पुलिस बलों (CAPF) की भारी तैनाती की अनुमति देने के लिए भारी रूप से चरणबद्ध, बहु-चरणीय मतदान शुरू किया।\n\n### तकनीकी सुरक्षा उपाय\nइसके बाद इलेक्ट्रॉनिक वोटिंग मशीनों (EVM) की शुरुआत, जिसे वोटर वेरिफिएबल पेपर ऑडिट ट्रेल्स (VVPAT) और लाइव वेबकास्टिंग द्वारा मजबूत किया गया, ने भौतिक रूप से वोटों को ठूंसना असंभव बना दिया। आज, बिहार की चुनावी प्रक्रिया संस्थागत सुधार की एक वैश्विक जीत के रूप में खड़ी है, जो शांतिपूर्ण, पारदर्शी और निष्पक्ष लोकतांत्रिक संक्रमण सुनिश्चित करती है।"
+      },
+      "bpscRelevance": {
+        "en": "Role of T. N. Seshan in electoral reforms, technological safeguards of EVM-VVPAT, Model Code of Conduct legal status, and measures to curb money and muscle power.",
+        "hi": "चुनावी सुधारों में टी. एन. शेषन की भूमिका, ईवीएम-वीवीपीएटी के तकनीकी सुरक्षा उपाय, आदर्श आचार संहिता की कानूनी स्थिति, और धन व बाहुबल को रोकने के उपाय।"
+      }
+    }
+  ]
+}

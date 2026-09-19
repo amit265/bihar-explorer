@@ -1,0 +1,509 @@
+{
+  "data": [
+    {
+      "id": "yadav-community",
+      "category": "agrarian-communities",
+      "title": {
+        "en": "Yadav (Ahir, Gwala, Gope)",
+        "hi": "यादव (अहीर, ग्वाला, गोप)"
+      },
+      "description": {
+        "en": "### Introduction\nThe **Yadav (Ahir, Gwala, Gope)** community constitutes the single largest caste group in Bihar. According to the 2023 Bihar Caste-Based Survey, they comprise 14.26% of the state's total population (over 1.86 crore persons).\n\n### Historical Role\n* **Traditional Occupations:** Historically, the community has been intimately associated with pastoral cattle rearing, dairy farming, and agriculture, forming the agrarian backbone of rural Bihar.\n* **Modern Mobilization:** Post-independence, the Yadavs played a transformative and highly assertive role in Bihar's democratic mobilization. They successfully championed social justice movements, drastically reshaping the political landscape of the state.\n\n### Economic Contribution\nBeyond politics, their immense contribution to the cooperative dairy movement (*Sudha Dairy*) has significantly bolstered Bihar's rural economy.",
+        "hi": "### परिचय\n**यादव (अहीर, ग्वाला, गोप)** समुदाय बिहार में सबसे बड़ा एकल जाति समूह है। 2023 की बिहार जाति-आधारित गणना के अनुसार, वे राज्य की कुल आबादी का 14.26% (1.86 करोड़ से अधिक व्यक्ति) हैं।\n\n### ऐतिहासिक भूमिका\n* **पारंपरिक व्यवसाय:** ऐतिहासिक रूप से, यह समुदाय पशुपालन, दुग्ध व्यवसाय और कृषि से घनिष्ठ रूप से जुड़ा रहा है, जो ग्रामीण बिहार की कृषि रीढ़ बनाता है।\n* **आधुनिक लामबंदी:** स्वतंत्रता के बाद, यादवों ने बिहार के लोकतांत्रिक लामबंदी में परिवर्तनकारी और अत्यधिक मुखर भूमिका निभाई। उन्होंने सामाजिक न्याय आंदोलनों का सफलतापूर्वक नेतृत्व किया, जिसने राज्य के राजनीतिक परिदृश्य को काफी हद तक नया आकार दिया।\n\n### आर्थिक योगदान\nराजनीति से परे, सहकारी डेयरी आंदोलन (*सुधा डेयरी*) में उनके अपार योगदान ने बिहार की ग्रामीण अर्थव्यवस्था को काफी मजबूती प्रदान की है।"
+      },
+      "demographics": {
+        "casteSurvey2023SharePercent": 14.2666,
+        "population2023": 18650119,
+        "category": "Other Backward Classes (OBC)",
+        "traditionalOccupation": {
+          "en": "Cattle Rearing, Dairy Farming, Agriculture",
+          "hi": "पशुपालन, दुग्ध व्यवसाय, कृषि"
+        },
+        "keyDistricts": [
+          "madhepura",
+          "saharsa",
+          "patna",
+          "rohtas",
+          "samastipur",
+          "vaishali"
+        ]
+      },
+      "asOf": "2023-10-02",
+      "source": {
+        "en": "Bihar Caste-Based Survey 2023, Government of Bihar",
+        "hi": "बिहार जाति आधारित गणना 2023, बिहार सरकार"
+      },
+      "relatedDistricts": [
+        "madhepura",
+        "saharsa",
+        "patna",
+        "rohtas",
+        "samastipur"
+      ]
+    },
+    {
+      "id": "kushwaha-koeri-community",
+      "category": "agrarian-communities",
+      "title": {
+        "en": "Kushwaha (Koeri)",
+        "hi": "कुशवाहा (कोइरी)"
+      },
+      "description": {
+        "en": "### Introduction\nThe **Kushwaha (Koeri)** community is a highly respected agrarian caste group, accounting for 4.21% of Bihar's population (over 55 lakh persons according to the 2023 Caste Survey).\n\n### Agricultural Prowess\n* **Intensive Farming:** The community is widely renowned across northern and central Bihar for its unmatched expertise in intensive agriculture, market gardening, and the cultivation of high-yield cash crops and vegetables.\n* **Work Ethic:** Their profound agricultural knowledge and rigorous work ethic have made them vital to the state's food security and horticultural economy.\n\n### Social Reform\nThe community has a proud history of producing influential social reformers and political leaders, including stalwarts like Jagdeo Prasad, who vigorously advocated for rural equity, peasant empowerment, and the rights of the backward classes.",
+        "hi": "### परिचय\n**कुशवाहा (कोइरी)** समुदाय एक अत्यधिक सम्मानित कृषक जाति समूह है, जो बिहार की आबादी का 4.21% है (2023 की जाति गणना के अनुसार 55 लाख से अधिक व्यक्ति)।\n\n### कृषि कौशल\n* **सघन खेती:** यह समुदाय उत्तरी और मध्य बिहार में सघन कृषि, बाजार बागवानी, और उच्च उपज वाली नकदी फसलों व सब्जियों की खेती में अपनी बेजोड़ विशेषज्ञता के लिए व्यापक रूप से प्रसिद्ध है।\n* **कार्य नीति:** उनके गहन कृषि ज्ञान और कठोर कार्य नीति ने उन्हें राज्य की खाद्य सुरक्षा और बागवानी अर्थव्यवस्था के लिए महत्वपूर्ण बना दिया है।\n\n### समाज सुधार\nइस समुदाय का प्रभावशाली समाज सुधारकों और राजनीतिक नेताओं को जन्म देने का एक गौरवशाली इतिहास रहा है, जिनमें जगदेव प्रसाद जैसे दिग्गज शामिल हैं, जिन्होंने ग्रामीण समानता, किसान सशक्तिकरण और पिछड़े वर्गों के अधिकारों की पुरजोर वकालत की।"
+      },
+      "demographics": {
+        "casteSurvey2023SharePercent": 4.212,
+        "population2023": 5506113,
+        "category": "Other Backward Classes (OBC)",
+        "traditionalOccupation": {
+          "en": "Horticulture, Intensive Crop Agriculture, Market Gardening",
+          "hi": "बागवानी, सघन फसल कृषि, सब्जी उत्पादन"
+        },
+        "keyDistricts": [
+          "rohtas",
+          "aurangabad",
+          "bhojpur",
+          "patna",
+          "nalanda",
+          "samastipur"
+        ]
+      },
+      "asOf": "2023-10-02",
+      "source": {
+        "en": "Bihar Caste-Based Survey 2023, Government of Bihar",
+        "hi": "बिहार जाति आधारित गणना 2023, बिहार सरकार"
+      },
+      "relatedDistricts": [
+        "rohtas",
+        "aurangabad",
+        "bhojpur",
+        "patna",
+        "nalanda"
+      ]
+    },
+    {
+      "id": "kurmi-community",
+      "category": "agrarian-communities",
+      "title": {
+        "en": "Kurmi Community",
+        "hi": "कुर्मी समुदाय"
+      },
+      "description": {
+        "en": "### Introduction\nThe **Kurmi** community forms 2.87% of Bihar's population (approx. 37.6 lakh persons). Concentrated heavily in districts like Nalanda, Patna, and Samastipur, they are recognized as a highly progressive and socially upwardly mobile group.\n\n### Agrarian Innovators\n* **Progressive Agriculture:** Traditionally agriculturists, Kurmis are celebrated for their progressive farming techniques. They have historically been early adopters of high-yielding crop varieties and modern agricultural mechanization.\n\n### Modern Influence\n* **Public Life:** Moving beyond agriculture, the Kurmi community has established an exceptional presence in state governance, civil services, and education.\n* **Political Leadership:** They have been instrumental in modern coalition politics in Bihar, heavily influencing the state's contemporary administrative and developmental agenda.",
+        "hi": "### परिचय\n**कुर्मी** समुदाय बिहार की आबादी का 2.87% (लगभग 37.6 लाख व्यक्ति) बनाता है। नालंदा, पटना और समस्तीपुर जैसे जिलों में भारी रूप से केंद्रित, उन्हें एक अत्यधिक प्रगतिशील और सामाजिक रूप से ऊर्ध्वगामी समूह के रूप में मान्यता प्राप्त है।\n\n### कृषि नवप्रवर्तक\n* **प्रगतिशील कृषि:** पारंपरिक रूप से कृषक, कुर्मी अपनी प्रगतिशील खेती तकनीकों के लिए प्रसिद्ध हैं। वे ऐतिहासिक रूप से उच्च उपज वाली फसल किस्मों और आधुनिक कृषि मशीनीकरण को अपनाने वाले शुरुआती लोग रहे हैं।\n\n### आधुनिक प्रभाव\n* **सार्वजनिक जीवन:** कृषि से आगे बढ़ते हुए, कुर्मी समुदाय ने राज्य शासन, प्रशासनिक सेवाओं और शिक्षा में एक असाधारण उपस्थिति स्थापित की है।\n* **राजनीतिक नेतृत्व:** वे बिहार में आधुनिक गठबंधन की राजनीति में सहायक रहे हैं, जिसने राज्य के समकालीन प्रशासनिक और विकासात्मक एजेंडे को भारी रूप से प्रभावित किया है।"
+      },
+      "demographics": {
+        "casteSurvey2023SharePercent": 2.8781,
+        "population2023": 3762438,
+        "category": "Other Backward Classes (OBC)",
+        "traditionalOccupation": {
+          "en": "Agriculture, Landholding, Cooperative Enterprise",
+          "hi": "कृषि, भू-स्वामित्व, सहकारी उद्यम"
+        },
+        "keyDistricts": [
+          "nalanda",
+          "patna",
+          "samastipur",
+          "jehanabad",
+          "vaishali"
+        ]
+      },
+      "asOf": "2023-10-02",
+      "source": {
+        "en": "Bihar Caste-Based Survey 2023, Government of Bihar",
+        "hi": "बिहार जाति आधारित गणना 2023, बिहार सरकार"
+      },
+      "relatedDistricts": [
+        "nalanda",
+        "patna",
+        "samastipur",
+        "jehanabad"
+      ]
+    },
+    {
+      "id": "brahmin-community",
+      "category": "traditional-scholarly",
+      "title": {
+        "en": "Brahmin Community (Maithil, Kanyakubja, Sakaldwipi)",
+        "hi": "ब्राह्मण समुदाय (मैथिल, कान्यकुब्ज, शाकद्वीपीय)"
+      },
+      "description": {
+        "en": "### Introduction\n**Brahmins** constitute 3.65% of Bihar's population (approx. 47.7 lakh persons). The community encompasses diverse sub-groups including the Maithil, Kanyakubja, and Sakaldwipi Brahmins, each with profound intellectual legacies.\n\n### Intellectual Heritage\n* **Maithil Brahmins:** Concentrated in North Bihar, they have preserved centuries of Vedic philosophy, the complex *Navya-Nyaya* (New Logic) school, and classical Sanskrit literature. They also maintain the historic *Panji Prabandha*—an intricate, centuries-old genealogical record system.\n* **Sakaldwipi and Kanyakubja Brahmins:** Predominantly found in the Magadh and Bhojpur regions, these communities have historically made extensive contributions to Ayurveda, astrology, traditional literature, and judicial professions.\n\n### Cultural Custodians\nThe Brahmin community continues to play a vital role as traditional educators, priests, and custodians of Bihar’s deep-rooted classical heritage.",
+        "hi": "### परिचय\n**ब्राह्मण** बिहार की आबादी का 3.65% (लगभग 47.7 लाख व्यक्ति) हैं। इस समुदाय में मैथिल, कान्यकुब्ज और शाकद्वीपीय ब्राह्मणों सहित विविध उप-समूह शामिल हैं, जिनमें से प्रत्येक की गहरी बौद्धिक विरासत है।\n\n### बौद्धिक विरासत\n* **मैथिल ब्राह्मण:** उत्तर बिहार में केंद्रित, उन्होंने सदियों के वैदिक दर्शन, जटिल *नव्य-न्याय* (नया तर्क) स्कूल और शास्त्रीय संस्कृत साहित्य को संरक्षित किया है। वे ऐतिहासिक *पंजी प्रबंध*—एक जटिल, सदियों पुरानी वंशावली रिकॉर्ड प्रणाली—को भी बनाए रखते हैं।\n* **शाकद्वीपीय और कान्यकुब्ज ब्राह्मण:** मुख्य रूप से मगध और भोजपुर क्षेत्रों में पाए जाने वाले इन समुदायों ने ऐतिहासिक रूप से आयुर्वेद, ज्योतिष, पारंपरिक साहित्य और न्यायिक पेशों में व्यापक योगदान दिया है।\n\n### सांस्कृतिक संरक्षक\nब्राह्मण समुदाय पारंपरिक शिक्षकों, पुजारियों और बिहार की गहरी शास्त्रीय विरासत के संरक्षकों के रूप में महत्वपूर्ण भूमिका निभाता है।"
+      },
+      "demographics": {
+        "casteSurvey2023SharePercent": 3.6575,
+        "population2023": 4775130,
+        "category": "General (Unreserved)",
+        "traditionalOccupation": {
+          "en": "Priesthood, Scholarly Research, Education, Law",
+          "hi": "पौरोहित्य, शैक्षिक अनुसंधान, अध्यापन, विधि"
+        },
+        "keyDistricts": [
+          "madhubani",
+          "darbhanga",
+          "patna",
+          "bhojpur",
+          "saran"
+        ]
+      },
+      "asOf": "2023-10-02",
+      "source": {
+        "en": "Bihar Caste-Based Survey 2023, Government of Bihar",
+        "hi": "बिहार जाति आधारित गणना 2023, बिहार सरकार"
+      },
+      "relatedDistricts": [
+        "madhubani",
+        "darbhanga",
+        "patna",
+        "bhojpur"
+      ]
+    },
+    {
+      "id": "rajput-community",
+      "category": "martial-landholding",
+      "title": {
+        "en": "Rajput Community",
+        "hi": "राजपूत समुदाय"
+      },
+      "description": {
+        "en": "### Introduction\nThe **Rajput** community accounts for 3.45% of Bihar's population (approx. 45.1 lakh persons). They are a historically martial and landholding aristocracy with a towering legacy of valor and patriotism.\n\n### The Martial Legacy\n* **Freedom Struggle:** The community played a momentous and bloody role in India's freedom struggle. The most glorious chapter was written by the 80-year-old Rajput chieftain of Jagdishpur, **Veer Kunwar Singh**, who masterfully spearheaded the Rebellion of 1857 in Bihar against the British Empire.\n* **Armed Forces:** Driven by a strong martial tradition, an exceptionally high number of youth from this community continue to serve in the Indian Armed Forces and paramilitary organizations.\n\n### Socio-Economic Position\nTraditionally significant landowners (*Zamindars*), Rajputs maintain a strong presence in Bihar's rural socio-political structure, agriculture, and contemporary state administration.",
+        "hi": "### परिचय\n**राजपूत** समुदाय बिहार की आबादी का 3.45% (लगभग 45.1 लाख व्यक्ति) है। वे वीरता और देशभक्ति की एक विशाल विरासत के साथ ऐतिहासिक रूप से एक क्षत्रिय और भू-स्वामी अभिजात वर्ग हैं।\n\n### क्षत्रिय (मार्शल) विरासत\n* **स्वतंत्रता संग्राम:** इस समुदाय ने भारत के स्वतंत्रता संग्राम में एक महत्वपूर्ण और खूनी भूमिका निभाई। सबसे गौरवशाली अध्याय जगदीशपुर के 80 वर्षीय राजपूत सरदार, **वीर कुंवर सिंह** द्वारा लिखा गया था, जिन्होंने ब्रिटिश साम्राज्य के खिलाफ बिहार में 1857 के प्रथम स्वतंत्रता संग्राम का कुशलतापूर्वक नेतृत्व किया था।\n* **सशस्त्र बल:** एक मजबूत मार्शल परंपरा से प्रेरित होकर, इस समुदाय के असाधारण रूप से उच्च संख्या में युवा आज भी भारतीय सशस्त्र बलों और अर्धसैनिक संगठनों में सेवा करते हैं।\n\n### सामाजिक-आर्थिक स्थिति\nपारंपरिक रूप से महत्वपूर्ण जमींदार, राजपूत बिहार की ग्रामीण सामाजिक-राजनीतिक संरचना, कृषि और समकालीन राज्य प्रशासन में मजबूत उपस्थिति बनाए रखते हैं।"
+      },
+      "demographics": {
+        "casteSurvey2023SharePercent": 3.4505,
+        "population2023": 4510704,
+        "category": "General (Unreserved)",
+        "traditionalOccupation": {
+          "en": "Landholding, Armed Forces, Administration",
+          "hi": "भू-स्वामित्व, सशस्त्र बल, प्रशासन"
+        },
+        "keyDistricts": [
+          "bhojpur",
+          "saran",
+          "rohtas",
+          "aurangabad",
+          "siwan",
+          "east-champaran"
+        ]
+      },
+      "asOf": "2023-10-02",
+      "source": {
+        "en": "Bihar Caste-Based Survey 2023, Government of Bihar",
+        "hi": "बिहार जाति आधारित गणना 2023, बिहार सरकार"
+      },
+      "relatedDistricts": [
+        "bhojpur",
+        "saran",
+        "rohtas",
+        "aurangabad",
+        "siwan"
+      ]
+    },
+    {
+      "id": "bhumihar-community",
+      "category": "landholding-agrarian",
+      "title": {
+        "en": "Bhumihar (Babhan)",
+        "hi": "भूमिहार (बाभन)"
+      },
+      "description": {
+        "en": "### Introduction\n**Bhumihars** (also known as Babhans) comprise 2.86% of Bihar's population (approx. 37.5 lakh persons). They are a dominant, traditionally landed agricultural community known for their fierce independence and intellectual vigor.\n\n### Peasant Movements\n* **Kisan Sabha:** Uniquely, despite being landowners, the community was at the absolute vanguard of the historic Indian Peasant Movement. Under the legendary leadership of Swami Sahajanand Saraswati, they helped found the *All India Kisan Sabha*, fighting aggressively against oppressive Zamindari systems.\n\n### Institution Builders\n* **Education & Industry:** Bhumihars played a pioneering role in the modernization of Bihar. Philanthropists from the community were instrumental in establishing Bihar's early colleges, premier universities (like Patna University), and major industrial enterprises, laying the groundwork for the state's modern educational infrastructure.",
+        "hi": "### परिचय\n**भूमिहार** (जिन्हें बाभन भी कहा जाता है) बिहार की आबादी का 2.86% (लगभग 37.5 लाख व्यक्ति) हैं। वे एक प्रमुख, पारंपरिक रूप से भू-स्वामी कृषि समुदाय हैं जो अपनी उग्र स्वतंत्रता और बौद्धिक ओज के लिए जाने जाते हैं।\n\n### किसान आंदोलन\n* **किसान सभा:** विशिष्ट रूप से, जमींदार होने के बावजूद, यह समुदाय ऐतिहासिक भारतीय किसान आंदोलन के बिल्कुल अग्रिम पंक्ति में था। स्वामी सहजानंद सरस्वती के महान नेतृत्व में, उन्होंने दमनकारी जमींदारी प्रथाओं के खिलाफ आक्रामक रूप से लड़ते हुए *अखिल भारतीय किसान सभा* की स्थापना में मदद की।\n\n### संस्था निर्माता\n* **शिक्षा और उद्योग:** भूमिहारों ने बिहार के आधुनिकीकरण में अग्रणी भूमिका निभाई। समुदाय के परोपकारी लोगों ने बिहार के शुरुआती कॉलेजों, प्रमुख विश्वविद्यालयों (जैसे पटना विश्वविद्यालय) और प्रमुख औद्योगिक उद्यमों की स्थापना में महत्वपूर्ण भूमिका निभाई, जिससे राज्य के आधुनिक शैक्षिक बुनियादी ढांचे की नींव पड़ी।"
+      },
+      "demographics": {
+        "casteSurvey2023SharePercent": 2.8694,
+        "population2023": 3750886,
+        "category": "General (Unreserved)",
+        "traditionalOccupation": {
+          "en": "Landholding, Agriculture, Academics, Public Life",
+          "hi": "भू-स्वामित्व, कृषि, शिक्षा, सार्वजनिक जीवन"
+        },
+        "keyDistricts": [
+          "begusarai",
+          "patna",
+          "muzaffarpur",
+          "jehanabad",
+          "vaishali",
+          "lakhisarai"
+        ]
+      },
+      "asOf": "2023-10-02",
+      "source": {
+        "en": "Bihar Caste-Based Survey 2023, Government of Bihar",
+        "hi": "बिहार जाति आधारित गणना 2023, बिहार सरकार"
+      },
+      "relatedDistricts": [
+        "begusarai",
+        "patna",
+        "muzaffarpur",
+        "jehanabad",
+        "lakhisarai"
+      ]
+    },
+    {
+      "id": "kayastha-community",
+      "category": "traditional-administrative",
+      "title": {
+        "en": "Kayastha Community",
+        "hi": "कायस्थ समुदाय"
+      },
+      "description": {
+        "en": "### Introduction\nThough small in number—accounting for just 0.60% of Bihar's population (approx. 7.8 lakh persons)—the **Kayastha** community's impact on Bihar and India's history is incredibly disproportionate to its size.\n\n### The Administrative Class\n* **Historical Scribes:** Historically acting as the preeminent scribes, scholars, judges, and administrators, the Kayasthas mastered Persian and Urdu during the Mughal era, and seamlessly transitioned to mastering English during British rule.\n\n### Nation Builders\nThe community has produced some of the most monumental figures in modern Indian history:\n* **Dr. Rajendra Prasad:** India’s first President and a towering intellectual.\n* **Sachchidananda Sinha:** The provisional President of the Constituent Assembly and architect of modern Bihar.\n* **Jayaprakash Narayan (JP):** The legendary 'Loknayak' who led the 'Total Revolution' to protect Indian democracy.",
+        "hi": "### परिचय\nयद्यपि संख्या में छोटे हैं—बिहार की आबादी का केवल 0.60% (लगभग 7.8 लाख व्यक्ति)—लेकिन बिहार और भारत के इतिहास पर **कायस्थ** समुदाय का प्रभाव इसके आकार के अनुपात में अविश्वसनीय रूप से बड़ा है।\n\n### प्रशासनिक वर्ग\n* **ऐतिहासिक लेखक:** ऐतिहासिक रूप से प्रमुख लेखकों, विद्वानों, न्यायाधीशों और प्रशासकों के रूप में कार्य करते हुए, कायस्थों ने मुगल काल के दौरान फारसी और उर्दू में महारत हासिल की, और ब्रिटिश शासन के दौरान अंग्रेजी में महारत हासिल करने के लिए मूल रूप से परिवर्तित हो गए।\n\n### राष्ट्र निर्माता\nइस समुदाय ने आधुनिक भारतीय इतिहास की कुछ सबसे स्मारकीय हस्तियों को जन्म दिया है:\n* **डॉ. राजेंद्र प्रसाद:** भारत के पहले राष्ट्रपति और एक महान बुद्धिजीवी।\n* **सच्चिदानंद सिन्हा:** संविधान सभा के अस्थायी अध्यक्ष और आधुनिक बिहार के निर्माता।\n* **जयप्रकाश नारायण (जेपी):** महान 'लोकनायक' जिन्होंने भारतीय लोकतंत्र की रक्षा के लिए 'संपूर्ण क्रांति' का नेतृत्व किया।"
+      },
+      "demographics": {
+        "casteSurvey2023SharePercent": 0.6011,
+        "population2023": 785771,
+        "category": "General (Unreserved)",
+        "traditionalOccupation": {
+          "en": "Civil Administration, Judiciary, Medicine, Literature, Public Governance",
+          "hi": "प्रशासनिक सेवा, न्यायपालिका, चिकित्सा, साहित्य, लोक शासन"
+        },
+        "keyDistricts": [
+          "patna",
+          "gaya",
+          "muzaffarpur",
+          "bhojpur",
+          "siwan"
+        ]
+      },
+      "asOf": "2023-10-02",
+      "source": {
+        "en": "Bihar Caste-Based Survey 2023, Government of Bihar",
+        "hi": "बिहार जाति आधारित गणना 2023, बिहार सरकार"
+      },
+      "relatedDistricts": [
+        "patna",
+        "siwan",
+        "saran",
+        "gaya"
+      ]
+    },
+    {
+      "id": "paswan-dusadh-community",
+      "category": "dalit-communities",
+      "title": {
+        "en": "Paswan (Dusadh, Dhari)",
+        "hi": "पासवान (दुसाध, धारी)"
+      },
+      "description": {
+        "en": "### Introduction\nThe **Paswan (Dusadh/Dhari)** community is the largest Scheduled Caste (SC) group in Bihar, representing 5.31% of the state's population (over 69.4 lakh persons).\n\n### Martial and Cultural Roots\n* **Folk Deity:** The community possesses a fiercely proud and rich martial lore, deeply rooted in the reverence of their legendary folk deity, King Salhesh (*Raja Salhesh*), a symbol of justice, courage, and subaltern empowerment.\n* **Village Defense:** Historically, the community served as formidable village guards (*chowkidars*) and in local infantry units, prized for their physical strength and bravery.\n\n### Modern Political Ascent\nIn contemporary Bihar, the Paswan community has undergone massive social and political awakening. Organized and highly mobilized, they have emerged as an indispensable and decisive political force, actively shaping the state's legislative and electoral destiny.",
+        "hi": "### परिचय\n**पासवान (दुसाध/धारी)** समुदाय बिहार में सबसे बड़ा अनुसूचित जाति (SC) समूह है, जो राज्य की आबादी का 5.31% (69.4 लाख से अधिक व्यक्ति) का प्रतिनिधित्व करता है।\n\n### मार्शल और सांस्कृतिक जड़ें\n* **लोक देवता:** इस समुदाय के पास एक बेहद गर्वित और समृद्ध मार्शल परंपरा है, जो न्याय, साहस और दलित सशक्तिकरण के प्रतीक, उनके महान लोक देवता, राजा सल्हेश (*Raja Salhesh*) की श्रद्धा में गहराई से निहित है।\n* **ग्राम रक्षा:** ऐतिहासिक रूप से, इस समुदाय ने दुर्जेय ग्राम रक्षकों (चौकीदारों) और स्थानीय पैदल सेना इकाइयों में कार्य किया, जो अपनी शारीरिक शक्ति और बहादुरी के लिए बेशकीमती थे।\n\n### आधुनिक राजनीतिक उत्थान\nसमकालीन बिहार में, पासवान समुदाय बड़े पैमाने पर सामाजिक और राजनीतिक जागरण से गुजरा है। संगठित और अत्यधिक लामबंद होकर, वे एक अपरिहार्य और निर्णायक राजनीतिक शक्ति के रूप में उभरे हैं, जो राज्य के विधायी और चुनावी भाग्य को सक्रिय रूप से आकार दे रहे हैं।"
+      },
+      "demographics": {
+        "casteSurvey2023SharePercent": 5.3111,
+        "population2023": 6943000,
+        "category": "Scheduled Castes (SC)",
+        "folkDeity": {
+          "en": "Raja Salhesh",
+          "hi": "राजा सल्हेश"
+        },
+        "traditionalOccupation": {
+          "en": "Agriculture, Security, Public Representation",
+          "hi": "कृषि, सुरक्षा, लोक प्रतिनिधित्व"
+        },
+        "keyDistricts": [
+          "patna",
+          "vaishali",
+          "samastipur",
+          "khagaria",
+          "darbhanga"
+        ]
+      },
+      "asOf": "2023-10-02",
+      "source": {
+        "en": "Bihar Caste-Based Survey 2023, Government of Bihar",
+        "hi": "बिहार जाति आधारित गणना 2023, बिहार सरकार"
+      },
+      "relatedDistricts": [
+        "patna",
+        "vaishali",
+        "samastipur",
+        "khagaria"
+      ]
+    },
+    {
+      "id": "musahar-community",
+      "category": "mahadalit-communities",
+      "title": {
+        "en": "Musahar Community",
+        "hi": "मुसहर समुदाय"
+      },
+      "description": {
+        "en": "### Introduction\nThe **Musahar** community constitutes 3.08% of Bihar's population (approx. 40.3 lakh persons). They represent the most marginalized and historically oppressed demographic in the state, often living in extreme poverty.\n\n### Historical Struggles\n* **The Subaltern Life:** The name 'Musahar' literally translates to 'rat catchers'. Historically relegated to landless agricultural labor and pushed to the absolute fringes of society, they have survived harsh conditions through earthwork, forest gathering, and agrarian servitude.\n\n### The Spirit of Resilience\n* **The Mountain Man:** The legendary grit and unyielding spirit of the Musahar community are globally personified by **Dashrath Manjhi** ('The Mountain Man'). Armed with only a hammer and chisel, he spent 22 years single-handedly carving a road through the solid rocky hills of Gehlaur for his village.\n* **Government Focus:** Today, they are the primary focus of affirmative action policies, specifically through the *Bihar Mahadalit Vikas Mission*, aiming to provide land, education, and dignity.",
+        "hi": "### परिचय\n**मुसहर** समुदाय बिहार की आबादी का 3.08% (लगभग 40.3 लाख व्यक्ति) बनाता है। वे राज्य में सबसे अधिक हाशिए पर रहने वाले और ऐतिहासिक रूप से उत्पीड़ित जनसांख्यिकी का प्रतिनिधित्व करते हैं, जो अक्सर अत्यधिक गरीबी में रहते हैं।\n\n### ऐतिहासिक संघर्ष\n* **दलित जीवन:** 'मुसहर' नाम का शाब्दिक अर्थ है 'चूहे पकड़ने वाले'। ऐतिहासिक रूप से भूमिहीन कृषि श्रम में धकेल दिए गए और समाज के बिल्कुल हाशिये पर धकेल दिए गए, वे मिट्टी के काम, जंगल से संग्रहण और कृषि दासता के माध्यम से कठोर परिस्थितियों में जीवित रहे हैं।\n\n### लचीलेपन की भावना\n* **माउंटेन मैन:** मुसहर समुदाय के पौराणिक धैर्य और अडिग भावना को **दशरथ मांझी** ('द माउंटेन मैन') द्वारा विश्व स्तर पर पहचाना गया है। केवल एक हथौड़े और छेनी से लैस होकर, उन्होंने अपने गांव के लिए गहलोर की ठोस चट्टानी पहाड़ियों के बीच से अकेले रास्ता बनाने में 22 साल बिताए।\n* **सरकारी फोकस:** आज, वे सकारात्मक कार्रवाई नीतियों का प्राथमिक फोकस हैं, विशेष रूप से *बिहार महादलित विकास मिशन* के माध्यम से, जिसका उद्देश्य भूमि, शिक्षा और सम्मान प्रदान करना है।"
+      },
+      "demographics": {
+        "casteSurvey2023SharePercent": 3.0872,
+        "population2023": 4035787,
+        "category": "Scheduled Castes (SC) / Mahadalit",
+        "traditionalOccupation": {
+          "en": "Agricultural Labor, Earthwork, Forest Gathering",
+          "hi": "कृषि श्रम, मिट्टी कार्य, वनोपज संग्रह"
+        },
+        "keyDistricts": [
+          "gaya",
+          "nawada",
+          "jamui",
+          "madhubani",
+          "purnia"
+        ]
+      },
+      "asOf": "2023-10-02",
+      "source": {
+        "en": "Bihar Mahadalit Vikas Mission / Caste-Based Survey 2023",
+        "hi": "बिहार महादलित विकास मिशन / जाति आधारित गणना 2023"
+      },
+      "relatedDistricts": [
+        "gaya",
+        "nawada",
+        "jamui",
+        "purnia"
+      ]
+    },
+    {
+      "id": "ravidas-chamar-community",
+      "category": "dalit-communities",
+      "title": {
+        "en": "Ravidas (Chamar, Mochi)",
+        "hi": "रविदास (चमार, मोची)"
+      },
+      "description": {
+        "en": "### Introduction\nThe **Ravidas** (historically referred to as Chamar or Mochi) community forms 5.25% of Bihar's population (approx. 68.6 lakh persons). It is the second-largest Scheduled Caste group in the state.\n\n### Spiritual and Occupational Roots\n* **Sant Ravidas:** The community draws deep spiritual inspiration and its modern identity from the teachings of the revered 15th-century Bhakti movement saint-poet, *Sant Guru Ravidas*, who preached equality and the dignity of labor.\n* **Traditional Trades:** Historically, the community practiced essential but stigmatized trades such as leathercraft (tanning, shoemaking) and masonry.\n\n### Social Mobility\nIn recent decades, the Ravidas community has achieved significant upward social mobility. Through determined educational attainment, high participation in government employment (especially civil services and police), and entrepreneurship, they have aggressively dismantled historical caste barriers and asserted their socio-political rights.",
+        "hi": "### परिचय\n**रविदास** (ऐतिहासिक रूप से चमार या मोची के रूप में संदर्भित) समुदाय बिहार की आबादी का 5.25% (लगभग 68.6 लाख व्यक्ति) बनाता है। यह राज्य में दूसरा सबसे बड़ा अनुसूचित जाति समूह है।\n\n### आध्यात्मिक और व्यावसायिक जड़ें\n* **संत रविदास:** यह समुदाय 15वीं सदी के श्रद्धेय भक्ति आंदोलन के संत-कवि, *संत गुरु रविदास* की शिक्षाओं से गहरी आध्यात्मिक प्रेरणा और अपनी आधुनिक पहचान प्राप्त करता है, जिन्होंने समानता और श्रम की गरिमा का उपदेश दिया था।\n* **पारंपरिक व्यापार:** ऐतिहासिक रूप से, इस समुदाय ने आवश्यक लेकिन कलंकित व्यापारों का अभ्यास किया जैसे कि चर्मशिल्प (कमाना, जूता बनाना) और चिनाई (मेसनरी)।\n\n### सामाजिक गतिशीलता\nहाल के दशकों में, रविदास समुदाय ने महत्वपूर्ण ऊर्ध्वगामी सामाजिक गतिशीलता हासिल की है। दृढ़ शैक्षिक उपलब्धि, सरकारी रोजगार (विशेषकर सिविल सेवाओं और पुलिस) में उच्च भागीदारी और उद्यमिता के माध्यम से, उन्होंने आक्रामक रूप से ऐतिहासिक जाति बाधाओं को तोड़ा है और अपने सामाजिक-राजनीतिक अधिकारों का दावा किया है।"
+      },
+      "demographics": {
+        "casteSurvey2023SharePercent": 5.255,
+        "population2023": 6869664,
+        "category": "Scheduled Castes (SC)",
+        "spiritualInspiration": {
+          "en": "Sant Guru Ravidas",
+          "hi": "संत गुरु रविदास"
+        },
+        "traditionalOccupation": {
+          "en": "Leathercraft, Masonry, Agriculture, Enterprise",
+          "hi": "चर्मशिल्प, निर्माण कार्य, कृषि, उद्यम"
+        },
+        "keyDistricts": [
+          "gaya",
+          "patna",
+          "bhojpur",
+          "rohtas",
+          "muzaffarpur"
+        ]
+      },
+      "asOf": "2023-10-02",
+      "source": {
+        "en": "Bihar Caste-Based Survey 2023, Government of Bihar",
+        "hi": "बिहार जाति आधारित गणना 2023, बिहार सरकार"
+      },
+      "relatedDistricts": [
+        "gaya",
+        "patna",
+        "bhojpur",
+        "rohtas"
+      ]
+    },
+    {
+      "id": "pasmanda-muslims",
+      "category": "minority-communities",
+      "title": {
+        "en": "Pasmanda Muslim Communities (Ansari, Mansoori, Rayeen)",
+        "hi": "पसमांदा मुस्लिम समुदाय (अंसारी, मंसूरी, राईन)"
+      },
+      "description": {
+        "en": "### Introduction\n**Pasmanda** (a Persian term meaning 'those who have fallen behind') refers to the historically depressed, backward, and artisan Muslim communities. Crucially, they constitute more than two-thirds of Bihar's entire Muslim population.\n\n### Key Artisan Groups\n* **Ansari (Julaha/Momins):** Numbering over 45 lakh persons, the Ansari weavers form the backbone of Bihar's handloom and textile industry (notably Bhagalpuri silk).\n* **Mansoori (Dhunia):** This community, comprising over 18 lakh persons, is traditionally engaged in cotton carding and mattress making.\n* **Rayeen (Kunjra):** With over 18 lakh persons, they dominate the informal agro-trade, specifically as fruit and vegetable vendors.\n\n### Socio-Political Shift\nHistorically marginalized within broader religious politics, the Pasmanda communities in Bihar have experienced a massive political awakening. By asserting their distinct identity under the 'Extremely Backward Classes' (EBC) categorization, they have reshaped the state's social justice discourse, demanding equitable representation and economic rights.",
+        "hi": "### परिचय\n**पसमांदा** (एक फारसी शब्द जिसका अर्थ है 'पीछे छूट गए लोग') ऐतिहासिक रूप से दबे-कुचले, पिछड़े और कारीगर मुस्लिम समुदायों को संदर्भित करता है। महत्वपूर्ण बात यह है कि वे बिहार की संपूर्ण मुस्लिम आबादी का दो-तिहाई से अधिक हिस्सा हैं।\n\n### प्रमुख कारीगर समूह\n* **अंसारी (जुलाहा/मोमिन):** 45 लाख से अधिक व्यक्तियों की संख्या वाले, अंसारी बुनकर बिहार के हथकरघा और कपड़ा उद्योग (विशेषकर भागलपुरी रेशम) की रीढ़ हैं।\n* **मंसूरी (धुनिया):** यह समुदाय, जिसमें 18 लाख से अधिक लोग शामिल हैं, पारंपरिक रूप से कपास कार्डिंग (धुनाई) और गद्दा बनाने में लगा हुआ है।\n* **राईन (कुंजड़ा):** 18 लाख से अधिक व्यक्तियों के साथ, वे अनौपचारिक कृषि-व्यापार, विशेष रूप से फल और सब्जी विक्रेताओं के रूप में हावी हैं।\n\n### सामाजिक-राजनीतिक बदलाव\nऐतिहासिक रूप से व्यापक धार्मिक राजनीति के भीतर हाशिए पर, बिहार में पसमांदा समुदायों ने एक बड़े राजनीतिक जागरण का अनुभव किया है। 'अत्यंत पिछड़ा वर्ग' (EBC) वर्गीकरण के तहत अपनी विशिष्ट पहचान का दावा करके, उन्होंने न्यायसंगत प्रतिनिधित्व और आर्थिक अधिकारों की मांग करते हुए राज्य के सामाजिक न्याय विमर्श को नया आकार दिया है।"
+      },
+      "demographics": {
+        "category": "Extremely Backward Classes (EBC) / Backward Classes (OBC)",
+        "keySubGroups": [
+          {
+            "name": {
+              "en": "Ansari (Momin / Weavers)",
+              "hi": "अंसारी (मोमिन / बुनकर)"
+            },
+            "casteSurveySharePercent": 3.5485,
+            "population": 4634245
+          },
+          {
+            "name": {
+              "en": "Mansoori (Dhunia)",
+              "hi": "मंसूरी (धुनिया)"
+            },
+            "casteSurveySharePercent": 1.4241,
+            "population": 1861614
+          },
+          {
+            "name": {
+              "en": "Rayeen (Kunjra)",
+              "hi": "राईन (कुंजड़ा)"
+            },
+            "casteSurveySharePercent": 1.4014,
+            "population": 1832044
+          }
+        ],
+        "traditionalOccupation": {
+          "en": "Handloom Weaving, Textile Carding, Horticulture Trade",
+          "hi": "हथकरघा बुनाई, वस्त्र कार्डिंग, बागवानी व्यापार"
+        },
+        "keyDistricts": [
+          "bhagalpur",
+          "patna",
+          "gaya",
+          "siwan",
+          "madhubani"
+        ]
+      },
+      "asOf": "2023-10-02",
+      "source": {
+        "en": "Bihar Caste-Based Survey 2023, Government of Bihar",
+        "hi": "बिहार जाति आधारित गणना 2023, बिहार सरकार"
+      },
+      "relatedDistricts": [
+        "bhagalpur",
+        "patna",
+        "siwan",
+        "madhubani"
+      ]
+    },
+    {
+      "id": "tharu-tribal-community",
+      "category": "indigenous-tribes",
+      "title": {
+        "en": "Tharu Tribal Community of Champaran",
+        "hi": "चंपारण का थारू आदिवासी समुदाय"
+      },
+      "description": {
+        "en": "### Introduction\nThe **Tharu** people are an indigenous, forest-dwelling Scheduled Tribe (ST) inhabiting the remote Terai foothills and the dense Someshwar mountain forests of West Champaran, right along the porous Nepal border.\n\n### Unique Cultural Heritage\n* **Matriarchal Society:** Unlike much of patriarchal North India, the Tharus maintain a distinct and progressive matriarchal heritage. Women in the community hold primary economic authority and property rights.\n* **Architecture & Ecology:** They are master builders, known for constructing beautiful, eco-friendly homes using indigenous mud and bamboo.\n\n### Protectors of the Forest\nNumbering over 3.26 lakh in Bihar, the Tharus are the traditional custodians of the Valmiki Tiger Reserve. Through their deep knowledge of medicinal ethnobotany and harmonious forest-living practices, they play a critical role in preserving the fragile Terai ecosystem.",
+        "hi": "### परिचय\n**थारू** लोग एक स्वदेशी, वनवासी अनुसूचित जनजाति (ST) हैं जो छिद्रपूर्ण नेपाल सीमा के ठीक साथ, पश्चिमी चंपारण के दूरस्थ तराई तलहटी और घने सोमेश्वर पर्वत वनों में निवास करते हैं।\n\n### अनूठी सांस्कृतिक विरासत\n* **मातृसत्तात्मक समाज:** अधिकांश पितृसत्तात्मक उत्तर भारत के विपरीत, थारू एक विशिष्ट और प्रगतिशील मातृसत्तात्मक विरासत बनाए रखते हैं। समुदाय में महिलाओं के पास प्राथमिक आर्थिक अधिकार और संपत्ति के अधिकार होते हैं।\n* **वास्तुकला और पारिस्थितिकी:** वे कुशल बिल्डर हैं, जो स्वदेशी मिट्टी और बांस का उपयोग करके सुंदर, पर्यावरण के अनुकूल घर बनाने के लिए जाने जाते हैं।\n\n### जंगल के रक्षक\nबिहार में 3.26 लाख से अधिक की संख्या में, थारू वाल्मीकि टाइगर रिजर्व के पारंपरिक रक्षक हैं। औषधीय नृवंशविज्ञान के अपने गहन ज्ञान और सामंजस्यपूर्ण वन-जीवन प्रथाओं के माध्यम से, वे नाजुक तराई पारिस्थितिकी तंत्र को संरक्षित करने में महत्वपूर्ण भूमिका निभाते हैं।"
+      },
+      "demographics": {
+        "casteSurvey2023SharePercent": 0.2504,
+        "population2023": 326712,
+        "category": "Scheduled Tribes (ST)",
+        "traditionalHabitat": {
+          "en": "Terai belt of Someshwar Range, Valmiki Tiger Reserve",
+          "hi": "सोमेश्वर श्रेणी का तराई क्षेत्र, वाल्मीकि टाइगर रिजर्व"
+        },
+        "uniqueCulturalTrait": {
+          "en": "Matriarchal traditions, indigenous eco-friendly clay-bamboo houses",
+          "hi": "मातृसत्तात्मक परंपराएं, पर्यावरण-अनुकूल मिट्टी और बांस के पारंपरिक घर"
+        },
+        "keyDistricts": [
+          "west-champaran"
+        ]
+      },
+      "asOf": "2023-10-02",
+      "source": {
+        "en": "Tribal Welfare Department, Government of Bihar / Caste-Based Survey 2023",
+        "hi": "जनजातीय कल्याण विभाग, बिहार सरकार / जाति आधारित गणना 2023"
+      },
+      "relatedDistricts": [
+        "west-champaran"
+      ]
+    }
+  ]
+}

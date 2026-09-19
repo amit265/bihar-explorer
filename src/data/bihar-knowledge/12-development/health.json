@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "id": "health-infrastructure-profile",
+      "name": {
+        "en": "Public Health Infrastructure Overview",
+        "hi": "सार्वजनिक स्वास्थ्य अधोसंरचना परिदृश्य"
+      },
+      "category": "healthcare-infrastructure",
+      "asOf": "2024-01-01",
+      "description": {
+        "en": "### Public Health Network\nBihar has developed a robust and expansive three-tier public healthcare network designed to ensure medical access reaches the most remote corners of the state.\n\n### Infrastructure Breakdown\n* **Tertiary & Secondary Care:** Driven by 38 well-equipped District Hospitals (Sadar Hospitals) and over 55 Sub-Divisional Hospitals (SDH) handling critical and surgical cases.\n* **Primary Care:** Supported by 533 Primary Health Centres (PHC) and Community Health Centres (CHC) acting as the first point of clinical care.\n* **Grassroots Access:** More than 10,000 Ayushman Arogya Mandirs (Health and Wellness Centres) actively deliver decentralized, entirely free primary, maternal, and preventive care directly to village clusters.\n\n### Impact\nThis extensive infrastructure has democratized healthcare, significantly reducing out-of-pocket medical expenditure for the state's rural and economically vulnerable populations.",
+        "hi": "### सार्वजनिक स्वास्थ्य नेटवर्क\nबिहार ने एक मजबूत और विस्तृत त्रिस्तरीय सार्वजनिक स्वास्थ्य नेटवर्क विकसित किया है, जिसे यह सुनिश्चित करने के लिए डिज़ाइन किया गया है कि चिकित्सा सुविधाएँ राज्य के सबसे दूरस्थ कोनों तक पहुँचें।\n\n### बुनियादी ढांचे का विवरण\n* **तृतीयक और माध्यमिक देखभाल:** 38 सुसज्जित जिला अस्पतालों (सदर अस्पतालों) और 55 से अधिक अनुमंडलीय अस्पतालों (SDH) द्वारा संचालित, जो गंभीर और सर्जिकल मामलों को संभालते हैं।\n* **प्राथमिक देखभाल:** 533 प्राथमिक स्वास्थ्य केंद्रों (PHC) और सामुदायिक स्वास्थ्य केंद्रों (CHC) द्वारा समर्थित, जो नैदानिक देखभाल के पहले बिंदु के रूप में कार्य करते हैं।\n* **जमीनी स्तर पर पहुंच:** 10,000 से अधिक आयुष्मान आरोग्य मंदिर (स्वास्थ्य और कल्याण केंद्र) सक्रिय रूप से गांव के समूहों को विकेंद्रीकृत, पूरी तरह से मुफ्त प्राथमिक, मातृ और निवारक देखभाल प्रदान करते हैं।\n\n### प्रभाव\nइस व्यापक बुनियादी ढांचे ने स्वास्थ्य सेवा का लोकतंत्रीकरण किया है, जिससे राज्य की ग्रामीण और आर्थिक रूप से कमजोर आबादी के लिए चिकित्सा खर्च (out-of-pocket expenditure) में काफी कमी आई है।"
+      },
+      "infrastructureStats": {
+        "districtHospitals": 38,
+        "governmentMedicalColleges": 12,
+        "healthAndWellnessCentresOperational": 10500
+      }
+    },
+    {
+      "id": "maternal-and-infant-health-indicators",
+      "name": {
+        "en": "Maternal & Child Health Indicators (SRS / NFHS)",
+        "hi": "मातृ एवं शिशु स्वास्थ्य संकेतक (SRS / NFHS)"
+      },
+      "category": "vital-health-statistics",
+      "asOf": "2022-12-31",
+      "data": {
+        "maternalMortalityRatio": {
+          "value": 118,
+          "unit": "per 100,000 live births",
+          "source": "Sample Registration System (SRS) Special Bulletin 2018-20",
+          "historicalComparison": "Drastically reduced from 212 in SRS 2007-09 and 312 in SRS 2001-03"
+        },
+        "infantMortalityRate": {
+          "value": 27,
+          "unit": "per 1,000 live births",
+          "source": "Sample Registration System (SRS) 2020",
+          "historicalComparison": "Declined steadily from 61 in SRS 2005 to 27 in 2020"
+        },
+        "institutionalDeliveriesPercentage": {
+          "value": 76.2,
+          "source": "National Family Health Survey-5 (NFHS-5, 2019-21)",
+          "historicalComparison": "Rose exponentially from 19.9% in NFHS-3 (2005-06)"
+        }
+      },
+      "description": {
+        "en": "### Historic Health Milestones\nOver the past two decades, Bihar has achieved extraordinary, historic improvements in both maternal survival rates and child health indices, reflecting the success of its aggressive grassroots health interventions.\n\n### Key Statistical Improvements\n* **Maternal Mortality Ratio (MMR):** Plummeted dramatically to 118 per lakh live births (from a staggering 312 in 2001-03).\n* **Infant Mortality Rate (IMR):** Consistently declined to just 27 per thousand live births.\n* **Institutional Deliveries:** Witnessed an exponential rise to over 76.2% (up from just 19.9% in 2005-06).\n\n### Driving Factors\nThese life-saving outcomes have been directly driven by free institutional delivery cash incentive schemes, the rapid deployment of the '102' emergency ambulance fleets, and the establishment of round-the-clock Newborn Care Corners (NBCCs) at primary centers.",
+        "hi": "### ऐतिहासिक स्वास्थ्य उपलब्धियां\nपिछले दो दशकों में, बिहार ने मातृ जीवित रहने की दर और बाल स्वास्थ्य सूचकांक दोनों में असाधारण और ऐतिहासिक सुधार हासिल किए हैं, जो इसके आक्रामक जमीनी स्वास्थ्य हस्तक्षेपों की सफलता को दर्शाता है।\n\n### प्रमुख सांख्यिकीय सुधार\n* **मातृ मृत्यु अनुपात (MMR):** यह भारी गिरावट के साथ 118 प्रति लाख जीवित जन्म (जो 2001-03 में 312 था) पर आ गया है।\n* **शिशु मृत्यु दर (IMR):** यह लगातार घटकर मात्र 27 प्रति हजार जीवित जन्म रह गई है।\n* **संस्थागत प्रसव:** इसमें भारी वृद्धि हुई है और यह 76.2% से अधिक हो गया है (जो 2005-06 में केवल 19.9% था)।\n\n### प्रेरक कारक\nये जीवन रक्षक परिणाम सीधे तौर पर मुफ्त संस्थागत प्रसव नकद प्रोत्साहन योजनाओं, '102' आपातकालीन एम्बुलेंस बेड़े की तीव्र तैनाती, और प्राथमिक केंद्रों पर चौबीसों घंटे काम करने वाले नवजात शिशु देखभाल इकाइयों (NBCC) की स्थापना से प्रेरित हैं।"
+      }
+    },
+    {
+      "id": "mukhya-mantri-bal-hriday-yojana",
+      "name": {
+        "en": "Mukhyamantri Bal Hriday Yojana",
+        "hi": "मुख्यमंत्री बाल हृदय योजना"
+      },
+      "category": "specialized-pediatric-care",
+      "launchYear": 2021,
+      "asOf": "2024-01-01",
+      "schemeComponent": "Saat Nischay-2 (Sabke Liye Atirikt Swasthya Suvidha)",
+      "description": {
+        "en": "### Scheme Overview\nThe Mukhyamantri Bal Hriday Yojana is a profoundly humanitarian healthcare initiative launched under the 'Saat Nischay-2' (Seven Resolves Part-2) program in 2021. It focuses on saving the lives of infants and children suffering from critical cardiac conditions.\n\n### Core Benefits\n* **Comprehensive Free Care:** Provides 100% free screening, advanced diagnosis, and superspecialty open-heart surgery to children born with Congenital Heart Diseases (like VSD/hole in the heart, ASD, PDA, TOF).\n* **Zero Financial Burden:** The state government completely covers all ancillary expenses, including airfare and accommodation for the child and their accompanying parents.\n\n### Clinical Partnerships\nThe scheme executes life-saving procedures through strategic tie-ups with premier partner cardiac centers across India, including the Sri Sathya Sai Sanjeevani Hospitals and IGIMS Patna, giving thousands of children a second chance at life.",
+        "hi": "### योजना का अवलोकन\nमुख्यमंत्री बाल हृदय योजना 2021 में 'सात निश्चय-2' कार्यक्रम के तहत शुरू की गई एक अत्यंत मानवीय स्वास्थ्य देखभाल पहल है। यह गंभीर हृदय स्थितियों से पीड़ित शिशुओं और बच्चों के जीवन को बचाने पर केंद्रित है।\n\n### प्रमुख लाभ\n* **व्यापक मुफ्त देखभाल:** जन्मजात हृदय रोग (जैसे दिल में छेद/VSD, ASD, PDA, TOF) के साथ पैदा हुए बच्चों को 100% मुफ्त जांच, उन्नत निदान और सुपर-स्पेशियलिटी ओपन-हार्ट सर्जरी प्रदान करता है।\n* **शून्य वित्तीय बोझ:** राज्य सरकार बच्चे और उनके साथ जाने वाले माता-पिता के लिए हवाई किराए और आवास सहित सभी अतिरिक्त खर्चों को पूरी तरह से वहन करती है।\n\n### नैदानिक भागीदारी\nयह योजना श्री सत्य साईं संजीवनी अस्पताल और आईजीआईएमएस (IGIMS) पटना सहित भारत भर के प्रमुख भागीदार कार्डियक केंद्रों के साथ रणनीतिक गठजोड़ के माध्यम से जीवन रक्षक सर्जरी को अंजाम देती है, जिससे हजारों बच्चों को जीवन का दूसरा मौका मिलता है।"
+      }
+    },
+    {
+      "id": "kala-azar-elimination-milestone",
+      "name": {
+        "en": "Kala-Azar (Visceral Leishmaniasis) Elimination Milestone",
+        "hi": "काला-जार उन्मूलन ऐतिहासिक उपलब्धि"
+      },
+      "category": "disease-control-public-health",
+      "asOf": "2023-12-31",
+      "description": {
+        "en": "### Public Health Triumph\nIn a monumental public health triumph, Bihar successfully achieved the historic World Health Organization (WHO) elimination threshold for Kala-Azar (Visceral Leishmaniasis). This deadly, parasitic disease had historically plagued the region for over a century.\n\n### The Elimination Strategy\n* **Incidence Reduction:** The state brought the incidence rate below 1 case per 10,000 population across all its 33 historically endemic districts and 533 blocks.\n* **Vector Control:** Executed sustained and rigorous Indoor Residual Spraying (IRS) using advanced synthetic pyrethroids to eradicate the sandfly vectors.\n* **Medical Intervention:** Leveraged rapid rK39 test kits for extremely early diagnosis and administered highly effective single-dose liposomal amphotericin B treatments.\n\n### Global Significance\nThis milestone not only saved thousands of lives but also serves as a textbook epidemiological model for combating vector-borne tropical diseases globally.",
+        "hi": "### सार्वजनिक स्वास्थ्य की विजय\nसार्वजनिक स्वास्थ्य की एक ऐतिहासिक जीत में, बिहार ने काला-जार (Visceral Leishmaniasis) के लिए विश्व स्वास्थ्य संगठन (WHO) के उन्मूलन लक्ष्य को सफलतापूर्वक हासिल कर लिया है। इस घातक, परजीवी बीमारी ने ऐतिहासिक रूप से एक सदी से अधिक समय तक इस क्षेत्र को त्रस्त किया था।\n\n### उन्मूलन की रणनीति\n* **मामलों में कमी:** राज्य ने अपने सभी 33 ऐतिहासिक रूप से स्थानिक (Endemic) जिलों और 533 प्रखंडों में इस बीमारी की दर को प्रति 10,000 आबादी पर 1 मामले से भी कम कर दिया है।\n* **वेक्टर नियंत्रण:** सैंडफ्लाई (बालू मक्खी) को खत्म करने के लिए उन्नत सिंथेटिक पाइरेथ्रोइड्स का उपयोग करते हुए निरंतर और कठोर 'इंडोर रेसिडुअल स्प्रेइंग' (IRS) का निष्पादन किया।\n* **चिकित्सा हस्तक्षेप:** अत्यंत शीघ्र निदान के लिए रैपिड rK39 टेस्ट किट का लाभ उठाया और अत्यधिक प्रभावी सिंगल-डोज़ लिपोसोमल एम्फोटेरिसिन बी उपचार प्रशासित किया।\n\n### वैश्विक महत्व\nइस उपलब्धि ने न केवल हजारों लोगों की जान बचाई, बल्कि विश्व स्तर पर वेक्टर जनित उष्णकटिबंधीय बीमारियों से निपटने के लिए एक आदर्श महामारी विज्ञान मॉडल (Epidemiological model) के रूप में भी कार्य किया।"
+      }
+    },
+    {
+      "id": "esanjeevani-telemedicine-bihar",
+      "name": {
+        "en": "eSanjeevani National Telemedicine Service in Bihar",
+        "hi": "ई-संजीवनी टेलीमेडिसिन सेवा (बिहार)"
+      },
+      "category": "digital-health",
+      "asOf": "2024-03-31",
+      "description": {
+        "en": "### Digital Health Revolution\nBihar stands at the forefront of India's digital health revolution, ranking among the absolute top-performing states in utilizing the Ministry of Health and Family Welfare's 'eSanjeevani' national telemedicine platform.\n\n### Operational Mechanics\n* **Massive Outreach:** The state has successfully facilitated over 3.5 crore direct teleconsultations to date.\n* **Bridging the Gap:** It effectively links remote rural Community Health Officers (CHOs) stationed at Ayushman Arogya Mandirs directly to specialist and superspecialist doctors residing at District Hospitals and Medical Colleges.\n\n### Impact\nThrough live video consultations and instantly generated digital prescriptions, eSanjeevani has eliminated geographical barriers. It ensures that patients in the most far-flung villages receive immediate, expert medical advice without having to travel to crowded urban centers.",
+        "hi": "### डिजिटल स्वास्थ्य क्रांति\nबिहार भारत की डिजिटल स्वास्थ्य क्रांति में सबसे आगे खड़ा है, और स्वास्थ्य और परिवार कल्याण मंत्रालय के 'ई-संजीवनी' राष्ट्रीय टेलीमेडिसिन प्लेटफॉर्म का उपयोग करने में देश के सबसे बेहतरीन प्रदर्शन करने वाले राज्यों में से एक है।\n\n### संचालन तंत्र\n* **विशाल पहुंच:** राज्य ने अब तक 3.5 करोड़ से अधिक सीधे टेलीकंसल्टेशन (डिजिटल परामर्श) को सफलतापूर्वक सुगम बनाया है।\n* **दूरियों को पाटना:** यह आयुष्मान आरोग्य मंदिरों में तैनात सुदूर ग्रामीण सामुदायिक स्वास्थ्य अधिकारियों (CHO) को सीधे जिला अस्पतालों और मेडिकल कॉलेजों में बैठे विशेषज्ञ और सुपर-स्पेशियलिस्ट डॉक्टरों से जोड़ता है।\n\n### प्रभाव\nलाइव वीडियो परामर्श और तुरंत जनरेट किए गए डिजिटल मेडिकल पर्चों के माध्यम से, ई-संजीवनी ने भौगोलिक बाधाओं को समाप्त कर दिया है। यह सुनिश्चित करता है कि सबसे दूर-दराज के गांवों के मरीजों को भीड़भाड़ वाले शहरी केंद्रों की यात्रा किए बिना तत्काल, विशेषज्ञ चिकित्सा सलाह मिले।"
+      }
+    },
+    {
+      "id": "pmch-world-class-redevelopment",
+      "name": {
+        "en": "PMCH World-Class Hospital Redevelopment Project",
+        "hi": "पीएमसीएच विश्वस्तरीय अस्पताल पुनर्विकास परियोजना"
+      },
+      "category": "tertiary-healthcare-modernization",
+      "asOf": "2024-01-01",
+      "districtIds": [
+        "patna"
+      ],
+      "description": {
+        "en": "### Hospital Modernization Project\nThe Patna Medical College and Hospital (PMCH), historically founded in 1925 as the Prince of Wales Medical College, is currently undergoing one of the most massive, phased infrastructural modernizations in the history of Indian healthcare.\n\n### Project Highlights\n* **Bed Capacity:** The facility is being radically expanded into a 5,462-bed state-of-the-art medical complex, poised to become the world's second-largest hospital by total bed capacity.\n* **Advanced Facilities:** Will feature 36 fully modular operation theatres, a dedicated 250-bed critical emergency ward, and a specialized rooftop helipad to facilitate rapid air ambulance landings.\n\n### Future Outlook\nThis green hospital complex will redefine tertiary healthcare in Eastern India, providing ultra-modern, centralized superspecialty care, cutting-edge medical research facilities, and world-class medical education.",
+        "hi": "### अस्पताल आधुनिकीकरण परियोजना\nपटना मेडिकल कॉलेज एंड हॉस्पिटल (PMCH), जिसे ऐतिहासिक रूप से 1925 में 'प्रिंस ऑफ वेल्स मेडिकल कॉलेज' के रूप में स्थापित किया गया था, वर्तमान में भारतीय स्वास्थ्य सेवा के इतिहास में सबसे बड़े, चरणबद्ध ढांचागत आधुनिकीकरण से गुजर रहा है।\n\n### परियोजना की मुख्य विशेषताएं\n* **बिस्तर (Bed) क्षमता:** इस सुविधा का 5,462-बेड वाले अत्याधुनिक चिकित्सा परिसर में बड़े पैमाने पर विस्तार किया जा रहा है, जो कुल बिस्तर क्षमता के हिसाब से दुनिया का दूसरा सबसे बड़ा अस्पताल बनने के लिए तैयार है।\n* **उन्नत सुविधाएं:** इसमें 36 पूरी तरह से मॉड्यूलर ऑपरेशन थिएटर, एक समर्पित 250-बेड वाला क्रिटिकल इमरजेंसी वार्ड, और एयर एम्बुलेंस की त्वरित लैंडिंग की सुविधा के लिए छत पर एक विशेष हेलीपैड (Rooftop helipad) होगा।\n\n### भविष्य का दृष्टिकोण\nयह ग्रीन अस्पताल परिसर पूर्वी भारत में तृतीयक स्वास्थ्य देखभाल (Tertiary healthcare) को फिर से परिभाषित करेगा, जो अति-आधुनिक सुपर-स्पेशियलिटी देखभाल, अत्याधुनिक चिकित्सा अनुसंधान सुविधाएं और विश्व स्तरीय चिकित्सा शिक्षा प्रदान करेगा।"
+      }
+    }
+  ]
+}

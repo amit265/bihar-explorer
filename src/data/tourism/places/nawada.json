@@ -1,0 +1,471 @@
+[
+  {
+    "id": "kakolat-waterfall",
+    "slug": "kakolat-waterfall",
+    "name": {
+      "en": "Kakolat Waterfall",
+      "hi": "ककोलत जलप्रपात"
+    },
+    "districtId": "nawada",
+    "placeType": "waterfall",
+    "primaryCategory": "natural",
+    "categories": [
+      "natural",
+      "eco_tourism"
+    ],
+    "tags": [
+      "mustVisit",
+      "featured",
+      "nature",
+      "waterfall"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "Bihar's most scenic natural waterfall, cascading down from 150 feet amidst verdant hills and newly upgraded eco-tourism amenities.",
+      "hi": "बिहार का सबसे सुरम्य प्राकृतिक जलप्रपात, जो हरी-भरी पहाड़ियों के बीच 150 फीट की ऊंचाई से गिरता है और आधुनिक इको-पर्यटन सुविधाओं से सुसज्जित है।"
+    },
+    "description": {
+      "en": "Nestled amidst the picturesque undulating hills of the **Nawada district** along the southern border of Bihar, **Kakolat Waterfall** is widely celebrated as the state's most magnificent and enchanting natural cataract.\n\nThe perennial mountain stream plunges down dramatically from a precipitous height of approximately 150 to 160 feet into a pristine, natural plunge pool below. The waters remain delightfully cold throughout the year, offering an invigorating respite from tropical heat and drawing thousands of nature lovers and travel enthusiasts.\n\n- **Pristine Forest Ecosystem**: The cascade is cocooned within lush deciduous forests, dense bamboo groves, and ancient rock formations teeming with regional biodiversity.\n- **Modern Eco-Tourism Infrastructure**: In recent years, extensive modernization by the state tourism department has introduced world-class viewing decks, safe stepping corridors, modern changing facilities, and manicured green promenades.\n- **Scenic Atmosphere**: The deafening roar of cascading water combined with the gentle forest breeze creates an otherworldly atmosphere of peace and relaxation.",
+      "hi": "बिहार की दक्षिणी सीमा पर **नवादा जिले** की सुरम्य लहरदार पहाड़ियों के बीच स्थित, **ककोलत जलप्रपात** राज्य के सबसे भव्य और मनमोहक प्राकृतिक जलप्रपातों में गिना जाता है।\n\nयह बारहमासी पहाड़ी जलधारा लगभग 150 से 160 फीट की खड़ी ऊंचाई से नाटकीय रूप से नीचे गिरकर तलहटी में एक प्राचीन, प्राकृतिक जलाशय का निर्माण करती है। इसका शीतल और स्फूर्तिदायक जल वर्ष भर सुखद रूप से ठंडा रहता है, जो गर्मी से राहत प्रदान करता है और प्रकृति प्रेमियों तथा पर्यटकों को मंत्रमुग्ध कर देता है।\n\n- **प्राचीन वन पारिस्थितिकी तंत्र**: यह जलप्रपात घने पर्णपाती जंगलों, बांस के झुरमुटों और क्षेत्रीय जैव विविधता से समृद्ध प्राचीन चट्टानी संरचनाओं से घिरा हुआ है।\n- **आधुनिक इको-पर्यटन अवसंरचना**: हाल के वर्षों में राज्य पर्यटन विभाग द्वारा किए गए व्यापक पुनर्विकास ने विश्व स्तरीय व्यूइंग डेक, सुरक्षित सीढ़ियां, आधुनिक चेंजिंग रूम और सुरम्य वॉकवे स्थापित किए हैं।\n- **सुरम्य वातावरण**: गिरते पानी की गरजती ध्वनि और शांत वन समीर मिलकर आगंतुकों को मानसिक शांति और ताजगी से भर देने वाला एक दिव्य वातावरण प्रदान करते हैं।"
+    },
+    "history": {
+      "en": "The history and lore surrounding **Kakolat Waterfall** are steeped in venerable Hindu mythology and local folklore originating in the ancient Puranic era.\n\nAccording to revered legendary narratives, an ancient Hindu monarch was cursed by a short-tempered sage to shed his human form and spend millennia dwelling within this waterfall as a colossal python.\n\n- **Liberation by the Pandavas**: During their twelve-year period of forest exile recorded in the epic Mahabharata, the **Pandava brothers** and Queen Draupadi journeyed through the Magadha highlands and visited this remote cascade.\n- **Divine Salvation**: Upon touching the holy waters blessed by the Pandavas, the afflicted king was instantly liberated from the serpentine curse and regained his celestial stature.\n\nOvercome with profound gratitude, the redeemed king bestowed a divine blessing upon the cascade, declaring that anyone who immerses themselves in Kakolat's waters with pure devotion will be absolved of afflictions and protected from misfortune. Consequently, the waterfall has served for centuries as a sacred venue for the annual **Chaitra Sankranti (Satuani)** religious fair, where pilgrims from across Bihar and Jharkhand gather to bathe in its consecrated plunge pool.",
+      "hi": "**ककोलत जलप्रपात** का इतिहास और पौराणिक मान्यताएं प्राचीन पौराणिक काल से जुड़ी हिंदू मान्यताओं और स्थानीय लोककथाओं में गहराई से रची-बसी हैं।\n\nएक अत्यंत प्रचलित और श्रद्धेय पौराणिक आख्यान के अनुसार, एक प्रतापी राजा को एक क्रोधी ऋषि के श्राप के कारण अपने मानव शरीर को त्यागना पड़ा था और एक विशाल अजगर बनकर इस जलप्रपात के शीतल जल में हजारों वर्षों तक निवास करने के लिए विवश होना पड़ा था।\n\n- **पांडवों द्वारा उद्धार**: महाभारत काल में अपने बारह वर्ष के वनवास के दौरान, **पांडव भाइयों** ने माता द्रौपदी के साथ मगध क्षेत्र के इन घने जंगलों से होकर यात्रा की और इस झरने के निकट पहुंचे।\n- **दिव्य मुक्ति**: पांडवों के पवित्र स्पर्श और आशीष से उस श्रापित राजा को सर्प योनि से तत्काल मुक्ति मिल गई और उसने अपना दिव्य स्वरूप पुनः प्राप्त कर लिया।\n\nअत्यंत कृतज्ञ होकर उस राजा ने इस स्थल को वरदान दिया कि जो भी पुण्यात्मा ककोलत के इस पावन जल में भक्तिपूर्वक स्नान करेगी, वह सभी पापों और विपत्तियों से मुक्त हो जाएगी। यही कारण है कि सदियों से प्रत्येक वर्ष **चैत्र संक्रांति (सतुआनी मेला)** के पावन पर्व पर बिहार और झारखंड के कोने-कोने से लाखों श्रद्धालु यहाँ आस्था की डुबकी लगाने आते हैं।"
+    },
+    "significance": {
+      "en": "**Kakolat Waterfall** holds profound multidimensional significance, serving simultaneously as a major ecological asset, an ancient spiritual pilgrimage, and an engine of rural economic prosperity for Nawada.\n\n- **Ecological Haven**: Located within the northern spurs of the Chota Nagpur plateau, the microclimate nurtured by Kakolat supports rare indigenous trees, medicinal herbs, butterflies, and diverse bird species, rendering it an indispensable biodiversity hotspot.\n- **Cultural & Spiritual Convergence**: The site forms an enduring bridge between nature worship and epic tradition, hosting the historic Chaitra Sankranti fair that preserves traditional folk music, artisanal crafts, and communal bonhomie among rural communities.\n- **Socio-Economic Catalyst**: By evolving into a flagship destination in Bihar Tourism's eco-circuit, the waterfall generates sustainable local livelihoods for hundreds of tour guides, transport operators, hospitality staff, and agricultural vendors.\n\nIts harmonious blend of untamed geographical splendor, mythological sanctity, and contemporary sustainable tourism underscores Kakolat's position as one of eastern India's most cherished environmental treasures.",
+      "hi": "**ककोलत जलप्रपात** बहुआयामी महत्व रखता है, जो नवादा जिले के लिए एक प्रमुख पारिस्थितिक धरोहर, एक प्राचीन आध्यात्मिक तीर्थ और ग्रामीण आर्थिक समृद्धि के एक शक्तिशाली केंद्र के रूप में एक साथ कार्य करता है।\n\n- **पारिस्थितिक आश्रय स्थल**: छोटानागपुर के पठारी ढलानों पर स्थित, ककोलत द्वारा निर्मित विशिष्ट सूक्ष्म जलवायु दुर्लभ स्थानिक वृक्षों, औषधीय वनस्पतियों, तितलियों और रंग-बिरंगे पक्षियों की कई प्रजातियों को संरक्षण प्रदान करती है।\n- **सांस्कृतिक एवं आध्यात्मिक संगम**: यह स्थल प्रकृति-पूजा और महाकाव्य परंपराओं के बीच एक जीवंत सेतु का निर्माण करता है, जहाँ लगने वाला प्रसिद्ध चैत्र संक्रांति मेला लोकगीतों, ग्रामीण हस्तशिल्प और पारंपरिक खान-पान की धरोहर को संजोए रखता है।\n- **सामाजिक-आर्थिक संबल**: बिहार पर्यटन के इको-सर्किट में एक प्रमुख गंतव्य के रूप में स्थापित होने के बाद, इस झरने ने सैकड़ों स्थानीय युवाओं, गाइडों, वाहन चालकों और छोटे दुकानदारों को आजीविका के सम्मानजनक अवसर दिए हैं।\n\nअपनी अदम्य भौगोलिक सुंदरता, पौराणिक शुचिता और आधुनिक पर्यावरण-अनुकूल पर्यटन का यह अनूठा संगम ककोलत को पूर्वी भारत के सबसे अनमोल प्राकृतिक उपहारों में से एक बनाता है।"
+    },
+    "location": {
+      "address": {
+        "en": "Kakolat Waterfall Eco-Tourism Complex, Kakolat Hill Range, Near Thali Village, Govindpur Block, Nawada District, Bihar 805102, India. The waterfall is situated approximately 33 kilometers south-east of the Nawada district administrative headquarters and roughly 138 kilometers south-east of the state capital, Patna. Set along the scenic foothills bordering the state of Jharkhand, the site is accessed via State Highway 8 and the Govindpur-Fatehpur Road. Visitors travel through picturesque agricultural valleys, undulating countryside, and peaceful sal tree groves before arriving at the newly developed ticketing plaza, tourist facilitation center, and dedicated vehicle parking zone located right at the base of the mountain cascade.",
+        "hi": "ककोलत जलप्रपात इको-टूरिज्म कॉम्प्लेक्स, ककोलत पहाड़ी श्रृंखला, थाली गांव के निकट, गोविंदपुर प्रखंड, नवादा जिला, बिहार 805102, भारत। यह जलप्रपात नवादा जिला मुख्यालय से लगभग 33 किलोमीटर दक्षिण-पूर्व में और बिहार की राजधानी पटना से लगभग 138 किलोमीटर की दूरी पर स्थित है। झारखंड राज्य की सीमा से सटी सुरम्य पहाड़ियों की तलहटी में बसा यह गंतव्य राज्य राजमार्ग 8 और गोविंदपुर-फतेहपुर मार्ग के माध्यम से आसानी से जुड़ा हुआ है। पर्यटक हरे-भरे कृषि क्षेत्रों, मनोरम ग्रामीण इलाकों और साल के घने जंगलों से होकर गुजरते हुए पहाड़ की तलहटी में बने आधुनिक टिकटिंग प्लाजा, पर्यटक सुविधा केंद्र और व्यवस्थित वाहन पार्किंग स्थल तक पहुँचते हैं।"
+      },
+      "mapQuery": "Kakolat Waterfall, Nawada, Bihar"
+    },
+    "visitingInfo": {
+      "recommendedDurationMinutes": 180,
+      "bestTimeToVisit": {
+        "en": "October to March (Pleasant weather and safe water flow)",
+        "hi": "अक्टूबर से मार्च (सुखद मौसम और सुरक्षित जल प्रवाह)"
+      },
+      "entryFee": {
+        "en": "Nominal entry fee applicable at government eco-tourism counter",
+        "hi": "सरकारी इको-पर्यटन काउंटर पर मामूली प्रवेश शुल्क लागू"
+      },
+      "timings": {
+        "en": "06:00 AM - 05:00 PM (Daily)",
+        "hi": "सुबह 06:00 बजे से शाम 05:00 बजे तक (प्रतिदिन)"
+      }
+    },
+    "howToReach": {
+      "air": {
+        "en": "Gaya International Airport (GAY) is approximately 68 km away, and Jay Prakash Narayan International Airport (PAT) in Patna is about 140 km away.",
+        "hi": "गया अंतर्राष्ट्रीय हवाई अड्डा (GAY) लगभग 68 किमी दूर है, तथा पटना का जयप्रकाश नारायण अंतर्राष्ट्रीय हवाई अड्डा (PAT) लगभग 140 किमी दूर है।"
+      },
+      "rail": {
+        "en": "Nawada Railway Station (NWD) is around 35 km away, while Koderma Junction (KQR) is about 50 km away with excellent express train connectivity.",
+        "hi": "नवादा रेलवे स्टेशन (NWD) लगभग 35 किमी दूर है, जबकि कोडरमा जंक्शन (KQR) लगभग 50 किमी दूर है जहां बेहतरीन एक्सप्रेस ट्रेनों का ठहराव है।"
+      },
+      "road": {
+        "en": "Well-connected by paved all-weather roads from Nawada, Rajgir, Gaya, and Patna via NH-31 and SH-8.",
+        "hi": "एनएच-31 और एसएच-8 के माध्यम से नवादा, राजगीर, गया और पटना से पक्की बारहमासी सड़कों द्वारा सुगम संपर्क।"
+      },
+      "localTransport": {
+        "en": "Pre-booked private taxis, rental cabs, and auto-rickshaws are readily available from Nawada town to Kakolat.",
+        "hi": "नवादा शहर से ककोलत तक जाने के लिए निजी टैक्सियां, किराए की गाड़ियां और ऑटो-रिक्शा आसानी से उपलब्ध हैं।"
+      }
+    },
+    "accessibility": {
+      "difficulty": "moderate",
+      "walkingRequired": true,
+      "suitableForChildren": true
+    },
+    "travelTips": [
+      {
+        "en": "To ensure an unforgettable and safe visit to Kakolat Waterfall, plan your excursion during the post-monsoon or winter season between October and March when the ambient climate is delightfully cool and water currents are stable and safe. Always lace up sturdy sports shoes with reliable rubber tread, as wet stairways and natural boulders adjacent to the pool can become exceptionally slippery from persistent water spray. If you intend to take a rejuvenating dip in the crystal pool, carry a complete change of dry clothing, quick-drying microfiber towels, and waterproof pouches for smartphones and wallets. Families travelling with young children or elders should supervise them attentively near water edges. It is advisable to carry packaged drinking water and light refreshments, and visitors are strictly urged to preserve this pristine ecosystem by avoiding single-use plastics and depositing all litter into marked recycling receptacles.",
+        "hi": "ककोलत जलप्रपात की एक यादगार और सुरक्षित यात्रा सुनिश्चित करने के लिए, अक्टूबर से मार्च के बीच मानसून के बाद या सर्दियों के मौसम में अपनी यात्रा की योजना बनाएं, जब मौसम सुहावना होता है और पानी का बहाव नियंत्रित व सुरक्षित रहता है। हमेशा मजबूत ग्रिप वाले स्पोर्ट्स या ट्रेकिंग जूते पहनें, क्योंकि लगातार उड़ती जल फुहारों के कारण सीढ़ियां और जलाशय के चारों ओर स्थित प्राकृतिक चट्टानें काफी फिसलन भरी हो जाती हैं। यदि आप जलाशय में स्नान करने की योजना बना रहे हैं, तो सूखे कपड़ों का एक अतिरिक्त सेट, तौलिया और मोबाइल व पर्स के लिए वाटरप्रूफ पाउच अवश्य साथ रखें। छोटे बच्चों और बुजुर्गों के साथ यात्रा करते समय पानी के किनारों पर विशेष सावधानी बरतें। पीने का शुद्ध पानी और अल्पाहार साथ रखें तथा इस पावन प्राकृतिक धरोहर को स्वच्छ बनाए रखने के लिए प्लास्टिक कचरा न फैलाएं और कूड़ा केवल निर्धारित कूड़ेदानों में ही डालें।"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-18",
+      "sources": [
+        {
+          "title": "Kakolat Waterfall",
+          "organization": "Bihar Tourism",
+          "url": "https://tourism.bihar.gov.in/en/destinations/nawada/kakolat"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": [],
+    "circuits": [
+      "eco_circuit"
+    ]
+  },
+  {
+    "id": "sarvodaya-ashram-sekhodeora",
+    "slug": "sarvodaya-ashram-sekhodeora",
+    "name": {
+      "en": "Sarvodaya Ashram, Sekhodeora",
+      "hi": "सर्वोदय आश्रम, सेखोदेवरा"
+    },
+    "districtId": "nawada",
+    "placeType": "historical_site",
+    "primaryCategory": "historical",
+    "categories": [
+      "historical",
+      "cultural",
+      "educational"
+    ],
+    "tags": [
+      "featured",
+      "heritage",
+      "peaceful",
+      "historical"
+    ],
+    "discoveryFlags": {
+      "popular": false,
+      "featured": true,
+      "hiddenGem": true,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "Historic rural development center founded by Loknayak Jayaprakash Narayan (JP) in 1952, embodying Gandhian self-reliance and social reform.",
+      "hi": "लोकनायक जयप्रकाश नारायण (जेपी) द्वारा 1952 में स्थापित ऐतिहासिक ग्रामीण विकास केंद्र, जो गांधीवादी आत्मनिर्भरता और सामाजिक उत्थान का जीवंत प्रतीक है।"
+    },
+    "description": {
+      "en": "The **Sarvodaya Ashram** at Sekhodeora in Nawada district represents a monumental chapter in the history of Indian grassroots democracy, constructive nation-building, and social justice. Founded in 1952 by the legendary freedom fighter and visionary statesman **Loknayak Jayaprakash Narayan** (popularly hailed as **JP**), the ashram was conceived not merely as an idyllic rural hermitage, but as a living laboratory for comprehensive socio-economic emancipation.\n\nSet against the tranquil rural backdrop of eastern Nawada, this sprawling verdant complex brought Mahatma Gandhi's dream of *Gram Swaraj* (village self-rule) and Acharya Vinoba Bhave's philosophy of *Sarvodaya* (welfare of all) into tangible reality.\n\n- **Constructive Community Hub**: The institution actively oversees cooperative farming models, Khadi spinning and handloom weaving clusters, indigenous dairy programs, and rural vocational education.\n- **Living Memorial of Loknayak JP**: Visitors can explore JP's personal residence, preserved study chambers, historic meeting halls, and a well-curated memorial exhibition detailing his profound struggle during India's freedom movement and the 1974 Total Revolution.\n- **Serene Atmosphere**: Shaded by hundreds of mature trees and fragrant orchards, the ashram radiates an aura of simplicity, moral integrity, and intellectual contemplation.",
+      "hi": "नवादा जिले के सेखोदेवरा में स्थित **सर्वोदय आश्रम** भारतीय जमीनी लोकतंत्र, रचनात्मक राष्ट्र-निर्माण और सामाजिक न्याय के इतिहास में एक अत्यंत महत्वपूर्ण अध्याय का प्रतिनिधित्व करता है। महान स्वतंत्रता सेनानी और दूरदर्शी राजनेता **लोकनायक जयप्रकाश नारायण** (जिन्हें आदर से **जेपी** कहा जाता है) द्वारा 1952 में स्थापित यह आश्रम केवल एक शांत तपोभूमि नहीं, बल्कि समग्र सामाजिक-आर्थिक सशक्तीकरण की एक जीवंत प्रयोगशाला के रूप में स्थापित किया गया था।\n\nपूर्वी नवादा के शांत ग्रामीण परिवेश में स्थित यह विशाल और हरा-भरा परिसर महात्मा गांधी के *ग्राम स्वराज* और आचार्य विनोबा भावे के *सर्वोदय* (सबका उत्थान) के दर्शन को व्यावहारिक रूप से धरातल पर उतारता है।\n\n- **रचनात्मक सामुदायिक केंद्र**: यह संस्थान सहकारी कृषि मॉडल, खादी कताई और हथकरघा बुनाई केंद्रों, देशी डेयरी परियोजनाओं और ग्रामीण व्यावसायिक प्रशिक्षण कार्यक्रमों का सक्रिय संचालन करता है।\n- **लोकनायक जेपी की जीवंत स्मृति**: आगंतुक जेपी के सादगीपूर्ण आवास, उनके अध्ययन कक्ष, ऐतिहासिक विचार-विमर्श कक्षों और उनके स्वतंत्रता संग्राम तथा 1974 की संपूर्ण क्रांति को दर्शाती विशेष दीर्घाओं का अवलोकन कर सकते हैं।\n- **प्रशांत वातावरण**: सैकड़ों विशाल वृक्षों और फलों के बगीचों की छाया में बसा यह आश्रम सादगी, नैतिक गरिमा और वैचारिक चिंतन की एक अलौकिक अनुभूति प्रदान करता है।"
+    },
+    "history": {
+      "en": "The historic origins of **Sarvodaya Ashram** in Sekhodeora emerged out of the historic **Bhoodan (Land Gift) Movement** led by saint-reformer Acharya Vinoba Bhave in post-independence India.\n\nDisillusioned with party-centric power politics, Loknayak Jayaprakash Narayan renounced conventional politics in 1952 to dedicate his entire energy to *Jeevandan* (lifelong dedication to social uplift). Choosing this impoverished, drought-prone tract in Kawakol, JP mobilized local villagers and accepted barren bhoodan land to establish a commune rooted in universal fraternity and shared labor.\n\n- **Historic Convergence of Global Minds**: Over decades, the ashram hosted global humanists, international developmental economists, and national leaders including Prime Minister Jawaharlal Nehru, Dr. Rajendra Prasad, and foreign delegates eager to observe authentic decentralized rural development.\n- **Nerve Center of Total Revolution**: In the early 1970s, Sekhodeora served as the intellectual sanctuary where JP formulated the philosophical contours of the historic **Sampoorna Kranti (Total Revolution)** movement that restored democratic norms in India.\n\nThe ashram stands today as an enduring testament to sacrifice, peaceful nonviolent agitation, and the moral power of civil society.",
+      "hi": "सेखोदेवरा स्थित **सर्वोदय आश्रम** की ऐतिहासिक नींव स्वतंत्रता के पश्चात संत-सुधारक आचार्य विनोबा भावे द्वारा चलाए गए ऐतिहासिक **भूदान आंदोलन** के गर्भ से निकली थी।\n\nसत्ता और दलीय राजनीति से विरक्त होकर लोकनायक जयप्रकाश नारायण ने 1952 में सक्रिय राजनीति का परित्याग किया और समाज सेवा के लिए *जीवनदान* का संकल्प लिया। नवादा के कौआकोल प्रखंड के इस सुदूर, उपेक्षित और अभावग्रस्त क्षेत्र को अपनी कर्मभूमि चुनते हुए जेपी ने ग्रामीणों द्वारा भूदान में दी गई बंजर भूमि पर इस आश्रम की स्थापना की।\n\n- **वैश्विक विचारकों का मिलन स्थल**: दशकों तक यह आश्रम देश-विदेश के विचारकों, समाजशास्त्रियों और राष्ट्रीय नेताओं का प्रेरणा केंद्र रहा, जहाँ भारत के प्रथम प्रधानमंत्री पं. जवाहरलाल नेहरू और राष्ट्रपति डॉ. राजेंद्र प्रसाद सहित कई विभूतियों का आगमन हुआ।\n- **संपूर्ण क्रांति की वैचारिक पृष्ठभूमि**: 1970 के दशक की शुरुआत में, सेखोदेवरा वह वैचारिक शरणस्थली बना जहाँ जेपी ने भारत के लोकतांत्रिक मूल्यों की रक्षा करने वाले ऐतिहासिक **संपूर्ण क्रांति** आंदोलन की रूपरेखा तैयार की थी।\n\nयह आश्रम आज भी त्याग, अहिंसक क्रांति और नागरिक चेतना के सर्वोच्च नैतिक मूल्यों का एक अमर और जीवंत स्मारक बना हुआ है।"
+    },
+    "significance": {
+      "en": "The significance of the **Sarvodaya Ashram** at Sekhodeora reverberates across educational, sociopolitical, and humanitarian spheres as a premier beacon of Gandhian and socialist thought in contemporary India.\n\n- **Living Paradigm of Rural Self-Reliance**: By operating active units in sericulture, honeybee rearing, indigenous seed conservation, solar electrification, and organic agriculture, the ashram proves that rural empowerment thrives best on sustainable indigenous knowledge.\n- **Educational and Scholarly Repository**: The ashram houses an invaluable archives library containing original letters, manuscripts, photographs, and records documenting the Indian freedom struggle, socialist discourses, and Sarvodaya literature, attracting sociologists and historians worldwide.\n- **Spiritual & Ethical Renewal**: In an era of intense consumerism and urbanization, Sekhodeora offers travelers, students, and social innovators a deeply introspective retreat that revitalizes faith in grassroots empathy, equality, and collective welfare.\n\nVisiting this hallowed ground inspires every traveler with Loknayak JP's indomitable courage and lifelong commitment to the uplift of the poorest of the poor.",
+      "hi": "सेखोदेवरा के **सर्वोदय आश्रम** का महत्व आधुनिक भारत में गांधीवादी और समाजवादी चिंतन के एक प्रमुख प्रकाशस्तंभ के रूप में शैक्षिक, सामाजिक और मानवीय दृष्टिकोण से अत्यंत गहरा है।\n\n- **ग्रामीण स्वावलंबन का सजीव उदाहरण**: रेशम कीट पालन (तसर उत्पादन), मधुमक्खी पालन, देशी बीज संरक्षण, सौर ऊर्जा उपयोग और जैविक खेती की सक्रिय इकाइयों का संचालन करके यह आश्रम सिद्ध करता है कि ग्रामीण विकास स्वदेशी संसाधनों और आत्मनिर्भरता से ही संभव है।\n- **ऐतिहासिक एवं बौद्धिक ज्ञानकोश**: आश्रम में एक अनमोल पुस्तकालय और अभिलेखागार है, जिसमें भारत के स्वतंत्रता संग्राम, समाजवादी चिंतन और सर्वोदय साहित्य से जुड़े दुर्लभ दस्तावेज, हस्तलिखित पत्र और ऐतिहासिक तस्वीरें सुरक्षित हैं, जो देश-विदेश के शोधार्थियों को आकर्षित करती हैं।\n- **नैतिक एवं वैचारिक प्रेरणा**: तीव्र भौतिकता और शहरी भागदौड़ के इस युग में, सेखोदेवरा आगंतुकों और युवाओं को एक ऐसी आत्मचिंतनशील शांति प्रदान करता है जो समानता, सादगी और सामूहिक कल्याण के मूल्यों को पुनः जाग्रत करती है।\n\nइस पावन भूमि का भ्रमण प्रत्येक यात्री के मन में लोकनायक जेपी के अदम्य साहस और समाज के अंतिम व्यक्ति के प्रति उनकी अटूट निष्ठा की प्रेरणा भर देता है।"
+    },
+    "location": {
+      "address": {
+        "en": "Sarvodaya Ashram Campus, Village and Post Sekhodeora, Kawakol Block, Nawada District, Bihar 805106, India. The historic ashram is nestled in the tranquil south-eastern rural belt of Nawada district, situated approximately 55 kilometers south-east of the Nawada district headquarters and about 165 kilometers from the state capital, Patna. Set near the picturesque forest-fringed boundary of the Chota Nagpur plateau, the ashram is approached from Nawada city via the Nawada-Pakribarawan-Kawakol Road or through Roh-Kawakol road corridors. The serene village road winds through verdant paddy plains, rustic hamlets, and fragrant mango groves before reaching the peaceful, tree-lined entry gates, community library, and central courtyard of this historic institutional campus.",
+        "hi": "सर्वोदय आश्रम परिसर, ग्राम व पोस्ट सेखोदेवरा, कौआकोल प्रखंड, नवादा जिला, बिहार 805106, भारत। यह ऐतिहासिक आश्रम नवादा जिले के शांत दक्षिण-पूर्वी ग्रामीण क्षेत्र में स्थित है, जो नवादा जिला मुख्यालय से लगभग 55 किलोमीटर दक्षिण-पूर्व और राज्य की राजधानी पटना से लगभग 165 किलोमीटर की दूरी पर बसा है। छोटानागपुर के पठारी जंगलों की सुरम्य सीमाओं के निकट स्थित इस आश्रम तक नवादा शहर से नवादा-पकड़ीबरावां-कौआकोल मार्ग या रोह-कौआकोल सड़क मार्ग द्वारा आसानी से पहुँचा जा सकता है। यह ग्रामीण संपर्क मार्ग हरे-भरे धान के खेतों, पारंपरिक ग्रामीण बस्तियों और सुवासित आम के बगीचों से होकर गुजरते हुए इस शांत, छायादार, सामुदायिक पुस्तकालय और ऐतिहासिक आश्रम परिसर के मुख्य प्रवेश द्वार तक ले जाता है।"
+      },
+      "mapQuery": "Sarvodaya Ashram, Sekhodeora, Nawada, Bihar"
+    },
+    "visitingInfo": {
+      "recommendedDurationMinutes": 120,
+      "bestTimeToVisit": {
+        "en": "October to March (Pleasant weather for exploring the campus)",
+        "hi": "अक्टूबर से मार्च (परिसर भ्रमण के लिए सुहावना मौसम)"
+      },
+      "entryFee": {
+        "en": "Free entry for all visitors",
+        "hi": "सभी आगंतुकों के लिए निःशुल्क प्रवेश"
+      },
+      "timings": {
+        "en": "08:00 AM - 05:00 PM (Daily)",
+        "hi": "सुबह 08:00 बजे से शाम 05:00 बजे तक (प्रतिदिन)"
+      }
+    },
+    "howToReach": {
+      "air": {
+        "en": "Gaya Airport (GAY) is located around 90 km west, and Patna Airport (PAT) is approximately 165 km away.",
+        "hi": "गया हवाई अड्डा (GAY) लगभग 90 किमी पश्चिम में और पटना हवाई अड्डा (PAT) लगभग 165 किमी दूर है।"
+      },
+      "rail": {
+        "en": "Nawada Railway Station (NWD) is 55 km away, while Jamui Railway Station (JMU) is approximately 45 km to the east.",
+        "hi": "नवादा रेलवे स्टेशन (NWD) 55 किमी दूर है, जबकि पूर्व में जमुई रेलवे स्टेशन (JMU) लगभग 45 किमी दूर है।"
+      },
+      "road": {
+        "en": "Accessible by road from Nawada, Jamui, and Sheikhpura via SH-8 and Kawakol rural link roads.",
+        "hi": "एसएच-8 और कौआकोल ग्रामीण संपर्क सड़कों के माध्यम से नवादा, जमुई और शेखपुरा से सड़क मार्ग द्वारा सुगम।"
+      },
+      "localTransport": {
+        "en": "Buses run from Nawada to Kawakol, from where local e-rickshaws, shared autos, or hired taxis reach Sekhodeora.",
+        "hi": "नवादा से कौआकोल के लिए बसें उपलब्ध हैं, जहाँ से स्थानीय ई-रिक्शा, ऑटो या किराए की टैक्सी द्वारा सेखोदेवरा पहुँचा जा सकता है।"
+      }
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "suitableForChildren": true
+    },
+    "travelTips": [
+      {
+        "en": "To fully absorb the serene historical environment and developmental philosophy of Sarvodaya Ashram at Sekhodeora, plan to arrive during the forenoon hours and dedicate at least two to three hours to your visit. Because the ashram is located in a rural enclave roughly 55 km from Nawada town, hiring a private vehicle or booking a reliable round-trip taxi in advance is strongly advised for maximum convenience. Dress respectfully and comfortably in line with the simple Gandhian ethos of the ashram. Don't miss exploring the historic residence of Loknayak Jayaprakash Narayan and the agricultural research centers. Visitors are encouraged to purchase locally crafted Khadi garments, pure honey, and organic produce from the ashram store, which directly supports rural artisans. Carry sufficient drinking water and a modest picnic lunch, as fine-dining options are limited in the immediate vicinity.",
+        "hi": "सेखोदेवरा स्थित सर्वोदय आश्रम के शांत ऐतिहासिक वातावरण और रचनात्मक दर्शन को गहराई से समझने के लिए, सुबह के समय पहुँचें और अपने भ्रमण के लिए कम से कम दो से तीन घंटे का समय निर्धारित करें। चूंकि आश्रम नवादा शहर से लगभग 55 किमी दूर ग्रामीण क्षेत्र में स्थित है, इसलिए नवादा से पहले से एक निजी टैक्सी या वाहन किराए पर लेना सबसे सुविधाजनक रहता है। आश्रम के सरल गांधीवादी लोकाचार के अनुकूल शालीन और आरामदायक वस्त्र पहनें। लोकनायक जयप्रकाश नारायण के ऐतिहासिक निवास, पुस्तकालय और आश्रम के कृषि केंद्रों को देखना न भूलें। आगंतुकों को सलाह दी जाती है कि वे आश्रम के बिक्री केंद्र से स्थानीय रूप से उत्पादित खादी वस्त्र, शुद्ध शहद और जैविक उत्पाद अवश्य खरीदें, जिससे स्थानीय कारीगरों को प्रत्यक्ष सहयोग मिलता है। आसपास बड़े रेस्तरां की उपलब्धता सीमित होने के कारण आवश्यक पानी और हल्का नाश्ता साथ रखें।"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-18",
+      "sources": [
+        {
+          "title": "Sarvodaya Ashram Sekhodeora",
+          "organization": "District Administration Nawada",
+          "url": "https://nawada.nic.in"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": [],
+    "circuits": [
+      "eco_circuit"
+    ]
+  },
+  {
+    "id": "gunawa-ji-tirth",
+    "slug": "gunawa-ji-tirth",
+    "name": {
+      "en": "Gunawa Ji Jain Tirth",
+      "hi": "गुणावा जी जैन तीर्थ"
+    },
+    "districtId": "nawada",
+    "placeType": "temple",
+    "primaryCategory": "religious",
+    "categories": [
+      "religious",
+      "pilgrimage",
+      "historical",
+      "cultural"
+    ],
+    "tags": [
+      "featured",
+      "pilgrimage",
+      "jain",
+      "peaceful"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "Sacred Jain pilgrimage temple situated in the center of a lotus lake, commemorating the Kevala Jnana and Nirvana of Ganadhara Gautam Swami.",
+      "hi": "कमल झील के मध्य में स्थित पवित्र जैन तीर्थ, जो भगवान महावीर के प्रथम गणधर गौतम स्वामी की कैवल्य ज्ञान और निर्वाण स्थली के रूप में पूजनीय है।"
+    },
+    "description": {
+      "en": "**Gunawa Ji Jain Tirth** (popularly known as **Shri Gunawan Ji** or **Gunayaji**) is one of the most venerated and spiritually magnetic Jain pilgrimage destinations in eastern India. Situated in Gonawa village just a short drive from Nawada town, this magnificent shrine is deeply revered as the sacred spot associated with **Indrabhuti Gautam Gandhara** (famously worshipped as **Gautam Swami**), the supreme and foremost disciple (*Ganadhara*) of the 24th Tirthankara, **Lord Mahavira**.\n\nReminiscent of the celebrated Jal Mandir at nearby Pawapuri, the principal sanctum sanctorum of Gunawa Ji rises serenely from the middle of a picturesque, expansive water reservoir filled with blooming lotus flowers.\n\n- **Architectural Splendor**: The sanctum is approached across a charming causeway bridge, featuring pristine white marble architecture, elegant carved cupolas, and tranquil courtyards.\n- **Sacred Relics and Enclaves**: The temple complex houses the revered ancient *Charan Paduka* (footprints) of Gautam Swami along with exquisite marble idols of Lord Mahavira and other Tirthankaras.\n- **Spiritual Fellowship**: The complex is jointly revered and maintained by both the Digambar and Shwetambar Jain traditions, creating a harmonious atmosphere of supreme peace, non-violence (*Ahimsa*), and meditation.",
+      "hi": "**गुणावा जी जैन तीर्थ** (जिन्हें **श्री गुणावां जी** या **गुणायाजी** के नाम से भी जाना जाता है) पूर्वी भारत के सबसे पवित्र और आध्यात्मिक रूप से जाग्रत जैन तीर्थस्थलों में से एक है। नवादा शहर के ठीक निकट गोनावां गांव में स्थित यह भव्य मंदिर 24वें तीर्थंकर **भगवान महावीर** के प्रथम और प्रमुख शिष्य (*गणधर*) **इंद्रभूति गौतम गणधर** (जिन्हें श्रद्धा से **गौतम स्वामी** कहा जाता है) की पावन तपोभूमि के रूप में अत्यधिक पूजनीय है।\n\nपावापुरी के प्रसिद्ध जल मंदिर की सुरम्य स्थापत्य शैली के सदृश, गुणावा जी का मुख्य गर्भगृह खिले हुए कमल के फूलों से आच्छादित एक विशाल और शांत सरोवर के मध्य में सुशोभित है।\n\n- **स्थापत्य सौंदर्य**: सरोवर के ऊपर बने एक सुंदर पुल के माध्यम से मुख्य मंदिर तक पहुँचा जाता है, जो धवल संगमरमर, नक्काशीदार शिखरों और शांत परिक्रमा पथ से सुसज्जित है।\n- **पवित्र चरण पादुकाएं**: मंदिर परिसर में गौतम स्वामी की अत्यंत पूजनीय प्राचीन *चरण पादुकाएं* तथा भगवान महावीर एवं अन्य तीर्थंकरों की मनोहारी संगमरमर की प्रतिमाएं प्रतिष्ठित हैं।\n- **सर्वपंथ सौहार्द**: यह पावन तीर्थ दिगंबर और श्वेतांबर दोनों जैन परंपराओं द्वारा अत्यंत श्रद्धापूर्वक प्रबंधित किया जाता है, जो अहिंसा, त्याग और गहन ध्यान का एक अलौकिक वातावरण प्रस्तुत करता है।"
+    },
+    "history": {
+      "en": "The antiquity of **Gunawa Ji** stretches back more than 2,500 years to the momentous era of **Lord Mahavira** (6th century BCE) and the vibrant kingdom of ancient Magadha.\n\nClassical Jain scriptures and agamic commentaries identify this sacred precinct with the ancient **Gunashil Chaitya**, a celebrated retreat where Lord Mahavira delivered inspiring sermons during his monastic wanderings across Bihar:\n- **Attainment of Kevala Jnana**: It was here that his prime disciple, the erudite scholar **Indrabhuti Gautam Swami**, engaged in supreme penance and achieved *Kevala Jnana* (omniscience and infinite spiritual consciousness) shortly after Lord Mahavira attained Nirvana at Pawapuri.\n- **Nirvana of Gautam Swami**: Jain tradition and local inscriptions also commemorate Gunawa as the divine ground where Gautam Swami ultimately renounced all karmic bonds and attained *Moksha* (liberation).\n\nOver subsequent centuries under the Mauryan, Gupta, and Pala eras, devout merchant guilds renovated the shrines, embedding foot impressions and stone sculptures that have endured as silent guardians of ancient Jain asceticism.",
+      "hi": "**गुणावा जी तीर्थ** की ऐतिहासिक प्राचीनता ढाई हजार वर्ष से भी अधिक पुरानी है, जो छठी शताब्दी ईसा पूर्व में **भगवान महावीर** के समकालीन युग और प्राचीन मगध साम्राज्य के गौरवशाली इतिहास से जुड़ी है।\n\nप्राचीन जैन आगमों और ग्रंथों में इस पावन स्थल का उल्लेख **गुणशील चैत्य** के रूप में मिलता है, जहाँ भगवान महावीर ने अपनी धर्मयात्राओं के दौरान प्रवास किया था और जनमानस को सत्य व अहिंसा का अमृत संदेश दिया था:\n- **कैवल्य ज्ञान की प्राप्ति**: यह वही परम पावन भूमि है जहाँ भगवान महावीर के प्रथम गणधर प्रकांड विद्वान **इंद्रभूति गौतम स्वामी** ने कठोर तपस्या की थी और पावापुरी में महावीर स्वामी के निर्वाण के तुरंत पश्चात *केवल ज्ञान* (परम ज्ञान) की प्राप्ति की थी।\n- **गौतम स्वामी का निर्वाण**: जैन परंपरा और प्राचीन शिलालेख इस पवित्र स्थल को गौतम स्वामी की निर्वाण स्थली (मोक्ष स्थली) के रूप में भी पूजते हैं, जहाँ उन्होंने समस्त सांसारिक बंधनों से मुक्त होकर मोक्ष प्राप्त किया।\n\nमौर्य, गुप्त और पाल काल के दौरान श्रावकों और श्रेष्ठियों ने इस तीर्थ का जीर्णोद्धार कराया और चरण पादुकाओं की स्थापना की, जो आज भी जैन तपोभूमि की दिव्यता को संजोए हुए हैं।"
+    },
+    "significance": {
+      "en": "**Gunawa Ji Jain Tirth** holds monumental religious and historical significance as an essential pillar of the revered **Jain Circuit of Bihar**, standing in intimate spiritual communion with Pawapuri, Kundalpur, and Rajgir.\n\n- **Spiritual Pilgrimage for Millions**: For Jain devotees worldwide, venerating the *Charan Paduka* of Gautam Swami at Gunawa is deemed an essential act of spiritual homage, symbolizing the acquisition of wisdom, humility, and inner enlightenment.\n- **Harmonious Confluence of Sects**: The presence of both Digambar and Shwetambar shrines within the same sanctified precincts exemplifies exceptional communal solidarity and theological reverence within the Jain fraternity.\n- **Annual Rath Yatra & Festivals**: During the sacred month of *Magh* and the auspicious festival of *Paryushan Parva*, the complex witnesses grand celebrations, ceremonial rath yatras, devotional chants, and scriptural readings that draw thousands of pilgrims.\n\nThe sublime sight of the temple shimmering upon the calm water reservoir instills an incomparable sense of inner stillness and reverence in every visitor.",
+      "hi": "**गुणावा जी जैन तीर्थ** बिहार के प्रसिद्ध **जैन पर्यटन परिपथ (Jain Circuit)** के एक अनिवार्य स्तंभ के रूप में असाधारण धार्मिक और ऐतिहासिक महत्व रखता है, जिसका आध्यात्मिक संबंध पावापुरी, कुंडलपुर और राजगीर से अत्यंत घनिष्ठ है।\n\n- **लाखों श्रद्धालुओं की आस्था का केंद्र**: दुनिया भर के जैन धर्मावलंबियों के लिए गुणावा में गौतम स्वामी की *चरण पादुकाओं* का दर्शन व वंदन परम सौभाग्य का प्रतीक माना जाता है, जो ज्ञान, नम्रता और आत्म-साक्षात्कार का मार्ग प्रशस्त करता है।\n- **संप्रदायों का पावन संगम**: एक ही पवित्र परिसर में दिगंबर और श्वेतांबर दोनों संप्रदायों के भव्य मंदिरों की उपस्थिति जैन समाज के आपसी सद्भाव, एकता और साझा आस्था का एक उत्कृष्ट उदाहरण है।\n- **वार्षिक रथयात्रा एवं महापर्व**: माघ मास में आयोजित होने वाली वार्षिक *रथयात्रा* तथा पर्युषण पर्व और महावीर जयंती के पावन अवसरों पर यहाँ भव्य धार्मिक अनुष्ठानों, प्रवचनों और भक्ति संगीत का आयोजन होता है, जिसमें देश भर से श्रद्धालु पधारते हैं।\n\nसरोवर के स्वच्छ जल पर प्रतिबिंबित होता यह धवल मंदिर प्रत्येक दर्शनार्थी के हृदय को अलौकिक शांति और शुचिता से भर देता है।"
+    },
+    "location": {
+      "address": {
+        "en": "Shri Gunawan Ji Jain Tirth Complex, Gonawa Village, Near Nawada Town, Nawada District, Bihar 805110, India. The sacred temple complex is conveniently situated approximately 3 kilometers south-west of the main Nawada city center and railway station. Positioned right along the accessible corridor between Nawada and the world-famous Jain pilgrimage center of Pawapuri, which lies just 24 kilometers north-west, the site is effortlessly approachable via National Highway 31 (NH-31) and local municipal link roads. The temple complex is surrounded by serene rural greenery, open countryside fields, and local residential communities, making it an easily accessible spiritual stopover for travelers navigating the southern Bihar religious circuits.",
+        "hi": "श्री गुणावां जी जैन तीर्थ परिसर, गोनावां गाँव, नवादा शहर के निकट, नवादा जिला, बिहार 805110, भारत। यह पवित्र तीर्थ परिसर मुख्य नवादा शहर के केंद्र और रेलवे स्टेशन से लगभग 3 किलोमीटर दक्षिण-पश्चिम में अत्यंत सुलभ स्थान पर स्थित है। नवादा और विश्व प्रसिद्ध जैन तीर्थ पावापुरी (जो उत्तर-पश्चिम में मात्र 24 किलोमीटर दूर है) के बीच स्थित यह पावन धाम राष्ट्रीय राजमार्ग 31 (NH-31) और स्थानीय पक्की सड़कों से सीधे जुड़ा हुआ है। मंदिर परिसर शांत ग्रामीण हरियाली, खुले खेतों और आवासीय बस्तियों के मध्य स्थित है, जो दक्षिणी बिहार के ऐतिहासिक व धार्मिक पर्यटन परिपथों की यात्रा करने वाले श्रद्धालुओं के लिए एक अत्यंत सुगम और शांत पड़ाव प्रदान करता है।"
+      },
+      "mapQuery": "Gunawa Ji Jain Tirth, Nawada, Bihar"
+    },
+    "visitingInfo": {
+      "recommendedDurationMinutes": 90,
+      "bestTimeToVisit": {
+        "en": "October to March (Pleasant weather and festival festivities)",
+        "hi": "अक्टूबर से मार्च (सुखद मौसम और त्योहारों का उत्साह)"
+      },
+      "entryFee": {
+        "en": "Free entry for all pilgrims and visitors",
+        "hi": "सभी श्रद्धालुओं और आगंतुकों के लिए निःशुल्क प्रवेश"
+      },
+      "timings": {
+        "en": "06:00 AM - 08:00 PM (Daily)",
+        "hi": "सुबह 06:00 बजे से रात 08:00 बजे तक (प्रतिदिन)"
+      }
+    },
+    "howToReach": {
+      "air": {
+        "en": "Gaya Airport (GAY) is about 60 km west, and Patna Airport (PAT) is approximately 105 km to the north-west.",
+        "hi": "गया हवाई अड्डा (GAY) लगभग 60 किमी पश्चिम में है, और पटना हवाई अड्डा (PAT) उत्तर-पश्चिम में लगभग 105 किमी दूर है।"
+      },
+      "rail": {
+        "en": "Nawada Railway Station (NWD) is just 3 km away, offering regular trains connected to Kiul, Gaya, and Patna.",
+        "hi": "नवादा रेलवे स्टेशन (NWD) मात्र 3 किमी दूर है, जो किऊल, गया और पटना से नियमित ट्रेनों से जुड़ा है।"
+      },
+      "road": {
+        "en": "Directly accessible via NH-31, located just 3 km from Nawada bus depot and 24 km from Pawapuri.",
+        "hi": "राष्ट्रीय राजमार्ग 31 द्वारा सीधे सुगम, नवादा बस स्टैंड से मात्र 3 किमी और पावापुरी से 24 किमी दूर।"
+      },
+      "localTransport": {
+        "en": "Frequent e-rickshaws, auto-rickshaws, and cycle-rickshaws run continuously between Nawada railway station and Gunawa Ji temple.",
+        "hi": "नवादा रेलवे स्टेशन और गुणावा जी मंदिर के बीच लगातार ई-रिक्शा, ऑटो-रिक्शा और साइकिल-रिक्शा उपलब्ध रहते हैं।"
+      }
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "suitableForChildren": true
+    },
+    "travelTips": [
+      {
+        "en": "When visiting the sacred Gunawa Ji Jain Tirth, visitors and pilgrims are expected to maintain strict sanctity and decorum befitting a holy Jain shrine. Remove leather items including belts, wallets, and shoes at the designated shoe repository outside the temple precinct before crossing the causeway bridge to the Jal Mandir. Modest and respectful attire covering shoulders and knees is mandatory. Photography may be restricted within the inner sanctum, so always seek prior permission from the temple management office before capturing pictures. If you wish to partake in the pristine morning rituals or evening aarti, arrive early around dawn or shortly before dusk when the reflection of lamps upon the lake is truly breathtaking. Both Digambar and Shwetambar Dharamshalas on the premises offer clean, basic lodging and pure vegetarian (*Satvik*) bhojanshala meals for traveling pilgrims.",
+        "hi": "पवित्र गुणावा जी जैन तीर्थ के दर्शन करते समय, आगंतुकों और श्रद्धालुओं से जैन धर्म की मर्यादा और शुचिता का पूर्ण पालन करने की अपेक्षा की जाती है। जल मंदिर के पुल पर प्रवेश करने से पूर्व चमड़े से बनी सभी वस्तुएं जैसे बेल्ट, पर्स और जूते-चप्पल मंदिर के बाहर बने जूता स्टैंड पर उतार दें। शालीन और मर्यादित वस्त्र पहनना अनिवार्य है जो कंधों और घुटनों को ढंकते हों। मुख्य गर्भगृह के भीतर फोटोग्राफी प्रतिबंधित हो सकती है, इसलिए तस्वीरें लेने से पहले प्रबंधन कार्यालय से अनुमति अवश्य लें। यदि आप प्रातःकालीन पूजन या संध्या महाआरती में सम्मिलित होना चाहते हैं, तो भोर के समय या सूर्यास्त से थोड़ा पूर्व पधारें जब सरोवर के जल में दीपों का प्रतिबिंब अत्यंत मनोहारी दिखाई देता है। परिसर में स्थित दिगंबर और श्वेतांबर धर्मशालाएं तीर्थयात्रियों के लिए स्वच्छ ठहरने की व्यवस्था और सात्विक जैन भोजनशाला की सुविधा उपलब्ध कराती हैं।"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-18",
+      "sources": [
+        {
+          "title": "Gunawa Ji Jain Tirth Nawada",
+          "organization": "Bihar State Tourism Development Corporation",
+          "url": "https://tourism.bihar.gov.in"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": [],
+    "circuits": [
+      "jain_circuit"
+    ]
+  },
+  {
+    "id": "narad-museum",
+    "slug": "narad-museum",
+    "name": {
+      "en": "Narad Museum",
+      "hi": "नारद संग्रहालय"
+    },
+    "districtId": "nawada",
+    "placeType": "museum",
+    "primaryCategory": "cultural",
+    "categories": [
+      "cultural",
+      "historical",
+      "archaeological",
+      "educational"
+    ],
+    "tags": [
+      "featured",
+      "museum",
+      "history",
+      "heritage"
+    ],
+    "discoveryFlags": {
+      "popular": false,
+      "featured": true,
+      "hiddenGem": true,
+      "familyFriendly": true,
+      "weekendTrip": false,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "Renowned regional archaeological museum established in 1974, housing rare Pala-period stone sculptures, ancient coins, Mughal weaponry, and prehistoric artifacts.",
+      "hi": "1974 में स्थापित प्रसिद्ध क्षेत्रीय पुरातात्विक संग्रहालय, जहाँ पाल कालीन दुर्लभ प्रस्तर मूर्तियां, प्राचीन सिक्के, मुगल हथियार और प्रागैतिहासिक कलाकृतियां संरक्षित हैं।"
+    },
+    "description": {
+      "en": "Located in the heart of Nawada town, the **Narad Museum** (also renowned as **Nardah Museum**) stands as one of Bihar's most significant regional storehouses of archaeological treasures and antiquarian heritage. Established in 1974 under the visionary leadership of then-District Magistrate **Shri N. P. Singh (IAS)**, who generously bequeathed his personal lifetime collection of rare antiquities to the Government of Bihar, this multi-purpose museum offers visitors a captivating voyage through millennia of regional civilization.\n\nThe museum's galleries house an extraordinary assemblage of over 2,000 carefully curated antiquities:\n- **Sculptural Marvels**: An illustrious collection of black basalt stone and bronze sculptures from the **Pala Empire** (8th to 12th century CE), portraying deities such as Buddha, Bodhisattva Manjushri, Vishnu, Surya, and Ganesha.\n- **Numismatic Chronicles**: Rare punch-marked coins from the Mauryan era, Kushan gold coins, Gupta silver pieces, and Mughal-era coinage.\n- **Ancient Artifacts & Militaria**: Terracotta figurines from Sonsa Garh, early pottery from Devengarh, prehistoric stone axes recovered from Kakolat, and medieval Mughal weaponry including damascened swords and shields.\n\nIt is a treasure trove for students, historians, and heritage lovers exploring the rich tapestry of Magadha's past.",
+      "hi": "नवादा शहर के मध्य में स्थित **नारद संग्रहालय** (जिसे **नरदह संग्रहालय** भी कहा जाता है) बिहार के सबसे महत्वपूर्ण क्षेत्रीय पुरातात्विक संग्रहालयों में से एक है। 1974 में नवादा के तत्कालीन दूरदर्शी जिला पदाधिकारी **श्री एन. पी. सिंह (आईएएस)** के प्रयासों से स्थापित इस संग्रहालय की नींव उनके द्वारा दान किए गए दुर्लभ पुरावशेषों के व्यक्तिगत संग्रह से रखी गई थी। बिहार सरकार के कला, संस्कृति एवं युवा विभाग द्वारा संचालित यह बहुउद्देश्यीय संग्रहालय प्राचीन मगध क्षेत्र की सहस्राब्दियों पुरानी सभ्यता और संस्कृति की जीवंत झांकी प्रस्तुत करता है।\n\nसंग्रहालय की विभिन्न दीर्घाओं में 2,000 से अधिक अनमोल और दुर्लभ पुरावशेष प्रदर्शित हैं:\n- **पाल कालीन मूर्तिकला**: 8वीं से 12वीं शताब्दी की काले बेसाल्ट पत्थर और कांस्य की उत्कृष्ट मूर्तियां, जिनमें भगवान बुद्ध, बोधिसत्व मंजुश्री, भगवान विष्णु, सूर्यदेव और गणेश की मनोहारी प्रतिमाएं शामिल हैं।\n- **मुद्राशास्त्र संग्रह**: मौर्यकालीन आहत (पंच-मार्क्ड) सिक्के, कुषाण और गुप्तकालीन दुर्लभ सिक्के तथा मध्यकालीन मुगल मुद्राएं।\n- **प्राचीन कलाकृतियां एवं शस्त्रागार**: सोनसा गढ़ से प्राप्त मौर्य व शुंग कालीन टेराकोटा मूर्तियां, देवनगढ़ के प्राचीन मृदभांड, ककोलत से प्राप्त प्रागैतिहासिक पाषाण कुल्हाड़ी तथा मध्यकालीन मुगल तलवारें, कटार और ढालें।\n\nयह संग्रहालय इतिहासकारों, शोधार्थियों और इतिहास प्रेमियों के लिए ज्ञान का एक अनमोल भंडार है।"
+    },
+    "history": {
+      "en": "The genesis of the **Narad Museum** in Nawada represents an extraordinary triumph of cultural preservation initiated during the early 1970s.\n\nFollowing the administrative creation of Nawada as an independent district in 1973, civil servant and passionate antiquarian scholar **Shri Narendra Pal Singh (IAS)** spearheaded a dedicated movement to document and rescue hundreds of priceless sculptures and artifacts scattered across unexcavated mounds, village shrines, and forgotten garhis of the Magadha region:\n- **Inaugural Foundation (1974)**: Formally founded in 1974, Shri Singh donated his priceless personal collection to establish a municipal museum, which was subsequently taken over and patronized by the Department of Art, Culture & Youth, Government of Bihar.\n- **Archaeological Discoveries**: Notable regional excavations from historical settlements like Devengarh, Sonsa Garh, and Rajauli contributed invaluable Mauryan seals, Northern Black Polished Ware (NBPW), and Pala Buddhist pantheons to the permanent inventory.\n- **Cultural Milestone**: The museum also acquired exquisite medieval manuscripts and contemporary masterpieces, such as Hira Lal Baban Ji's celebrated paintings illustrating verses by the classical Persian poet Hafiz.\n\nOver the decades, Narad Museum has preserved crucial physical links between Bihar's glorious classical past and modern historical scholarship.",
+      "hi": "नवादा के **नारद संग्रहालय** की स्थापना 1970 के दशक की शुरुआत में सांस्कृतिक विरासत के संरक्षण की दिशा में उठाया गया एक ऐतिहासिक और प्रेरणादायी कदम था।\n\n1973 में नवादा को एक स्वतंत्र जिले का दर्जा मिलने के पश्चात, तत्कालीन जिला पदाधिकारी और इतिहास अनुरागी **श्री नरेंद्र पाल सिंह (आईएएस)** ने मगध क्षेत्र के उपेक्षित टीलों, ग्रामीण मंदिरों और खंडहरों में बिखरी अनमोल ऐतिहासिक मूर्तियों और धरोहरों को सहेजने का बीड़ा उठाया:\n- **स्थापना (1974)**: 1974 में औपचारिक रूप से स्थापित इस संग्रहालय को श्री सिंह ने अपने वर्षों के व्यक्तिगत पुरावशेष संग्रह को समर्पित करके शुरू किया, जिसे बाद में बिहार सरकार के कला, संस्कृति एवं युवा विभाग ने अपने संरक्षण में ले लिया।\n- **पुरातात्विक उपलब्धियां**: देवनगढ़, सोनसा गढ़ और रजौली जैसे प्राचीन पुरातात्विक स्थलों से हुई खुदाइयों से प्राप्त मौर्यकालीन मुहरें, उत्तरी काले चमकीले मृदभांड (NBPW) और पाल युगीन बौद्ध व हिंदू प्रतिमाएं इस संग्रहालय की अमूल्य निधि बनीं।\n- **सांस्कृतिक विविधता**: संग्रहालय में प्राचीन पांडुलिपियों के साथ-साथ हीरा लाल बबन जी द्वारा चित्रित फारसी कवि हाफिज की अमर कविताओं पर आधारित दुर्लभ चित्र भी प्रदर्शित हैं।\n\nयह संग्रहालय पिछले पाँच दशकों से मगध की समृद्ध ऐतिहासिक विरासत को शोधार्थियों और आने वाली पीढ़ियों के लिए सुरक्षित रखे हुए है।"
+    },
+    "significance": {
+      "en": "The **Narad Museum** commands immense educational, historical, and cultural significance as the premier repository of archaeological heritage in southern Bihar.\n\n- **Illuminating Regional History**: The museum serves as an indispensable research laboratory for archaeologists and students of Indian art history, illuminating the transition of sculptural styles from the Mauryan and Shunga epochs to the zenith of Pala-Sena iconography.\n- **Evidence of Prehistoric Human Settlement**: By showcasing a prehistoric polished stone hand-axe excavated directly from Kakolat, the museum establishes that human toolmaking and settlement in Nawada date back tens of thousands of years to the Paleolithic and Neolithic eras.\n- **Numismatic & Metallurgical Legacy**: The chronological display of ancient coinage provides vital economic context regarding trade networks that linked ancient Magadha with Central Asia and the Roman world.\n\nFor residents and visiting tourists, the museum bridges the gap between historical literature and tangible artifacts, inspiring civic pride and fostering a deep appreciation for the artistic genius of ancient Bihar.",
+      "hi": "**नारद संग्रहालय** दक्षिणी बिहार में पुरातात्विक संपदा के प्रमुख संरक्षक के रूप में असाधारण शैक्षणिक, ऐतिहासिक और सांस्कृतिक महत्व रखता है।\n\n- **क्षेत्रीय इतिहास का सजीव दर्पण**: यह संग्रहालय भारतीय कला इतिहास के शोधकर्ताओं और विद्यार्थियों के लिए एक अनिवार्य अध्ययन केंद्र है, जो मौर्य और शुंग काल से लेकर पाल-सेन काल तक की मूर्तिकला शैलियों के क्रमिक विकास को प्रत्यक्ष रूप से उजागर करता है।\n- **प्रागैतिहासिक मानव सभ्यता का प्रमाण**: ककोलत क्षेत्र से प्राप्त प्रागैतिहासिक पाषाण कुल्हाड़ी का प्रदर्शन यह प्रमाणित करता है कि नवादा में मानव बस्तियों और औजार निर्माण की परंपरा पुरापाषाण और नवपाषाण काल तक हजारों वर्ष प्राचीन है।\n- **मुद्राशास्त्र और व्यापारिक समृद्धि**: यहाँ प्रदर्शित प्राचीन सिक्कों का ऐतिहासिक क्रम उन व्यापारिक मार्गों और आर्थिक संपन्नता का प्रमाण देता है जिसने प्राचीन मगध को मध्य एशिया और वैश्विक व्यापार से जोड़ा था।\n\nस्थानीय नागरिकों और पर्यटकों के लिए यह संग्रहालय इतिहास की किताबों और वास्तविक पुरावशेषों के बीच एक सजीव सेतु बनाता है, जो प्राचीन बिहार की कलात्मक प्रतिभा के प्रति गहरी श्रद्धा जाग्रत करता है।"
+    },
+    "location": {
+      "address": {
+        "en": "Narad Museum (Nardah Museum), Near Sadar Hospital and Collectorate Road, Nawada Town, Nawada District, Bihar 805110, India. The museum is centrally situated within the urban heart of Nawada city, located barely one kilometer away from the Nawada Railway Station and central bus stand. Positioned in the prominent administrative and cultural zone of the district headquarters, the building is conveniently accessible via Collectorate Road and the Main Town Road branching off National Highway 31 (NH-31). Its prime central location ensures seamless connectivity for visiting scholars, students, and tourists arriving by private cars, auto-rickshaws, or regional buses from nearby major hubs like Patna, Gaya, and Bihar Sharif.",
+        "hi": "नारद संग्रहालय (नरदह संग्रहालय), सदर अस्पताल एवं समाहरणालय रोड के निकट, नवादा नगर, नवादा जिला, बिहार 805110, भारत। यह प्रतिष्ठित संग्रहालय नवादा शहर के मुख्य प्रशासनिक और सांस्कृतिक केंद्र में स्थित है, जो नवादा रेलवे स्टेशन और मुख्य बस स्टैंड से मात्र एक किलोमीटर की दूरी पर बसा है। राष्ट्रीय राजमार्ग 31 (NH-31) से शहर में प्रवेश करने वाले कलेक्ट्रेट मार्ग और मुख्य बाजार मार्ग के माध्यम से यहाँ आसानी से पहुँचा जा सकता है। शहर के मध्य में स्थित होने के कारण यहाँ पटना, गया, नालंदा और बिहार शरीफ से आने वाले पर्यटकों, शोधार्थियों और स्कूली छात्रों के लिए निजी वाहनों, ऑटो-रिक्शा और ई-रिक्शा द्वारा पहुँचना बेहद सुगम और सुविधाजनक है।"
+      },
+      "mapQuery": "Narad Museum, Nawada, Bihar"
+    },
+    "visitingInfo": {
+      "recommendedDurationMinutes": 60,
+      "bestTimeToVisit": {
+        "en": "October to March (Pleasant weather for museum exploration)",
+        "hi": "अक्टूबर से मार्च (संग्रहालय भ्रमण के लिए सुखद मौसम)"
+      },
+      "entryFee": {
+        "en": "Nominal entry ticket applicable as per Bihar State Museum guidelines",
+        "hi": "बिहार राज्य संग्रहालय नियमावली के अनुसार मामूली प्रवेश टिकट लागू"
+      },
+      "timings": {
+        "en": "10:30 AM - 04:30 PM (Closed on Mondays and Gazetted Holidays)",
+        "hi": "सुबह 10:30 बजे से शाम 04:30 बजे तक (सोमवार एवं सरकारी अवकाशों पर बंद)"
+      }
+    },
+    "howToReach": {
+      "air": {
+        "en": "Gaya Airport (GAY) is located about 62 km west, and Jay Prakash Narayan Airport in Patna (PAT) is about 105 km north.",
+        "hi": "गया हवाई अड्डा (GAY) लगभग 62 किमी पश्चिम में और पटना का जयप्रकाश नारायण हवाई अड्डा (PAT) लगभग 105 किमी उत्तर में है।"
+      },
+      "rail": {
+        "en": "Nawada Railway Station (NWD) is located within 1 km, easily reached in 5 minutes by rickshaw.",
+        "hi": "नवादा रेलवे स्टेशन (NWD) 1 किमी के दायरे में स्थित है, जहां से रिक्शा द्वारा 5 मिनट में पहुँचा जा सकता है।"
+      },
+      "road": {
+        "en": "Connected directly through NH-31 passing through Nawada city center, linking to Patna, Gaya, and Ranchi.",
+        "hi": "नवादा शहर से गुजरने वाले राष्ट्रीय राजमार्ग 31 द्वारा सीधे जुड़ा हुआ है, जो पटना, गया और रांची को जोड़ता है।"
+      },
+      "localTransport": {
+        "en": "Auto-rickshaws, e-rickshaws, and cycle-rickshaws are abundantly available from any part of Nawada town.",
+        "hi": "नवादा शहर के किसी भी हिस्से से ऑटो-रिक्शा, ई-रिक्शा और साइकिल-रिक्शा प्रचुर मात्रा में उपलब्ध हैं।"
+      }
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": false,
+      "suitableForChildren": true
+    },
+    "travelTips": [
+      {
+        "en": "To maximize your educational visit to Narad Museum in Nawada, schedule your trip between 10:30 AM and 04:30 PM, making sure to note that the museum remains strictly closed on Mondays and all official government holidays. Entry tickets are nominal and should be obtained from the ticketing counter at the entrance gate. Photography of specific rare antiquities and ancient coin exhibits may require explicit permission from the curator or on-duty museum staff, so please confirm current gallery regulations upon entry. Allocate at least an hour to leisurely examine the Pala-period stone sculptures and historical manuscripts. Consider carrying a notebook or tablet if you are a student or history buff keen on documenting epigraphical and iconographical details. Because the museum is in the central administrative district, ample local dining options, banks, and transport facilities are conveniently located nearby.",
+        "hi": "नवादा के नारद संग्रहालय के अपने ज्ञानवर्धक भ्रमण का पूरा लाभ उठाने के लिए, सुबह 10:30 बजे से शाम 04:30 बजे के बीच अपनी यात्रा की योजना बनाएं। ध्यान रखें कि संग्रहालय प्रत्येक सोमवार तथा सभी सरकारी राजपत्रित अवकाशों पर बंद रहता है। प्रवेश द्वार पर बने टिकट काउंटर से मामूली शुल्क का टिकट प्राप्त करें। दुर्लभ मूर्तियों और प्राचीन सिक्कों की फोटोग्राफी के लिए संग्रहालय के क्यूरेटर या प्रभारी अधिकारी से पूर्व अनुमति लेना अनिवार्य हो सकता है, इसलिए प्रवेश के समय नियमों की जानकारी ले लें। पाल युगीन प्रस्तर मूर्तियों, प्राचीन हथियारों और पांडुलिपियों का तसल्ली से अवलोकन करने के लिए कम से कम एक घंटे का समय अवश्य दें। इतिहास में रुचि रखने वाले विद्यार्थियों को कलाकृतियों के विवरण दर्ज करने के लिए नोटबुक साथ रखने की सलाह दी जाती है। शहर के केंद्र में स्थित होने के कारण आसपास भोजन और आवागमन के बेहतरीन विकल्प उपलब्ध हैं।"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-18",
+      "sources": [
+        {
+          "title": "Narad Museum Nawada",
+          "organization": "Department of Art, Culture and Youth, Government of Bihar",
+          "url": "https://yac.bihar.gov.in"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": [],
+    "circuits": [
+      "buddhist_circuit"
+    ]
+  }
+]

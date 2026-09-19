@@ -1,0 +1,407 @@
+{
+  "id": "bhagalpur",
+  "slug": "bhagalpur",
+  "name": {
+    "en": "Bhagalpur",
+    "hi": "भागलपुर"
+  },
+  "division": "Bhagalpur",
+  "description": {
+    "en": "Renowned worldwide as the **Silk City of India** and ancient capital of the **Anga Kingdom**, Bhagalpur is an illustrious Gangetic district celebrated for the ancient **Vikramshila Mahavihara** university ruins, the sacred starting point of the **Kanwar Yatra** at Sultanganj, the endangered **Gangetic Dolphin Sanctuary**, and traditional **Manjusha art**.",
+    "hi": "विश्व भर में **'सिल्क सिटी'** और महाभारत कालीन **अंग देश** की राजधानी के रूप में विख्यात भागलपुर, गंगा के तट पर बसा एक ऐतिहासिक जिला है। यह प्राचीन **विक्रमशिला महाविहार**, सुल्तानगंज से शुरू होने वाली पवित्र **कांवर यात्रा**, देश के एकमात्र **गंगा डॉल्फ़िन अभयारण्य** और पारंपरिक **मंजूषा कला** के लिए प्रसिद्ध है।"
+  },
+  "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1200&auto=format&fit=crop",
+  "coordinates": {
+    "latitude": 25.2445,
+    "longitude": 86.9718
+  },
+  "tourismThemes": [
+    "silk_heritage",
+    "buddhist_pilgrimage",
+    "shiva_circuit",
+    "kanwar_yatra",
+    "jain_pilgrimage",
+    "eco_tourism",
+    "river_cruise",
+    "folk_art_crafts"
+  ],
+  "religiousAssociations": [
+    "hinduism",
+    "buddhism",
+    "jainism",
+    "islam"
+  ],
+  "placeIds": [
+    "vikramshila-ruins",
+    "ajgaibinath-temple",
+    "colganj-rock-cut-temples",
+    "vikramshila-gangetic-dolphin-sanctuary",
+    "champapur-jain-temple"
+  ],
+  "featuredPlaceIds": [
+    "vikramshila-ruins",
+    "ajgaibinath-temple",
+    "vikramshila-gangetic-dolphin-sanctuary",
+    "colganj-rock-cut-temples",
+    "champapur-jain-temple"
+  ],
+  "nearbyDistrictIds": [
+    "banka",
+    "munger",
+    "khagaria",
+    "katihar",
+    "madhepura",
+    "purnia"
+  ],
+  "status": "published",
+  "verification": {
+    "status": "verified",
+    "lastVerifiedAt": "2026-09-19",
+    "sources": [
+      {
+        "name": "District Administration Bhagalpur Portal",
+        "url": "https://bhagalpur.nic.in",
+        "type": "official"
+      },
+      {
+        "name": "Census of India 2011",
+        "url": "https://censusindia.gov.in",
+        "type": "government"
+      },
+      {
+        "name": "Department of Tourism, Government of Bihar",
+        "url": "https://tourism.bihar.gov.in",
+        "type": "official"
+      },
+      {
+        "name": "Archaeological Survey of India (ASI)",
+        "url": "https://asi.nic.in",
+        "type": "official"
+      }
+    ]
+  },
+  "overview": {
+    "en": "**Bhagalpur**, fondly celebrated as the **Silk City of India** (*Resham Nagari*), is one of Bihar's most storied and culturally luminous districts, reposing along the majestic, sweeping banks of the sacred River Ganga. Steeped in antiquity, this historic land was celebrated in the *Mahabharata* as the realm of **Anga**, ruled by the chivalrous and magnanimous **King Karna**.\n\nToday, Bhagalpur represents an extraordinary confluence of international Buddhist heritage, profound Hindu devotion, Jain pilgrimage, and living indigenous art. It is home to the world-renowned ruins of **Vikramshila Mahavihara**—ancient India's premier royal monastic university founded by Emperor Dharmapala—and the granite island shrine of **Ajgaibinath Temple** at Sultanganj, the revered starting point for millions of Kanwariyas journeying to Deoghar. The district also harbors India's only dedicated freshwater dolphin sanctuary, the **Vikramshila Gangetic Dolphin Sanctuary**, alongside the sacred Jain Tirthankara sanctuary at **Champapuri**.\n\nDistinguished by its world-famous GI-tagged **Bhagalpuri Silk (Tussar)**, the distinctive three-colored **Manjusha folk art**, and fragrant GI-certified **Katarni rice** and **Zardalu mangoes**, Bhagalpur stands as a captivating jewel of eastern India.",
+    "hi": "**भागलपुर**, जिसे गर्व से भारत की **रेशम नगरी** (*सिल्क सिटी*) कहा जाता है, पूर्वी बिहार का अत्यंत वैभवशाली, पौराणिक और ऐतिहासिक जिला है, जो पवित्र गंगा नदी के तटवर्ती क्षेत्र में विस्तृत है। यह वही पावन भूमि है जिसे महाभारत काल में **अंग देश** के रूप में जाना जाता था और जहाँ महादानी **सूर्यपुत्र कर्ण** का शासन था।\n\nवर्तमान में भागलपुर अंतरराष्ट्रीय बौद्ध विरासत, अगाध शैव आस्था, पावन जैन तीर्थ और लोक कला का अनुपम संगम है। यहाँ पाल सम्राट धर्मपाल द्वारा 8वीं शताब्दी में स्थापित **विक्रमशिला महाविहार** के भव्य पुरातात्विक अवशेष मौजूद हैं, जो प्राचीन विश्व में तंत्रयान और बौद्ध दर्शन का सर्वोच्च ज्ञानपीठ था। सुल्तानगंज में उत्तरवाहिनी गंगा के मध्य जहांगीरा शैलद्वीप पर स्थित **श्री अजगैबीनाथ धाम** विश्वप्रसिद्ध श्रावणी मेले और 105 किमी लंबी पावन कांवर यात्रा का पावन उद्गम केंद्र है। इसके अतिरिक्त, जिले में गंगा नदी के 60 किमी विस्तार में भारत का एकमात्र **विक्रमशिला गंगा डॉल्फ़िन अभयारण्य** तथा 12वें जैन तीर्थंकर भगवान वासुपूज्य की पंच कल्याणक भूमि **चम्पापुरी** अवस्थित है।\n\nविश्वप्रसिद्ध जीआई-टैग प्राप्त **भागलपुरी तसर सिल्क**, बिहुला-विषहरी गाथा पर आधारित अद्वितीय **मंजूषा लोक कला**, तथा मनमोहक सुगंध वाले जीआई-प्रमाणित **कतरनी चावल** और **जर्दालू आम** भागलपुर को वैश्विक पटल पर एक विशिष्ट सांस्कृतिक पहचान प्रदान करते हैं।"
+  },
+  "history": {
+    "en": "The historical trajectory of **Bhagalpur** represents one of the most uninterrupted and glorious chronicles in eastern India, spanning from prehistoric and epic antiquity to the modern freedom struggle:\n\n- **The Ancient Kingdom of Anga & Champa:** Referenced in the *Atharvaveda* and *Mahabharata*, the region formed the core of the ancient **Anga Kingdom**, ruled by the legendary Mahabharata hero **Daanveer Karna**. Its imperial capital, **Champa** (modern Champanagar near Nathnagar), was a prosperous fortified riverine port and commercial metropolis described by ancient Greek geographers and Chinese chroniclers. Lord Buddha visited Champa on multiple occasions, delivering sermons near the historic Gargara lake, while Lord Mahavira and 12th Jain Tirthankara **Vasupujya** sanctified this soil.\n\n- **The Golden Era of Vikramshila (8th–12th Century CE):** Under the royal patronage of the **Pala Empire**, Emperor **Dharmapala** established the illustrious **Vikramshila Mahavihara** at Antichak (Kahalgaon) in the late 8th century. It developed into the global fountainhead of Vajrayana Buddhist philosophy, logic, and Tantric sciences, housing over 1,000 scholars. Celebrated rector **Atisa Dipankara Srijnana** traveled from here to Tibet to reform Himalayan Buddhism, until the university was tragically destroyed around 1193–1200 CE.\n\n- **Colonial Epoch & The First Indigenous Rebellion (1784):** Bhagalpur became an early administrative district of the British East India Company in the 1770s. In **1784**, legendary tribal leader **Baba Tilka Manjhi** launched India's earliest armed indigenous rebellion against British colonial exploitation, shooting collector Augustus Cleveland with a poisoned arrow before attaining martyrdom.\n\n- **National Freedom Movement:** The district served as an active theater during the 1942 Quit India Movement and Swadeshi protests, while nurturing luminaries of literature and reform including Sarat Chandra Chattopadhyay and Dr. Kadambini Ganguly.",
+    "hi": "**भागलपुर का इतिहास** प्राचीन महाकाव्य काल से लेकर आधुनिक स्वाधीनता संग्राम तक निरंतर वीरता, विद्या और सांस्कृतिक उत्कर्ष की अमर गाथाओं से आलोकित रहा है:\n\n- **प्राचीन अंग महाजनपद एवं चम्पा की समृद्धि:** *अथर्ववेद* और *महाभारत* में वर्णित यह क्षेत्र प्राचीन **अंग महाजनपद** का प्रमुख केंद्र था, जिसकी राजधानी **चम्पा** (वर्तमान चम्पानगर/नाथनगर) थी। महाभारत के अमर नायक **दानवीर कर्ण** यहाँ के अधिपति थे। चम्पा प्राचीन भारत का अत्यंत समृद्ध नदीय व्यापारिक केंद्र था, जिसका उल्लेख बौद्ध और जैन धर्मग्रंथों में विस्तार से मिलता है। भगवान बुद्ध ने यहाँ गगरा पुष्करिणी के तट पर अनेक उपदेश दिए, जबकि जैन धर्म के 12वें तीर्थंकर **भगवान वासुपूज्य स्वामी** ने यहीं जन्म, दीक्षा, केवलज्ञान और मोक्ष प्राप्त किया।\n\n- **विक्रमशिला महाविहार का स्वर्णिम युग (8वीं-12वीं शताब्दी ईस्वी):** पाल वंश के प्रतापी बौद्ध शासक **सम्राट धर्मपाल** ने 8वीं शताब्दी के उत्तरार्ध में कहलगांव के समीप अंतीचक में **विक्रमशिला महाविहार** की स्थापना की। यह विश्वविद्यालय तंत्रयान (वज्रयान) और बौद्ध दर्शन का अंतरराष्ट्रीय केंद्र बना, जहाँ 1,000 से अधिक भिक्षु-विद्वान अध्ययनरत थे। इसके महान कुलाधिपति **आचार्य अतिश दीपांकर श्रीज्ञान** ने तिब्बत यात्रा कर वहाँ बौद्ध धर्म का नवजागरण किया। 12वीं सदी के अंत में बख्तियार खिलजी के आक्रमण से इस महाविहार को भारी क्षति पहुँची।\n\n- **प्रथम जनजातीय स्वाधीनता संग्राम (1784):** 1770 के दशक में अंग्रेजों ने भागलपुर को प्रशासनिक जिला बनाया। **1784 ईस्वी** में महान जनजातीय वीर **बाबा तिलका मांझी** ने ब्रिटिश हुकूमत के शोषण के विरुद्ध देश का प्रथम संगठित सशस्त्र विद्रोह किया। उन्होंने अत्याचारी कलेक्टर ऑगस्टस क्लीवलैंड को तीर से मार गिराया और मातृभूमि के लिए हंसते-हंसते सर्वोच्च बलिदान दिया।\n\n- **आधुनिक स्वाधीनता संग्राम:** 1942 के भारत छोड़ो आंदोलन और स्वदेशी आंदोलन में भागलपुर के सेनानियों ने अग्रणी भूमिका निभाई। इस पावन भूमि ने शरतचंद्र चट्टोपाध्याय और देश की पहली महिला चिकित्सक डॉ. कादम्बिनी गांगुली जैसी युगांतरकारी विभूतियों को संबल दिया।"
+  },
+  "geography": {
+    "location": {
+      "en": "Situated in eastern Bihar on the southern and northern floodplains of the sacred River Ganga within the Bhagalpur Division, extending between 25°04' N to 25°30' N latitude and 86°37' E to 87°30' E longitude.",
+      "hi": "पूर्वी बिहार के भागलपुर प्रमंडल में पवित्र गंगा नदी के दोनों तटवर्ती कछारी मैदानों में स्थित, जिसका भौगोलिक विस्तार 25°04' से 25°30' उत्तरी अक्षांश तथा 86°37' से 87°30' पूर्वी देशांतर के मध्य है।"
+    },
+    "areaSqKm": 2569,
+    "boundaries": {
+      "en": "- **North**: Khagaria, Madhepura, and Purnia districts (separated by the Kosi and riverine plains)\n- **South**: Banka district (historically bifurcated from Bhagalpur in 1991)\n- **East**: Katihar district and Sahibganj and Godda districts of Jharkhand\n- **West**: Munger district",
+      "hi": "- **उत्तर**: खगड़िया, मधेपुरा एवं पूर्णिया जिले (कोसी नदी एवं मैदानी दियारा द्वारा विभाजित)\n- **दक्षिण**: बांका जिला (1991 में भागलपुर से विभाजित)\n- **पूर्व**: कटिहार जिला तथा झारखंड राज्य के साहिबगंज एवं गोड्डा जिले\n- **पश्चिम**: मुंगेर जिला"
+    },
+    "physiography": {
+      "en": "The district exhibits a diverse riverine topography bisected from west to east by the holy River Ganga. The northern tract (Naugachia subdivision) forms a low-lying, exceptionally fertile Gangetic-Kosi alluvial floodplain characterized by vast diara tracts, braided silt shoals, and rich agricultural soils. The southern tract rises gently toward the Chota Nagpur plateau fringes, marked by older alluvial plains (*Bangar*) punctuated by striking isolated granitic and gneissic outcrops, notably the sacred granite inselbergs at Jahangira (Sultanganj) and the Bateshwar Sthan hills at Kahalgaon.",
+      "hi": "जिले की भू-आकृति गंगा नदी द्वारा दो भागों (उत्तरी एवं दक्षिणी) में विभाजित एक अत्यंत उपजाऊ नदीय तंत्र का निर्माण करती है। उत्तरी भूभाग (नवगछिया अनुमंडल) गंगा-कोसी के बाढ़जनित दोआब और विस्तृत 'दियारा' मैदानों से युक्त है, जो नवीन जलोढ़ (खादर) मिट्टी से आच्छादित है। दक्षिणी भूभाग छोटानागपुर पठार की ओर धीरे-धीरे ऊंचा होता जाता है, जहाँ पुरानी जलोढ़ (बांगर) मिट्टी पाई जाती है तथा बीच-बीच में सुल्तानगंज (जहांगीरा शैलद्वीप) और कहलगांव (बटेश्वर स्थान) में प्राचीन ग्रेनाइट चट्टानें एवं शैल-पहाड़ियां प्राकृतिक रूप से दृष्टिगोचर होती हैं।"
+    },
+    "climate": {
+      "en": "Characterized by a humid subtropical climate (Köppen *Cwa*) with three well-defined seasons: hot and humid summers (March to June) with maximum temperatures touching 41°C to 43°C; a heavy monsoon season (July to September) driven by the Bay of Bengal branch delivering an average annual rainfall of approximately 1,150–1,250 mm; and a cool, pleasant winter (November to February) with temperatures hovering between 9°C and 24°C.",
+      "hi": "यहाँ उपोष्णकटिबंधीय आर्द्र जलवायु (Köppen *Cwa*) पाई जाती है, जिसमें तीन प्रमुख मौसम होते हैं: गर्म एवं आर्द्र ग्रीष्मकाल (मार्च से जून) जिसमें अधिकतम तापमान 41°C से 43°C तक पहुँच जाता है; दक्षिण-पश्चिम मानसून द्वारा प्रचुर वर्षाकाल (जुलाई से सितंबर) जिसमें 1,150 से 1,250 मिमी औसत वार्षिक वर्षा होती है; तथा सुखद और मंद शीतकाल (नवंबर से फरवरी) जहाँ तापमान 9°C से 24°C के बीच रहता है।"
+    },
+    "rivers": [
+      {
+        "name": {
+          "en": "Ganga (Ganges)",
+          "hi": "गंगा नदी"
+        },
+        "description": {
+          "en": "The supreme hydrological artery flowing west to east for over 80 km through the district, forming the auspicious north-flowing *Uttarvahini* curve at Sultanganj and harboring the Vikramshila Gangetic Dolphin Sanctuary.",
+          "hi": "जिले की मुख्य जीवनधारा जो लगभग 80 किमी तक पश्चिम से पूर्व की ओर प्रवाहित होती है। सुल्तानगंज में यह अत्यंत पवित्र 'उत्तरवाहिनी गंगा' का रूप धारण करती है तथा इसमें विक्रमशिला गंगा डॉल्फ़िन अभयारण्य स्थित है।"
+        }
+      },
+      {
+        "name": {
+          "en": "Kosi",
+          "hi": "कोसी नदी"
+        },
+        "description": {
+          "en": "Flanks the northern edge of the Naugachia subdivision, depositing immensely rich silt across northern agricultural blocks before approaching its confluence with the Ganga near Kursela.",
+          "hi": "नवगछिया अनुमंडल के उत्तरी छोर पर प्रवाहित होकर विस्तृत उपजाऊ गाद (सिल्ट) का निक्षेप करती है और कुरसेला के समीप गंगा से संगम बनाती है।"
+        }
+      },
+      {
+        "name": {
+          "en": "Chandan",
+          "hi": "चांदन नदी"
+        },
+        "description": {
+          "en": "Flows northward from the southern hills of Banka, traversing south-central Bhagalpur and nourishing indigenous irrigation networks before draining into the Ganges plain.",
+          "hi": "बांका के दक्षिणी पठारी ढलानों से उत्तर की ओर प्रवाहित होने वाली महत्वपूर्ण नदी, जो जिले के दक्षिणी भागों में पारंपरिक सिंचाई को संबल देती है।"
+        }
+      },
+      {
+        "name": {
+          "en": "Champa (Champavati)",
+          "hi": "चम्पा नदी"
+        },
+        "description": {
+          "en": "A storied historic river originating from the southern undulating plains and joining the Ganga near Nathnagar, immortalized as the ancient waterfront of the capital city of Champa.",
+          "hi": "दक्षिणी मैदानों से निकलकर नाथनगर के समीप गंगा में विलीन होने वाली अत्यंत प्राचीन पौराणिक नदी, जिसके तट पर महाभारत कालीन अंग साम्राज्य की राजधानी चम्पा बसी थी।"
+        }
+      },
+      {
+        "name": {
+          "en": "Badua",
+          "hi": "बदुआ नदी"
+        },
+        "description": {
+          "en": "Traverses southwestern Bhagalpur after emerging from the southern hill tracts, supported by the historic Badua reservoir canal system for agricultural irrigation.",
+          "hi": "जिले के दक्षिण-पश्चिमी क्षेत्र से बहने वाली मौसमी नदी, जिस पर निर्मित बदुआ जलाशय परियोजना से खरीफ एवं रबी फसलों की सिंचाई होती है।"
+        }
+      }
+    ]
+  },
+  "demographics": {
+    "population": {
+      "value": 3037766,
+      "year": 2011,
+      "source": "Census of India 2011"
+    },
+    "density": {
+      "value": 1182,
+      "year": 2011
+    },
+    "literacyRate": {
+      "value": 63.14,
+      "year": 2011
+    },
+    "sexRatio": {
+      "value": 880,
+      "year": 2011
+    }
+  },
+  "administration": {
+    "headquarters": {
+      "en": "Bhagalpur",
+      "hi": "भागलपुर"
+    },
+    "subdivisions": 3,
+    "blocks": 16,
+    "villages": 1515,
+    "asOf": "2024"
+  },
+  "economy": {
+    "description": {
+      "en": "The economy of Bhagalpur is distinguished by its unique synthesis of **world-famous silk handlooms**, **strategic thermal power generation**, **flourishing agro-horticulture**, and **regional commerce**.\n\n- **Silk Capital of Eastern India:** Globally renowned as the *Silk City*, Bhagalpur sustains a centuries-old weaving ecosystem producing pure Tussar, Katia, Ghicha, and Mulberry silk sarees, stoles, and export fabrics, engaging tens of thousands of traditional weavers in clusters like Nathnagar and Champanagar.\n- **Heavy Industry & Power:** Houses the massive **NTPC Kahalgaon Super Thermal Power Station (2,340 MW)**, one of National Thermal Power Corporation's flagship coal-fired power generating complexes supplying electricity across eastern India.\n- **Commercial & Educational Gateway:** Acts as the primary commercial distribution hub, wholesale marketplace, and higher education center for eastern Bihar and the Santhal Parganas region of Jharkhand.",
+      "hi": "भागलपुर की अर्थव्यवस्था **विश्वप्रसिद्ध रेशम हथकरघा उद्योग**, **सामरिक ताप विद्युत उत्पादन**, **उन्नत कृषि-बागवानी** और **व्यापारिक वितरण** का एक अनूठा संगम प्रस्तुत करती है।\n\n- **भारत की रेशम राजधानी:** देश भर में *सिल्क सिटी* के रूप में विख्यात भागलपुर में सदियों से तसर, कतिया, घीचा और मलबरी सिल्क के वस्त्रों का निर्माण होता आ रहा है। नाथनगर, चम्पानगर और पुरैनी के बुनकर क्लस्टर लाखों लोगों को प्रत्यक्ष एवं अप्रत्यक्ष आजीविका प्रदान करते हैं।\n- **भारी उद्योग एवं विद्युत उत्पादन:** कहलगांव में स्थापित **एनटीपीसी (NTPC) कहलगांव सुपर थर्मल पावर स्टेशन (2,340 मेगावाट)** पूर्वी भारत के सबसे बड़े ताप विद्युत संयंत्रों में से एक है, जो कई राज्यों को निर्बाध विद्युत आपूर्ति करता है।\n- **व्यापारिक एवं शैक्षणिक केंद्र:** भागलपुर पूर्वी बिहार और झारखंड के संथाल परगना प्रमंडल के लिए सबसे बड़ा थोक व्यापारिक, चिकित्सीय और उच्च शैक्षणिक केंद्र है।"
+    },
+    "majorIndustries": {
+      "en": "- Silk Handlooms & Powerlooms (Tussar, Mulberry, Ghicha, Matka silk fabrics & sarees)\n- Thermal Power Generation (NTPC Kahalgaon Super Thermal Power Station - 2,340 MW)\n- Agro-Processing (Rice mills, pulse processing units, maize storage, cold storage chains)\n- Handcrafted Manjusha Art & Folk Crafts\n- Food Processing (Katarni Rice packaging and Zardalu Mango export logistics)",
+      "hi": "- रेशम हथकरघा एवं पावरलूम उद्योग (तसर, मलबरी, घीचा एवं मटका सिल्क साड़ियां व वस्त्र)\n- ताप विद्युत उत्पादन (एनटीपीसी कहलगांव सुपर थर्मल पावर स्टेशन - 2,340 मेगावाट)\n- कृषि आधारित प्रसंस्करण (आधुनिक चावल मिलें, मक्का गोदाम, दाल मिलें, कोल्ड स्टोरेज श्रृंखला)\n- मंजूषा लोक कला एवं हस्तशिल्प उत्पाद निर्माण\n- खाद्य प्रसंस्करण (जीआई कतरनी चावल पैकेजिंग एवं जर्दालू आम निर्यात उद्योग)"
+    }
+  },
+  "agriculture": {
+    "description": {
+      "en": "Agriculture constitutes the bedrock of Bhagalpur's rural economy, supported by exceptionally fertile alluvial soils, expansive canal networks, and the water-rich floodplains of the Ganga and Kosi.\n\n- **GI-Tagged Agronomic Jewels:** Bhagalpur is celebrated nationally for two prestigious Geographical Indication (GI) products: the delicately scented, easily digestible **Katarni Chawal (Rice)** grown in Jagdishpur and adjacent blocks, and the luscious, aromatic **Bhagalpuri Zardalu Aam (Mango)** cherished for its paper-thin skin and heavenly sweetness.\n- **Banana & Maize Hub of Bihar:** The northern subdivision of **Naugachia** is acclaimed as the undisputed 'Banana Bowl of Bihar', cultivating thousands of hectares of high-grade Malbhog and Robusta bananas alongside record-breaking hybrid maize yields.\n- **Pioneering Agricultural Research:** Sabour houses the historic **Bihar Agricultural University (BAU)**, founded as the Bengal Agricultural College in 1908, leading eastern India's agronomic innovations and seed technology.",
+      "hi": "कृषि भागलपुर की ग्रामीण अर्थव्यवस्था की रीढ़ है, जिसे गंगा और कोसी के उपजाऊ कछारी मैदानों, दोमट मिट्टी और नलकूप व नहर सिंचाई का भरपूर संबल प्राप्त है।\n\n- **जीआई टैग प्राप्त गौरव:** भागलपुर को दो प्रतिष्ठित जीआई उत्पादों का गौरव प्राप्त है—पहला, अपनी मनमोहक सुगंध और स्वाद के लिए प्रसिद्ध **कतरनी चावल**, जो जगदीशपुर और आसपास के क्षेत्रों में उपजाया जाता है; तथा दूसरा, अत्यंत मीठा, पतले छिलके वाला सुगंधित **भागलपुरी जर्दालू आम**, जिसे राष्ट्रपति और प्रधानमंत्री सहित देश के विशिष्ट अतिथियों को सौगात के रूप में भेजा जाता है।\n- **बिहार का केला एवं मक्का हब:** जिले का उत्तरी अनुमंडल **नवगछिया** पूरे बिहार में 'केले का कटोरा' माना जाता है, जहाँ मालभोग और रोबस्टा किस्म के केले तथा उच्च पैदावार वाले संकर मक्के की रिकॉर्ड खेती होती है।\n- **अग्रणी कृषि अनुसंधान:** सबौर में स्थित ऐतिहासिक **बिहार कृषि विश्वविद्यालय (BAU)**, जिसकी स्थापना 1908 में बंगाल एग्रीकल्चर कॉलेज के रूप में हुई थी, पूर्वी भारत में कृषि अनुसंधान, उन्नत बीज उत्पादन और बागवानी विकास का सर्वोच्च संस्थान है।"
+    },
+    "majorCrops": {
+      "en": "- Cereals: Paddy (including GI Katarni Chawal), Maize (extensive yields in Naugachia), Wheat, Barley\n- Pulses: Gram (Chana), Lentil (Masoor), Arhar, Moong\n- Fruits: Mango (GI Zardalu, Langra, Himsagar), Banana (Malbhog & Robusta varieties), Litchi, Guava\n- Commercial & Oilseeds: Mustard, Jute, Sugarcane, Sunflower, Seasonal vegetables",
+      "hi": "- खाद्यान्न: धान (विख्यात जीआई कतरनी चावल सहित), मक्का (नवगछिया में व्यापक उत्पादन), गेहूँ, जौ\n- दलहन: चना, मसूर, अरहर, मूँग\n- फल: आम (जीआई जर्दालू, लंगड़ा, हिमसागर), केला (मालभोग व रोबस्टा प्रजाति), लीची, अमरूद\n- नकदी व तिलहन: सरसों, जूट, गन्ना, सूरजमुखी एवं मौसमी हरी सब्जियां"
+    }
+  },
+  "culture": {
+    "festivals": {
+      "en": "- **Bihula-Bishahari Puja (Manjusha Mahotsav):** Celebrated uniquely in the Anga region during the month of Bhadrapada (August), venerating the serpent goddess Mansa and the folklore of Sati Bihula who navigated her dead husband Lakshmindar on a raft to heaven.\n- **Shravani Mela (Sultanganj):** A month-long spiritual phenomenon during July–August where millions of Kanwariyas collect holy *Uttarvahini* Ganga water to embark on the 105 km barefoot trek to Deoghar.\n- **Vikramshila Mahotsav:** An annual state-level cultural and heritage gala held at the ancient Antichak university ruins, showcasing classical Indian music, dance, and intellectual symposiums.\n- **Chhath Puja:** Celebrated with unmatched devotion along the majestic Ganga ghats of Bhagalpur, Sultanganj, and Kahalgaon.\n- **Vasupujya Janma Kalyanak:** Celebrated with spiritual grandeur at the ancient Digambara and Shvetambara shrines of Champapuri, drawing Jain pilgrims worldwide.",
+      "hi": "- **बिहुला-विषहरी पूजा (मंजूषा महोत्सव):** भाद्रपद माह (अगस्त) में अंग क्षेत्र का सर्वाधिक विशिष्ट लोकपर्व, जो नाग देवी मनसा (विषहरी) और पतिव्रता सती बिहुला के अमर प्रेम व त्याग को समर्पित है, जिसमें मंजूषा कला की अद्भुत झांकियां सजती हैं।\n- **श्रावणी मेला (सुल्तानगंज):** सावन माह (जुलाई-अगस्त) में आयोजित होने वाला विश्व का सबसे बड़ा धार्मिक समागम, जहाँ लाखों कांवरिये उत्तरवाहिनी गंगा से पवित्र जल भरकर देवघर ज्योतिर्लिंग हेतु 105 किमी की नंगे पांव पदयात्रा प्रारंभ करते हैं।\n- **विक्रमशिला महोत्सव:** कहलगांव के अंतीचक स्थित ऐतिहासिक बौद्ध महाविहार के खंडहरों में आयोजित होने वाला वार्षिक राज्य सांस्कृतिक उत्सव, जिसमें देश के जाने-माने शास्त्रीय संगीतकार और नर्तक प्रस्तुतियां देते हैं।\n- **छठ पूजा:** भागलपुर, सुल्तानगंज और कहलगांव के विशाल गंगा घाटों पर असीम श्रद्धा और शुचिता के साथ मनाया जाने वाला महापर्व।\n- **भगवान वासुपूज्य जन्म कल्याणक:** 12वें जैन तीर्थंकर की तपोभूमि चम्पानगर (चम्पापुरी) में दिगंबर और श्वेतांबर जैन समाज द्वारा आयोजित भव्य वार्षिक धार्मिक अनुष्ठान।"
+    },
+    "artAndCrafts": {
+      "en": "- **Manjusha Art (Manjusha Kala):** An ancient pictorial folk art distinctive to the Anga region, executed strictly in three ritual colors (pink, green, and yellow) depicting the serpent lore of Bihula and Mansa, granted Geographical Indication (GI) status.\n- **Bhagalpuri Tussar Silk Weaving:** Centuries-old handloom craft producing lustrous, textured sarees, dupattas, and fabrics woven from wild silkworm cocoons by master artisan communities.\n- **Stone Carvings & Rock-Cut Sculptures:** Living artisan traditions around Kahalgaon and Sultanganj reflecting classical Pala-period basalt stone carving and temple masonry.\n- **Bamboo & Sikki Grass Crafts:** Traditional rural household crafts fabricating decorative baskets, winnowing trays, and ritual artifacts from wild reeds.",
+      "hi": "- **मंजूषा कला (अंगिका लोक चित्रकला):** अंग क्षेत्र की अद्वितीय और प्राचीन रेखा-चित्रकला शैली, जो पारंपरिक रूप से केवल तीन रंगों—गुलाबी, हरा और पीला—में बनाई जाती है और बिहुला-विषहरी की लोककथा को दर्शाती है; इसे आधिकारिक जीआई टैग प्राप्त है।\n- **भागलपुरी तसर सिल्क बुनाई:** सदियों पुरानी विश्वविख्यात हथकरघा वस्त्र कला, जिसमें प्राकृतिक तसर कोकून से रेशमी धागा निकालकर अत्यंत कलात्मक साड़ियां, शॉल और वस्त्र बुने जाते हैं।\n- **शैल उत्कीर्णन एवं मूर्तिकला:** कहलगांव (बटेश्वर) और सुल्तानगंज के समीप पाल युगीन कसौटी पत्थर की मूर्तिकला की समृद्ध ऐतिहासिक व आधुनिक परंपरा।\n- **बांस एवं सिक्की हस्तशिल्प:** ग्रामीण कारीगरों द्वारा प्राकृतिक सुनहरी घास और बांस से सुंदर डलिया, पंखे और मांगलिक उपयोग की सजावटी वस्तुओं का निर्माण।"
+    },
+    "food": {
+      "en": "- **Bhagalpuri Katarni Chawal:** Renowned for its subtle natural floral aroma, soft grains, and exceptional taste, traditionally relished with rich dal and seasonal vegetables.\n- **Zardalu Mango Delicacy:** Succulent, fibreless golden mangoes revered for their unmatched fragrance and sweetness during summer months.\n- **Peda of Sultanganj & Kahalgaon:** Rich, caramelized milk confection sweetened to perfection, eagerly purchased by pilgrims and travelers.\n- **Litti Chokha:** Signature rustic charred wheat dumplings stuffed with spiced sattu, served with desi ghee, roasted eggplant mash (baingan bharta), and green chutney.\n- **Ghugni-Muri & Chuda-Dahi:** Popular regional breakfast combination of puffed rice or beaten flat rice served with spicy yellow chickpea curry and creamy earthen-pot curd.",
+      "hi": "- **भागलपुरी कतरनी भात:** प्राकृतिक भीनी-भीनी खुशबू और अत्यंत सुपाच्य गुणों से युक्त कतरनी चावल का भात, जो दाल, घी और चोखे के साथ अमृततुल्य माना जाता है।\n- **जर्दालू आम की मिठास:** ग्रीष्म ऋतु में मिलने वाला पतले छिलके और बिना रेशे वाला अत्यंत रसीला आम, जो अपनी अनुपम सुगंध से हर किसी को मुग्ध कर देता है।\n- **सुल्तानगंज और कहलगांव का पेड़ा:** शुद्ध मावे (खोया) को धीमी आंच पर भूनकर तैयार किया जाने वाला पारंपरिक स्वादिष्ट मिष्ठान्न, जिसे श्रद्धालु प्रसाद स्वरूप ग्रहण करते हैं।\n- **लिट्टी चोखा:** उपलों पर सेंकी गई सत्तू-भरी गेहूं की पारंपरिक लिट्टी, जिसे शुद्ध देसी घी में तर कर बैंगन-टमाटर के भुने चोखे के साथ परोसा जाता है।\n- **घुघनी-मुढ़ी एवं चूड़ा-दही:** अंग क्षेत्र का सबसे लोकप्रिय सुबह का नाश्ता, जिसमें तीखी चना घुघनी के साथ कुरमुरी मुढ़ी अथवा मिट्टी के कुल्हड़ के गाढ़े दही के साथ चूड़ा और गुड़ का स्वाद शामिल है।"
+    }
+  },
+  "transport": {
+    "road": {
+      "en": "Bhagalpur is strategically connected via major arterial highways. **National Highway 80 (NH-80)** traverses the district east-west from Mokama/Munger through Bhagalpur and Kahalgaon toward Mirza Cheuki and Jharkhand. Across the Ganga, **NH-31** runs through Naugachia connecting Barauni and Purnia/Assam. The iconic 4.2-km **Vikramshila Setu** connects southern Bhagalpur with the northern plains, supported by the ongoing construction of a parallel four-lane mega bridge and the Sultanganj-Aguwani Ghat bridge project. Regular state (BSRTC) and luxury private sleeper coaches link Bhagalpur to Patna (230 km), Kolkata (410 km), Ranchi, and Siliguri.",
+      "hi": "भागलपुर सड़क मार्ग द्वारा बिहार और पड़ोसी राज्यों से भली-भांति जुड़ा हुआ है। **राष्ट्रीय राजमार्ग 80 (NH-80)** जिले से होकर गुजरता है, जो मोकामा/मुंगेर से भागलपुर और कहलगांव होते हुए मिर्जा चौकी (झारखंड) तक जाता है। गंगा के उस पार **राष्ट्रीय राजमार्ग 31 (NH-31)** नवगछिया से होकर गुजरता है, जो बरौनी को पूर्णिया व पूर्वोत्तर भारत से जोड़ता है। गंगा पर निर्मित 4.2 किमी लंबा **विक्रमशिला सेतु** शहर को उत्तरी बिहार से जोड़ता है, जिसके समानांतर एक नए चार-लेन पुल तथा सुल्तानगंज-अगुवानी गंगा पुल का निर्माण कार्य प्रगति पर है। बिहार राज्य पथ परिवहन निगम (BSRTC) तथा निजी वोल्वो बसें पटना (230 किमी), कोलकाता (410 किमी), राँची और सिलीगुड़ी के लिए नियमित रूप से उपलब्ध हैं।"
+    },
+    "railway": {
+      "en": "The district is anchored by **Bhagalpur Junction (BGP)**, an 'A-1' category railway station under Eastern Railway (Malda Division), featuring direct high-speed and superfast connectivity to major metropolises including New Delhi (*Vikramshila Superfast Express*), Kolkata (*Howrah Vande Bharat Express* and *Kavi Guru Express*), Mumbai, Bengaluru, Surat, and Guwahati. Other pivotal stations include **Kahalgaon (CLG)**, **Sultanganj (SGG)**, and **Naugachia (NNA)** on the high-density Barauni-Katihar mainline.",
+      "hi": "जिला पूर्व रेलवे (मालदा मंडल) के प्रमुख 'A-1' श्रेणी रेलवे स्टेशन **भागलपुर जंक्शन (BGP)** द्वारा सीधे देश के रेल नेटवर्क से जुड़ा है। यहाँ से नई दिल्ली के लिए प्रतिष्ठित *विक्रमशिला सुपरफास्ट एक्सप्रेस*, कोलकाता के लिए *हावड़ा वंदे भारत एक्सप्रेस* व *कवि गुरु एक्सप्रेस*, तथा मुंबई, बेंगलुरु, सूरत और गुवाहाटी के लिए नियमित सुपरफास्ट ट्रेनें संचालित होती हैं। इसके अतिरिक्त **कहलगांव (CLG)**, **सुल्तानगंज (SGG)** तथा उत्तर में बरौनी-कटिहार रेलखंड पर स्थित **नवगछिया (NNA)** महत्वपूर्ण रेलवे स्टेशन हैं।"
+    },
+    "airport": {
+      "en": "Bhagalpur maintains a domestic airstrip at Chunapur/Bhagalpur Airport used for government and charter operations. The nearest fully operational commercial passenger airport is **Deoghar International Airport (DGH)** in Jharkhand, located approximately 115 km south (reachable in 2.5 hours by road), offering daily direct domestic flights to Delhi, Kolkata, Mumbai, and Bengaluru. Alternatively, **Jay Prakash Narayan International Airport (PAT)** in Patna is situated 230 km to the west, and **Bagdogra International Airport (IXB)** lies 220 km to the northeast.",
+      "hi": "भागलपुर में वीआईपी एवं चार्टर उड़ानों हेतु एक हवाई पट्टी (हवाई अड्डा) उपलब्ध है। वाणिज्यिक उड़ानों के लिए सबसे नजदीकी चालू हवाई अड्डा झारखंड स्थित **देवघर अंतरराष्ट्रीय हवाई अड्डा (DGH)** है, जो सड़क मार्ग से मात्र 115 किमी (लगभग 2.5 घंटे) की दूरी पर स्थित है और दिल्ली, कोलकाता, मुंबई तथा बेंगलुरु से सीधी उड़ानों द्वारा जुड़ा है। इसके अलावा 230 किमी पश्चिम में पटना स्थित **जयप्रकाश नारायण अंतरराष्ट्रीय हवाई अड्डा (PAT)** तथा 220 किमी उत्तर-पूर्व में **बागडोगरा हवाई अड्डा (IXB)** अन्य प्रमुख विकल्प हैं।"
+    }
+  },
+  "importantPersonalities": [
+    {
+      "name": {
+        "en": "Baba Tilka Manjhi",
+        "hi": "बाबा तिलका मांझी"
+      },
+      "association": {
+        "en": "Legendary Santhal tribal freedom fighter and folk hero who spearheaded India's earliest armed indigenous rebellion against British tyranny in 1784, shooting Collector Cleveland before being executed at Bhagalpur in 1785; commemorated today by Tilka Manjhi Bhagalpur University (TMBU).",
+        "hi": "महान संथाली जनजातीय स्वतंत्रता सेनानी और लोकनायक, जिन्होंने 1784 में ब्रिटिश शोषण के खिलाफ देश के पहले सशस्त्र विद्रोह का नेतृत्व किया और अत्याचारी कलेक्टर क्लीवलैंड को मार गिराया; उनकी स्मृति में तिलका मांझी भागलपुर विश्वविद्यालय (TMBU) का नामकरण किया गया है।"
+      }
+    },
+    {
+      "name": {
+        "en": "Emperor Dharmapala",
+        "hi": "सम्राट धर्मपाल"
+      },
+      "association": {
+        "en": "Illustrious 8th-century Buddhist monarch of the Pala Empire who founded the monumental Vikramshila Mahavihara at Antichak (Kahalgaon), elevating the region into ancient Asia's premier university for Buddhist logic and Tantric philosophy.",
+        "hi": "पाल राजवंश के प्रतापी 8वीं शताब्दी के बौद्ध सम्राट, जिन्होंने कहलगांव के अंतीचक में विश्वप्रसिद्ध विक्रमशिला महाविहार की स्थापना की और इस क्षेत्र को प्राचीन एशिया में बौद्ध दर्शन का सर्वोच्च केंद्र बनाया।"
+      }
+    },
+    {
+      "name": {
+        "en": "Acharya Atisa Dipankara Srijnana",
+        "hi": "आचार्य अतिश दीपांकर श्रीज्ञान"
+      },
+      "association": {
+        "en": "Revered 10th-11th century Buddhist savant and supreme Chancellor of Vikramshila Mahavihara who traveled across the Himalayas to Tibet upon royal invitation, reviving and establishing the Kadampa lineage of Tibetan Buddhism.",
+        "hi": "10वीं-11वीं शताब्दी के महान बौद्ध दार्शनिक और विक्रमशिला महाविहार के कुलपति, जिन्होंने तिब्बती राजा के निमंत्रण पर हिमालय पार कर तिब्बत में बौद्ध धर्म का नवजागरण किया और कदम्पा परंपरा की नींव रखी।"
+      }
+    },
+    {
+      "name": {
+        "en": "Lord Vasupujya Swami",
+        "hi": "भगवान वासुपूज्य स्वामी"
+      },
+      "association": {
+        "en": "The 12th Tirthankara of Jainism, who experienced all five sacred auspicious milestones (Pancha Kalyanak: Garbha, Janma, Diksha, Kevala Jnana, and Moksha) in the ancient holy city of Champapuri (modern Champanagar in Bhagalpur).",
+        "hi": "जैन धर्म के 12वें तीर्थंकर, जिनके सभी पाँच पावन कल्याणक (गर्भ, जन्म, दीक्षा, केवलज्ञान और मोक्ष कल्याणक) भागलपुर स्थित प्राचीन तीर्थ नगरी चम्पापुरी (चम्पानगर) में संपन्न हुए।"
+      }
+    },
+    {
+      "name": {
+        "en": "King Karna (Daanveer Karna)",
+        "hi": "दानवीर कर्ण"
+      },
+      "association": {
+        "en": "Legendary Mahabharata monarch renowned for his peerless valor, chivalry, and unhesitating charity, who was crowned King of Anga with his royal citadel situated at ancient Champa (Karnagarh in modern Champanagar).",
+        "hi": "महाभारत के अमर महानायक, जिन्हें उनके अदम्य पराक्रम और दानवीरता के लिए जाना जाता है; वे प्राचीन अंग देश के राजा थे और उनका किला वर्तमान भागलपुर के चम्पानगर (कर्णगढ़) में स्थित था।"
+      }
+    },
+    {
+      "name": {
+        "en": "Kadambini Ganguly",
+        "hi": "डॉ. कादम्बिनी गांगुली"
+      },
+      "association": {
+        "en": "Born in Bhagalpur in 1861, she made history as one of the first two female graduates in the British Empire and the first female physician in South Asia to practice Western medicine, breaking historic gender barriers in Indian society.",
+        "hi": "1861 में भागलपुर में जन्मी भारत की पहली दो महिला स्नातकों में से एक और दक्षिण एशिया की पहली महिला एलोपैथिक चिकित्सक, जिन्होंने सामाजिक रूढ़ियों को तोड़कर भारतीय महिलाओं के लिए उच्च शिक्षा व चिकित्सा के द्वार खोले।"
+      }
+    },
+    {
+      "name": {
+        "en": "Sarat Chandra Chattopadhyay",
+        "hi": "शरतचंद्र चट्टोपाध्याय"
+      },
+      "association": {
+        "en": "One of India's greatest novelists, who spent his formative youth (nearly twenty years) living in Bhagalpur, where the local culture and landscapes profoundly inspired immortal literary masterpieces such as *Devdas*, *Srikanta*, and *Parineeta*.",
+        "hi": "भारतीय साहित्य के महान उपन्यासकार, जिन्होंने अपने जीवन के लगभग 20 महत्वपूर्ण वर्ष भागलपुर में बिताए; यहाँ के जनजीवन और परिवेश ने उनके अमर उपन्यासों जैसे *देवदास*, *श्रीकांत* और *परिणीता* की अमर रचनाओं को प्रेरित किया।"
+      }
+    },
+    {
+      "name": {
+        "en": "Ashok Kumar (Dadamoni)",
+        "hi": "अशोक कुमार (दादामुनि)"
+      },
+      "association": {
+        "en": "Legendary Dadasaheb Phalke Award-winning cinema icon born in Bhagalpur in 1911, universally celebrated as Indian cinema's first undisputed superstar who redefined naturalistic screen acting over six decades.",
+        "hi": "दादा साहेब फाल्के पुरस्कार से सम्मानित भारतीय सिनेमा के युगपुरुष और प्रथम सुपरस्टार, जिनका जन्म 1911 में भागलपुर में हुआ था; उन्होंने छह दशकों तक अपने स्वाभाविक अभिनय से भारतीय सिनेमा को नई दिशा दी।"
+      }
+    }
+  ],
+  "tourismIdentity": [
+    {
+      "en": "**The Silk City of India (Resham Nagari):** Nationally celebrated handloom epicenter producing exquisite GI-protected Bhagalpuri Tussar silk sarees and fabrics for over two centuries.",
+      "hi": "**भारत की रेशम नगरी (सिल्क सिटी):** दो शताब्दियों से अधिक समय से विश्वप्रसिद्ध जीआई-संरक्षित भागलपुरी तसर रेशम साड़ियों और वस्त्रों का निर्माण करने वाला देश का प्रमुख हथकरघा केंद्र।"
+    },
+    {
+      "en": "**Cradle of Vikramshila Mahavihara:** Colossal excavated red-brick terraced stupas and residential monasteries of ancient India's royal Buddhist university founded by Pala Emperor Dharmapala.",
+      "hi": "**विक्रमशिला महाविहार का प्राचीन ज्ञानपीठ:** पाल सम्राट धर्मपाल द्वारा स्थापित प्राचीन भारत के शाही बौद्ध विश्वविद्यालय के 100 एकड़ में फैले विशाल ईंट-निर्मित स्तूप और आवासीय विहार।"
+    },
+    {
+      "en": "**Spiritual Gateway of Kanwar Yatra (Ajgaibinath Dham):** Sacred granite island shrine in the north-flowing Ganga at Sultanganj, the revered origin point of the world's longest barefoot pilgrimage to Deoghar.",
+      "hi": "**कांवर यात्रा का पावन उद्गम (अजगैबीनाथ धाम):** सुल्तानगंज में उत्तरवाहिनी गंगा के मध्य शैलद्वीप पर स्थित प्राचीन स्वयंभू शिव मंदिर, जहाँ से देवघर हेतु विश्वप्रसिद्ध 105 किमी की पदयात्रा शुरू होती है।"
+    },
+    {
+      "en": "**Vikramshila Gangetic Dolphin Sanctuary:** India's only dedicated freshwater dolphin sanctuary spanning 60 km along the scenic Ganga, sheltering the endangered National Aquatic Animal (*Gangetic Dolphin*).",
+      "hi": "**विक्रमशिला गंगा डॉल्फ़िन अभयारण्य:** पवित्र गंगा में 60 किमी तक विस्तृत भारत का एकमात्र डॉल्फ़िन अभयारण्य, जो राष्ट्रीय जलीय जीव 'गंगा डॉल्फ़िन' (सोंस) का प्राकृतिक प्राकृतिक आवास है।"
+    },
+    {
+      "en": "**Epicenter of Manjusha Art & Angika Folklore:** The living birthplace of ancient GI-tagged Manjusha three-color scroll art, celebrating the heroic love story of Sati Bihula and serpent goddess Mansa.",
+      "hi": "**मंजूषा लोक कला एवं अंगिका संस्कृति का उद्गम:** मात्र तीन रंगों में उकेरी जाने वाली प्राचीन जीआई-टैग प्राप्त मंजूषा कला और सती बिहुला-विषहरी की अमर लोककथा का जीवंत सांस्कृतिक केंद्र।"
+    }
+  ],
+  "didYouKnow": [
+    {
+      "en": "Bhagalpur is home to the **Vikramshila Gangetic Dolphin Sanctuary**, established in 1991 across a 60-kilometer stretch of the River Ganga from Sultanganj to Kahalgaon—the only protected river sanctuary in all of Asia dedicated to conserving the blind, freshwater Gangetic Dolphin (*Platanista gangetica*).",
+      "hi": "भागलपुर में स्थित **विक्रमशिला गंगा डॉल्फ़िन अभयारण्य** एशिया का एकमात्र संरक्षित नदी अभयारण्य है, जो सुल्तानगंज से कहलगांव तक 60 किलोमीटर के गंगा प्रवाह में फैला है और भारत के राष्ट्रीय जलीय जीव 'गंगा डॉल्फ़िन' (गंगीय सोंस) के संरक्षण हेतु समर्पित है।"
+    },
+    {
+      "en": "In **1784**, more than seventy years before the 1857 Sepoy Mutiny, tribal revolutionary **Baba Tilka Manjhi** launched an armed insurrection against the British East India Company from the jungles of Bhagalpur, climbing a banyan tree and fatally shooting British collector Augustus Cleveland with a poisoned arrow.",
+      "hi": "1857 के प्रथम स्वतंत्रता संग्राम से 73 वर्ष पूर्व **1784 ईस्वी** में जनजातीय वीर **बाबा तिलका मांझी** ने भागलपुर के जंगलों से अंग्रेजों के विरुद्ध छापामार युद्ध छेड़ा था और बरगद के पेड़ पर चढ़कर अत्याचारी अंग्रेज कलेक्टर ऑगस्टस क्लीवलैंड को जहरीले तीर से मार गिराया था।"
+    },
+    {
+      "en": "**Manjusha Art**, one of India's earliest known sequential comic-style narrative folk painting traditions, is governed by a strict historic aesthetic code permitting exclusively three ritual colors: **pink** (signifying celebration and love), **green** (nature and vitality), and **yellow** (auspicious divinity).",
+      "hi": "अंग क्षेत्र की पारंपरिक **मंजूषा चित्रकला** भारत की सबसे प्राचीन चित्रात्मक कथा-चित्रण शैलियों में से एक है, जिसमें सख्त नियमों के तहत केवल तीन रंगों का प्रयोग होता है: **गुलाबी** (उल्लास और प्रेम), **हरा** (प्रकृति और जीवन), तथा **पीला** (मांगलिकता और देवत्व)।"
+    },
+    {
+      "en": "At Sultanganj, the holy River Ganga makes an exceptional geographic detour, flowing northward (*Uttarvahini Ganga*). In Vedic tradition, river waters coursing toward the Himalayas are believed to reverse karmic debts, which is why millions of Kanwariyas fetch water exclusively from this ghat to carry 105 km barefoot to Baba Baidyanath at Deoghar.",
+      "hi": "सुल्तानगंज में गंगा नदी एक दुर्लभ भौगोलिक मोड़ लेते हुए दक्षिण से उत्तर की ओर बहती है, जिसे **'उत्तरवाहिनी गंगा'** कहा जाता है। सनातन मान्यता के अनुसार हिमालय की ओर बहने वाली गंगा का जल समस्त पापों और कर्म-बंधनों से मुक्ति दिलाता है, इसीलिए करोड़ों कांवरिये इसी घाट से जल भरकर देवघर ले जाते हैं।"
+    },
+    {
+      "en": "The renowned novelist **Sarat Chandra Chattopadhyay** wrote large sections of his celebrated novel *Srikanta* while residing in Bhagalpur's Khanjarpur neighborhood; his beloved characters **Devdas** and **Paro** were reportedly inspired by real people he closely observed in this historic city.",
+      "hi": "महान कथाशिल्पी **शरतचंद्र चट्टोपाध्याय** ने अपने प्रसिद्ध उपन्यास *श्रीकांत* का बड़ा हिस्सा भागलपुर के खंजरपुर मुहल्ले में रहकर लिखा था; उनके अमर उपन्यास *देवदास* के पात्र देवदास और पारो भी भागलपुर प्रवास के दौरान उनके अनुभवों और वास्तविक संपर्कों से प्रेरित माने जाते हैं।"
+    },
+    {
+      "en": "Bhagalpur's celebrated **Zardalu Mango** and **Katarni Chawal** both hold prestigious Geographical Indication (GI) tags; since 2007, special gift consignments of Bhagalpuri Zardalu mangoes have been sent annually by the Bihar Government as royal seasonal gifts to the President and Prime Minister of India.",
+      "hi": "भागलपुर के प्रसिद्ध **जर्दालू आम** और **कतरनी चावल** दोनों को आधिकारिक जीआई टैग प्राप्त है; वर्ष 2007 से प्रतिवर्ष बिहार सरकार द्वारा भागलपुर के चयनित बागों से विशेष उपहार स्वरूप जर्दालू आम भारत के महामहिम राष्ट्रपति और प्रधानमंत्री को भेजे जाते हैं।"
+    }
+  ],
+  "sources": [
+    {
+      "title": "District Census Handbook: Bhagalpur (Series-11, Part XII-A & B)",
+      "organization": "Directorate of Census Operations, Bihar, Ministry of Home Affairs, Government of India",
+      "url": "https://censusindia.gov.in/census.website/data/census-tables",
+      "year": 2011
+    },
+    {
+      "title": "Official Portal of Bhagalpur District Administration",
+      "organization": "District Administration Bhagalpur, Government of Bihar",
+      "url": "https://bhagalpur.nic.in",
+      "year": 2024
+    },
+    {
+      "title": "Vikramshila Ruins Archaeological Excavation & Site Museum Profile",
+      "organization": "Archaeological Survey of India (ASI), Ministry of Culture, Government of India",
+      "url": "https://asi.nic.in",
+      "year": 2023
+    },
+    {
+      "title": "Geographical Indications Registry - Bhagalpur Silk, Katarni Rice, Zardalu Mango & Manjusha Art",
+      "organization": "Intellectual Property India, Ministry of Commerce and Industry, Government of India",
+      "url": "https://ipindia.gov.in",
+      "year": 2018
+    },
+    {
+      "title": "Bihar Tourism - Bhagalpur District & Circuit Destination Profiles",
+      "organization": "Bihar State Tourism Development Corporation (BSTDC), Department of Tourism, Government of Bihar",
+      "url": "https://tourism.bihar.gov.in",
+      "year": 2024
+    },
+    {
+      "title": "Vikramshila Gangetic Dolphin Sanctuary Management Plan",
+      "organization": "Department of Environment, Forest and Climate Change, Government of Bihar",
+      "url": "https://forest.bihar.gov.in",
+      "year": 2022
+    }
+  ]
+}

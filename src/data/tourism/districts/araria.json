@@ -1,0 +1,386 @@
+{
+  "id": "araria",
+  "slug": "araria",
+  "name": {
+    "en": "Araria",
+    "hi": "अररिया"
+  },
+  "division": "Purnia",
+  "description": {
+    "en": "Verdant northeastern border district of Bihar along the sub-Himalayan Terai, revered as the literary home of Phanishwar Nath 'Renu' and renowned for the 152-foot Maa Khadgeshwari Kali Temple, Bihar's first Biodiversity Park at Kusiargaon, golden jute fields, and panoramic distant views of Mount Kanchenjunga.",
+    "hi": "उप-हिमालयी तराई के कछार में बसा उत्तर-पूर्वी सीमावर्ती जनपद, जो अमर कथाशिल्पी फणीश्वर नाथ 'रेणु' की साहित्यिक तपोभूमि, 152 फीट ऊंचे माँ खड्गेश्वरी काली मंदिर, बिहार के प्रथम जैव विविधता पार्क (कुशियारगांव), लहलहाते स्वर्णिम जूट के खेतों और कंचनजंगा के विहंगम दृश्यों के लिए विख्यात है।"
+  },
+  "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1200&auto=format&fit=crop",
+  "coordinates": {
+    "latitude": 26.1511,
+    "longitude": 87.4984
+  },
+  "tourismThemes": [
+    "eco_tourism",
+    "nature_and_wildlife",
+    "literary_heritage",
+    "spiritual_and_pilgrimage",
+    "rural_and_agricultural_tourism",
+    "cross_border_trade"
+  ],
+  "religiousAssociations": [
+    "hinduism",
+    "shaktism",
+    "islam"
+  ],
+  "placeIds": [
+    "bio-diversity-park",
+    "khadgeshwari-kali-mandir",
+    "raniganj-vriksh-vatika"
+  ],
+  "featuredPlaceIds": [
+    "bio-diversity-park",
+    "khadgeshwari-kali-mandir",
+    "raniganj-vriksh-vatika"
+  ],
+  "nearbyDistrictIds": [
+    "purnia",
+    "kishanganj",
+    "supaul",
+    "madhepura",
+    "katihar"
+  ],
+  "overview": {
+    "en": "Situated in the verdant northeastern frontier of Bihar within the historic Purnia division, **Araria** is an enchanting borderland district where the sub-Himalayan Terai plains meet the fertile riparian basins of the Kosi and Mahananda river systems. Flanked by Nepal to its north along the bustling international corridor of Jogbani, the district commands a strategic geopolitical position while preserving a tranquil agrarian ethos. Celebrated in Indian literary history as the birthplace of legendary Hindi novelist **Phanishwar Nath 'Renu'**—the pioneer of regional fiction (*Aanchalik Upanyas*) whose masterpieces immortalized this rural expanse—Araria possesses a unique cultural resonance.\n\nEndowed with rich alluvial soils, the district stands as a primary powerhouse of the 'Golden Fibre' (Jute), hybrid maize, and pristine aquatic makhana cultivation. On crisp winter mornings, travelers are often treated to the breathtaking distant panorama of the snow-crowned **Mount Kanchenjunga** towering against azure skies. From the divine 152-foot spire of the **Maa Khadgeshwari Kali Mandir** to the lush arboreal wonders of **Raniganj Vriksh Vatika** and Bihar's very first **Kusiargaon Bio Diversity Park**, Araria offers an immersive sanctuary of eco-tourism, spiritual reverence, and warm Seemanchal hospitality.",
+    "hi": "उत्तर-पूर्वी बिहार के सीमांचल अंचल में पूर्णिया प्रमंडल के अंतर्गत स्थित **अररिया** एक ऐतिहासिक, प्राकृतिक एवं सांस्कृतिक रूप से समृद्ध सीमावर्ती जनपद है। उत्तर दिशा में नेपाल की अंतरराष्ट्रीय सीमा (जोगबनी चेकपोस्ट) से सटा यह भूभाग उप-हिमालयी तराई और कोसी-महानंदा बेसिन के उर्वर मैदानों का संगम स्थल है। स्वच्छ एवं मनोरम शीतकालीन प्रभात में यहाँ से क्षितिज पर चमकती विश्व की तीसरी सबसे ऊंची पर्वत चोटी **कंचनजंगा** का विहंगम दृश्य दिखाई देता है, जो पर्यटकों के लिए एक अविस्मरणीय अनुभव है।\n\nसाहित्यिक जगत में अररिया को हिंदी के अमर कथाशिल्पी और आंचलिक उपन्यासों के जनक **फणीश्वर नाथ 'रेणु'** की पावन जन्मभूमि (*औराही हिंगना*) होने का अप्रतिम गौरव प्राप्त है। यह जनपद 'स्वर्ण रेशा' (जूट), रिकॉर्ड मक्का उत्पादन और पोखरों में लहलहाते मखाने की खेती के लिए देश भर में प्रसिद्ध है। एशिया के सबसे ऊंचे महाकाली मंदिरों में शुमार 152 फीट ऊंचा **माँ खड्गेश्वरी काली मंदिर**, बिहार का प्रथम **कुशियारगांव जैव विविधता पार्क** और 289 एकड़ में विस्तृत **रानीगंज वृक्ष वाटिका** जिले को पर्यावरण एवं आध्यात्मिक पर्यटन का एक विशिष्ट केंद्र बनाते हैं। ठेठ सीमांचल का आत्मीय सत्कार और स्वादिष्ट 'भक्का' का स्वाद हर आगंतुक के मन को मोह लेता है।"
+  },
+  "history": {
+    "en": "The chronicles of **Araria** reflect a rich progression from ancient epic lore to modern nationhood and literary renaissance:\n\n- **Ancient & Epic Roots**: In ancient times, the territory was enveloped within the vast alluvial hinterlands of the Paundra and Anga realms. The *Mahabharata* (Sabha Parva and Vana Parva) recounts that during the eastern conquest (*Digvijaya*), Pandava prince Bhima marched through these fertile floodplains bordering the Kirata and Matsya regions along the Himalayan foothills.\n- **Etymological Origins & The Forbes Era**: The modern name 'Araria' traces back to the British colonial period. British municipal official and indigo planter **Alexander John Forbes** established his administrative bungalow in the locality. The surrounding precinct was designated in revenue records as the **'Residential Area'** or **'R. Area'**, which locals phonetically adapted into **'Araria'**. The bustling commercial town of **Forbesganj** was similarly founded and named in his honor.\n- **Freedom Movement**: During the First War of Independence in **1857**, the region witnessed armed confrontations near Nathpur between local insurgent troops and colonial forces led by Commissioner Yule. In the 1930s and during the **1942 Quit India Movement**, patriotic leaders such as Ramlal Mandal, Raghuvir Mandal, and Kamlanand Vishwas spearheaded fierce civil resistance across Narpatganj and Kuari.\n- **Literary Crucible & District Reorganization**: Araria gave birth to **Phanishwar Nath 'Renu'** (1921–1977) at Aurahi Hingna. His magnum opus *Maila Anchal* (1954) pioneered the *Aanchalik* (regional) literary movement in India. Administratively administered as a subdivision of Purnea since 1964, Araria was formally carved out as an independent district on **14 January 1990**.",
+    "hi": "**अररिया का इतिहास** पौराणिक आख्यानों से लेकर स्वाधीनता संग्राम और आधुनिक हिंदी साहित्य के स्वर्ण युग तक विस्तृत है:\n\n- **पौराणिक एवं प्राचीन पृष्ठभूमि**: प्राचीन काल में यह भूभाग पौंड्र, अंग और मत्स्य गणराज्यों के सीमांत क्षेत्र में अवस्थित था। *महाभारत* के सभा पर्व एवं वन पर्व में उल्लेख मिलता है कि पांडु पुत्र भीम ने अपने पूर्व दिशा के दिग्विजय अभियान के दौरान हिमालय की तराई और कोसी कछार के इस भूभाग से होकर प्रस्थान किया था।\n- **नामकरण एवं अलेक्जेंडर फोर्ब्स का प्रभाव**: जिले का आधुनिक नाम 'अररिया' ब्रिटिश औपनिवेशिक काल की एक रोचक भाषाई देन है। ईस्ट इंडिया कंपनी के अधिकारी और नील कोठी के स्वामी **अलेक्जेंडर जॉन फोर्ब्स** ने यहाँ अपना आवासीय बंगला बनाया था। प्रशासनिक पत्राचार में इस स्थान को **'रेजिडेंशियल एरिया' (Residential Area)** अथवा संक्षिप्त में **'आर. एरिया' (R. Area)** कहा गया, जो स्थानीय जनमानस के उच्चारण में अपभ्रंश होकर **'अररिया'** बन गया। उनके नाम पर ही प्रमुख व्यापारिक नगर **फारबिसगंज** बसाया गया।\n- **स्वतंत्रता संग्राम में योगदान**: **1857 के प्रथम स्वाधीनता संग्राम** के दौरान नाथपुर के निकट विद्रोहियों और कमिश्नर यूल की अंग्रेजी सेना के बीच ऐतिहासिक संघर्ष हुआ। 1930 के सविनय अवज्ञा आंदोलन और 1942 के भारत छोड़ो आंदोलन में नरपतगंज के रामलाल मंडल, कुआड़ी के रघुवीर मंडल और कमला नंद विश्वास जैसे स्वतंत्रता सेनानियों ने सीमावर्ती क्षेत्र में स्वाधीनता की अलख जगाई।\n- **साहित्यिक पुनर्जागरण एवं स्वतंत्र जिला गठन**: औराही हिंगना में जन्मे अमर साहित्यकार **फणीश्वर नाथ 'रेणु'** ने अपने विश्वविख्यात उपन्यास *'मैला आंचल'* (1954) और *'परती परिकथा'* के माध्यम से इस अंचल की माटी, लोकगीतों और संघर्षों को वैश्विक पटल पर अमर कर दिया। प्रशासनिक दृष्टि से 1964 में पूर्णिया का अनुमंडल बना यह क्षेत्र **14 जनवरी 1990** को एक स्वतंत्र जिले के रूप में अस्तित्व में आया।"
+  },
+  "geography": {
+    "location": {
+      "en": "Situated in the northeastern part of Bihar within the Purnia division, lying between 25°56' N to 26°35' N latitude and 87°02' E to 87°42' E longitude, bordering the foothills of the Himalayas and eastern Terai.",
+      "hi": "उत्तर-पूर्वी बिहार के पूर्णिया प्रमंडल में 25°56' से 26°35' उत्तरी अक्षांश तथा 87°02' से 87°42' पूर्वी देशांतर के मध्य हिमालय की तराई और सीमांचल के मैदान में स्थित।"
+    },
+    "areaSqKm": 2830,
+    "boundaries": {
+      "en": "Bounded by the international border of Nepal (Morang and Sunsari districts) to the north, Kishanganj district to the east, Purnia district to the south, and Supaul and Madhepura districts to the west.",
+      "hi": "उत्तर में नेपाल की अंतरराष्ट्रीय सीमा (मोरंग एवं सुनसरी जिले), पूर्व में किशनगंज जिला, दक्षिण में पूर्णिया जिला तथा पश्चिम में सुपौल एवं मधेपुरा जिले स्थित हैं।"
+    },
+    "physiography": {
+      "en": "Characterized by an exceptionally flat and gently sloping sub-Himalayan alluvial plain shaped by the dynamic drainage systems of the Kosi, Mahananda, and Panar basins. The terrain has an average elevation of 47 to 56 meters above sea level. Soils are predominantly fertile sandy-loam and clay-loam (*Khadar* in riverine floodplains and *Bangar* in uplands), interspersed with natural wetland depressions (*Chaurs*) ideal for makhana and jute retting.",
+      "hi": "भौगोलिक परिदृश्य अत्यंत समतल एवं मंद ढलान वाले उप-हिमालयी जलोढ़ मैदान से निर्मित है, जो कोसी, महानंदा और परमान-पनार बेसिन के निक्षेपों से बना है। समुद्र तल से इसकी औसत ऊंचाई 47 से 56 मीटर है। यहाँ की मिट्टी मुख्य रूप से उपजाऊ बलुई दोमट और मटियार है, जिसमें नदी तटीय नवीन खादर और आंतरिक बांगर मिट्टी शामिल है। जिले में प्रचुर प्राकृतिक जलमग्न गड्ढे (*चौर* एवं दलदली क्षेत्र) पाए जाते हैं जो मखाना उत्पादन और जूट गलाने के लिए आदर्श हैं।"
+    },
+    "climate": {
+      "en": "Humid subtropical monsoon climate influenced by proximity to the eastern Himalayas. Summers (April to June) are warm and humid with peak temperatures around 38°C–40°C. The monsoon season (late June to September) brings copious rainfall ranging from 1,300 mm to 1,600 mm, occasionally leading to seasonal riverine floods. Winters (November to February) are pleasantly cool and foggy, with minimum temperatures dropping to 7°C–9°C.",
+      "hi": "हिमालय की निकटता के कारण यहाँ नम उपोष्णकटिबंधीय मानसूनी जलवायु पाई जाती है। ग्रीष्म ऋतु (अप्रैल से जून) में तापमान 38°C से 40°C तक रहता है; वर्षा ऋतु (जून के अंत से सितंबर) में 1,300 से 1,600 मिमी तक प्रचुर वर्षा होती है, जिससे मौसमी नदियों में उफान आता है; जबकि शीत ऋतु (नवंबर से फरवरी) सुखद व कोहरेदार रहती है, जिसमें न्यूनतम तापमान 7°C से 9°C तक गिरता है।"
+    },
+    "rivers": [
+      {
+        "name": {
+          "en": "Parman River (Parmar)",
+          "hi": "परमान नदी (परमार)"
+        },
+        "description": {
+          "en": "Originating in the Himalayan foothills of southeastern Nepal, the Parman River flows south through Sikti and Araria blocks. Celebrated for its unique riparian ecology, it serves as a natural freshwater habitat for the endangered Gangetic Dolphin (*Platanista gangetica*).",
+          "hi": "नेपाल की दक्षिणी पहाड़ियों से निकलकर सिकटी और अररिया प्रखंडों में प्रवाहित होने वाली प्रमुख नदी। अपने विशिष्ट पारिस्थितिक तंत्र के लिए जानी जाने वाली यह नदी संकटापन्न गंगा डॉल्फिन (सोंस) के प्राकृतिक आवास के रूप में संरक्षित की जा रही है।"
+        }
+      },
+      {
+        "name": {
+          "en": "Bakra River",
+          "hi": "बकरा नदी"
+        },
+        "description": {
+          "en": "A dynamic and swift Himalayan-fed torrent flowing through Kursakanta, Sikti, and Jokihat. It carries substantial monsoon discharge from the Morang hills of Nepal and meets the Kankai/Panar river network, significantly influencing local agriculture.",
+          "hi": "नेपाल के मोरंग क्षेत्र से निकलकर कुरसाकांटा, सिकटी और जोकीहाट प्रखंडों से गुजरने वाली एक तीव्र गति वाली नदी। वर्षा ऋतु में यह भारी मात्रा में जल लाती है और आगे चलकर पनार-कंकई नदी तंत्र में मिल जाती है।"
+        }
+      },
+      {
+        "name": {
+          "en": "Panar River",
+          "hi": "पनार नदी"
+        },
+        "description": {
+          "en": "A prominent arterial river meandering through central Araria and Raniganj towards Purnia. It provides critical drainage for the central paddy and jute heartland while supporting inland freshwater fisheries.",
+          "hi": "अररिया के मध्य भाग और रानीगंज से होकर पूर्णिया की ओर प्रवाहित होने वाली जीवनदायिनी नदी। यह जिले के प्रमुख धान एवं जूट उत्पादक क्षेत्रों को जल प्रदान करती है तथा स्थानीय मत्स्य पालन का आधार है।"
+        }
+      },
+      {
+        "name": {
+          "en": "Kosi River Basin",
+          "hi": "कोसी नदी बेसिन"
+        },
+        "description": {
+          "en": "Flanking the western frontier of Araria near Narpatganj and Bhargama, the historic wandering courses of the Kosi have deposited fertile silts, creating productive maize and wheat farmlands.",
+          "hi": "नरपतगंज और भरगामा के समीप जिले की पश्चिमी सीमा को स्पर्श करने वाला कोसी नदी का प्राचीन कछार। कोसी द्वारा लाई गई उपजाऊ गाद ने इस क्षेत्र को उच्च पैदावार वाले मक्का और गेहूं के खेतों में तब्दील कर दिया है।"
+        }
+      },
+      {
+        "name": {
+          "en": "Ratwa River",
+          "hi": "रतवा नदी"
+        },
+        "description": {
+          "en": "An essential drainage stream in the eastern sector connecting to the Mahananda river basin, vital for flood alleviation and local irrigation across Palasi and Jokihat.",
+          "hi": "पूर्वी क्षेत्र की एक महत्वपूर्ण नदी जो महानंदा बेसिन से जुड़ी है। यह पलासी और जोकीहाट क्षेत्रों में जल निकासी, बाढ़ नियंत्रण और ग्रामीण कृषि के लिए उपयोगी है।"
+        }
+      },
+      {
+        "name": {
+          "en": "Suwara & Koli Rivers",
+          "hi": "सुवारा एवं कोली नदी"
+        },
+        "description": {
+          "en": "Seasonal tributaries winding through the northern agricultural plains, replenishing rural chaurs and supporting extensive monsoon paddy cultivation.",
+          "hi": "उत्तरी मैदानी इलाकों से होकर बहने वाली मौसमी जलधाराएं, जो वर्षा ऋतु में स्थानीय चौरों (जलाशयों) को भरकर धान की खेती में महत्वपूर्ण भूमिका निभाती हैं।"
+        }
+      }
+    ]
+  },
+  "demographics": {
+    "population": {
+      "value": 2811569,
+      "year": 2011,
+      "source": "Census of India 2011"
+    },
+    "density": {
+      "value": 993,
+      "year": 2011
+    },
+    "literacyRate": {
+      "value": 53.53,
+      "year": 2011
+    },
+    "sexRatio": {
+      "value": 921,
+      "year": 2011
+    }
+  },
+  "administration": {
+    "headquarters": {
+      "en": "Araria",
+      "hi": "अररिया"
+    },
+    "subdivisions": 2,
+    "blocks": 9,
+    "villages": 751,
+    "asOf": "2024"
+  },
+  "economy": {
+    "description": {
+      "en": "The economy of **Araria** is overwhelmingly agrarian, sustained by rich alluvial farmlands, abundant groundwater, and extensive wetland ecosystems. The district stands as one of India's premier hubs for **Jute ('The Golden Fibre')** cultivation and baling, feeding jute mills across Eastern India. In recent decades, Araria has emerged as a powerhouse in **hybrid maize** production, with high yields exported nationally for poultry feed and starch manufacturing. Commercial cultivation of **Makhana (Fox Nuts)** in natural chaurs has experienced substantial modernization. Additionally, because of its strategic geographical position along the India-Nepal frontier at **Jogbani**, the district functions as a pivotal international transit and logistics corridor, sustaining thriving cross-border trade, wholesale agricultural mandis in Forbesganj, and emerging food processing units.",
+      "hi": "**अररिया की अर्थव्यवस्था** मुख्य रूप से कृषि, जूट उद्योग और भारत-नेपाल सीमा व्यापार पर आधारित है। यह जिला भारत के प्रमुख **'स्वर्ण रेशा' (जूट/पटुआ)** उत्पादक क्षेत्रों में शुमार है, जहाँ से कच्चा जूट देश भर की जूट मिलों को आपूर्ति किया जाता है। पिछले कुछ दशकों में अररिया उच्च पैदावार वाले **संकर मक्का (हाइब्रिड कॉर्न)** के विशाल उत्पादन केंद्र के रूप में उभरा है, जिसका निर्यात पोल्ट्री दाना और स्टार्च उद्योगों के लिए किया जाता है। प्राकृतिक चौरों में **मखाना** की व्यावसायिक खेती और प्रसंस्करण तेजी से बढ़ रहा है। इसके अतिरिक्त, **जोगबनी** स्थित इंटीग्रेटेड चेक पोस्ट (ICP) के कारण यह जिला नेपाल के साथ होने वाले अंतरराष्ट्रीय आयात-निर्यात, लॉजिस्टिक्स और फारबिसगंज की विशाल थोक कृषि मंडियों का एक प्रमुख केंद्र है।"
+    },
+    "majorIndustries": {
+      "en": "- **Jute Processing & Baling**: Raw jute collection, processing, retting, and hydraulic baling presses supplying major textile mills in Kolkata and Bihar.\n- **Agro-Processing & Grain Milling**: Modern automated rice mills, high-capacity maize grading units, and flour mills.\n- **Makhana Processing**: Indigenous roasting, popping, and modern packaging clusters for organic fox nuts.\n- **Cross-Border Trade & Logistics**: Warehousing, clearing, forwarding, and trade commerce centered around the Jogbani Integrated Check Post (ICP).\n- **Forestry & Plywood**: Timber processing, sawmills, and bamboo craft manufacturing.\n- **Rural Cottage Crafts**: Sikki grass weaving, traditional Kantha embroidery, and handcrafted terracotta pottery.",
+      "hi": "- **जूट प्रसंस्करण एवं बेलिंग उद्योग**: कच्चे जूट की ग्रेडिंग, बेलिंग प्रेस और जूट आधारित उत्पादों का निर्माण, जो कोलकाता और देश के अन्य हिस्सों में आपूर्ति किए जाते हैं।\n- **कृषि प्रसंस्करण एवं अनाज मिलें**: आधुनिक स्वचालित राइस मिलें, उच्च क्षमता वाले मक्का ग्रेडिंग एवं सुखाने के संयंत्र और फ्लोर मिलें।\n- **मखाना प्रसंस्करण**: पारंपरिक लावा भूनने की इकाइयाँ एवं आधुनिक मखाना ग्रेडिंग व पैकेजिंग क्लस्टर।\n- **अंतरराष्ट्रीय सीमा व्यापार एवं लॉजिस्टिक्स**: जोगबनी आईसीपी (Integrated Check Post) के माध्यम से वेयरहाउसिंग, कस्टम क्लीयरेंस और थोक व्यापार।\n- **काष्ठ एवं प्लाईवुड उद्योग**: तराई के प्रकाष्ठ पर आधारित आरा मिलें, प्लाईवुड इकाइयां और बांस उत्पाद।\n- **कुटीर एवं हस्तशिल्प उद्योग**: सिक्की घास के कलात्मक उत्पाद, कांथा कढ़ाई और मिट्टी के बर्तन।"
+    }
+  },
+  "agriculture": {
+    "description": {
+      "en": "Agriculture is the lifeblood of Araria, engaging over 75% of its workforce. Endowed with fertile alluvial soil and an extensive network of rivers and natural depressions (*chaurs*), the district enjoys excellent multi-cropping potential. While the Kharif season is traditionally dominated by paddy and jute, the Rabi season has witnessed a major green revolution with extensive cultivation of high-yielding hybrid maize and wheat. Araria is also part of the specialized Mithila-Seemanchal Makhana belt, producing pristine organic gorgon nuts in perennial ponds. Plentiful rainfall and shallow groundwater tables support round-the-year cultivation of oilseeds, pulses, and riverbed horticultural produce.",
+      "hi": "कृषि अररिया जिले की आजीविका की रीढ़ है, जो लगभग 75% से अधिक कार्यबल को रोजगार प्रदान करती है। उपजाऊ जलोढ़ मिट्टी, प्रचुर भूजल और प्राकृतिक चौरों (जलाशयों) की उपलब्धता के कारण यहाँ बहुफसली खेती होती है। खरीफ मौसम में धान और जूट की व्यापक खेती होती है, जबकि रबी मौसम में संकर मक्का (हाइब्रिड मक्का) की बंपर पैदावार ने जिले को राज्य में एक विशिष्ट पहचान दिलाई है। इसके साथ ही अररिया मिथिला-सीमांचल मखाना बेल्ट का अभिन्न अंग है, जहाँ के तालाबों और चौरों में उत्तम गुणवत्ता वाले मखाने का उत्पादन होता है। अनुकूल जलवायु दलहन, तिलहन और मौसमी हरी सब्जियों की वर्ष भर पैदावार सुनिश्चित करती है।"
+    },
+    "majorCrops": {
+      "en": "- **Commercial & Cash Crops**: Jute (पटुआ/जूट - India's core golden fibre zone), Makhana (मखाना - Fox Nut/Gorgon Nut), Sugarcane (गन्ना).\n- **Cereal Grains**: Maize (मक्का - primary economic cash-cereal for both Rabi & Kharif), Paddy (धान - Aghani and Garma varieties), Wheat (गेहूं).\n- **Pulses**: Moong (मूंग - Green Gram), Masoor (मसूर - Lentil), Khesari, and Arhar (अरहर - Pigeon Pea).\n- **Oilseeds**: Mustard/Rapeseed (सरसों/तोरी) and Linseed (तीसी).\n- **Horticultural Produce**: Pointed Gourd (परवल), Patua Saag (जूट की कोमल पत्तियों का साग), Malbhog and Bombay Mangoes, Banana, Cauliflower, and Winter Vegetables.",
+      "hi": "- **व्यावसायिक एवं नकदी फसलें**: जूट (पटुआ - प्रमुख स्वर्ण रेशा), मखाना (तालाबों व चौरों में उत्पादित सुपरफूड), एवं गन्ना।\n- **प्रमुख खाद्यान्न**: मक्का (रबी व खरीफ की रिकॉर्ड पैदावार वाली मुख्य नकदी फसल), धान (अघनी एवं गरमा धान), एवं गेहूं।\n- **दलहन**: मूंग (जायद व खरीफ), मसूर, खेसारी, और अरहर।\n- **तिलहन**: सरसों, राई, तोरी और तीसी (अलसी)।\n- **बागवानी एवं मौसमी सब्जियाँ**: परवल, पाटुआ साग (नाली साग), मालदह व बंबई आम, केला, फूलगोभी, हरी मिर्च और नदी कछार की मौसमी सब्जियाँ।"
+    }
+  },
+  "culture": {
+    "festivals": {
+      "en": "- **Kali Puja & Diwali**: Celebrated with unmatched devotion across Araria, highlighted by the magnificent annual mela and night-long Tantric havans at the 152-foot Maa Khadgeshwari Kali Temple.\n- **Chhath Puja**: The grandest solar festival of Bihar, observed with divine austerity along the sanctified embankments of the Panar, Parman, and Bakra rivers.\n- **Eid-ul-Fitr & Eid-ul-Adha**: Celebrated with vibrant communal warmth, festive street bazars, and traditional hospitality across Araria, Jokihat, and Forbesganj.\n- **Renu Jayanti & Mela (March 4)**: An esteemed literary and cultural celebration held at Aurahi Hingna, bringing together renowned writers, theater artists, and folk performers honoring Phanishwar Nath 'Renu'.\n- **Durga Puja & Navratri**: Elaborate thematic puja pandals and clay iconography illuminate Forbesganj and Araria Sadar during Ashwin.\n- **Makar Sankranti**: Celebrated with holy river snan, traditional feast of Chuda-Dahi, Gur, and sesame tilkut.",
+      "hi": "- **काली पूजा एवं दीपावली**: जिले का सबसे भव्य धार्मिक उत्सव, जो 152 फीट ऊंचे माँ खड्गेश्वरी काली मंदिर में भव्य मेले, दीपदान और रात्रि जागरण के साथ अपार श्रद्धा से मनाया जाता है।\n- **छठ महापर्व**: परमान, पनार और बकरा नदियों के पावन तटों तथा ग्रामीण पोखरों पर लाखों व्रतियों द्वारा भगवान सूर्य को अर्घ्य अर्पण का महापर्व।\n- **ईद-उल-फितर एवं ईद-उल-अजहा**: अररिया, जोकीहाट और फारबिसगंज में आपसी भाईचारे, सेवइयों की मिठास और सजी-धजी मंडियों के साथ मनाया जाने वाला प्रमुख त्योहार।\n- **रेणु जयंती एवं मेला (4 मार्च)**: औराही हिंगना में अमर कथाकार फणीश्वर नाथ 'रेणु' की स्मृति में आयोजित होने वाला प्रतिष्ठित साहित्यिक-सांस्कृतिक उत्सव।\n- **दुर्गा पूजा**: आश्विन मास में फारबिसगंज और अररिया नगर में भव्य पंडालों और देवी दुर्गा की प्रतिमाओं की स्थापना के साथ उल्लासमय वातावरण।\n- **मकर संक्रांति**: पवित्र नदियों में स्नान, दान-पुण्य तथा चूड़ा-दही, गुड़ और तिलकुट का पारंपरिक सामूहिक भोज।"
+    },
+    "artAndCrafts": {
+      "en": "- **Jute & Golden Fibre Crafts**: Artisanal creation of woven wall hangings, braided floor mats, eco-friendly shopping bags, ropes, and ornamental tapestries.\n- **Sikki Grass Art**: Indigenous craft where rural women weave the golden-hued Sikki grass into ornamental storage baskets (*Pauti*), boxes, and decorative toys.\n- **Kantha & Sujani Embroidery**: Fine heritage quilting tradition where discarded cotton dhotis and sarees are transformed with colorful running stitches into narrative bedspreads (*Dohar*).\n- **Terracotta & Pottery**: Local potters shaping Chhath earthen stoves, Diwali diyas, storage pitchers, and ceremonial folk deities.\n- **Bamboo & Reed Craftsmanship**: Woven bamboo cane products including winnowing baskets (*Soop*), fishing traps (*Kumuk*), and agricultural screens.",
+      "hi": "- **जूट एवं स्वर्ण रेशा शिल्प**: कच्चे जूट के प्राकृतिक रेशों से निर्मित कलात्मक वॉल हैंगिंग, पायदान, दरियाँ, पर्यावरण-अनुकूल बैग और सजावटी सामान।\n- **सिक्की घास शिल्प**: ग्रामीण महिलाओं द्वारा प्राकृतिक रूप से उगने वाली सुनहरी सिक्की घास से पारंपरिक डिब्बे (*पौटी*), टोकरियाँ, कोस्टर और खिलौनों का कलात्मक निर्माण।\n- **कांथा एवं सुजनी कढ़ाई**: पुरानी सूती साड़ियों और धोतियों पर रंगीन धागों से लोककथाओं और प्राकृतिक दृश्यों को उकेरने वाली बारीक हस्तशिल्प कला।\n- **मृण्मूर्तियाँ एवं टेराकोटा शिल्प**: कुम्हारों द्वारा निर्मित छठ पूजा के चूल्हे, दीये, कलश और मांगलिक अवसरों के लिए देवी-देवताओं की कलात्मक मिट्टी की मूर्तियाँ।\n- **बांस एवं बेंत शिल्प**: स्थानीय बांस से तैयार किए जाने वाले दैनिक उपयोग के सामान जैसे सूप, डलिया, मछली पकड़ने के पारंपरिक उपकरण (*कुमुक*) और हस्तशिल्प।"
+    },
+    "food": {
+      "en": "- **Bhakka (भक्का)**: The undisputed winter soul food of Araria and Seemanchal; a delicate, pillowy steamed rice-flour cake served piping hot with fiery roasted tomato-coriander chutney, mustard paste, or sweet jaggery.\n- **Machh-Bhaat (माछ-भात)**: Freshly caught local river fish (such as Rohu, Katla, and Boari) cooked in a fragrant mustard and garlic gravy, paired with aromatic steaming rice.\n- **Patua Saag (पाटुआ / नाली साग)**: Tender young jute leaves cooked into a traditional soothing seasonal saag, uniquely cherished during monsoon months.\n- **Makhana Kheer & Roasted Makhana**: A royal dessert prepared by simmering puffed lotus seeds in thickened milk, sweetened with green cardamom and dry fruits.\n- **Chawal Pitha & Dal Pitha**: Steamed rice dumplings stuffed with spicy spiced chana dal or sweet khoya, especially savored during winter festivals.\n- **Sattu Drink & Litti**: Wholesome roasted gram flour drinks seasoned with green chili, roasted cumin, and black salt, alongside coal-roasted littis.",
+      "hi": "- **अररिया का प्रसिद्ध भक्का**: सीमांचल का सबसे लोकप्रिय शीतकालीन पारंपरिक व्यंजन; ताजे चावल के आटे को भाप में पकाकर बनाई जाने वाली स्पंजी व मुलायम टिक्की, जिसे तीखी भुनी टमाटर-धनिया चटनी, राई की चटनी या गुड़ के साथ गरमा-गरम परोसा जाता है।\n- **मिथिला-सीमांचल माछ-भात**: स्थानीय परमान, पनार और बकरा नदियों की ताजी रोहू अथवा कतला मछली को सरसों, लहसुन और मेथी के तीखे झोर (ग्रेवी) में तैयार कर गरमा-गरम भात के साथ खाने का पारंपरिक स्वाद।\n- **पाटुआ साग (नाली साग)**: जूट के कोमल पत्तों से बनने वाला पौष्टिक व सुपाच्य पारंपरिक साग, जो वर्षा ऋतु में सीमांचल के हर घर में बड़े चाव से बनाया जाता है।\n- **मखाना खीर एवं भुना मखाना**: शुद्ध दूध में केसर, मेवे और ताजे मखाने को धीमी आंच पर पकाकर बनाई जाने वाली समृद्ध खीर तथा घी में भुना नमकीन मखाना।\n- **दाल पीठा एवं खोया पीठा**: चावल के आटे में मसालेदार चने की दाल अथवा मीठे खोये को भरकर भाप में पकाया जाने वाला पारंपरिक बिहारी व्यंजन।\n- **सत्तू शरबत एवं लिट्टी**: भुने चने के सत्तू का नमकीन जीरा-युक्त शरबत तथा उपलों की आंच पर पकी सत्तू भरी लिट्टी।"
+    }
+  },
+  "transport": {
+    "road": {
+      "en": "- **National Highway 27 (NH-27 / East-West Corridor)**: A modern 4-lane high-speed expressway slicing through the district, connecting Araria to Forbesganj, Supaul, Darbhanga, and Muzaffarpur to the west, and Purnea, Kishanganj, Siliguri, and Guwahati to the east.\n- **National Highway 327E (NH-327E)**: Strategic northern lateral highway linking Forbesganj to Galgalia and Thakurganj near the Nepal-Bengal frontier.\n- **Jogbani International Border Route**: Four-lane access route linking directly to Biratnagar (Nepal) through the Integrated Check Post (ICP).\n- **BSRTC & Interstate Bus Services**: Continuous government and luxury sleeper bus operations connecting Araria to Patna, Siliguri, Kolkata, Bhagalpur, and Darbhanga.",
+      "hi": "- **राष्ट्रीय राजमार्ग 27 (NH-27 / ईस्ट-वेस्ट कॉरिडोर)**: जिले के मध्य से गुजरने वाला आधुनिक 4-लेन एक्सप्रेसवे, जो अररिया को पश्चिम में फारबिसगंज, सुपौल, दरभंगा और मुजफ्फरपुर से तथा पूर्व में पूर्णिया, किशनगंज, सिलीगुड़ी और गुवाहाटी से सीधे जोड़ता है।\n- **राष्ट्रीय राजमार्ग 327E (NH-327E)**: फारबिसगंज से गलगलिया और ठाकुरगंज को जोड़ने वाला सामरिक राजमार्ग, जो उत्तरी सीमांत क्षेत्र में सुगम आवागमन प्रदान करता है।\n- **जोगबनी अंतरराष्ट्रीय सीमा मार्ग**: इंटीग्रेटेड चेक पोस्ट (ICP) के माध्यम से नेपाल के प्रमुख औद्योगिक नगर विराटनगर को जोड़ने वाला सीधा 4-लेन सड़क संपर्क।\n- **बस सेवाएँ**: अररिया और फारबिसगंज बस स्टैंड से पटना, सिलीगुड़ी, कोलकाता, भागलपुर, पूर्णिया और रांची के लिए नियमित सरकारी (BSRTC) एवं निजी वोल्वो व स्लीपर बसें उपलब्ध हैं।"
+    },
+    "railway": {
+      "en": "- **Araria Court (ARQ) & Araria (ARR) Stations**: Well-connected stations on the Katihar–Purnia–Jogbani broad-gauge line under Northeast Frontier Railway (NFR).\n- **Forbesganj Junction (FBG)**: A pivotal railway junction connecting the Jogbani mainline with the newly gauge-converted Saharsa–Supaul–Saraigarh–Forbesganj line, reviving direct East-West North Bihar rail travel.\n- **Jogbani Railway Station (JBN)**: The prestigious international border rail terminus, originating premier long-distance trains including the Seemanchal Express (to Anand Vihar Terminal, New Delhi), Jogbani–Kolkata Express, and Jogbani–Siliguri Intercity.\n- **Express Rail Connectivity**: Daily direct express connections to Delhi, Kolkata, Patna, Katihar, and Guwahati.",
+      "hi": "- **अररिया कोर्ट (ARQ) एवं अररिया (ARR) स्टेशन**: पूर्वोत्तर सीमांत रेलवे (NFR) के कटिहार-पूर्णिया-जोगबनी ब्रॉडगेज रेलखंड पर स्थित महत्वपूर्ण स्टेशन।\n- **फारबिसगंज जंक्शन (FBG)**: जिले का प्रमुख जंक्शन स्टेशन, जो जोगबनी मेन लाइन को नव-आमान परिवर्तित सहरसा-सुपौल-सरायगढ़-फारबिसगंज रेललाइन से जोड़कर उत्तर बिहार में सीधा पूर्व-पश्चिम रेल संपर्क बहाल करता है।\n- **जोगबनी रेलवे स्टेशन (JBN)**: नेपाल सीमा पर स्थित प्रमुख टर्मिनल स्टेशन, जहाँ से सीमांचल एक्सप्रेस (आनंद विहार टर्मिनल, नई दिल्ली), जोगबनी-कोलकाता एक्सप्रेस, और जोगबनी-सिलीगुड़ी इंटरसिटी जैसी प्रतिष्ठित ट्रेनें संचालित होती हैं।\n- **सुपरफास्ट एवं मेल कनेक्टिविटी**: देश की राजधानी दिल्ली, कोलकाता, पटना, कटिहार और गुवाहाटी के लिए नियमित सीधी रेल सेवा उपलब्ध है।"
+    },
+    "airport": {
+      "en": "- **Darbhanga Airport (DBR)**: Located approximately 145 km west; reachable in ~2.5 to 3 hours via the 4-lane NH-27 East-West Corridor. Offers frequent direct commercial flights to Delhi, Mumbai, Bengaluru, and Kolkata.\n- **Bagdogra International Airport (IXB), Siliguri**: Located approximately 155 km northeast; reachable in ~3 to 3.5 hours via NH-27. Provides extensive domestic and international connections across India.\n- **Biratnagar Airport (BIR), Nepal**: Situated just ~15 km north across the Jogbani border; provides daily domestic flights to Kathmandu.\n- **Jay Prakash Narayan International Airport (PAT), Patna**: Located approximately 295 km southwest; accessible via rail or NH-27/NH-31 highway network.",
+      "hi": "- **दरभंगा हवाई अड्डा (DBR)**: लगभग 145 किमी पश्चिम में स्थित, 4-लेन NH-27 ईस्ट-वेस्ट कॉरिडोर द्वारा 2.5 से 3 घंटे में सुगम पहुंच; जहाँ से दिल्ली, मुंबई, बेंगलुरु और कोलकाता के लिए नियमित सीधी उड़ानें उपलब्ध हैं।\n- **बागडोगरा अंतर्राष्ट्रीय हवाई अड्डा (IXB), सिलीगुड़ी**: लगभग 155 किमी उत्तर-पूर्व में स्थित, NH-27 द्वारा 3 से 3.5 घंटे में पहुंच; जो पूर्वोत्तर भारत का प्रमुख विमानन केंद्र है।\n- **विराटनगर हवाई अड्डा (BIR), नेपाल**: जोगबनी सीमा से मात्र 15 किमी उत्तर में स्थित, जहाँ से काठमांडू के लिए नियमित घरेलू उड़ानें उपलब्ध हैं।\n- **जयप्रकाश नारायण अंतर्राष्ट्रीय हवाई अड्डा (PAT), पटना**: लगभग 295 किमी दक्षिण-पश्चिम में स्थित, सड़क अथवा रेल मार्ग द्वारा सुगम संपर्क।"
+    }
+  },
+  "importantPersonalities": [
+    {
+      "name": {
+        "en": "Phanishwar Nath 'Renu'",
+        "hi": "फणीश्वर नाथ 'रेणु'"
+      },
+      "association": {
+        "en": "Legendary Hindi novelist and short-story writer born on 4 March 1921 at Aurahi Hingna village near Forbesganj. Revered as the pioneer of the *Aanchalik Upanyas* (regional novel) genre in Hindi literature, his immortal masterpieces include *Maila Anchal* (1954), *Parti Parikatha*, and *Mare Gaye Gulfam* (adapted into the award-winning Hindi classic film *Teesri Kasam*). Awarded the Padma Shri in 1970.",
+        "hi": "हिंदी साहित्य के अमर कथाशिल्पी और आंचलिक उपन्यास के प्रवर्तक, जिनका जन्म 4 मार्च 1921 को फारबिसगंज के निकट औराही हिंगना गांव में हुआ था। उनके कालजयी उपन्यासों *'मैला आंचल'* (1954), *'परती परिकथा'* और कहानी *'मारे गए गुलफाम'* (जिस पर राज कपूर अभिनीत प्रसिद्ध फिल्म *'तीसरी कसम'* बनी) ने हिंदी साहित्य को वैश्विक पहचान दिलाई। उन्हें 1970 में पद्म श्री से सम्मानित किया गया था।"
+      }
+    },
+    {
+      "name": {
+        "en": "Alexander John Forbes",
+        "hi": "अलेक्जेंडर जॉन फोर्ब्स"
+      },
+      "association": {
+        "en": "British municipal official, adventurer, and entrepreneur whose residential bungalow and enclave gave rise to the name 'Araria' (derived phonetically from 'R. Area' or Residential Area). He also founded the commercial settlement that developed into the thriving border city of Forbesganj.",
+        "hi": "ब्रिटिश काल के अधिकारी और उद्यमी, जिनके आवासीय बंगले और परिक्षेत्र के नाम ('आर. एरिया' / Residential Area) के अपभ्रंश से 'अररिया' नाम की उत्पत्ति हुई। उन्होंने ही नेपाल सीमा के समीप व्यापारिक बस्ती की स्थापना की जो आगे चलकर 'फारबिसगंज' शहर बनी।"
+      }
+    },
+    {
+      "name": {
+        "en": "Subrata Roy",
+        "hi": "सुब्रत रॉय"
+      },
+      "association": {
+        "en": "Prominent Indian business magnate and founder of Sahara India Pariwar, born in Araria town on 10 June 1948 at his maternal home (*Nanihal*). He went on to build one of India's largest diversified business conglomerates spanning finance, infrastructure, media, and aviation.",
+        "hi": "भारत के प्रसिद्ध उद्योगपति एवं सहारा इंडिया परिवार के संस्थापक, जिनका जन्म 10 जून 1948 को अररिया नगर में अपने ननिहाल में हुआ था। उन्होंने वित्त, रियल एस्टेट, मीडिया और विमानन क्षेत्र में फैले देश के सबसे बड़े व्यावसायिक समूहों में से एक का निर्माण किया।"
+      }
+    },
+    {
+      "name": {
+        "en": "Swami Nanu Baba Ji Maharaj",
+        "hi": "स्वामी नानू बाबा जी महाराज"
+      },
+      "association": {
+        "en": "Venerated Tantric mystic, ascetic saint, and spiritual preceptor whose lifelong austerities (*Sadhana*) along the Panar river led to the spiritual consecration and construction of the magnificent 152-foot Maa Khadgeshwari Kali Temple in Araria town.",
+        "hi": "अररिया के परम पूज्य सिद्ध संत एवं तंत्र साधक, जिनकी कठोर साधना और तपोबल के संकल्प से अररिया नगर में एशिया के सबसे ऊंचे शक्ति मंदिरों में से एक 152 फीट ऊंचे माँ खड्गेश्वरी काली मंदिर की स्थापना हुई।"
+      }
+    },
+    {
+      "name": {
+        "en": "Ramlal Mandal",
+        "hi": "रामलाल मंडल"
+      },
+      "association": {
+        "en": "Renowned freedom fighter from Phulkaha (Narpatganj block) who spent over 11 years in British colonial prisons. A devoted associate of Mahatma Gandhi, he accompanied him during historical campaigns and inspired thousands of Seemanchal villagers to join the Satyagraha movement.",
+        "hi": "अररिया के नरपतगंज (फुलकाहा) के प्रमुख स्वतंत्रता सेनानी, जिन्होंने देश की आजादी के लिए 11 वर्ष से अधिक समय औपनिवेशिक जेलों में बिताया। वे महात्मा गांधी के निष्ठावान सहयोगी थे और उन्होंने सीमांचल के ग्रामीणों को सत्याग्रह आंदोलन से जोड़ा।"
+      }
+    },
+    {
+      "name": {
+        "en": "Raghuvir Mandal",
+        "hi": "रघुवीर मंडल"
+      },
+      "association": {
+        "en": "Heroic freedom fighter from the Kuari border belt who, inspired by the national movement, hoisted the Tricolor on 26 January 1932 facing brutal British crackdowns, becoming an enduring symbol of youth patriotism in north-eastern Bihar.",
+        "hi": "कुआड़ी सीमांत क्षेत्र के साहसी स्वतंत्रता सेनानी, जिन्होंने मात्र 19 वर्ष की आयु में 26 जनवरी 1932 को अंग्रेजों के दमन की परवाह किए बिना तिरंगा फहराया और सीमांचल के युवाओं में देशभक्ति की अलख जगाई।"
+      }
+    }
+  ],
+  "tourismIdentity": [
+    {
+      "en": "Literary Cradle of Hindi Fiction: Aurahi Hingna & Heritage of Phanishwar Nath 'Renu'",
+      "hi": "हिंदी कथा साहित्य की अमर जन्मभूमि: औराही हिंगना एवं फणीश्वर नाथ 'रेणु' की साहित्यिक विरासत"
+    },
+    {
+      "en": "Colossal Shakti Pilgrimage: The 152-Foot Spire of Maa Khadgeshwari Kali Mandir",
+      "hi": "विशाल शक्तिपीठ दर्शन: माँ खड्गेश्वरी काली मंदिर का 152 फीट ऊंचा गगनचुंबी शिखर"
+    },
+    {
+      "en": "Pioneering Eco-Sanctuary: Kusiargaon Bio Diversity Park (Bihar's First Biodiversity Park)",
+      "hi": "पर्यावरण एवं वनस्पति संरक्षण: कुशियारगांव जैव विविधता पार्क (बिहार का प्रथम जैव विविधता पार्क)"
+    },
+    {
+      "en": "Lush Arboreal Wilderness: The 289-Acre Raniganj Vriksh Vatika Nature Reserve",
+      "hi": "प्राकृतिक अरण्य एवं मृग विहार: 289 एकड़ में फैली मनोरम रानीगंज वृक्ष वाटिका"
+    },
+    {
+      "en": "Himalayan Vistas & Riverine Ecology: Kanchenjunga Horizons & Gangetic Dolphin Sanctuary",
+      "hi": "हिमालयी विहंगम दृश्य एवं नदी पारिस्थितिकी: कंचनजंगा के दर्शन एवं परमान नदी में गंगा डॉल्फिन"
+    },
+    {
+      "en": "Vibrant Border Trade & Culinary Soul: Jogbani ICP Gateway & Authentic Steamed Bhakka",
+      "hi": "अंतरराष्ट्रीय सीमांत संस्कृति एवं स्वादिष्ट स्वाद: जोगबनी व्यापार गलियारा एवं प्रसिद्ध गर्मागर्म भक्का"
+    }
+  ],
+  "didYouKnow": [
+    {
+      "en": "The name **Araria** originated from a British colonial abbreviation. When British official and planter **Alexander John Forbes** built his residential bungalow here in the 19th century, the cantonment zone was designated on official maps as the **'Residential Area'** or **'R. Area'**. In the colloquial dialect of local residents, 'R. Area' gradually morphed into 'Araria'.",
+      "hi": "**अररिया** नाम की उत्पत्ति ब्रिटिश औपनिवेशिक काल के एक संक्षिप्त नाम से हुई है। 19वीं शताब्दी में जब अंग्रेज अधिकारी व नील कोठी के स्वामी **अलेक्जेंडर जॉन फोर्ब्स** ने यहाँ अपना आवासीय बंगला बनाया, तो सरकारी दस्तावेजों में उस क्षेत्र को **'रेजिडेंशियल एरिया' (Residential Area)** या **'आर. एरिया' (R. Area)** दर्ज किया गया। स्थानीय लोगों के उच्चारण में यही 'आर. एरिया' धीरे-धीरे बदलकर **'अररिया'** बन गया।"
+    },
+    {
+      "en": "On crisp, exceptionally clear mornings during late autumn and winter (October to January), the majestic snow-capped peaks of **Mount Kanchenjunga**—the world's third highest mountain peak at 8,586 meters—are distinctly visible to the naked eye on the northern horizon from Araria and Forbesganj.",
+      "hi": "शरद और शीत ऋतु (अक्टूबर से जनवरी) के दौरान जब आसमान पूरी तरह साफ होता है, तो अररिया और फारबिसगंज के खुले मैदानों से उत्तर दिशा के क्षितिज पर विश्व की तीसरी सबसे ऊंची पर्वत चोटी **माउंट कंचनजंगा** (8,586 मीटर) की हिमाच्छादित चोटियां नग्न आंखों से स्पष्ट दिखाई देती हैं।"
+    },
+    {
+      "en": "Araria's **Kusiargaon Bio Diversity Park**, spanning 35 acres right along the 4-lane NH-27 (East-West Corridor), holds the proud official distinction of being the **very first dedicated biodiversity park developed in the state of Bihar** by the Department of Environment, Forest and Climate Change.",
+      "hi": "अररिया के कुशियारगांव में 4-लेन NH-27 (ईस्ट-वेस्ट कॉरिडोर) के किनारे 35 एकड़ में फैला **कुशियारगांव जैव विविधता पार्क** बिहार सरकार के पर्यावरण, वन एवं जलवायु परिवर्तन विभाग द्वारा स्थापित **संपूर्ण बिहार राज्य का पहला जैव विविधता पार्क** होने का ऐतिहासिक गौरव रखता है।"
+    },
+    {
+      "en": "The iconic town of **Jogbani** at the northern edge of Araria district is one of India's most crucial land ports bordering Nepal. It hosts a state-of-the-art **Integrated Check Post (ICP)** and broad-gauge railhead, facilitating billions in bilateral trade with Nepal's major industrial metropolis Biratnagar.",
+      "hi": "अररिया जिले के उत्तरी छोर पर स्थित **जोगबनी** भारत और नेपाल के बीच सबसे महत्वपूर्ण व्यापारिक और पारगमन द्वारों में से एक है। यहाँ एक अत्याधुनिक **इंटीग्रेटेड चेक पोस्ट (ICP)** और अंतरराष्ट्रीय रेलवे टर्मिनल स्थित है, जिसके माध्यम से नेपाल के प्रमुख औद्योगिक शहर विराटनगर के साथ दोनों देशों के बीच भारी व्यापारिक आवागमन होता है।"
+    },
+    {
+      "en": "The village of **Aurahi Hingna** in Araria is considered a revered literary pilgrimage destination in India. It is the birthplace of **Phanishwar Nath 'Renu'**, who forever revolutionized Hindi literature with his 1954 novel *Maila Anchal*, giving voice to rural dialects, folk songs, and the raw grassroots life of North Bihar.",
+      "hi": "अररिया जिले का **औराही हिंगना** गांव हिंदी साहित्य प्रेमियों के लिए एक पावन तीर्थ स्थल माना जाता है। यह महान कथाकार **फणीश्वर नाथ 'रेणु'** का पैतृक गांव है, जिन्होंने 1954 में प्रकाशित अपने अमर उपन्यास *'मैला आंचल'* के जरिए हिंदी कथा साहित्य में आंचलिकता के एक नए युग का सूत्रपात किया था।"
+    },
+    {
+      "en": "Araria is the culinary homeland of **Bhakka**, an ancient, wholesome steamed rice-flour cake originating from the indigenous Rajbanshi community. Cooked over special earthen steam pots and savored during chilly winter mornings with spicy roasted tomato chutney, it has become a cherished regional delicacy celebrating an annual 'Bhakka Day'.",
+      "hi": "अररिया सीमांचल के प्रसिद्ध पारंपरिक व्यंजन **'भक्का'** की प्रमुख कर्मभूमि है। स्थानीय राजवंशी समुदाय से उपजा यह सात्विक व्यंजन ताजे पिसे चावल के आटे से मिट्टी की हांडी की भाप में तैयार किया जाता है। सर्दियों के मौसम में भुनी हुई तीखी टमाटर-धनिया चटनी के साथ परोसे जाने वाले इस व्यंजन की लोकप्रियता के सम्मान में प्रतिवर्ष 'भक्का दिवस' भी मनाया जाता है।"
+    },
+    {
+      "en": "The majestic spire of **Maa Khadgeshwari Kali Mandir** in Araria town soars to a breathtaking height of **152 feet**, making it one of the tallest architectural Kali temples in entire Asia. It was consecrated under the spiritual guidance of the Himalayan ascetic Swami Nanu Baba.",
+      "hi": "अररिया शहर में स्थित **माँ खड्गेश्वरी काली मंदिर** का भव्य नागर-द्रविड़ शैली का शिखर **152 फीट** की ऊंचाई तक जाता है, जो इसे संपूर्ण एशिया महाद्वीप के सबसे ऊंचे महाकाली मंदिरों में शामिल करता है। इस भव्य धाम की प्राण-प्रतिष्ठा सिद्ध तपस्वी स्वामी नानू बाबा के सानिध्य में संपन्न हुई थी।"
+    }
+  ],
+  "sources": [
+    {
+      "title": "District Official Portal of Araria",
+      "organization": "District Administration Araria, Government of Bihar",
+      "url": "https://araria.nic.in",
+      "year": 2024
+    },
+    {
+      "title": "District Census Handbook: Araria (Census of India 2011, Series 11, Part XII-A & B)",
+      "organization": "Directorate of Census Operations, Bihar, Ministry of Home Affairs, Government of India",
+      "url": "https://censusindia.gov.in",
+      "year": 2011
+    },
+    {
+      "title": "Araria Eco-Tourism & Bio Diversity Park Profile",
+      "organization": "Department of Environment, Forest and Climate Change, Government of Bihar",
+      "url": "https://forest.bih.nic.in",
+      "year": 2024
+    },
+    {
+      "title": "Comprehensive District Agricultural Plan (CDAP): Araria",
+      "organization": "Department of Agriculture, Government of Bihar",
+      "url": "https://state.bihar.gov.in/krishi",
+      "year": 2023
+    },
+    {
+      "title": "Bihar Tourism Official Portal - Araria Tourist Destinations",
+      "organization": "Bihar State Tourism Development Corporation (BSTDC), Government of Bihar",
+      "url": "https://tourism.bihar.gov.in",
+      "year": 2024
+    }
+  ],
+  "status": "published",
+  "verification": {
+    "status": "verified",
+    "lastVerifiedAt": "2026-09-19",
+    "sources": [
+      {
+        "name": "District Portal Araria, Government of Bihar",
+        "url": "https://araria.nic.in",
+        "type": "government"
+      },
+      {
+        "name": "Bihar Tourism Official Portal",
+        "url": "https://tourism.bihar.gov.in",
+        "type": "official"
+      },
+      {
+        "name": "Census of India 2011",
+        "url": "https://censusindia.gov.in",
+        "type": "government"
+      }
+    ]
+  }
+}

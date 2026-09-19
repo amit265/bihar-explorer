@@ -1,0 +1,2519 @@
+{
+  "schemaVersion": "1.0",
+  "purpose": "bihar-tourism-place-discovery",
+  "generatedAt": "2026-09-18",
+  "districts": [
+    {
+      "districtId": "patna",
+      "districtName": {
+        "en": "Patna",
+        "hi": "पटना"
+      },
+      "tourismIdentity": {
+        "en": "Historical, religious, cultural and architectural heritage",
+        "hi": "ऐतिहासिक, धार्मिक, सांस्कृतिक और स्थापत्य विरासत"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Golghar",
+            "hi": "गोलघर"
+          },
+          "slug": "golghar",
+          "candidateType": "historical_site",
+          "priority": "tier_1",
+          "categories": [
+            "historical",
+            "architectural",
+            "heritage"
+          ],
+          "whyInclude": {
+            "en": "An iconic historic granary and one of Patna's best-known architectural landmarks.",
+            "hi": "एक प्रतिष्ठित ऐतिहासिक अन्नागार और पटना के प्रमुख स्थापत्य स्थलों में से एक।"
+          },
+          "historicalSignificance": {
+            "en": "Built by Captain John Garstin in 1786 following the famine of 1770.",
+            "hi": "1770 के अकाल के बाद 1786 में कैप्टन जॉन गारस्टिन द्वारा निर्मित।"
+          },
+          "visitorValue": {
+            "en": "Offers a panoramic view of the city and the Ganges river from its top.",
+            "hi": "इसके शीर्ष से शहर और गंगा नदी का मनोरम दृश्य दिखाई देता है।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Golghar",
+              "organization": "Bihar Tourism",
+              "url": "https://tourism.bihar.gov.in/en/destinations/patna/golghar"
+            }
+          ],
+          "verificationStatus": "verified"
+        },
+        {
+          "name": {
+            "en": "Takht Sri Harmandir Ji Patna Sahib",
+            "hi": "तख्त श्री हरमंदिर जी पटना साहिब"
+          },
+          "slug": "takht-sri-patna-sahib",
+          "candidateType": "gurdwara",
+          "priority": "tier_1",
+          "categories": [
+            "religious",
+            "heritage",
+            "pilgrimage_site"
+          ],
+          "whyInclude": {
+            "en": "Birthplace of Guru Gobind Singh Ji, the tenth Sikh Guru. It is one of the Five Takhts of Sikhism.",
+            "hi": "सिखों के दसवें गुरु, गुरु गोबिंद सिंह जी का जन्मस्थान। यह सिख धर्म के पांच तख्तों में से एक है।"
+          },
+          "historicalSignificance": {
+            "en": "Built by Maharaja Ranjit Singh to commemorate the birthplace of Guru Gobind Singh Ji.",
+            "hi": "गुरु गोबिंद सिंह जी के जन्मस्थान के उपलक्ष्य में महाराजा रणजीत सिंह द्वारा निर्मित।"
+          },
+          "visitorValue": {
+            "en": "A major pilgrimage site offering spiritual peace, historical relics, and langar.",
+            "hi": "आध्यात्मिक शांति, ऐतिहासिक अवशेष और लंगर पेश करने वाला एक प्रमुख तीर्थ स्थल।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Patna Sahib",
+              "organization": "Bihar Tourism",
+              "url": "https://tourism.bihar.gov.in/en/destinations/patna/takht-sri-patna-sahib"
+            }
+          ],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "nalanda",
+      "districtName": {
+        "en": "Nalanda",
+        "hi": "नालंदा"
+      },
+      "tourismIdentity": {
+        "en": "Ancient learning, Buddhism, archaeology and Jain heritage",
+        "hi": "प्राचीन शिक्षा, बौद्ध धर्म, पुरातत्व और जैन विरासत"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Nalanda Mahavihara",
+            "hi": "नालंदा महाविहार"
+          },
+          "slug": "nalanda-mahavihara",
+          "candidateType": "archaeological_site",
+          "priority": "tier_1",
+          "categories": [
+            "archaeological",
+            "historical",
+            "educational"
+          ],
+          "whyInclude": {
+            "en": "UNESCO World Heritage site and ruins of one of the world's oldest residential universities.",
+            "hi": "यूनेस्को विश्व धरोहर स्थल और दुनिया के सबसे पुराने आवासीय विश्वविद्यालयों में से एक के खंडहर।"
+          },
+          "historicalSignificance": {
+            "en": "Founded in the 5th century CE, it flourished under the Gupta and Pala empires.",
+            "hi": "5 वीं शताब्दी ईस्वी में स्थापित, यह गुप्त और पाल साम्राज्यों के तहत फला-फूला।"
+          },
+          "visitorValue": {
+            "en": "Visitors can explore the vast ruins of monasteries and temples.",
+            "hi": "आगंतुक मठों और मंदिरों के विशाल खंडहरों का पता लगा सकते हैं।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Archaeological Site of Nalanda Mahavihara at Nalanda, Bihar",
+              "organization": "UNESCO",
+              "url": "https://whc.unesco.org/en/list/1502/"
+            }
+          ],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "bhojpur",
+      "districtName": {
+        "en": "Bhojpur",
+        "hi": "भोजपुर"
+      },
+      "tourismIdentity": {
+        "en": "Freedom movement history and religious sites",
+        "hi": "स्वतंत्रता आंदोलन का इतिहास और धार्मिक स्थल"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Veer Kunwar Singh Fort, Jagdishpur",
+            "hi": "वीर कुंवर सिंह किला, जगदीशपुर"
+          },
+          "slug": "veer-kunwar-singh-fort-jagdishpur",
+          "candidateType": "fort",
+          "priority": "tier_1",
+          "categories": [
+            "historical",
+            "heritage"
+          ],
+          "whyInclude": {
+            "en": "Associated with Babu Veer Kunwar Singh, a prominent leader during the Indian Rebellion of 1857.",
+            "hi": "1857 के भारतीय विद्रोह के दौरान एक प्रमुख नेता बाबू वीर कुंवर सिंह से जुड़ा हुआ है।"
+          },
+          "historicalSignificance": {
+            "en": "A key centre of resistance against British rule in 1857.",
+            "hi": "1857 में ब्रिटिश शासन के खिलाफ प्रतिरोध का एक प्रमुख केंद्र।"
+          },
+          "visitorValue": {
+            "en": "A place to learn about the bravery of freedom fighters from Bihar.",
+            "hi": "बिहार के स्वतंत्रता सेनानियों की बहादुरी के बारे में जानने की जगह।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Jagdishpur Fort",
+              "organization": "Bihar Tourism",
+              "url": "https://tourism.bihar.gov.in/en/destinations/bhojpur/veer-kunwar-singh-qila"
+            }
+          ],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "rohtas",
+      "districtName": {
+        "en": "Rohtas",
+        "hi": "रोहतास"
+      },
+      "tourismIdentity": {
+        "en": "Historical forts, waterfalls and natural beauty",
+        "hi": "ऐतिहासिक किले, झरने और प्राकृतिक सुंदरता"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Rohtasgarh Fort",
+            "hi": "रोहतासगढ़ किला"
+          },
+          "slug": "rohtasgarh-fort",
+          "candidateType": "fort",
+          "priority": "tier_1",
+          "categories": [
+            "historical",
+            "architectural"
+          ],
+          "whyInclude": {
+            "en": "One of the largest and strongest hill forts in India.",
+            "hi": "भारत के सबसे बड़े और सबसे मजबूत पहाड़ी किलों में से एक।"
+          },
+          "historicalSignificance": {
+            "en": "Believed to be built by Rohitashwa, son of King Harishchandra, and later used by Sher Shah Suri.",
+            "hi": "माना जाता है कि इसका निर्माण राजा हरिश्चंद्र के पुत्र रोहिताश्व द्वारा किया गया था, और बाद में शेर शाह सूरी द्वारा इसका उपयोग किया गया था।"
+          },
+          "visitorValue": {
+            "en": "Offers trekking, historical exploration, and scenic views of the Son river.",
+            "hi": "ट्रेकिंग, ऐतिहासिक अन्वेषण और सोन नदी के सुंदर दृश्य प्रस्तुत करता है।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Rohtasgarh Fort",
+              "organization": "Archaeological Survey of India",
+              "url": "https://asi.nic.in/"
+            }
+          ],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "buxar",
+      "districtName": {
+        "en": "Buxar",
+        "hi": "बक्सर"
+      },
+      "tourismIdentity": {
+        "en": "Mythological significance and historical battles",
+        "hi": "पौराणिक महत्व और ऐतिहासिक युद्ध"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Ramrekha Ghat",
+            "hi": "रामरेखा घाट"
+          },
+          "slug": "ramrekha-ghat",
+          "candidateType": "riverfront",
+          "priority": "tier_1",
+          "categories": [
+            "religious",
+            "pilgrimage_site"
+          ],
+          "whyInclude": {
+            "en": "A sacred ghat along the Ganges with deep Ramayana connections.",
+            "hi": "गहरे रामायण कनेक्शन के साथ गंगा के किनारे एक पवित्र घाट।"
+          },
+          "historicalSignificance": {
+            "en": "Believed to be the place where Lord Rama crossed the Ganges.",
+            "hi": "माना जाता है कि यह वह स्थान है जहां भगवान राम ने गंगा पार की थी।"
+          },
+          "visitorValue": {
+            "en": "A major site for rituals, holy dips, and exploring local mythology.",
+            "hi": "अनुष्ठानों, पवित्र डुबकी और स्थानीय पौराणिक कथाओं की खोज के लिए एक प्रमुख स्थल।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Ramrekha Ghat",
+              "organization": "Bihar Tourism",
+              "url": "https://tourism.bihar.gov.in/en/destinations/buxar/ramrekha-ghat"
+            }
+          ],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "kaimur",
+      "districtName": {
+        "en": "Kaimur",
+        "hi": "कैमूर"
+      },
+      "tourismIdentity": {
+        "en": "Ancient temples, waterfalls and wildlife",
+        "hi": "प्राचीन मंदिर, झरने और वन्य जीवन"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Mundeshwari Temple",
+            "hi": "मुंडेश्वरी मंदिर"
+          },
+          "slug": "mundeshwari-temple",
+          "candidateType": "temple",
+          "priority": "tier_1",
+          "categories": [
+            "religious",
+            "historical",
+            "archaeological"
+          ],
+          "whyInclude": {
+            "en": "Considered one of the oldest functioning Hindu temples in India.",
+            "hi": "भारत में सबसे पुराने कार्यशील हिंदू मंदिरों में से एक माना जाता है।"
+          },
+          "historicalSignificance": {
+            "en": "Dates back to 108 CE, dedicated to Lord Shiva and Shakti.",
+            "hi": "108 ईस्वी पूर्व का है, भगवान शिव और शक्ति को समर्पित है।"
+          },
+          "visitorValue": {
+            "en": "An important pilgrimage and archaeological site on the Mundeshwari Hill.",
+            "hi": "मुंडेश्वरी पहाड़ी पर एक महत्वपूर्ण तीर्थ और पुरातात्विक स्थल।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Mundeshwari Temple",
+              "organization": "Archaeological Survey of India",
+              "url": "https://asi.nic.in/"
+            }
+          ],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "saran",
+      "districtName": {
+        "en": "Saran",
+        "hi": "सारण"
+      },
+      "tourismIdentity": {
+        "en": "Archaeological heritage and confluence of rivers",
+        "hi": "पुरातात्विक विरासत और नदियों का संगम"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Chirand",
+            "hi": "चिरांद"
+          },
+          "slug": "chirand",
+          "candidateType": "archaeological_site",
+          "priority": "tier_1",
+          "categories": [
+            "archaeological",
+            "historical"
+          ],
+          "whyInclude": {
+            "en": "A significant archaeological site with Neolithic remains.",
+            "hi": "नवपाषाण काल के अवशेषों के साथ एक महत्वपूर्ण पुरातात्विक स्थल।"
+          },
+          "historicalSignificance": {
+            "en": "Excavations have revealed artifacts from the Neolithic, Chalcolithic, and Iron ages.",
+            "hi": "खुदाई से नवपाषाण, ताम्रपाषाण और लौह युग की कलाकृतियों का पता चला है।"
+          },
+          "visitorValue": {
+            "en": "Offers insights into ancient human settlements in the Gangetic plains.",
+            "hi": "गंगा के मैदानों में प्राचीन मानव बस्तियों में अंतर्दृष्टि प्रदान करता है।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Chirand",
+              "organization": "Bihar Tourism",
+              "url": "https://tourism.bihar.gov.in/en/destinations/saran/chirand"
+            }
+          ],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "siwan",
+      "districtName": {
+        "en": "Siwan",
+        "hi": "सीवान"
+      },
+      "tourismIdentity": {
+        "en": "Historical personalities and religious sites",
+        "hi": "ऐतिहासिक हस्तियां और धार्मिक स्थल"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Ziradei",
+            "hi": "जीरादेई"
+          },
+          "slug": "ziradei",
+          "candidateType": "historical_site",
+          "priority": "tier_1",
+          "categories": [
+            "historical",
+            "heritage"
+          ],
+          "whyInclude": {
+            "en": "Birthplace of Dr. Rajendra Prasad, the first President of India.",
+            "hi": "भारत के पहले राष्ट्रपति डॉ. राजेंद्र प्रसाद का जन्मस्थान।"
+          },
+          "historicalSignificance": {
+            "en": "The ancestral home of Dr. Rajendra Prasad has been preserved as a memorial.",
+            "hi": "डॉ. राजेंद्र प्रसाद के पैतृक घर को एक स्मारक के रूप में संरक्षित किया गया है।"
+          },
+          "visitorValue": {
+            "en": "A site of national importance to learn about India's first President.",
+            "hi": "भारत के पहले राष्ट्रपति के बारे में जानने के लिए राष्ट्रीय महत्व का स्थल।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Ziradei",
+              "organization": "Bihar Tourism",
+              "url": "https://tourism.bihar.gov.in/en/destinations/siwan/ziradei"
+            }
+          ],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "gopalganj",
+      "districtName": {
+        "en": "Gopalganj",
+        "hi": "गोपालगंज"
+      },
+      "tourismIdentity": {
+        "en": "Religious destinations and local heritage",
+        "hi": "धार्मिक स्थल और स्थानीय विरासत"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Thawe Mandir",
+            "hi": "थावे मंदिर"
+          },
+          "slug": "thawe-mandir",
+          "candidateType": "temple",
+          "priority": "tier_1",
+          "categories": [
+            "religious",
+            "pilgrimage_site"
+          ],
+          "whyInclude": {
+            "en": "A highly revered temple dedicated to Goddess Durga.",
+            "hi": "देवी दुर्गा को समर्पित एक अत्यधिक श्रद्धेय मंदिर।"
+          },
+          "historicalSignificance": {
+            "en": "Associated with the local king Manan Singh and the devotee Rahshu Bhagat.",
+            "hi": "स्थानीय राजा मनन सिंह और भक्त रहशु भगत से जुड़ा हुआ है।"
+          },
+          "visitorValue": {
+            "en": "Attracts thousands of devotees, especially during Navratri.",
+            "hi": "विशेष रूप से नवरात्रि के दौरान हजारों भक्तों को आकर्षित करता है।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Thawe Mandir",
+              "organization": "Bihar Tourism",
+              "url": "https://tourism.bihar.gov.in/en/destinations/gopalganj/thawe-mandir"
+            }
+          ],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "muzaffarpur",
+      "districtName": {
+        "en": "Muzaffarpur",
+        "hi": "मुजफ्फरपुर"
+      },
+      "tourismIdentity": {
+        "en": "Cultural sites, temples and Shahi Litchi",
+        "hi": "सांस्कृतिक स्थल, मंदिर और शाही लीची"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Baba Garibnath Temple",
+            "hi": "बाबा गरीबनाथ मंदिर"
+          },
+          "slug": "baba-garibnath-temple",
+          "candidateType": "temple",
+          "priority": "tier_1",
+          "categories": [
+            "religious",
+            "pilgrimage_site"
+          ],
+          "whyInclude": {
+            "en": "A major Shiva temple often referred to as the 'Deoghar of Bihar'.",
+            "hi": "एक प्रमुख शिव मंदिर जिसे अक्सर 'बिहार का देवघर' कहा जाता है।"
+          },
+          "historicalSignificance": {
+            "en": "An ancient temple that is a center of devotion for Lord Shiva followers in North Bihar.",
+            "hi": "एक प्राचीन मंदिर जो उत्तर बिहार में भगवान शिव के अनुयायियों के लिए भक्ति का केंद्र है।"
+          },
+          "visitorValue": {
+            "en": "Witness massive crowds during the holy month of Shravan.",
+            "hi": "श्रावण के पवित्र महीने के दौरान भारी भीड़ के गवाह बनें।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Baba Garibnath Mandir",
+              "organization": "Bihar Tourism",
+              "url": "https://tourism.bihar.gov.in/en/destinations/muzaffarpur/baba-garibnath-mandir"
+            }
+          ],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "west_champaran",
+      "districtName": {
+        "en": "West Champaran",
+        "hi": "पश्चिमी चंपारण"
+      },
+      "tourismIdentity": {
+        "en": "Wildlife, nature, and Gandhi's early satyagraha locations",
+        "hi": "वन्यजीव, प्रकृति और गांधीजी के प्रारंभिक सत्याग्रह स्थल"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Valmiki Tiger Reserve",
+            "hi": "वाल्मीकि टाइगर रिजर्व"
+          },
+          "slug": "valmiki-tiger-reserve",
+          "candidateType": "national_park",
+          "priority": "tier_1",
+          "categories": [
+            "wildlife",
+            "natural",
+            "eco_tourism"
+          ],
+          "whyInclude": {
+            "en": "The only tiger reserve in Bihar, offering diverse flora, fauna, and tiger safaris.",
+            "hi": "बिहार का एकमात्र बाघ अभयारण्य, जो विविध वनस्पतियों, जीवों और बाघ सफारी की पेशकश करता है।"
+          },
+          "historicalSignificance": {
+            "en": "Not historical, but critical for biodiversity.",
+            "hi": "ऐतिहासिक नहीं, लेकिन जैव विविधता के लिए महत्वपूर्ण है।"
+          },
+          "visitorValue": {
+            "en": "High value for nature and wildlife enthusiasts.",
+            "hi": "प्रकृति और वन्यजीव प्रेमियों के लिए उच्च मूल्य।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Valmiki Tiger Reserve",
+              "organization": "Bihar Tourism",
+              "url": "https://tourism.bihar.gov.in/"
+            }
+          ],
+          "verificationStatus": "verified"
+        },
+        {
+          "name": {
+            "en": "Bhitiharwa Ashram",
+            "hi": "भितिहरवा आश्रम"
+          },
+          "slug": "bhitiharwa-ashram",
+          "candidateType": "historical_site",
+          "priority": "tier_1",
+          "categories": [
+            "historical",
+            "freedom_movement"
+          ],
+          "whyInclude": {
+            "en": "A historic site where Mahatma Gandhi established a school and ashram during the Champaran Satyagraha.",
+            "hi": "एक ऐतिहासिक स्थल जहां महात्मा गांधी ने चंपारण सत्याग्रह के दौरान एक स्कूल और आश्रम की स्थापना की थी।"
+          },
+          "historicalSignificance": {
+            "en": "A central location for the Champaran Satyagraha of 1917.",
+            "hi": "1917 के चंपारण सत्याग्रह के लिए एक केंद्रीय स्थान।"
+          },
+          "visitorValue": {
+            "en": "Essential for understanding India's freedom struggle.",
+            "hi": "भारत के स्वतंत्रता संग्राम को समझने के लिए आवश्यक।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Champaran Satyagraha",
+              "organization": "Gandhi Heritage Portal",
+              "url": "https://www.gandhiheritageportal.org/"
+            }
+          ],
+          "verificationStatus": "verified"
+        },
+        {
+          "name": {
+            "en": "Ashokan Pillar, Lauriya Nandangarh",
+            "hi": "अशोक स्तंभ, लौरिया नंदनगढ़"
+          },
+          "slug": "ashokan-pillar-lauriya-nandangarh",
+          "candidateType": "archaeological_site",
+          "priority": "tier_1",
+          "categories": [
+            "archaeological",
+            "historical"
+          ],
+          "whyInclude": {
+            "en": "One of the best-preserved Ashokan pillars in India, featuring a single lion capital.",
+            "hi": "भारत में सबसे अच्छी तरह से संरक्षित अशोक स्तंभों में से एक, जिसमें एक शेर की राजधानी है।"
+          },
+          "historicalSignificance": {
+            "en": "Dates back to the Mauryan Emperor Ashoka (3rd century BCE).",
+            "hi": "मौर्य सम्राट अशोक (तीसरी शताब्दी ईसा पूर्व) के समय का है।"
+          },
+          "visitorValue": {
+            "en": "Crucial site for history and archaeology lovers.",
+            "hi": "इतिहास और पुरातत्व प्रेमियों के लिए महत्वपूर्ण स्थल।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Lauriya Nandangarh",
+              "organization": "Archaeological Survey of India",
+              "url": "https://asi.nic.in/"
+            }
+          ],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "east_champaran",
+      "districtName": {
+        "en": "East Champaran",
+        "hi": "पूर्वी चंपारण"
+      },
+      "tourismIdentity": {
+        "en": "Buddhist archaeology and Gandhi heritage",
+        "hi": "बौद्ध पुरातत्व और गांधी विरासत"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Kesaria Stupa",
+            "hi": "केसरिया स्तूप"
+          },
+          "slug": "kesaria-stupa",
+          "candidateType": "archaeological_site",
+          "priority": "tier_1",
+          "categories": [
+            "archaeological",
+            "religious",
+            "historical"
+          ],
+          "whyInclude": {
+            "en": "The largest Buddhist stupa in the world, with immense archaeological significance.",
+            "hi": "दुनिया का सबसे बड़ा बौद्ध स्तूप, जिसका अत्यधिक पुरातात्विक महत्व है।"
+          },
+          "historicalSignificance": {
+            "en": "Believed to be the site where Lord Buddha gave his begging bowl to the Licchavis.",
+            "hi": "माना जाता है कि यह वह स्थान है जहां भगवान बुद्ध ने अपना भिक्षापात्र लिच्छवियों को दिया था।"
+          },
+          "visitorValue": {
+            "en": "A must-visit on the Buddhist circuit.",
+            "hi": "बौद्ध सर्किट पर एक अवश्य जाने वाला स्थान।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Kesaria Stupa",
+              "organization": "Bihar Tourism",
+              "url": "https://tourism.bihar.gov.in/"
+            }
+          ],
+          "verificationStatus": "verified"
+        },
+        {
+          "name": {
+            "en": "Gandhi Memorial, Motihari",
+            "hi": "गांधी स्मारक, मोतिहारी"
+          },
+          "slug": "gandhi-memorial-motihari",
+          "candidateType": "memorial",
+          "priority": "tier_1",
+          "categories": [
+            "historical",
+            "freedom_movement"
+          ],
+          "whyInclude": {
+            "en": "Marks the starting point of the Champaran Satyagraha in 1917.",
+            "hi": "1917 में चंपारण सत्याग्रह के शुरुआती बिंदु को चिह्नित करता है।"
+          },
+          "historicalSignificance": {
+            "en": "A cornerstone of India's independence movement.",
+            "hi": "भारत के स्वतंत्रता आंदोलन की एक आधारशिला।"
+          },
+          "visitorValue": {
+            "en": "Important for educational and historical tourism.",
+            "hi": "शैक्षिक और ऐतिहासिक पर्यटन के लिए महत्वपूर्ण।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Motihari",
+              "organization": "East Champaran District Administration",
+              "url": "https://eastchamparan.nic.in/"
+            }
+          ],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "sitamarhi",
+      "districtName": {
+        "en": "Sitamarhi",
+        "hi": "सीतामढ़ी"
+      },
+      "tourismIdentity": {
+        "en": "Birthplace of Goddess Sita and epic Ramayana heritage",
+        "hi": "देवी सीता की जन्मस्थली और महाकाव्य रामायण की विरासत"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Punaura Dham",
+            "hi": "पुनौरा धाम"
+          },
+          "slug": "punaura-dham",
+          "candidateType": "temple",
+          "priority": "tier_1",
+          "categories": [
+            "religious",
+            "pilgrimage"
+          ],
+          "whyInclude": {
+            "en": "Revered as the exact birthplace of Goddess Sita.",
+            "hi": "देवी सीता के सटीक जन्मस्थान के रूप में पूजनीय।"
+          },
+          "historicalSignificance": {
+            "en": "Deep roots in Hindu mythology and the Ramayana epic.",
+            "hi": "हिंदू पौराणिक कथाओं और रामायण महाकाव्य में गहरी जड़ें।"
+          },
+          "visitorValue": {
+            "en": "A major pilgrimage site for Hindus globally.",
+            "hi": "विश्व स्तर पर हिंदुओं के लिए एक प्रमुख तीर्थ स्थल।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Punaura Dham",
+              "organization": "Bihar Tourism",
+              "url": "https://tourism.bihar.gov.in/"
+            }
+          ],
+          "verificationStatus": "verified"
+        },
+        {
+          "name": {
+            "en": "Haleshwar Sthan",
+            "hi": "हलेश्वर स्थान"
+          },
+          "slug": "haleshwar-sthan",
+          "candidateType": "temple",
+          "priority": "tier_2",
+          "categories": [
+            "religious",
+            "historical"
+          ],
+          "whyInclude": {
+            "en": "An ancient Shiva temple believed to have been founded by King Janaka.",
+            "hi": "एक प्राचीन शिव मंदिर जिसके बारे में माना जाता है कि इसकी स्थापना राजा जनक ने की थी।"
+          },
+          "historicalSignificance": {
+            "en": "Associated with the royal family of Mithila.",
+            "hi": "मिथिला के शाही परिवार से जुड़ा हुआ।"
+          },
+          "visitorValue": {
+            "en": "Important stop on the Ramayana Circuit.",
+            "hi": "रामायण सर्किट पर महत्वपूर्ण पड़ाव।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Sitamarhi District Tourism",
+              "organization": "Sitamarhi District Administration",
+              "url": "https://sitamarhi.nic.in/"
+            }
+          ],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "sheohar",
+      "districtName": {
+        "en": "Sheohar",
+        "hi": "शिवहर"
+      },
+      "tourismIdentity": {
+        "en": "Ancient temples and spiritual significance",
+        "hi": "प्राचीन मंदिर और आध्यात्मिक महत्व"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Deokuli Dham",
+            "hi": "देकुली धाम"
+          },
+          "slug": "deokuli-dham",
+          "candidateType": "temple",
+          "priority": "tier_1",
+          "categories": [
+            "religious",
+            "historical"
+          ],
+          "whyInclude": {
+            "en": "An ancient Shiva temple with deep local reverence and mythology.",
+            "hi": "गहरी स्थानीय श्रद्धा और पौराणिक कथाओं वाला एक प्राचीन शिव मंदिर।"
+          },
+          "historicalSignificance": {
+            "en": "Believed to be from the Treta Yuga, associated with ancient sages.",
+            "hi": "त्रेता युग से माना जाता है, जो प्राचीन ऋषियों से जुड़ा है।"
+          },
+          "visitorValue": {
+            "en": "The primary spiritual and tourist destination in Sheohar district.",
+            "hi": "शिवहर जिले में प्राथमिक आध्यात्मिक और पर्यटन स्थल।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Sheohar District Official",
+              "organization": "Sheohar District Administration",
+              "url": "https://sheohar.nic.in/"
+            }
+          ],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "vaishali",
+      "districtName": {
+        "en": "Vaishali",
+        "hi": "वैशाली"
+      },
+      "tourismIdentity": {
+        "en": "Birthplace of Lord Mahavira, ancient republic, and Buddhist heritage",
+        "hi": "भगवान महावीर की जन्मस्थली, प्राचीन गणराज्य और बौद्ध विरासत"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Relic Stupa of Buddha",
+            "hi": "बुद्ध का अवशेष स्तूप"
+          },
+          "slug": "relic-stupa-buddha-vaishali",
+          "candidateType": "archaeological_site",
+          "priority": "tier_1",
+          "categories": [
+            "archaeological",
+            "religious",
+            "historical"
+          ],
+          "whyInclude": {
+            "en": "One of the original eight relic stupas built over the ashes of Lord Buddha.",
+            "hi": "भगवान बुद्ध की राख पर बनाए गए मूल आठ अवशेष स्तूपों में से एक।"
+          },
+          "historicalSignificance": {
+            "en": "Extremely high archaeological and religious significance.",
+            "hi": "अत्यधिक उच्च पुरातात्विक और धार्मिक महत्व।"
+          },
+          "visitorValue": {
+            "en": "A core destination for the Buddhist Circuit.",
+            "hi": "बौद्ध सर्किट के लिए एक मुख्य गंतव्य।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Vaishali",
+              "organization": "Archaeological Survey of India",
+              "url": "https://asi.nic.in/"
+            }
+          ],
+          "verificationStatus": "verified"
+        },
+        {
+          "name": {
+            "en": "Ashokan Pillar, Kolhua",
+            "hi": "अशोक स्तंभ, कोल्हुआ"
+          },
+          "slug": "ashokan-pillar-kolhua",
+          "candidateType": "archaeological_site",
+          "priority": "tier_1",
+          "categories": [
+            "archaeological",
+            "historical"
+          ],
+          "whyInclude": {
+            "en": "A prominent Ashokan pillar topped with a single lion, marking the spot of Buddha's last sermon.",
+            "hi": "एक शेर के साथ सबसे ऊपर एक प्रमुख अशोक स्तंभ, जो बुद्ध के अंतिम उपदेश के स्थान को चिह्नित करता है।"
+          },
+          "historicalSignificance": {
+            "en": "Erected by Emperor Ashoka in the 3rd century BCE.",
+            "hi": "तीसरी शताब्दी ईसा पूर्व में सम्राट अशोक द्वारा निर्मित।"
+          },
+          "visitorValue": {
+            "en": "Iconic landmark of Vaishali.",
+            "hi": "वैशाली का प्रतिष्ठित लैंडमार्क।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Kolhua Excavations",
+              "organization": "Archaeological Survey of India",
+              "url": "https://asi.nic.in/"
+            }
+          ],
+          "verificationStatus": "verified"
+        },
+        {
+          "name": {
+            "en": "Vishwa Shanti Stupa",
+            "hi": "विश्व शांति स्तूप"
+          },
+          "slug": "vishwa-shanti-stupa-vaishali",
+          "candidateType": "monument",
+          "priority": "tier_2",
+          "categories": [
+            "religious",
+            "architectural"
+          ],
+          "whyInclude": {
+            "en": "A beautiful modern peace pagoda built by Japanese Buddhists.",
+            "hi": "जापानी बौद्धों द्वारा निर्मित एक सुंदर आधुनिक शांति शिवालय।"
+          },
+          "historicalSignificance": {
+            "en": "Modern symbol of global peace.",
+            "hi": "वैश्विक शांति का आधुनिक प्रतीक।"
+          },
+          "visitorValue": {
+            "en": "Scenic and tranquil site for tourists.",
+            "hi": "पर्यटकों के लिए दर्शनीय और शांत स्थल।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Vaishali Tourism",
+              "organization": "Bihar Tourism",
+              "url": "https://tourism.bihar.gov.in/"
+            }
+          ],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "darbhanga",
+      "districtName": {
+        "en": "Darbhanga",
+        "hi": "दरभंगा"
+      },
+      "tourismIdentity": {
+        "en": "Mithila culture, royal heritage, and historic palaces",
+        "hi": "मिथिला संस्कृति, शाही विरासत और ऐतिहासिक महल"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Darbhanga Raj Palace complex",
+            "hi": "दरभंगा राज महल परिसर"
+          },
+          "slug": "darbhanga-raj-palace",
+          "candidateType": "palace",
+          "priority": "tier_1",
+          "categories": [
+            "architectural",
+            "historical",
+            "heritage"
+          ],
+          "whyInclude": {
+            "en": "The magnificent palaces of the Darbhanga royal family, reflecting European and Indian architecture.",
+            "hi": "दरभंगा शाही परिवार के शानदार महल, जो यूरोपीय और भारतीय वास्तुकला को दर्शाते हैं।"
+          },
+          "historicalSignificance": {
+            "en": "Seat of the Khandavala dynasty (Darbhanga Raj), one of India's wealthiest zamindaris.",
+            "hi": "खंडवाला राजवंश (दरभंगा राज) की सीट, भारत की सबसे धनी जमींदारी में से एक।"
+          },
+          "visitorValue": {
+            "en": "A glimpse into the royal grandeur of Mithila.",
+            "hi": "मिथिला की शाही भव्यता की एक झलक।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Darbhanga Raj",
+              "organization": "Darbhanga District Administration",
+              "url": "https://darbhanga.nic.in/"
+            }
+          ],
+          "verificationStatus": "verified"
+        },
+        {
+          "name": {
+            "en": "Shyama Mai Temple",
+            "hi": "श्यामा माई मंदिर"
+          },
+          "slug": "shyama-mai-temple",
+          "candidateType": "temple",
+          "priority": "tier_1",
+          "categories": [
+            "religious",
+            "architectural"
+          ],
+          "whyInclude": {
+            "en": "A revered Goddess Kali temple built on the pyres of the Darbhanga royal family.",
+            "hi": "दरभंगा शाही परिवार की चिताओं पर बना एक पूजनीय देवी काली मंदिर।"
+          },
+          "historicalSignificance": {
+            "en": "Built in 1933, a unique example of Hindu temple architecture in the region.",
+            "hi": "1933 में निर्मित, इस क्षेत्र में हिंदू मंदिर वास्तुकला का एक अनूठा उदाहरण।"
+          },
+          "visitorValue": {
+            "en": "High religious and architectural value.",
+            "hi": "उच्च धार्मिक और स्थापत्य मूल्य।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Shyama Mai Temple",
+              "organization": "Bihar Tourism",
+              "url": "https://tourism.bihar.gov.in/"
+            }
+          ],
+          "verificationStatus": "verified"
+        },
+        {
+          "name": {
+            "en": "Ahilya Asthan",
+            "hi": "अहिल्या स्थान"
+          },
+          "slug": "ahilya-asthan",
+          "candidateType": "temple",
+          "priority": "tier_2",
+          "categories": [
+            "religious",
+            "historical"
+          ],
+          "whyInclude": {
+            "en": "Associated with the redemption of Ahilya by Lord Rama.",
+            "hi": "भगवान राम द्वारा अहिल्या के उद्धार से जुड़ा हुआ।"
+          },
+          "historicalSignificance": {
+            "en": "An important site in the Ramayana epic.",
+            "hi": "रामायण महाकाव्य में एक महत्वपूर्ण स्थल।"
+          },
+          "visitorValue": {
+            "en": "Part of the Ramayana Circuit.",
+            "hi": "रामायण सर्किट का हिस्सा।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Ahilya Asthan",
+              "organization": "Bihar Tourism",
+              "url": "https://tourism.bihar.gov.in/"
+            }
+          ],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "madhubani",
+      "districtName": {
+        "en": "Madhubani",
+        "hi": "मधुबनी"
+      },
+      "tourismIdentity": {
+        "en": "Center of Mithila art and ancient cultural traditions",
+        "hi": "मिथिला कला और प्राचीन सांस्कृतिक परंपराओं का केंद्र"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Uchaith Bhagwati",
+            "hi": "उचैठ भगवती"
+          },
+          "slug": "uchaith-bhagwati",
+          "candidateType": "temple",
+          "priority": "tier_1",
+          "categories": [
+            "religious",
+            "cultural"
+          ],
+          "whyInclude": {
+            "en": "A major Shakti site associated with the poet Kalidasa.",
+            "hi": "कवि कालिदास से जुड़ा एक प्रमुख शक्ति स्थल।"
+          },
+          "historicalSignificance": {
+            "en": "According to legend, Kalidasa was blessed with wisdom here by the Goddess.",
+            "hi": "किंवदंती के अनुसार, कालिदास को देवी द्वारा यहां ज्ञान का आशीर्वाद दिया गया था।"
+          },
+          "visitorValue": {
+            "en": "Deeply revered by locals and visitors seeking knowledge.",
+            "hi": "ज्ञान की तलाश करने वाले स्थानीय लोगों और आगंतुकों द्वारा गहराई से सम्मानित।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Uchaith",
+              "organization": "Madhubani District Administration",
+              "url": "https://madhubani.nic.in/"
+            }
+          ],
+          "verificationStatus": "verified"
+        },
+        {
+          "name": {
+            "en": "Saurath Sabha",
+            "hi": "सौराष्ट्र सभा"
+          },
+          "slug": "saurath-sabha",
+          "candidateType": "cultural_site",
+          "priority": "tier_2",
+          "categories": [
+            "cultural",
+            "historical"
+          ],
+          "whyInclude": {
+            "en": "The traditional gathering place for Maithil Brahmins to arrange marriages based on genealogical records (Panji).",
+            "hi": "वंशावली रिकॉर्ड (पंजी) के आधार पर विवाह की व्यवस्था करने के लिए मैथिल ब्राह्मणों का पारंपरिक सभा स्थल।"
+          },
+          "historicalSignificance": {
+            "en": "An ancient social institution unique to the Mithila region.",
+            "hi": "मिथिला क्षेत्र के लिए अद्वितीय एक प्राचीन सामाजिक संस्था।"
+          },
+          "visitorValue": {
+            "en": "Offers deep insight into traditional Maithil society.",
+            "hi": "पारंपरिक मैथिल समाज में गहरी अंतर्दृष्टि प्रदान करता है।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Saurath",
+              "organization": "Madhubani District Administration",
+              "url": "https://madhubani.nic.in/"
+            }
+          ],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "samastipur",
+      "districtName": {
+        "en": "Samastipur",
+        "hi": "समस्तीपुर"
+      },
+      "tourismIdentity": {
+        "en": "Literary heritage and spiritual centres",
+        "hi": "साहित्यिक विरासत और आध्यात्मिक केंद्र"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Vidyapati Dham",
+            "hi": "विद्यापति धाम"
+          },
+          "slug": "vidyapati-dham",
+          "candidateType": "temple",
+          "priority": "tier_1",
+          "categories": [
+            "religious",
+            "cultural",
+            "historical"
+          ],
+          "whyInclude": {
+            "en": "A revered temple dedicated to Lord Shiva and associated with the great Maithili poet Vidyapati.",
+            "hi": "भगवान शिव को समर्पित और महान मैथिली कवि विद्यापति से जुड़ा एक पूजनीय मंदिर।"
+          },
+          "historicalSignificance": {
+            "en": "The place where Vidyapati is believed to have left his mortal body.",
+            "hi": "वह स्थान जहाँ माना जाता है कि विद्यापति ने अपना नश्वर शरीर छोड़ा था।"
+          },
+          "visitorValue": {
+            "en": "A major pilgrimage for Shiva devotees and literature lovers.",
+            "hi": "शिव भक्तों और साहित्य प्रेमियों के लिए एक प्रमुख तीर्थस्थल।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Vidyapati Dham",
+              "organization": "Samastipur District Administration",
+              "url": "https://samastipur.nic.in/"
+            }
+          ],
+          "verificationStatus": "verified"
+        },
+        {
+          "name": {
+            "en": "Khudneshwar Asthan",
+            "hi": "खुद्नेश्वर स्थान"
+          },
+          "slug": "khudneshwar-asthan",
+          "candidateType": "temple",
+          "priority": "tier_2",
+          "categories": [
+            "religious"
+          ],
+          "whyInclude": {
+            "en": "A unique historic Shiva temple where a Muslim devotee is also revered.",
+            "hi": "एक अनोखा ऐतिहासिक शिव मंदिर जहां एक मुस्लिम भक्त की भी पूजा की जाती है।"
+          },
+          "historicalSignificance": {
+            "en": "Symbolizes Hindu-Muslim unity with a grave of the devotee Khudno Bibi inside the temple premises.",
+            "hi": "मंदिर परिसर के अंदर भक्त खुद्नो बीबी की कब्र के साथ हिंदू-मुस्लिम एकता का प्रतीक है।"
+          },
+          "visitorValue": {
+            "en": "A unique example of syncretic culture.",
+            "hi": "समन्वित संस्कृति का एक अनूठा उदाहरण।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Places of Interest",
+              "organization": "Samastipur District Administration",
+              "url": "https://samastipur.nic.in/"
+            }
+          ],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "bhagalpur",
+      "districtName": {
+        "en": "Bhagalpur",
+        "hi": "भागलपुर"
+      },
+      "tourismIdentity": {
+        "en": "Ancient universities, silk, and river dolphins",
+        "hi": "प्राचीन विश्वविद्यालय, रेशम और नदी डॉल्फ़िन"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Vikramshila Ruins",
+            "hi": "विक्रमशिला खंडहर"
+          },
+          "slug": "vikramshila-ruins",
+          "candidateType": "archaeological_site",
+          "priority": "tier_1",
+          "categories": [
+            "archaeological",
+            "historical",
+            "educational"
+          ],
+          "whyInclude": {
+            "en": "One of the two most important centers of Buddhist learning in India during the Pala Empire, alongside Nalanda.",
+            "hi": "नालंदा के साथ, पाल साम्राज्य के दौरान भारत में बौद्ध शिक्षा के दो सबसे महत्वपूर्ण केंद्रों में से एक।"
+          },
+          "historicalSignificance": {
+            "en": "Founded by King Dharmapala in the 8th/9th century CE.",
+            "hi": "8वीं/9वीं शताब्दी ईस्वी में राजा धर्मपाल द्वारा स्थापित।"
+          },
+          "visitorValue": {
+            "en": "An essential archaeological and historical destination.",
+            "hi": "एक आवश्यक पुरातात्विक और ऐतिहासिक गंतव्य।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Vikramshila",
+              "organization": "Archaeological Survey of India",
+              "url": "https://asi.nic.in/"
+            }
+          ],
+          "verificationStatus": "verified"
+        },
+        {
+          "name": {
+            "en": "Vikramshila Gangetic Dolphin Sanctuary",
+            "hi": "विक्रमशिला गांगेय डॉल्फ़िन अभयारण्य"
+          },
+          "slug": "vikramshila-gangetic-dolphin-sanctuary",
+          "candidateType": "wildlife_sanctuary",
+          "priority": "tier_1",
+          "categories": [
+            "wildlife",
+            "natural",
+            "eco_tourism"
+          ],
+          "whyInclude": {
+            "en": "The only protected area for the endangered Gangetic dolphins in Asia.",
+            "hi": "एशिया में लुप्तप्राय गांगेय डॉल्फ़िन के लिए एकमात्र संरक्षित क्षेत्र।"
+          },
+          "historicalSignificance": {
+            "en": "Crucial for the conservation of India's national aquatic animal.",
+            "hi": "भारत के राष्ट्रीय जलीय जीव के संरक्षण के लिए महत्वपूर्ण।"
+          },
+          "visitorValue": {
+            "en": "Unique wildlife viewing experience on the Ganges.",
+            "hi": "गंगा पर अद्वितीय वन्यजीव देखने का अनुभव।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Vikramshila Gangetic Dolphin Sanctuary",
+              "organization": "Bihar Tourism",
+              "url": "https://tourism.bihar.gov.in/"
+            }
+          ],
+          "verificationStatus": "verified"
+        },
+        {
+          "name": {
+            "en": "Mandar Hill",
+            "hi": "मंदार हिल"
+          },
+          "slug": "mandar-hill",
+          "candidateType": "hill",
+          "priority": "tier_1",
+          "categories": [
+            "religious",
+            "natural",
+            "mythological"
+          ],
+          "whyInclude": {
+            "en": "A mythical hill associated with the churning of the ocean (Samudra Manthan) in Hindu mythology.",
+            "hi": "हिंदू पौराणिक कथाओं में समुद्र मंथन से जुड़ी एक पौराणिक पहाड़ी।"
+          },
+          "historicalSignificance": {
+            "en": "Features ancient rock-cut sculptures, inscriptions, and Jain temples.",
+            "hi": "प्राचीन रॉक-कट मूर्तियां, शिलालेख और जैन मंदिर हैं।"
+          },
+          "visitorValue": {
+            "en": "A major pilgrimage site for Hindus and Jains alike, with scenic views.",
+            "hi": "हिंदुओं और जैनियों के लिए समान रूप से ক্যান্সल तीर्थ स्थल, दर्शनीय दृश्यों के साथ।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Mandar Hill",
+              "organization": "Bihar Tourism",
+              "url": "https://tourism.bihar.gov.in/"
+            }
+          ],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "banka",
+      "districtName": {
+        "en": "Banka",
+        "hi": "बांका"
+      },
+      "tourismIdentity": {
+        "en": "Mythological, natural, and religious destinations",
+        "hi": "पौराणिक, प्राकृतिक और धार्मिक स्थल"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Mandar Hill",
+            "hi": "मन्दार पर्वत"
+          },
+          "slug": "mandar-hill",
+          "candidateType": "hill",
+          "priority": "tier_1",
+          "categories": [
+            "religious",
+            "mythological",
+            "natural"
+          ],
+          "whyInclude": {
+            "en": "Famous mythological hill associated with the Samudra Manthan (churning of the ocean).",
+            "hi": "समुद्र मंथन से जुड़ा प्रसिद्ध पौराणिक पर्वत।"
+          },
+          "historicalSignificance": {
+            "en": "Considered sacred in Hindu mythology as the churning rod of the ocean. Features ancient rock carvings.",
+            "hi": "हिंदू पौराणिक कथाओं में समुद्र मंथन की मथनी के रूप में पवित्र माना जाता है। यहाँ प्राचीन चट्टानों पर नक्काशी है।"
+          },
+          "visitorValue": {
+            "en": "Pilgrimage site, ropeway ride, and scenic views.",
+            "hi": "तीर्थ स्थल, रोपवे की सवारी और मनोरम दृश्य।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Mandar Hill",
+              "organization": "Bihar Tourism",
+              "url": "https://tourism.bihar.gov.in/en/destinations/banka/mandar-hill"
+            }
+          ],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "munger",
+      "districtName": {
+        "en": "Munger",
+        "hi": "मुंगेर"
+      },
+      "tourismIdentity": {
+        "en": "Yoga capital, historical forts, and natural landscapes",
+        "hi": "योग राजधानी, ऐतिहासिक किले और प्राकृतिक परिदृश्य"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Bihar School of Yoga",
+            "hi": "बिहार योग विद्यालय"
+          },
+          "slug": "bihar-school-of-yoga",
+          "candidateType": "educational_site",
+          "priority": "tier_1",
+          "categories": [
+            "educational",
+            "cultural",
+            "religious"
+          ],
+          "whyInclude": {
+            "en": "Internationally renowned center for yogic studies.",
+            "hi": "योग अध्ययन के लिए अंतरराष्ट्रीय स्तर पर प्रसिद्ध केंद्र।"
+          },
+          "historicalSignificance": {
+            "en": "Founded in 1963 by Swami Satyananda Saraswati, it is a global hub for traditional yoga.",
+            "hi": "1963 में स्वामी सत्यानंद सरस्वती द्वारा स्थापित, यह पारंपरिक योग का एक वैश्विक केंद्र है।"
+          },
+          "visitorValue": {
+            "en": "Spiritual retreat and yoga education.",
+            "hi": "आध्यात्मिक विश्राम और योग शिक्षा।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Bihar School of Yoga",
+              "organization": "Bihar Tourism",
+              "url": "https://tourism.bihar.gov.in/en/destinations/munger/bihar-school-of-yoga"
+            }
+          ],
+          "verificationStatus": "verified"
+        },
+        {
+          "name": {
+            "en": "Bhimbandh Wildlife Sanctuary",
+            "hi": "भीमबांध वन्यजीव अभयारण्य"
+          },
+          "slug": "bhimbandh-wildlife-sanctuary",
+          "candidateType": "wildlife_sanctuary",
+          "priority": "tier_1",
+          "categories": [
+            "wildlife",
+            "natural",
+            "eco_tourism_site"
+          ],
+          "whyInclude": {
+            "en": "Rich wildlife sanctuary with hot springs.",
+            "hi": "गर्म झरनों के साथ समृद्ध वन्यजीव अभयारण्य।"
+          },
+          "historicalSignificance": {
+            "en": "Named after Bhima from the Mahabharata, it has hot springs with mythological links.",
+            "hi": "महाभारत के भीम के नाम पर, इसमें पौराणिक संबंधों वाले गर्म झरने हैं।"
+          },
+          "visitorValue": {
+            "en": "Wildlife viewing, nature trails, and hot springs.",
+            "hi": "वन्यजीव दर्शन, प्रकृति ट्रेल्स, और गर्म झरने।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Bhimbandh",
+              "organization": "Bihar Tourism",
+              "url": "https://tourism.bihar.gov.in/en/destinations/munger/bhimbandh-wildlife-sanctuary"
+            }
+          ],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "khagaria",
+      "districtName": {
+        "en": "Khagaria",
+        "hi": "खगड़िया"
+      },
+      "tourismIdentity": {
+        "en": "Religious destinations and river landscapes",
+        "hi": "धार्मिक स्थल और नदी परिदृश्य"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Katyayani Sthan",
+            "hi": "कात्यायनी स्थान"
+          },
+          "slug": "katyayani-sthan",
+          "candidateType": "temple",
+          "priority": "tier_2",
+          "categories": [
+            "religious"
+          ],
+          "whyInclude": {
+            "en": "A revered temple dedicated to Goddess Katyayani.",
+            "hi": "देवी कात्यायनी को समर्पित एक प्रतिष्ठित मंदिर।"
+          },
+          "historicalSignificance": {
+            "en": "An ancient temple of regional significance holding local cultural value.",
+            "hi": "क्षेत्रीय महत्व का एक प्राचीन मंदिर जो स्थानीय सांस्कृतिक मूल्य रखता है।"
+          },
+          "visitorValue": {
+            "en": "Religious pilgrimage and local festivals.",
+            "hi": "धार्मिक तीर्थयात्रा और स्थानीय त्योहार।"
+          },
+          "sourceReferences": [],
+          "verificationStatus": "needs_verification"
+        }
+      ]
+    },
+    {
+      "districtId": "jamui",
+      "districtName": {
+        "en": "Jamui",
+        "hi": "जमुई"
+      },
+      "tourismIdentity": {
+        "en": "Jain pilgrimage, natural reserves, and wildlife",
+        "hi": "जैन तीर्थयात्रा, प्राकृतिक भंडार, और वन्यजीव"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Nagi Dam Bird Sanctuary",
+            "hi": "नागी डैम पक्षी अभयारण्य"
+          },
+          "slug": "nagi-dam-bird-sanctuary",
+          "candidateType": "bird_sanctuary",
+          "priority": "tier_1",
+          "categories": [
+            "wildlife",
+            "natural"
+          ],
+          "whyInclude": {
+            "en": "A prominent bird sanctuary famous for migratory birds.",
+            "hi": "प्रवासी पक्षियों के लिए प्रसिद्ध एक प्रमुख पक्षी अभयारण्य।"
+          },
+          "historicalSignificance": {
+            "en": "Important ecological habitat recognized by state wildlife authorities.",
+            "hi": "राज्य वन्यजीव अधिकारियों द्वारा मान्यता प्राप्त महत्वपूर्ण पारिस्थितिक आवास।"
+          },
+          "visitorValue": {
+            "en": "Bird watching, especially during winters.",
+            "hi": "पक्षियों को देखना, विशेष रूप से सर्दियों के दौरान।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Nagi Dam",
+              "organization": "Bihar Tourism",
+              "url": "https://tourism.bihar.gov.in/en/destinations/jamui/nagi-dam-bird-sanctuary"
+            }
+          ],
+          "verificationStatus": "verified"
+        },
+        {
+          "name": {
+            "en": "Jain Mandir Lachhaur",
+            "hi": "जैन मंदिर लछौर"
+          },
+          "slug": "jain-mandir-lachhaur",
+          "candidateType": "temple",
+          "priority": "tier_1",
+          "categories": [
+            "religious",
+            "historical"
+          ],
+          "whyInclude": {
+            "en": "Significant Jain pilgrimage site associated with Lord Mahavira.",
+            "hi": "भगवान महावीर से जुड़ा महत्वपूर्ण जैन तीर्थ स्थल।"
+          },
+          "historicalSignificance": {
+            "en": "Believed to be the birthplace of Lord Mahavira by some traditions.",
+            "hi": "कुछ परंपराओं द्वारा भगवान महावीर का जन्मस्थान माना जाता है।"
+          },
+          "visitorValue": {
+            "en": "Important Jain pilgrimage.",
+            "hi": "महत्वपूर्ण जैन तीर्थयात्रा।"
+          },
+          "sourceReferences": [],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "lakhisarai",
+      "districtName": {
+        "en": "Lakhisarai",
+        "hi": "लखीसराय"
+      },
+      "tourismIdentity": {
+        "en": "Ancient religious and historical heritage",
+        "hi": "प्राचीन धार्मिक और ऐतिहासिक विरासत"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Ashok Dham Temple",
+            "hi": "अशोक धाम मंदिर"
+          },
+          "slug": "ashok-dham-temple",
+          "candidateType": "temple",
+          "priority": "tier_1",
+          "categories": [
+            "religious",
+            "architectural"
+          ],
+          "whyInclude": {
+            "en": "A massive temple complex dedicated to Lord Shiva.",
+            "hi": "भगवान शिव को समर्पित एक विशाल मंदिर परिसर।"
+          },
+          "historicalSignificance": {
+            "en": "Features an ancient large Shivalinga discovered underground.",
+            "hi": "इसमें भूमिगत खोजा गया एक प्राचीन बड़ा शिवलिंग है।"
+          },
+          "visitorValue": {
+            "en": "Major religious center with grand architecture.",
+            "hi": "भव्य वास्तुकला के साथ प्रमुख धार्मिक केंद्र।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Ashok Dham",
+              "organization": "Bihar Tourism",
+              "url": "https://tourism.bihar.gov.in/en/destinations/lakhisarai/ashok-dham"
+            }
+          ],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "sheikhpura",
+      "districtName": {
+        "en": "Sheikhpura",
+        "hi": "शेखपुरा"
+      },
+      "tourismIdentity": {
+        "en": "Hilly terrain and regional religious sites",
+        "hi": "पहाड़ी इलाका और क्षेत्रीय धार्मिक स्थल"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Girihinda Mountain",
+            "hi": "गिरिहिंडा पर्वत"
+          },
+          "slug": "girihinda-mountain",
+          "candidateType": "hill",
+          "priority": "tier_2",
+          "categories": [
+            "religious",
+            "natural"
+          ],
+          "whyInclude": {
+            "en": "A prominent hill featuring a Lord Shiva temple on top.",
+            "hi": "एक प्रमुख पहाड़ी जिसके शीर्ष पर भगवान शिव का मंदिर है।"
+          },
+          "historicalSignificance": {
+            "en": "Local legend associates it with the Mahabharata era.",
+            "hi": "स्थानीय किंवदंती इसे महाभारत काल से जोड़ती है।"
+          },
+          "visitorValue": {
+            "en": "Trekking, scenic views, and pilgrimage.",
+            "hi": "ट्रेकिंग, मनोरम दृश्य और तीर्थयात्रा।"
+          },
+          "sourceReferences": [],
+          "verificationStatus": "needs_verification"
+        }
+      ]
+    },
+    {
+      "districtId": "begusarai",
+      "districtName": {
+        "en": "Begusarai",
+        "hi": "बेगूसराय"
+      },
+      "tourismIdentity": {
+        "en": "Asia's largest oxbow lake and religious heritage",
+        "hi": "एशिया की सबसे बड़ी गोखुर झील और धार्मिक विरासत"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Kanwar Lake Bird Sanctuary",
+            "hi": "कांवर झील पक्षी अभयारण्य"
+          },
+          "slug": "kanwar-lake-bird-sanctuary",
+          "candidateType": "bird_sanctuary",
+          "priority": "tier_1",
+          "categories": [
+            "wildlife",
+            "natural",
+            "eco_tourism_site"
+          ],
+          "whyInclude": {
+            "en": "Asia's largest freshwater oxbow lake.",
+            "hi": "एशिया की सबसे बड़ी मीठे पानी की गोखुर झील।"
+          },
+          "historicalSignificance": {
+            "en": "Crucial wetland recognized for global ecological importance.",
+            "hi": "वैश्विक पारिस्थितिक महत्व के लिए मान्यता प्राप्त महत्वपूर्ण आर्द्रभूमि।"
+          },
+          "visitorValue": {
+            "en": "Bird watching, especially migratory birds from Central Asia.",
+            "hi": "पक्षियों को देखना, विशेष रूप से मध्य एशिया के प्रवासी पक्षी।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Kanwar Lake",
+              "organization": "Bihar Tourism",
+              "url": "https://tourism.bihar.gov.in/en/destinations/begusarai/kanwar-lake"
+            }
+          ],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "purnia",
+      "districtName": {
+        "en": "Purnia",
+        "hi": "पूर्णिया"
+      },
+      "tourismIdentity": {
+        "en": "Historical temples and colonial legacy",
+        "hi": "ऐतिहासिक मंदिर और औपनिवेशिक विरासत"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Puran Devi Temple",
+            "hi": "पूरण देवी मंदिर"
+          },
+          "slug": "puran-devi-temple",
+          "candidateType": "temple",
+          "priority": "tier_1",
+          "categories": [
+            "religious",
+            "historical"
+          ],
+          "whyInclude": {
+            "en": "The oldest temple in the district, from which Purnia gets its name.",
+            "hi": "जिले का सबसे पुराना मंदिर, जिससे पूर्णिया का नाम पड़ा।"
+          },
+          "historicalSignificance": {
+            "en": "Highly revered ancient shrine with deep cultural roots.",
+            "hi": "गहरी सांस्कृतिक जड़ों वाला अत्यधिक श्रद्धेय प्राचीन मंदिर।"
+          },
+          "visitorValue": {
+            "en": "Religious pilgrimage and historical interest.",
+            "hi": "धार्मिक तीर्थयात्रा और ऐतिहासिक रुचि।"
+          },
+          "sourceReferences": [],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "katihar",
+      "districtName": {
+        "en": "Katihar",
+        "hi": "कटिहार"
+      },
+      "tourismIdentity": {
+        "en": "Lakes and spiritual destinations",
+        "hi": "झीलें और आध्यात्मिक गंतव्य"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Goga Lake (Gogabil)",
+            "hi": "गोगा झील (गोगाबील)"
+          },
+          "slug": "goga-lake",
+          "candidateType": "lake",
+          "priority": "tier_1",
+          "categories": [
+            "natural",
+            "wildlife",
+            "eco_tourism_site"
+          ],
+          "whyInclude": {
+            "en": "A major oxbow lake and community reserve attracting migratory birds.",
+            "hi": "एक प्रमुख गोखुर झील और सामुदायिक रिज़र्व जो प्रवासी पक्षियों को आकर्षित करता है।"
+          },
+          "historicalSignificance": {
+            "en": "An important ecological hotspot in Bihar's wetland system.",
+            "hi": "बिहार की आर्द्रभूमि प्रणाली में एक महत्वपूर्ण पारिस्थितिक हॉटस्पॉट।"
+          },
+          "visitorValue": {
+            "en": "Eco-tourism and bird watching.",
+            "hi": "इको-टूरिज्म और बर्ड वाचिंग।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Gogabil",
+              "organization": "Bihar Government",
+              "url": "https://katihar.nic.in/tourist-place/gogabil-lake/"
+            }
+          ],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "araria",
+      "districtName": {
+        "en": "Araria",
+        "hi": "अररिया"
+      },
+      "tourismIdentity": {
+        "en": "Regional cultural and ecological parks",
+        "hi": "क्षेत्रीय सांस्कृतिक और पारिस्थितिक पार्क"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Bio Diversity Park",
+            "hi": "जैव विविधता पार्क"
+          },
+          "slug": "bio-diversity-park",
+          "candidateType": "park",
+          "priority": "tier_2",
+          "categories": [
+            "natural",
+            "eco_tourism_site"
+          ],
+          "whyInclude": {
+            "en": "A newly developed park focusing on local flora and conservation.",
+            "hi": "स्थानीय वनस्पतियों और संरक्षण पर केंद्रित एक नव विकसित पार्क।"
+          },
+          "historicalSignificance": {
+            "en": "Developed to promote eco-tourism and environmental awareness.",
+            "hi": "इको-टूरिज्म और पर्यावरण जागरूकता को बढ़ावा देने के लिए विकसित किया गया।"
+          },
+          "visitorValue": {
+            "en": "Recreation and nature walks.",
+            "hi": "मनोरंजन और प्रकृति की सैर।"
+          },
+          "sourceReferences": [],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "kishanganj",
+      "districtName": {
+        "en": "Kishanganj",
+        "hi": "किशनगंज"
+      },
+      "tourismIdentity": {
+        "en": "Tea estates, nature, cultural fusion, and local heritage",
+        "hi": "चाय बागान, प्रकृति, सांस्कृतिक संलयन, और स्थानीय विरासत"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Kishanganj Tea Gardens",
+            "hi": "किशनगंज चाय बागान"
+          },
+          "slug": "kishanganj-tea-gardens",
+          "candidateType": "natural_attraction",
+          "priority": "tier_2",
+          "categories": [
+            "natural",
+            "eco_tourism"
+          ],
+          "whyInclude": {
+            "en": "Bihar's only tea-producing region, offering scenic landscapes and unique agri-tourism.",
+            "hi": "बिहार का एकमात्र चाय उत्पादक क्षेत्र, जो सुंदर परिदृश्य और अद्वितीय कृषि-पर्यटन प्रदान करता है।"
+          },
+          "historicalSignificance": {
+            "en": "A unique agricultural development in Bihar with landscapes reminiscent of Darjeeling.",
+            "hi": "बिहार में एक अनूठा कृषि विकास, जिसके परिदृश्य दार्जिलिंग की याद दिलाते हैं।"
+          },
+          "visitorValue": {
+            "en": "Scenic views, photography, and experiencing tea cultivation.",
+            "hi": "सुंदर दृश्य, फोटोग्राफी, और चाय की खेती का अनुभव।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Kishanganj District Tourism",
+              "organization": "District Administration",
+              "url": "https://kishanganj.nic.in/tourist-places/"
+            }
+          ],
+          "verificationStatus": "verified"
+        },
+        {
+          "name": {
+            "en": "Khagra Mela Grounds",
+            "hi": "खगरा मेला मैदान"
+          },
+          "slug": "khagra-mela",
+          "candidateType": "cultural_site",
+          "priority": "tier_3",
+          "categories": [
+            "cultural"
+          ],
+          "whyInclude": {
+            "en": "Historically significant site for one of the region's largest traditional fairs.",
+            "hi": "क्षेत्र के सबसे बड़े पारंपरिक मेलों में से एक के लिए ऐतिहासिक रूप से महत्वपूर्ण स्थल।"
+          },
+          "historicalSignificance": {
+            "en": "Established by the local Nawab, it has been a center of commerce and culture for over a century.",
+            "hi": "स्थानीय नवाब द्वारा स्थापित, यह एक सदी से अधिक समय से वाणिज्य और संस्कृति का केंद्र रहा है।"
+          },
+          "visitorValue": {
+            "en": "Cultural immersion and witnessing local traditions, especially during the mela season.",
+            "hi": "सांस्कृतिक विसर्जन और स्थानीय परंपराओं को देखना, विशेषकर मेला के मौसम में।"
+          },
+          "sourceReferences": [],
+          "verificationStatus": "needs_verification"
+        }
+      ]
+    },
+    {
+      "districtId": "saharsa",
+      "districtName": {
+        "en": "Saharsa",
+        "hi": "सहरसा"
+      },
+      "tourismIdentity": {
+        "en": "Ancient temples, Shakti worship, and religious heritage",
+        "hi": "प्राचीन मंदिर, शक्ति पूजा, और धार्मिक विरासत"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Tara Asthan, Mahishi",
+            "hi": "तारा अस्थान, महिषी"
+          },
+          "slug": "tara-asthan-mahishi",
+          "candidateType": "temple",
+          "priority": "tier_1",
+          "categories": [
+            "religious",
+            "historical"
+          ],
+          "whyInclude": {
+            "en": "One of the most important Shakti Peethas (Ugra Tara) in Bihar, attracting devotees nationally.",
+            "hi": "बिहार के सबसे महत्वपूर्ण शक्तिपीठों (उग्र तारा) में से एक, जो राष्ट्रीय स्तर पर भक्तों को आकर्षित करता है।"
+          },
+          "historicalSignificance": {
+            "en": "Associated with ancient Tantric worship and historical philosopher Mandan Mishra.",
+            "hi": "प्राचीन तांत्रिक पूजा और ऐतिहासिक दार्शनिक मंडन मिश्र से जुड़ा हुआ है।"
+          },
+          "visitorValue": {
+            "en": "Deep spiritual significance, ancient architecture, and religious tourism.",
+            "hi": "गहरा आध्यात्मिक महत्व, प्राचीन वास्तुकला, और धार्मिक पर्यटन।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Saharsa Tourism",
+              "organization": "Bihar Tourism",
+              "url": "https://tourism.bihar.gov.in/"
+            }
+          ],
+          "verificationStatus": "verified"
+        },
+        {
+          "name": {
+            "en": "Sun Temple, Kandaha",
+            "hi": "सूर्य मंदिर, कंदहा"
+          },
+          "slug": "sun-temple-kandaha",
+          "candidateType": "temple",
+          "priority": "tier_2",
+          "categories": [
+            "religious",
+            "historical",
+            "archaeological"
+          ],
+          "whyInclude": {
+            "en": "A rare and ancient Sun temple featuring historic inscriptions.",
+            "hi": "एक दुर्लभ और प्राचीन सूर्य मंदिर जिसमें ऐतिहासिक शिलालेख हैं।"
+          },
+          "historicalSignificance": {
+            "en": "Contains inscriptions from the 14th century relating to King Narasimhadeva of the Oinwar dynasty.",
+            "hi": "इसमें ओइनवार वंश के राजा नरसिंहदेव से संबंधित 14वीं शताब्दी के शिलालेख हैं।"
+          },
+          "visitorValue": {
+            "en": "Archaeological exploration and religious visits.",
+            "hi": "पुरातात्विक अन्वेषण और धार्मिक यात्राएं।"
+          },
+          "sourceReferences": [],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "madhepura",
+      "districtName": {
+        "en": "Madhepura",
+        "hi": "मधेपुरा"
+      },
+      "tourismIdentity": {
+        "en": "Shiv Bhakti and spiritual reverence",
+        "hi": "शिव भक्ति और आध्यात्मिक श्रद्धा"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Singheshwar Asthan",
+            "hi": "सिंहेश्वर अस्थान"
+          },
+          "slug": "singheshwar-asthan",
+          "candidateType": "temple",
+          "priority": "tier_1",
+          "categories": [
+            "religious",
+            "pilgrimage"
+          ],
+          "whyInclude": {
+            "en": "A highly revered ancient Shiva temple drawing massive crowds, especially during Mahashivratri.",
+            "hi": "एक अत्यधिक पूजनीय प्राचीन शिव मंदिर, जो विशेष रूप से महाशिवरात्रि के दौरान भारी भीड़ खींचता है।"
+          },
+          "historicalSignificance": {
+            "en": "Believed to be an ancient site of worship mentioned in the Varaha Purana.",
+            "hi": "माना जाता है कि यह वराह पुराण में उल्लिखित पूजा का एक प्राचीन स्थल है।"
+          },
+          "visitorValue": {
+            "en": "Pilgrimage, attending the famous Shravani and Mahashivratri melas.",
+            "hi": "तीर्थयात्रा, प्रसिद्ध श्रावणी और महाशिवरात्रि मेलों में भाग लेना।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Madhepura Tourist Places",
+              "organization": "District Administration",
+              "url": "https://madhepura.nic.in/tourist-places/"
+            }
+          ],
+          "verificationStatus": "verified"
+        },
+        {
+          "name": {
+            "en": "Baba Karu Khirhari Temple",
+            "hi": "बाबा कारू खिरहरि मंदिर"
+          },
+          "slug": "baba-karu-khirhari",
+          "candidateType": "temple",
+          "priority": "tier_3",
+          "categories": [
+            "religious",
+            "cultural"
+          ],
+          "whyInclude": {
+            "en": "A popular local shrine dedicated to a revered local saint.",
+            "hi": "एक श्रद्धेय स्थानीय संत को समर्पित एक लोकप्रिय स्थानीय मंदिर।"
+          },
+          "historicalSignificance": {
+            "en": "Important for local folklore and agrarian traditions.",
+            "hi": "स्थानीय लोककथाओं और कृषि परंपराओं के लिए महत्वपूर्ण।"
+          },
+          "visitorValue": {
+            "en": "Cultural insight and local religious practices.",
+            "hi": "सांस्कृतिक अंतर्दृष्टि और स्थानीय धार्मिक प्रथाएं।"
+          },
+          "sourceReferences": [],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "supaul",
+      "districtName": {
+        "en": "Supaul",
+        "hi": "सुपौल"
+      },
+      "tourismIdentity": {
+        "en": "Kosi River landscapes and regional temples",
+        "hi": "कोसी नदी के परिदृश्य और क्षेत्रीय मंदिर"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Kosi Barrage, Birpur",
+            "hi": "कोसी बैराज, बीरपुर"
+          },
+          "slug": "kosi-barrage-birpur",
+          "candidateType": "natural_attraction",
+          "priority": "tier_1",
+          "categories": [
+            "natural",
+            "scenic"
+          ],
+          "whyInclude": {
+            "en": "A massive engineering marvel over the Kosi river on the Indo-Nepal border, offering scenic views.",
+            "hi": "भारत-नेपाल सीमा पर कोसी नदी के ऊपर एक विशाल इंजीनियरिंग चमत्कार, जो सुंदर दृश्य प्रस्तुत करता है।"
+          },
+          "historicalSignificance": {
+            "en": "A pivotal modern engineering project for flood control and irrigation.",
+            "hi": "बाढ़ नियंत्रण और सिंचाई के लिए एक महत्वपूर्ण आधुनिक इंजीनियरिंग परियोजना।"
+          },
+          "visitorValue": {
+            "en": "Sightseeing, photography, and experiencing the vastness of the Kosi river.",
+            "hi": "दर्शनीय स्थल, फोटोग्राफी, और कोसी नदी की विशालता का अनुभव।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Supaul Tourism",
+              "organization": "District Administration",
+              "url": "https://supaul.nic.in/"
+            }
+          ],
+          "verificationStatus": "verified"
+        },
+        {
+          "name": {
+            "en": "Kapileshwar Mandir",
+            "hi": "कपिलेश्वर मंदिर"
+          },
+          "slug": "kapileshwar-mandir-supaul",
+          "candidateType": "temple",
+          "priority": "tier_2",
+          "categories": [
+            "religious"
+          ],
+          "whyInclude": {
+            "en": "A significant regional Shiva temple.",
+            "hi": "एक महत्वपूर्ण क्षेत्रीय शिव मंदिर।"
+          },
+          "historicalSignificance": {
+            "en": "An ancient center of worship for the local populace.",
+            "hi": "स्थानीय आबादी के लिए पूजा का एक प्राचीन केंद्र।"
+          },
+          "visitorValue": {
+            "en": "Religious pilgrimage and spiritual peace.",
+            "hi": "धार्मिक तीर्थयात्रा और आध्यात्मिक शांति।"
+          },
+          "sourceReferences": [],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "gaya",
+      "districtName": {
+        "en": "Gaya",
+        "hi": "गया"
+      },
+      "tourismIdentity": {
+        "en": "Global spiritual epicenter, Buddhism, and ancestral worship",
+        "hi": "वैश्विक आध्यात्मिक उपरिकेंद्र, बौद्ध धर्म, और पैतृक पूजा"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Mahabodhi Temple Complex",
+            "hi": "महाबोधि मंदिर परिसर"
+          },
+          "slug": "mahabodhi-temple",
+          "candidateType": "temple",
+          "priority": "tier_1",
+          "categories": [
+            "religious",
+            "historical",
+            "archaeological",
+            "heritage"
+          ],
+          "whyInclude": {
+            "en": "UNESCO World Heritage site and the most important Buddhist pilgrimage destination in the world.",
+            "hi": "यूनेस्को विश्व धरोहर स्थल और दुनिया का सबसे महत्वपूर्ण बौद्ध तीर्थ स्थल।"
+          },
+          "historicalSignificance": {
+            "en": "The exact location where Gautama Buddha attained enlightenment under the Bodhi Tree.",
+            "hi": "वह सटीक स्थान जहां गौतम बुद्ध ने बोधि वृक्ष के नीचे ज्ञान प्राप्त किया था।"
+          },
+          "visitorValue": {
+            "en": "Spiritual pilgrimage, meditation, architecture, and historical exploration.",
+            "hi": "आध्यात्मिक तीर्थयात्रा, ध्यान, वास्तुकला, और ऐतिहासिक अन्वेषण।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Mahabodhi Temple Complex",
+              "organization": "UNESCO",
+              "url": "https://whc.unesco.org/en/list/1056/"
+            }
+          ],
+          "verificationStatus": "verified"
+        },
+        {
+          "name": {
+            "en": "Vishnupad Temple",
+            "hi": "विष्णुपद मंदिर"
+          },
+          "slug": "vishnupad-temple",
+          "candidateType": "temple",
+          "priority": "tier_1",
+          "categories": [
+            "religious",
+            "pilgrimage",
+            "historical"
+          ],
+          "whyInclude": {
+            "en": "A central pilgrimage site for Hindus to perform Pind Daan for ancestors.",
+            "hi": "हिंदुओं के लिए अपने पूर्वजों का पिंडदान करने के लिए एक केंद्रीय तीर्थ स्थल।"
+          },
+          "historicalSignificance": {
+            "en": "Houses the footprint of Lord Vishnu; rebuilt in its present form by Queen Ahilyabai Holkar in 1787.",
+            "hi": "इसमें भगवान विष्णु के पदचिह्न हैं; इसका वर्तमान स्वरूप 1787 में रानी अहिल्याबाई होल्कर द्वारा बनवाया गया था।"
+          },
+          "visitorValue": {
+            "en": "Performing ancestral rituals (Pind Daan), admiring the octagonal architecture.",
+            "hi": "पैतृक अनुष्ठान (पिंडदान) करना, अष्टकोणीय वास्तुकला की प्रशंसा करना।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Gaya District",
+              "organization": "Bihar Tourism",
+              "url": "https://tourism.bihar.gov.in/en/destinations/gaya"
+            }
+          ],
+          "verificationStatus": "verified"
+        },
+        {
+          "name": {
+            "en": "Dungeshwari Cave Temples",
+            "hi": "डुंगेश्वरी गुफा मंदिर"
+          },
+          "slug": "dungeshwari-caves",
+          "candidateType": "cave",
+          "priority": "tier_2",
+          "categories": [
+            "religious",
+            "historical",
+            "natural"
+          ],
+          "whyInclude": {
+            "en": "Important Buddhist site where Buddha meditated before reaching Bodh Gaya.",
+            "hi": "महत्वपूर्ण बौद्ध स्थल जहां बुद्ध ने बोधगया पहुंचने से पहले ध्यान किया था।"
+          },
+          "historicalSignificance": {
+            "en": "Site of Buddha's severe asceticism for several years.",
+            "hi": "कई वर्षों तक बुद्ध की कठोर तपस्या का स्थल।"
+          },
+          "visitorValue": {
+            "en": "Meditation, spiritual connection, and scenic hill views.",
+            "hi": "ध्यान, आध्यात्मिक संबंध, और सुंदर पहाड़ी दृश्य।"
+          },
+          "sourceReferences": [],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "nawada",
+      "districtName": {
+        "en": "Nawada",
+        "hi": "नवादा"
+      },
+      "tourismIdentity": {
+        "en": "Waterfalls, nature, and Sarvodaya heritage",
+        "hi": "झरने, प्रकृति, और सर्वोदय विरासत"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Kakolat Waterfall",
+            "hi": "ककोलत जलप्रपात"
+          },
+          "slug": "kakolat-waterfall",
+          "candidateType": "waterfall",
+          "priority": "tier_1",
+          "categories": [
+            "natural",
+            "eco_tourism"
+          ],
+          "whyInclude": {
+            "en": "One of Bihar's most famous and scenic natural waterfalls, recently redeveloped for tourism.",
+            "hi": "बिहार के सबसे प्रसिद्ध और दर्शनीय प्राकृतिक झरनों में से एक, जिसे हाल ही में पर्यटन के लिए पुनर्विकसित किया गया है।"
+          },
+          "historicalSignificance": {
+            "en": "Associated with Hindu mythology involving a king turned into a python by a sage's curse.",
+            "hi": "हिंदू पौराणिक कथाओं से जुड़ा हुआ है जिसमें एक ऋषि के श्राप से एक राजा अजगर बन गया था।"
+          },
+          "visitorValue": {
+            "en": "Nature tourism, bathing, and picnicking in a lush green environment.",
+            "hi": "प्रकृति पर्यटन, स्नान, और हरे-भरे वातावरण में पिकनिक।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Kakolat Waterfall",
+              "organization": "Bihar Tourism",
+              "url": "https://tourism.bihar.gov.in/en/destinations/nawada/kakolat"
+            }
+          ],
+          "verificationStatus": "verified"
+        },
+        {
+          "name": {
+            "en": "Sarvodaya Ashram, Sekhodeora",
+            "hi": "सर्वोदय आश्रम, सेखोदेवरा"
+          },
+          "slug": "sarvodaya-ashram-sekhodeora",
+          "candidateType": "historical_site",
+          "priority": "tier_2",
+          "categories": [
+            "historical",
+            "cultural",
+            "educational"
+          ],
+          "whyInclude": {
+            "en": "An ashram established by Jayaprakash Narayan (JP) for rural development.",
+            "hi": "जयप्रकाश नारायण (जेपी) द्वारा ग्रामीण विकास के लिए स्थापित एक आश्रम।"
+          },
+          "historicalSignificance": {
+            "en": "A key center for the Sarvodaya movement and social upliftment in post-independence India.",
+            "hi": "स्वतंत्रता के बाद के भारत में सर्वोदय आंदोलन और सामाजिक उत्थान के लिए एक प्रमुख केंद्र।"
+          },
+          "visitorValue": {
+            "en": "Understanding the history of JP's social movements and rural development models.",
+            "hi": "जेपी के सामाजिक आंदोलनों और ग्रामीण विकास मॉडल के इतिहास को समझना।"
+          },
+          "sourceReferences": [],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "jehanabad",
+      "districtName": {
+        "en": "Jehanabad",
+        "hi": "जहानाबाद"
+      },
+      "tourismIdentity": {
+        "en": "Ancient rock-cut architecture and spiritual confluence",
+        "hi": "प्राचीन रॉक-कट वास्तुकला और आध्यात्मिक संगम"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Barabar Caves",
+            "hi": "बराबर गुफाएं"
+          },
+          "slug": "barabar-caves",
+          "candidateType": "cave",
+          "priority": "tier_1",
+          "categories": [
+            "archaeological",
+            "historical",
+            "heritage"
+          ],
+          "whyInclude": {
+            "en": "The oldest surviving rock-cut caves in India, featuring incredible acoustic polish.",
+            "hi": "भारत की सबसे पुरानी जीवित रॉक-कट गुफाएं, जिनमें अविश्वसनीय ध्वनिक पॉलिश है।"
+          },
+          "historicalSignificance": {
+            "en": "Dating back to the Mauryan Empire (3rd century BC), built for the Ajivika ascetics.",
+            "hi": "मौर्य साम्राज्य (तीसरी शताब्दी ईसा पूर्व) से संबंधित, आजीविका संन्यासियों के लिए निर्मित।"
+          },
+          "visitorValue": {
+            "en": "Experiencing ancient engineering, architecture, and the remarkable cave acoustics.",
+            "hi": "प्राचीन इंजीनियरिंग, वास्तुकला, और उल्लेखनीय गुफा ध्वनिकी का अनुभव करना।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Barabar Caves",
+              "organization": "Archaeological Survey of India",
+              "url": "https://asi.nic.in/"
+            }
+          ],
+          "verificationStatus": "verified"
+        },
+        {
+          "name": {
+            "en": "Nagarjuni Caves",
+            "hi": "नागार्जुनी गुफाएं"
+          },
+          "slug": "nagarjuni-caves",
+          "candidateType": "cave",
+          "priority": "tier_2",
+          "categories": [
+            "archaeological",
+            "historical",
+            "heritage"
+          ],
+          "whyInclude": {
+            "en": "Companion site to Barabar, located a few kilometers away, containing significant Mauryan caves.",
+            "hi": "बराबर का सहयोगी स्थल, कुछ किलोमीटर दूर स्थित, जिसमें महत्वपूर्ण मौर्य गुफाएं हैं।"
+          },
+          "historicalSignificance": {
+            "en": "Contains inscriptions from Ashoka's grandson Dasaratha, also dedicated to the Ajivikas.",
+            "hi": "अशोक के पोते दशरथ के शिलालेख हैं, जो आजीविकाओं को भी समर्पित हैं।"
+          },
+          "visitorValue": {
+            "en": "Exploring further Mauryan rock-cut architecture in a quieter setting.",
+            "hi": "शांत वातावरण में आगे की मौर्य रॉक-कट वास्तुकला की खोज।"
+          },
+          "sourceReferences": [],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "aurangabad",
+      "districtName": {
+        "en": "Aurangabad",
+        "hi": "औरंगाबाद"
+      },
+      "tourismIdentity": {
+        "en": "Sun worship traditions and architectural ruins",
+        "hi": "सूर्य पूजा परंपराएं और स्थापत्य खंडहर"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Deo Sun Temple",
+            "hi": "देव सूर्य मंदिर"
+          },
+          "slug": "deo-sun-temple",
+          "candidateType": "temple",
+          "priority": "tier_1",
+          "categories": [
+            "religious",
+            "historical",
+            "architectural"
+          ],
+          "whyInclude": {
+            "en": "A highly revered ancient Sun temple, uniquely facing west, and the epicenter of Chhath Puja.",
+            "hi": "एक अत्यधिक श्रद्धेय प्राचीन सूर्य मंदिर, जो विशिष्ट रूप से पश्चिम की ओर है, और छठ पूजा का केंद्र है।"
+          },
+          "historicalSignificance": {
+            "en": "An architectural marvel built in the Nagara style, believed to be centuries old.",
+            "hi": "नागर शैली में निर्मित एक स्थापत्य चमत्कार, जिसे सदियों पुराना माना जाता है।"
+          },
+          "visitorValue": {
+            "en": "Participating in Chhath Puja, admiring the intricate stonework.",
+            "hi": "छठ पूजा में भाग लेना, जटिल पत्थर की नक्काशी की प्रशंसा करना।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Aurangabad Tourism",
+              "organization": "Bihar Tourism",
+              "url": "https://tourism.bihar.gov.in/en/destinations/aurangabad/deo-temple"
+            }
+          ],
+          "verificationStatus": "verified"
+        },
+        {
+          "name": {
+            "en": "Umga Hills",
+            "hi": "उमगा हिल्स"
+          },
+          "slug": "umga-hills",
+          "candidateType": "hill",
+          "priority": "tier_2",
+          "categories": [
+            "religious",
+            "archaeological",
+            "natural"
+          ],
+          "whyInclude": {
+            "en": "An ancient site featuring ruins of Vaishnava temples scattered across the hills.",
+            "hi": "एक प्राचीन स्थल जिसमें पहाड़ियों पर बिखरे हुए वैष्णव मंदिरों के खंडहर हैं।"
+          },
+          "historicalSignificance": {
+            "en": "Historically significant for its ancient stone temples and rock-cut structures.",
+            "hi": "अपने प्राचीन पत्थर के मंदिरों और रॉक-कट संरचनाओं के लिए ऐतिहासिक रूप से महत्वपूर्ण।"
+          },
+          "visitorValue": {
+            "en": "Trekking, historical exploration, and photography.",
+            "hi": "ट्रेकिंग, ऐतिहासिक अन्वेषण, और फोटोग्राफी।"
+          },
+          "sourceReferences": [],
+          "verificationStatus": "verified"
+        },
+        {
+          "name": {
+            "en": "Daudnagar Fort",
+            "hi": "दाउदनगर किला"
+          },
+          "slug": "daudnagar-fort",
+          "candidateType": "fort",
+          "priority": "tier_3",
+          "categories": [
+            "historical",
+            "architectural"
+          ],
+          "whyInclude": {
+            "en": "A historical fort on the banks of the Son River.",
+            "hi": "सोन नदी के तट पर एक ऐतिहासिक किला।"
+          },
+          "historicalSignificance": {
+            "en": "Founded by Daud Khan, a commander of Aurangzeb, showcasing medieval architecture.",
+            "hi": "औरंगजेब के सेनापति दाऊद खान द्वारा स्थापित, मध्ययुगीन वास्तुकला का प्रदर्शन।"
+          },
+          "visitorValue": {
+            "en": "Exploring medieval ruins and the historical legacy of the region.",
+            "hi": "मध्ययुगीन खंडहरों और क्षेत्र की ऐतिहासिक विरासत की खोज करना।"
+          },
+          "sourceReferences": [],
+          "verificationStatus": "verified"
+        }
+      ]
+    },
+    {
+      "districtId": "arwal",
+      "districtName": {
+        "en": "Arwal",
+        "hi": "अरवल"
+      },
+      "tourismIdentity": {
+        "en": "Quiet riverfronts and local spiritual centers",
+        "hi": "शांत रिवरफ्रंट और स्थानीय आध्यात्मिक केंद्र"
+      },
+      "places": [
+        {
+          "name": {
+            "en": "Madhushrava Temple",
+            "hi": "मधुश्रवा मंदिर"
+          },
+          "slug": "madhushrava-temple",
+          "candidateType": "temple",
+          "priority": "tier_2",
+          "categories": [
+            "religious",
+            "historical"
+          ],
+          "whyInclude": {
+            "en": "The most significant religious site in the Arwal district.",
+            "hi": "अरवल जिले में सबसे महत्वपूर्ण धार्मिक स्थल।"
+          },
+          "historicalSignificance": {
+            "en": "An ancient temple dedicated to Lord Shiva, attracting devotees from across the district.",
+            "hi": "भगवान शिव को समर्पित एक प्राचीन मंदिर, जो पूरे जिले से भक्तों को आकर्षित करता है।"
+          },
+          "visitorValue": {
+            "en": "Religious worship, especially crowded during the month of Shravan.",
+            "hi": "धार्मिक पूजा, विशेष रूप से श्रावण माह के दौरान भीड़ होती है।"
+          },
+          "sourceReferences": [
+            {
+              "title": "Arwal District",
+              "organization": "District Administration",
+              "url": "https://arwal.nic.in/"
+            }
+          ],
+          "verificationStatus": "verified"
+        }
+      ]
+    }
+  ]
+}

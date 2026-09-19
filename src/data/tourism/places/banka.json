@@ -1,0 +1,763 @@
+[
+  {
+    "id": "mandar-hill",
+    "slug": "mandar-hill",
+    "name": {
+      "en": "Mandar Hill",
+      "hi": "मन्दार पर्वत"
+    },
+    "districtId": "banka",
+    "placeType": "hill",
+    "primaryCategory": "religious",
+    "categories": [
+      "religious",
+      "mythological",
+      "natural",
+      "adventure"
+    ],
+    "subcategories": [
+      "pilgrimage",
+      "trekking",
+      "ropeway",
+      "heritage_monument"
+    ],
+    "religions": [
+      "hinduism",
+      "jainism"
+    ],
+    "circuits": [
+      "spiritual_circuit",
+      "jain_circuit"
+    ],
+    "tags": [
+      "mustVisit",
+      "ropeway",
+      "trekking",
+      "mythology",
+      "panoramicViews",
+      "samudraManthan"
+    ],
+    "audiences": [
+      "pilgrims",
+      "families",
+      "trekkers",
+      "history_buffs",
+      "photographers"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "Legendary mythological granite hill revered as the churning rod of Samudra Manthan and a sacred Jain Nirvana Tirtha.",
+      "hi": "समुद्र मंथन की दिव्य मथानी के रूप में विख्यात और 12वें जैन तीर्थंकर का निर्वाण स्थल, ऐतिहासिक ग्रेनाइट पर्वत।"
+    },
+    "description": {
+      "en": "**Mandar Hill** (also reverently known as *Mandar Parvat*) is an awe-inspiring, isolated monolithic granite hill that rises dramatically approximately 700 feet (240 meters) above the undulating agricultural plains of Banka district in southeastern Bihar.\n\nRenowned across India as a sanctified confluence of myth, history, and geological grandeur, this monumental granite rock is celebrated in classical Puranic literature as the celestial churning rod (*Manthana Danda*) used by gods (*Devas*) and demons (*Asuras*) during the legendary cosmic churning of the milk ocean (*Samudra Manthan*).\n\nThe mountain captivates visitors with its rich ensemble of sacred and historical wonders:\n- Distinctive spiral grooves encircling the rock face, revered as impressions left by the divine serpent King **Vasuki**\n- Ancient rock-cut inscriptions, monolithic rock sculptures, and historic cave hermitages\n- Sacred Hindu shrines dedicated to **Lord Vishnu (Madhusudan)** and **Lord Narasimha**\n- Revered Jain temples on the summit commemorating the 12th Tirthankara, **Lord Vasupujya**\n- A state-of-the-art **passenger ropeway (cable car)** providing breathtaking aerial vistas of Banka and Jharkhand's horizon\n\nWhether embarking on an adventurous trek or a devout pilgrimage, Mandar Hill offers an unforgettable spiritual and visual odyssey.",
+      "hi": "**मन्दार पर्वत** (जिसे श्रद्धापूर्वक *मंदार हिल* भी कहा जाता है) दक्षिण-पूर्वी बिहार के बांका जिले के समतल कृषि मैदानों के बीच लगभग 700 फीट (240 मीटर) की ऊंचाई पर सीना ताने खड़ा एक विस्मयकारी और विशाल अखंड ग्रेनाइट पर्वत है।\n\nसंपूर्ण भारतवर्ष में पौराणिक गाथाओं, समृद्ध इतिहास और भूवैज्ञानिक भव्यता के एक पवित्र संगम के रूप में प्रतिष्ठित, इस स्मारकीय पर्वत का वर्णन प्राचीन पुराणों में उस दिव्य मथानी (*मंथन दंड*) के रूप में मिलता है जिसका उपयोग देवताओं और असुरों द्वारा समुद्र मंथन के दौरान किया गया था।\n\nयह दिव्य पर्वत अपने अनूठे आध्यात्मिक और प्राकृतिक आकर्षणों से पर्यटकों को मंत्रमुग्ध कर देता है:\n- पर्वत की ढलानों पर सर्पिलाकार खांचे, जिन्हें नागराज **वासुकी** के फेटों के पावन निशान माना जाता है\n- चट्टानों को तराशकर बनाई गई गुप्तकालीन प्राचीन गुफाएं, शिलालेख और कलात्मक मूर्तियां\n- शिखर एवं तलहटी में स्थित **भगवान मधुसूदन (विष्णु)** तथा **भगवान नृसिंह** के पावन देवालय\n- 12वें जैन तीर्थंकर **भगवान वासुपूज्य स्वामी** की तपोभूमि और निर्वाण स्थली के रूप में प्रतिष्ठित दिगंबर एवं श्वेतांबर जैन मंदिर\n- आधुनिक **रोपवे (केबल कार प्रणाली)**, जो आगंतुकों को मनोरम विहंगम दृश्य और सुगम यात्रा का आनंद प्रदान करती है\n\nधार्मिक आस्था, पुरातात्विक अन्वेषण और ट्रैकिंग के शौकीनों के लिए मन्दार पर्वत एक अत्यंत अविस्मरणीय और प्रेरणादायक गंतव्य है।"
+    },
+    "history": {
+      "en": "The chronicles of **Mandar Hill** stretch across millennia, immortalized in seminal Sanskrit scriptures including the **Skanda Purana**, **Vishnu Purana**, **Mahabharata**, and the **Varaha Purana**.\n\nAccording to classical Hindu cosmology, when the gods and demons resolved to churn the cosmic ocean to retrieve the nectar of immortality (*Amrita*), Mandar Parvat was chosen as the churning rod, stabilized upon the shell of Lord Vishnu's Kurma (tortoise) avatar while the serpent Vasuki served as the churning rope.\n\nHistorical and archaeological milestones preserve its multi-layered heritage:\n- **Gupta Era Inscriptions**: Rock inscriptions dating from the 6th to 7th century CE during the reign of King Adityasena of the Later Guptas record pious endowments, temple establishments, and hydraulic works.\n- **Defeat of Madhu-Kaitabha**: Legend recounts that Lord Vishnu slew the menacing demon Madhu upon this mountain, earning the eternal epithet *Madhusudan*.\n- **Jain Heritage**: Mandar Hill occupies a paramount place in Jain tradition, revered as the holy site where **Bhagwan Vasupujya**, the twelfth Jain Tirthankara, attained his Kevala Jnana (supreme enlightenment) and celebrated *Nirvana* (Moksha).\n- **Medieval Restorations**: Despite enduring invasions during the medieval era, including raids by Kalapahar, local kings of the Chandel and Anga dynasties diligently restored its shrines and stepped pilgrim pathways.",
+      "hi": "**मन्दार पर्वत** का इतिहास सहस्राब्दियों प्राचीन है, जिसकी महिमा **स्कंद पुराण**, **विष्णु पुराण**, **महाभारत** और **वराह पुराण** जैसे सनातन धर्म के प्रमुख ग्रंथों में स्वर्ण अक्षरों में दर्ज है।\n\nवैदिक और पौराणिक आख्यानों के अनुसार, जब देवों और दानवों ने अमरता का अमृत प्राप्त करने के लिए क्षीरसागर का मंथन करने का निश्चय किया, तब मन्दार पर्वत को ही मथानी बनाया गया, जिसे भगवान विष्णु के कूर्म अवतार ने अपनी पीठ पर धारण किया था और नागराज वासुकी रस्सी बने थे।\n\nइसके समृद्ध ऐतिहासिक और पुरातात्विक पहलू निम्नलिखित हैं:\n- **उत्तर-गुप्तकालीन अभिलेख**: पर्वत की चट्टानों पर छठी-सातवीं शताब्दी ईस्वी के उत्तर-गुप्त सम्राट आदित्यसेन और उनकी महारानी कोणदेवी के उत्कीर्ण शिलालेख मौजूद हैं, जो उस युग के भव्य निर्माणों की गवाही देते हैं।\n- **मधु-कैटभ वध**: धार्मिक मान्यता है कि भगवान विष्णु ने पृथ्वी पर आतंक फैलाने वाले महादैत्य मधु का संहार इसी पर्वत पर किया था, जिससे उन्हें *मधुसूदन* की दिव्य उपाधि मिली।\n- **जैन धर्म का परम तीर्थ**: जैन मान्यताओं के अनुसार, यह पर्वत 12वें तीर्थंकर **देवाधिदेव 1008 भगवान वासुपूज्य स्वामी** के पंचकल्याणक तीर्थों में अत्यंत पावन है, क्योंकि उन्होंने यहीं कठोर तपस्या कर केवलज्ञान और मोक्ष (निर्वाण) प्राप्त किया था।\n- **मध्यकालीन संरक्षण**: मध्ययुग के आक्रमणों के उपरांत भी अंग प्रदेश और चंदेल राजवंश के शासकों ने इस पर्वत के देवालयों, पाषाण सीढ़ियों और मूर्तियों का पुनरुद्धार कर इसकी पवित्रता को अक्षुण्ण बनाए रखा।"
+    },
+    "significance": {
+      "en": "The significance of **Mandar Hill** extends across religious boundaries, establishing it as an enduring symbol of spiritual syncretism and shared cultural heritage between **Hinduism** and **Jainism** in eastern India.\n\nFor Sanatana Dharma devotees, the mountain is not merely a geographic peak but an embodied divine manifestation of Lord Vishnu, drawing tens of thousands of pilgrims annually who circumambulate (*parikrama*) its rocky perimeter:\n- **Living Vedic Heritage**: The visible serpentine furrows carved along the natural granite rock face stand as tangible proof of the Puranic Samudra Manthan for millions of faithful believers.\n- **Sacred Jain Tirtha**: Thousands of Jain pilgrims from Gujarat, Rajasthan, Maharashtra, and across the globe travel here during annual Paryushana and Nirvana Laddu celebrations to worship the footprint emblems (*charan paduka*) atop the peak.\n- **Vibrant Folk Confluence**: During the auspicious festival of Makar Sankranti, the mountain transforms into the vibrant epicentre of the month-long **Bounsi Mela** (Mandar Mahotsav), where traditional tribal rituals of Santhal, Ho, and Oraon communities seamlessly blend with classical Hindu ceremonies.\n- **Geotourism and Adventure**: The striking inselberg formation, natural granite boulders, panoramic summits, and ropeway facility establish Mandar Hill as a premier eco-adventure and geotourism landmark of Bihar.",
+      "hi": "**मन्दार पर्वत** का महत्व धार्मिक सीमाओं से परे जाकर पूर्वी भारत में **सनातन हिंदू धर्म** और **जैन धर्म** के ऐतिहासिक समन्वय और साझी सांस्कृतिक विरासत का एक जीवंत प्रतीक प्रस्तुत करता है।\n\nहिंदू धर्मावलंबियों के लिए यह पर्वत केवल एक भौगोलिक चोटी नहीं बल्कि भगवान श्री हरि विष्णु का साक्षात स्वरूप है, जहां प्रतिवर्ष लाखों श्रद्धालु पर्वत की पावन परिक्रमा करने और इसके शिखरों पर शीश नवाने आते हैं:\n- **वैदिक आस्था का जीवंत प्रमाण**: पर्वत की ढलानों पर प्राकृतिक रूप से बनी सर्पिलाकार रेखाओं को श्रद्धालु समुद्र मंथन में नागराज वासुकी द्वारा छोड़ी गई छाप के रूप में श्रद्धापूर्वक पूजते हैं।\n- **जैन संप्रदाय की पावन निर्वाण भूमि**: 12वें तीर्थंकर भगवान वासुपूज्य स्वामी का मोक्ष स्थल होने के कारण, देश-विदेश से जैन तीर्थयात्री यहां निर्वाण लाडू अर्पित करने और पवित्र चरण पादुकाओं के दर्शन हेतु भक्तिभाव से पहुंचते हैं।\n- **लोक संस्कृति का संगम**: मकर संक्रांति के पावन अवसर पर यह पर्वत विख्यात **बौसी मेला** (मंदार महोत्सव) का साक्षी बनता है, जहां संथाल, हो और अन्य जनजातीय परंपराओं का सनातन आस्था के साथ अद्भुत समन्वय देखने को मिलता है।\n- **रोमांच और भू-पर्यटन**: अपने असाधारण अखंड ग्रेनाइट स्वरूप, विशाल प्राकृतिक शिलाओं, नवनिर्मित आधुनिक रोपवे और मनोरम दृश्यों के कारण यह स्थल बिहार के शीर्ष साहसिक और विरासत पर्यटन स्थलों में शुमार है।"
+    },
+    "location": {
+      "address": {
+        "en": "Mandar Hill Pilgrimage & Heritage Complex, National Highway 333A (Bhagalpur-Bounsi-Dumka Highway), Post Office Bounsi, Banka District, Bihar 813104, India. Geographically located in the southeastern quadrant of Bihar, the hill sits approximately 21 kilometers south of the Banka district administrative headquarters and approximately 48 kilometers south of the historic commercial city of Bhagalpur. Positioned close to the interstate border between Bihar and Jharkhand, the site enjoys outstanding road connectivity via regular state transit buses, private tourist coaches, and local rental vehicles. Visitors arriving by train can alight directly at Mandar Hill Railway Station (Station Code: MDLE), situated a convenient 3.5 kilometers from the hill's base, while the nearest regional airport is Deoghar Airport (approximately 65 kilometers away) and Patna International Airport lies approximately 250 kilometers to the northwest.",
+        "hi": "मन्दार पर्वत तीर्थ एवं धरोहर परिसर, राष्ट्रीय राजमार्ग 333A (भागलपुर-बौसी-दुमका मार्ग), प्रधान डाकघर बौसी, बांका जिला, बिहार 813104, भारत। दक्षिण-पूर्वी बिहार के अंग क्षेत्र में स्थित यह सुरम्य पर्वत बांका जिला प्रशासनिक मुख्यालय से लगभग 21 किलोमीटर दक्षिण में और ऐतिहासिक रेशम नगरी भागलपुर से लगभग 48 किलोमीटर दक्षिण दिशा में स्थित है। बिहार और झारखंड की अंतरराज्यीय सीमा के समीप अवस्थित होने के कारण, यह स्थल राज्य परिवहन की नियमित बसों, निजी पर्यटक वाहनों और टैक्सियों द्वारा पक्की सड़कों से बेहतरीन ढंग से जुड़ा हुआ है। रेल मार्ग से आने वाले तीर्थयात्री मन्दार पर्वत की तलहटी से मात्र 3.5 किलोमीटर दूर स्थित मन्दार हिल रेलवे स्टेशन (स्टेशन कोड: MDLE) पर उतर सकते हैं, जबकि निकटतम हवाई अड्डा देवघर अंतरराष्ट्रीय हवाई अड्डा (लगभग 65 किलोमीटर) और राज्य की राजधानी पटना का जयप्रकाश नारायण हवाई अड्डा लगभग 250 किलोमीटर दूर है।"
+      },
+      "latitude": 24.8398,
+      "longitude": 87.0255,
+      "mapQuery": "Mandar Hill, Banka, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "days": {
+            "en": "Monday to Sunday",
+            "hi": "सोमवार से रविवार"
+          },
+          "time": {
+            "en": "06:00 AM - 06:00 PM (Ropeway: 08:30 AM - 05:00 PM)",
+            "hi": "प्रातः 06:00 बजे से सायं 06:00 बजे तक (रोपवे: प्रातः 08:30 से सायं 05:00 बजे तक)"
+          }
+        }
+      ],
+      "entryFee": {
+        "amount": 0,
+        "currency": "INR",
+        "description": {
+          "en": "Free entry to hill premises; Ropeway charges approximately ₹100-₹150 roundtrip per person.",
+          "hi": "पर्वत परिसर में निःशुल्क प्रवेश; रोपवे का शुल्क लगभग ₹100-₹150 प्रति व्यक्ति (आना-जाना)।"
+        }
+      },
+      "recommendedDurationMinutes": 180,
+      "bestTimeToVisit": {
+        "en": "October to March (Special festive peak during Makar Sankranti in January)",
+        "hi": "अक्टूबर से मार्च (जनवरी में मकर संक्रांति के दौरान विशेष उत्सव का समय)"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Well-connected via NH-333A directly connecting Bhagalpur, Banka, Bounsi, and Dumka. Regular deluxe and local state buses operate from Bhagalpur, Banka, and Deoghar.",
+        "hi": "भागलपुर, बांका, बौसी और दुमका को जोड़ने वाले राष्ट्रीय राजमार्ग 333A द्वारा सुगम संपर्क। भागलपुर, बांका और देवघर से नियमित बसें संचालित होती हैं।"
+      },
+      "railway": [
+        {
+          "station": "Mandar Hill Railway Station (MDLE)",
+          "distanceKm": 3.5
+        },
+        {
+          "station": "Bhagalpur Junction (BGP)",
+          "distanceKm": 48
+        },
+        {
+          "station": "Banka Junction (BAKA)",
+          "distanceKm": 21
+        }
+      ],
+      "airport": [
+        {
+          "airport": "Deoghar International Airport (DGH)",
+          "distanceKm": 65
+        },
+        {
+          "airport": "Patna Jay Prakash Narayan Airport (PAT)",
+          "distanceKm": 250
+        }
+      ],
+      "localTransport": {
+        "en": "Auto-rickshaws, e-rickshaws, and private rental cabs are widely available from Bounsi market and Mandar Hill station.",
+        "hi": "बौसी मुख्य बाजार और मन्दार हिल स्टेशन से ऑटो-रिक्शा, ई-रिक्शा और निजी किराये की टैक्सियां प्रचुरता में उपलब्ध हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": 0,
+      "localTransport": 150
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": true,
+      "atm": true,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "moderate",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 1500,
+      "stairs": true,
+      "wheelchairAccessible": false,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "To enjoy a safe and rewarding exploration of Mandar Hill, begin your climb early in the morning around sunrise to avoid the blistering midday heat, especially between April and September. Wear high-traction trekking shoes as the granite rock surfaces and stone staircases can become slippery, particularly during the rainy season. Carrying ample drinking water, energetic snacks, sun protection such as hats and sunscreen, and a walking stick is strongly advised for those hiking the complete flight of nearly 700 rock steps. Visitors with elderly family members or young children should take advantage of the modern passenger ropeway (cable car) to reach the summit effortlessly while enjoying spectacular aerial views. Allocate at least 3 to 4 hours to thoroughly experience the sacred rock carvings, cave shrines, summit temples, and the serene Papaharini tank at the base.",
+        "hi": "मन्दार पर्वत की सुखद और सुरक्षित यात्रा के लिए सुबह सूर्योदय के समय अपनी चढ़ाई शुरू करने की सलाह दी जाती है, ताकि दिन की तेज धूप और गर्मी से बचा जा सके, विशेष रूप से ग्रीष्मकाल के दौरान। चढ़ाई के लिए अच्छी ग्रिप वाले ट्रैकिंग जूते पहनें, क्योंकि ग्रेनाइट की ढलानें और प्राचीन पाषाण सीढ़ियां, विशेषकर वर्षा ऋतु में, काफी फिसलन भरी हो सकती हैं। लगभग 700 सीढ़ियों की चढ़ाई पूरी करने के लिए अपने साथ पर्याप्त पीने का पानी, एनर्जी स्नैक्स, धूप से बचाव हेतु टोपी, सनस्क्रीन और एक छड़ी अवश्य रखें। बुजुर्गों, अस्वस्थ व्यक्तियों और छोटे बच्चों के साथ आने वाले परिवारों को आधुनिक केबल कार (रोपवे) सेवा का उपयोग करना चाहिए, जिससे कुछ ही मिनटों में विहंगम दृश्यों का आनंद लेते हुए शिखर तक आसानी से पहुँचा जा सकता है। गुफाओं, रॉक-कट नक्काशी, शिखर के जैन-हिंदू मंदिरों और तलहटी के पापहारिणी सरोवर का समग्र अनुभव लेने के लिए कम से कम 3 से 4 घंटे का समय निर्धारित करें।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "papaharini-sarovar",
+      "bounsi-mela-ground-madhusudan-temple",
+      "odhni-dam"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        {
+          "title": "Mandar Hill - Banka Tourism",
+          "organization": "Bihar State Tourism Development Corporation",
+          "url": "https://tourism.bihar.gov.in/en/destinations/banka/mandar-hill"
+        },
+        {
+          "title": "Places of Interest in Banka District",
+          "organization": "District Administration Banka, Government of Bihar",
+          "url": "https://banka.nic.in/tourist-place/mandar-hill/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "papaharini-sarovar",
+    "slug": "papaharini-sarovar",
+    "name": {
+      "en": "Papaharini Sarovar",
+      "hi": "पापहारिणी सरोवर"
+    },
+    "districtId": "banka",
+    "placeType": "lake",
+    "primaryCategory": "religious",
+    "categories": [
+      "religious",
+      "mythological",
+      "cultural",
+      "natural"
+    ],
+    "subcategories": [
+      "sacred_tank",
+      "holy_dip",
+      "pilgrimage_ghat"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "spiritual_circuit",
+      "ramayana_circuit"
+    ],
+    "tags": [
+      "mustVisit",
+      "sacredLake",
+      "makarSankranti",
+      "holyDip",
+      "peaceful",
+      "sitaKund"
+    ],
+    "audiences": [
+      "pilgrims",
+      "families",
+      "culture_enthusiasts",
+      "photographers"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "Sacred foot-hill lake celebrated for its sin-cleansing holy waters and historic Makar Sankranti holy dip.",
+      "hi": "मन्दार पर्वत की तलहटी में स्थित पवित्र सरोवर, जो पापनाशिनी जल और मकर संक्रांति पुण्य स्नान के लिए प्रसिद्ध है।"
+    },
+    "description": {
+      "en": "**Papaharini Sarovar** (historically revered as *Manohar Kund*) is an expansive, sacred freshwater lake situated serenely right at the picturesque southern foothills of the legendary Mandar Hill in Banka district, Bihar.\n\nCelebrated for centuries as a potent reservoir of spiritual purification, the name *Papaharini* literally translates from Sanskrit as \"the destroyer of all sins.\" The tranquil waterbody is encircled by ancient stone steps (*ghats*), shady sacred groves, and a ring of revered temples, creating a deeply contemplative and shrine-like atmosphere for pilgrims and travelers alike.\n\nKey visual and architectural elements around the holy sarovar include:\n- An exquisite island shrine dedicated to **Lord Vishnu** and **Goddess Lakshmi** gracefully floating in the midst of the water, accessed by a scenic bridge\n- The holy **Sita Kund** and surrounding springs nestled along the perimeter\n- Broad stone bathing pavilions where thousands of pilgrims gather for ritual ablutions\n- Sweeping reflections of the towering monolithic Mandar granite cliff mirrored against the shimmering waters\n\nVisiting Papaharini Sarovar at dawn, enveloped in temple chants and the fragrance of incense, offers a deeply moving spiritual immersion into Bihar’s timeless devotional culture.",
+      "hi": "**पापहारिणी सरोवर** (जिसे प्राचीन काल में *मनोहर कुंड* भी कहा जाता था) बिहार के बांका जिले में विख्यात मन्दार पर्वत की सुरम्य तलहटी में स्थित एक विशाल, शांत और अत्यंत पावन सरोवर है।\n\nसदियों से आध्यात्मिक शुद्धि और रोग मुक्ति के एक चमत्कारी जलस्रोत के रूप में पूजनीय इस सरोवर के नाम *पापहारिणी* का शाब्दिक संस्कृत अर्थ है \"समस्त पापों का हरण करने वाली\"। यह पावन जलाशय प्राचीन पाषाण घाटों, छायादार वट एवं पीपल के वृक्षों और चारों ओर फैले मनोहारी देवालयों से सुशोभित है, जो आने वाले तीर्थयात्रियों और पर्यटकों को एक शांत और भक्तिमय वातावरण प्रदान करता है।\n\nइस पवित्र सरोवर के प्रमुख स्थापत्य और दर्शनीय आकर्षण इस प्रकार हैं:\n- सरोवर के ठीक बीचों-बीच स्थित कलात्मक द्वीप मंदिर, जिसमें **भगवान श्री लक्ष्मीनारायण** की मनोहारी प्रतिमाएं प्रतिष्ठित हैं और जहां पुल के माध्यम से पहुंचा जाता है\n- सरोवर के किनारे स्थित पावन **सीता कुंड** एवं प्राकृतिक जलप्रवाह\n- पक्के चौड़े पाषाण घाट जहां श्रद्धालु तर्पण और पूजा-अर्चना संपन्न करते हैं\n- सरोवर के शांत नीले जल में मन्दार पर्वत के विशाल ग्रेनाइट शिखर का विस्मयकारी और मनोरम प्रतिबिंब\n\nप्रातःकाल के समय जब घंटियों की मधुर ध्वनि और वैदिक मंत्रोच्चार गूंजते हैं, तब पापहारिणी सरोवर का दर्शन श्रद्धालुओं को एक अलौकिक शांति और परम आनंद की अनुभूति कराता है।"
+    },
+    "history": {
+      "en": "The historical lineage of **Papaharini Sarovar** is intertwined with ancient royal legends and classical Vedic literature, tracing back to the early medieval centuries of the Anga kingdom.\n\nAccording to deeply cherished local tradition and regional folklore, King **Chhatra Sen** of the Chola/Bengal dynasty was afflicted with severe leprosy and sought divine refuge across holy lands. While traversing the wilderness near Mandar Hill, his queen discovered this secluded natural pond, and upon bathing in its crystal waters on the auspicious astronomical day of **Makar Sankranti**, the king was miraculously cured of his debilitating disease.\n\nHistorical chronicles reflect significant developments over the centuries:\n- **Royal Patronage and Ghat Construction**: Overjoyed by his miraculous restoration, King Chhatra Sen had the pond extensively excavated, enlarging it into an expansive reservoir fortified with sturdy granite stone embankments and bathing ghats.\n- **Medieval Inscriptions**: Later rulers of the Later Gupta and Sen dynasties patronized the holy tank, dedicating commemorative pillars and shrines to celebrate Lord Madhusudan.\n- **The Chaitanya Mahaprabhu Connection**: In the 16th century, the venerated saint Sri Chaitanya Mahaprabhu sanctified this site during his travels through the Anga region, inspiring the timeless tradition of the ceremonial Makar Sankranti bath and chariot procession.",
+      "hi": "**पापहारिणी सरोवर** का इतिहास प्राचीन राजवंशों की गाथाओं और वैदिक मान्यताओं के साथ अत्यंत गहराई से जुड़ा हुआ है, जो अंग प्रदेश के प्रारंभिक मध्यकालीन इतिहास की गवाही देता है।\n\nक्षेत्रीय लोककथाओं और ऐतिहासिक अनुश्रुतियों के अनुसार, प्राचीन काल में चोल/बंगाल राजवंश के राजा **छत्र सेन** कुष्ठ रोग (कोढ़) के भयंकर कष्ट से ग्रसित थे और स्वास्थ्य लाभ हेतु अनेक तीर्थों की यात्रा कर रहे थे। जब वे मन्दार पर्वत के निकट पहुंचे, तब उनकी महारानी ने इस प्राकृतिक जलाशय की खोज की। राजा छत्र सेन ने जब **मकर संक्रांति** के पावन पुण्यकाल में इस अमृततुल्य जल में स्नान किया, तो वे चमत्कारिक रूप से अपने असाध्य कुष्ठ रोग से पूर्णतः मुक्त हो गए।\n\nइस सरोवर के ऐतिहासिक विकास के प्रमुख चरण इस प्रकार हैं:\n- **शाही संरक्षण एवं विशाल घाटों का निर्माण**: अपने रोग से मुक्ति पाने के पश्चात कृतज्ञ राजा छत्र सेन ने इस सरोवर का व्यापक विस्तार करवाया और इसके चारों ओर मजबूत ग्रेनाइट पत्थरों के भव्य घाटों का निर्माण कराया।\n- **शिलालेख एवं मध्यकालीन प्रमाण**: उत्तर-गुप्त काल तथा सेन राजवंश के कालखंड में भी इस सरोवर के किनारे अनेक यज्ञ-अनुष्ठान हुए और शिलालेख स्थापित किए गए, जो भगवान मधुसूदन के प्रति समर्पित थे।\n- **श्री चैतन्य महाप्रभु का आगमन**: 16वीं शताब्दी में महान वैष्णव संत श्री चैतन्य महाप्रभु ने इस पावन स्थल की यात्रा की और यहां संकीर्तन किया, जिससे मकर संक्रांति के पावन स्नान और रथयात्रा की परंपरा को एक नव चेतना और व्यापक सामाजिक प्रतिष्ठा प्राप्त हुई।"
+    },
+    "significance": {
+      "en": "The significance of **Papaharini Sarovar** lies at the very heart of the Mandar pilgrimage experience, embodying centuries of healing faith, spiritual purification, and vibrant communal harmony.\n\nDevotees across eastern India revere the lake as a sacred threshold where divine grace cleanses spiritual and physical impurities, creating an enduring sanctuary of devotion:\n- **Makar Sankranti Holy Dip**: On January 14th and 15th every year, over a hundred thousand devotees assemble before dawn to partake in the historic *Punya Snan*, offering prayers, sesame seeds, and jaggery to Surya Dev.\n- **Welcoming Lord Madhusudan**: The apex of the pilgrimage occurs when the ceremonial palanquin of Lord Madhusudan arrives in grand procession from the Bounsi temple to bathe in the sarovar, marked by conch blowing and devotional kirtans.\n- **Cultural Harmony**: The ghats provide a common meeting ground for diverse indigenous communities and urban pilgrims, celebrating age-old harmony through shared holy rituals.\n- **Ecological and Heritage Sanctuary**: Beyond its ritual purity, the sarovar acts as a vital rainwater catchment supporting local biodiversity, waterfowl, and lush greenery around the rocky foot-slopes of Mandar.",
+      "hi": "**पापहारिणी सरोवर** संपूर्ण मन्दार तीर्थ का आध्यात्मिक प्रवेशद्वार और हृदयस्थल माना जाता है, जो सदियों पुरानी अगाध आस्था, रोग-निवारण विश्वास और लोक संस्कृति का सजीव प्रतीक है।\n\nबिहार, झारखंड, पश्चिम बंगाल और ओडिशा के श्रद्धालु इस सरोवर के जल को गंगाजल के समान पवित्र मानते हैं और विशेष पर्वों पर इसमें डुबकी लगाना परम पुण्यकारी समझते हैं:\n- **मकर संक्रांति का पावन महास्नान**: प्रत्येक वर्ष 14 और 15 जनवरी को मकर संक्रांति के अवसर पर लाखों श्रद्धालु ब्रह्ममुहूर्त में यहां *पुण्य स्नान* करते हैं और भगवान सूर्य को तिल, गुड़ एवं पवित्र जल का अर्घ्य समर्पित करते हैं।\n- **भगवान मधुसूदन का आगमन**: इस पावन सरोवर की महत्ता तब अपने चरमोत्कर्ष पर पहुंचती है जब बौसी मंदिर से भगवान मधुसूदन की भव्य शोभायात्रा और पालकी गाजे-बाजे के साथ यहां पहुंचती है और भगवान को सरोवर के जल से प्रतीकात्मक स्नान कराया जाता है।\n- **सामाजिक एवं सांस्कृतिक समरसता**: यह पवित्र सरोवर समाज के सभी वर्गों, विशेषकर स्थानीय जनजातीय समुदायों और दूर-दराज से आए श्रद्धालुओं के मध्य बिना किसी भेदभाव के साझा भक्ति और सद्भाव का अद्भुत मंच प्रदान करता है।\n- **पर्यावरणीय एवं धरोहर महत्व**: धार्मिक महत्व के साथ-साथ यह विशाल सरोवर मन्दार पर्वत की तलहटी में भूजल स्तर बनाए रखने, पक्षियों के संरक्षण और प्राकृतिक हरियाली के संवर्धन में एक अत्यंत महत्वपूर्ण भूमिका निभाता है।"
+    },
+    "location": {
+      "address": {
+        "en": "Papaharini Sarovar Pilgrimage & Ghats Complex, Southern Foothills of Mandar Parvat, Village & Post Bounsi, Banka District, Bihar 813104, India. Situated directly at the base of the sacred granite monolith of Mandar Hill, this historic lake is located approximately 22 kilometers south of Banka district headquarters and roughly 49 kilometers south of Bhagalpur city along the Bhagalpur-Dumka National Highway 333A corridor. The pilgrimage site is conveniently linked to neighboring spiritual hubs such as Deoghar (65 kilometers away) and Sultanganj (70 kilometers away). Local transit is exceptionally accessible, with the Mandar Hill Railway Station (Code: MDLE) located just 3.5 kilometers away, offering regular passenger train connectivity, while autorickshaws and cabs operate continuously from Bounsi market directly to the sarovar’s sacred bathing pavilions.",
+        "hi": "पापहारिणी सरोवर तीर्थ एवं घाट परिसर, मन्दार पर्वत दक्षिणी तलहटी, ग्राम व पोस्ट बौसी, बांका जिला, बिहार 813104, भारत। मन्दार पर्वत के विशाल अखंड ग्रेनाइट पाषाण की तलहटी में स्थित यह ऐतिहासिक जलाशय बांका जिला मुख्यालय से लगभग 22 किलोमीटर दक्षिण में और रेशम नगरी भागलपुर से मुख्य भागलपुर-दुमका राष्ट्रीय राजमार्ग 333A पर करीब 49 किलोमीटर की दूरी पर स्थित है। यह पवित्र तीर्थ स्थल पड़ोसी आध्यात्मिक केंद्रों जैसे देवघर (65 किलोमीटर) और सुल्तानगंज (70 किलोमीटर) से पक्की सड़कों द्वारा उत्कृष्ट रूप से जुड़ा हुआ है। स्थानीय आवागमन के लिए मन्दार हिल रेलवे स्टेशन (स्टेशन कोड: MDLE) मात्र 3.5 किलोमीटर की दूरी पर स्थित है, जहां से पैसेंजर रेल सेवाएं उपलब्ध हैं, जबकि बौसी मुख्य बाजार से सरोवर के पवित्र स्नान घाटों तक नियमित ऑटो-रिक्शा और टैक्सियां दिन-रात सुलभ रहती हैं।"
+      },
+      "latitude": 24.8415,
+      "longitude": 87.031,
+      "mapQuery": "Papaharini Sarovar, Mandar Hill, Bounsi, Banka, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "days": {
+            "en": "Open All Days",
+            "hi": "सभी दिन खुला"
+          },
+          "time": {
+            "en": "05:00 AM - 07:00 PM",
+            "hi": "प्रातः 05:00 बजे से सायं 07:00 बजे तक"
+          }
+        }
+      ],
+      "entryFee": {
+        "amount": 0,
+        "currency": "INR",
+        "description": {
+          "en": "Free public access to all ghats and surrounding temples.",
+          "hi": "सभी घाटों एवं आसपास के मंदिरों में निःशुल्क सार्वजनिक प्रवेश।"
+        }
+      },
+      "recommendedDurationMinutes": 60,
+      "bestTimeToVisit": {
+        "en": "October to March (Special Makar Sankranti festival in mid-January)",
+        "hi": "अक्टूबर से मार्च (मध्य जनवरी में विशेष मकर संक्रांति महापर्व)"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Accessible via NH-333A between Bhagalpur and Dumka. Directly reached via auto-rickshaw or taxi from Bounsi town.",
+        "hi": "भागलपुर और दुमका के बीच राष्ट्रीय राजमार्ग 333A द्वारा सुगम। बौसी कस्बे से सीधे ऑटो-रिक्शा अथवा टैक्सी द्वारा पहुँचा जा सकता है।"
+      },
+      "railway": [
+        {
+          "station": "Mandar Hill Railway Station (MDLE)",
+          "distanceKm": 3.5
+        },
+        {
+          "station": "Bhagalpur Junction (BGP)",
+          "distanceKm": 49
+        }
+      ],
+      "airport": [
+        {
+          "airport": "Deoghar Airport (DGH)",
+          "distanceKm": 65
+        },
+        {
+          "airport": "Patna Jay Prakash Narayan Airport (PAT)",
+          "distanceKm": 250
+        }
+      ],
+      "localTransport": {
+        "en": "Shared tempo, e-rickshaws, and private taxis run frequently from Bounsi bus stand and railway station.",
+        "hi": "बौसी बस स्टैंड और रेलवे स्टेशन से साझा टेम्पो, ई-रिक्शा और निजी टैक्सियां निरंतर चलती हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": 0,
+      "localTransport": 60
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": true,
+      "atm": true,
+      "medical": false
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 400,
+      "stairs": true,
+      "wheelchairAccessible": false,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "When visiting Papaharini Sarovar, plan to arrive during the early morning hours to witness the magical sight of dawn mist rising over the water and reflecting the grandeur of Mandar Hill. If taking a holy dip, use the designated stone ghats equipped with safety railings and take special care regarding underwater steps, which can accumulate slippery moss. Modest and respectful attire should be worn at all times around the sacred ghats and temple pavilions. Keep your personal belongings, footwear, and cameras secure while at the bathing areas. Carrying a clean towel, a change of clothes, and eco-friendly bags for wet garments is recommended. Please strictly avoid throwing plastic waste, soap, or food remnants into the water to preserve the purity and ecological health of this ancient holy reservoir.",
+        "hi": "पापहारिणी सरोवर की यात्रा करते समय, सुबह के समय पहुँचना सबसे उत्तम होता है ताकि आप जल पर तैरते भोर के कोहरे और पानी में मन्दार पर्वत के अलौकिक प्रतिबिंब का मनोहारी दृश्य देख सकें। यदि आप सरोवर में पवित्र स्नान करने की योजना बना रहे हैं, तो सुरक्षा रेलिंग से युक्त निर्धारित पक्के घाटों का ही उपयोग करें और पानी के भीतर की काई लगी सीढ़ियों पर सावधानीपूर्वक कदम रखें। पावन तीर्थ क्षेत्र की मर्यादा का सम्मान करते हुए घाटों और मंदिरों के आसपास शालीन वस्त्र धारण करें। स्नान करते समय अपने मोबाइल, जूते और कीमती सामान को सुरक्षित स्थान पर रखें। अपने साथ सूखा तौलिया, अतिरिक्त वस्त्र और गीले कपड़ों के लिए इको-फ्रेंडली बैग अवश्य साथ लाएं। इस ऐतिहासिक और पवित्र जलाशय की स्वच्छता और पर्यावरणीय पवित्रता बनाए रखने के लिए कृपया जल में प्लास्टिक कचरा, साबुन या पूजन सामग्री प्रवाहित न करें।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "mandar-hill",
+      "bounsi-mela-ground-madhusudan-temple",
+      "odhni-dam"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        {
+          "title": "Papaharini Lake - Banka Tourism",
+          "organization": "District Administration Banka, Bihar",
+          "url": "https://banka.nic.in/tourist-place/papaharini-lake/"
+        },
+        {
+          "title": "Banka District Overview",
+          "organization": "Bihar State Tourism Development Corporation",
+          "url": "https://tourism.bihar.gov.in/en/destinations/banka"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "bounsi-mela-ground-madhusudan-temple",
+    "slug": "bounsi-mela-ground-madhusudan-temple",
+    "name": {
+      "en": "Bounsi Mela Ground & Shri Madhusudan Temple",
+      "hi": "बौसी मेला मैदान एवं श्री मधुसूदन मंदिर"
+    },
+    "districtId": "banka",
+    "placeType": "temple",
+    "primaryCategory": "cultural",
+    "categories": [
+      "cultural",
+      "religious",
+      "historical",
+      "festival"
+    ],
+    "subcategories": [
+      "traditional_fair",
+      "hindu_temple",
+      "folk_festival",
+      "handicrafts_market"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "spiritual_circuit",
+      "cultural_circuit"
+    ],
+    "tags": [
+      "mustVisit",
+      "mandarMahotsav",
+      "rathYatra",
+      "traditionalFair",
+      "tribalArt",
+      "handicrafts",
+      "tilkut"
+    ],
+    "audiences": [
+      "pilgrims",
+      "families",
+      "culture_enthusiasts",
+      "shoppers",
+      "photographers"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "Historic temple of Lord Madhusudan and the grand cultural fairground hosting the month-long Mandar Mahotsav.",
+      "hi": "भगवान मधुसूदन का ऐतिहासिक मंदिर और मकर संक्रांति पर आयोजित होने वाले प्रसिद्ध मंदार महोत्सव का विशाल मेला मैदान।"
+    },
+    "description": {
+      "en": "The **Bounsi Mela Ground & Shri Madhusudan Temple** forms the vibrant socio-cultural and spiritual heart of Bounsi town in Banka district, Bihar. Located just four kilometers from the foot of Mandar Hill, this expansive historical complex is centered around the revered **Shri Madhusudan Temple**, dedicated to Lord Vishnu in his triumphant form as the slayer of demon Madhu.\n\nThe adjoining fairgrounds host the iconic **Bounsi Mela** (officially celebrated as *Mandar Mahotsav*), one of eastern India’s oldest, largest, and most culturally vibrant traditional gatherings, commencing every year on **Makar Sankranti**.\n\nThe complex offers an intoxicating mix of heritage and folk festivity:\n- The consecrated medieval sanctum housing the jet-black stone deity of **Lord Madhusudan**\n- The ceremonial wooden chariot (*Rath*) used during the legendary annual procession to Papaharini Sarovar\n- An enormous bustling fairground filled with traditional handlooms, Khadi stalls, bamboo crafts, and rural agricultural expositions\n- Open-air amphitheaters hosting enthralling Santhali folk dances, Angika folk music, and traditional wrestling (*Kushti*) competitions\n\nVisiting this bustling cultural epicenter provides travellers an authentic and colorful window into the living rural traditions of Bihar.",
+      "hi": "**बौसी मेला मैदान एवं श्री मधुसूदन मंदिर** बिहार के बांका जिले में बौसी नगर का जीवंत सामाजिक, सांस्कृतिक और आध्यात्मिक हृदयस्थल है। मन्दार पर्वत की तलहटी से मात्र चार किलोमीटर की दूरी पर स्थित यह ऐतिहासिक परिसर **श्री मधुसूदन मंदिर** के इर्द-गिर्द केंद्रित है, जो भगवान विष्णु के मधुदैत्य-विनाशक स्वरूप को समर्पित एक अत्यंत पावन धाम है।\n\nमंदिर से सटा हुआ विशाल मेला मैदान विख्यात **बौसी मेला** (जिसे राजकीय *मंदार महोत्सव* के रूप में भी मनाया जाता है) की मेजबानी करता है। यह पूर्वी भारत के सबसे प्राचीन, विशाल और सांस्कृतिक रूप से समृद्ध पारंपरिक मेलों में से एक है, जिसकी शुरुआत हर वर्ष **मकर संक्रांति** के दिन होती है।\n\nयह संपूर्ण परिसर विरासत और लोक उत्सव का एक अद्भुत संगम प्रस्तुत करता है:\n- काले पाषाण से निर्मित भगवान **श्री मधुसूदन जी** की दिव्य और प्राचीन प्रतिमा से सुशोभित गर्भगृह\n- पारंपरिक काष्ठ रथ, जिस पर विराजमान होकर भगवान मकर संक्रांति के दिन पापहारिणी सरोवर तक की ऐतिहासिक शोभायात्रा पर निकलते हैं\n- विशाल मेला क्षेत्र जिसमें पारंपरिक हथकरघा, खादी वस्त्र, बांस के हस्तशिल्प और कृषि प्रदर्शनियों के सैकड़ों स्टॉल लगते हैं\n- खुले सांस्कृतिक मंच जहां संथाली लोक नृत्य, अंगिका लोकगीत और पारंपरिक कुश्ती (दंगल) प्रतियोगिताओं का भव्य आयोजन होता है\n\nइस पावन और जीवंत सांस्कृतिक केंद्र का भ्रमण पर्यटकों को बिहार की समृद्ध ग्रामीण परंपराओं और लोकजीवन की वास्तविक झलक प्रदान करता है।"
+    },
+    "history": {
+      "en": "The historical genesis of **Shri Madhusudan Temple** and the adjoining Bounsi fair is steeped in lore spanning several centuries, closely connected to the shifting fortunes of medieval Anga and Bengal.\n\nOriginally, the sacred murti of Lord Madhusudan was enshrined atop Mandar Hill itself. Historical accounts suggest that during the turbulent 16th-century invasions by general **Kalapahar**, the devoted priests and local chieftain secretly transported the sacred deity down the mountain to protect it from desecration, ultimately installing it in a fortified shrine in the town of Bounsi.\n\nSubsequent historical turning points shaped the grandeur of the current temple and fairgrounds:\n- **Chaitanya Mahaprabhu’s Divine Visit**: In 1505 CE, during his pilgrimage through the region, **Sri Chaitanya Mahaprabhu** is recorded to have danced in ecstatic devotion before Lord Madhusudan and organized the first community *Rath Yatra* to the Papaharini tank.\n- **Royal Endowments**: Zamindars and local chieftains of the Banaili and Bilmuri estates granted extensive agricultural lands and royal patronage to ensure perpetual daily worship, elaborate prasad distributions, and maintenance of the temple.\n- **The Centennial Mela Tradition**: The annual Bounsi Mela developed into a flourishing regional trade mart where artisans from the Santhal Parganas, Bhagalpur weavers, and ironmongers exchanged goods, turning an ecclesiastical event into an enduring secular-cultural celebration.",
+      "hi": "**श्री मधुसूदन मंदिर** और उससे जुड़े बौसी मेला मैदान का इतिहास कई शताब्दियों के उतार-चढ़ाव और मध्यकालीन अंग एवं बंगाल क्षेत्र के घटनाक्रमों से गहराई से जुड़ा हुआ है।\n\nमूल रूप से, भगवान मधुसूदन की यह पावन विग्रह प्रतिमा मन्दार पर्वत के शिखर पर स्थित मुख्य मंदिर में ही स्थापित थी। ऐतिहासिक साक्ष्यों और जनश्रुतियों के अनुसार, 16वीं शताब्दी में जब आक्रांता **कालापहाड़** के सैनिकों ने मंदिरों पर आक्रमण किया, तब स्थानीय पुजारियों और श्रद्धालुओं ने विग्रह की पवित्रता की रक्षा के लिए इसे गुप्त रूप से पर्वत से नीचे लाकर बौसी कस्बे में सुरक्षित रूप से प्रतिष्ठित कर दिया।\n\nमंदिर और मेले के ऐतिहासिक विकास के मुख्य मील के पत्थर इस प्रकार हैं:\n- **महाप्रभु चैतन्य देव का शुभागमन**: सन 1505 ईस्वी में अपनी यात्रा के दौरान वैष्णव संत **श्री चैतन्य महाप्रभु** ने यहां पधारकर भगवान मधुसूदन के समक्ष संकीर्तन किया था और पापहारिणी सरोवर तक भगवान की भव्य रथयात्रा की नींव रखी थी।\n- **रियासतों का संरक्षण**: बनैली और बिलमुरी के स्थानीय राजाओं और जमींदारों ने मंदिर के दैनिक भोग, पूजा और भव्य उत्सवों के लिए विशाल भूखंड और वित्तीय अनुदान समर्पित किए।\n- **शताब्दियों पुरानी मेले की परंपरा**: समय के साथ वार्षिक बौसी मेला एक बड़े व्यापारिक और सांस्कृतिक केंद्र में बदल गया, जहां संथाल परगना के आदिवासी शिल्पकार, भागलपुर के बुनकर और ग्रामीण लोहार अपने उत्पादों का विनिमय करने आते थे, जिससे यह धार्मिक उत्सव एक विशाल लोक मेले में रूपांतरित हो गया।"
+    },
+    "significance": {
+      "en": "The **Bounsi Mela Ground & Shri Madhusudan Temple** holds immense religious, anthropological, and economic significance for the entire eastern Bihar and bordering Santhal Pargana regions.\n\nIt stands as a testament to peaceful community cohesion, where diverse ethnic, linguistic, and religious groups unite under the shared canopy of festive joy:\n- **Spiritual Core of the Rath Yatra**: The ceremonial procession on Makar Sankranti, where Lord Madhusudan is mounted onto a ceremonial chariot and escorted by thousands of dancing devotees shouting hymns, is revered as equivalent to Puri’s holy car festival.\n- **Celebration of Indigenous Traditions**: The fair acts as a premier stage for indigenous Santhal art, traditional archery competitions, flute recitals, and classical regional folk dances, preserving tribal heritage for future generations.\n- **Economic Lifeline for Rural Artisans**: Over the month-long celebration, hundreds of artisans, farmers, potters, sweetmakers, and cattle traders generate their primary annual livelihood, selling famous regional delicacies like Tilkut, Chuda, and fresh palm jaggery.\n- **State Cultural Festival**: Formally recognized by the Bihar Department of Tourism as *Mandar Mahotsav*, it draws scholars, folklorists, and domestic travelers seeking authentic rural hospitality.",
+      "hi": "**बौसी मेला मैदान एवं श्री मधुसूदन मंदिर** संपूर्ण पूर्वी बिहार और सीमावर्ती संथाल परगना क्षेत्र के लिए असाधारण धार्मिक, सांस्कृतिक और आर्थिक महत्व रखता है।\n\nयह स्थल सामाजिक सद्भाव और विविधता में एकता का एक अनूठा उदाहरण है, जहां विभिन्न जातियों, भाषाओं और पृष्ठभूमियों के लोग उत्सव के आनंद में एक साथ सम्मिलित होते हैं:\n- **रथयात्रा का पावन केंद्र**: मकर संक्रांति के दिन जब भगवान मधुसूदन को सुसज्जित रथ पर विराजमान कर हजारों भक्तों की जयजयकार के बीच पापहारिणी सरोवर ले जाया जाता है, तो यह दृश्य पुरी की प्रसिद्ध रथयात्रा जैसा भक्तिमय और दिव्य प्रतीत होता है।\n- **जनजातीय संस्कृति का संरक्षण**: यह मेला संथाली लोककला, पारंपरिक तीरंदाजी प्रतियोगिताओं, मांदर की थाप पर लोकनृत्यों और पारंपरिक संगीत के संरक्षण और प्रदर्शन का एक प्रमुख राष्ट्रीय मंच है।\n- **ग्रामीण अर्थव्यवस्था की संजीवनी**: महीने भर चलने वाले इस मेले में सैकड़ों हस्तशिल्पी, बुनकर, किसान और स्थानीय हलवाई अपनी आजीविका अर्जित करते हैं, जहां प्रसिद्ध तिलकुट, कतरनी चूड़ा और खजूर के ताजे गुड़ का भारी व्यापार होता है।\n- **राजकीय मंदार महोत्सव**: बिहार पर्यटन विभाग द्वारा इसे राजकीय महोत्सव का दर्जा दिए जाने के उपरांत, यह आयोजन देश भर के पर्यटकों, शोधकर्ताओं और संस्कृति प्रेमियों को अपनी ओर आकर्षित करता है।"
+    },
+    "location": {
+      "address": {
+        "en": "Shri Madhusudan Temple & Historic Bounsi Mela Fairgrounds, Bounsi Town Center, Main Market Road, National Highway 333A / State Highway 19, Banka District, Bihar 813104, India. The temple and cultural fairgrounds occupy a central expanse in the town of Bounsi, located roughly 18 kilometers south of Banka district headquarters, 45 kilometers south of Bhagalpur, and approximately 60 kilometers north of the sacred pilgrimage city of Deoghar in Jharkhand. Positioned directly on the vital highway linking the Gangetic plains to the Santhal Parganas, the venue boasts continuous bus connections, private taxis, and commuter shared autos. Mandar Hill Railway Station (Station Code: MDLE) is situated only 2 kilometers to the east, providing smooth rail transit for travelers and pilgrims across Bihar, Bengal, and Jharkhand.",
+        "hi": "श्री मधुसूदन मंदिर एवं ऐतिहासिक बौसी मेला मैदान, बौसी नगर केंद्र, मुख्य बाजार मार्ग, राष्ट्रीय राजमार्ग 333A / स्टेट हाईवे 19, बांका जिला, बिहार 813104, भारत। यह पावन मंदिर और ऐतिहासिक मेला मैदान बौसी नगर के हृदयस्थल में स्थित है, जो बांका जिला मुख्यालय से लगभग 18 किलोमीटर दक्षिण में, भागलपुर से 45 किलोमीटर दक्षिण में और झारखंड के पवित्र तीर्थ देवघर से लगभग 60 किलोमीटर उत्तर में अवस्थित है। गंगा के उपजाऊ मैदानी क्षेत्र को संथाल परगना से जोड़ने वाले इस प्रमुख राष्ट्रीय राजमार्ग पर स्थित होने के कारण यहाँ चौबीसों घंटे अंतरराज्यीय बसें, निजी टैक्सियां और साझा ऑटो-रिक्शा उपलब्ध रहते हैं। मन्दार हिल रेलवे स्टेशन (स्टेशन कोड: MDLE) यहाँ से पूर्व दिशा में मात्र 2 किलोमीटर की दूरी पर स्थित है, जो बिहार, पश्चिम बंगाल और झारखंड से आने वाले श्रद्धालुओं और व्यापारियों के लिए सुगम रेल कनेक्टिविटी सुनिश्चित करता है।"
+      },
+      "latitude": 24.8015,
+      "longitude": 87.021,
+      "mapQuery": "Madhusudan Temple, Bounsi, Banka, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "days": {
+            "en": "Open All Days",
+            "hi": "सभी दिन खुला"
+          },
+          "time": {
+            "en": "05:30 AM - 12:30 PM, 04:00 PM - 08:30 PM (Fairground open 24 hours during January fair)",
+            "hi": "प्रातः 05:30 से दोपहर 12:30 बजे, सायं 04:00 से रात्रि 08:30 बजे तक (जनवरी मेले के दौरान मैदान 24 घंटे खुला)"
+          }
+        }
+      ],
+      "entryFee": {
+        "amount": 0,
+        "currency": "INR",
+        "description": {
+          "en": "Free entry for temple darshan and fairground grounds.",
+          "hi": "मंदिर दर्शन एवं मेला मैदान में निःशुल्क प्रवेश।"
+        }
+      },
+      "recommendedDurationMinutes": 120,
+      "bestTimeToVisit": {
+        "en": "January during Makar Sankranti for Bounsi Mela, or October to February",
+        "hi": "बौसी मेले के लिए मकर संक्रांति पर जनवरी माह, अथवा अक्टूबर से फरवरी"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Centrally located on NH-333A / SH-19 in Bounsi town. Abundant state buses and private vehicles connect directly to Banka, Bhagalpur, and Dumka.",
+        "hi": "बौसी नगर में राष्ट्रीय राजमार्ग 333A / स्टेट हाईवे 19 पर स्थित। बांका, भागलपुर और दुमका से प्रचुर बसें और निजी वाहन उपलब्ध हैं।"
+      },
+      "railway": [
+        {
+          "station": "Mandar Hill Railway Station (MDLE)",
+          "distanceKm": 2
+        },
+        {
+          "station": "Bhagalpur Junction (BGP)",
+          "distanceKm": 45
+        }
+      ],
+      "airport": [
+        {
+          "airport": "Deoghar International Airport (DGH)",
+          "distanceKm": 60
+        },
+        {
+          "airport": "Patna Jay Prakash Narayan Airport (PAT)",
+          "distanceKm": 245
+        }
+      ],
+      "localTransport": {
+        "en": "Walking distance from Bounsi central market; e-rickshaws and auto-rickshaws are easily flagged down along the main road.",
+        "hi": "बौसी मुख्य बाजार से पैदल दूरी; मुख्य मार्ग पर ई-रिक्शा और ऑटो-रिक्शा आसानी से मिल जाते हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": 0,
+      "localTransport": 50
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": true,
+      "atm": true,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 500,
+      "stairs": false,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "To experience the full cultural vibrancy of Bounsi Mela and Shri Madhusudan Temple, plan your visit during mid-January when the annual Mandar Mahotsav is inaugurated on Makar Sankranti with the grand chariot procession. Be prepared for massive crowds and bustling pedestrian traffic during the first week of the festival; securing your personal belongings, money, and mobile devices in a secure zipped bag is highly recommended. Dress in modest, comfortable cotton attire suited for navigating crowded rural bazaars and temple sanctums. Do not miss sampling freshly prepared local treats including Banka’s famed sesame Tilkut, roasted chuda, and Khaja sold by traditional sweet vendors across the fairgrounds. If you prefer a tranquil and meditative temple visit, consider visiting outside the peak fair month on weekday mornings when the temple atmosphere is peaceful and priests can guide you through the intricate rituals.",
+        "hi": "बौसी मेला और श्री मधुसूदन मंदिर के जीवंत सांस्कृतिक रंगों का संपूर्ण अनुभव प्राप्त करने के लिए, मध्य जनवरी में अपनी यात्रा की योजना बनाएं, जब मकर संक्रांति के अवसर पर भव्य रथयात्रा के साथ वार्षिक मंदार महोत्सव का उद्घाटन होता है। मेले के शुरुआती दिनों में अत्यधिक भीड़ और श्रद्धालुओं के आवागमन को देखते हुए अपने बटुए, मोबाइल फोन और आवश्यक सामान को सुरक्षित बैग में रखें। ग्रामीण बाजारों और मंदिर के गर्भगृह में सुगमता से घूमने के लिए आरामदायक और शालीन वस्त्र पहनें। मेले में लगे पारंपरिक मिष्ठान भंडारों से बांका के प्रसिद्ध तिलकुट, भुने हुए कतरनी चूड़े और कुरकुरे खाजा का स्वाद लेना बिल्कुल न भूलें। यदि आप शांतिपूर्ण और आध्यात्मिक दर्शन के इच्छुक हैं, तो मेले के समय के अतिरिक्त सामान्य दिनों में सुबह के समय पधारें, जब मंदिर परिसर अत्यंत शांत रहता है और पुजारी गण आपको पूजा-अर्चना का संपूर्ण विधान सहजता से समझा सकते हैं।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "mandar-hill",
+      "papaharini-sarovar",
+      "odhni-dam"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        {
+          "title": "Bounsi Mela and Mandar Mahotsav",
+          "organization": "Bihar State Tourism Development Corporation",
+          "url": "https://tourism.bihar.gov.in"
+        },
+        {
+          "title": "Culture and Heritage of Banka",
+          "organization": "District Administration Banka, Government of Bihar",
+          "url": "https://banka.nic.in/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "odhni-dam",
+    "slug": "odhni-dam",
+    "name": {
+      "en": "Odhni Dam",
+      "hi": "ओढ़नी डैम"
+    },
+    "districtId": "banka",
+    "placeType": "reservoir",
+    "primaryCategory": "natural",
+    "categories": [
+      "natural",
+      "adventure",
+      "recreational",
+      "eco_tourism"
+    ],
+    "subcategories": [
+      "water_sports",
+      "boating",
+      "dam_reservoir",
+      "picnic_spot"
+    ],
+    "circuits": [
+      "eco_circuit"
+    ],
+    "tags": [
+      "mustVisit",
+      "boating",
+      "waterSports",
+      "speedBoat",
+      "jetSki",
+      "sunsetPoint",
+      "familyPicnic"
+    ],
+    "audiences": [
+      "families",
+      "adventure_seekers",
+      "youth",
+      "photographers",
+      "nature_lovers"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "Scenic reservoir and premier eco-tourism destination offering speedboating, watersports, and lush hill vistas.",
+      "hi": "मनोरम पहाड़ियों से घिरा प्रमुख इको-पर्यटन जलाशय, जहां स्पीड बोटिंग, वाटर स्पोर्ट्स और प्राकृतिक सुंदरता का आनंद मिलता है।"
+    },
+    "description": {
+      "en": "**Odhni Dam** is an exquisite eco-tourism haven and picturesque water reservoir situated amidst rolling emerald hillocks approximately 13 kilometers from the town of Banka in southern Bihar. Built across the perennial Odhni River for irrigation and water management, this sprawling freshwater reservoir has recently been transformed by the Bihar Tourism Department into one of the state's most sought-after adventure, recreation, and nature destinations.\n\nCradled by undulating green hills, serene blue waters, and pristine forest edges, Odhni Dam resembles a coastal island getaway in the heart of rural Bihar:\n- Thrilling **water sports** including speed boating, jet skiing, motorboat excursions, and leisure shikara cruises\n- A scenic floating jetty and safe passenger boarding platforms engineered to modern maritime standards\n- Landscaped waterfront promenades, shaded gazebos, an open-air amphitheatre, and dedicated children’s parks\n- Panoramic viewing pavilions that offer mesmerizing sunset vistas over the tranquil reservoir waters\n\nWhether you are seeking adrenaline-pumping water sports, an idyllic weekend picnic spot with family, or tranquil landscape photography, Odhni Dam offers a refreshing and invigorating escape.",
+      "hi": "**ओढ़नी डैम** दक्षिणी बिहार के बांका जिले के सुरम्य हरे-भरे पहाड़ों की तलहटी में स्थित एक विस्मयकारी इको-टूरिज्म गंतव्य और विशाल जल जलाशय है। बांका नगर से लगभग 13 किलोमीटर की दूरी पर स्थित यह खूबसूरत डैम सदानीरा ओढ़नी नदी पर निर्मित किया गया था, जिसे हाल के वर्षों में बिहार पर्यटन विभाग द्वारा राज्य के सबसे प्रमुख साहसिक, मनोरंजक और प्रकृति-पर्यटन केंद्रों में बदल दिया गया है।\n\nचारों ओर फैली प्राकृतिक पहाड़ियों, शांत नीले जल और घने जंगलों के मनोरम दृश्यों के कारण ओढ़नी डैम पर्यटकों को किसी सुरम्य द्वीप अथवा हिल स्टेशन का सा अहसास कराता है:\n- आधुनिक **वाटर स्पोर्ट्स** सुविधाएं जैसे रोमांचक स्पीड बोटिंग, जेट स्की, मोटर बोट और शांत शिकारा नौकायन\n- अंतरराष्ट्रीय मानकों के अनुरूप निर्मित आधुनिक फ्लोटिंग जेटी और सुरक्षित यात्री बोर्डिंग प्लेटफॉर्म\n- जलाशय के तट पर सुंदर लैंडस्केप उद्यान, छायादार गज़ीबो (छतरीदार मंडप), ओपन-एयर थिएटर और बच्चों के झूले\n- सूर्यास्त के विहंगम दृश्यों को निहारने के लिए बनाए गए विशेष व्यू-पॉइंट्स जो फोटोग्राफी के शौकीनों को आकर्षित करते हैं\n\nपरिवार के साथ सप्ताहांत पिकनिक, प्रकृति भ्रमण या जलक्रीड़ा के रोमांच का अनुभव करने के लिए ओढ़नी डैम बिहार का एक अत्यंत रमणीय और आधुनिक पर्यटन स्थल बन चुका है।"
+    },
+    "history": {
+      "en": "The construction of **Odhni Dam** commenced in the late 20th century under the auspices of the Bihar Water Resources Department as a vital irrigation infrastructure project designed to harness the seasonal flows of the Odhni River and alleviate drought conditions across agricultural lands in Banka district.\n\nFor several decades, the reservoir functioned primarily as a lifeline for rural agrarian communities, recharging local water tables and supplying canal networks for paddy, wheat, and sugarcane cultivation across surrounding villages.\n\nThe historical transformation of Odhni Dam into a premier tourist hub unfolded through decisive strategic interventions:\n- **Visionary Eco-Tourism Rejuvenation**: Recognizing the site's spectacular natural topography—sheltered by surrounding hill chains and pristine waters—the Government of Bihar initiated a comprehensive multi-crore tourism master plan in the early 2020s.\n- **Modern Infrastructure Development**: The development introduced floating jetties, specialized rescue vessels, landscaped green parks, and a modern cafeteria to accommodate the soaring tourist influx.\n- **Watersports Revolution**: In 2022, state-of-the-art speedboats and jet skis were commissioned, establishing Odhni Dam alongside Rajgir and Valmiki Tiger Reserve as a pioneering flagship in Bihar's modern eco-tourism revolution.",
+      "hi": "**ओढ़नी डैम** का निर्माण 20वीं शताब्दी के उत्तरार्ध में बिहार जल संसाधन विभाग द्वारा एक प्रमुख सिंचाई परियोजना के रूप में शुरू किया गया था, जिसका मुख्य उद्देश्य ओढ़नी नदी के जल को संचित कर बांका जिले के सूखाग्रस्त कृषि क्षेत्रों को भरपूर पानी उपलब्ध कराना था।\n\nकई दशकों तक यह जलाशय मुख्य रूप से ग्रामीण कृषक समुदायों की जीवनरेखा बना रहा, जिसने भूजल स्तर को समृद्ध किया और नहरों के माध्यम से आसपास के दर्जनों गांवों में धान, गेहूं और गन्ने की फसलों की सिंचाई में अमूल्य योगदान दिया।\n\nओढ़नी डैम का एक विश्वस्तरीय पर्यटन केंद्र के रूप में ऐतिहासिक कायाकल्प हाल के वर्षों की एक उल्लेखनीय उपलब्धि है:\n- **इको-टूरिज्म पुनरुद्धार परियोजना**: पहाड़ियों और विशाल जलराशि से घिरी इसकी नैसर्गिक सुंदरता को पहचानते हुए, बिहार सरकार ने वर्ष 2020 के बाद इसे एक प्रमुख साहसिक पर्यटन स्थल के रूप में विकसित करने की महत्वाकांक्षी योजना प्रारंभ की।\n- **आधुनिक पर्यटन अधोसंरचना**: पर्यटकों की सुविधा के लिए आधुनिक फ्लोटिंग जेटी, आपातकालीन सुरक्षा नौकाएं, पक्के फुटपाथ, कैफेटेरिया और सुसज्जित उद्यानों का निर्माण कराया गया।\n- **वाटर स्पोर्ट्स का शुभारंभ**: वर्ष 2022 में उच्च गति वाली स्पीड बोट्स और जेट स्की की शुरुआत के साथ, ओढ़नी डैम ने राजगीर और वाल्मीकि टाइगर रिजर्व की भांति बिहार के आधुनिक साहसिक और पर्यावरण-पर्यटन के नक्शे पर अपनी एक विशिष्ट पहचान दर्ज कराई।"
+    },
+    "significance": {
+      "en": "The significance of **Odhni Dam** reflects the emergence of dynamic eco-adventure tourism in southern Bihar, successfully balancing vital natural water conservation with world-class visitor recreation.\n\nIt marks a transformative shift in the regional tourism landscape by establishing an accessible, high-standard leisure retreat that delights visitors of all ages:\n- **Adventure and Eco-Tourism Flagship**: By hosting certified speed boating and jet skiing in safe inland waters, Odhni Dam has placed Banka firmly on India’s national adventure-tourism map.\n- **Catalyst for the Local Economy**: The tourism boom has sparked vital micro-enterprises across Banka, empowering local youth as licensed boat operators, safety marshals, hospitality staff, guides, and artisanal food vendors.\n- **Biodiversity and Wetland Haven**: The clean reservoir waters and quiet surrounding forested slopes provide a fertile wetland sanctuary for resident fish species, indigenous flora, and migratory birds that alight here during winter months.\n- **Ideal Family Retreat**: With clean walkways, manicured gardens, hygienic dining facilities, and tranquil ambient breeze, it serves as the ultimate rejuvenation spot for families and youths across eastern India.",
+      "hi": "**ओढ़नी डैम** का महत्व दक्षिणी बिहार में गतिशील पर्यावरण-साहसिक पर्यटन के उदय को दर्शाता है, जो प्राकृतिक जल संरक्षण और विश्वस्तरीय मनोरंजन का एक सफल संतुलन प्रस्तुत करता है।\n\nयह स्थल क्षेत्र के पर्यटन परिदृश्य में एक युगांतरकारी बदलाव का प्रतीक है, जिसने सभी आयु वर्ग के पर्यटकों के लिए एक सुलभ और उच्च स्तरीय अवकाश स्थल तैयार किया है:\n- **साहसिक एवं पर्यावरण पर्यटन का ध्वजवाहक**: सुरक्षित जलराशि में प्रमाणित स्पीड बोटिंग और जेट स्की जैसी आधुनिक सुविधाएं प्रदान करके ओढ़नी डैम ने बांका को देश के साहसिक पर्यटन मानचित्र पर मजबूती से स्थापित किया है।\n- **स्थानीय अर्थव्यवस्था की रीढ़**: पर्यटन के तीव्र विकास ने स्थानीय युवाओं और ग्रामीणों के लिए रोजगार के नए द्वार खोले हैं, जिससे वे नौका चालक, सुरक्षा गार्ड, खानपान संचालक और गाइड के रूप में सम्मानजनक आजीविका प्राप्त कर रहे हैं।\n- **जैव विविधता एवं पक्षी अभयारण्य**: डैम की विशाल जलराशि और आसपास के वन क्षेत्र जलीय जीवन, दुर्लभ वनस्पतियों और शीतकाल में सुदूर साइबेरिया व मध्य एशिया से आने वाले प्रवासी पक्षियों के लिए एक सुरक्षित बसेरा प्रदान करते हैं।\n- **पारिवारिक मनोरंजन का श्रेष्ठ केंद्र**: स्वच्छ पगडंडियों, सुसज्जित पार्कों, आधुनिक भोजनालयों और शीतल पर्वतीय हवाओं से युक्त यह स्थान परिवारों और युवाओं के लिए मानसिक शांति और ताजगी पाने का एक आदर्श सप्ताहांत स्थल है।"
+    },
+    "location": {
+      "address": {
+        "en": "Odhni Dam Eco-Tourism Park & Reservoir Complex, Odhni River Reservoir Access Road, Block Banka Sadar, Banka District, Bihar 813102, India. The dam and water-sports reservoir are situated in a tranquil hilly landscape roughly 13 kilometers southwest of Banka district town and approximately 58 kilometers south of Bhagalpur. The site is accessed via the Banka-Katoria State Highway and well-paved rural connecting routes, making it easily reachable by private cars, charter buses, and rental taxis. For visitors arriving by rail, Banka Railway Station (Station Code: BAKA) is located approximately 14 kilometers away, where taxis and shared passenger vehicles can be hired for the 25-minute scenic journey to the lakeside promenade and boat jetty.",
+        "hi": "ओढ़नी डैम इको-टूरिज्म पार्क एवं जलाशय परिसर, ओढ़नी नदी जलाशय संपर्क मार्ग, प्रखंड बांका सदर, बांका जिला, बिहार 813102, भारत। यह विशाल डैम और जलक्रीड़ा जलाशय बांका जिला मुख्यालय से लगभग 13 किलोमीटर दक्षिण-पश्चिम में और ऐतिहासिक भागलपुर नगर से लगभग 58 किलोमीटर दक्षिण में सुरम्य पहाड़ियों के मध्य स्थित है। बांका-कटोरिया स्टेट हाईवे और पक्के ग्रामीण संपर्क मार्गों के माध्यम से यहाँ आसानी से पहुँचा जा सकता है, जिससे यह निजी कारों, पर्यटक बसों और टैक्सियों के लिए बेहद सुगम बन जाता है। रेल से यात्रा करने वाले पर्यटकों के लिए बांका रेलवे स्टेशन (स्टेशन कोड: BAKA) यहाँ से मात्र 14 किलोमीटर की दूरी पर स्थित है, जहाँ से स्थानीय टैक्सियों और निजी ऑटो द्वारा लगभग 25 मिनट की सुंदर यात्रा करके सीधे बोट जेटी और लेकफ्रंट तक पहुँचा जा सकता है।"
+      },
+      "latitude": 24.935,
+      "longitude": 86.912,
+      "mapQuery": "Odhni Dam, Banka, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "days": {
+            "en": "Open All Days",
+            "hi": "सभी दिन खुला"
+          },
+          "time": {
+            "en": "08:00 AM - 06:00 PM (Boating operates 09:00 AM - 05:30 PM)",
+            "hi": "प्रातः 08:00 से सायं 06:00 बजे तक (नौकायन संचालन: प्रातः 09:00 से सायं 05:30 बजे तक)"
+          }
+        }
+      ],
+      "entryFee": {
+        "amount": 10,
+        "currency": "INR",
+        "description": {
+          "en": "Nominal park entry fee ₹10. Water sports and boating range between ₹100 and ₹500 depending on ride type.",
+          "hi": "नाममात्र पार्क प्रवेश शुल्क ₹10। वाटर स्पोर्ट्स और नौकायन शुल्क सवारी के प्रकार के आधार पर ₹100 से ₹500 तक।"
+        }
+      },
+      "recommendedDurationMinutes": 150,
+      "bestTimeToVisit": {
+        "en": "October to March (Post-monsoon brings lush greenery and full reservoir levels)",
+        "hi": "अक्टूबर से मार्च (मानसून के बाद की हरियाली और जलाशय का लबालब जलस्तर)"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Easily accessible from Banka town via Banka-Katoria Road and designated reservoir approach road. Frequent cabs, auto-rickshaws, and private cars operate from Banka city.",
+        "hi": "बांका नगर से बांका-कटोरिया मार्ग तथा निर्धारित जलाशय संपर्क मार्ग द्वारा सुलभ। बांका शहर से नियमित टैक्सियां, ऑटो-रिक्शा और निजी वाहन उपलब्ध हैं।"
+      },
+      "railway": [
+        {
+          "station": "Banka Railway Station (BAKA)",
+          "distanceKm": 14
+        },
+        {
+          "station": "Bhagalpur Junction (BGP)",
+          "distanceKm": 58
+        }
+      ],
+      "airport": [
+        {
+          "airport": "Deoghar International Airport (DGH)",
+          "distanceKm": 55
+        },
+        {
+          "airport": "Patna Jay Prakash Narayan Airport (PAT)",
+          "distanceKm": 240
+        }
+      ],
+      "localTransport": {
+        "en": "Private hired cabs and auto-rickshaws are the most convenient transit options from Banka railway station and bus stand.",
+        "hi": "बांका रेलवे स्टेशन और बस स्टैंड से निजी किराये की टैक्सियां और ऑटो-रिक्शा सबसे सुविधाजनक आवागमन विकल्प हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": 10,
+      "localTransport": 200
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": false,
+      "atm": false,
+      "medical": false
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 600,
+      "stairs": false,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "When planning an excursion to Odhni Dam, consider visiting between October and March when the weather is delightfully cool and pleasant, or during the late monsoon months (August to September) when the surrounding hills are draped in radiant greenery and the reservoir is full to capacity. Always wear life jackets—which are mandatory and provided at the jetty—before boarding speedboats or jet skis, and listen carefully to the safety instructions given by the boat operators. Arrive by mid-afternoon to enjoy water activities comfortably before heading to the designated view pavilion for sunset photography over the water. Keep the eco-park pristine by disposing of all trash in designated bins and refraining from carrying single-use plastics or playing loud music, helping to preserve the serene natural habitat.",
+        "hi": "ओढ़नी डैम की यात्रा की योजना बनाते समय अक्टूबर से मार्च के महीनों का चयन करना सबसे सुखद होता है जब मौसम सुहावना और ठंडा रहता है, अथवा मानसून के उत्तरार्ध (अगस्त से सितंबर) में यात्रा करें जब आसपास की पहाड़ियां हरी-भरी चादर ओढ़ लेती हैं और जलाशय पानी से लबालब भर जाता है। स्पीड बोट या जेट स्की की सवारी करते समय जेटी पर उपलब्ध कराई जाने वाली लाइफ जैकेट पहनना अनिवार्य है, इसलिए सुरक्षा नियमों का पूरी निष्ठा से पालन करें। दोपहर 2 से 3 बजे के आसपास पहुँचना सबसे उत्तम रहता है ताकि आप जलक्रीड़ा का भरपूर आनंद लेने के उपरांत सूर्यास्त के समय पानी पर बिखरती सुनहरी किरणों के विस्मयकारी दृश्यों को कैमरे में कैद कर सकें। इस इको-पार्क की स्वच्छता बनाए रखने के लिए सारा कचरा कूड़ेदान में ही डालें, सिंगल-यूज प्लास्टिक का प्रयोग न करें और शांत वातावरण को बनाए रखने के लिए तेज आवाज में संगीत बजाने से बचें।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "mandar-hill",
+      "papaharini-sarovar",
+      "bounsi-mela-ground-madhusudan-temple"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        {
+          "title": "Odhni Dam Eco Tourism",
+          "organization": "Bihar State Tourism Development Corporation",
+          "url": "https://tourism.bihar.gov.in/en/destinations/banka/odhni-dam"
+        },
+        {
+          "title": "Odhni Dam Banka",
+          "organization": "District Administration Banka, Government of Bihar",
+          "url": "https://banka.nic.in/tourist-place/odhni-dam/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  }
+]

@@ -1,0 +1,583 @@
+[
+  {
+    "id": "vidyapati-dham",
+    "slug": "vidyapati-dham",
+    "name": {
+      "en": "Vidyapati Dham",
+      "hi": "विद्यापति धाम"
+    },
+    "districtId": "samastipur",
+    "placeType": "temple",
+    "primaryCategory": "religious",
+    "categories": [
+      "religious",
+      "cultural",
+      "historical"
+    ],
+    "subcategories": [
+      "shiva_temple",
+      "poet_memorial",
+      "pilgrimage"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "shiva-circuit",
+      "cultural-circuit",
+      "shiva_circuit"
+    ],
+    "tags": [
+      "mustVisit",
+      "featured",
+      "popular",
+      "literary_heritage",
+      "pilgrimage"
+    ],
+    "audiences": [
+      "families",
+      "pilgrims",
+      "spiritual_seekers",
+      "history_lovers",
+      "culture_enthusiasts"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "A sanctified temple dedicated to Lord Shiva and the hallowed nirvana bhumi of the legendary Maithili poet Vidyapati.",
+      "hi": "भगवान शिव को समर्पित एक पावन मंदिर और महान मैथिली महाकवि विद्यापति की पवित्र निर्वाण भूमि।"
+    },
+    "description": {
+      "en": "**Vidyapati Dham**, also reverently known as **Baleshwar Sthan**, is one of North Bihar's most sacred and culturally profound pilgrimage destinations, situated in Vidyapatinagar block of Samastipur district. This historic shrine is inextricably linked with the immortal 14th-century Maithili poet-saint **Mahakavi Vidyapati**, celebrated as 'Maithil Kokil' (the Nightingale of Mithila). According to deep-rooted local tradition and ancient lore, this peaceful sanctuary marks the divine culmination of Vidyapati's mortal journey, where his unparalleled bhakti compelled **Lord Shiva** to dwell alongside him.\n\nThe expansive temple complex is an architectural and spiritual haven that draws lakhs of devotees and connoisseurs of Indian literature from across the subcontinent:\n- **Sanctum Sanctorum (Garbhagriha)**: Enshrines an ancient and self-manifested Shivalinga revered as a wish-fulfilling **Kamna Linga**, radiating peaceful spiritual energy.\n- **Vidyapati Smriti Smarak**: A dedicated memorial and library preserving the celebrated verses, padavalis, and life milestones of the poet.\n- **Sacred Sarovar**: An adjacent ritual pond where pilgrims take customary purifying holy dips before offering prayers.\n- **Festival Grounds**: The vibrant venue for the annual three-day state festival celebrating Mithila's heritage, traditional music, and Devanagari literature.\n\nThe temple atmosphere exudes serene transcendence, bridging intense Vedic devotion with the timeless poetic spirit of Mithila's rich cultural renaissance.",
+      "hi": "**विद्यापति धाम**, जिसे अत्यंत श्रद्धापूर्वक **बालेश्वर स्थान** के नाम से भी जाना जाता है, बिहार के समस्तीपुर जिले के विद्यापतिनगर में स्थित उत्तर बिहार का एक अत्यंत पावन और सांस्कृतिक रूप से समृद्ध तीर्थ स्थल है। यह ऐतिहासिक पावन धाम 14वीं-15वीं शताब्दी के अमर मैथिली कवि-संत **महाकवि विद्यापति** की स्मृति से अटूट रूप से जुड़ा हुआ है, जिन्हें 'मैथिल कोकिल' की उपाधि से विभूषित किया गया है। लोक-आस्था और जनश्रुतियों के अनुसार, यह वही पवित्र स्थान है जहाँ महाकवि विद्यापति ने अपने नश्वर शरीर का त्याग कर मोक्ष प्राप्त किया था और जिनकी अनन्य भक्ति से प्रसन्न होकर स्वयं **भगवान शिव** ने उनके सेवक के रूप में वास किया था।\n\nयह विशाल मंदिर परिसर एक स्थापत्य और आध्यात्मिक आश्रय स्थल है जो पूरे देश से लाखों श्रद्धालुओं और साहित्य प्रेमियों को आकर्षित करता है:\n- **गर्भगृह**: यहाँ एक प्राचीन और दिव्य शिवलिंग स्थापित है, जिसे मनोकामना पूर्ण करने वाला **कामना लिंग** माना जाता है।\n- **विद्यापति स्मृति स्मारक**: महाकवि के जीवन, उनकी अमर पदावलियों और मैथिली साहित्य को समर्पित एक भव्य स्मारक और पुस्तकालय।\n- **पवित्र सरोवर**: मंदिर परिसर से सटा एक ऐतिहासिक तालाब, जहाँ श्रद्धालु पूजा-अर्चना से पूर्व पारंपरिक स्नान करते हैं।\n- **महोत्सव प्रांगण**: बिहार सरकार द्वारा प्रतिवर्ष आयोजित होने वाले तीन दिवसीय राजकीय विद्यापति महोत्सव का प्रमुख केंद्र।\n\nयहाँ का वातावरण गहन शांति और आध्यात्मिक ऊर्जा से परिपूर्ण है, जो भक्ति और साहित्य के अद्वितीय संगम को सजीव करता है।"
+    },
+    "history": {
+      "en": "The profound history of **Vidyapati Dham** dates back to the late 14th and early 15th centuries, immortalizing the celestial bond between the omnipotent **Lord Shiva** and his ardent disciple, the polymath poet **Vidyapati**. Legend recounts that captivated by Vidyapati's soul-stirring devotional compositions, Shiva assumed the humble mortal guise of a servant named **Ugna** to serve the poet on one strict condition: that his divine identity never be revealed to mortal eyes.\n\nWhen Vidyapati inadvertently disclosed Ugna's divine secret to his wife Sushila during a moment of distress, Shiva vanished instantly:\n- **The Quest for the Divine**: Heartbroken by the separation, Vidyapati wandered tirelessly across the Mithila plains, singing mournful hymns until Shiva granted him darshan and promised his perpetual presence.\n- **Nirvana of the Poet**: In his twilight years, Vidyapati journeyed toward the sacred river Ganga to leave his mortal coil; when exhaustion overtook him at this exact spot, Mother Ganga miraculously altered her course to bathe his feet, whereupon he attained samadhi.\n- **Royal Patronage**: The sacred spot was preserved through generations, with formal shrine construction patronized by local rulers and Mithila royalty, transforming the hermitage into an enduring pilgrimage center.",
+      "hi": "**विद्यापति धाम** का गौरवशाली इतिहास 14वीं और 15वीं शताब्दी के उस स्वर्णिम काल से जुड़ा है, जब देवाधिदेव **भगवान शिव** और उनके परम भक्त महाकवि **विद्यापति** के बीच एक अलौकिक संबंध स्थापित हुआ था। पौराणिक गाथाओं के अनुसार, विद्यापति के अनन्य भक्ति गीतों और पदों से मुग्ध होकर स्वयं भगवान शिव ने **'उगना'** नामक एक साधारण सेवक का रूप धारण किया था और कवि की सेवा करने लगे थे। इसके लिए शिव ने शर्त रखी थी कि उनका वास्तविक स्वरूप किसी पर प्रकट नहीं किया जाएगा।\n\nएक दिन जब विद्यापति की पत्नी द्वारा उगना को प्रताड़ित किया जा रहा था, तब भावुकतावश विद्यापति के मुख से उगना का सत्य प्रकट हो गया और भगवान शिव अंतर्ध्यान हो गए:\n- **भक्त की विरह यात्रा**: शिव के विरह में व्याकुल होकर विद्यापति वन-वन भटके, जिसके बाद शिव ने पुनः प्रकट होकर उन्हें आशीर्वाद दिया कि वे सदैव उनके साथ रहेंगे।\n- **महाप्रयाण और निर्वाण**: अपने जीवन के अंतिम पड़ाव में जब महाकवि गंगा तट की ओर जा रहे थे, तब इसी स्थान पर अत्यधिक थकान के कारण वे विश्राम करने लगे। मान्यता है कि भक्त की पुकार सुनकर स्वयं माँ गंगा ने अपनी धारा मोड़कर उनके चरणों का अभिषेक किया था, जिसके बाद उन्होंने यहाँ समाधि ली।\n- **ऐतिहासिक संरक्षण**: कालांतर में दरभंगा राजघराने और स्थानीय श्रद्धालुओं द्वारा इस स्थल पर भव्य मंदिर का निर्माण कराया गया।"
+    },
+    "significance": {
+      "en": "The cultural and theological significance of **Vidyapati Dham** resonates throughout Eastern India, standing as an exceptional monument where classical literature, linguistic heritage, and spiritual devotion merge into a harmonious whole. In terms of Shaivite reverence across North Bihar, it is frequently hailed as second only to Baba Baidyanath Dham of Deoghar, holding the exalted status of a wish-granting **Kamna Tirtha**.\n\nKey facets that define its enduring importance include:\n- **Literary Pilgrimage**: It serves as the epicenter of Maithili linguistic identity, where scholars, poets, and folk artists gather annually to pay homage to the pioneer of vernacular Indian literature.\n- **Shravani Mela Gatherings**: During the holy month of Sawan, hundreds of thousands of Kanwariyas undertake arduous foot journeys carrying holy Ganga water from Simaria or Barh Ghats to perform ceremonial *Jalabhisheka* upon the ancient Shivalinga.\n- **State Cultural Landmark**: The Government of Bihar officially celebrates the annual three-day **Rajkiya Vidyapati Mahotsav** here, featuring classical recitals, literary symposiums, and vibrant folk performances.\n- **Symbol of Humility and Devotion**: The eternal story of God becoming a humble servant exemplifies the highest philosophical tenet of Bhakti yoga, teaching equality and the supremacy of pure unconditional love over rigid ritualism.",
+      "hi": "**विद्यापति धाम** का धार्मिक और सांस्कृतिक महत्व संपूर्ण भारत, विशेषकर मिथिलांचल और पूर्वी भारत में अत्यंत व्यापक है। यह पावन स्थल साहित्य, भाषा और आध्यात्मिक भक्ति के अनूठे संगम का प्रतिनिधित्व करता है। उत्तर बिहार में शैव परंपरा के अंतर्गत इसे देवघर के बाबा बैद्यनाथ धाम के समकक्ष श्रद्धा प्राप्त है और इसे एक दिव्य **कामना तीर्थ** के रूप में पूजा जाता है।\n\nइस पावन धाम की मुख्य महत्ता के प्रमुख बिंदु निम्नलिखित हैं:\n- **साहित्यिक एवं सांस्कृतिक तीर्थ**: यह मैथिली भाषा और संस्कृति की अस्मिता का प्रमुख केंद्र है, जहाँ देश-विदेश से विद्वान, भाषाविद् और साहित्य प्रेमी महाकवि को श्रद्धासुमन अर्पित करने आते हैं।\n- **श्रावणी मेले का विराट स्वरूप**: सावन के पवित्र माह में लाखों कांवरिये सिमरिया और बाढ़ के गंगा घाटों से पैदल चलकर पवित्र गंगाजल लाते हैं और यहाँ स्थित बालेश्वर महादेव पर जलाभिषेक करते हैं।\n- **राजकीय विद्यापति महोत्सव**: बिहार सरकार द्वारा प्रतिवर्ष यहाँ तीन दिवसीय भव्य राजकीय महोत्सव आयोजित किया जाता है, जिसमें राष्ट्रीय स्तर के कलाकारों द्वारा शास्त्रीय संगीत, नाटक और सांस्कृतिक प्रस्तुतियाँ दी जाती हैं।\n- **भक्ति और समरसता का प्रतीक**: भगवान का स्वयं अपने भक्त का सेवक (उगना) बनना यह सिद्ध करता है कि सच्ची भक्ति में कोई सामाजिक ऊँच-नीच नहीं होती, जो सामाजिक समरसता का शाश्वत संदेश देता है।"
+    },
+    "location": {
+      "address": {
+        "en": "Vidyapati Dham (Baleshwar Sthan), Vidyapati Nagar Block, Samastipur District, Bihar 848503, India. The sacred shrine is strategically situated approximately 38 kilometers south-southwest of the Samastipur district headquarters and around 85 kilometers east of Bihar's state capital city, Patna. It lies in close proximity to the Vidyapati Dham Railway Station (Station Code: VPDA) on the Barauni-Hajipur rail section, and is conveniently accessible via State Highway 88 and National Highway 122 through well-maintained rural arterial roads. Neighboring major commercial hubs include Dalsinghsarai (18 km) and Mohiuddinagar (12 km). The surrounding serene rural landscape along the fertile Gangetic plains creates an idyllic, deeply peaceful environment ideal for quiet prayer, meditation, and spiritual reflection.",
+        "hi": "विद्यापति धाम (बालेश्वर स्थान), प्रखंड विद्यापतिनगर, जिला समस्तीपुर, बिहार 848503, भारत। यह पावन तीर्थ स्थल समस्तीपुर जिला मुख्यालय से लगभग 38 किलोमीटर दक्षिण-दक्षिण-पश्चिम में तथा बिहार की राजधानी पटना से लगभग 85 किलोमीटर पूर्व में स्थित है। यह बरौनी-हाजीपुर रेलखंड पर स्थित विद्यापति धाम रेलवे स्टेशन (स्टेशन कोड: VPDA) के बिल्कुल समीप स्थित है और राज्य राजमार्ग 88 तथा राष्ट्रीय राजमार्ग 122 से पक्की सड़कों द्वारा सुगमता से जुड़ा हुआ है। निकटवर्ती प्रमुख कस्बों में दलसिंहसराय (18 किमी) और मोहिउद्दीननगर (12 किमी) शामिल हैं। गंगा के उपजाऊ मैदानी इलाके में स्थित यह शांत ग्रामीण परिवेश तीर्थयात्रियों को ध्यान, पूजा-अर्चना और आध्यात्मिक शांति के लिए एक अत्यंत पवित्र एवं सुरम्य वातावरण प्रदान करता है।"
+      },
+      "latitude": 25.6015,
+      "longitude": 85.8008,
+      "mapQuery": "Vidyapati Dham, Vidyapati Nagar, Samastipur, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday",
+            "saturday",
+            "sunday"
+          ],
+          "open": "05:00",
+          "close": "21:00"
+        }
+      ],
+      "recommendedDurationMinutes": 90,
+      "bestTimeToVisit": {
+        "en": "October to March, especially during the annual Vidyapati Mahotsav in November.",
+        "hi": "अक्टूबर से मार्च, विशेष रूप से नवंबर में आयोजित वार्षिक विद्यापति महोत्सव के दौरान।"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Well-connected by paved all-weather roads from Samastipur town (38 km), Dalsinghsarai (18 km), and Patna via Mohiuddinagar on State Highway 88.",
+        "hi": "समस्तीपुर नगर (38 किमी), दलसिंहसराय (18 किमी), और राज्य राजमार्ग 88 पर मोहिउद्दीननगर के रास्ते पटना से पक्की सड़कों द्वारा अच्छी तरह जुड़ा हुआ है।"
+      },
+      "railway": [
+        {
+          "stationName": "Vidyapati Dham Railway Station (VPDA)",
+          "distanceKm": 1,
+          "majorStation": false
+        },
+        {
+          "stationName": "Barauni Junction (BJU)",
+          "distanceKm": 32,
+          "majorStation": true
+        },
+        {
+          "stationName": "Samastipur Junction (SPJ)",
+          "distanceKm": 38,
+          "majorStation": true
+        }
+      ],
+      "airport": [
+        {
+          "airportName": "Jay Prakash Narayan International Airport, Patna (PAT)",
+          "distanceKm": 85,
+          "type": "domestic"
+        },
+        {
+          "airportName": "Darbhanga Airport (DBR)",
+          "distanceKm": 75,
+          "type": "domestic"
+        }
+      ],
+      "localTransport": {
+        "en": "Auto-rickshaws, shared jeeps, and electric rickshaws are easily available from Vidyapati Dham station and nearby bus stops.",
+        "hi": "विद्यापति धाम रेलवे स्टेशन और निकटवर्ती बस स्टॉप से ऑटो-रिक्शा, शेयरिंग जीप और ई-रिक्शा आसानी से उपलब्ध हैं।"
+      }
+    },
+    "costEstimate": {
+      "localTransport": {
+        "min": 50,
+        "max": 200,
+        "currency": "INR",
+        "note": {
+          "en": "Shared autos and private cabs from Samastipur or Dalsinghsarai.",
+          "hi": "समस्तीपुर या दलसिंहसराय से साझा ऑटो और निजी कैब।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": true,
+      "atm": false,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 150,
+      "stairs": true,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "To make the most of your spiritual and cultural journey to Vidyapati Dham, consider the following practical travel recommendations:\n- **Ideal Visiting Period**: The most pleasant time to visit is during the cooler winter months between October and March, or in November during the colorful three-day **Rajkiya Vidyapati Mahotsav** when the temple grounds come alive with classical music and festivities.\n- **Peak Shravani Season**: If you plan to visit during the auspicious month of Sawan (July-August) on Mondays, expect immense crowds of Kanwariyas; arrive in the early morning before 6:00 AM to secure a peaceful darshan.\n- **Attire and Etiquette**: Dress modestly in customary traditional Indian clothing; remove footwear before entering the temple sanctum sanctorum and maintain respectful silence around the prayer areas.\n- **Logistics and Supplies**: While basic devotional offerings, flowers, and local sweets (such as freshly made pedas) are sold by vendors near the entrance, it is advisable to carry cash, bottled drinking water, and personal medication as digital payment connectivity can occasionally be intermittent.",
+        "hi": "विद्यापति धाम की अपनी आध्यात्मिक और सांस्कृतिक यात्रा को सुगम और स्मरणीय बनाने के लिए निम्नलिखित महत्वपूर्ण सुझावों का पालन करें:\n- **सर्वोत्तम भ्रमण समय**: यहाँ आने के लिए अक्टूबर से मार्च के बीच का समय सबसे अनुकूल है, विशेष रूप से नवंबर माह में जब बिहार सरकार द्वारा तीन दिवसीय भव्य **राजकीय विद्यापति महोत्सव** आयोजित किया जाता है।\n- **श्रावण मास की तैयारी**: यदि आप सावन के महीने में या सोमवार के दिन दर्शन करने आ रहे हैं, तो लाखों कांवरियों की भारी भीड़ का सामना करना पड़ सकता है; शांतिपूर्ण दर्शन हेतु सुबह 6:00 बजे से पहले मंदिर परिसर पहुँचने का प्रयास करें।\n- **वेशभूषा और मर्यादा**: मंदिर परिसर में शालीन और पारंपरिक भारतीय वस्त्र पहनें; गर्भगृह में प्रवेश करने से पहले जूते-चप्पल निर्धारित स्टैंड पर उतारें और मंदिर की पवित्रता का पूरा ध्यान रखें।\n- **खान-पान और नकदी**: मंदिर के प्रवेश द्वार पर पूजा सामग्री, ताजे पुष्प और स्थानीय पेड़े उपलब्ध हैं; हालाँकि ग्रामीण क्षेत्र होने के कारण डिजिटल नेटवर्क धीमा हो सकता है, इसलिए अपने पास पर्याप्त नकद राशि, पीने का पानी और आवश्यक दवाएं अवश्य रखें।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "khudneshwar-asthan",
+      "thaneshwari-asthan"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-18",
+      "sources": [
+        {
+          "title": "Vidyapati Dham",
+          "organization": "Samastipur District Administration",
+          "url": "https://samastipur.nic.in/"
+        },
+        {
+          "title": "Bihar Tourism - Samastipur Destinations",
+          "organization": "Department of Tourism, Government of Bihar",
+          "url": "https://tourism.bihar.gov.in/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-18",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "khudneshwar-asthan",
+    "slug": "khudneshwar-asthan",
+    "name": {
+      "en": "Khudneshwar Asthan",
+      "hi": "खुद्नेश्वर स्थान"
+    },
+    "districtId": "samastipur",
+    "placeType": "temple",
+    "primaryCategory": "religious",
+    "categories": [
+      "religious",
+      "cultural",
+      "historical"
+    ],
+    "subcategories": [
+      "shiva_temple",
+      "syncretic_shrine",
+      "dargah_mazaar"
+    ],
+    "religions": [
+      "hinduism",
+      "islam"
+    ],
+    "circuits": [
+      "shiva-circuit",
+      "heritage-circuit",
+      "sufi_circuit",
+      "shiva_circuit"
+    ],
+    "tags": [
+      "featured",
+      "communal_harmony",
+      "unique_heritage",
+      "pilgrimage",
+      "syncretic"
+    ],
+    "audiences": [
+      "families",
+      "pilgrims",
+      "spiritual_seekers",
+      "history_lovers",
+      "culture_enthusiasts"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "A celebrated historic Shiva temple enshrining both a sacred Shivalinga and the mazaar of Muslim devotee Khudni Bibi, embodying Ganga-Jamuni Tehzeeb.",
+      "hi": "पवित्र शिवलिंग और मुस्लिम भक्त खुद्नो बीबी के मज़ार को एक ही छत के नीचे समाहित करने वाला ऐतिहासिक शिव मंदिर, जो गंगा-जमुनी तहज़ीब का अनुपम प्रतीक है।"
+    },
+    "description": {
+      "en": "**Khudneshwar Asthan**, situated in the Morwa administrative block of Samastipur district, is one of the most remarkable and heartwarming pilgrimage centers in the entire Indian subcontinent. This extraordinary shrine stands as a peerless beacon of **communal harmony**, religious coexistence, and composite *Ganga-Jamuni Tehzeeb*. What distinguishes Khudneshwar Asthan from every other conventional Hindu shrine is its unique sanctum sanctorum: directly adjacent to the revered, self-manifested stone **Shivalinga** lies the consecrated tomb (**mazaar**) of an impoverished Muslim devotee named **Khudni Bibi**, sheltered together under the exact same domed canopy.\n\nDevotees of all faiths, backgrounds, and walks of life arrive here in great numbers to seek divine blessings and spiritual solace:\n- **Shared Sanctum**: Worshippers offer sacred Bel leaves, Gangajal, and milk to Lord Shiva while simultaneously offering floral chadars and respectful fatiha prayers at the mazaar of Khudni Bibi.\n- **Temple Complex**: Includes sprawling courtyards, Dharamshalas for overnight pilgrims, dedicated havan kunds, and open verandas designed for community satsangs.\n- **Syncretic Heritage**: Maintained and nurtured with deep devotion by both Hindu priests and Muslim attendants, demonstrating mutual brotherhood.\n\nThe temple environment radiates a profound aura of unity, proving that pure devotion transcends all boundaries of caste, creed, and dogma.",
+      "hi": "**खुद्नेश्वर स्थान**, बिहार के समस्तीपुर जिले के मोरवा प्रखंड में स्थित, संपूर्ण भारतीय उपमहाद्वीप में सांप्रदायिक सौहार्द, धार्मिक सह-अस्तित्व और **गंगा-जमुनी तहज़ीब** का एक अद्वितीय और प्रेरणादायक तीर्थ स्थल है। इस ऐतिहासिक धाम की सबसे विलक्षण विशेषता यह है कि यहाँ एक ही छत और एक ही गर्भगृह के भीतर देवाधिदेव **भगवान शिव** का स्वयंभू पावन **शिवलिंग** और एक समर्पित मुस्लिम महिला **खुद्नो बीबी** का पवित्र **मज़ार** अगल-बगल स्थापित हैं।\n\nयह स्थान रूढ़िवादिता से परे विशुद्ध प्रेम और भक्ति की मिसाल पेश करता है, जहाँ हर धर्म और संप्रदाय के लोग सिर झुकाते हैं:\n- **साझा गर्भगृह**: श्रद्धालु जहाँ एक ओर भगवान शिव पर बेलपत्र, गंगाजल और दूध अर्पित कर जलाभिषेक करते हैं, वहीं दूसरी ओर अत्यंत आदर के साथ खुद्नो बीबी के मज़ार पर चादर और फूल चढ़ाकर मन्नतें मांगते हैं।\n- **मंदिर परिसर**: विशाल प्रांगण, दूर-दराज से आने वाले तीर्थयात्रियों के ठहरने के लिए धर्मशालाएं, हवन कुंड और सत्संग भवन यहाँ की व्यवस्था को सुगम बनाते हैं।\n- **समरसता की विरासत**: इस धाम की देखरेख हिंदू पुजारियों और स्थानीय मुस्लिम समुदाय द्वारा आपसी सौहार्द और भाईचारे के साथ की जाती है।\n\nयहाँ का वातावरण एकता, सहिष्णुता और आध्यात्मिक शांति की गहरी अनुभूति कराता है, जो यह संदेश देता है कि ईश्वर की दृष्टि में सभी भक्त समान हैं।"
+    },
+    "history": {
+      "en": "The captivating origins of **Khudneshwar Asthan** date back to the 14th century, during a time when the surrounding Morwa region was covered by dense wilderness and pasture lands. According to historical accounts and oral tradition, an impoverished Muslim milkmaid named **Khudni Bibi** used to graze her cattle herd in these forested meadows. She noticed with perplexity that one of her prized milch cows consistently returned dry with empty udders every evening, yielding no milk for her family.\n\nSuspecting theft, she discreetly shadowed the cow into the dense thickets one afternoon and witnessed an astonishing sight:\n- **Miraculous Revelation**: The cow stood serenely over an overgrown mound, spontaneously releasing its entire milk over a hidden black stone emerging from the earth.\n- **Divine Instruction**: Lord Shiva appeared before Khudni Bibi in a divine vision, instructing her to revere the spot but warning her never to disclose the miracle to skeptics, or her mortal breath would cease.\n- **Sacrifice for Truth**: Accused by relatives of secretly selling the milk, Khudni chose truth over life, led the villagers to the sacred mound, and instantly breathed her last upon revealing the Shivalinga.\n- **The Mausoleum**: Stricken with remorse, the villagers buried her right beside the Shivalinga. In 1858, the philanthropic Narhan Estate constructed a majestic brick temple enshrining both relics.",
+      "hi": "**खुद्नेश्वर स्थान** का प्रेरणादायक इतिहास 14वीं शताब्दी के मध्य का माना जाता है, जब मोरवा का यह संपूर्ण क्षेत्र घने जंगलों और चरागाहों से घिरा हुआ था। लोककथाओं और ऐतिहासिक अभिलेखों के अनुसार, **खुद्नो बीबी** नामक एक गरीब मुस्लिम महिला अपनी गायों को इस जंगल में चराने ले जाया करती थी। उसने देखा कि उसकी एक दुधारू गाय लगातार कई दिनों से घर लौटने पर एक बूंद भी दूध नहीं दे रही थी, जिससे परिवार में चिंता फैल गई।\n\nचोरी के संदेह में एक दिन खुद्नो बीबी चुपके से गाय के पीछे-पीछे जंगल में गई और उसने एक अत्यंत विस्मयकारी दृश्य देखा:\n- **अलौकिक प्रकटीकरण**: गाय झाड़ियों के बीच एक विशेष टीले पर खड़ी होकर अपने स्तनों से स्वतः ही भूमि पर दूध की धारा बहा रही थी। झाड़ियों को हटाने पर वहाँ एक चमत्कारी काला शिवलिंग दिखाई दिया।\n- **ईश्वरीय स्वप्न**: मान्यता है कि भगवान शिव ने खुद्नो बीबी को दर्शन देकर इस रहस्य को गोपनीय रखने का आदेश दिया और चेतावनी दी कि किसी को बताने पर उसके प्राण चले जाएंगे।\n- **सत्य की खातिर बलिदान**: जब परिवार वालों ने दूध बेचने का झूठा आरोप लगाया, तो खुद्नो बीबी ने अपने सम्मान की रक्षा के लिए ग्रामीणों को उस स्थान पर ले जाकर सच्चाई बताई और शिवलिंग दिखाते ही उन्होंने अपने प्राण त्याग दिए।\n- **मज़ार और मंदिर निर्माण**: ग्रामीणों ने पश्चाताप करते हुए उनकी पार्थिव देह को शिवलिंग के ठीक पास दफना दिया। बाद में 1858 में नरहन एस्टेट के राजा द्वारा यहाँ भव्य मंदिर का निर्माण कराया गया।"
+    },
+    "significance": {
+      "en": "The profound significance of **Khudneshwar Asthan** lies in its role as a living embodiment of interfaith dialogue, secular unity, and human empathy in modern India. In an era marked by communal polarization, this sacred sanctuary stands as an irreplaceable socio-cultural landmark where religious rigidities dissolve into shared reverence. Scholars of religion and sociologists frequently cite Khudneshwar Asthan as one of the finest real-world manifestations of Sufi-Bhakti syncretism anywhere in the country.\n\nKey attributes underlining its national importance include:\n- **Unbroken Tradition of Syncretism**: For over six centuries, Hindu and Muslim pilgrims have jointly participated in festive rituals, maintaining the shrine's dual sanctity without conflict.\n- **Festive Confluence**: The shrine witnesses monumental footfalls during **Maha Shivratri** and the holy month of **Shravan**, with over 200,000 pilgrims arriving to perform water libations and lay chadar coverings.\n- **State Cultural Protection**: Recognized by the Bihar State Religious Trust Board as a heritage site promoting brotherhood, receiving specialized developmental grants to enhance pilgrim infrastructure.\n- **A Moral Monument**: It immortalizes the courage and purity of a humble pastoral woman whose devotion earned her an eternal place beside Lord Shiva, proving that the Almighty belongs to all humanity.",
+      "hi": "**खुद्नेश्वर स्थान** का सामाजिक, सांस्कृतिक और धार्मिक महत्व अत्यंत गहरा है, क्योंकि यह भारत की विविधता में एकता और धर्मनिरपेक्ष चेतना का एक जीवंत प्रमाण है। यह पवित्र तीर्थ इस बात का सशक्त उदाहरण है कि ईश्वर की भक्ति किसी जाति, मजहब या संप्रदाय के बंधनों में नहीं बांधी जा सकती। समाजशास्त्रियों और इतिहासकारों द्वारा इसे भारत की सूफी-संत और भक्ति परंपरा के सबसे उत्कृष्ट समन्वय के रूप में देखा जाता है।\n\nइस पावन धाम के महत्व के मुख्य पहलू इस प्रकार हैं:\n- **सांप्रदायिक एकता की मिसाल**: विगत छह सौ से अधिक वर्षों से हिंदू और मुस्लिम दोनों समुदायों के लोग यहाँ बिना किसी भेदभाव के एक साथ आते हैं और मंदिर तथा मज़ार पर शीश नवाते हैं।\n- **महाशिवरात्रि और श्रावणी मेला**: प्रतिवर्ष **महाशिवरात्रि** और पवित्र **सावन** मास में यहाँ विशाल मेले का आयोजन होता है, जिसमें लाखों की संख्या में श्रद्धालु उपस्थित होकर जलाभिषेक और चादरपोशी करते हैं।\n- **धार्मिक न्यास बोर्ड द्वारा संरक्षण**: बिहार राज्य धार्मिक न्यास पर्षद द्वारा इस स्थल को सामाजिक समरसता के विशेष तीर्थ के रूप में मान्यता दी गई है और इसके बुनियादी ढांचे का निरंतर विकास किया जा रहा है।\n- **मानवीय मूल्यों का संदेश**: यह मंदिर एक साधारण चरवाहा महिला के अटूट विश्वास, सत्यनिष्ठा और आत्मबलिदान को अमर बनाता है, जो हर आगंतुक को आपसी प्रेम और सहिष्णुता की प्रेरणा देता है।"
+    },
+    "location": {
+      "address": {
+        "en": "Khudneshwar Asthan Temple Complex, Morwa Block, Samastipur District, Bihar 848121, India. The historic temple is situated approximately 17 kilometers southwest of the Samastipur district headquarters and about 72 kilometers northeast of Bihar's state capital city, Patna. Located off the Samastipur-Tajpur-Morwa road, the destination is easily connected to National Highway 28 (NH-28) at Tajpur (approx. 10 kilometers away), which provides smooth four-lane vehicular transit across North Bihar connecting Muzaffarpur, Samastipur, and Begusarai. Set amidst lush agricultural farmlands, traditional mango and litchi orchards, and tranquil rural hamlets, the sacred temple site offers a restorative sanctuary away from noisy urban congestion, making it singularly suited for family pilgrimages and spiritual contemplation.",
+        "hi": "खुद्नेश्वर स्थान मंदिर परिसर, प्रखंड मोरवा, जिला समस्तीपुर, बिहार 848121, भारत। यह ऐतिहासिक मंदिर समस्तीपुर जिला मुख्यालय से लगभग 17 किलोमीटर दक्षिण-पश्चिम में तथा बिहार की राजधानी पटना से लगभग 72 किलोमीटर उत्तर-पूर्व में स्थित है। समस्तीपुर-ताजपुर-मोरवा मार्ग पर स्थित यह तीर्थ स्थल ताजपुर (लगभग 10 किमी) के पास राष्ट्रीय राजमार्ग 28 (NH-28) से सुगम चार-लेन सड़क संपर्क रखता है, जो मुजफ्फरपुर, समस्तीपुर और बेगूसराय को जोड़ता है। उपजाऊ कृषि भूमि, आम और लीची के घने बगीचों और शांत ग्रामीण बस्तियों के बीच स्थित यह परिसर शहरी कोलाहल से दूर एक अत्यंत शांत और आध्यात्मिक वातावरण प्रदान करता है, जो पारिवारिक तीर्थयात्रा और ध्यान-साधना के लिए सर्वोत्तम है।"
+      },
+      "latitude": 25.812,
+      "longitude": 85.692,
+      "mapQuery": "Khudneshwar Asthan, Morwa, Samastipur, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday",
+            "saturday",
+            "sunday"
+          ],
+          "open": "05:00",
+          "close": "21:00"
+        }
+      ],
+      "recommendedDurationMinutes": 60,
+      "bestTimeToVisit": {
+        "en": "October to March, or during Maha Shivratri and Shravan months.",
+        "hi": "अक्टूबर से मार्च, या महाशिवरात्रि और श्रावण माह के दौरान।"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Accessible via well-paved district roads branching off NH-28 from Tajpur (approx. 10 km) and from Samastipur district headquarters (17 km).",
+        "hi": "ताजपुर से NH-28 (लगभग 10 किमी) और समस्तीपुर जिला मुख्यालय (17 किमी) से पक्की जिला सड़कों के माध्यम से आसानी से पहुँचा जा सकता है।"
+      },
+      "railway": [
+        {
+          "stationName": "Samastipur Junction (SPJ)",
+          "distanceKm": 17,
+          "majorStation": true
+        },
+        {
+          "stationName": "Dalsingh Sarai Railway Station (DSS)",
+          "distanceKm": 22,
+          "majorStation": false
+        }
+      ],
+      "airport": [
+        {
+          "airportName": "Jay Prakash Narayan International Airport, Patna (PAT)",
+          "distanceKm": 72,
+          "type": "domestic"
+        },
+        {
+          "airportName": "Darbhanga Airport (DBR)",
+          "distanceKm": 56,
+          "type": "domestic"
+        }
+      ],
+      "localTransport": {
+        "en": "Regular passenger auto-rickshaws, shared jeeps, and private taxis ply regularly from Tajpur and Samastipur town directly to Morwa.",
+        "hi": "ताजपुर और समस्तीपुर शहर से मोरवा के लिए नियमित यात्री ऑटो-रिक्शा, शेयरिंग जीप और निजी टैक्सियाँ आसानी से चलती हैं।"
+      }
+    },
+    "costEstimate": {
+      "localTransport": {
+        "min": 40,
+        "max": 150,
+        "currency": "INR",
+        "note": {
+          "en": "Auto or shared jeep fares from Samastipur town or Tajpur bus stand.",
+          "hi": "समस्तीपुर नगर या ताजपुर बस स्टैंड से ऑटो अथवा सवारी जीप का किराया।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": true,
+      "atm": false,
+      "medical": false
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 100,
+      "stairs": false,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "To ensure an enriching and memorable pilgrimage to Khudneshwar Asthan, keep the following practical guidelines in mind:\n- **Seasonal Timing**: Plan your excursion during the pleasant post-monsoon and winter season from October to March, when the weather is cool and ideal for rural sightseeing.\n- **Festive Logistics**: If visiting during the massive fairs of **Maha Shivratri** or **Sawan Somwar**, anticipate large congregations; plan an early arrival around 5:30 AM to avoid extended queues for both the Shivalinga darshan and the mazaar.\n- **Cultural Sensitivities**: Respect the syncretic traditions of the shrine; it is customary to offer flowers, raw milk, or Bel leaves at the Shivalinga, as well as green floral chadars or incense sticks at the tomb of Khudni Bibi.\n- **Local Commute & Provisions**: Direct auto-rickshaws and shared jeeps operate frequently from Samastipur Junction and Tajpur; carry adequate cash for offerings and local snacks, as digital ATMs are sparse in the immediate village vicinity.",
+        "hi": "खुद्नेश्वर स्थान की अपनी यात्रा को सुखद, सुरक्षित और आध्यात्मिक रूप से समृद्ध बनाने के लिए निम्नलिखित व्यावहारिक यात्रा सुझावों का ध्यान रखें:\n- **भ्रमण का सर्वोत्तम मौसम**: यहाँ आने के लिए अक्टूबर से मार्च तक के शरद ऋतु के महीने सबसे उत्तम हैं, जब मौसम सुहावना रहता है और ग्रामीण परिवेश का आनंद लिया जा सकता है।\n- **त्योहारों के दौरान सावधानी**: **महाशिवरात्रि** और **सावन के सोमवार** के दौरान यहाँ श्रद्धालुओं की भारी भीड़ उमड़ती है; लंबी कतारों से बचने और सुगमता से दर्शन करने के लिए सुबह 5:30 बजे तक मंदिर पहुँचने का प्रयास करें।\n- **परंपराओं का सम्मान**: मंदिर की समन्वित संस्कृति का आदर करें; श्रद्धालु शिवलिंग पर कच्चा दूध, गंगाजल और बेलपत्र चढ़ाने के साथ-साथ खुद्नो बीबी के मज़ार पर चादर, अगरबत्ती और पुष्प अर्पित कर सकते हैं।\n- **यातायात और नकदी**: समस्तीपुर जंक्शन और ताजपुर बस स्टैंड से मोरवा के लिए ऑटो-रिक्शा और सवारी गाड़ियाँ सुलभ हैं; गाँव के आसपास एटीएम की सीमित सुविधा को देखते हुए आवश्यक नकद राशि और पानी साथ रखें।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "vidyapati-dham",
+      "thaneshwari-asthan"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-18",
+      "sources": [
+        {
+          "title": "Places of Interest - Khudneshwar Asthan",
+          "organization": "Samastipur District Administration",
+          "url": "https://samastipur.nic.in/"
+        },
+        {
+          "title": "Pilgrimage Sites of Bihar",
+          "organization": "Bihar State Tourism Development Corporation",
+          "url": "https://tourism.bihar.gov.in/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-18",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "thaneshwari-asthan",
+    "slug": "thaneshwari-asthan",
+    "name": {
+      "en": "Thaneshwari Asthan",
+      "hi": "थानेश्वरी स्थान (थानेश्वर मंदिर)"
+    },
+    "districtId": "samastipur",
+    "placeType": "temple",
+    "primaryCategory": "religious",
+    "categories": [
+      "religious",
+      "cultural",
+      "historical"
+    ],
+    "subcategories": [
+      "shiva_temple",
+      "shakti_shrine",
+      "city_temple"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "shiva-circuit",
+      "buddhist_circuit",
+      "shiva_circuit"
+    ],
+    "tags": [
+      "popular",
+      "featured",
+      "city_landmark",
+      "manokamna_peeth",
+      "pilgrimage"
+    ],
+    "audiences": [
+      "families",
+      "pilgrims",
+      "spiritual_seekers",
+      "history_lovers",
+      "culture_enthusiasts"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "A revered central Shaivite and Shakti pilgrimage landmark in the heart of Samastipur city, known for wish fulfillment and vibrant Shravan celebrations.",
+      "hi": "समस्तीपुर शहर के हृदय स्थल में स्थित एक अत्यंत पूजनीय शैव और शक्ति पीठ, जो मनोकामना पूर्ति और श्रावण मास के भव्य अनुष्ठानों के लिए प्रसिद्ध है।"
+    },
+    "description": {
+      "en": "**Thaneshwari Asthan**, widely recognized by locals as the **Thaneshwar Nath Mahadev Mandir**, is the spiritual nucleus and most vibrant urban landmark of Samastipur city in North Bihar. Centrally situated within the bustling district headquarters, this magnificent temple complex is dedicated primarily to **Lord Shiva** along with his divine consort Goddess Parvati, surrounded by subsidiary shrines honoring Lord Ganesha, Hanuman Ji, and Goddess Durga. The temple is venerated across the region as a potent 'Manokamna Peeth'—a hallowed sanctuary where prayers offered with pure devotion are believed to be unfailingly answered.\n\nThe temple complex is characterized by impressive sacred architecture and lively everyday devotion:\n- **Central Sanctum**: Shelters an ancient and revered black stone Shivalinga, adorned daily with elaborate floral embellishments, chandan tilak, and silver nag devata ornaments.\n- **Sacred Peepal Tree**: A centuries-old colossal Bodhi/Peepal tree stands within the courtyard, where devotees tie protective sacred threads (moli) and perform circumambulations (parikrama).\n- **Urban Oasis**: Despite being situated close to Samastipur's bustling commercial core, the temple interior provides an oasis of transcendent calm and continuous meditative chanting.\n\nServing as the communal heartbeat of the city, the temple hosts thousands of daily worshipers, wedding ceremonies, and major festivals throughout the year.",
+      "hi": "**थानेश्वरी स्थान**, जिसे स्थानीय श्रद्धालुओं के बीच **थानेश्वर नाथ महादेव मंदिर** के नाम से भी जाना जाता है, समस्तीपुर नगर का आध्यात्मिक केंद्र और सबसे प्रमुख आस्था स्थल है। जिला मुख्यालय के हृदय स्थल में स्थित यह भव्य मंदिर परिसर मुख्य रूप से देवाधिदेव **भगवान शिव** और माता पार्वती को समर्पित है, जिसके परिसर में भगवान गणेश, संकटमोचन हनुमान और माँ दुर्गा के दिव्य उप-मंदिर भी स्थापित हैं। संपूर्ण मिथिलांचल में इस मंदिर को एक जाग्रत 'मनोकामना पीठ' के रूप में पूजा जाता है, जहाँ सच्चे मन से की गई प्रार्थना अवश्य पूर्ण होती है।\n\nमंदिर परिसर की प्रमुख विशेषताएं और आकर्षण इस प्रकार हैं:\n- **मुख्य गर्भगृह**: यहाँ एक अत्यंत प्राचीन और दुर्लभ काले पत्थर का शिवलिंग स्थापित है, जिसका प्रतिदिन सुगंधित चंदन, बेलपत्र, धतूरा और चाँदी के नाग छत्र से भव्य श्रृंगार किया जाता है।\n- **विशाल पीपल वृक्ष**: मंदिर प्रांगण में एक शताब्दियों पुराना विशाल पीपल का वृक्ष है, जिसके नीचे श्रद्धालु रक्षा-सूत्र बांधकर परिक्रमा करते हैं और अपनी मनोकामनाएं मांगते हैं।\n- **आध्यात्मिक वातावरण**: शहर के मुख्य बाजार और व्यापारिक केंद्र के निकट होने के बावजूद, मंदिर परिसर के भीतर प्रवेश करते ही अपार शांति, घंटियों की मधुर ध्वनि और ॐ नमः शिवाय के मंत्रोच्चार का अनुभव होता है।\n\nयह पावन धाम नगरवासियों के दैनिक जीवन का अभिन्न अंग है, जहाँ प्रतिदिन हजारों श्रद्धालु दर्शनार्थ आते हैं।"
+    },
+    "history": {
+      "en": "The documented modern history of **Thaneshwari Asthan** dates back to **1901**, when the site was a tranquil grove characterized by a towering, ancient Peepal tree on the northern bank of the old settlement. According to chronicled local lore, a cowherd noticed his animals lingering near the roots of the sacred tree, where a perfectly sculpted natural Shivalinga had miraculously emerged from the earth. Deeply moved by this divine apparition, the townsfolk erected a humble earthen sanctum and initiated daily devotional pujas.\n\nThe transformation of the modest shrine into a monumental architectural marvel unfolded over the 20th century:\n- **The Nomenclature**: The temple earned the name 'Thaneshwar' due to its immediate proximity to the historic town police outpost (*thana*), symbolizing Lord Shiva as the supreme divine protector and magistrate of the settlement.\n- **Historic Pledge of 1952**: Following India's independence, prominent freedom fighter, former Union Minister, and Governor **Satyanarayan Singh** took a sacred vow at the shrine, promising to build a grand temple if victorious in his parliamentary election.\n- **Community Construction**: After his triumph in 1952, he spearheaded the construction of the grand stone temple by personally undertaking *bhikshatan* (collecting voluntary donations and alms) from citizens across all socio-economic strata, cementing the temple as a true monument of the people.",
+      "hi": "**थानेश्वरी स्थान** का आधुनिक और लिपिबद्ध इतिहास वर्ष **1901** से प्रारंभ होता है, जब यह क्षेत्र एक विशाल और प्राचीन पीपल वृक्ष से आच्छादित एक शांत उपवन था। स्थानीय जनश्रुति के अनुसार, पीपल के वृक्ष की जड़ों के पास मिट्टी से एक दुर्लभ और स्वयंभू शिवलिंग का अलौकिक प्राकट्य हुआ। इस चमत्कार को देखकर स्थानीय नागरिकों ने वहाँ एक छोटा सा चबूतरा बनाकर नियमित पूजा-अर्चना आरंभ की।\n\nइस साधारण स्थल का एक भव्य और विशाल मंदिर में रूपांतरण 20वीं शताब्दी के मध्य में हुआ:\n- **नामकरण का आधार**: नगर के मुख्य पुलिस थाने (थाना) के ठीक समीप स्थित होने के कारण इस पावन धाम का नाम 'थानेश्वर' पड़ा, जिसे नगरवासी अपने क्षेत्र के सर्वोच्च दैवीय रक्षक और अधिष्ठाता देवता के रूप में पूजते हैं।\n- **1952 का ऐतिहासिक संकल्प**: स्वतंत्रता सेनानी, पूर्व केंद्रीय मंत्री और राज्यपाल **सत्यनारायण सिंह** ने यहाँ एक संकल्प लिया था कि यदि वे संसदीय चुनाव में विजयी हुए तो यहाँ एक भव्य मंदिर का निर्माण कराएंगे।\n- **लोक-सहयोग से निर्माण**: 1952 में ऐतिहासिक विजय के पश्चात उन्होंने किसी सरकारी कोष के बजाय स्वयं **भिक्षाटन** (नागरिकों से स्वेच्छा से दान और भिक्षा एकत्र कर) करके इस विशाल मंदिर का भव्य निर्माण कराया, जिससे यह मंदिर जन-आस्था का अमर प्रतीक बन गया।"
+    },
+    "significance": {
+      "en": "The religious, cultural, and sociological significance of **Thaneshwari Asthan** makes it the foremost epicenter of Shaivite devotion in the central plains of Samastipur. Serving as both a neighborhood sanctuary and a regional pilgrimage destination, the temple plays an indispensable role in preserving Mithila's living spiritual customs, ritual arts, and festival traditions. It unites communities across diverse economic and cultural strata through daily collective prayer and egalitarian community feasts (*bhandaras*).\n\nKey dimensions highlighting its preeminent importance include:\n- **Epicenter of Shravan Pilgrimage**: Throughout the holy month of Shravan, tens of thousands of barefoot Kanwariya pilgrims transport holy Ganga water from Simaria, Barh, or Jhamtiya Ghats over dozens of kilometers to perform auspicious *Jalabhisheka* on Mondays.\n- **Grand Shivratri Mahotsav**: The annual festival of **Maha Shivratri** is celebrated with monumental grandeur, featuring a spectacular civic wedding procession (*Shiv Barat*) of Lord Shiva that traverses through the illuminated avenues of Samastipur.\n- **Sanctuary of Rites and Blessings**: Considered the most auspicious venue in the district for conducting Hindu sacramental milestones, including weddings, sacred thread ceremonies (*Upanayana*), and infant hair-shearing rituals (*Mundan*).\n- **Civic Heritage Pride**: Stands as a historic symbol of community philanthropy and collective spiritual determination, deeply cherished by every resident of the city.",
+      "hi": "**थानेश्वरी स्थान** का धार्मिक, सामाजिक और सांस्कृतिक महत्व समस्तीपुर और संपूर्ण मिथिला क्षेत्र में सर्वोपरि है। यह मंदिर न केवल नगरवासियों का दैनिक आध्यात्मिक आश्रय है, बल्कि क्षेत्रीय स्तर पर शैव और सनातन परंपरा का एक प्रमुख स्तंभ है। यह पावन स्थल दैनिक सामूहिक प्रार्थनाओं, भव्य महाआरती और विशाल भंडारों के माध्यम से समाज के सभी वर्गों को एक सूत्र में पिरोने का पावन कार्य करता है।\n\nइस दिव्य धाम की प्रमुख महत्ता के बिंदु निम्नलिखित हैं:\n- **श्रावण मास का महापर्व**: पवित्र सावन महीने में सिमरिया, झमटिया और बाढ़ के गंगा तटों से पैदल कांवड़ यात्रा कर आने वाले हजारों कांवड़िए यहाँ पहुँचकर भगवान शिव का जलाभिषेक करते हैं, जिससे पूरा नगर 'हर-हर महादेव' के जयघोष से गुंजायमान रहता है।\n- **विराट महाशिवरात्रि महोत्सव**: महाशिवरात्रि के पावन अवसर पर यहाँ से भगवान शिव की भव्य और नयनाभिराम **शिव बारात** निकाली जाती है, जिसमें पूरे शहर के लोग अत्यंत हर्षोल्लास के साथ सम्मिलित होते हैं।\n- **मांगलिक अनुष्ठानों का केंद्र**: इस मंदिर को अत्यंत शुभ माना जाता है, जिसके चलते यहाँ वर्ष भर विवाह संस्कार, उपनयन (जनेऊ), मुंडन और अन्य धार्मिक अनुष्ठान संपन्न होते हैं।\n- **नागरिक अस्मिता का प्रतीक**: भिक्षाटन और जन-सहयोग से निर्मित यह मंदिर समस्तीपुर के सांस्कृतिक गौरव और नागरिकों की अटूट आस्था का जीवंत दर्पण है।"
+    },
+    "location": {
+      "address": {
+        "en": "Thaneshwari Asthan (Thaneshwar Nath Mandir), Station Road, Near Town Police Station (Thana) and Old Bus Stand, Samastipur Central, Samastipur District, Bihar 848101, India. The temple is conveniently located right in the vibrant commercial heart of Samastipur city, situated just 1.2 kilometers south of Samastipur Junction Railway Station (Station Code: SPJ), a major divisional headquarters of East Central Railway, and approximately 85 kilometers northeast of the state capital, Patna. Well connected by wide municipal roads, auto-rickshaws, and cycle rickshaws, the temple enjoys effortless connectivity from all city neighborhoods, State Highway 49, and nearby district borders across Mithila including Darbhanga, Muzaffarpur, and Begusarai, making it exceptionally accessible for daily pilgrims and regional tourists alike.",
+        "hi": "थानेश्वरी स्थान (थानेश्वर नाथ मंदिर), स्टेशन रोड, नगर थाना एवं पुराने बस स्टैंड के पास, समस्तीपुर नगर, जिला समस्तीपुर, बिहार 848101, भारत। यह मंदिर समस्तीपुर शहर के बिल्कुल मध्य में स्थित है और पूर्व मध्य रेलवे के प्रमुख मंडल मुख्यालय समस्तीपुर जंक्शन रेलवे स्टेशन (स्टेशन कोड: SPJ) से मात्र 1.2 किलोमीटर की दूरी पर है, तथा बिहार की राजधानी पटना से लगभग 85 किलोमीटर उत्तर-पूर्व में स्थित है। नगर के चौड़े मुख्य मार्गों, ऑटो-रिक्शा और ई-रिक्शा द्वारा यहाँ पहुँचना बेहद सुगम है। राज्य राजमार्ग 49 तथा दरभंगा, मुजफ्फरपुर और बेगूसराय जैसे पड़ोसी जिलों से सीधी सड़क कनेक्टिविटी होने के कारण यह मंदिर स्थानीय नागरिकों और बाहरी तीर्थयात्रियों दोनों के लिए अत्यधिक सुविधाजनक और सुलभ है।"
+      },
+      "latitude": 25.8626,
+      "longitude": 85.7811,
+      "mapQuery": "Thaneshwar Temple, Samastipur, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "days": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday",
+            "saturday",
+            "sunday"
+          ],
+          "open": "05:00",
+          "close": "21:30"
+        }
+      ],
+      "recommendedDurationMinutes": 60,
+      "bestTimeToVisit": {
+        "en": "October to March, or during evening Aarti and Maha Shivratri celebrations.",
+        "hi": "अक्टूबर से मार्च, या शाम की आरती और महाशिवरात्रि उत्सव के दौरान।"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Located in central Samastipur city on Station Road; easily reachable via State Highway 49 and National Highway 28 connecting to Darbhanga, Muzaffarpur, and Patna.",
+        "hi": "समस्तीपुर शहर के केंद्र में स्टेशन रोड पर स्थित; दरभंगा, मुजफ्फरपुर और पटना को जोड़ने वाले राज्य राजमार्ग 49 और राष्ट्रीय राजमार्ग 28 के माध्यम से आसानी से पहुँचा जा सकता है।"
+      },
+      "railway": [
+        {
+          "stationName": "Samastipur Junction (SPJ)",
+          "distanceKm": 1.2,
+          "majorStation": true
+        }
+      ],
+      "airport": [
+        {
+          "airportName": "Darbhanga Airport (DBR)",
+          "distanceKm": 48,
+          "type": "domestic"
+        },
+        {
+          "airportName": "Jay Prakash Narayan International Airport, Patna (PAT)",
+          "distanceKm": 85,
+          "type": "domestic"
+        }
+      ],
+      "localTransport": {
+        "en": "Abundant e-rickshaws, cycle-rickshaws, and auto-rickshaws operate round the clock from Samastipur Junction and the bus terminus directly to the temple gate.",
+        "hi": "समस्तीपुर जंक्शन और बस स्टैंड से मंदिर के मुख्य द्वार तक चौबीसों घंटे प्रचुर मात्रा में ई-रिक्शा, साइकिल-रिक्शा और ऑटो-रिक्शा चलते हैं।"
+      }
+    },
+    "costEstimate": {
+      "localTransport": {
+        "min": 20,
+        "max": 60,
+        "currency": "INR",
+        "note": {
+          "en": "Minimal local e-rickshaw or auto fare within Samastipur town.",
+          "hi": "समस्तीपुर शहर के भीतर नाममात्र ई-रिक्शा या ऑटो किराया।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": false,
+      "atm": true,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 50,
+      "stairs": false,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "To ensure a seamless, fulfilling, and comfortable visit to Thaneshwari Asthan, consider the following useful recommendations:\n- **Best Times to Visit**: The early morning hours between 5:30 AM and 7:30 AM, or during the evocative evening *Maha Aarti* at 7:00 PM, offer the most spiritually uplifting and peaceful experience with melodic hymns and cooler temperatures.\n- **Maneuvering Shravan & Shivratri Rush**: Mondays in the holy month of Sawan and the day of **Maha Shivratri** witness extraordinary footfalls; visitors should prepare for lengthy queues and are advised to reach the sanctum before dawn to avoid delays.\n- **Footwear and Temple Amenities**: A dedicated footwear deposit stall is available near the entrance; dress modestly according to Hindu temple traditions, and purchase fresh flowers, bilva leaves, and milk from the organized stalls lining Station Road.\n- **Central Connectivity**: Because of its prime central location, the shrine is best reached via e-rickshaws or walking from Samastipur Junction; ample budget hotels, eateries offering traditional Bihari cuisine, and transport hubs are within comfortable walking distance.",
+        "hi": "थानेश्वरी स्थान की अपनी यात्रा और दर्शन को सुगम एवं मंगलमय बनाने के लिए निम्नलिखित व्यावहारिक सुझावों का पालन करें:\n- **दर्शन का सर्वोत्तम समय**: सुबह 5:30 बजे से 7:30 बजे के बीच या शाम को 7:00 बजे होने वाली दिव्य **संध्या महाआरती** के समय दर्शन करना सबसे उत्तम और अलौकिक अनुभव प्रदान करता है, जब वातावरण घंटियों और शंखनाद से गूंज उठता है।\n- **श्रावण और शिवरात्रि की तैयारी**: सावन के सोमवार और **महाशिवरात्रि** के दिन अत्यधिक भीड़ होती है; यदि आप इन विशेष दिनों में आ रहे हैं, तो लंबी कतारों से बचने के लिए ब्रह्ममुहूर्त में दर्शन हेतु कतार में लगें।\n- **जूते-चप्पल और पूजा सामग्री**: मंदिर के मुख्य द्वार पर जूता स्टैंड की सुविधा उपलब्ध है; पारंपरिक और शालीन वस्त्र पहनें, और स्टेशन रोड पर स्थित दुकानों से ताजे बेलपत्र, फूल, गंगाजल और पूजन सामग्री ले सकते हैं।\n- **यातायात और सुविधाएं**: शहर के केंद्र में होने के कारण समस्तीपुर रेलवे स्टेशन से यहाँ के लिए ई-रिक्शा और ऑटो आसानी से उपलब्ध हैं; मंदिर के आसपास उत्तम धर्मशालाएं, होटल और शुद्ध शाकाहारी भोजनालय सुलभता से उपलब्ध हैं।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "khudneshwar-asthan",
+      "vidyapati-dham"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-18",
+      "sources": [
+        {
+          "title": "Thaneshwar Temple",
+          "organization": "Samastipur District Administration",
+          "url": "https://samastipur.nic.in/"
+        },
+        {
+          "title": "Temples of Mithila",
+          "organization": "Bihar State Tourism Development Corporation",
+          "url": "https://tourism.bihar.gov.in/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-18",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  }
+]

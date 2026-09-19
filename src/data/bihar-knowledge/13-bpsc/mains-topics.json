@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "id": "mains-mauryan-art-and-architecture",
+      "paper": "General Studies Paper 1 (Section 1)",
+      "standardQuestion": {
+        "en": "Analyze the chief characteristics of Mauryan Art and Architecture. Distinguish between Court Art and Folk Art of this period.",
+        "hi": "मौर्य कला एवं स्थापत्य की प्रमुख विशेषताओं का विश्लेषण कीजिए। इस काल की दरबारी कला और लोक कला के बीच अंतर स्पष्ट कीजिए।"
+      },
+      "answerFramework": {
+        "introduction": {
+          "en": "Mauryan era (4th to 2nd century BCE) marks the transition from perishable wood and mud architecture to monumental stone art in India, patronized by emperors like Chandragupta and Ashoka.",
+          "hi": "मौर्य काल (ईसा पूर्व चौथी से दूसरी शताब्दी) भारतीय कला के इतिहास में काष्ठ और मिट्टी से पत्थर के माध्यम में संक्रमण का युगांतकारी काल है, जिसे चंद्रगुप्त और सम्राट अशोक का शाही संरक्षण प्राप्त हुआ।"
+        },
+        "courtArtDimensions": [
+          "Monolithic Polished Pillars: Carved out of single blocks of buff-colored Chunar sandstone with mirror-like glass polish (Vajra lepa).",
+          "Pillar Capital Components: Bell-shaped inverted lotus, abacus decorated with animals and dharma chakras, crowned by majestic animal sculptures (Sarnath Lion Capital, Rampurva Bull, Lauriya Nandangarh).",
+          "Kumhrar Wooden Hypostyle Hall: 80-pillared audience hall in Pataliputra described with wonder by Megasthenes and Faxian.",
+          "Rock-Cut Cave Architecture: Barabar and Nagarjuni caves (Lomas Rishi, Sudama cave) excavated for Ajivika ascetics featuring high-polish interiors and chaitya arch facades."
+        ],
+        "folkArtDimensions": [
+          "Colossal Stone Statues: Free-standing monumental sculptures created by local guilds, notably the Didarganj Yakshi (famous for life-like grace, flywhisk, and lustrous polish) and Parkham Yaksha.",
+          "Terracotta Figurines: Hand-moulded and wheel-made clay toys, mother goddess figures, and animal models depicting ordinary populace life."
+        ],
+        "criticalAnalysis": {
+          "en": "Comparison with Achaemenid (Persian) pillars: Unlike Persian columns which are fluted, segmented, and support roof superstructures, Ashokan pillars are monolithic, smooth, standalone imperial edicts propagating Dhamma.",
+          "hi": "ईरानी (हखामनी) स्तंभों से तुलना: ईरानी स्तंभ जहां कई टुकड़ों को जोड़कर महलों की छतों को सहारा देने के लिए बनाए जाते थे, वहीं मौर्य स्तंभ एकाश्मक, बिना किसी सहारे के स्वतंत्र रूप से खड़े और धम्म के प्रचारक राजकीय प्रतीक हैं।"
+        }
+      }
+    },
+    {
+      "id": "mains-pala-art-and-sculpture",
+      "paper": "General Studies Paper 1 (Section 1)",
+      "standardQuestion": {
+        "en": "Evaluate the salient features of Pala Art and Sculpture with special reference to bronze casting and terracotta traditions.",
+        "hi": "कांस्य ढलाई और टेराकोटा परंपराओं के विशेष संदर्भ में पाल कला एवं मूर्तिकला की मुख्य विशेषताओं का मूल्यांकन कीजिए।"
+      },
+      "answerFramework": {
+        "introduction": {
+          "en": "Under the patronage of the Buddhist Pala rulers of Bengal and Bihar (8th to 12th century CE), a distinctive regional artistic renaissance emerged centered around Nalanda, Kurkihar, and Vikramashila.",
+          "hi": "8वीं से 12वीं सदी के दौरान बंगाल और बिहार के पाल शासकों के संरक्षण में नालंदा, कुर्किहार और विक्रमशिला को केंद्र बनाकर एक विशिष्ट क्षेत्रीय कला का चरमोत्कर्ष देखा गया।"
+        },
+        "bronzeSculptureKeyPoints": [
+          "Cire-perdue (lost-wax casting technique) perfected by master artisans Dhiman and his son Vitapala.",
+          "Major bronze hoards discovered at Kurkihar (Gaya) and Nalanda depicting Buddha in Bhumisparsha mudra, Bodhisattva Avalokiteshvara, Manjushri, and Tara.",
+          "Elegant, slender proportions, flowing drapery, intricate jewelry, and serene meditative facial expressions."
+        ],
+        "stoneSculptureKeyPoints": [
+          "Executed predominantly on fine-grained black basalt stone quarried from the Rajmahal and Santhal Pargana hills.",
+          "High-relief stele carvings where the central deity is surrounded by smaller attendant divinities, mythological scenes, and flamboyant back-slabs (prabhavali).",
+          "Back sides of the stone slabs are generally left flat and uncarved."
+        ],
+        "terracottaAndManuscriptPainting": [
+          "Terracotta plaques embedded in the plinths of Vikramashila (Antichak) Mahavihara portraying scenes of village life, ascetics, dancers, and fauna.",
+          "Illuminated Buddhist palm-leaf manuscripts (e.g. Ashtasahasrika Prajnaparamita) with delicate miniature paintings that laid the groundwork for Himalayan/Tibetan art."
+        ]
+      }
+    },
+    {
+      "id": "mains-patna-kalam-painting",
+      "paper": "General Studies Paper 1 (Section 1)",
+      "standardQuestion": {
+        "en": "Discuss the distinctive features and social themes of Patna Kalam painting. Why is it termed the first independent school depicting common life?",
+        "hi": "पटना कलम चित्रकला की विशिष्ट विशेषताओं और सामाजिक विषयों की विवेचना कीजिए। इसे आम जनजीवन को दर्शाने वाली पहली स्वतंत्र शैली क्यों कहा जाता है?"
+      },
+      "answerFramework": {
+        "introduction": {
+          "en": "Flourishing from the mid-18th to the early 20th century in Patna, Patna Kalam emerged as an offshoot of the Mughal and Company schools, patronized by local merchants, aristocrats, and British administrators.",
+          "hi": "18वीं सदी के मध्य से 20वीं सदी के प्रारंभ तक पटना में विकसित पटना कलम, मुगल और कंपनी शैली का एक अनूठा समन्वय था, जिसे स्थानीय व्यापारियों और अधिकारियों का संरक्षण मिला।"
+        },
+        "distinctiveStylisticFeatures": [
+          "Kajli Siyahi Technique: Direct execution using a fine brush without preliminary pencil outlines.",
+          "Subdued Earth Tones: Preference for light natural pigments (ochre, indigo, lamp soot, terra verte) rather than garish or lavish gold embellishments.",
+          "Medium: Painted on handmade paper, silk, and ivory sheets using brushes crafted from goat, squirrel, and bird feathers.",
+          "Realistic Shading: Delicate cross-hatching and shading to achieve three-dimensional realism and anatomical volume."
+        ],
+        "socialThemes": [
+          "First school to pivot away from royal courts, durbars, and mythological romances to everyday street realities.",
+          "Portrayed local artisans at work: ironsmiths, carpenters, potters, washermen (dhobi), water-carriers (bhishti), butcher shops, and palanquin bearers.",
+          "Street festivals, local bazars, and village scenes (such as fireworks on Shab-e-Barat, Muharram processions, and Holika Dahan)."
+        ]
+      }
+    },
+    {
+      "id": "mains-role-of-bihar-in-quit-india-1942",
+      "paper": "General Studies Paper 1 (Section 1)",
+      "standardQuestion": {
+        "en": "Critically examine the intensity and nature of the Quit India Movement (1942) in Bihar, highlighting the role of student martyrs and Azad Dasta.",
+        "hi": "छात्र शहीदों और आजाद दस्ता की भूमिका को रेखांकित करते हुए बिहार में भारत छोड़ो आंदोलन (1942) की तीव्रता और स्वरूप का आलोचनात्मक परीक्षण कीजिए।"
+      },
+      "answerFramework": {
+        "historicalContext": {
+          "en": "Following the arrest of top national and provincial leaders on 9 August 1942, the spontaneous movement in Bihar transformed into an unprecedented mass rebellion characterized by widespread disruption of colonial communication networks.",
+          "hi": "9 अगस्त 1942 को राष्ट्रीय और प्रांतीय नेताओं की गिरफ्तारी के बाद बिहार में आंदोलन स्वतःस्फूर्त जनक्रांति में बदल गया, जिसने औपनिवेशिक संचार और प्रशासनिक ढांचे को हिलाकर रख दिया।"
+        },
+        "pivotalEvents": [
+          "Patna Secretariat Firing (11 August 1942): District Magistrate W.G. Archer ordered firing on students attempting to unfurl the Tricolor on the Secretariat building; 7 student martyrs (Devipada Choudhary, Umakant Sinha, Ramanand Singh, Satish Prasad Jha, Jagpati Kumar, Rajendra Singh, Ramgovind Singh) became the rallying cry of resistance.",
+          "Complete Breakdown of Colonial Administration: Railway tracks uprooted, telegraph lines severed, post offices and police stations captured by crowds in Saran, Muzaffarpur, Gaya, and Monghyr.",
+          "Parallel Governments (Jatiya Sarkar): Established in parts of Saran, Saharsa, and Sultanpur (Bhagalpur) administering people's courts and grain distribution."
+        ],
+        "azadDastaUnderJayaprakashNarayan": [
+          "Jayaprakash Narayan, along with Ramanand Mishra, Shaligram Singh, Suraj Narayan Singh, and Yogendra Shukla, made a daring escape from Hazaribagh Central Jail on Diwali night (9 November 1942).",
+          "Established the underground guerrilla organization 'Azad Dasta' in the dense forests of Bakro Ka Tapu (Nepal Terai).",
+          "Organized two wings: Guerrilla warfare wing and sabotage wing (breaking communications, burning government records) trained by Sardar Nityanand Singh."
+        ]
+      }
+    },
+    {
+      "id": "mains-agriculture-and-flood-drought-dichotomy",
+      "paper": "General Studies Paper 2 (Section 2 - Economy/Geography)",
+      "standardQuestion": {
+        "en": "Analyze the dual menace of floods in North Bihar and droughts in South Bihar. What strategic measures has the state government adopted under the Agriculture Roadmaps?",
+        "hi": "उत्तर बिहार में बाढ़ और दक्षिण बिहार में सुखाड़ की दोहरी समस्या का विश्लेषण कीजिए। कृषि रोडमैप के अंतर्गत राज्य सरकार ने क्या रणनीतिक उपाय किए हैं?"
+      },
+      "answerFramework": {
+        "problemAnalysis": {
+          "en": "Bihar exhibits a sharp hydrological paradox: North Bihar suffers catastrophic annual floods due to voluminous silt-heavy rivers originating in the high Nepal Himalayas (Kosi, Gandak, Bagmati, Kamla), submerging over 73% of its geographical area; concurrently, South Bihar experiences severe recurring pre-monsoon and monsoon water stress and agricultural droughts.",
+          "hi": "बिहार एक तीव्र जल-वैज्ञानिक विरोधाभास का सामना करता है: उत्तर बिहार नेपाल से आने वाली गाद भरी नदियों (कोसी, गंडक, बागमती, कमला) के कारण विनाशकारी वार्षिक बाढ़ झेलता है (73% भौगोलिक क्षेत्र बाढ़ प्रवण); वहीं दक्षिण बिहार मानसूनी वर्षा की अनिश्चितता के कारण सूखे और भूजल संकट से जूझता है।"
+        },
+        "agriculturalImpact": [
+          "Substantial crop loss during Kharif season in waterlogged chaurs.",
+          "Excessive siltation reducing reservoir and river channel carrying capacity.",
+          "High proportion of small and marginal farmers (> 90%) unable to withstand repetitive climate shocks."
+        ],
+        "stateGovernmentInitiatives": [
+          "Agriculture Roadmap IV (2023-2028): Focus on climate-resilient agriculture, seed self-sufficiency, organic farming corridors along the Ganga, and crop diversification (promoting millets, maize, pulses, and oilseeds).",
+          "Har Ghar Gangajal Scheme: Pioneering ecological diversion transferring monsoon floodwaters of the Ganga from Mokama to water-starved southern cities (Rajgir, Gaya, Bodh Gaya, Nawada).",
+          "Har Khet Tak Sinchai Ka Pani: Dedicated agricultural electricity feeders offering power at highly subsidized rates (approx. 70 paise per unit) to replace expensive diesel pump sets."
+        ]
+      }
+    },
+    {
+      "id": "mains-panchayati-raj-and-women-empowerment",
+      "paper": "General Studies Paper 2 (Section 1 - Polity)",
+      "standardQuestion": {
+        "en": "Examine the impact of the Bihar Panchayati Raj Act, 2006 on grassroots governance, with special reference to 50% reservation for women.",
+        "hi": "महिलाओं के लिए 50% आरक्षण के विशेष संदर्भ में जमीनी स्तर के शासन पर बिहार पंचायती राज अधिनियम, 2006 के प्रभाव का परीक्षण कीजिए।"
+      },
+      "answerFramework": {
+        "institutionalBreakthrough": {
+          "en": "Bihar made history in 2006 by becoming the first Indian state to enact 50% horizontal reservation for women across all tiers of Panchayati Raj Institutions (PRIs) and Gram Katchahries.",
+          "hi": "बिहार 2006 में पंचायती राज संस्थाओं (त्रिस्तरीय) और ग्राम कचारियों के सभी पदों पर महिलाओं को 50% आरक्षण देने वाला देश का पहला राज्य बनकर इतिहास रच दिया।"
+        },
+        "transformativeImpact": [
+          "Electoral Democratization: Over 50% of Mukhiyas, Sarpanches, Block Pramukhs, and Zila Parishad Chairpersons are women, breaking centuries of patriarchal monopoly over rural power.",
+          "Social Development Priorities: Female representatives demonstrated higher propensity to prioritize investments in primary health sub-centres, school sanitation, piped drinking water, and liquor ban enforcement.",
+          "Synergy with JEEVIKA (BRLPS): Women SHG federations under the World Bank-aided Jeevika project formed a powerful grassroots support ecosystem for elected female ward members."
+        ],
+        "challengesAndWayForward": [
+          "Mukhiya-Pati Syndrome: Informal proxy decision-making by husbands or male relatives, steadily being dismantled through leadership capacity training.",
+          "Need for administrative literacy, digital training for electronic Panchayat auditing, and adequate financial devolution to Gram Sabhas."
+        ]
+      }
+    }
+  ]
+}

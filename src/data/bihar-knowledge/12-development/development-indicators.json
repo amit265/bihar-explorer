@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "id": "gsdp-growth-rate",
+      "name": {
+        "en": "Gross State Domestic Product (GSDP) Growth Rate",
+        "hi": "सकल राज्य घरेलू उत्पाद (GSDP) विकास दर"
+      },
+      "category": "macro-economic-indicators",
+      "asOf": "2024-02-15",
+      "source": "Bihar Economic Survey 2023-24",
+      "data": {
+        "financialYear": "2022-23",
+        "realGsdpGrowthRatePercent": 10.64,
+        "nominalGsdpCroreINR": 751396,
+        "nationalRanking": "Among the top three fastest-growing state economies in India"
+      },
+      "description": {
+        "en": "According to the Bihar Economic Survey 2023-24, Bihar registered an impressive real GSDP growth rate of 10.64% in the financial year 2022-23, outperforming the national average. Growth was spearheaded by tertiary services (transport, trade, hospitality, financial services) and secondary sector construction and agro-processing.",
+        "hi": "बिहार आर्थिक सर्वेक्षण 2023-24 के अनुसार, वित्तीय वर्ष 2022-23 में बिहार की वास्तविक GSDP विकास दर 10.64% रही, जो राष्ट्रीय औसत से काफी अधिक है। इस उच्च आर्थिक वृद्धि में तृतीयक (सेवा) क्षेत्र (परिवहन, व्यापार, आतिथ्य) और द्वितीयक क्षेत्र (निर्माण एवं कृषि आधारित प्रसंस्करण) की अग्रणी भूमिका रही।"
+      }
+    },
+    {
+      "id": "per-capita-income",
+      "name": {
+        "en": "Per Capita Net State Domestic Product (NSDP)",
+        "hi": "प्रति व्यक्ति निवल राज्य घरेलू उत्पाद (प्रति व्यक्ति आय)"
+      },
+      "category": "economic-welfare",
+      "asOf": "2024-02-15",
+      "source": "Bihar Economic Survey 2023-24",
+      "data": {
+        "perCapitaCurrentPricesINR": 59637,
+        "highestDistrict": { "districtId": "patna", "perCapitaIncomeINR": 131100 },
+        "lowestDistricts": [
+          { "districtId": "sheohar", "perCapitaIncomeINR": 23600 },
+          { "districtId": "araria", "perCapitaIncomeINR": 25200 }
+        ]
+      },
+      "description": {
+        "en": "Bihar's per capita income at current prices reached Rs 59,637 in 2022-23. Marked regional intra-state variations exist: Patna district leads by a wide margin due to tertiary commercial concentration, followed by Begusarai (industrial and refining hub) and Munger, while northern agricultural districts like Sheohar and Araria reflect rural agrarian reliance.",
+        "hi": "2022-23 में मौजूदा मूल्यों पर बिहार की प्रति व्यक्ति आय बढ़कर 59,637 रुपये हो गई। राज्य के विभिन्न जिलों में पर्याप्त विषमता देखी जाती है: वाणिज्यिक और प्रशासनिक गतिविधियों के कारण पटना जिला शीर्ष पर है, जिसके बाद बेगूसराय (औद्योगिक केंद्र) का स्थान है, जबकि उत्तर बिहार के कृषि प्रधान जिले जैसे शिवहर और अररिया निचले पायदान पर हैं।"
+      }
+    },
+    {
+      "id": "multidimensional-poverty-reduction",
+      "name": {
+        "en": "Multidimensional Poverty Index (MPI) Reduction",
+        "hi": "बहुआयामी गरीबी सूचकांक (MPI) में ऐतिहासिक गिरावट"
+      },
+      "category": "poverty-reduction",
+      "asOf": "2023-07-17",
+      "source": "NITI Aayog National Multidimensional Poverty Index Report 2023",
+      "data": {
+        "povertyHeadcountRatio2015_16": 51.89,
+        "povertyHeadcountRatio2019_21": 33.76,
+        "percentagePointDecline": 18.13,
+        "peopleEscapedPovertyCount": "Over 2.25 crore citizens"
+      },
+      "description": {
+        "en": "NITI Aayog's National MPI Report (2023) highlighted Bihar as the national leader in poverty reduction speed. The multidimensional poverty headcount ratio dropped precipitously from 51.89% in 2015-16 to 33.76% in 2019-21, pulling more than 2.25 crore people out of multidimensional poverty due to targeted interventions in sanitation, cooking fuel, electricity, drinking water, and bank accounts.",
+        "hi": "नीति आयोग की राष्ट्रीय बहुआयामी गरीबी सूचकांक रिपोर्ट (2023) के अनुसार, बिहार देश में सबसे तेज गति से गरीबी कम करने वाला राज्य साबित हुआ। बहुआयामी गरीबी का अनुपात 2015-16 के 51.89% से घटकर 2019-21 में 33.76% पर आ गया। स्वच्छता, बिजली, स्वच्छ पेयजल और आवास योजनाओं के संयुक्त प्रभाव से 2.25 करोड़ से अधिक लोग गरीबी से बाहर निकले।"
+      }
+    },
+    {
+      "id": "power-and-electrification-infrastructure",
+      "name": {
+        "en": "Power Availability & 100% Electrification",
+        "hi": "विद्युत उपलब्धता एवं शत-प्रतिशत विद्युतीकरण"
+      },
+      "category": "energy-infrastructure",
+      "asOf": "2023-12-31",
+      "data": {
+        "peakPowerMetMW": 7572,
+        "historicalPeakPowerMet2005MW": 700,
+        "ruralElectrificationStatus": "100% electrified under Har Ghar Bijli Yojana",
+        "perCapitaPowerConsumptionKWh": 329
+      },
+      "description": {
+        "en": "Bihar underwent an energy revolution: peak power demand met increased by more than ten-fold from barely 700 MW in 2005 to over 7,500 MW in 2023. Universal rural household electrification was achieved ahead of national targets under the state's 'Har Ghar Bijli' initiative, transforming rural commercial productivity, irrigation, and daily lifestyle.",
+        "hi": "बिहार में ऊर्जा के क्षेत्र में अभूतपूर्व क्रांति आई है: चरम बिजली आपूर्ति 2005 के मात्र 700 मेगावाट से बढ़कर 2023 में 7,500 मेगावाट से अधिक हो गई। 'हर घर बिजली' योजना के तहत सभी गांवों और टोलों का शत-प्रतिशत विद्युतीकरण समय से पहले पूरा किया गया, जिससे ग्रामीण अर्थव्यवस्था, ट्यूबवेल सिंचाई और जनजीवन में व्यापक सुधार हुआ।"
+      }
+    },
+    {
+      "id": "road-density-and-connectivity",
+      "name": {
+        "en": "Road Density & Rural All-Weather Connectivity",
+        "hi": "सड़क घनत्व एवं बारहमासी ग्रामीण संपर्कता"
+      },
+      "category": "transport-infrastructure",
+      "asOf": "2023-12-31",
+      "data": {
+        "roadDensityPer100SqKm": 3166.9,
+        "nationalRoadDensityRanking": "3rd highest in India (behind Kerala and West Bengal)",
+        "ruralRoadNetworkKm": 115000
+      },
+      "description": {
+        "en": "Bihar ranks 3rd in India in total road network density, boasting over 3,166 km of roads per 1,000 sq km of area. Through the Pradhan Mantri Gram Sadak Yojana (PMGSY) and Mukhya Mantri Gram Sampark Yojana (MMGSY), over 1.15 lakh kilometers of paved rural roads have connected even small habitations (tolas) with populations over 100 to state highways and block headquarters.",
+        "hi": "सड़क घनत्व के मामले में बिहार देश में तीसरे स्थान पर है (प्रति 1,000 वर्ग किमी क्षेत्रफल पर 3,166 किमी से अधिक सड़कें)। पीएमजीएसवाई और मुख्यमंत्री ग्राम संपर्क योजना (MMGSY) के तहत 1.15 लाख किमी से अधिक पक्की ग्रामीण सड़कों का निर्माण कर 100 से अधिक आबादी वाले सुदूर टोलों को भी मुख्य राजमार्गों और प्रखंड मुख्यालयों से जोड़ा गया है।"
+      }
+    },
+    {
+      "id": "demographic-health-survey-indicators",
+      "name": {
+        "en": "Demographic Trends (Sex Ratio & TFR)",
+        "hi": "जनसांख्यिकी प्रवृत्तियाँ (लिंगानुपात एवं प्रजनन दर)"
+      },
+      "category": "demographic-transition",
+      "asOf": "2021-11-24",
+      "source": "National Family Health Survey-5 (NFHS-5, 2019-21)",
+      "data": {
+        "overallSexRatioFemalesPer1000Males": 1090,
+        "census2011SexRatio": 918,
+        "totalFertilityRate": 3.0,
+        "historicalTFR_NFHS3": 4.0
+      },
+      "description": {
+        "en": "NFHS-5 (2019-21) data revealed critical demographic shifts: overall sex ratio in the state was recorded at 1,090 females per 1,000 males (partly reflective of male out-migration alongside better female survival). The Total Fertility Rate (TFR) has consistently fallen from 4.0 children per woman in NFHS-3 (2005-06) to 3.0 in NFHS-5, driven by female education, delayed marriage, and reproductive healthcare access.",
+        "hi": "राष्ट्रीय परिवार स्वास्थ्य सर्वेक्षण-5 (NFHS-5) के अनुसार, राज्य में प्रति 1,000 पुरुषों पर महिलाओं का समग्र अनुपात 1,090 दर्ज किया गया (जो पुरुष पलायन और बालिकाओं की जीवन प्रत्याशा वृद्धि दोनों का परिचायक है)। कुल प्रजनन दर (TFR) जो NFHS-3 में 4.0 थी, घटकर 3.0 पर आ गई है, जो बालिका शिक्षा और परिवार नियोजन जागरूकता का सकारात्मक परिणाम है।"
+      }
+    }
+  ]
+}

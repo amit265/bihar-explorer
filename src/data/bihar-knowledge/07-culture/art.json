@@ -1,0 +1,259 @@
+{
+  "data": [
+    {
+      "id": "madhubani-painting",
+      "name": {
+        "en": "Madhubani Painting (Mithila Art)",
+        "hi": "मधुबनी पेंटिंग (मिथिला चित्रकला)"
+      },
+      "category": "folk-art",
+      "originPeriod": "ancient",
+      "giTagged": true,
+      "giRegistrationYear": 2007,
+      "districtIds": [
+        "madhubani",
+        "darbhanga",
+        "sitamarhi",
+        "samastipur"
+      ],
+      "description": {
+        "en": "### Introduction\n**Madhubani painting** (also known as Mithila Art) is a globally acclaimed folk art tradition that originated in the Mithila region of Bihar. Traditionally created by women on freshly plastered mud walls and floors during festivals and ceremonies, this art form transforms humble village dwellings into divine canvases.\n\n### Historical Significance\nThe roots of Madhubani painting trace back to antiquity. According to local folklore, King Janaka of Mithila commissioned local artists to paint murals for the wedding of his daughter, Sita, to Lord Rama. This deep spiritual connection continues to influence the art today.\n\n### Key Characteristics\n* **Distinctive Patterns:** It is characterized by eye-catching geometrical patterns and intricate line work.\n* **Natural Elements:** Traditionally, artists use natural dyes derived from turmeric, indigo, kusum, palas flowers, and soot.\n* **Spiritual Themes:** The art predominantly depicts Hindu deities such as Krishna, Rama, Shiva, Durga, and Saraswati, alongside elements of flora and fauna.\n\n### Modern Evolution\nIn recent decades, Madhubani art has transitioned from wall murals to handmade paper, canvas, and textiles, bringing the rich cultural heritage of Bihar to the international stage and earning a Geographical Indication (GI) tag.",
+        "hi": "### परिचय\n**मधुबनी चित्रकला** (जिसे मिथिला कला भी कहा जाता है) बिहार के मिथिला क्षेत्र से उत्पन्न एक विश्व प्रसिद्ध लोक कला परंपरा है। पारंपरिक रूप से महिलाओं द्वारा त्योहारों और अनुष्ठानों के दौरान ताजी मिट्टी से लिपी दीवारों और फर्श पर बनाई जाने वाली यह कला साधारण ग्रामीण घरों को दिव्य कैनवास में बदल देती है।\n\n### ऐतिहासिक महत्व\nमधुबनी पेंटिंग की जड़ें प्राचीन काल से जुड़ी हैं। स्थानीय लोककथाओं के अनुसार, मिथिला के राजा जनक ने अपनी पुत्री सीता के भगवान राम से विवाह के अवसर पर पूरी नगरी को भित्ति चित्रों से सजाने का आदेश दिया था। यह गहरा आध्यात्मिक जुड़ाव आज भी इस कला को प्रभावित करता है।\n\n### प्रमुख विशेषताएँ\n* **विशिष्ट पैटर्न:** यह अपने आकर्षक ज्यामितीय पैटर्नों और जटिल रेखांकन के लिए जानी जाती है।\n* **प्राकृतिक तत्व:** पारंपरिक रूप से, कलाकार हल्दी, नील, कुसुम, पलाश के फूलों और काजल से प्राप्त प्राकृतिक रंगों का उपयोग करते हैं।\n* **आध्यात्मिक विषय:** यह कला मुख्य रूप से कृष्ण, राम, शिव, दुर्गा और सरस्वती जैसे हिंदू देवी-देवताओं के साथ-साथ प्रकृति के तत्वों का चित्रण करती है।\n\n### आधुनिक विकास\nहाल के दशकों में, मधुबनी कला दीवारों से निकलकर हस्तनिर्मित कागज, कैनवास और वस्त्रों तक पहुँच गई है, जिसने बिहार की समृद्ध सांस्कृतिक विरासत को अंतरराष्ट्रीय स्तर पर पहचान दिलाई है और इसे भौगोलिक संकेतक (GI) टैग भी प्राप्त हुआ है।"
+      },
+      "styles": [
+        {
+          "id": "bharni",
+          "name": {
+            "en": "Bharni",
+            "hi": "भरणी"
+          },
+          "description": {
+            "en": "Vibrant style focusing on solid filling of vivid natural colors with rich mythological iconography.",
+            "hi": "उज्ज्वल प्राकृतिक रंगों के ठोस भराव और समृद्ध पौराणिक आख्यानों पर केंद्रित शैली।"
+          }
+        },
+        {
+          "id": "kachni",
+          "name": {
+            "en": "Kachni",
+            "hi": "कचनी"
+          },
+          "description": {
+            "en": "Fine line-work style featuring intricate monochrome or limited-color cross-hatching and dotting.",
+            "hi": "बारीक रेखांकन और छायांकन पर आधारित शैली जिसमें विस्तृत रेखाओं और बिंदुओं का प्रयोग होता है।"
+          }
+        },
+        {
+          "id": "tantrik",
+          "name": {
+            "en": "Tantrik",
+            "hi": "तांत्रिक"
+          },
+          "description": {
+            "en": "Esoteric spiritual depictions of sacred geometry, yantras, and divine cosmic forces.",
+            "hi": "पवित्र ज्यामिति, यंत्रों और ब्रह्मांडीय शक्तियों का तांत्रिक और आध्यात्मिक चित्रण।"
+          }
+        },
+        {
+          "id": "godna",
+          "name": {
+            "en": "Godna",
+            "hi": "गोदना"
+          },
+          "description": {
+            "en": "Tattoo-inspired folk art pioneered by Chano Devi, using concentric circles and bamboo pens with natural black soot ink.",
+            "hi": "चनो देवी द्वारा अग्रणी गोदना आधारित लोक कला, जिसमें बांस की कलम और काजल स्याही से संकेंद्री वृत्त बनाए जाते हैं।"
+          }
+        },
+        {
+          "id": "kohbar",
+          "name": {
+            "en": "Kohbar",
+            "hi": "कोहबर"
+          },
+          "description": {
+            "en": "Nuptial chamber ceremonial art filled with fertility and prosperity symbols like lotus, bamboo, fish, and birds.",
+            "hi": "विवाह कोहबर घर की पारंपरिक कला जिसमें कमल, बांस, मछली और पक्षी जैसे उर्वरता व समृद्धि के प्रतीक होते हैं।"
+          }
+        }
+      ],
+      "notablePersonalities": [
+        "Sita Devi (Padma Shri 1981)",
+        "Ganga Devi (Padma Shri 1984)",
+        "Mahasundari Devi (Padma Shri 2011)",
+        "Baua Devi (Padma Shri 2017)",
+        "Dulari Devi (Padma Shri 2021)"
+      ],
+      "materials": {
+        "en": "Handmade paper treated with cow dung, cotton fabric, bamboo twigs, natural dyes derived from turmeric, indigo, kusum, palas flowers, and soot.",
+        "hi": "गोबर लेपित हस्तनिर्मित कागज, सूती कपड़ा, बांस की तीली, हल्दी, नील, पलाश और कजराठे से तैयार प्राकृतिक रंग।"
+      }
+    },
+    {
+      "id": "patna-kalam",
+      "name": {
+        "en": "Patna Kalam (Company School of Painting)",
+        "hi": "पटना कलम (कंपनी शैली चित्रकला)"
+      },
+      "category": "miniature-painting",
+      "originPeriod": "18th-century",
+      "giTagged": false,
+      "districtIds": [
+        "patna"
+      ],
+      "description": {
+        "en": "### Introduction\n**Patna Kalam** (also known as the Company School of Painting) is a celebrated offshoot of the Mughal miniature painting school. It flourished in Patna and its surrounding areas from the mid-18th to the early 20th century, representing a unique confluence of Indian and European artistic sensibilities.\n\n### Historical Context\nThe art form emerged when Mughal painters migrated eastward following the decline of royal patronage in Delhi and Murshidabad. They settled in areas like Lodi Katra, Chowk, and Diwan Mohalla in Patna, where they found support from local merchants and British East India Company officials.\n\n### Distinctive Features\n* **Direct Brushwork:** Known as 'Kajli Siyahi', artists painted directly with a brush without preliminary pencil outlines.\n* **Everyday Subjects:** Unlike the grand court scenes of Mughal miniatures, Patna Kalam focused on the realistic portrayal of ordinary commoners, artisans, street vendors, and bustling bazars.\n* **Color Palette:** The paintings frequently utilized subdued, natural earth tones, giving them a distinctive, grounded aesthetic.\n\n### Legacy\nThough the tradition has largely faded, its surviving masterpieces remain a vital historical record of 18th and 19th-century life in Bihar.",
+        "hi": "### परिचय\n**पटना कलम** (जिसे कंपनी शैली की चित्रकला भी कहा जाता है) मुगल लघु चित्रकला की एक प्रसिद्ध शाखा है। यह 18वीं सदी के मध्य से 20वीं सदी की शुरुआत तक पटना और उसके आसपास के क्षेत्रों में फली-फूली, जो भारतीय और यूरोपीय कलात्मक संवेदनाओं के एक अनूठे संगम का प्रतिनिधित्व करती है।\n\n### ऐतिहासिक संदर्भ\nयह कला शैली तब उभरी जब दिल्ली और मुर्शिदाबाद में राज्याश्रय के पतन के बाद मुगल चित्रकारों ने पूर्व की ओर पलायन किया। वे पटना के लोदी कटरा, चौक और दीवान मोहल्ले जैसे क्षेत्रों में बस गए, जहाँ उन्हें स्थानीय व्यापारियों और ब्रिटिश ईस्ट इंडिया कंपनी के अधिकारियों का समर्थन मिला।\n\n### विशिष्ट विशेषताएँ\n* **सीधा ब्रशवर्क:** 'कजली सियाही' के रूप में जाना जाने वाला यह तरीका, जिसमें कलाकार बिना प्रारंभिक पेंसिल रेखाचित्र के सीधे ब्रश से चित्रकारी करते थे।\n* **रोजमर्रा के विषय:** मुगल लघुचित्रों के भव्य दरबारी दृश्यों के विपरीत, पटना कलम आम लोगों, कारीगरों, सड़क विक्रेताओं और हलचल भरे बाजारों के यथार्थवादी चित्रण पर केंद्रित था।\n* **रंग संयोजन:** इन चित्रों में अक्सर हल्के, प्राकृतिक मटमैले रंगों का उपयोग किया जाता था, जो उन्हें एक विशिष्ट और यथार्थवादी रूप देते थे।\n\n### विरासत\nयद्यपि यह परंपरा अब काफी हद तक लुप्त हो चुकी है, इसके बची हुई उत्कृष्ट कृतियाँ बिहार में 18वीं और 19वीं सदी के जीवन का एक महत्वपूर्ण ऐतिहासिक प्रमाण बनी हुई हैं।"
+      },
+      "characteristics": {
+        "en": "Executed directly with brush without pencil outline (known as 'Kajli Siyahi'), subdued natural earth tones, fine miniature detailing, focus on ordinary commoners rather than royal courts.",
+        "hi": "बिना पेंसिल रेखाचित्र के सीधे ब्रश से चित्रण ('कजली सियाही'), हल्के प्राकृतिक मटमैले रंग, सूक्ष्म लघु विवरण और राजदरबार के बजाय आम जनजीवन पर केंद्रित।"
+      },
+      "notablePersonalities": [
+        "Sewak Ram (c. 1770-1830)",
+        "Hulas Lal (1785-1875)",
+        "Jhumak Lal",
+        "Shiva Lal",
+        "Radha Mohan Babu (Founder of Patna Art College)",
+        "Ishwari Prasad Verma (Last master of the traditional lineage)"
+      ],
+      "historicalContext": {
+        "en": "Emerged when Mughal painters migrated eastward following the decline of royal patronage in Delhi and Murshidabad, settling in Lodi Katra, Chowk, and Diwan Mohalla of Patna.",
+        "hi": "दिल्ली और मुर्शिदाबाद में राज्याश्रय घटने के बाद चित्रकार पूर्व की ओर पलायन कर पटना के लोदी कटरा, चौक और दीवान मोहल्ले में आ बसे, जहाँ इस नई स्वतंत्र शैली का विकास हुआ।"
+      }
+    },
+    {
+      "id": "manjusha-art",
+      "name": {
+        "en": "Manjusha Art (Angika Snake Painting)",
+        "hi": "मंजूषा कला (अंगिका सर्प चित्रकला)"
+      },
+      "category": "folk-art",
+      "originPeriod": "ancient",
+      "giTagged": true,
+      "giRegistrationYear": 2012,
+      "districtIds": [
+        "bhagalpur",
+        "banka"
+      ],
+      "description": {
+        "en": "### Introduction\n**Manjusha Art** (also known as Angika Snake Painting) is an ancient and vibrant folk art tradition native to the Anga region, encompassing modern-day Bhagalpur and its surrounding areas. It is distinctively narrative, unspooling local legends through intricate scroll art.\n\n### Mythological Roots\nThe art is deeply rooted in the regional folklore of Bihula and Vishahari (Mansa Devi). It is a sequential narrative scroll art traditionally painted on *manjushas*—temple-shaped boxes crafted from bamboo, jute, and paper, used prominently during local religious festivals.\n\n### Artistic Elements\n* **Strict Color Palette:** The art strictly employs only three primary colors: Pink (symbolizing prosperity and celebration), Green (representing nature and vitality), and Yellow (denoting intellect and radiance), typically framed by black borders.\n* **Symbolism:** The motifs heavily feature snakes, representing the venom deities, alongside depictions of loyalty, devotion, and feminine resilience.\n\n### Cultural Importance\nManjusha art is an integral part of the annual Bishahari Puja celebrated during the Shravan-Bhadrapad months, serving as a powerful visual medium for storytelling and cultural preservation in Bihar.",
+        "hi": "### परिचय\n**मंजूषा कला** (जिसे अंगिका सर्प चित्रकला भी कहा जाता है) अंग क्षेत्र (वर्तमान भागलपुर और आसपास के क्षेत्र) की एक प्राचीन और जीवंत लोक कला परंपरा है। यह एक विशिष्ट कथात्मक कला है, जो अपने जटिल स्क्रॉल चित्रों के माध्यम से स्थानीय किंवदंतियों को उजागर करती है।\n\n### पौराणिक मूल\nयह कला बिहुला और विषहरी (मनसा देवी) की क्षेत्रीय लोककथाओं में गहराई से निहित है। यह एक कथा-आधारित स्क्रॉल कला है जिसे पारंपरिक रूप से बांस, जूट और कागज से बने मंदिरनुमा बक्सों (मंजूषा) पर उकेरा जाता है, जिनका उपयोग स्थानीय धार्मिक उत्सवों के दौरान प्रमुखता से किया जाता है।\n\n### कलात्मक तत्व\n* **सख्त रंग संयोजन:** यह कला विशेष रूप से केवल तीन प्राथमिक रंगों का उपयोग करती है: गुलाबी (समृद्धि व उल्लास का प्रतीक), हरा (प्रकृति व जीवन का प्रतिनिधित्व), और पीला (ज्ञान व दिव्यता का सूचक), जो आमतौर पर काले बॉर्डर से घिरे होते हैं।\n* **प्रतीकवाद:** इसके रूपांकनों में मुख्य रूप से सांप शामिल होते हैं, जो विष देवताओं का प्रतिनिधित्व करते हैं, साथ ही निष्ठा, भक्ति और नारी संकल्प का भी चित्रण होता है।\n\n### सांस्कृतिक महत्व\nमंजूषा कला श्रावण-भाद्रपद महीनों के दौरान मनाए जाने वाले वार्षिक विषहरी पूजा का एक अभिन्न अंग है, जो बिहार में कहानी कहने और सांस्कृतिक संरक्षण के लिए एक शक्तिशाली दृश्य माध्यम के रूप में कार्य करती है।"
+      },
+      "colorPalette": {
+        "en": "Strictly uses three primary colors: Pink (prosperity/celebration), Green (nature/vitality), and Yellow (intellect/radiance) with black borders.",
+        "hi": "विशेष रूप से तीन रंगों का उपयोग: गुलाबी (समृद्धि व उल्लास), हरा (प्रकृति व जीवन) और पीला (ज्ञान व दिव्यता) काले बॉर्डर के साथ।"
+      },
+      "notablePersonalities": [
+        "Chakravarti Devi",
+        "Nirmala Devi",
+        "Manoj Pandit"
+      ],
+      "culturalSignificance": {
+        "en": "Integral to the annual Bishahari Puja celebrated during the Shravan-Bhadrapad months in the Anga region, celebrating victory over venom, loyalty, and feminine resilience.",
+        "hi": "अंग क्षेत्र में श्रावण-भाद्रपद में होने वाली विषहरी पूजा का अभिन्न अंग, जो विष पर विजय, सतीत्व और नारी संकल्प का प्रतीक है।"
+      }
+    },
+    {
+      "id": "tikuli-art",
+      "name": {
+        "en": "Tikuli Art",
+        "hi": "टिकुली कला"
+      },
+      "category": "craft-art",
+      "originPeriod": "ancient-revived-20th-century",
+      "giTagged": false,
+      "districtIds": [
+        "patna"
+      ],
+      "description": {
+        "en": "### Introduction\n**Tikuli Art** is a rare and exquisite 800-year-old craft hailing from Patna. The word 'Tikuli' refers to the ornate bindis historically worn by queens and aristocratic women, which were intricately decorated and highly prized.\n\n### Artistic Evolution\nOriginally involving the embellishment of glass bindis with gold foil, the craft nearly went extinct with the advent of industrial manufacturing. However, it was successfully revived in the 20th century by master artist Upendra Maharathi. \n\n### Craftsmanship and Techniques\n* **Modern Canvas:** Today, Tikuli art is executed on glazed hardboard or wooden plates rather than glass.\n* **Intricate Detailing:** The process involves applying multiple layers of enamel paint, applying delicate pure gold foil (vark), and using fine squirrel hair brushes for precise detailing.\n* **Thematic Expression:** The artworks frequently depict scenes from Krishna Leela, serene rural village life, court dancers, and classical Indian motifs.\n\n### Contemporary Appeal\nThis revived art form has found new life in modern home decor and souvenirs, preserving an elegant slice of Bihar's royal heritage for future generations.",
+        "hi": "### परिचय\n**टिकुली कला** पटना की 800 वर्ष पुरानी एक दुर्लभ और उत्कृष्ट शिल्प कला है। 'टिकुली' शब्द ऐतिहासिक रूप से रानियों और अभिजात वर्ग की महिलाओं द्वारा पहनी जाने वाली अलंकृत बिंदियों को संदर्भित करता है, जिन्हें जटिल रूप से सजाया जाता था और अत्यधिक मूल्यवान माना जाता था।\n\n### कलात्मक विकास\nमूल रूप से इसमें कांच की बिंदियों को सोने के वर्क से सजाना शामिल था, लेकिन औद्योगिक निर्माण के आगमन के साथ यह शिल्प लगभग विलुप्त हो गया था। हालाँकि, 20वीं शताब्दी में मूर्धन्य कलाकार उपेंद्र महारथी द्वारा इसे सफलतापूर्वक पुनर्जीवित किया गया।\n\n### शिल्प कौशल और तकनीक\n* **आधुनिक कैनवास:** आज, टिकुली कला कांच के बजाय चमकदार हार्डबोर्ड या लकड़ी की तख्तियों पर बनाई जाती है।\n* **सूक्ष्म विवरण:** इस प्रक्रिया में एनामेल पेंट की कई परतें लगाना, नाजुक शुद्ध सोने का वर्क लगाना, और सटीक विवरण के लिए गिलहरी के बालों से बने बारीक ब्रश का उपयोग करना शामिल है।\n* **विषयगत अभिव्यक्ति:** कलाकृतियों में अक्सर कृष्ण लीला के दृश्य, शांत ग्रामीण जीवन, दरबारी नृत्यांगनाओं और पारंपरिक भारतीय मांगलिक प्रतीकों को दर्शाया जाता है।\n\n### समकालीन आकर्षण\nइस पुनर्जीवित कला रूप ने आधुनिक गृह सज्जा और स्मृति चिन्हों में नया जीवन पाया है, जो आने वाली पीढ़ियों के लिए बिहार की शाही विरासत के एक सुंदर हिस्से को संरक्षित करता है।"
+      },
+      "materials": {
+        "en": "Cut hardboard/wood base, layers of enamel paint, gold foil (vark), and fine squirrel hair brushes.",
+        "hi": "कटा हुआ हार्डबोर्ड/काष्ठ आधार, एनामेल पेंट की परतें, सोने का वर्क और गिलहरी के बालों से बनी बारीक तूलिका।"
+      },
+      "notablePersonalities": [
+        "Upendra Maharathi (Pioneering Revivalist)",
+        "Ashok Kumar Biswas (Master Craftsman & National Awardee)"
+      ],
+      "themes": {
+        "en": "Krishna Leela, rural village scenes, court dancers, and classical Indian motifs.",
+        "hi": "कृष्ण लीला, ग्रामीण जीवन, दरबारी नृत्यांगनाएं और पारंपरिक भारतीय मांगलिक प्रतीक।"
+      }
+    },
+    {
+      "id": "sujani-embroidery-art",
+      "name": {
+        "en": "Sujani Embroidery Art",
+        "hi": "सुजनी कढ़ाई कला"
+      },
+      "category": "textile-art",
+      "originPeriod": "traditional",
+      "giTagged": true,
+      "giRegistrationYear": 2006,
+      "districtIds": [
+        "muzaffarpur"
+      ],
+      "description": {
+        "en": "### Introduction\n**Sujani Embroidery Art** is a traditional and highly expressive narrative quilting craft practiced predominantly by rural women in Bihar, with its epicenter in Bhusra village, Muzaffarpur. \n\n### Crafting Process\nThe art form was born out of necessity and maternal love. It involves layering old saris and dhotis, binding them together with fine running stitches to create soft quilts for newborns. Over time, these quilts transformed into visual canvases.\n\n### Distinctive Features\n* **Stitching Techniques:** Artisans use chain stitches for creating dark, distinct outlines and fine straight running stitches to fill the vibrant motifs within the layered cotton fabric.\n* **Narrative Canvas:** Far more than mere decoration, Sujani art depicts intricate stories of everyday domestic life, local folk epics, and nature.\n\n### Voice of Empowerment\nModern Sujani art has evolved into an empowered platform for social commentary. Rural women use the needle and thread to voice themes of female education, domestic violence, female infanticide, and the broader struggle for social equality.",
+        "hi": "### परिचय\n**सुजनी कढ़ाई कला** बिहार की ग्रामीण महिलाओं द्वारा प्रचलित एक पारंपरिक और अत्यधिक अभिव्यंजक कथात्मक रजाई कढ़ाई शिल्प है, जिसका मुख्य केंद्र मुजफ्फरपुर का भूसरा गांव है।\n\n### निर्माण प्रक्रिया\nइस कला का जन्म आवश्यकता और मातृ प्रेम से हुआ था। इसमें नवजात शिशुओं के लिए मुलायम रजाई बनाने के लिए पुरानी साड़ियों और धोतियों की परतों को एक साथ रखकर बारीक धागों से सिला जाता है। समय के साथ, ये रजाइयाँ दृश्य कैनवास में बदल गईं।\n\n### विशिष्ट विशेषताएँ\n* **सिलाई तकनीक:** कारीगर सूती कपड़े की परतों पर आकृतियों को भरने के लिए बारीक रनिंग स्टिच और रूपरेखा बनाने के लिए डार्क चेन स्टिच का उपयोग करते हैं।\n* **कथात्मक कैनवास:** यह केवल सजावट से कहीं अधिक है, सुजनी कला रोजमर्रा के घरेलू जीवन, स्थानीय लोक कथाओं और प्रकृति की जटिल कहानियों को दर्शाती है।\n\n### सशक्तिकरण की आवाज\nआधुनिक सुजनी कला सामाजिक टिप्पणी के लिए एक सशक्त मंच के रूप में विकसित हुई है। ग्रामीण महिलाएं सुई और धागे का उपयोग करके महिला शिक्षा, घरेलू हिंसा, कन्या भ्रूण हत्या और सामाजिक समानता के व्यापक संघर्ष के विषयों को उठाती हैं।"
+      },
+      "techniques": {
+        "en": "Chain stitch for outlines and fine straight running stitches for filling motifs on layered cotton fabric.",
+        "hi": "रूपरेखा के लिए चेन स्टिच और सूती कपड़े की परतों पर आकृतियों को भरने के लिए बारीक रनिंग स्टिच।"
+      },
+      "socialSignificance": {
+        "en": "Historically crafted to welcome newborns, modern Sujani art is an empowered platform where rural women voice themes of female education, domestic issues, and social equality.",
+        "hi": "ऐतिहासिक रूप से नवजात शिशुओं के स्वागत के लिए बनाई जाने वाली सुजनी आज ग्रामीण महिलाओं की शिक्षा, सामाजिक न्याय और सशक्तिकरण का सशक्त माध्यम बन चुकी है।"
+      }
+    },
+    {
+      "id": "bhojpuri-bheet-chitra",
+      "name": {
+        "en": "Bhojpuri Wall Murals (Bheet Chitra)",
+        "hi": "भोजपुरी भीत चित्र (दीवार चित्रकला)"
+      },
+      "category": "folk-art",
+      "originPeriod": "traditional",
+      "giTagged": false,
+      "districtIds": [
+        "bhojpur",
+        "buxar",
+        "rohtas",
+        "saran"
+      ],
+      "description": {
+        "en": "### Introduction\n**Bhojpuri Bheet Chitra** (Bhojpuri Wall Murals) is an enduring traditional wall painting practice found across western Bihar, particularly in the districts of Bhojpur, Buxar, Rohtas, and Saran.\n\n### Cultural Expression\nExecuted predominantly by women, these murals bring clay-plastered rural huts to life. They are intimately tied to the agricultural calendar and significant life events, being painted to mark weddings, the Chhath festival, and various seasonal harvests.\n\n### Themes and Symbolism\n* **Divine Invocations:** The art serves as a visual prayer, invoking Kuldevtas (family deities) and protective spirits to bless the household.\n* **Auspicious Motifs:** Common motifs include elephants, peacocks, the sacred Tulsi plant, the sun, the moon, and palanquins, alongside complex geometric totems meant to ward off evil.\n\n### Legacy\nWhile facing challenges from modern concrete architecture, these vibrant murals remain a profound expression of rural devotion, ecological connection, and community joy.",
+        "hi": "### परिचय\n**भोजपुरी भीत चित्र** (भोजपुरी भित्ति चित्र) पश्चिमी बिहार, विशेष रूप से भोजपुर, बक्सर, रोहतास और सारण जिलों में प्रचलित एक स्थायी पारंपरिक दीवार चित्रकला है।\n\n### सांस्कृतिक अभिव्यक्ति\nमुख्य रूप से महिलाओं द्वारा बनाए जाने वाले ये भित्ति चित्र मिट्टी से लिपे ग्रामीण घरों को जीवंत कर देते हैं। ये कृषि कैलेंडर और जीवन की महत्वपूर्ण घटनाओं से गहराई से जुड़े हैं, जिन्हें विवाह, छठ पर्व और विभिन्न मौसमी फसलों की कटाई के अवसर पर चित्रित किया जाता है।\n\n### विषय और प्रतीकवाद\n* **दैवीय आह्वान:** यह कला एक दृश्य प्रार्थना के रूप में कार्य करती है, जो परिवार को आशीर्वाद देने के लिए कुलदेवताओं और रक्षक आत्माओं का आह्वान करती है।\n* **मांगलिक रूपांकन:** सामान्य रूपांकनों में हाथी, मोर, पवित्र तुलसी का पौधा, सूर्य, चंद्रमा और पालकी के साथ-साथ बुरी नजर से बचाने वाले जटिल ज्यामितीय लोक प्रतीक शामिल हैं।\n\n### विरासत\nयद्यपि आधुनिक कंक्रीट वास्तुकला के कारण इसे चुनौतियों का सामना करना पड़ रहा है, फिर भी ये जीवंत भित्ति चित्र ग्रामीण भक्ति, पारिस्थितिक जुड़ाव और सामुदायिक उल्लास की एक गहरी अभिव्यक्ति बने हुए हैं।"
+      },
+      "motifs": {
+        "en": "Elephants, peacocks, tulsi plant, sun and moon, palanquins, and protective geometric totems.",
+        "hi": "हाथी, मोर, तुलसी का पौधा, सूर्य-चंद्रमा, डोली-पालकी और सुरक्षात्मक ज्यामितीय लोक प्रतीक।"
+      }
+    },
+    {
+      "id": "thangka-painting-bihar",
+      "name": {
+        "en": "Buddhist Thangka and Miniature Tradition",
+        "hi": "बौद्ध थांगका एवं लघुचित्र परंपरा"
+      },
+      "category": "sacred-monastic-art",
+      "originPeriod": "pala-era",
+      "giTagged": false,
+      "districtIds": [
+        "gaya",
+        "nalanda"
+      ],
+      "description": {
+        "en": "### Introduction\nThe **Buddhist Thangka and Miniature Tradition** is a profound sacred art form that has deep historical roots in Bihar. This monastic art style flourished during the reign of the Pala Empire (8th to 12th centuries CE) in the grand university-monasteries of Nalanda, Vikramashila, and Odantapuri.\n\n### Monastic Excellence\nAteliers in these ancient centers of learning produced highly refined sacred scroll paintings and beautifully illuminated palm-leaf manuscripts, most notably the *Ashtasahasrika Prajnaparamita*. These works served both meditational and instructional purposes.\n\n### Artistic Highlights\n* **Sacred Depictions:** The art intricately depicts the life of Gautama Buddha, compassionate Bodhisattvas, and complex celestial mandalas that represent the Buddhist cosmos.\n* **Detailed Artistry:** Characterized by sinuous lines, vivid mineral colors, and a profound sense of spiritual serenity.\n\n### Global Influence\nThe Pala school of manuscript illumination in Bihar acted as a critical stylistic bridge. As scholars and monks traveled, this artistic lineage directly seeded and heavily influenced the development of Tibetan Thangka painting and the broader tapestry of Himalayan Buddhist art.",
+        "hi": "### परिचय\n**बौद्ध थांगका एवं लघुचित्र परंपरा** एक गहन पवित्र कला रूप है जिसकी बिहार में गहरी ऐतिहासिक जड़ें हैं। यह मठवासी कला शैली पाल साम्राज्य (8वीं से 12वीं शताब्दी ईस्वी) के दौरान नालंदा, विक्रमशिला और ओदंतपुरी के भव्य विश्वविद्यालय-मठों में फली-फूली।\n\n### मठवासी उत्कृष्टता\nसीखने के इन प्राचीन केंद्रों में स्थित कार्यशालाओं ने अत्यधिक परिष्कृत पवित्र स्क्रॉल चित्रों और खूबसूरती से चित्रित ताड़पत्र पांडुलिपियों का निर्माण किया, जिनमें विशेष रूप से *अष्टसहस्रिका प्रज्ञापारमिता* शामिल है। इन कार्यों ने ध्यान और शिक्षण दोनों उद्देश्यों की पूर्ति की।\n\n### कलात्मक विशेषताएं\n* **पवित्र चित्रण:** यह कला गौतम बुद्ध के जीवन, करुणामय बोधिसत्वों और जटिल खगोलीय मंडलों (जो बौद्ध ब्रह्मांड का प्रतिनिधित्व करते हैं) को जटिलता से चित्रित करती है।\n* **विस्तृत कलाकारी:** यह अपनी घुमावदार रेखाओं, ज्वलंत खनिज रंगों और आध्यात्मिक शांति की गहरी भावना के लिए जानी जाती है।\n\n### वैश्विक प्रभाव\nबिहार में पांडुलिपि चित्रण की पाल शैली ने एक महत्वपूर्ण शैलीगत सेतु के रूप में कार्य किया। जैसे-जैसे विद्वानों और भिक्षुओं ने यात्रा की, इस कलात्मक वंशावली ने तिब्बती थांगका चित्रकला और हिमालयी बौद्ध कला के व्यापक ताने-बाने के विकास को सीधे तौर पर प्रभावित किया।"
+      },
+      "historicalSignificance": {
+        "en": "The Pala school of manuscript illumination directly influenced Tibetan Thangka painting and Himalayan Buddhist art from the 8th to 12th centuries CE.",
+        "hi": "8वीं से 12वीं शताब्दी तक नालंदा-विक्रमशिला की पाल कला शैली ने तिब्बती थांगका चित्रकला और संपूर्ण हिमालयी बौद्ध कला को सीधे तौर पर प्रभावित किया।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,811 @@
+[
+  {
+    "id": "bio-diversity-park",
+    "slug": "bio-diversity-park",
+    "name": {
+      "en": "Kusiargaon Bio Diversity Park",
+      "hi": "कुशियारगांव जैव विविधता पार्क"
+    },
+    "districtId": "araria",
+    "placeType": "park",
+    "primaryCategory": "natural",
+    "categories": [
+      "natural",
+      "eco_tourism_site",
+      "recreational"
+    ],
+    "subcategories": [
+      "biodiversity_park",
+      "botanical_garden",
+      "nature_reserve",
+      "children_park"
+    ],
+    "circuits": [
+      "eco_tourism_circuit",
+      "nature_and_wildlife_circuit",
+      "eco_circuit"
+    ],
+    "tags": [
+      "featured",
+      "eco_tourism",
+      "mustVisit",
+      "nature_walk",
+      "first_biodiversity_park_bihar",
+      "family_outing",
+      "flora_fauna"
+    ],
+    "audiences": [
+      "nature_lovers",
+      "families",
+      "botanists",
+      "students",
+      "photographers",
+      "birdwatchers"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "Bihar's pioneering first biodiversity park, sprawling over 35 acres near NH-57 with rich floral species, landscaped trails, and serene picnic spots.",
+      "hi": "बिहार का पहला जैव विविधता पार्क, जो एनएच-57 के समीप 35 एकड़ में विस्तृत समृद्ध वनस्पतियों, सुरम्य रास्तों और शांत पिकनिक स्थलों से सुसज्जित है।"
+    },
+    "description": {
+      "en": "**Kusiargaon Bio Diversity Park** (also widely known as **Araria Biodiversity Park** or locally as *Kusiargaon Van Upvan*) stands as a prestigious landmark in Bihar's ecological preservation efforts, proudly holding the distinction of being the **very first biodiversity park established in the state of Bihar**.\n\nSpread across an expansive **35 acres** of fertile, gently undulating terrain in the Kusiargaon village along the vital East-West Corridor (NH-57), this lush green sanctuary was developed under the stewardship of the Department of Environment, Forest and Climate Change, Government of Bihar.\n\n- **Ecological Sanctuary & Botanical Wealth:** The park serves as a living conservatory for over 150 diverse species of native and endangered flora, including therapeutic medicinal herbs, aromatic shrubs, bamboo groves, towering timber trees, and fruit-bearing groves that attract a vibrant population of seasonal butterflies and resident birds.\n- **Visitor Amenities & Leisure:** Winding through the dense foliage is an interconnected network of over **4 kilometers of paved, tiled walking pathways**, illuminated pergolas, open gazebos, and serene water bodies that reflect the open skies of Seemanchal.\n- **Family & Children's Recreation:** The sprawling campus incorporates dedicated children's play zones equipped with swings, open green lawns for picnics, informative botanical display boards, and shaded rest plazas.\n\nWhether you are an environmentalist, researcher, family seeking a peaceful weekend picnic, or traveler along the highway, the park provides an invigorating retreat into nature's purest embrace.",
+      "hi": "**कुशियारगांव जैव विविधता पार्क** (जिसे आम तौर पर **अररिया जैव विविधता पार्क** अथवा स्थानीय स्तर पर *कुशियारगांव वन उपवन* कहा जाता है) बिहार के पर्यावरण संरक्षण इतिहास में एक मील का पत्थर है, जिसे **बिहार का पहला जैव विविधता पार्क** होने का ऐतिहासिक गौरव प्राप्त है।\n\nअररिया जिला मुख्यालय से लगभग 10 किलोमीटर दूर राष्ट्रीय राजमार्ग 57 (NH-57) के किनारे कुशियारगांव में लगभग **35 एकड़** के विस्तृत भूभाग पर फैला यह हरा-भरा अभयारण्य बिहार सरकार के पर्यावरण, वन एवं जलवायु परिवर्तन विभाग द्वारा अत्यंत सुरुचिपूर्ण ढंग से विकसित किया गया है।\n\n- **पारिस्थितिक संपदा एवं वानस्पतिक विविधता:** इस विशाल पार्क में 150 से अधिक दुर्लभ, औषधीय एवं स्थानीय वृक्ष-पौधों की प्रजातियों का वैज्ञानिक रीति से संरक्षण किया गया है, जिनमें नीम, अर्जुन, आंवला, महोगनी, बांस और विविध सजावटी फूलों की क्यारियां शामिल हैं।\n- **प्राकृतिक छटा एवं भ्रमण पथ:** पार्क के भीतर घने वृक्षों की छाया से गुजरने वाला **4 किलोमीटर से अधिक लंबा टाइल्सयुक्त पैदल भ्रमण पथ (वॉकिंग ट्रेल)**, प्राकृतिक जल निकाय, सुंदर फव्वारे और लकड़ी के आकर्षक शेड प्रकृति प्रेमियों को मंत्रमुग्ध कर देते हैं।\n- **पारिवारिक मनोरंजन एवं बाल उद्यान:** परिसर में बच्चों के लिए विशेष आधुनिक खेल उपकरण, झूले, चौड़े हरी घास के लॉन तथा विश्राम स्थल निर्मित हैं, जो इसे पूरे सीमांचल क्षेत्र का सबसे पसंदीदा फैमिली पिकनिक स्पॉट बनाते हैं।\n\nयह पार्क पर्यावरण शोधकर्ताओं, विद्यार्थियों, फोटोग्राफरों और सुकून के कुछ पल बिताने के इच्छुक पर्यटकों के लिए प्रकृति की गोद में बसा एक अद्वितीय और ज्ञानवर्धक विश्राम स्थल है।"
+    },
+    "history": {
+      "en": "The historical development of the **Kusiargaon Bio Diversity Park** marks a transformative chapter in the environmental consciousness of North-Eastern Bihar (the historic Seemanchal and Kosi-Mahananda basin):\n\n- **Conceptualization & Vision (2008–2010):** Recognizing the acute loss of endemic plant diversity and riparian vegetation across the fertile plains of Araria due to annual flooding and human expansion, the Government of Bihar conceptualized the state's very first biodiversity sanctuary here to preserve genetic plant stock and create eco-tourism infrastructure.\n- **Inauguration & State Milestone:** Commissioned officially in the early 2010s by the Forest Department, the park was designed as a multi-tier ecological habitat combining ex-situ conservation with environmental education.\n- **Scientific Plantation Phases:** Forest botanists systematically mapped soil composition and introduced saplings from across the Sub-Himalayan Terai belt, converting what was once an underutilized forest tract into a dense, bio-diverse botanical ecosystem with specialized herb gardens (*Aushadhiya Vatika*).\n- **Evolution as a Community & Tourism Hub:** Over the past decade, continuous phased investments have expanded tourist facilities, establishing modern gate complexes, water conservation ponds, and solar illumination, cementing its status as an iconic regional ecological milestone.",
+      "hi": "**कुशियारगांव जैव विविधता पार्क** का ऐतिहासिक विकास उत्तर-पूर्वी बिहार (सीमांचल एवं कोसी-महानंदा बेसिन) के पर्यावरण संरक्षण के इतिहास में एक अत्यंत महत्वपूर्ण अध्याय है:\n\n- **परिकल्पना और पृष्ठभूमि (2008-2010):** अररिया और सीमांचल के तराई क्षेत्रों में लगातार आने वाली बाढ़, वनों की कटाई और कृषि प्रसार के कारण स्थानीय दुर्लभ वनस्पतियों के लुप्त होने का संकट गहरा रहा था। इस संकट के समाधान और जनता में पर्यावरणीय चेतना जागृत करने के उद्देश्य से बिहार सरकार ने राज्य का पहला मॉडल जैव विविधता पार्क यहाँ स्थापित करने का दूरदर्शी निर्णय लिया।\n- **उद्घाटन एवं ऐतिहासिक मील का पत्थर:** बिहार सरकार के वन विभाग द्वारा 2010 के दशक के आरंभ में इस पार्क का औपचारिक विकास कर इसे जनता और पर्यावरण अध्येताओं के लिए समर्पित किया गया।\n- **वैज्ञानिक पौधरोपण अभियान:** वन वैज्ञानिकों और वनस्पतिशास्त्रियों ने हिमालयी तराई और स्थानीय उपजाऊ जलोढ़ मिट्टी के अनुकूल प्रजातियों का चयन कर यहाँ चरणबद्ध तरीके से सघन वन क्षेत्र, नक्षत्र वाटिका और दुर्लभ औषधीय पौधों की क्यारियाँ तैयार कीं।\n- **आधुनिक विस्तार:** पिछले दशक में निरंतर प्रयासों से यहाँ आधुनिक वॉकवे, तितली संरक्षण क्षेत्र, बच्चों के आधुनिक पार्क और प्राकृतिक जलाशयों का कायाकल्प किया गया, जिससे यह आज राज्य के प्रमुख पारिस्थितिक पर्यटन स्थलों में प्रतिष्ठित हो चुका है।"
+    },
+    "significance": {
+      "en": "The ecological, scientific, and socio-cultural significance of **Kusiargaon Bio Diversity Park** reverberates throughout Bihar and the Eastern Terai landscape:\n\n- **Biodiversity Conservation Hub:** The park acts as a vital germplasm bank and ex-situ conservatory for rare medicinal flora, indigenous trees, and wild varieties that are fast disappearing from the agricultural belt of North Bihar. It provides live research material for university scholars, botany students, and environmental scientists.\n- **Avian Habitat & Pollinator Haven:** Because of its dense green cover, flowering shrubs, and water bodies, the park has evolved into a flourishing haven for resident birds (such as kingfishers, Indian rollers, drongos, and parakeets), migratory winter birds, honeybees, and over 40 species of colorful butterflies.\n- **Environmental Awareness & Eco-Pedagogy:** School excursion groups and academic field visits regularly utilize the park as an open-air natural classroom where children learn about plant taxonomy, oxygen replenishment, water conservation, and climate change mitigation.\n- **Economic & Recreational Catalyst:** By attracting thousands of visitors every month from Araria, Purnia, Kishanganj, and neighboring Nepal, the park supports the local rural economy, roadside vendors, and eco-friendly hospitality services.",
+      "hi": "**कुशियारगांव जैव विविधता पार्क** का पारिस्थितिक, वैज्ञानिक और सामाजिक-सांस्कृतिक महत्व सीमांचल तथा संपूर्ण बिहार राज्य के लिए अत्यंत विशिष्ट है:\n\n- **जैव विविधता एवं जीन बैंक का संरक्षण:** यह पार्क उत्तरी बिहार के उपजाऊ कृषि क्षेत्र में तेजी से लुप्त हो रही स्वदेशी वनस्पति प्रजातियों और बहुमूल्य औषधीय पौधों के लिए एक सुरक्षित जीन बैंक और संरक्षण केंद्र का कार्य करता है। यह विश्वविद्यालयी छात्रों और वनस्पति विज्ञान के शोधकर्ताओं के लिए एक जीवंत प्रयोगशाला है।\n- **पक्षियों एवं कीट-पतंगों का प्राकृतिक आश्रय:** घने वृक्षों, मौसमी पुष्प वाटिकाओं और जल निकायों की उपस्थिति के कारण यह पार्क विभिन्न प्रजातियों के पक्षियों (जैसे नीलकंठ, कौड़िल्ला, मैना, तोते), प्रवासी जलपक्षियों और तितलियों की 40 से अधिक किस्मों का सुरक्षित बसेरा बन चुका है।\n- **पर्यावरण शिक्षा और जागरूकता:** स्थानीय विद्यालयों और महाविद्यालयों द्वारा यहाँ नियमित शैक्षणिक भ्रमण आयोजित किए जाते हैं। यहाँ प्रदर्शित सूचना पट्ट विद्यार्थियों को वृक्षों के वानस्पतिक नाम, औषधीय उपयोग और पर्यावरण संरक्षण के महत्व से प्रत्यक्ष रूप से अवगत कराते हैं।\n- **क्षेत्रीय पर्यटन एवं आजीविका संवर्धन:** अररिया, पूर्णिया, कटिहार, किशनगंज और निकटवर्ती नेपाल से आने वाले पर्यटकों के कारण यह स्थल स्थानीय युवाओं और लघु व्यापारियों के लिए रोजगार व आर्थिक संवर्धन का एक प्रमुख केंद्र बन गया है।"
+    },
+    "location": {
+      "address": {
+        "en": "**Kusiargaon Bio Diversity Park**, Village Kusiargaon, National Highway 57 (NH-57 / Asian Highway AH-2 corridor), Post Office Bishunpur, Araria Sadar Block, District Araria, Seemanchal Region, Bihar - 854311, India.\n\n*Geographic Landmarks, Road Access & Orientation:* The park is ideally situated roughly 10 kilometers south of the Araria District Collectorate and Sub-Divisional Court compound, directly flanking the eastern flank of the wide 4-lane East-West Corridor (NH-57) connecting Forbesganj to Purnea. It is positioned adjacent to the Madanpur village approach crossroad and Bishunpur agricultural belt. Travelers arriving by roadway can identify the sanctuary from a significant distance by its massive green welcome archway, decorative boundary fencing, tall eucalyptus tree line, and prominent bilingual signage installed by the Department of Environment, Forest and Climate Change.",
+        "hi": "**कुशियारगांव जैव विविधता पार्क**, ग्राम कुशियारगांव, राष्ट्रीय राजमार्ग संख्या 57 (NH-57 / एशियन हाईवे AH-2 कॉरिडोर), डाकघर बिशुनपुर, अररिया सदर प्रखंड, अररिया जिला, सीमांचल क्षेत्र, बिहार - 854311, भारत।\n\n*भौगोलिक पहचान, सड़क मार्ग एवं दिशा-निर्देश:* यह दर्शनीय पार्क अररिया जिला समाहरणालय एवं अनुमंडल न्यायालय परिसर से लगभग 10 किलोमीटर दक्षिण दिशा में, फारबिसगंज से पूर्णिया को जोड़ने वाले 4-लेन ईस्ट-वेस्ट कॉरिडोर (NH-57) के पूर्वी किनारे पर स्थित है। यह मदनपुर ग्रामीण संपर्क मार्ग और बिशुनपुर उपजाऊ कृषि क्षेत्र के बिल्कुल समीप पड़ता है। राष्ट्रीय राजमार्ग से गुजरने वाले पर्यटक इसे दूर से ही इसके विशाल हरे-भरे स्वागत तोरण द्वार, सुंदर सुरक्षा चारदीवारी, कतारबद्ध यूकेलिप्टस के ऊंचे वृक्षों और बिहार सरकार के पर्यावरण, वन एवं जलवायु परिवर्तन विभाग द्वारा लगाए गए आधिकारिक सूचना पट्टों के माध्यम से अत्यंत सरलता से पहचान सकते हैं।"
+      },
+      "latitude": 26.0792,
+      "longitude": 87.5218,
+      "mapQuery": "Kusiargaon Bio Diversity Park, NH 57, Araria, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "day": "Monday",
+          "open": "08:00",
+          "close": "18:00"
+        },
+        {
+          "day": "Tuesday",
+          "open": "08:00",
+          "close": "18:00"
+        },
+        {
+          "day": "Wednesday",
+          "open": "08:00",
+          "close": "18:00"
+        },
+        {
+          "day": "Thursday",
+          "open": "08:00",
+          "close": "18:00"
+        },
+        {
+          "day": "Friday",
+          "open": "08:00",
+          "close": "18:00"
+        },
+        {
+          "day": "Saturday",
+          "open": "08:00",
+          "close": "18:00"
+        },
+        {
+          "day": "Sunday",
+          "open": "08:00",
+          "close": "18:00"
+        }
+      ],
+      "entryFee": {
+        "amount": 20,
+        "currency": "INR",
+        "type": "paid"
+      },
+      "recommendedDurationMinutes": 120,
+      "bestTimeToVisit": {
+        "en": "October to March for pleasant temperatures, clear skies, migratory bird activity, and relaxing garden walks.",
+        "hi": "अक्टूबर से मार्च तक का समय सुहावने मौसम, साफ आसमान, प्रवासी पक्षियों की चहचहाहट और सुकून भरे भ्रमण के लिए सर्वोत्तम है।"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Located directly along the 4-lane National Highway NH-57 (East-West Corridor). Regular state transport buses, inter-district buses, and shared taxis traveling between Purnia, Araria, and Forbesganj halt directly in front of the park entrance.",
+        "hi": "चार-लेन वाले राष्ट्रीय राजमार्ग NH-57 (ईस्ट-वेस्ट कॉरिडोर) के ठीक किनारे स्थित। पूर्णिया, अररिया और फारबिसगंज के बीच चलने वाली राज्य परिवहन की बसें, इंटर-डिस्ट्रिक्ट बसें और टैक्सियाँ सीधे पार्क के मुख्य द्वार पर रुकती हैं।"
+      },
+      "railway": [
+        {
+          "name": {
+            "en": "Araria Court Railway Station (ARQ)",
+            "hi": "अररिया कोर्ट रेलवे स्टेशन (ARQ)"
+          },
+          "distanceKm": 11
+        },
+        {
+          "name": {
+            "en": "Araria Railway Station (ARR)",
+            "hi": "अररिया रेलवे स्टेशन (ARR)"
+          },
+          "distanceKm": 14
+        },
+        {
+          "name": {
+            "en": "Purnea Junction (PRNA)",
+            "hi": "पूर्णिया जंक्शन (PRNA)"
+          },
+          "distanceKm": 38
+        }
+      ],
+      "airport": [
+        {
+          "name": {
+            "en": "Darbhanga Airport (DBR)",
+            "hi": "दरभंगा हवाई अड्डा (DBR)"
+          },
+          "distanceKm": 148
+        },
+        {
+          "name": {
+            "en": "Bagdogra International Airport, Siliguri (IXB)",
+            "hi": "बागडोगरा अंतर्राष्ट्रीय हवाई अड्डा, सिलीगुड़ी (IXB)"
+          },
+          "distanceKm": 156
+        },
+        {
+          "name": {
+            "en": "Jay Prakash Narayan International Airport, Patna (PAT)",
+            "hi": "जय प्रकाश नारायण अंतर्राष्ट्रीय हवाई अड्डा, पटना (PAT)"
+          },
+          "distanceKm": 298
+        }
+      ],
+      "localTransport": {
+        "en": "Frequent battery e-rickshaws, shared auto-rickshaws, and private auto services operate continuously from Araria Bus Stand and Araria Court Station, reaching the park entrance in approximately 15 to 20 minutes.",
+        "hi": "अररिया बस स्टैंड एवं अररिया कोर्ट स्टेशन से नियमित ई-रिक्शा, शेयरिंग ऑटो और प्राइवेट टैक्सियाँ निरंतर उपलब्ध रहती हैं, जो मात्र 15 से 20 मिनट में पार्क के मुख्य द्वार तक पहुंचा देती हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 10,
+        "max": 20,
+        "currency": "INR",
+        "note": {
+          "en": "Nominal entry ticket of ₹20 for adults and ₹10 for children below 12 years. Camera charges may apply separately.",
+          "hi": "वयस्कों के लिए ₹20 तथा 12 वर्ष से कम आयु के बच्चों के लिए ₹10 का नाममात्र प्रवेश शुल्क। कैमरा शुल्क अलग से देय हो सकता है।"
+        }
+      },
+      "localTransport": {
+        "min": 30,
+        "max": 200,
+        "currency": "INR",
+        "note": {
+          "en": "Estimated one-way shared auto fare is ₹30; private reserved auto costs ₹150–₹200 from Araria town.",
+          "hi": "अररिया शहर से शेयरिंग ऑटो का किराया लगभग ₹30 है; आरक्षित प्राइवेट ऑटो का किराया ₹150 से ₹200 तक रहता है।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": false,
+      "atm": false,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 1500,
+      "stairs": false,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "**Optimal Visiting Hours & Photography Guidelines:**\n\nTo make the most of your excursion to **Kusiargaon Bio Diversity Park**, plan your arrival during the serene morning window between **08:30 AM and 11:00 AM** or the gentle golden afternoon hours between **03:00 PM and 05:30 PM**.\n\n- **Bird Watching & Macro Photography:** The morning hours provide the finest lighting conditions and quiet atmosphere to capture native butterflies, dragonflies, and vibrant migratory birds flitting among the flowering thickets and water reservoir.\n- **Footwear & Walking Comfort:** Because exploring the expansive 35-acre park involves strolling along over 4 km of paved interconnected pathways, wearing comfortable walking shoes or breathable sneakers is strongly recommended.\n- **Sun & Weather Protection:** Carry sunglasses, a wide-brim sun hat, and skin-friendly mosquito repellent, particularly during late afternoons and the warmer post-monsoon months.",
+        "hi": "**सर्वश्रेष्ठ भ्रमण समय एवं फोटोग्राफी संबंधी निर्देश:**\n\n**कुशियारगांव जैव विविधता पार्क** की अपनी यात्रा को सुखद और यादगार बनाने के लिए, प्रातः **08:30 बजे से 11:00 बजे** अथवा सुनहरी दोपहर **03:00 बजे से 05:30 बजे** के बीच पहुँचने की योजना बनाएं।\n\n- **पक्षी दर्शन एवं मैक्रो फोटोग्राफी:** प्रातःकाल का शांत वातावरण और खिली हुई धूप विभिन्न दुर्लभ तितलियों, फूलों और प्रवासी पक्षियों की खूबसूरत तस्वीरें लेने के लिए सबसे उपयुक्त अवसर प्रदान करती है।\n- **उपयुक्त जूते एवं पैदल भ्रमण:** 35 एकड़ के इस विशाल परिसर में 4 किलोमीटर से अधिक लंबे पक्के पैदल रास्ते हैं, अतः सुगम भ्रमण के लिए आरामदायक व हल्के स्पोर्ट्स शूज पहनना अत्यंत आवश्यक है।\n- **धूप व कीटों से सुरक्षा:** गर्मियों व दोपहर के समय धूप का चश्मा, टोपी और शाम के वक्त मच्छरों से बचाव के लिए मॉस्किटो रिपेलेंट क्रीम साथ अवश्य रखें।"
+      },
+      {
+        "en": "**Family Outings, Picnics & Conservation Etiquette:**\n\nKusiargaon Bio Diversity Park is a cherished ecological sanctuary dedicated to nature conservation; hence, visitors are expected to maintain strict civic and environmental decorum:\n\n- **Strict Zero-Plastic & Cleanliness Policy:** Do not litter plastic bottles, wrappers, or aluminum foil inside the botanical gardens. Ample color-coded waste bins are strategically placed across the park corridors for proper waste segregation.\n- **Flora Preservation:** Plucking flowers, collecting botanical seeds, snapping tree branches, or stepping on delicate landscaped herb beds is strictly prohibited by forest marshals on duty.\n- **Designated Picnic Zones:** Families and student groups are encouraged to enjoy open-air picnics on the sprawling manicured lawns near the children's park; however, open cooking, gas stoves, and fires are strictly prohibited within the forest boundaries.",
+        "hi": "**पारिवारिक पिकनिक, स्वच्छता एवं पर्यावरणीय मर्यादा:**\n\nकुशियारगांव जैव विविधता पार्क प्रकृति और वनस्पति संरक्षण को समर्पित एक पावन हरित क्षेत्र है, इसलिए प्रत्येक आगंतुक से स्वच्छता और अनुशासन की अपेक्षा की जाती है:\n\n- **शून्य-प्लास्टिक एवं कचरा प्रबंधन:** पार्क में प्लास्टिक की थैलियां, बोतलें और भोजन के पैकेट इधर-उधर न फेंकें। परिसर में जगह-जगह कूड़ेदान उपलब्ध हैं, कचरे को केवल उन्हीं में डालें।\n- **वनस्पतियों की सुरक्षा:** सुंदर फूलों को तोड़ना, औषधीय पौधों को नुकसान पहुंचाना अथवा पेड़ों की टहनियों पर चढ़ना पूर्णतः प्रतिबंधित है और वन सुरक्षा कर्मियों द्वारा इसकी निगरानी की जाती है।\n- **पिकनिक के नियम:** परिवार और स्कूली बच्चे बाल उद्यान के निकट स्थित विशाल हरे लॉन में शांतिपूर्वक पिकनिक का आनंद ले सकते हैं, परंतु पार्क के भीतर आग जलाना या भोजन पकाना सख्त मना है।"
+      },
+      {
+        "en": "**Logistics, Food Arrangements & Nearby Sightseeing Circuits:**\n\nPlanning your travel itinerary strategically ensures a seamless and enriching day trip across Araria district:\n\n- **Refreshments & Hydration:** While small kiosks and tea stalls offering bottled water, seasonal fruit juices, and light snacks are available right outside the highway entrance, carry a refillable water flask for hydration while walking through deep park trails.\n- **Digital Payments & Cash:** Keep a modest amount of cash in ₹10, ₹20, and ₹100 denominations for parking tickets and entry counter counters, as mobile network signals can occasionally fluctuate near the highway periphery.\n- **Complete District Itinerary:** Seamlessly combine your morning visit to Kusiargaon Biodiversity Park with the awe-inspiring **Maa Khadgeshwari Kali Mandir (152-ft spire)** in Araria town and the vast **Raniganj Vriksh Vatika** to complete a fulfilling full-day natural and spiritual circuit.",
+        "hi": "**खान-पान, यात्रा प्रबंधन एवं पर्यटन सर्किट:**\n\nअपनी यात्रा को सुव्यवस्थित बनाकर आप अररिया जिले के प्राकृतिक और आध्यात्मिक सौंदर्य का सर्वोत्तम आनंद ले सकते हैं:\n\n- **पेयजल एवं जलपान व्यवस्था:** यद्यपि पार्क के मुख्य प्रवेश द्वार के बाहर चाय-नाश्ते और शीतल पेय की छोटी दुकानें उपलब्ध हैं, फिर भी पार्क के भीतरी रास्तों पर भ्रमण के दौरान अपने साथ पानी की बोतल अवश्य रखें।\n- **नकद राशि की उपलब्धता:** टिकट काउंटर और पार्किंग के लिए अपने पास ₹10, ₹20 और ₹50 के छोटे नोट नकद रखें, क्योंकि कभी-कभी राजमार्ग क्षेत्र में इंटरनेट धीमा होने पर यूपीआई भुगतान में विलंब हो सकता है।\n- **संपूर्ण अररिया दर्शन:** कुशियारगांव पार्क के प्रातःकालीन भ्रमण के साथ आप अररिया नगर में स्थित 152 फीट ऊंचे **माँ खड्गेश्वरी काली मंदिर** और पश्चिम में 289 एकड़ में फैली **रानीगंज वृक्ष वाटिका** को जोड़कर एक संपूर्ण एकदिवसीय दर्शनीय सर्किट की योजना बना सकते हैं।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "khadgeshwari-kali-mandir",
+      "raniganj-vriksh-vatika"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        {
+          "title": "Araria District Official Portal - Bio Diversity Park Kusiargaon",
+          "organization": "District Administration Araria, Government of Bihar",
+          "url": "https://araria.nic.in/tourist-place/bio-diversity-park-kushiyargaon/"
+        },
+        {
+          "title": "Department of Environment, Forest and Climate Change",
+          "organization": "Government of Bihar",
+          "url": "https://forest.bih.nic.in/"
+        },
+        {
+          "title": "National Portal of India - Biodiversity Park Araria",
+          "organization": "Government of India",
+          "url": "https://india.gov.in/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "khadgeshwari-kali-mandir",
+    "slug": "khadgeshwari-kali-mandir",
+    "name": {
+      "en": "Maa Khadgeshwari Kali Temple",
+      "hi": "माँ खड्गेश्वरी काली मंदिर"
+    },
+    "districtId": "araria",
+    "placeType": "temple",
+    "primaryCategory": "religious",
+    "categories": [
+      "religious",
+      "historical",
+      "cultural",
+      "architectural"
+    ],
+    "subcategories": [
+      "shakti_temple",
+      "kali_mandir",
+      "tantra_shrine",
+      "pilgrimage_site"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "shakti_circuit",
+      "spiritual_circuit_bihar",
+      "eco_circuit",
+      "shiva_circuit"
+    ],
+    "tags": [
+      "mustVisit",
+      "featured",
+      "tallest_kali_temple",
+      "spiritual",
+      "shakti_peeth_vibe",
+      "kali_puja_mela",
+      "nanu_baba_ashram"
+    ],
+    "audiences": [
+      "pilgrims",
+      "families",
+      "spiritual_seekers",
+      "cultural_travelers",
+      "architecture_enthusiasts"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "One of Asia's tallest Kali temples standing at 152 feet, sanctified by the legendary Tantrik ascetic Nanu Baba and revered for miraculous divine grace.",
+      "hi": "एशिया के सबसे ऊंचे काली मंदिरों में शुमार 152 फीट ऊंचा भव्य मंदिर, जो सिद्ध तांत्रिक साधक नानू बाबा की तपोभूमि और चमत्कारी कृपा हेतु विख्यात है।"
+    },
+    "description": {
+      "en": "The **Maa Khadgeshwari Kali Temple** (also revered as **Araria Kali Mandir** or **Sri Sri 108 Maa Khadgeshwari Mandir**) is the crowning spiritual sanctuary and most celebrated religious jewel of the **Araria district** in north-eastern Bihar. Standing at an astounding architectural elevation of approximately **152 feet**, this majestic spire is widely acclaimed as one of the tallest and most breathtaking Kali temples across Asia.\n\nLocated in the heart of Araria town near the Court Station road and PHED colony, the temple complex exudes intense sacred energy, drawing countless hundreds of thousands of ardent devotees, ascetics, and travelers every year from Bihar, West Bengal, Assam, Jharkhand, and neighboring Nepal.\n\n- **Sanctum & Divine Deities:** The main sanctum (*Garbhagriha*) enshrines a breathtaking, fierce yet maternal black-stone idol of **Maa Khadgeshwari** holding a gleaming scimitar (*Khadga*), vanquishing ignorance and blessing her children with fearlessness (*Abhaya*). Alongside Maa Kali, the sanctum houses a revered Shiva shrine dedicated to **Lord Khadgeshwar Nath Mahadev**.\n- **Sadhak Nanu Baba's Samadhi:** Within the tranquil temple grounds lies the sanctified Samadhi and meditation seat of the revered Himalayan ascetic **Sri Sri 108 Swami Nanu Baba Ji Maharaj**, whose lifelong penance transformed this ground into a spiritually charged *Siddha Peeth*.\n- **Architectural Splendor:** The soaring multi-tiered gopuram-style Shikhara, embellished with intricate terracotta reliefs, mythological friezes, marble circumambulation corridors (*Parikrama*), and vast congregational prayer halls, creates an awe-inspiring vision visible from miles away across Araria town.",
+      "hi": "**माँ खड्गेश्वरी काली मंदिर** (जिन्हें अत्यंत श्रद्धा के साथ **अररिया काली मंदिर** अथवा **श्री श्री 108 माँ खड्गेश्वरी धाम** भी कहा जाता है) उत्तर-पूर्वी बिहार के **अररिया जिले** का सर्वोच्च आध्यात्मिक केंद्र और गौरवशाली सांस्कृतिक प्रतीक है। लगभग **152 फीट** की गगनचुंबी ऊंचाई के साथ निर्मित यह भव्य शिखर मंदिर संपूर्ण एशिया महाद्वीप के सबसे ऊंचे और विशालतम महाकाली मंदिरों में प्रतिष्ठित है।\n\nअररिया शहर के हृदय स्थल में कोर्ट स्टेशन मार्ग पर स्थित यह भव्य मंदिर परिसर अद्भुत आध्यात्मिक ऊर्जा और सात्विक शांति का संचार करता है। यहाँ प्रतिदिन तथा विशेष पर्वों पर बिहार, पश्चिम बंगाल, असम, झारखंड और पड़ोसी देश नेपाल से लाखों श्रद्धालु माँ के दर्शन और आशीर्वाद प्राप्त करने हेतु पहुंचते हैं।\n\n- **गर्भगृह एवं दिव्य विग्रह:** मंदिर के मुख्य गर्भगृह में माँ काली के भव्य और करुणामयी स्वरूप **माँ खड्गेश्वरी** की अत्यंत मनोहारी कृष्ण प्रस्तर प्रतिमा स्थापित है, जिनके हाथ में तेजपुंज खड्ग सुशोभित है जो नकारात्मक शक्तियों का संहार कर भक्तों को अभय प्रदान करती हैं। माँ के साथ ही देवाधिदेव **खड्गेश्वर नाथ महादेव** का पावन शिवलिंग भी प्रतिष्ठित है।\n- **परम पूज्य साधक नानू बाबा की समाधि:** मंदिर प्रांगण में प्रख्यात सिद्ध संत और तपस्वी **श्री श्री 108 स्वामी नानू बाबा जी महाराज** का पावन समाधि स्थल और ध्यान कक्ष स्थित है, जिनकी कठोर साधना और तपोबल से यह पावन स्थल एक जाग्रत सिद्ध पीठ के रूप में स्थापित हुआ।\n- **स्थापत्य एवं परिसर की भव्यता:** नागर एवं द्रविड़ शैली के अद्भुत सम्मिश्रण से बना इसका 152 फीट ऊंचा सुवर्ण कलश युक्त शिखर, संगमरमर से निर्मित विस्तृत परिक्रमा पथ, विशाल सत्संग भवन और नक्काशीदार स्तंभ श्रद्धालुओं को पहली ही दृष्टि में विस्मय और असीम श्रद्धा से भर देते हैं।"
+    },
+    "history": {
+      "en": "The sacred genesis of **Maa Khadgeshwari Kali Temple** is intrinsically interwoven with the divine spiritual voyage of the renowned Tantric mystic and saint, **Sri Sri 108 Swami Nanu Baba Ji Maharaj**:\n\n- **Early Foundations (circa 1920s):** The history dates back to the early 20th century (around the year 1920) when the young ascetic Nanu Baba, guided by divine visions of the Divine Mother, arrived in Araria and chose a quiet, secluded forest grove near the Panar riverbed for deep contemplation and Tantric austerities (*Sadhana*).\n- **Miraculous Origins & Clay Shrine:** Initially established as a modest thatched hut enshrining a consecrated clay idol of Goddess Kali, the site swiftly gained legendary repute as devotees began witnessing miraculous healings and the fulfillment of heartfelt prayers (*Mano-kamna Purti*).\n- **The Grand Vision of the 152-Foot Temple:** As decades passed and reverence deepened among local administrators, business families, and devotees, Nanu Baba envisioned a monumental temple that would stand as an eternal bastion of Sanatana Dharma. Expert temple architects and sculptors from Rajasthan and West Bengal were invited to execute the monumental 152-foot spire.\n- **Consecration & Perpetual Legacy:** Following extensive architectural work, the magnificent multi-tiered temple was formally consecrated with elaborate Vedic Mahayajnas. Following Nanu Baba's Mahasamadhi, his consecrated Samadhi shrine was established on the grounds, where his spiritual presence continues to guide disciples and visiting pilgrims to this day.",
+      "hi": "**माँ खड्गेश्वरी काली मंदिर** का पावन इतिहास उच्चकोटि के तंत्र साधक, सिद्ध योगी और महान संत **श्री श्री 108 स्वामी नानू बाबा जी महाराज** की आध्यात्मिक तपस्या और संकल्प से अटूट रूप से जुड़ा हुआ है:\n\n- **प्रारंभिक स्थापना (लगभग 1920 का दशक):** इस पावन धाम की शुरुआत 20वीं शताब्दी के पूर्वार्ध में (लगभग वर्ष 1920 के आसपास) हुई, जब हिमालय और विभिन्न तीर्थों का भ्रमण करने के उपरांत युवा संन्यासी नानू बाबा अररिया पधारे। उन्होंने पनार नदी के समीप तत्कालीन शांत वन प्रांतर को अपनी गुप्त साधना और तपस्या का केंद्र बनाया।\n- **मिट्टी की कुटिया से चमत्कारी सिद्धपीठ:** आरंभ में बाबा ने यहाँ फूस की एक छोटी सी कुटिया में माँ काली की मिट्टी की प्रतिमा स्थापित कर निरंतर अखंड जप और साधना प्रारंभ की। धीरे-धीरे बाबा के आशीर्वाद और माँ के चमत्कारों की ख्याति दूर-दूर तक फैल गई, जिससे असाध्य रोगों और कष्टों से पीड़ित लोगों की भारी भीड़ यहाँ जुटने लगी।\n- **152 फीट ऊंचे भव्य मंदिर का संकल्प:** जनश्रद्धा और भक्तों के सहयोग से नानू बाबा ने एक ऐसे विश्वस्तरीय मंदिर की आधारशिला रखी जो शताब्दियों तक सनातन धर्म की कीर्ति पताका फहराए। राजस्थान, ओडिशा और बंगाल के कुशल शिल्पकारों द्वारा वर्षों के अनथक परिश्रम के बाद 152 फीट ऊंचे इस अद्वितीय शिखर का निर्माण पूर्ण हुआ।\n- **प्राण प्रतिष्ठा और अविरल परंपरा:** वैदिक महायज्ञों और तांत्रिक विधि-विधान से माँ खड्गेश्वरी की प्राण प्रतिष्ठा की गई। नानू बाबा के महासमाधि लेने के उपरांत उनका भव्य समाधि मंदिर परिसर में निर्मित किया गया, जहाँ आज भी बाबा का सूक्ष्म आध्यात्मिक आशीर्वाद प्रत्येक श्रद्धालु को स्पष्ट अनुभूत होता है।"
+    },
+    "significance": {
+      "en": "The theological, spiritual, and socio-cultural significance of **Maa Khadgeshwari Kali Temple** makes it the epicentral powerhouse of faith in Seemanchal and North Bihar:\n\n- **Supreme Center of Shakta Devotion:** In Shakta theology, Maa Khadgeshwari is worshipped as the supreme dispeller of fear (*Bhaya-harini*) and conqueror of ego. Devotees believe that seeking Maa's blessings with genuine humility eliminates court disputes, financial distress, chronic illnesses, and evil astral influences (*Grah Dosha*).\n- **Tantric & Meditative Sanctity:** Blessed by the intense austerities of Nanu Baba, the temple maintains rigorous traditional *Sadhana* rituals. Special Tantric and Vedic midnight pujas (*Nishita Kaal Puja*) conducted during Amavasya (new moon nights) attract esoteric practitioners seeking spiritual illumination.\n- **The Grand Kali Puja & Diwali Festival:** The festival of **Deepawali and Kali Puja** is celebrated here on a staggering scale. The entire 152-foot spire is illuminated by thousands of colorful electric lamps, while an enormous regional fair (*Kali Mela*) brings together over half a million visitors, artisans, folk performers, and traders over ten festive days.\n- **Social Harmony & Philanthropy:** The temple trust runs extensive charitable initiatives, including a community kitchen (*Annakshetra*) providing free meals to the needy, marriage assistance for underprivileged families, and medical relief camps during major regional gatherings.",
+      "hi": "**माँ खड्गेश्वरी काली मंदिर** का आध्यात्मिक, धार्मिक और सांस्कृतिक महत्व उत्तर बिहार और सीमांचल के जन-जीवन में अत्यंत गहरा और वंदनीय है:\n\n- **शाक्त परंपरा का जाग्रत शक्ति केंद्र:** सनातन शाक्त धर्म में माँ खड्गेश्वरी को भयहारिणी, संकटमोचिनी और मोक्षदायिनी माना गया है। श्रद्धालुओं का दृढ़ विश्वास है कि यहाँ जो भी भक्त सच्चे हृदय से मनोकामना मांगता है, माँ उसके समस्त कष्टों, व्याधियों, मुकदमों और ग्रह दोषों का निवारण कर सुख-समृद्धि का वरदान प्रदान करती हैं।\n- **साधना और तांत्रिक पवित्रता:** नानू बाबा की अखंड तपोभूमि होने के कारण इस मंदिर को अत्यंत जाग्रत सिद्धपीठ माना जाता है। प्रत्येक अमावस्या की रात्रि में यहाँ होने वाली विशेष तांत्रिक व वैदिक 'निशीथ काल' महापूजा में भाग लेने के लिए सुदूर क्षेत्रों से साधक और श्रद्धालु उपस्थित होते हैं।\n- **भव्य काली पूजा एवं ऐतिहासिक मेला:** दीपावली के पावन पर्व पर आयोजित होने वाला **वार्षिक काली पूजा महोत्सव** यहाँ का सबसे बड़ा आकर्षण है। इस दौरान 152 फीट ऊंचा मंदिर अलौकिक विद्युत सज्जा से जगमगा उठता है और 10 दिनों तक चलने वाले भव्य मेले में लाखों लोग सम्मिलित होकर सांस्कृतिक कार्यक्रमों और लोक कलाओं का आनंद लेते हैं।\n- **सामाजिक सेवा एवं सद्भाव:** मंदिर न्यास समिति द्वारा वर्ष भर 'अन्नक्षेत्र' संचालित किया जाता है जहाँ निर्धनों और यात्रियों को निःशुल्क प्रसाद वितरित होता है। इसके अतिरिक्त निर्धन कन्याओं का विवाह, निःशुल्क स्वास्थ्य शिविर और जनकल्याणकारी कार्यों के माध्यम से यह मंदिर सामाजिक समरसता का आदर्श उदाहरण प्रस्तुत करता है।"
+    },
+    "location": {
+      "address": {
+        "en": "**Maa Khadgeshwari Kali Temple**, Kali Mandir Chowk, PHED Colony Road (near Araria Court Railway Station), Ward Number 08, Araria Nagar Parishad, Araria Sadar Sub-Division, District Araria, Seemanchal Region, Bihar - 854311, India.\n\n*Geographic Landmarks, Urban Access & Orientation:* Centrally positioned within the core urban jurisdiction of Araria municipality, the temple lies roughly 1.5 kilometers east of Araria Court Railway Station, 4.5 kilometers from Araria Main Railway Junction, and approximately 2 kilometers north of the bustling Araria Zero Mile highway rotary intersection. Its magnificent 152-foot soaring architectural spire, adorned with colorful devotional carvings and a gilded crown pinnacle (*Kalash*), towers majestically above the entire town skyline, serving as an unmissable geographic and spiritual landmark accessible easily via motorized rickshaws, town taxis, and pedestrian avenues.",
+        "hi": "**माँ खड्गेश्वरी काली मंदिर**, काली मंदिर चौक, पीएचईडी (PHED) कॉलोनी मार्ग (अररिया कोर्ट रेलवे स्टेशन के समीप), वार्ड संख्या 08, अररिया नगर परिषद, अररिया सदर अनुमंडल, जिला अररिया, सीमांचल क्षेत्र, बिहार - 854311, भारत।\n\n*भौगोलिक पहचान, शहरी पहुंच एवं दिशा-निर्देश:* अररिया नगर परिषद के मुख्य शहरी क्षेत्र में अवस्थित यह पावन मंदिर अररिया कोर्ट रेलवे स्टेशन से मात्र 1.5 किलोमीटर पूर्व, अररिया मुख्य रेलवे जंक्शन से लगभग 4.5 किलोमीटर तथा व्यस्त अररिया जीरो माइल गोलंबर से 2 किलोमीटर उत्तर दिशा में स्थित है। इसका 152 फीट ऊंचा गगनचुंबी रंगीन शिखर और उस पर प्रतिष्ठित स्वर्ण कलश पूरे शहर के क्षितिज पर दूर से ही अत्यंत भव्य दिखाई देता है। स्थानीय बाजार, मुख्य बस पड़ाव तथा स्टेशन रोड से चलने वाले ऑटो, बैटरी ई-रिक्शा अथवा निजी वाहनों द्वारा यहाँ कुछ ही मिनटों में अत्यंत सुगमता से पहुंचा जा सकता है।"
+      },
+      "latitude": 26.1378,
+      "longitude": 87.4671,
+      "mapQuery": "Maa Khadgeshwari Kali Mandir, Araria, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "day": "Monday",
+          "open": "05:00",
+          "close": "22:00"
+        },
+        {
+          "day": "Tuesday",
+          "open": "05:00",
+          "close": "22:00"
+        },
+        {
+          "day": "Wednesday",
+          "open": "05:00",
+          "close": "22:00"
+        },
+        {
+          "day": "Thursday",
+          "open": "05:00",
+          "close": "22:00"
+        },
+        {
+          "day": "Friday",
+          "open": "05:00",
+          "close": "22:00"
+        },
+        {
+          "day": "Saturday",
+          "open": "05:00",
+          "close": "22:00"
+        },
+        {
+          "day": "Sunday",
+          "open": "05:00",
+          "close": "22:00"
+        }
+      ],
+      "entryFee": {
+        "amount": 0,
+        "currency": "INR",
+        "type": "free"
+      },
+      "recommendedDurationMinutes": 90,
+      "bestTimeToVisit": {
+        "en": "October to March for pleasant temperatures; October–November during Diwali & Kali Puja for the spectacular annual fair and temple illuminations.",
+        "hi": "अक्टूबर से मार्च तक का सुहावना मौसम; विशेष रूप से दीपावली और काली पूजा के दौरान भव्य 10 दिवसीय मेले और आलोक सज्जा के दर्शन हेतु।"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Centrally situated in Araria town, easily accessible via National Highway NH-27 (East-West Corridor) and NH-327. Direct state and private sleeper buses connect Araria to Patna, Siliguri, Bhagalpur, Muzaffarpur, and Kolkata daily.",
+        "hi": "अररिया नगर के केंद्र में स्थित, राष्ट्रीय राजमार्ग NH-27 और NH-327 के माध्यम से अत्यंत सुगम। पटना, सिलीगुड़ी, भागलपुर, मुजफ्फरपुर और कोलकाता से नियमित बसें सीधे अररिया पहुंचती हैं।"
+      },
+      "railway": [
+        {
+          "name": {
+            "en": "Araria Court Railway Station (ARQ)",
+            "hi": "अररिया कोर्ट रेलवे स्टेशन (ARQ)"
+          },
+          "distanceKm": 1.5
+        },
+        {
+          "name": {
+            "en": "Araria Railway Station (ARR)",
+            "hi": "अररिया रेलवे स्टेशन (ARR)"
+          },
+          "distanceKm": 4.5
+        },
+        {
+          "name": {
+            "en": "Forbesganj Junction (FBG)",
+            "hi": "फारबिसगंज जंक्शन (FBG)"
+          },
+          "distanceKm": 31
+        },
+        {
+          "name": {
+            "en": "Purnea Junction (PRNA)",
+            "hi": "पूर्णिया जंक्शन (PRNA)"
+          },
+          "distanceKm": 44
+        }
+      ],
+      "airport": [
+        {
+          "name": {
+            "en": "Bagdogra International Airport, Siliguri (IXB)",
+            "hi": "बागडोगरा अंतर्राष्ट्रीय हवाई अड्डा, सिलीगुड़ी (IXB)"
+          },
+          "distanceKm": 145
+        },
+        {
+          "name": {
+            "en": "Darbhanga Airport (DBR)",
+            "hi": "दरभंगा हवाई अड्डा (DBR)"
+          },
+          "distanceKm": 150
+        },
+        {
+          "name": {
+            "en": "Jay Prakash Narayan International Airport, Patna (PAT)",
+            "hi": "जय प्रकाश नारायण अंतर्राष्ट्रीय हवाई अड्डा, पटना (PAT)"
+          },
+          "distanceKm": 305
+        }
+      ],
+      "localTransport": {
+        "en": "Abundant battery-operated e-rickshaws, shared auto-rickshaws, cycle rickshaws, and app-based private cabs are available 24/7 across Araria town, reaching the temple gates within 5 to 10 minutes from any central point.",
+        "hi": "अररिया शहर के प्रत्येक कोने से 24 घंटे बैटरी ई-रिक्शा, शेयरिंग ऑटो, साइकिल रिक्शा और टैक्सी उपलब्ध हैं, जो 5 से 10 मिनट में सीधे मंदिर द्वार तक पहुंचा देते हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 0,
+        "max": 0,
+        "currency": "INR",
+        "note": {
+          "en": "Entry for darshan is completely free for all devotees. Voluntary contributions can be deposited in official temple trust donation boxes.",
+          "hi": "सभी श्रद्धालुओं के लिए दर्शन पूर्णतः निःशुल्क है। ऐच्छिक दान मंदिर न्यास समिति की अधिकृत दानपेटियों में समर्पित किया जा सकता है।"
+        }
+      },
+      "localTransport": {
+        "min": 15,
+        "max": 80,
+        "currency": "INR",
+        "note": {
+          "en": "Local e-rickshaw or shared auto fare is ₹15–₹20 per person from Araria Court station or central market chowk.",
+          "hi": "अररिया कोर्ट स्टेशन या मुख्य बाजार से स्थानीय ई-रिक्शा का किराया ₹15 से ₹20 प्रति व्यक्ति है।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": true,
+      "atm": true,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 100,
+      "stairs": true,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "**Darshan Protocol, Daily Aarti Timings & Temple Etiquette:**\n\nTo experience the divine vibration of **Maa Khadgeshwari Kali Temple** at its most serene, arrive early for the dawn *Mangala Aarti* at **05:30 AM** or the evening *Sandhya Maha Aarti* at **07:00 PM**.\n\n- **Devotional Offerings:** Fresh red hibiscus garlands (*Jaba Pushpa*), coconuts, sweet pedas, red chunari, and unboiled milk can be obtained from authorized floral stalls located along the temple entrance arcade.\n- **Footwear & Attire:** Remove footwear at the dedicated shoe depository (*Joota Ghar*) located at the main portico. Visitors should dress respectfully in traditional or modest attire (kurtas, dhotis, sarees, salwar-suits).\n- **Inner Sanctum Reverence:** Maintain quiet contemplative discipline inside the Garbhagriha. Photography is allowed in the vast marble courtyards and garden plazas but is strictly barred inside the inner sanctum during ongoing esoteric rituals.",
+        "hi": "**दर्शन मर्यादा, दैनिक आरती समय एवं मंदिर शिष्टाचार:**\n\n**माँ खड्गेश्वरी काली मंदिर** के अलौकिक और ध्यानमयी वातावरण का पुण्य लाभ लेने के लिए प्रातः **05:30 बजे** की मंगला आरती अथवा सायं **07:00 बजे** की दिव्य संध्या महाआरती के समय उपस्थित होना सर्वोत्तम है।\n\n- **पूजन सामग्री एवं प्रसाद:** लाल अड़हुल (गुड़हल) के पुष्पों की माला, नारियल, लाल चुनरी, पेड़ा और दूध मंदिर के प्रवेश द्वार पर स्थित सुसज्जित पूजा दुकानों से आसानी से प्राप्त किए जा सकते हैं।\n- **पहनावा एवं जूता घर:** मुख्य द्वार पर स्थित निःशुल्क जूता घर में जूते-चप्पल उतारकर ही संगमरमरी प्रांगण में प्रवेश करें। शालीन और सात्विक भारतीय परिधान पहनकर दर्शन करना श्रेयस्कर है।\n- **गर्भगृह के नियम:** गर्भगृह के भीतर शांति बनाए रखें और कतारबद्ध होकर दर्शन करें। प्रांगण में फोटोग्राफी की अनुमति है, परंतु गर्भगृह के आंतरिक भाग में पूजा के समय तस्वीरें लेना धार्मिक मर्यादा के विरुद्ध है।"
+      },
+      {
+        "en": "**Visiting During Navratri & The Grand Kali Puja Festival:**\n\nPlanning a pilgrimage during festival periods requires additional preparation to manage massive congregational gatherings:\n\n- **Deepawali & Kali Puja Peak:** During the five days of Diwali and Kali Puja (October/November), over 500,000 pilgrims visit the temple. Expect extensive barricaded queue corridors and heightened security arrangements by the district administration.\n- **Sadhak Nanu Baba Samadhi Darshan:** Do not miss paying your humble respects at the sacred Samadhi shrine of Swami Nanu Baba Ji situated in the northern corner of the complex, where thousands of seekers sit for silent meditation.\n- **Navratri Celebrations:** Both Chaitra and Sharad Navratri witness nine days of continuous Chandi Path recitations and special midnight tantric oblations, making it an extraordinary time for spiritual practitioners (*Sadhaks*).",
+        "hi": "**नवरात्रि एवं ऐतिहासिक काली पूजा मेले में दर्शन प्रबंधन:**\n\nत्योहारों और विशेष धार्मिक अवसरों पर मंदिर में भारी जनसैलाब उमड़ता है, जिसके लिए पूर्व तैयारी आवश्यक है:\n\n- **दीपावली एवं काली पूजा उत्सव:** कार्तिक अमावस्या (दीपावली) के अवसर पर आयोजित होने वाले 10 दिवसीय मेले में 5 लाख से अधिक श्रद्धालु आते हैं। इस समय प्रशासन द्वारा विशेष बैरिकेडिंग और कतार व्यवस्था की जाती है, अतः धैर्यपूर्वक दर्शन करें।\n- **नानू बाबा समाधि दर्शन:** मंदिर के उत्तरी भाग में स्थित सिद्ध संत स्वामी नानू बाबा जी महाराज की पावन समाधि के दर्शन अवश्य करें, जहाँ ध्यान लगाने से मन को अद्भुत शांति और संबल प्राप्त होता है।\n- **नवरात्रि महामहोत्सव:** चैत्र व शारदीय दोनों नवरात्रों में यहाँ 9 दिनों तक अखंड चंडी पाठ, दुर्गा सप्तशती अनुष्ठान और निशीथ काल की विशेष पूजा होती है, जो साधना और सिद्धि के लिए अत्यंत फलदायी मानी जाती है।"
+      },
+      {
+        "en": "**Accommodation, Dining & Exploring Local Circuits:**\n\nArranging logistics around the town center guarantees a comfortable pilgrimage experience:\n\n- **Lodging & Dharamshala:** The temple trust manages clean pilgrim rest rooms and a community hall for outstation travelers. In addition, quality modern hotels and guest houses are located within a 2 km radius near Araria Zero Mile and Court road.\n- **Temple Annakshetra:** Wholesome vegetarian sanctified meals (*Prasadam*) are served at scheduled afternoon hours to visiting pilgrims at the temple's Annakshetra dining hall.\n- **Combined Itinerary:** Pair your spiritual visit with the nearby **Kusiargaon Bio Diversity Park (10 km)** along NH-57 and the expansive forest wilderness of **Raniganj Vriksh Vatika (30 km)** for a memorable multi-faceted tour of Araria.",
+        "hi": "**आवास, भोजन व्यवस्था एवं स्थानीय दर्शनीय स्थल:**\n\nअररिया शहर के मध्य में स्थित होने के कारण यहाँ यात्रियों के लिए सभी बुनियादी सुविधाएं सुलभ हैं:\n\n- **ठहरने की व्यवस्था:** मंदिर न्यास समिति द्वारा संचालित धर्मशाला में बाहरी यात्रियों के लिए स्वच्छ कमरों की सुविधा उपलब्ध है। इसके अलावा जीरो माइल और स्टेशन रोड पर कई अच्छे निजी होटल और लॉज उपलब्ध हैं।\n- **अन्नक्षेत्र एवं महाप्रसाद:** मंदिर परिसर में संचालित अन्नक्षेत्र में दोपहर के समय श्रद्धालुओं को शुद्ध और सात्विक महाप्रसाद वितरित किया जाता है।\n- **संयुक्त पर्यटन योजना:** माँ खड्गेश्वरी के दर्शन के पश्चात आप मात्र 10 किमी दूर स्थित **कुशियारगांव जैव विविधता पार्क** और 30 किमी दूर स्थित **रानीगंज वृक्ष वाटिका** का भ्रमण कर अपने अररिया प्रवास को अविस्मरणीय बना सकते हैं।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "bio-diversity-park",
+      "raniganj-vriksh-vatika"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        {
+          "title": "Araria District Official Portal - Maa Khadgeshwari Kali Mandir",
+          "organization": "District Administration Araria, Government of Bihar",
+          "url": "https://araria.nic.in/"
+        },
+        {
+          "title": "Bihar Tourism Official Portal - Araria Tourism",
+          "organization": "Department of Tourism, Government of Bihar",
+          "url": "https://tourism.bihar.gov.in/"
+        },
+        {
+          "title": "Bihar State Board of Religious Trusts",
+          "organization": "Government of Bihar",
+          "url": "https://bsbrt.bihar.gov.in/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "raniganj-vriksh-vatika",
+    "slug": "raniganj-vriksh-vatika",
+    "name": {
+      "en": "Raniganj Vriksh Vatika",
+      "hi": "रानीगंज वृक्ष वाटिका"
+    },
+    "districtId": "araria",
+    "placeType": "nature_reserve",
+    "primaryCategory": "natural",
+    "categories": [
+      "natural",
+      "eco_tourism_site",
+      "wildlife",
+      "recreational"
+    ],
+    "subcategories": [
+      "nature_reserve",
+      "tree_garden",
+      "deer_park",
+      "wetland_lake",
+      "botanical_forest"
+    ],
+    "circuits": [
+      "eco_tourism_circuit",
+      "wildlife_and_safari_circuit",
+      "eco_circuit"
+    ],
+    "tags": [
+      "mustVisit",
+      "featured",
+      "largest_tree_garden_bihar",
+      "deer_park",
+      "migratory_birds",
+      "289_acres",
+      "eco_park",
+      "nature_retreat"
+    ],
+    "audiences": [
+      "nature_lovers",
+      "wildlife_enthusiasts",
+      "families",
+      "photographers",
+      "birdwatchers",
+      "researchers"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": true,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "Bihar's largest tree garden spanning 289 acres of lush wilderness in Hasanpur, featuring roaming deer, serene lake wetlands, and rich avian biodiversity.",
+      "hi": "हसनपुर में 289 एकड़ में फैला बिहार का सबसे बड़ा वृक्ष उद्यान, जहाँ विचरण करते हिरण, शांत झील और समृद्ध पक्षी विविधता प्रकृति प्रेमियों को आकर्षित करती है।"
+    },
+    "description": {
+      "en": "**Raniganj Vriksh Vatika** (officially classified as **Raniganj Tree Garden & Nature Park**, formerly known in revenue records as *Hasanpur Balu Dhima*) is an immense, breathtaking natural paradise sprawled across an astonishing **289 acres** of protected forest land in the Raniganj block of **Araria district**.\n\nRenowned as one of the largest ecological tree gardens in eastern India, this picturesque wilderness was cultivated by transforming a barren sandy floodplain tract into a luxuriant bio-reserve under the persistent stewardship of the Department of Environment, Forest and Climate Change, Government of Bihar.\n\n- **Botanical Forest Expanse:** The Vatika is home to hundreds of thousands of mature timber trees, flowering canopies, and indigenous species such as Sal, Teak (*Sagwan*), Sissoo (*Shisham*), Siris, Eucalyptus, and Mahua, creating a cool micro-climate that shelters diverse ecological food webs.\n- **Wildlife & Deer Habitat:** The reserve features an enclosed natural deer sanctuary housing graceful spotted deer (*Chital*) and hog deer, alongside naturally inhabiting wildlife such as golden jackals, Indian rock pythons, monitor lizards, civets, and seasonal flocks of vibrant migratory waterbirds that congregate around its expansive central natural lake (*Jheel*).\n- **Eco-Tourism & Proposed Zoo Infrastructure:** Designated as a future flagship zoo and safari park for Seemanchal, the premises offer tranquil nature walks through rustic forest trails, scenic lakeside watchtowers, shaded gazebos, and serene picnic clearings.\n\nFor eco-travelers, photographers, birders, and families wishing to escape urban din, Raniganj Vriksh Vatika delivers an unmatched rendezvous with pure, untamed wilderness.",
+      "hi": "**रानीगंज वृक्ष वाटिका** (जिसे आधिकारिक तौर पर **रानीगंज ट्री गार्डन एवं नेचर पार्क** तथा राजस्व अभिलेखों में *हसनपुर बालू धीमा* के नाम से जाना जाता है) अररिया जिले के रानीगंज प्रखंड में **289 एकड़** के विशाल भूभाग पर फैला बिहार का सबसे बड़ा और अद्वितीय प्राकृतिक वन उद्यान है।\n\nपूर्वी भारत के विशालतम वन उद्यानों में शुमार यह मनोहारी प्राकृतिक अभयारण्य एक समय बंजर रेतीले टीले के रूप में था, जिसे बिहार सरकार के पर्यावरण, वन एवं जलवायु परिवर्तन विभाग के अथक प्रयासों से एक सघन और समृद्ध जैव-विविधता केंद्र में रूपांतरित कर दिया गया।\n\n- **विशाल वानस्पतिक संपदा:** इस 289 एकड़ के विस्तृत वन क्षेत्र में लाखों की संख्या में सागवान, शीशम, साल, सिरिस, यूकेलिप्टस, जामुन और महुआ जैसे विशालकाय छायादार और इमारती वृक्ष लहलहाते हैं, जो यहाँ एक शीतल और प्रदूषण मुक्त प्राकृतिक वातावरण का निर्माण करते हैं।\n- **वन्यजीव संरक्षण एवं हिरण पार्क:** वाटिका के भीतर एक प्राकृतिक हिरण अभयारण्य (डियर पार्क) विकसित किया गया है जहाँ चित्तीदार हिरण (चीतल) और पाढ़ा स्वच्छंद विचरण करते हैं। इसके अलावा यहाँ अजगर, गोह, सियार, खरगोश और इसके मध्य स्थित विशाल प्राकृतिक झील में सर्दियों के दौरान आने वाले सैकड़ों विदेशी प्रवासी जलपक्षी पर्यटकों को आकर्षित करते हैं।\n- **पर्यावरण-पर्यटन एवं भावी चिड़ियाघर:** सीमांचल क्षेत्र के दूसरे बड़े चिड़ियाघर व सफारी पार्क के रूप में प्रस्तावित इस वाटिका में पर्यटकों के लिए शांत वन भ्रमण पथ, झील के किनारे वॉच टॉवर, विश्राम शेड और सुरम्य पिकनिक स्थल बनाए गए हैं।\n\nयह अनुपम वृक्ष वाटिका प्रकृति प्रेमियों, वन्यजीव प्रेमियों, पक्षी-निरीक्षकों और सपरिवार शांत वातावरण में एक यादगार दिन बिताने के इच्छुक पर्यटकों के लिए बिहार का एक अनमोल प्राकृतिक उपहार है।"
+    },
+    "history": {
+      "en": "The environmental evolution of **Raniganj Vriksh Vatika** stands as one of Bihar's most inspiring success stories in land reclamation and afforestation:\n\n- **The Sandy Wasteland Era:** Prior to the late 1970s and 1980s, the entire 289-acre expanse was known as *Hasanpur Balu Dhima*, an arid, flood-ravaged tract of infertile sandy mounds deposits left behind by shifting tributaries of the turbulent Kosi river system, devoid of dense flora and vulnerable to desertification.\n- **Pioneering Afforestation (1985–1995):** Recognizing the need to anchor soil, curb erosion, and create a green barrier in Seemanchal, visionary forest officers initiated aggressive plantation campaigns, introducing fast-growing and tap-rooted trees that stabilized the loose sand.\n- **Establishment of the Deer Park:** In the late 1990s and 2000s, portions of the lush green cover were fenced off to create a conservation habitat for rescued deer and indigenous fauna, officially naming the enclave Raniganj Vriksh Vatika.\n- **State Recognition & Zoo Upgrade Vision:** Over recent years, the Bihar State Wildlife Board and Department of Forests have drafted comprehensive master plans to elevate this 289-acre expanse into North Bihar's premier zoological park and safari reserve, completing boundary enclosures, lake desiltation, and eco-tourist reception centers.",
+      "hi": "**रानीगंज वृक्ष वाटिका** का ऐतिहासिक कायाकल्प बंजर भूमि सुधार और सघन वनीकरण के क्षेत्र में बिहार के सबसे प्रेरणादायक और सफल अभियानों में से एक है:\n\n- **बंजर रेतीले टीले की पृष्ठभूमि:** 1970 और 1980 के दशक से पूर्व, यह संपूर्ण 289 एकड़ का क्षेत्र *हसनपुर बालू धीमा* के नाम से कुख्यात था। कोसी नदी की पुरानी धाराओं और बाढ़ द्वारा छोड़ी गई यह विशाल रेतीली भूमि पूरी तरह बंजर, अनुपजाऊ और वीरान थी, जहाँ धूल भरी आंधियाँ चलती थीं।\n- **क्रांतिकारी वनीकरण अभियान (1985-1995):** मिट्टी के कटाव को रोकने और सीमांचल को हरित सुरक्षा कवच प्रदान करने के उद्देश्य से बिहार वन विभाग ने इस रेतीली भूमि पर व्यापक पौधारोपण महाभियान प्रारंभ किया। वैज्ञानिकों ने ऐसी प्रजातियों के वृक्ष लगाए जो रेतीली जमीन में भी गहराई तक जड़ें जमा सकें।\n- **हिरण पार्क की स्थापना और वाटिका का उदय:** 1990 के दशक के उत्तरार्ध में जब यहाँ सघन अरण्य विकसित हो गया, तब वन विभाग ने घायल व बचाए गए वन्यजीवों के संरक्षण हेतु यहाँ एक हिरण पार्क (डियर पार्क) का निर्माण किया और इसे औपचारिक रूप से 'रानीगंज वृक्ष वाटिका' नाम दिया।\n- **चिड़ियाघर और सफारी पार्क की योजना:** हाल के वर्षों में बिहार सरकार और राज्य वन्यजीव परिषद द्वारा इस 289 एकड़ के प्राकृतिक जंगल को सीमांचल के पहले पूर्ण चिड़ियाघर और सफारी पार्क में विकसित करने का मास्टर प्लान स्वीकृत किया गया है, जिसके अंतर्गत झील की सफाई, सुरक्षा प्राचीर और आधुनिक पर्यटन सुविधाओं का विकास किया जा रहा है।"
+    },
+    "significance": {
+      "en": "The ecological, environmental, and recreational significance of **Raniganj Vriksh Vatika** makes it an invaluable ecological treasure for North Bihar:\n\n- **Green Lungs of Seemanchal:** Functioning as the primary carbon sink and climatic regulator for the surrounding agrarian plain of Araria and Madhepura borders, its 289 acres of dense canopy purify the air and contribute significantly to regional groundwater recharging.\n- **Crucial Wildlife & Wetland Biosphere:** The harmonious combination of deep wooded thickets and a perennial water reservoir creates an essential stepping-stone wetland habitat for migratory waterfowl flying southward from the Tibetan Plateau and Siberia during the winter months, including teals, herons, storks, and egrets.\n- **Biodiversity & Forestry Research:** The site serves as a vital field laboratory for forestry institutes and agricultural scientists evaluating long-term soil regeneration on riverine silt and sand banks.\n- **Premier Eco-Tourism Haven:** As the largest designated leisure forest in Araria, it offers healthy outdoor recreation, birding walks, family picnic zones, and environmental education that foster a deep reverence for nature conservation among young generations.",
+      "hi": "**रानीगंज वृक्ष वाटिका** का पारिस्थितिक, पर्यावरणीय और सामाजिक महत्व उत्तर बिहार के प्राकृतिक संतुलन के लिए अत्यंत अमूल्य है:\n\n- **सीमांचल के 'ग्रीन लंग्स' (हरित फेफड़े):** 289 एकड़ में फैला यह विशाल वन क्षेत्र अररिया और सीमांचल क्षेत्र के लिए एक प्राकृतिक 'कार्बन सिंक' का कार्य करता है। यह वायुमंडल को शुद्ध करने, भूजल स्तर को रिचार्ज करने और स्थानीय तापमान को नियंत्रित रखने में केंद्रीय भूमिका निभाता है।\n- **अद्वितीय वन्यजीव एवं आर्द्रभूमि तंत्र:** घने जंगलों और इसके भीतर स्थित प्राकृतिक जलाशय का संगम शीतकाल में साइबेरिया और हिमालयी क्षेत्रों से आने वाले विदेशी प्रवासी पक्षियों (जैसे लालसर, बगुले, जलमुर्गी और सारस) के लिए एक सुरक्षित पड़ाव और प्रजनन क्षेत्र प्रदान करता है।\n- **वानिकी अनुसंधान और भूमि सुधार का मॉडल:** यह वाटिका वानिकी वैज्ञानिकों और कृषि विश्वविद्यालयों के लिए इस बात का एक आदर्श अध्ययन मॉडल है कि किस प्रकार वैज्ञानिक नियोजन द्वारा एक विशाल रेतीले बंजर टीले को घने वर्षावन जैसे पारिस्थितिकी तंत्र में बदला जा सकता है।\n- **पर्यटन और मानसिक शांति का केंद्र:** अररिया, पूर्णिया, सहरसा और मधेपुरा से आने वाले हजारों परिवारों के लिए यह वाटिका प्रदूषण मुक्त वातावरण में सुकून, नौकायन, बर्ड वाचिंग और बच्चों के साथ प्रकृति का आनंद लेने का सबसे पसंदीदा पिकनिक स्थल बन चुकी है।"
+    },
+    "location": {
+      "address": {
+        "en": "**Raniganj Vriksh Vatika** (Raniganj Tree Garden & Nature Reserve), Village Balu Dhima, Hasanpur Gram Panchayat, Raniganj Community Development Block, District Araria, Seemanchal Region, Bihar - 854334, India.\n\n*Geographic Landmarks, Regional Access & Orientation:* The vast nature sanctuary is positioned approximately 30 kilometers west of the Araria District Collectorate and roughly 25 kilometers east of State Highway 77 (SH-77 connecting Forbesganj and Madhepura). Situated along the rural link highway traversing between Raniganj market and Forbesganj, visitors reach the forest enclave by turning north near the Hasanpur canal bridge. Prominent metal signposts erected by the Bihar Forest Department guide visitors directly along the shaded tamarind tree avenue leading to the primary entry gate, ticket booth, and vehicle parking plazas.",
+        "hi": "**रानीगंज वृक्ष वाटिका** (रानीगंज ट्री गार्डन एवं नेचर रिजर्व), ग्राम बालू धीमा, हसनपुर ग्राम पंचायत, रानीगंज प्रखंड, जिला अररिया, सीमांचल क्षेत्र, बिहार - 854334, भारत।\n\n*भौगोलिक पहचान, क्षेत्रीय पहुंच एवं दिशा-निर्देश:* यह विशाल प्राकृतिक वन अभयारण्य अररिया जिला समाहरणालय से लगभग 30 किलोमीटर पश्चिम दिशा में तथा फारबिसगंज-मधेपुरा को जोड़ने वाले राज्य राजमार्ग संख्या 77 (SH-77) से लगभग 25 किलोमीटर पूर्व में स्थित है। रानीगंज मुख्य बाजार से फारबिसगंज जाने वाले ग्रामीण संपर्क मार्ग पर आगे बढ़ते हुए हसनपुर नहर पुल के समीप उत्तर की ओर मुड़ने पर वाटिका का सुरम्य वन क्षेत्र प्रारंभ होता है। बिहार सरकार के वन विभाग द्वारा लगाए गए बड़े धातुई दिशा-सूचक बोर्ड आगंतुकों को इमली के पेड़ों से घिरे मुख्य प्रवेश द्वार, टिकट काउंटर और वाहन पार्किंग तक पहुंचाते हैं।"
+      },
+      "latitude": 26.0825,
+      "longitude": 87.2458,
+      "mapQuery": "Raniganj Vriksh Vatika, Hasanpur, Raniganj, Araria, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "day": "Monday",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Tuesday",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Wednesday",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Thursday",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Friday",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Saturday",
+          "open": "09:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Sunday",
+          "open": "09:00",
+          "close": "17:00"
+        }
+      ],
+      "entryFee": {
+        "amount": 20,
+        "currency": "INR",
+        "type": "paid"
+      },
+      "recommendedDurationMinutes": 150,
+      "bestTimeToVisit": {
+        "en": "November to February for crisp winter weather, active deer sightings, and vibrant migratory bird watching around the lake.",
+        "hi": "नवंबर से फरवरी तक का समय सुहावनी ठंड, हिरणों की सक्रियता और झील पर विदेशी प्रवासी पक्षियों के दर्शन हेतु सर्वोत्तम है।"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Accessible via the Araria–Raniganj State Road (approx. 30 km west of Araria town) and State Highway SH-77 connecting Forbesganj to Madhepura. Private rental taxis, shared Bolero jeeps, and regional mini-buses connect Raniganj market to Araria, Forbesganj, and Purnia regularly.",
+        "hi": "अररिया-रानीगंज मुख्य मार्ग (अररिया शहर से लगभग 30 किमी पश्चिम) तथा फारबिसगंज-मधेपुरा को जोड़ने वाले राज्य राजमार्ग SH-77 से सुगम। निजी टैक्सियाँ, बोलेरो जीपें और मिनी बसें रानीगंज को अररिया, फारबिसगंज और पूर्णिया से जोड़ती हैं।"
+      },
+      "railway": [
+        {
+          "name": {
+            "en": "Forbesganj Junction (FBG)",
+            "hi": "फारबिसगंज जंक्शन (FBG)"
+          },
+          "distanceKm": 28
+        },
+        {
+          "name": {
+            "en": "Araria Court Railway Station (ARQ)",
+            "hi": "अररिया कोर्ट रेलवे स्टेशन (ARQ)"
+          },
+          "distanceKm": 31
+        },
+        {
+          "name": {
+            "en": "Murli Ganj Railway Station (MRI)",
+            "hi": "मुरलीगंज रेलवे स्टेशन (MRI)"
+          },
+          "distanceKm": 36
+        }
+      ],
+      "airport": [
+        {
+          "name": {
+            "en": "Darbhanga Airport (DBR)",
+            "hi": "दरभंगा हवाई अड्डा (DBR)"
+          },
+          "distanceKm": 135
+        },
+        {
+          "name": {
+            "en": "Bagdogra International Airport, Siliguri (IXB)",
+            "hi": "बागडोगरा अंतर्राष्ट्रीय हवाई अड्डा, सिलीगुड़ी (IXB)"
+          },
+          "distanceKm": 175
+        },
+        {
+          "name": {
+            "en": "Jay Prakash Narayan International Airport, Patna (PAT)",
+            "hi": "जय प्रकाश नारायण अंतर्राष्ट्रीय हवाई अड्डा, पटना (PAT)"
+          },
+          "distanceKm": 285
+        }
+      ],
+      "localTransport": {
+        "en": "Shared auto-rickshaws, e-rickshaws, and motorcycle-taxis operate frequently between Raniganj town market chowk and the Vriksh Vatika entrance gate (approx. 4 km distance).",
+        "hi": "रानीगंज मुख्य बाजार चौक से वृक्ष वाटिका के प्रवेश द्वार (लगभग 4 किमी दूरी) के बीच शेयरिंग ऑटो, ई-रिक्शा और बाइक-टैक्सी निरंतर उपलब्ध रहते हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 10,
+        "max": 20,
+        "currency": "INR",
+        "note": {
+          "en": "Entry ticket is ₹20 for adults and ₹10 for children below 12 years. Parking fees range from ₹10 (two-wheelers) to ₹30 (four-wheelers).",
+          "hi": "प्रवेश टिकट वयस्कों के लिए ₹20 तथा 12 वर्ष से कम आयु के बच्चों के लिए ₹10 है। पार्किंग शुल्क दोपहिया के लिए ₹10 और चौपहिया के लिए ₹30 है।"
+        }
+      },
+      "localTransport": {
+        "min": 40,
+        "max": 350,
+        "currency": "INR",
+        "note": {
+          "en": "Shared jeep/auto fare from Araria to Raniganj is ₹40–₹50 per passenger; private cab rental is approximately ₹350–₹500.",
+          "hi": "अररिया से रानीगंज तक शेयरिंग जीप/ऑटो का किराया ₹40 से ₹50 प्रति यात्री है; निजी कैब का किराया लगभग ₹350 से ₹500 तक होता है।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": false,
+      "atm": false,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "moderate",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 2000,
+      "stairs": false,
+      "wheelchairAccessible": false,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "**Timing, Daylight Precautions & Wildlife Spotting Strategy:**\n\nBecause **Raniganj Vriksh Vatika** is an expansive 289-acre natural woodland with limited artificial lighting, visitors must plan their entry between **09:30 AM and 02:00 PM** to allow ample daylight for wandering through forest trails.\n\n- **Deer Sanctuary Etiquette:** When observing the spotted deer (*Chital*) in their wooded enclosures or watering points, refrain from making loud noises, whistling, or feeding outside food/plastics to the animals.\n- **Lakeside Bird Watching:** Carry a pair of binoculars and telephoto camera lenses to catch clear sights of winter migratory ducks, kingfishers, and herons nesting in the reeds around the central lake.\n- **Timely Exit:** Forest guards strictly commence gate closure procedures around **05:00 PM** before sunset for the safety of visitors and the protection of resident nocturnal wildlife.",
+        "hi": "**भ्रमण का उत्तम समय, वन्यजीव दर्शन एवं सुरक्षा निर्देश:**\n\nचूंकि **रानीगंज वृक्ष वाटिका** 289 एकड़ में फैला एक विस्तृत प्राकृतिक वन क्षेत्र है जहाँ भीतरी मार्गों पर कृत्रिम प्रकाश सीमित है, अतः पर्यटकों को प्रातः **09:30 बजे से दोपहर 02:00 बजे** के बीच प्रवेश कर लेना चाहिए ताकि सूर्यास्त से पहले पूरा भ्रमण हो सके।\n\n- **हिरण अभयारण्य की मर्यादा:** हिरणों (चीतल) को निहारते समय अत्यधिक शोर न मचाएं और उन्हें बाहर से कोई खाद्य सामग्री या प्लास्टिक की थैलियां बिल्कुल न खिलाएं।\n- **झील के किनारे पक्षी दर्शन:** सर्दियों के मौसम में दूरबीन (बाइनोकुलर्स) और टेलीफोटो कैमरा साथ रखें ताकि मध्य में स्थित प्राकृतिक झील के तट पर विचरण करने वाले प्रवासी पक्षियों और जलमुर्गियों का स्पष्ट अवलोकन किया जा सके।\n- **सूर्यास्त पूर्व वापसी:** वन्यजीवों की सुरक्षा और आगंतुकों की सुविधा हेतु वनरक्षक सायं **05:00 बजे** से पूर्व ही परिसर खाली कराने की प्रक्रिया शुरू कर देते हैं, अतः समय का ध्यान रखें।"
+      },
+      {
+        "en": "**Forest Walking Gear, Hydration & Environmental Safeguards:**\n\nNavigating through this expansive nature reserve requires suitable outdoor gear and strict adherence to conservation protocols:\n\n- **Footwear & Clothing:** Sturdy trekking shoes, hiking sneakers, or covered walking shoes are essential, as walking through forested trails may involve moist leaf litter, loose earth, and roots. Wear earthy-toned, breathable full-sleeved cotton clothing to protect against sun and insects.\n- **Carry Hydration & Light Snacks:** Ensure you bring sufficient drinking water and light refreshments in reusable containers, as food stalls are situated only near the main highway entrance and not inside the deep woods.\n- **Fire & Environmental Safety:** Lighting campfires, smoking, using matchsticks, and playing loud portable music speakers are strictly prohibited inside the forest to prevent wildfires and protect wildlife sanctity.",
+        "hi": "**पहनावा, आवश्यक सामग्री एवं वनीय सुरक्षा नियम:**\n\nइस विशाल प्राकृतिक जंगल में सुरक्षित और आरामदायक भ्रमण के लिए उचित तैयारी और वनीय अनुशासन का पालन आवश्यक है:\n\n- **जूते एवं परिधान:** जंगल के कच्चे रास्तों, घास और पत्तियों पर चलने के लिए मजबूत स्पोर्ट्स शूज या ट्रैकिंग जूते पहनें। मच्छरों और धूप से बचाव के लिए हल्के रंग के पूरी आस्तीन वाले सूती कपड़े पहनना उत्तम रहता है।\n- **पेयजल एवं जलपान साथ रखें:** अपने साथ पुन: प्रयोज्य बोतल में पीने का पर्याप्त पानी और हल्का नाश्ता अवश्य रखें, क्योंकि खान-पान की दुकानें केवल मुख्य द्वार के बाहर ही उपलब्ध हैं, जंगल के भीतर नहीं।\n- **अग्नि सुरक्षा एवं ध्वनि प्रदूषण:** वन क्षेत्र में बीड़ी-सिगरेट पीना, माचिस जलाना, खाना पकाना अथवा लाउडस्पीकर पर तेज संगीत बजाना पूर्णतः निषिद्ध है ताकि वनाग्नि से बचाव और वन्यजीवों की शांति बनी रहे।"
+      },
+      {
+        "en": "**Transportation Tactics, Fuel Planning & Regional Linkages:**\n\nRaniganj is situated approximately 30 km west of Araria town; strategic travel arrangements will ensure a smooth return journey:\n\n- **Vehicle & Fuel Assurance:** If driving your private car or riding a motorcycle, ensure your vehicle has a full fuel tank before leaving Araria town or Forbesganj, as fuel filling stations along rural link roads are spaced further apart.\n- **Pre-Arranged Return Transport:** If relying on local auto-rickshaws or shared jeeps, book your return journey in advance with the driver, as public transport frequencies drop noticeably after 04:30 PM near the forest gate.\n- **Circuit Connection:** Raniganj Vriksh Vatika can be seamlessly paired with visits to **Bio Diversity Park Kusiargaon** and **Maa Khadgeshwari Kali Mandir**, or extended westwards towards the historic Kosi river belt of Madhepura and Saharsa.",
+        "hi": "**यातायात व्यवस्था, ईंधन प्रबंधन एवं समीपवर्ती सर्किट:**\n\nरानीगंज अररिया जिला मुख्यालय से 30 किमी पश्चिम में स्थित है, अतः सुरक्षित वापसी हेतु पूर्व नियोजन आवश्यक है:\n\n- **ईंधन की पर्याप्तता:** यदि आप निजी कार या बाइक से आ रहे हैं, तो अररिया शहर या फारबिसगंज से ही टंकी फुल करवा लें, क्योंकि ग्रामीण संपर्क मार्गों पर पेट्रोल पंप कुछ दूरी पर स्थित हैं।\n- **वापसी की अग्रिम व्यवस्था:** यदि आप ऑटो-रिक्शा या लोकल जीप से आ रहे हैं, तो चालक से वापसी का समय पहले ही तय कर लें, क्योंकि सायं 04:30 बजे के बाद मुख्य मार्ग पर सार्वजनिक वाहनों की संख्या कम हो जाती है।\n- **पर्यटन सर्किट का विस्तार:** रानीगंज वृक्ष वाटिका के साथ आप **कुशियारगांव जैव विविधता पार्क** और अररिया नगर के **माँ खड्गेश्वरी मंदिर** का एक साथ भ्रमण कर सकते हैं अथवा यहाँ से मधेपुरा-सहरसा की ओर अपनी यात्रा का विस्तार कर सकते हैं।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "bio-diversity-park",
+      "khadgeshwari-kali-mandir"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        {
+          "title": "Araria District Official Portal - Raniganj Vriksh Vatika",
+          "organization": "District Administration Araria, Government of Bihar",
+          "url": "https://araria.nic.in/tourist-place/raniganj-vriksh-batika/"
+        },
+        {
+          "title": "Department of Environment, Forest and Climate Change",
+          "organization": "Government of Bihar",
+          "url": "https://forest.bih.nic.in/"
+        },
+        {
+          "title": "National Portal of India - Raniganj Vriksh Vatika Araria",
+          "organization": "Government of India",
+          "url": "https://india.gov.in/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  }
+]

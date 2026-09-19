@@ -1,0 +1,1331 @@
+[
+  {
+    "id": "kanwar-lake-bird-sanctuary",
+    "slug": "kanwar-lake-bird-sanctuary",
+    "name": {
+      "en": "Kanwar Lake Bird Sanctuary (Kabartal Wetland)",
+      "hi": "कांवर झील पक्षी अभयारण्य (काबरताल आर्द्रभूमि)"
+    },
+    "districtId": "begusarai",
+    "placeType": "wetland",
+    "primaryCategory": "wildlife",
+    "categories": [
+      "wildlife",
+      "natural",
+      "eco_tourism_site"
+    ],
+    "subcategories": [
+      "bird_sanctuary",
+      "ramsar_wetland",
+      "oxbow_lake",
+      "nature_reserve"
+    ],
+    "circuits": [
+      "eco_tourism_circuit",
+      "nature_and_wildlife_circuit",
+      "eco_circuit"
+    ],
+    "tags": [
+      "mustVisit",
+      "featured",
+      "ramsar_site_bihar",
+      "asia_largest_oxbow_lake",
+      "migratory_birds",
+      "biodiversity_hotspot",
+      "eco_tourism",
+      "birdwatching"
+    ],
+    "audiences": [
+      "nature_lovers",
+      "birdwatchers",
+      "photographers",
+      "researchers",
+      "families",
+      "ecotourists"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "Asia's largest freshwater oxbow lake and Bihar's pioneering first Ramsar site, sprawling over 2,620 hectares as a premier haven for migratory waterfowl.",
+      "hi": "एशिया की सबसे बड़ी मीठे पानी की गोखुर (ऑक्सबो) झील और बिहार का पहला रामसर स्थल, जो 2,620 हेक्टेयर में फैला प्रवासी जलपक्षियों का विश्वविख्यात स्वर्ग है।"
+    },
+    "description": {
+      "en": "**Kanwar Lake Bird Sanctuary** (widely recognized in global wetland registries as **Kabartal Wetland** or locally as *Kabar Taal*) is one of the most magnificent natural treasures of the Indian subcontinent, proudly distinguished as **Asia's largest freshwater oxbow lake** and **Bihar's very first Ramsar Site** (designated as Ramsar Site No. 2436 in November 2020).\n\nSprawling over an impressive **2,620 hectares** of perennial and seasonal wetlands in the Manjhaul subdivision of Begusarai district, this pristine ecological wonderland was formed thousands of years ago when the meandering Paleochannel of the sacred Burhi Gandak River shifted its natural course, leaving behind a crescent-shaped aquatic sanctuary.\n\n- **Biodiversity & Avian Wonderland:** The wetland ecosystem supports an extraordinary food web, harboring over **221 documented species of resident and migratory birds**, 50 indigenous fish species, and more than 165 diverse varieties of macrophytes and aquatic plants.\n- **Critical Central Asian Flyway Haven:** Every winter, between November and March, over **58 species of trans-continental migratory waterfowl** travel thousands of kilometers from the freezing steppes of Siberia, Mongolia, Central Asia, and the Tibetan Plateau to roost and forage in Kabartal's nutrient-dense waters.\n- **Ecological Buffer & Rural Livelihood:** Beyond its scenic and scientific allure, the lake serves as a vital hydrological sponge absorbing regional monsoon overflows, recharging groundwater aquifers, and sustaining traditional fishing and lotus-harvesting communities across dozens of surrounding villages.\n\nToday, Kanwar Lake stands as a globally acknowledged crown jewel for ornithologists, wildlife photographers, environmental conservationists, and nature enthusiasts seeking an untamed glimpse of Gangetic riparian wilderness.",
+      "hi": "**कांवर झील पक्षी अभयारण्य** (जिसे अंतरराष्ट्रीय स्तर पर **काबरताल वेटलैंड** तथा स्थानीय जनमानस में *काबर ताल* कहा जाता है) भारतीय उपमहाद्वीप के सबसे महत्वपूर्ण प्राकृतिक खजानों में से एक है। इसे **एशिया की सबसे बड़ी मीठे पानी की गोखुर (ऑक्सबो) झील** होने का अद्वितीय भौगोलिक गौरव और नवंबर 2020 में **बिहार का पहला रामसर स्थल (Ramsar Site No. 2436)** बनने का ऐतिहासिक सम्मान प्राप्त है।\n\nबेगूसराय जिला मुख्यालय से लगभग 22 किलोमीटर दूर मंझौल अनुमंडल में **2,620 हेक्टेयर (लगभग 67.5 वर्ग किलोमीटर आर्द्रभूमि बेसिन)** के विशाल भूभाग में फैली यह प्राकृतिक झील प्राचीन काल में पवित्र बूढ़ी गंडक नदी के विसर्पी प्रवाह (घुमावदार मोड़) के मार्ग बदलने से निर्मित हुई थी।\n\n- **अतुलनीय जैव विविधता एवं पक्षी अभयारण्य:** काबरताल का समृद्ध पारिस्थितिकी तंत्र 221 से अधिक दुर्लभ पक्षी प्रजातियों, 50 स्वदेशी मीठे पानी की मछलियों और 165 से अधिक जलीय वनस्पतियों को सुरक्षित जीवन चक्र प्रदान करता है।\n- **सेंट्रल एशियन फ्लाईवे का प्रमुख पड़ाव:** प्रत्येक वर्ष शीत ऋतु (नवंबर से मार्च) में साइबेरिया, मंगोलिया, मध्य एशिया और तिब्बती पठार से हजारों किलोमीटर की बर्फीली यात्रा तय करके 58 से अधिक प्रजातियों के प्रवासी जलपक्षी यहाँ डेरा डालते हैं।\n- **प्राकृतिक जल नियामक एवं आजीविका:** यह विशाल झील पूरे क्षेत्र में बाढ़ के अतिरिक्त पानी को सोखने, भूजल स्तर बनाए रखने और आसपास के दर्जनों गांवों के मल्लाह व किसान परिवारों को मछली पालन, कमल गट्टा व मखाना उत्पादन से आजीविका प्रदान करने का प्रमुख आधार है।\n\nयह रामसर वेटलैंड पक्षी प्रेमियों, पर्यावरण वैज्ञानिकों, शोधकर्ताओं और प्रकृति की गोद में सुकून तलाशते पर्यटकों के लिए भारत के सबसे उत्कृष्ट इको-टूरिज्म गंतव्यों में शुमार है।"
+    },
+    "history": {
+      "en": "The historical and geomorphological lineage of **Kanwar Lake (Kabartal Wetland)** intertwines ancient fluvial geography with modern international conservation milestones:\n\n- **Geological Origin:** Geologists establish that the lake emerged during the mid-Holocene era as a residual oxbow cut-off formed by the perennial migrations of the Burhi Gandak River across the North Bihar alluvial floodplain. The deep saucer-shaped depression naturally collected monsoon silt and nurtured self-sustaining marsh vegetation for millennia.\n- **Archaeological & Cultural Continuity:** Historical chronicles record that during the **Pala Empire (8th–12th century CE)** and the reign of regional Mithila chieftains, Kanwar Lake was revered as a fortified natural moat protecting sacred shrines. The elevated island mound of **Jaimangalagarh** inside the lake preserves Pala-period brick foundations, stone sculptures, and antique coins dating back over twelve centuries.\n- **State Protected Sanctuary (1986–1989):** Recognizing the catastrophic risks of commercial bird poaching and drainage encroachment, the Government of Bihar notified the lake as a protected wildlife area under Section 37 of the Wildlife Protection Act in 1986, followed by formal notification as a Bird Sanctuary by the Central Government in 1989.\n- **Global Ramsar Designation (2020):** After rigorous ecological evaluations under the UNESCO Ramsar Convention on Wetlands, Kabartal was officially christened as Bihar's first 'Wetland of International Importance' on July 21, 2020 (notified November 2020), catapulting Begusarai onto the global map of international wetland preservation and sustainable eco-tourism.",
+      "hi": "**कांवर झील (काबरताल)** का ऐतिहासिक और भू-आकृतिक उद्भव प्राचीन नदी तंत्र, स्थानीय राजवंशों के इतिहास और आधुनिक अंतरराष्ट्रीय पर्यावरण संरक्षण के महत्वपूर्ण चरणों से जुड़ा हुआ है:\n\n- **भूवैज्ञानिक उत्पत्ति:** भूवैज्ञानिकों के अनुसार इस विशाल गोखुर झील का निर्माण मध्य-होलोसीन काल में हुआ जब सदानीरा बूढ़ी गंडक नदी ने अपने बहाव का मार्ग बदला और बाढ़ के मैदान में यू-आकार (घोड़े की नाल के आकार) का एक विशाल प्राकृतिक जलाशय छोड़ दिया।\n- **ऐतिहासिक एवं पुरातात्विक निरंतरता:** पाल साम्राज्य (8वीं से 12वीं शताब्दी) के दौरान यह झील प्राकृतिक जलदुर्ग (खाई) की भांति कार्य करती थी। झील के केंद्र में स्थित ऊंचे टीले **जयमंगलागढ़** पर पाल कालीन मंदिर, काले पत्थर की प्रतिमाएं और 8वीं शताब्दी के दुर्लभ तांबे व चांदी के सिक्के मिले हैं, जो प्रमाणित करते हैं कि यह स्थल एक हजार वर्षों से अधिक समय से आध्यात्मिक व सामरिक केंद्र रहा है।\n- **वन्यजीव अभयारण्य का दर्जा (1986–1989):** प्रवासी पक्षियों के शिकार पर प्रतिबंध लगाने और झील के जलीय तंत्र को बचाने के लिए बिहार सरकार ने वर्ष 1986 में इसे वन्यजीव संरक्षण अधिनियम के तहत संरक्षित क्षेत्र घोषित किया, और वर्ष 1989 में भारत सरकार द्वारा इसे आधिकारिक तौर पर पक्षी अभयारण्य की मान्यता दी गई।\n- **अंतरराष्ट्रीय रामसर स्थल की मान्यता (2020):** वैश्विक जैव विविधता और पर्यावरण संरक्षण में इसके अतुलनीय योगदान को देखते हुए यूनेस्को के रामसर कन्वेंशन के तहत 2020 में काबरताल को 'अंतरराष्ट्रीय महत्व की आर्द्रभूमि' (बिहार का प्रथम रामसर स्थल, वैश्विक क्रम संख्या 2436) घोषित किया गया, जिसने बेगूसराय को अंतरराष्ट्रीय पर्यटन और शोध के नक्शे पर स्थापित कर दिया।"
+    },
+    "significance": {
+      "en": "The environmental, ornithological, and socio-economic significance of **Kanwar Lake Bird Sanctuary** extends far beyond regional borders:\n\n- **Global Sanctuary for Endangered Avifauna:** Kabartal provides life-saving sustenance to globally threatened and critically endangered bird species, including the **White-rumped Vulture (*Gyps bengalensis*)**, **Red-headed Vulture (*Sarcogyps calvus*)**, **Indian Vulture (*Gyps indicus*)**, **Baer's Pochard**, and the rare **Sociable Lapwing**, alongside thriving populations of Sarus cranes, bar-headed geese, and northern pintails.\n- **Hydrological Keystone of North Bihar:** Functioning as a giant natural reservoir in the low-lying Ganga-Gandak interfluvial basin, the wetland mitigates extreme regional flash floods during monsoons and acts as an immense freshwater recharge zone that prevents salinity and drought across agricultural hinterlands.\n- **Carbon Sink & Aquatic Nursery:** With its extensive beds of submerged macrophytes (*Hydrilla*, *Vallisneria*) and floating lotus colonies, the wetland sequesters massive atmospheric carbon volumes while serving as an indispensable spawning ground for commercial carp and endemic Gangetic catfish.\n- **Eco-Tourism & Scientific Research:** University botanists, zoologists, and international birding expeditions frequently converge at Kabartal to study migratory bird pathways, water chemistry, and ecological restoration models, generating local livelihood through eco-guiding and country boat rides.",
+      "hi": "**कांवर झील पक्षी अभयारण्य** का पारिस्थितिक, पक्षी-वैज्ञानिक और सामाजिक महत्व वैश्विक और राष्ट्रीय स्तर पर अत्यधिक प्रतिष्ठित है:\n\n- **संकटापन्न पक्षियों का जीवन रक्षक बसेरा:** काबरताल अंतरराष्ट्रीय प्रकृति संरक्षण संघ (IUCN) की लाल सूची में शामिल अत्यंत संकटग्रस्त पक्षियों का सुरक्षित आश्रय स्थल है। यहाँ **सफेद पीठ वाला गिद्ध**, **लाल सिर वाला गिद्ध**, **लंबी चोंच वाला गिद्ध**, दुर्लभ **बेयर्स पोचार्ड** और **सोशिएबल लैपविंग** के अतिरिक्त यूरेशियन कूट, लालसर, बार-हेडेड गूज (कलहंस) और राजहंस हजारों की संख्या में क्रीड़ा करते हैं।\n- **प्राकृतिक जल संचयन एवं बाढ़ नियंत्रण:** गंगा और बूढ़ी गंडक के दोआब क्षेत्र में स्थित यह प्राकृतिक कटोरा मॉनसून के दौरान आने वाले अतिरिक्त जलप्रवाह को समाहित कर विनाशकारी बाढ़ से दर्जनों बस्तियों की रक्षा करता है तथा पूरे जिले के भूजल स्तर को स्थिर रखता है।\n- **विशाल कार्बन सिंक एवं मत्स्य प्रजनन:** जलीय वनस्पतियों, कमल और कुमुदिनी से आच्छादित यह आर्द्रभूमि वायुमंडलीय कार्बन को सोखने वाला एक प्राकृतिक फेफड़ा है। साथ ही यह 50 से अधिक स्थानीय मछली प्रजातियों के प्राकृतिक प्रजनन और संवर्धन की आदर्श नर्सरी है।\n- **इको-टूरिज्म एवं वैज्ञानिक शोध केंद्र:** देश-विदेश के पक्षी विज्ञानी, वन्यजीव फोटोग्राफर और विश्वविद्यालयों के शोध दल यहाँ माइग्रेटरी बर्ड्स के व्यवहार और वेटलैंड इकोलॉजी का अध्ययन करने आते हैं, जिससे स्थानीय नाविकों और युवाओं के लिए हरित रोजगार के नए अवसर सृजित हो रहे हैं।"
+    },
+    "location": {
+      "address": {
+        "en": "**Kanwar Lake Bird Sanctuary (Kabartal Wetland)**, Manjhaul Sub-Division, Jaimangalagarh Lake Embankment Road, Post Office Manjhaul, Block Cheria Bariarpur, Begusarai District, Mithila-Anga Border Region, Bihar - 851127, India.\n\n*Geographic Orientation, Access Corridors & Visual Landmarks:* The sanctuary is situated approximately 22 kilometers northwest of Begusarai district administrative headquarters and roughly 12 kilometers east of Cheria Bariarpur railway halt. The primary tourist vantage points, observation watchtowers, and Forest Department inspection quarters are located adjacent to the historic Jaimangalagarh island causeway along State Highway SH-55 (Begusarai-Manjhaul-Rousera Road). Prominent bilingual iron signage and arched gateway boards installed by the Department of Environment, Forest and Climate Change clearly direct arriving travelers from the Manjhaul town roundabout directly toward the expansive lakeside parking and boat ghats.",
+        "hi": "**कांवर झील पक्षी अभयारण्य (काबरताल रामसर वेटलैंड)**, मंझौल अनुमंडल, जयमंगलागढ़ झील तटबंध मार्ग, डाकघर मंझौल, प्रखंड चेरिया बरियारपुर, बेगूसराय जिला, मिथिला-अंग सीमांत क्षेत्र, बिहार - 851127, भारत।\n\n*भौगोलिक स्थिति, सड़क संपर्क एवं विहंगम दृश्य:* यह विश्वविख्यात आर्द्रभूमि बेगूसराय जिला समाहरणालय से लगभग 22 किलोमीटर उत्तर-पश्चिम दिशा में और चेरिया बरियारपुर रेलवे हॉल्ट से 12 किलोमीटर पूर्व में स्थित है। पर्यटकों के लिए मुख्य नौकायन घाट, वन विभाग का आधुनिक वॉच टॉवर और निरीक्षण भवन मंझौल-जयमंगलागढ़ संपर्क मार्ग पर राज्य राजमार्ग संख्या 55 (SH-55 बेगूसराय-रोसड़ा पथ) के समीप पड़ते हैं। बिहार सरकार के पर्यावरण, वन एवं जलवायु परिवर्तन विभाग द्वारा स्थापित बड़े द्विभाषी स्वागत बोर्ड और तोरण द्वार मंझौल मुख्य गोलंबर से झील की ओर जाने वाले रास्तों पर आगंतुकों का सुगम मार्गदर्शन करते हैं।"
+      },
+      "latitude": 25.6267,
+      "longitude": 86.1472,
+      "mapQuery": "Kanwar Lake Bird Sanctuary, Manjhaul, Begusarai, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "day": "Monday",
+          "open": "06:00",
+          "close": "18:00"
+        },
+        {
+          "day": "Tuesday",
+          "open": "06:00",
+          "close": "18:00"
+        },
+        {
+          "day": "Wednesday",
+          "open": "06:00",
+          "close": "18:00"
+        },
+        {
+          "day": "Thursday",
+          "open": "06:00",
+          "close": "18:00"
+        },
+        {
+          "day": "Friday",
+          "open": "06:00",
+          "close": "18:00"
+        },
+        {
+          "day": "Saturday",
+          "open": "06:00",
+          "close": "18:00"
+        },
+        {
+          "day": "Sunday",
+          "open": "06:00",
+          "close": "18:00"
+        }
+      ],
+      "entryFee": {
+        "amount": 0,
+        "currency": "INR",
+        "type": "free"
+      },
+      "recommendedDurationMinutes": 180,
+      "bestTimeToVisit": {
+        "en": "November to February for optimal birdwatching, clear winter skies, and the presence of thousands of migratory waterfowl.",
+        "hi": "नवंबर से फरवरी तक का समय सर्वश्रेष्ठ पक्षी दर्शन, सुहावने शीतकालीन मौसम और हजारों विदेशी प्रवासी पक्षियों की उपस्थिति के लिए सर्वोत्तम है।"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Well-connected via State Highway SH-55 (Begusarai-Manjhaul-Rousera route). Private cabs, passenger autos, and regular minibuses operate frequently from Begusarai Bus Stand and Railway Station directly to Manjhaul market (22 km), from where cycle-rickshaws and auto-rickshaws reach the lake bank within 10 minutes.",
+        "hi": "राज्य राजमार्ग संख्या 55 (बेगूसराय-मंझौल-रोसड़ा मार्ग) द्वारा सुगम सड़क संपर्क। बेगूसराय बस स्टैंड और रेलवे स्टेशन से मंझौल बाजार (22 किमी) के लिए निजी टैक्सियां, ऑटो-रिक्शा और नियमित मिनी बसें निरंतर उपलब्ध रहती हैं, जहाँ से झील तट केवल 10 मिनट की दूरी पर है।"
+      },
+      "railway": [
+        {
+          "name": {
+            "en": "Begusarai Railway Station (BGS)",
+            "hi": "बेगूसराय रेलवे स्टेशन (BGS)"
+          },
+          "distanceKm": 23
+        },
+        {
+          "name": {
+            "en": "Barauni Junction (BJU)",
+            "hi": "बरौनी जंक्शन (BJU)"
+          },
+          "distanceKm": 35
+        },
+        {
+          "name": {
+            "en": "Rousera Ghat Railway Station (ROA)",
+            "hi": "रोसड़ा घाट रेलवे स्टेशन (ROA)"
+          },
+          "distanceKm": 28
+        }
+      ],
+      "airport": [
+        {
+          "name": {
+            "en": "Darbhanga Airport (DBR)",
+            "hi": "दरभंगा हवाई अड्डा (DBR)"
+          },
+          "distanceKm": 98
+        },
+        {
+          "name": {
+            "en": "Jay Prakash Narayan International Airport, Patna (PAT)",
+            "hi": "जयप्रकाश नारायण अंतरराष्ट्रीय हवाई अड्डा, पटना (PAT)"
+          },
+          "distanceKm": 138
+        }
+      ],
+      "localTransport": {
+        "en": "Shared auto-rickshaws, e-rickshaws, and private rental cars connect Begusarai city with Manjhaul. Traditional hand-paddled wooden country boats (naav) can be hired from local fishermen at Jaimangalagarh ghat for wetland excursions.",
+        "hi": "बेगूसराय नगर से मंझौल के लिए शेयरिंग ऑटो, ई-रिक्शा और निजी टैक्सियां सुलभ हैं। झील के भीतरी जल विस्तार में भ्रमण हेतु जयमंगलागढ़ घाट पर स्थानीय मछुआरों से पारंपरिक लकड़ी की देशी नावें किराए पर उपलब्ध रहती हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 0,
+        "max": 0,
+        "currency": "INR",
+        "note": {
+          "en": "General entry to the wetland and viewpoint embankments is completely free; hiring local wooden country boats costs approximately ₹300 to ₹600 for a 1-to-2 hour guided excursion.",
+          "hi": "आर्द्रभूमि और तटबंधों से पक्षी दर्शन पूर्णतः निःशुल्क है; स्थानीय देशी नाव से 1 से 2 घंटे के भ्रमण का शुल्क लगभग ₹300 से ₹600 तक रहता है।"
+        }
+      },
+      "localTransport": {
+        "min": 50,
+        "max": 500,
+        "currency": "INR",
+        "note": {
+          "en": "Shared auto from Begusarai to Manjhaul costs ₹40–₹50 per passenger; full reserved auto or private taxi charges ₹400–₹600 one-way.",
+          "hi": "बेगूसराय से मंझौल का शेयरिंग ऑटो किराया ₹40–₹50 प्रति व्यक्ति है; आरक्षित ऑटो अथवा निजी टैक्सी का एक तरफ का किराया ₹400–₹600 रहता है।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": false,
+      "atm": false,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "moderate",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 800,
+      "stairs": false,
+      "wheelchairAccessible": false,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "**Optimal Birdwatching Hours & High-Powered Optical Equipment:**\n\nTo experience the spellbinding avian spectacle of **Kanwar Lake**, schedule your arrival during early morning hours between **06:00 AM and 09:30 AM** or late afternoon between **03:30 PM and 05:30 PM**.\n\n- **Binoculars & Telephoto Lenses:** Migratory flocks congregate in the deeper reed beds away from human disturbances; carrying a good pair of binoculars (8x42 or 10x50) or a telephoto camera lens (minimum 300mm to 600mm) is absolutely indispensable for bird identification.\n- **Silent Movement on Country Boats:** When exploring the lake by hiring a traditional wooden boat, request the boatman to paddle gently without splashing; sudden noise or bright clothing will instantly startle skittish waterfowl flocks.\n- **Winter Morning Mist:** Dense fog is common throughout December and January; allow the morning mist to burn off around 07:30 AM for crystal-clear photography.",
+        "hi": "**सर्वश्रेष्ठ पक्षी दर्शन समय एवं ऑप्टिकल उपकरण संबंधी निर्देश:**\n\n**कांवर झील** में प्रवासी पक्षियों के अद्भुत नजारे को देखने के लिए प्रातः **06:00 बजे से 09:30 बजे** अथवा अपराह्न **03:30 बजे से 05:30 बजे** के बीच पहुँचना सबसे उपयुक्त है।\n\n- **दूरबीन और टेलीफोटो कैमरा लेंस:** विदेशी पक्षी मानव बस्तियों से दूर गहरे नरकट और जलकुंभी वाले क्षेत्रों में विचरण करते हैं; अतः पक्षियों की स्पष्ट पहचान के लिए उच्च क्षमता वाली दूरबीन (8x42 या 10x50) अथवा 300mm से 600mm का कैमरा लेंस साथ रखना अनिवार्य है।\n- **शांत नौकायन का महत्व:** स्थानीय देशी नाव में भ्रमण करते समय नाविक से चप्पू धीरे चलाने का आग्रह करें; तेज आवाज और चटक रंग के वस्त्र शर्मीले जलपक्षियों को डराकर उड़ा देते हैं, अतः हल्के या खाकी रंग के कपड़े पहनें।\n- **शीतकालीन कोहरा:** दिसंबर और जनवरी में सुबह घना कोहरा छाया रहता है; स्पष्ट दृश्य और उत्कृष्ट फोटोग्राफी के लिए सुबह 7:30 बजे के बाद जब धूप खिल जाए तब नौकायन प्रारंभ करें।"
+      },
+      {
+        "en": "**Eco-Sensitive Conduct & Wetland Preservation Etiquette:**\n\nKabartal is an internationally protected Ramsar sanctuary maintaining fragile ecological balances; every responsible traveler must follow strict environmental protocol:\n\n- **Zero-Plastic & Anti-Littering Mandate:** Carrying single-use plastic bags, disposable water pouches, or snack wrappers into the lake area is strictly discouraged; carry back all personal trash to district disposal bins.\n- **Complete Ban on Hunting & Disturbance:** Bird trapping, fishing in core restricted breeding reserves, or using loud music systems and drones without statutory forest clearances is strictly illegal and subject to severe penalties under the Wildlife Protection Act.\n- **Footwear & Field Clothing:** The marshy shoreline can be damp and muddy depending on seasonal water fluctuations; wear sturdy waterproof hiking boots or grip-soled walking sneakers along the muddy embankment trails.",
+        "hi": "**पर्यावरण संवेदनशीलता एवं रामसर वेटलैंड संरक्षण आचार संहिता:**\n\nकाबरताल अंतरराष्ट्रीय महत्व का संरक्षित रामसर स्थल है, जहाँ के नाजुक पारिस्थितिकी संतुलन की रक्षा करना प्रत्येक जागरूक पर्यटक का नैतिक कर्तव्य है:\n\n- **प्लास्टिक मुक्त क्षेत्र:** झील के जलक्षेत्र अथवा तटबंधों पर प्लास्टिक की थैलियां, डिस्पोजल कप या चिप्स के खाली पैकेट कतई न फेंकें; अपना सारा कचरा वापस लाकर मंझौल या बेगूसराय के कूड़ेदानों में ही डालें।\n- **शिकार व शोरगुल पर पूर्ण प्रतिबंध:** पक्षियों को डराना, पत्थर मारना, प्रतिबंधित क्षेत्रों में अवैध जाल डालना अथवा ध्वनि विस्तारक यंत्र (स्पीकर) व अनधिकृत ड्रोन उड़ाना वन्यजीव संरक्षण कानून के तहत गंभीर दंडनीय अपराध है।\n- **उपयुक्त जूते एवं परिधान:** झील के किनारे और बांध के रास्ते मौसम के अनुसार कीचड़युक्त व नम हो सकते हैं; इसलिए फिसलन से बचने के लिए मजबूत ग्रिप वाले वाटरप्रूफ जूते या स्पोर्ट्स स्नीकर्स पहनकर ही भ्रमण करें।"
+      },
+      {
+        "en": "**Logistics, Fooding & Comprehensive Begusarai Itinerary:**\n\nPlanning your travel logistics thoughtfully ensures a memorable and comfortable journey across the district's northern belt:\n\n- **Drinking Water & Food Supplies:** Pack energy bars, dry fruits, and insulated water flasks from Begusarai city or Manjhaul bazaar, as permanent tourist restaurants are not established along the wild lake periphery.\n- **Cash Requirements:** Ensure you carry adequate paper currency (₹100 and ₹500 notes) to pay local boatmen, auto drivers, and tea stalls, as remote mobile internet signals around the lake basin can experience sporadic network blind spots.\n- **Integrated Begusarai Day Tour:** Pair your morning birdwatching at Kanwar Lake with an immediate visit to the adjoining ancient **Jaimangalagarh Temple (5 minutes away)**, followed by an afternoon heritage stop at **Naulakha Mandir** in Begusarai city for a rich full-day excursion.",
+        "hi": "**खान-पान, नकद राशि एवं संपूर्ण बेगूसराय पर्यटन सर्किट:**\n\nअपनी यात्रा योजना को पहले से सुव्यवस्थित करके आप इस सुरम्य ग्रामीण अंचल में एक आरामदायक और आनंददायक दिन बिता सकते हैं:\n\n- **पेयजल एवं खान-पान की पूर्व तैयारी:** झील के वन्य किनारे पर कोई बड़े होटल या आधुनिक कैफे नहीं हैं; अतः बेगूसराय शहर अथवा मंझौल बाजार से ही सीलबंद पेयजल की बोतलें, फल और हल्का नाश्ता अपने साथ अवश्य रख लें।\n- **नकद राशि की अनिवार्यता:** स्थानीय नाविकों को नौकायन शुल्क देने, ऑटो किराए और जलपान के लिए पर्याप्त नकद नोट (₹50, ₹100, ₹500) साथ रखें, क्योंकि झील के खुले जल विस्तार में कभी-कभी मोबाइल इंटरनेट नेटवर्क कमजोर हो जाता है।\n- **एकदिवसीय बेगूसराय दर्शन सर्किट:** अपनी यात्रा को परिपूर्ण बनाने के लिए सुबह कांवर झील में पक्षी दर्शन और नौकायन करें, उसके तुरंत बाद तट पर स्थित 1200 वर्ष पुराने **माँ जयमंगलागढ़ मंदिर** के दर्शन करें, और दोपहर बाद बेगूसराय नगर के भव्य **नौलखा मंदिर** का भ्रमण करें।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "jaimangalagarh-temple",
+      "naulakha-temple",
+      "baba-hari-giri-dham"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        {
+          "title": "Kabartal Wetland - Ramsar Sites Information Service",
+          "organization": "Ramsar Convention on Wetlands Secretariat",
+          "url": "https://rsis.ramsar.org/ris/2436"
+        },
+        {
+          "title": "Kanwar Lake Bird Sanctuary",
+          "organization": "Bihar Tourism, Government of Bihar",
+          "url": "https://tourism.bihar.gov.in/en/destinations/begusarai/kanwar-lake"
+        },
+        {
+          "title": "Begusarai District Official Portal - Tourist Places",
+          "organization": "District Administration Begusarai, Government of Bihar",
+          "url": "https://begusarai.nic.in/tourist-place/kawar-lake-bird-sanctuary/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "jaimangalagarh-temple",
+    "slug": "jaimangalagarh-temple",
+    "name": {
+      "en": "Maa Jaimangla Garh Temple & Ancient Fort",
+      "hi": "माँ जयमंगला गढ़ मंदिर एवं प्राचीन दुर्ग"
+    },
+    "districtId": "begusarai",
+    "placeType": "temple",
+    "primaryCategory": "religious",
+    "categories": [
+      "religious",
+      "heritage",
+      "historical",
+      "archaeological_site"
+    ],
+    "subcategories": [
+      "shakti_peeth",
+      "pala_dynasty_monument",
+      "island_fort",
+      "hindu_temple"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "shakti_circuit",
+      "heritage_circuit",
+      "mithila_cultural_circuit",
+      "buddhist_circuit",
+      "eco_circuit"
+    ],
+    "tags": [
+      "mustVisit",
+      "featured",
+      "pala_empire_heritage",
+      "shaktipeeth",
+      "island_sanctuary",
+      "ancient_fort",
+      "chandi_temple",
+      "archaeological_relics"
+    ],
+    "audiences": [
+      "pilgrims",
+      "history_buffs",
+      "archaeologists",
+      "families",
+      "photographers",
+      "culture_enthusiasts"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "An ancient Shakti shrine and fortified archaeological island mound dating to the Pala Empire, set within Kanwar Lake and dedicated to Goddess Chandi Jaimangla.",
+      "hi": "कांवर झील के बीच एक प्राचीन पुरातात्विक टीले पर स्थित पाल कालीन शक्तिपीठ व ऐतिहासिक दुर्ग, जो माँ चंडी जयमंगला को समर्पित है।"
+    },
+    "description": {
+      "en": "**Maa Jaimangla Garh Temple** (also revered in Mithila lore as **Jaimangalagarh** or *Maa Chandi Mangla Dham*) is a profoundly sacred Hindu pilgrimage destination and an awe-inspiring archaeological site located upon a lofty wooded island mound rising out of the vast waters of **Kanwar Lake** in Begusarai's Manjhaul region.\n\nDeeply revered across Eastern India as an auspicious Shakta sanctuary affiliated with the **51 sacred Shakti Peethas**, the temple enshrines an exquisitely carved ancient deity of **Maa Chandi Mangla Devi** sculpted from glistening black basalt stone (*Kasauti Patthar*), depicting the divine mother seated in blessing posture with maternal grace.\n\n- **Fortified Island Citadel:** The name 'Garh' signifies that this naturally elevated island served as an impregnable military fortress and religious sanctuary surrounded by water moats during the rule of the Pala Emperors and medieval Mithila Karnata kings.\n- **Archaeological Antiquity:** Explorations by regional archaeologists have revealed extensive burnt-brick defensive fortifications, decorative stone panels, terracotta figurines, and ancient coins, establishing over 1,500 years of continuous cultural and devotional life.\n- **Lush Ecological Sanctuary:** Shrouded by towering banyan, peepal, and tamarind groves, the temple campus is renowned for its harmonious coexistence with hundreds of sacred monkeys (*Rhesus macaques*), lending the historic mound its endearing nickname of *Monkey Island*.\n\nEvery Tuesday, Saturday, and throughout the auspicious Navratri festivals, tens of thousands of devotees assemble here to seek divine blessings, offer red silk chunris, and experience profound spiritual peace amidst nature's quiet waters.",
+      "hi": "**माँ जयमंगला गढ़ मंदिर** (मिथिला और अंग क्षेत्र में **जयमंगलागढ़** अथवा *माँ चंडी मंगला धाम* के नाम से प्रसिद्ध) बिहार के सर्वाधिक पावन शक्तिपीठों और विस्मयकारी पुरातात्विक स्थलों में से एक है। यह पावन तीर्थ बेगूसराय के मंझौल अंचल में विशाल **कांवर झील के मध्य एक ऊंचे प्राकृतिक टीले (द्वीप)** पर घने वनों के बीच प्रतिष्ठित है।\n\nपौराणिक मान्यताओं के अनुसार इसे माता सती के पावन **51 शक्तिपीठों** में अत्यंत महत्वपूर्ण स्थान प्राप्त है (जहाँ देवी का भाल अथवा आभूषण गिरने की लोक आस्था है)। मंदिर के गर्भगृह में काले कसौटी पत्थर पर उत्कीर्ण **माँ चंडी मंगला देवी** की अत्यंत तेजस्वी व सौम्य प्राचीन प्रतिमा स्थापित है, जिनके दर्शन मात्र से भक्तों की समस्त मनोकामनाएं पूर्ण होती हैं।\n\n- **प्राकृतिक जलदुर्ग की भव्यता:** 'गढ़' शब्द इस तथ्य का प्रमाण है कि पाल साम्राज्य और कर्नाट वंशीय मिथिला नरेशों के काल में यह स्थल चारों ओर से काबरताल के जल से सुरक्षित एक अजेय सैन्य किला और आध्यात्मिक साधना केंद्र हुआ करता था।\n- **पुरातात्विक धरोहर एवं प्राचीन ईंट संरचनाएं:** टीले की खुदाई में 6वीं से 10वीं शताब्दी के गुप्त एवं पाल युगीन पक्की ईंटों के परकोटे, बौद्ध व हिंदू मूर्तियां और प्राचीन सिक्के प्राप्त हुए हैं, जो इस स्थल के गौरवशाली इतिहास को प्रमाणित करते हैं।\n- **घना वनाच्छादित परिसर एवं बंदरों का बसेरा:** विशाल बरगद, पीपल और इमली के प्राचीन वृक्षों से आच्छादित यह पवित्र परिसर सैकड़ों की संख्या में निवास करने वाले बंदरों के लिए भी प्रसिद्ध है, जिसके कारण इसे स्थानीय स्तर पर आत्मीयता से 'मंकी आइलैंड' भी कहा जाता है।\n\nप्रत्येक मंगलवार, शनिवार और शारदीय व चैत्र नवरात्र के पावन दिनों में यहाँ लाखों श्रद्धालु माता के चरणों में लाल चुनरी, सिंदूर और नारियल अर्पित कर अखंड सुख-समृद्धि की मन्नत मांगते हैं।"
+    },
+    "history": {
+      "en": "The historical saga of **Jaimangla Garh** spans more than two millennia, intertwining classical dynastic history with spiritual folklore:\n\n- **Early Foundations & Pala Dynasty (9th–10th Century CE):** Epigraphical and sculptural evidence indicates that the current stone idol and original brick sanctum were consecrated during the zenith of the **Pala Empire** under Emperor Dharmapala or Devapala. Pala sovereigns, who patronized both Mahayana Buddhism and Tantric Shaktism across Magadha and Anga-Mithila, established this fortified lakeside hermitage.\n- **Numismatic & Archaeological Discoveries:** Extensive exploratory trenches conducted by historians and the Department of Archaeology unearthed copper and silver coins dating back to **721 CE**, terracotta seals bearing Brahmi-derived Gupta scripts, and intact black stone carvings of Avalokiteshvara, Tara, and Vishnu, now conserved at the Patna Museum and the Archaeological Museum of G.D. College, Begusarai.\n- **Medieval Oinwar Dynasty Renovation (15th Century):** During the 15th century, the celebrated Oinwar rulers of Mithila restored the inner temple sanctum, reinstating elaborate Shakta rituals and traditional temple land grants.\n- **Modern Restoration by Babu Noonos (1894):** In the late 19th century, Babu Noonos of the Shakarpura Zamindari estate financed a comprehensive masonry reconstruction of the outer mandapa and protective boundary walls, preserving the shrine for future generations.\n- **Jaimangalagarh Mahotsav:** Today, the Begusarai District Administration hosts the annual state-sponsored *Jaimangalagarh Mahotsav*, celebrating this living bridge between Mithila's artistic antiquity and living faith.",
+      "hi": "**जयमंगला गढ़** का ऐतिहासिक गौरव दो सहस्राब्दियों से अधिक पुराना है, जहाँ प्राचीन भारतीय राजवंशों की गाथाएं और तांत्रिक शाक्त परंपराएं एक साथ जीवंत होती हैं:\n\n- **पाल साम्राज्य कालीन स्थापना (9वीं-10वीं शताब्दी):** मूर्तिकला और पुरातात्विक प्रमाणों से सिद्ध होता है कि वर्तमान देवी प्रतिमा और मूल मंदिर संरचना का निर्माण **पाल वंश** के प्रतापी राजाओं (संभवतः धर्मपाल अथवा देवपाल) के शासनकाल में हुआ था। पाल शासकों ने अंग और मिथिला के सीमांत पर स्थित इस रणनीतिक द्वीप को शक्ति उपासना और सैन्य सुरक्षा दोनों के लिए विकसित किया।\n- **सिक्के और पुरातात्विक उत्खनन:** इतिहासकारों और जी.डी. कॉलेज बेगूसराय के पुरातत्व विभाग द्वारा किए गए सर्वेक्षणों में यहाँ से **ईस्वी सन् 721 के प्राचीन सिक्के**, गुप्त युगीन मृण्मूर्तियां, मिट्टी की मुहरें तथा भगवान विष्णु और बौद्ध देवी तारा की पाल युगीन काले पत्थर की मूर्तियां मिली हैं, जो वर्तमान में पटना संग्रहालय और स्थानीय संग्रहालय में सुरक्षित हैं।\n- **ओइनवार वंश द्वारा जीर्णोद्धार (15वीं शताब्दी):** 15वीं शताब्दी में मिथिला के प्रसिद्ध ओइनवार राजवंश के शासकों ने इस पावन मंदिर का भव्य जीर्णोद्धार कराया और नियमित पूजा-अर्चना के लिए भूमि दान दी।\n- **शकरपुरा रियासत का योगदान (1894):** 19वीं शताब्दी के अंत में शकरपुरा रियासत के प्रतिष्ठित जमींदार बाबू नूनोस ने मंदिर के बाहरी मंडप और परकोटे की पक्की मरम्मत करवाई, जिससे यह ऐतिहासिक धरोहर सुरक्षित बनी रही।\n- **जयमंगलागढ़ महोत्सव:** वर्तमान में बेगूसराय जिला प्रशासन द्वारा प्रतिवर्ष यहाँ राजकीय स्तर पर 'जयमंगलागढ़ महोत्सव' का भव्य आयोजन किया जाता है, जिसमें बिहार के शीर्ष कलाकार और लोक संस्कृति प्रेमी भाग लेते हैं।"
+    },
+    "significance": {
+      "en": "The spiritual, historical, and mythological stature of **Maa Jaimangla Garh** holds immense reverence across North and Eastern India:\n\n- **Potent Siddha Shaktipeeth:** Believed by generations of devotees to be one of the revered Shakta energy centers where spiritual austerities (*Sadhana*) yield immediate fruit, the temple is regarded as the protective kuladevi (guardian goddess) of Begusarai and the wider Mithila-Anga borderland.\n- **Archaeological Treasure Trove:** As an unexcavated stratified archaeological mound spanning dozens of acres under thick foliage, Jaimangla Garh is regarded by historians as a potential twin to Nalanda and Vikramshila in revealing urban transition patterns from the Gupta period to the late Pala era.\n- **Symbol of Religious Harmony:** The historical presence of both Shaivite-Shakta iconography and Mahayana Buddhist artifacts at the mound reflects an inspiring era of syncretic co-existence between Buddhist and Sanatana traditions in ancient Bihar.\n- **Cultural & Festal Epicenter:** During the Chaitra and Sharadiya Navratri festivals, the entire Kanwar Lake island resonates with Vedic chants, traditional Maithili devotional songs (*Bhagwati Vandana*), and vibrant rural fairs that reinforce community bonding across social spectra.",
+      "hi": "**माँ जयमंगला गढ़** का आध्यात्मिक, ऐतिहासिक और सांस्कृतिक महत्व संपूर्ण पूर्वी भारत में अत्यंत श्रद्धा के साथ स्वीकार किया जाता है:\n\n- **सिद्ध शक्तिपीठ एवं मनोकामना धाम:** सदियों से चली आ रही लोक मान्यता के अनुसार यह एक जाग्रत सिद्ध पीठ है, जहाँ की गई तांत्रिक व वैदिक साधनाएं शीघ्र फलित होती हैं। माँ जयमंगला को बेगूसराय और सीमावर्ती मिथिला-अंग प्रदेश की प्रमुख कुलदेवी व रक्षक अधिष्ठात्री माना जाता है।\n- **अतुल्य पुरातात्विक भंडार:** दर्जनों एकड़ में फैले इस वनाच्छादित पुरातात्विक टीले के गर्भ में गुप्त, कुषाण और पाल काल की अनेक प्राचीन सभ्यताएं समाई हुई हैं। पुरातत्वविदों का मानना है कि यदि इसका संपूर्ण वैज्ञानिक उत्खनन कराया जाए तो यह प्राचीन बिहार के इतिहास में विक्रमशिला और नालंदा जैसा महत्वपूर्ण अध्याय जोड़ सकता है।\n- **धार्मिक समन्वय का प्रतीक:** टीले से हिंदू देवी-देवताओं के साथ-साथ बौद्ध धर्म की वज्रयान शाखा की मूर्तियों का मिलना यह प्रमाणित करता है कि प्राचीन काल में यहाँ सनातन और बौद्ध धर्म के अनुयायी पूर्ण सौहार्द के साथ निवास करते थे।\n- **सांस्कृतिक एवं लोक आस्था का महापर्व:** शारदीय व चैत्र नवरात्र के अवसर पर यहाँ विशाल मेले का आयोजन होता है, जहाँ पारंपरिक मैथिली भगवती वंदना, लोकगीत और शंख-घंटियों की दिव्य ध्वनि से पूरा काबरताल क्षेत्र भक्तिरस में सराबोर हो उठता है।"
+    },
+    "location": {
+      "address": {
+        "en": "**Maa Jaimangla Garh Temple**, Kanwar Lake Island Mound, Post Office Manjhaul, Block Cheria Bariarpur / Manjhaul Subdivision, District Begusarai, Bihar - 851127, India.\n\n*Geographic Orientation, Access & Setting:* The temple sanctuary is located on a prominent elevated forested mound rising directly out of the western shore of Kanwar Lake, approximately 23 kilometers northwest of Begusarai district center and 3 kilometers north of the Manjhaul Sub-Divisional Hospital and bazaar. Visitors take the paved rural approach road branching off from State Highway SH-55 at Manjhaul, which leads directly across the causeway bundh to the temple welcome archway and parking plaza nestled under expansive banyan canopies.",
+        "hi": "**माँ जयमंगला गढ़ मंदिर**, काबरताल द्वीप टीला, डाकघर मंझौल, प्रखंड चेरिया बरियारपुर / मंझौल अनुमंडल, बेगूसराय जिला, बिहार - 851127, भारत।\n\n*भौगोलिक स्थिति, पहुँच मार्ग एवं प्राकृतिक परिवेश:* यह पावन मंदिर बेगूसराय जिला मुख्यालय से लगभग 23 किलोमीटर उत्तर-पश्चिम में और मंझौल अनुमंडल अस्पताल व बाजार से 3 किलोमीटर उत्तर दिशा में कांवर झील के सुरम्य तट पर एक ऊंचे हरे-भरे टीले पर स्थित है। राज्य राजमार्ग संख्या 55 (SH-55) से मंझौल बाजार के पास से एक पक्की सड़क सीधे मंदिर के मुख्य प्रवेश द्वार तक जाती है, जो कांवर झील के बंधे से होकर गुजरती है और विशाल वटवृक्षों की सुखद छाया में समाप्त होती है।"
+      },
+      "latitude": 25.596,
+      "longitude": 86.136,
+      "mapQuery": "Maa Jaimangla Garh Temple, Manjhaul, Begusarai, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "day": "Monday",
+          "open": "05:00",
+          "close": "20:00"
+        },
+        {
+          "day": "Tuesday",
+          "open": "04:30",
+          "close": "21:00"
+        },
+        {
+          "day": "Wednesday",
+          "open": "05:00",
+          "close": "20:00"
+        },
+        {
+          "day": "Thursday",
+          "open": "05:00",
+          "close": "20:00"
+        },
+        {
+          "day": "Friday",
+          "open": "05:00",
+          "close": "20:00"
+        },
+        {
+          "day": "Saturday",
+          "open": "04:30",
+          "close": "21:00"
+        },
+        {
+          "day": "Sunday",
+          "open": "05:00",
+          "close": "20:00"
+        }
+      ],
+      "entryFee": {
+        "amount": 0,
+        "currency": "INR",
+        "type": "free"
+      },
+      "recommendedDurationMinutes": 90,
+      "bestTimeToVisit": {
+        "en": "October to March for pleasant outdoor weather, and during Navratri or Tuesdays and Saturdays for spiritually charged traditional rituals.",
+        "hi": "अक्टूबर से मार्च तक का समय सुहावने मौसम के लिए, तथा नवरात्र अथवा मंगलवार और शनिवार का दिन विशेष तांत्रिक व पारंपरिक अनुष्ठानों के दर्शन के लिए सर्वोत्तम है।"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Approachable via State Highway SH-55 connecting Begusarai and Rousera. Direct autos, shared jeeps, and passenger buses run every 15 minutes between Begusarai Bus Stand and Manjhaul (22 km), from where continuous e-rickshaws reach the temple gates within 7 minutes.",
+        "hi": "बेगूसराय और रोसड़ा को जोड़ने वाले राज्य राजमार्ग संख्या 55 द्वारा सुगम आवागमन। बेगूसराय बस स्टैंड से मंझौल (22 किमी) के लिए हर 15 मिनट में सीधी बसें, जीप और ऑटो उपलब्ध हैं, जहाँ से ई-रिक्शा द्वारा केवल 7 मिनट में मंदिर पहुँचा जा सकता है।"
+      },
+      "railway": [
+        {
+          "name": {
+            "en": "Begusarai Railway Station (BGS)",
+            "hi": "बेगूसराय रेलवे स्टेशन (BGS)"
+          },
+          "distanceKm": 24
+        },
+        {
+          "name": {
+            "en": "Barauni Junction (BJU)",
+            "hi": "बरौनी जंक्शन (BJU)"
+          },
+          "distanceKm": 36
+        },
+        {
+          "name": {
+            "en": "Rousera Ghat Railway Station (ROA)",
+            "hi": "रोसड़ा घाट रेलवे स्टेशन (ROA)"
+          },
+          "distanceKm": 26
+        }
+      ],
+      "airport": [
+        {
+          "name": {
+            "en": "Darbhanga Airport (DBR)",
+            "hi": "दरभंगा हवाई अड्डा (DBR)"
+          },
+          "distanceKm": 96
+        },
+        {
+          "name": {
+            "en": "Jay Prakash Narayan International Airport, Patna (PAT)",
+            "hi": "जयप्रकाश नारायण अंतरराष्ट्रीय हवाई अड्डा, पटना (PAT)"
+          },
+          "distanceKm": 140
+        }
+      ],
+      "localTransport": {
+        "en": "Local e-rickshaws, shared autos, and rental taxis are abundantly available at Manjhaul chowk. During winter high-water seasons, country boats can also be chartered to approach the temple island across the shimmering lake.",
+        "hi": "मंझौल चौक पर स्थानीय ई-रिक्शा, शेयरिंग ऑटो और किराये की टैक्सियाँ प्रचुरता में मिलती हैं। शीतकाल में जब झील में पानी का स्तर अच्छा होता है, तो कांवर झील में नाव की सवारी करते हुए भी इस पावन द्वीप तक पहुँचा जा सकता है।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 0,
+        "max": 0,
+        "currency": "INR",
+        "note": {
+          "en": "Darshan is free for all pilgrims; optional puja offerings (prasad, coconut, chunri, incense) cost ₹50 to ₹200 at authorized sanctum stalls.",
+          "hi": "मंदिर में दर्शन पूर्णतः निःशुल्क है; गर्भगृह के बाहर पूजा सामग्री (प्रसाद, नारियल, चुनरी, सिंदूर) की थाली ₹50 से ₹200 में उपलब्ध रहती है।"
+        }
+      },
+      "localTransport": {
+        "min": 40,
+        "max": 400,
+        "currency": "INR",
+        "note": {
+          "en": "Shared auto from Begusarai to Manjhaul costs ₹40; local e-rickshaw from Manjhaul to temple costs ₹15; reserved auto costs ₹350–₹450.",
+          "hi": "बेगूसराय से मंझौल शेयरिंग ऑटो ₹40; मंझौल से मंदिर तक ई-रिक्शा ₹15; बेगूसराय से सीधा आरक्षित ऑटो ₹350–₹450 तक रहता है।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": false,
+      "atm": false,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 300,
+      "stairs": true,
+      "wheelchairAccessible": false,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "**Temple Etiquette & Sacred Monkey Colony Awareness:**\n\nTo ensure a peaceful and spiritually enriching pilgrimage to **Maa Jaimangla Garh**, visitors should observe traditional sanctum customs and forest guidelines:\n\n- **Mindfulness with Resident Monkeys:** The forested temple precinct is home to hundreds of resident monkeys (*Rhesus macaques*) who are considered sacred guards of the goddess; keep all shiny objects, eyeglasses, mobile phones, and food packets safely inside zipped backpacks, and avoid teasing or feeding them directly by hand.\n- **Traditional Offering Rituals:** Devotees traditionally offer fresh red hibiscus flowers (*Arhul*), holy vermillion, sweets (*Peda*), and red silk scarves (*Chunri*) to the goddess; reputable certified stalls inside the main courtyard provide pre-packed puja platters at fixed rates.\n- **Dress Code & Modesty:** As an ancient orthodox Shaktipeeth, visitors should dress conservatively with shoulders and knees covered, and remove footwear at the dedicated shoe stands before entering the inner marble mandapa.",
+        "hi": "**मंदिर मर्यादा एवं वानर समूह संबंधी आवश्यक सावधानियां:**\n\n**माँ जयमंगला गढ़** की अपनी तीर्थयात्रा को सुरक्षित और सुखद बनाने के लिए श्रद्धालुओं को मंदिर की मर्यादा और स्थानीय परिवेश के नियमों का पालन करना चाहिए:\n\n- **बंदरों से सावधानी:** मंदिर के आसपास के घने जंगलों में सैकड़ों की संख्या में बंदर रहते हैं, जिन्हें देवी का सेवक माना जाता है। अपने चश्मे, मोबाइल फोन, प्रसाद की थैलियां और चमकीली वस्तुएं बैग के भीतर सुरक्षित रखें और बंदरों को हाथ से प्रत्यक्ष रूप से कुछ खिलाने या छेड़ने का प्रयास न करें।\n- **पारंपरिक पूजन सामग्री:** माता के पूजन में लाल अड़हुल (गुड़हल) का फूल, शुद्ध सिंदूर, पेड़ा और लाल चुनरी अर्पित करने की विशेष परंपरा है; परिसर के मुख्य द्वार पर स्थित अधिकृत दुकानों से उचित मूल्य पर पूजन थाली प्राप्त की जा सकती है।\n- **मर्यादित वेशभूषा:** यह एक अति प्राचीन और जाग्रत शक्तिपीठ है, अतः शालीन व पारंपरिक वस्त्र पहनकर ही मंदिर परिसर में प्रवेश करें और गर्भगृह के मुख्य द्वार के बाहर बने जूता स्टैंड पर जूते-चप्पल उतार दें।"
+      },
+      {
+        "en": "**Auspicious Days, Aarti Timings & Navratri Celebrations:**\n\nPlanning your visit around key liturgical schedules enhances the depth of your spiritual immersion:\n\n- **Peak Auspicious Days:** Tuesdays and Saturdays witness special Tantric rituals and Maha Aarti; visiting before **07:30 AM** or during the evening twilight Aarti at **06:30 PM** allows one to experience devotional tranquility without the heavy afternoon pilgrim rush.\n- **Navratri Pilgrimage:** During the twice-yearly Navratri festivals (March–April and September–October), the temple complex hosts round-the-clock Vedic rituals, animal-release customs, and a massive vibrant rural fair (*Mela*) that attracts over 50,000 pilgrims daily.\n- **Historical Exploration:** Do not miss examining the ancient brick foundations, fragmented stone pillars, and relief panels embedded in the perimeter walls of the mound that testify to its grand Pala-era architectural heritage.",
+        "hi": "**शुभ पूजन दिवस, आरती समय एवं नवरात्र महोत्सव:**\n\nमंदिर के विशेष पूजन समय और पर्वों के अनुसार यात्रा की योजना बनाकर आप गहन आध्यात्मिक शांति की अनुभूति कर सकते हैं:\n\n- **विशेष पूजन दिवस (मंगलवार व शनिवार):** इन दोनों दिनों में माता की विशेष तांत्रिक पूजा और महाआरती होती है। अत्यधिक भीड़ से बचने के लिए प्रातः **07:30 बजे से पहले** अथवा सांध्यकालीन आरती (शाम **06:30 बजे**) के समय पहुँचना सबसे सुखद अनुभव कराता है।\n- **नवरात्र का महापर्व:** चैत्र और शारदीय नवरात्र के दौरान मंदिर में 24 घंटे अखंड दीप जलते हैं और वेदमंत्रों का पाठ होता है। इस दौरान लगने वाले विशाल ग्रामीण मेले में पारंपरिक लोक कलाओं और व्यंजनों का अद्भुत संगम देखने को मिलता है।\n- **प्राचीन पुरातात्विक अवशेष:** मंदिर के चबूतरे और चारदीवारी के आसपास ध्यान से देखने पर 1000 वर्ष पुरानी पाल युगीन नक्काशीदार ईंटें और खंडित प्रस्तर स्तंभ दृष्टिगोचर होते हैं, जो इतिहास प्रेमियों को मंत्रमुग्ध कर देते हैं।"
+      },
+      {
+        "en": "**Combined Sightseeing, Travel Planning & Local Delicacies:**\n\nMaximizing your itinerary by linking Jaimangla Garh with adjacent scenic and cultural landmarks:\n\n- **Twin Excursion with Kanwar Lake:** Because the temple is located directly on the embankment of **Kanwar Lake Bird Sanctuary**, combine your temple darshan with a tranquil 2-hour country boat ride to spot migratory birds and aquatic flora.\n- **Hydration & Local Snacks:** Enjoy fresh coconut water, hot roasted corn (*Bhutta*), and traditional regional Mithila sweets (*Khurma* and *Peda*) available from village vendors outside the temple approach gates.\n- **Connectivity to Begusarai Town:** Ensure you commence your return journey back toward Begusarai or Barauni before 07:00 PM, as frequency of public passenger autos along rural connecting link roads decreases substantially after dusk.",
+        "hi": "**पर्यटन सर्किट, खान-पान एवं वापसी संबंधी मार्गदर्शन:**\n\nजयमंगला गढ़ के दर्शन को आसपास के प्राकृतिक स्थलों के साथ जोड़कर आप अपनी यात्रा को अविस्मरणीय बना सकते हैं:\n\n- **कांवर झील का संयुक्त भ्रमण:** चूँकि यह मंदिर **कांवर झील पक्षी अभयारण्य** के मुहाने पर ही स्थित है, इसलिए माता के दर्शन के पश्चात झील के किनारे टहलें अथवा देशी नाव लेकर साइबेरियाई प्रवासी पक्षियों के अद्भुत दर्शन का आनंद लें।\n- **स्थानीय जलपान एवं मिष्ठान:** मंदिर परिसर के बाहर मिलने वाले ताजे डाभ (नारियल पानी), भुट्टे और मंझौल के प्रसिद्ध खुरमा व खोये के पेड़े का स्वाद लेना न भूलें, जो स्थानीय परंपरा का अभिन्न हिस्सा हैं।\n- **समय प्रबंधन एवं वापसी:** शाम के समय ग्रामीण संपर्क मार्गों पर सार्वजनिक वाहनों की संख्या कम हो जाती है; अतः बेगूसराय अथवा बरौनी वापस लौटने के लिए शाम 07:00 बजे से पहले मंझौल मुख्य चौक की ओर प्रस्थान करने की योजना बनाएं।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "kanwar-lake-bird-sanctuary",
+      "naulakha-temple",
+      "baba-hari-giri-dham"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        {
+          "title": "Jaimangla Garh - District Begusarai Official Portal",
+          "organization": "District Administration Begusarai, Government of Bihar",
+          "url": "https://begusarai.nic.in/tourist-place/jai-mangla-garh/"
+        },
+        {
+          "title": "Archaeological Remains at Jaimangalagarh",
+          "organization": "Directorate of Archaeology, Government of Bihar",
+          "url": "https://yac.bihar.gov.in/archaeology/"
+        },
+        {
+          "title": "Bihar Tourism - Spiritual and Shakti Circuit",
+          "organization": "Bihar Tourism Development Corporation",
+          "url": "https://tourism.bihar.gov.in/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "naulakha-temple",
+    "slug": "naulakha-temple",
+    "name": {
+      "en": "Naulakha Temple (Naulakha Mandir Begusarai)",
+      "hi": "नौलखा मंदिर बेगूसराय"
+    },
+    "districtId": "begusarai",
+    "placeType": "temple",
+    "primaryCategory": "religious",
+    "categories": [
+      "religious",
+      "heritage",
+      "architectural_monument"
+    ],
+    "subcategories": [
+      "ram_sita_temple",
+      "radha_krishna_temple",
+      "marble_temple",
+      "hindu_temple"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "heritage_circuit",
+      "vaishnava_circuit",
+      "mithila_cultural_circuit",
+      "ramayana_circuit",
+      "eco_circuit",
+      "jain_circuit",
+      "shiva_circuit"
+    ],
+    "tags": [
+      "mustVisit",
+      "featured",
+      "marble_architecture",
+      "naulakha_mandir",
+      "swami_mahavir_das",
+      "ram_sita_temple",
+      "city_landmark",
+      "spiritual_retreat"
+    ],
+    "audiences": [
+      "pilgrims",
+      "architecture_admirers",
+      "families",
+      "photographers",
+      "culture_enthusiasts",
+      "spiritual_seekers"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "A magnificent white marble architectural landmark constructed in 1953 by Saint Mahavir Das, celebrated for its 9-lakh rupee legacy and exquisite craftsmanship.",
+      "hi": "वर्ष 1953 में संत महावीर दास द्वारा निर्मित श्वेत संगमरमर का एक भव्य वास्तुकला चमत्कार, जो अपनी नौ लाख रुपये की लागत और नक्काशीदार भव्यता के लिए विख्यात है।"
+    },
+    "description": {
+      "en": "**Naulakha Temple** (locally and popularly revered as **Naulakha Mandir Begusarai**) stands as the supreme architectural and spiritual centerpiece of Begusarai city, captivating visitors with its glittering white marble pavilions, lofty spires, and serene devotional atmosphere.\n\nLocated in the Bishanpur neighborhood along the heart of the district headquarters, this magnificent temple complex was consecrated in **1953** under the visionary spiritual guidance of the venerated saint **Mahant Mahavir Das**, following more than a decade of meticulous stone masonry and devotional labor.\n\n- **Architectural Marvel of White Marble:** The monument earned its iconic title 'Naulakha' because its construction incurred an astonishing sum of **nine lakh rupees (₹9,00,000)** in the early 1950s—an astronomical expenditure that reflected the unparalleled generosity of devotees and the use of the highest grade of imported Makrana marble.\n- **Sacred Pantheons & Divine Sanctums:** The central sanctum sanctorum houses breathtaking, lifelike marble deities of **Lord Shri Ram, Mata Sita, and Lakshman**, flanked by adjacent ornate shrines dedicated to **Radha-Krishna**, **Lord Shiva with his holy parivar**, and **Lord Hanuman**.\n- **Artistic Frescoes & Carvings:** The interior walls, vaulted ceilings, and pillared verandas are embellished with intricate bas-relief sculptures and polychromatic fresco paintings portraying stirring episodes from the *Ramayana*, the *Mahabharata*, and the childhood *Leelas* of Lord Krishna.\n\nSet amidst manicured flower gardens, towering gateways, and tranquil circumambulatory plazas, Naulakha Mandir provides a deeply soothing oasis of contemplation in the energetic industrial capital of Bihar.",
+      "hi": "**नौलखा मंदिर** (स्थानीय स्तर पर **नौलखा मंदिर बेगूसराय** के नाम से विख्यात) बेगूसराय नगर का सबसे प्रमुख वास्तुकला गौरव और आध्यात्मिक केंद्र है, जो अपने धवल संगमरमरी मंडपों, गगनचुंबी शिखरों और परम शांत वातावरण से प्रत्येक आगंतुक को सम्मोहित कर लेता है।\n\nजिला मुख्यालय के बिशनपुर मुहल्ले में स्थित इस भव्य मंदिर का निर्माण महान तपस्वी संत **महंत महावीर दास जी महाराज** के दिव्य मार्गदर्शन में एक दशक से अधिक समय के अथक श्रम के उपरांत वर्ष **1953** में पूर्ण हुआ था।\n\n- **श्वेत संगमरमर का वास्तुकला चमत्कार:** इस मंदिर का नाम 'नौलखा' इसलिए पड़ा क्योंकि 1950 के दशक में इसके निर्माण पर तत्कालीन समय की विशाल धनराशि **नौ लाख रुपये (₹9,00,000)** व्यय हुई थी। यह उस युग में राजस्थान के प्रसिद्ध मकराना मार्बल से तराशी गई एक अत्यंत दुर्लभ और कीमती कृति थी।\n- **भव्य गर्भगृह एवं देव प्रतिमाएं:** मंदिर के मुख्य गर्भगृह में **प्रभु श्री राम, माता सीता और लक्ष्मण जी** की अत्यंत मनोहारी व जीवंत श्वेत संगमरमरी प्रतिमाएं प्रतिष्ठित हैं। इसके अतिरिक्त परिसर में **राधा-कृष्ण**, **भगवान शिव परिवार** तथा **श्री संकटमोचन हनुमान** के अत्यंत नक्काशीदार देव स्थल निर्मित हैं।\n- **धार्मिक भित्तिचित्र एवं उत्कृष्ट नक्काशी:** मंदिर की आंतरिक दीवारों, मेहराबों और खंभों पर रामायण, महाभारत और श्रीमद्भागवत के पावन प्रसंगों को सुंदर मूर्तियों व रंगीन भित्तिचित्रों के माध्यम से अत्यंत सुरुचिपूर्ण ढंग से उकेरा गया है।\n\nसुंदर वाटिकाओं, फव्वारों और परिक्रमा पथ से सुसज्जित नौलखा मंदिर बेगूसराय के औद्योगिक परिवेश के मध्य आत्मिक शांति, सत्संग और दर्शन का एक अनुपम पावन स्थल है।"
+    },
+    "history": {
+      "en": "The spiritual history and community heritage of **Naulakha Temple** reflects the golden tradition of selfless devotional dedication in modern Bihar:\n\n- **17th-Century Hermitage Roots:** Local oral traditions and temple records indicate that the sacred ground served as a secluded meditation hermitage (*Kutiya*) established in the late 17th century by the revered saint **Mahant Deer Das**, who performed deep spiritual sadhana beneath holy neem and banyan canopies.\n- **The Vision of Mahant Mahavir Das (1942–1953):** In the early 1940s, the pious ascetic Mahant Mahavir Das resolved to transform the modest hermitage into a monumental stone temple that would unite the community in faith and revive classical North Indian temple architecture. He initiated the grand construction project in 1943.\n- **The 'Muthiya' People's Tradition:** To finance the monumental nine-lakh rupee cost without relying solely on royal or state patronage, Saint Mahavir Das initiated the revered rural *Muthiya* tradition, wherein thousands of farming families across Begusarai set aside a handful (*mutthi*) of foodgrains or small coins every day before cooking their meals. This collective community offering was sold to purchase Makrana marble blocks and hire master sculptors from Jaipur.\n- **Conscious Consecration (1953):** After ten full years of carving, the grand Prana Pratishtha was solemnized in 1953 amidst grand Vedic yajnas, establishing the temple as a beacon of unity, artistic brilliance, and collective devotion in North Bihar.",
+      "hi": "**नौलखा मंदिर** का ऐतिहासिक उद्भव और निर्माण गाथा आधुनिक बिहार में निःस्वार्थ भक्ति, लोक-सहभागिता और संत परंपरा की एक स्वर्णिम मिसाल है:\n\n- **17वीं शताब्दी की प्राचीन संत कुटिया:** स्थानीय ऐतिहासिक अभिलेखों के अनुसार यह पावन स्थल 17वीं शताब्दी के अंत में विख्यात तपस्वी **महंत धीर दास जी महाराज** की तपोभूमि था, जहाँ उन्होंने एक छोटी सी कुटिया बनाकर गहन ईश्वर साधना की थी।\n- **महंत महावीर दास का महान संकल्प (1942-1953):** 1940 के दशक के आरंभ में संत शिरोमणि महंत महावीर दास जी ने इस प्राचीन तपोस्थली पर सनातन संस्कृति के पुनरुद्धार हेतु एक अद्वितीय पाषाण मंदिर के निर्माण का संकल्प लिया और वर्ष 1943 में इसकी आधारशिला रखी गई।\n- **'मुठिया' की पावन लोक परंपरा:** उस समय नौ लाख रुपये की विशाल धनराशि जुटाना कोई साधारण कार्य नहीं था। संत महावीर दास ने जन-जन को इस पुनीत कार्य से जोड़ने के लिए 'मुठिया' प्रथा का आह्वान किया। इसके तहत बेगूसराय और आसपास के हजारों ग्रामीण परिवारों ने प्रतिदिन भोजन बनाने से पहले भगवान के मंदिर के लिए एक-एक मुट्ठी अनाज और कुछ पैसे अलग रखे। इस जनसहयोग से राजस्थान के मकराना से उत्तम संगमरमर मंगवाया गया और जयपुर के सिद्धहस्त शिल्पकारों ने पत्थरों को तराशा।\n- **भव्य प्राण प्रतिष्ठा (1953):** दस वर्षों के अथक परिश्रम के पश्चात वर्ष 1953 में विशाल वैदिक महायज्ञ के साथ मंदिर की भव्य प्राण प्रतिष्ठा हुई, जिसने इसे संपूर्ण उत्तर बिहार में अद्वितीय जन-निर्मित मंदिर के रूप में अमर कर दिया।"
+    },
+    "significance": {
+      "en": "The spiritual, social, and architectural significance of **Naulakha Mandir** holds a cherished place in the cultural fabric of Begusarai:\n\n- **Living Testament of Community Philanthropy:** The temple represents a monumental triumph of grassroots community collaboration (*Jan Sahyog*), proving how ordinary farmers and townspeople, united by the *Muthiya* grain-giving ethos, could construct a monument rivaling royal shrines.\n- **Architectural Benchmark of Post-Independence Bihar:** Built during the nascent years of independent India, Naulakha Mandir showcases magnificent Rajasthani-Nagari synthesis architecture, featuring fluted marble pillars, domed chhatris, sculpted jharokhas, and intricate floral jali fretwork.\n- **Spiritual Anchor of Begusarai Town:** Functioning as a vibrant center of Vaishnava devotion, the temple organizes daily Vedic aartis, Ramcharitmanas recitations, Bhagwat katha assemblies, and annual festive celebrations that foster moral and cultural upliftment.\n- **Grand Festive Epicenter:** During the sacred festivals of **Ram Navami**, **Janmashtami**, **Hanuman Jayanti**, and **Diwali**, the entire temple campus is illuminated with tens of thousands of radiant oil lamps, drawing devotees from across Begusarai, Khagaria, Samastipur, and Patna.",
+      "hi": "**नौलखा मंदिर** का आध्यात्मिक, सामाजिक और वास्तुकला महत्व बेगूसराय के जनमानस में अत्यंत ऊंचा और आदरणीय है:\n\n- **जन-सहयोग एवं सामुदायिक समर्पण का जीवंत प्रतीक:** नौलखा मंदिर केवल पत्थरों का ढांचा नहीं, बल्कि लोक-आस्था की वह मिसाल है जो यह दर्शाती है कि जब साधारण किसान और आम जन 'मुठिया' जैसी पावन भावना से जुड़ते हैं, तो राजमहलों को भी मात देने वाले भव्य धर्मस्थल का निर्माण हो सकता है।\n- **स्वातंत्र्योत्तर बिहार की वास्तुकला धरोहर:** आजादी के तुरंत बाद के वर्षों में निर्मित यह मंदिर राजस्थानी नागर शैली का उत्कृष्ट नमूना है। इसके संगमरमरी नक्काशीदार खंभे, छत्रियां, सुंदर झरोखे और बारीक जालीदार काम प्राचीन भारतीय शिल्प कौशल की गरिमा को दर्शाते हैं।\n- **नगर का आध्यात्मिक हृदय:** यह मंदिर बेगूसराय के नगरीय जीवन में भक्ति और सदाचार का प्रमुख केंद्र है, जहाँ प्रतिदिन प्रातः-सांध्य आरती, अखंड रामचरितमानस पाठ और श्रीमद्भागवत कथाओं का आयोजन होता है।\n- **पर्वों पर दिव्य छटा:** **रामनवमी**, **श्रीकृष्ण जन्माष्टमी**, **हनुमान जयंती** और **दीपावली** के पावन अवसरों पर संपूर्ण मंदिर परिसर को लाखों दीयों और आधुनिक विद्युत रोशनी से सजाया जाता है, जिसका अलौकिक सौंदर्य देखने दूर-दराज से श्रद्धालु उमड़ते हैं।"
+    },
+    "location": {
+      "address": {
+        "en": "**Naulakha Temple (Naulakha Mandir Begusarai)**, Bishanpur / Lohianagar Ward No. 24, Station Road Approach, Begusarai Municipal Corporation Central Zone, District Begusarai, Bihar - 851101, India.\n\n*Geographic Orientation, Urban Landmarks & Transit Approach:* The temple is centrally situated within the Begusarai municipal boundaries, located approximately 1.5 kilometers east of the Begusarai Railway Station main concourse and roughly 2 kilometers southeast of the Begusarai District Collectorate, District Court complex, and Government Bus Terminal. It is positioned directly along the bustling Bishanpur-Lohianagar arterial avenue. Arriving pilgrims and tourists can effortlessly identify the sacred sanctuary from a distance by its soaring carved white marble shikharas, towering red sandstone ceremonial entrance archway, and well-maintained manicured boundary parkland visible along the roadway.",
+        "hi": "**नौलखा मंदिर (नौलखा मंदिर बेगूसराय)**, बिशनपुर / लोहियानगर वार्ड संख्या 24, स्टेशन रोड संपर्क पथ, बेगूसराय नगर निगम केंद्रीय क्षेत्र, बेगूसराय जिला, बिहार - 851101, भारत।\n\n*भौगोलिक स्थिति, शहरी पहचान एवं आवागमन मार्ग:* यह दर्शनीय पाषाण मंदिर बेगूसराय नगर के बिल्कुल मध्य में, बेगूसराय रेलवे स्टेशन के मुख्य निकास द्वार से मात्र 1.5 किलोमीटर पूर्व दिशा में और जिला समाहरणालय, न्यायालय परिसर तथा सरकारी बस स्टैंड से लगभग 2 किलोमीटर दक्षिण-पूर्व में स्थित है। यह नगर के व्यस्त बिशनपुर-लोहियानगर मुख्य संपर्क मार्ग के किनारे सुशोभित है। शहर के किसी भी भाग से आने वाले श्रद्धालु इसके गगनचुंबी नक्काशीदार धवल संगमरमरी शिखरों, लाल बलुआ पत्थर के भव्य प्रवेश तोरण द्वार और हरियाली से आच्छादित सुरक्षित चारदीवारी को सड़क से ही अत्यंत सरलता से पहचान सकते हैं।"
+      },
+      "latitude": 25.4225,
+      "longitude": 86.132,
+      "mapQuery": "Naulakha Temple, Bishanpur, Begusarai, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "day": "Monday",
+          "open": "05:00",
+          "close": "21:00"
+        },
+        {
+          "day": "Tuesday",
+          "open": "05:00",
+          "close": "21:00"
+        },
+        {
+          "day": "Wednesday",
+          "open": "05:00",
+          "close": "21:00"
+        },
+        {
+          "day": "Thursday",
+          "open": "05:00",
+          "close": "21:00"
+        },
+        {
+          "day": "Friday",
+          "open": "05:00",
+          "close": "21:00"
+        },
+        {
+          "day": "Saturday",
+          "open": "05:00",
+          "close": "21:00"
+        },
+        {
+          "day": "Sunday",
+          "open": "05:00",
+          "close": "21:00"
+        }
+      ],
+      "entryFee": {
+        "amount": 0,
+        "currency": "INR",
+        "type": "free"
+      },
+      "recommendedDurationMinutes": 60,
+      "bestTimeToVisit": {
+        "en": "Throughout the year; early mornings (06:00 AM–08:30 AM) and evening twilight aarti (06:30 PM–07:45 PM) offer tranquil spiritual solace.",
+        "hi": "वर्ष भर किसी भी समय; प्रातःकाल (06:00 से 08:30) और सांध्यकालीन आरती (06:30 से 07:45) का समय आत्मिक शांति और भव्य दर्शन के लिए सर्वोत्तम है।"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Located in the heart of Begusarai municipal area along NH-31 corridors. City e-rickshaws, shared autos, and cycle-rickshaws ply continuously from Begusarai Old and New Bus Stands directly to the Naulakha Mandir gate within 5 to 10 minutes.",
+        "hi": "राष्ट्रीय राजमार्ग 31 (NH-31) के निकट बेगूसराय नगर के केंद्र में स्थित। बेगूसराय के पुराने व नए बस स्टैंड से नगर निगम के ई-रिक्शा, ऑटो और रिक्शा निरंतर उपलब्ध हैं, जो 5 से 10 मिनट में सीधे मंदिर द्वार तक पहुँचा देते हैं।"
+      },
+      "railway": [
+        {
+          "name": {
+            "en": "Begusarai Railway Station (BGS)",
+            "hi": "बेगूसराय रेलवे स्टेशन (BGS)"
+          },
+          "distanceKm": 1.5
+        },
+        {
+          "name": {
+            "en": "Barauni Junction (BJU)",
+            "hi": "बरौनी जंक्शन (BJU)"
+          },
+          "distanceKm": 16
+        }
+      ],
+      "airport": [
+        {
+          "name": {
+            "en": "Jay Prakash Narayan International Airport, Patna (PAT)",
+            "hi": "जयप्रकाश नारायण अंतरराष्ट्रीय हवाई अड्डा, पटना (PAT)"
+          },
+          "distanceKm": 126
+        },
+        {
+          "name": {
+            "en": "Darbhanga Airport (DBR)",
+            "hi": "दरभंगा हवाई अड्डा (DBR)"
+          },
+          "distanceKm": 105
+        }
+      ],
+      "localTransport": {
+        "en": "Abundant green e-rickshaws, cycle-rickshaws, and auto-rickshaws operate throughout Begusarai city, charging nominal fares to reach the temple from any municipal ward or transit hub.",
+        "hi": "बेगूसराय नगर के प्रत्येक कोने से बहुतायत में चलने वाले ई-रिक्शा, साइकिल रिक्शा और ऑटो अत्यंत सामान्य किराए में सीधे मंदिर तक सेवा प्रदान करते हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 0,
+        "max": 0,
+        "currency": "INR",
+        "note": {
+          "en": "Darshan is completely free for all visitors; voluntary prasad or flower offerings can be purchased outside for ₹20 to ₹100.",
+          "hi": "मंदिर में प्रवेश व दर्शन पूर्णतः निःशुल्क है; स्वैच्छिक प्रसाद अथवा पुष्प मालाएं बाहर की दुकानों से ₹20 से ₹100 में उपलब्ध हैं।"
+        }
+      },
+      "localTransport": {
+        "min": 10,
+        "max": 50,
+        "currency": "INR",
+        "note": {
+          "en": "E-rickshaw fare from Begusarai Railway Station is just ₹10 to ₹15 per person; reserved auto costs approximately ₹40 to ₹50.",
+          "hi": "बेगूसराय रेलवे स्टेशन से ई-रिक्शा का किराया मात्र ₹10 से ₹15 प्रति व्यक्ति है; आरक्षित ऑटो ₹40 से ₹50 में सुलभ है।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": false,
+      "atm": true,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 150,
+      "stairs": true,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "**Aarti Participation & Marble Sanctum Photography Etiquette:**\n\nTo absorb the true spiritual elegance of **Naulakha Temple**, timing your visit around the evening ritual provides an unforgettable experience:\n\n- **Sandhya Aarti & Musical Kirtan:** The evening Sandhya Aarti held at **06:30 PM** in the main sanctum is accompanied by melodious harmonium kirtans, rhythmic cymbals, and the ringing of brass bells, creating an uplifting spiritual resonance.\n- **Photography Regulations:** While photography of the magnificent white marble exterior, landscaped gardens, and gateway towers is permitted, visitors should respect temple decorum and refrain from flash photography directly inside the sanctum sanctorum during active prayers.\n- **Footwear Preservation:** A clean, organized shoe-keeping counter operates near the main entry gate; avoid walking with shoes on the polished marble courtyards.",
+        "hi": "**आरती दर्शन एवं संगमरमरी परिसर में फोटोग्राफी संबंधी शिष्टाचार:**\n\n**नौलखा मंदिर** की दिव्य गरिमा का संपूर्ण अनुभव प्राप्त करने के लिए सांध्यकालीन आरती के समय दर्शन करना सबसे फलदायी होता है:\n\n- **सांध्य आरती एवं संकीर्तन:** प्रतिदिन सायं **06:30 बजे** होने वाली दिव्य सांध्य आरती में झांझ-मंजीरों, ढोलक और वैदिक मंत्रोच्चार के साथ गूंजने वाला कीर्तन मन को अपार शांति प्रदान करता है।\n- **फोटोग्राफी के नियम:** मंदिर के बाहरी संगमरमरी स्थापत्य, कलात्मक शिखरों और सुंदर प्रांगण की तस्वीरें ली जा सकती हैं, परंतु गर्भगृह में स्थापित मूर्तियों के बिल्कुल समीप फ्लैश लाइट से तस्वीरें लेने से बचें ताकि पूजा में व्यवधान न हो।\n- **जूता-चप्पल प्रबंधन:** मुख्य द्वार के पास सुव्यवस्थित निःशुल्क जूता-स्टैंड उपलब्ध है; धवल संगमरमरी फर्श की पवित्रता और स्वच्छता बनाए रखने के लिए निर्धारित स्थान पर ही जूते उतारें।"
+      },
+      {
+        "en": "**Sanctuary Cleanliness & Festive Visit Guidance:**\n\nMaintaining the pristine cleanliness of this historical white marble jewel is a shared responsibility of all pilgrims:\n\n- **Pristine White Marble Preservation:** Visitors are strictly requested not to consume paan, gutkha, or chewable tobacco products on the premises, as spitting causes permanent staining on the historic Makrana marble.\n- **Ram Navami & Janmashtami Influx:** If visiting during major Vaishnava festivals such as Ram Navami or Janmashtami, expect large devotee queues; planning your darshan early in the morning helps avoid long waiting times under the sun.\n- **Family & Senior Citizen Comfort:** The temple compound features level marble flooring with ramp access at side entrances, making it very comfortable and accessible for elderly family members and children.",
+        "hi": "**मंदिर स्वच्छता एवं प्रमुख पर्वों पर दर्शन संबंधी सुझाव:**\n\nइस ऐतिहासिक श्वेत संगमरमरी धरोहर की पवित्रता और स्वच्छता बनाए रखना हम सभी की सामूहिक जिम्मेदारी है:\n\n- **संगमरमर की सुरक्षा व तंबाकू निषेध:** मंदिर परिसर में पान, गुटखा अथवा तंबाकू का सेवन पूर्णतः वर्जित है। मकराना मार्बल की धवलता को बनाए रखने के लिए किसी भी कोने में गंदगी न फैलाएं।\n- **रामनवमी और जन्माष्टमी पर दर्शन:** रामनवमी और श्रीकृष्ण जन्माष्टमी के महापर्वों पर मंदिर में हजारों श्रद्धालुओं का तांता लगता है; अतः धूप व भारी भीड़ से बचने के लिए प्रातः 06:00 से 08:00 बजे के बीच दर्शन हेतु पहुंचें।\n- **वरिष्ठ नागरिकों व बच्चों के लिए सुगमता:** मुख्य परिसर में समतल संगमरमरी फर्श और प्रवेश हेतु सुगम सीढ़ियां व रैंप की व्यवस्था है, जिससे वृद्धजनों और नन्हे बच्चों को दर्शन करने में कोई असुविधा नहीं होती।"
+      },
+      {
+        "en": "**Exploring Central Begusarai & Cultural Souvenirs:**\n\nMake your urban Begusarai visit seamless by exploring the surrounding markets and dining spots:\n\n- **Local Cuisine & Sweets:** After your temple visit, explore the nearby Station Road and Bishanpur food stalls to taste local Bihari delicacies like *Litti Chokha*, hot *Jalebis*, and fresh chhana-based regional sweets.\n- **Integrated Town Sightseeing:** Pair your visit to Naulakha Temple with an excursion to **Kanwar Lake Bird Sanctuary (22 km)** or a serene riverside pilgrimage to **Simaria Dham (18 km)** on the holy Ganga.\n- **ATM & Connectivity:** Being located in central Begusarai, multiple nationalized bank ATMs, pharmacies, and taxi hubs are available within a 200-meter radius of the temple entrance.",
+        "hi": "**बेगूसराय नगर भ्रमण, खान-पान एवं खरीदारी मार्गदर्शन:**\n\nनौलखा मंदिर के दर्शन के उपरांत नगर के प्रमुख बाजारों और स्वादिष्ट व्यंजनों का आनंद लेकर अपनी यात्रा को यादगार बनाएं:\n\n- **स्थानीय स्वाद एवं प्रसिद्ध मिष्ठान:** मंदिर दर्शन के पश्चात निकटवर्ती स्टेशन रोड और बिशनपुर चौक पर पारंपरिक बिहारी *लिट्टी-चोखा*, गरमा-गरम *जलेबी* और शुद्ध खोये से बने स्थानीय पेड़े का स्वाद अवश्य लें।\n- **संयुक्त दर्शनीय सर्किट:** नौलखा मंदिर के दर्शन के साथ आप उत्तर में **कांवर झील व जयमंगलागढ़ (22 किमी)** अथवा दक्षिण में पतितपावनी गंगा के तट पर स्थित **सिमरिया धाम (18 किमी)** का भ्रमण आसानी से एक ही दिन में कर सकते हैं।\n- **नागरिक सुविधाएं:** नगर के केंद्र में स्थित होने के कारण मंदिर के 200 मीटर के दायरे में प्रमुख बैंकों के एटीएम, दवा की दुकानें, होटल और ऑटो-टैक्सी स्टैंड सुगमता से उपलब्ध हैं।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "kanwar-lake-bird-sanctuary",
+      "jaimangalagarh-temple",
+      "simaria-dham"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        {
+          "title": "Naulakha Temple Begusarai - District Official Portal",
+          "organization": "District Administration Begusarai, Government of Bihar",
+          "url": "https://begusarai.nic.in/tourist-place/naulakha-temple/"
+        },
+        {
+          "title": "Religious Monuments of Bihar",
+          "organization": "Bihar Tourism, Government of Bihar",
+          "url": "https://tourism.bihar.gov.in/"
+        },
+        {
+          "title": "Cultural Heritage of Begusarai",
+          "organization": "State Information & Public Relations Department, Bihar",
+          "url": "https://prdbihar.gov.in/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "simaria-dham",
+    "slug": "simaria-dham",
+    "name": {
+      "en": "Simaria Dham & Ganga Ghat (The Haridwar of Bihar)",
+      "hi": "सिमरिया धाम एवं गंगा घाट (बिहार का हरिद्वार)"
+    },
+    "districtId": "begusarai",
+    "placeType": "ghat",
+    "primaryCategory": "religious",
+    "categories": [
+      "religious",
+      "heritage",
+      "cultural",
+      "natural"
+    ],
+    "subcategories": [
+      "ganga_ghat",
+      "pilgrimage_center",
+      "kalpwas_mela",
+      "birthplace_memorial"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "ganga_circuit",
+      "heritage_circuit",
+      "mithila_cultural_circuit"
+    ],
+    "tags": [
+      "mustVisit",
+      "featured",
+      "ganga_snan",
+      "haridwar_of_bihar",
+      "simaria_dham",
+      "kalpwas_mela",
+      "ramdhari_singh_dinkar",
+      "maha_aarti",
+      "riverfront"
+    ],
+    "audiences": [
+      "pilgrims",
+      "families",
+      "literature_lovers",
+      "spiritual_seekers",
+      "photographers",
+      "culture_enthusiasts"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "Revered as the 'Haridwar of Bihar' on the holy Ganga, celebrated for its month-long Kartik Kalpwas Mela and as the birthplace of Rashtrakavi Ramdhari Singh 'Dinkar'.",
+      "hi": "पवित्र गंगा के तट पर 'बिहार का हरिद्वार' माना जाने वाला परम पावन तीर्थ, जो कार्तिक कल्पवास मेले और राष्ट्रकवि रामधारी सिंह 'दिनकर' की जन्मभूमि के लिए विख्यात है।"
+    },
+    "description": {
+      "en": "**Simaria Dham** (venerated across the Gangetic basin as **The Haridwar of Bihar** or *Simaria Ganga Ghat*) is one of the most sacred riverfront pilgrimage destinations in Eastern India, situated majestically on the northern banks of the holy River Ganga in the Barauni-Barauni region of Begusarai district.\n\nEndowed with profound mythological sanctity tracing back to Vedic eras, Simaria is internationally renowned for hosting the legendary **Kartik Kalpwas Mela**, an ancient month-long spiritual congregation where hundreds of thousands of saints, ascetics, and devout householders (*Kalpwasi*) from Mithila, Magadha, Anga, Nepal, and Bhutan reside in simple bamboo huts along the sandbanks, taking dawn holy dips (*Ganga Snan*) and observing strict vows of truth and austerity.\n\n- **Modern Riverfront Transformation:** Developed along the architectural grandeur of Har Ki Pauri in Haridwar, Simaria Dham features extensive tiered bathing ghats, paved river promenades, monumental ceremonial Aarti pavilions, shaded pilgrim shelters, and modern sanitation complexes.\n- **Spectacular Ganga Maha Aarti:** Every twilight, the broad waters of the Ganga reflect the radiant glow of multi-tiered brass oil lamps during the synchronized **Simaria Ganga Aarti**, accompanied by the resonant sound of conch shells (*Shankh*), damrus, and Vedic mantras.\n- **Birthplace of Rashtrakavi Dinkar:** Beyond its spiritual eminence, Simaria village is revered as the birthplace of India's illustrious national poet (**Rashtrakavi Ramdhari Singh 'Dinkar'**, 1908–1974), whose fiery patriotic verses like *Rashmirathi* and *Urvashi* echo through modern Indian literature.\n\nFramed by the monumental **Rajendra Setu** and the modern six-lane **Aunta–Simaria Ganga Bridge**, Simaria Dham stands as an inspiring gateway where divine sanctity, literary pride, and modern civil infrastructure harmonize.",
+      "hi": "**सिमरिया धाम** (संपूर्ण भारत में **'बिहार का हरिद्वार'** अथवा *सिमरिया गंगा तट* के नाम से प्रतिष्ठित) पूर्वी भारत के सर्वाधिक पावन नदी तीर्थों में से एक है। यह पावन धाम बेगूसराय जिले के बरौनी अंचल में पतितपावनी मां गंगा के उत्तरी तट पर भव्यता से सुशोभित है।\n\nपौराणिक मान्यताओं के अनुसार इसका इतिहास वैदिक काल और मिथिला नरेश राजा जनक की परंपरा से जुड़ा हुआ है। सिमरिया विशेष रूप से अपने ऐतिहासिक **कार्तिक कल्पवास मेले** के लिए विश्वविख्यात है, जहाँ प्रत्येक वर्ष कार्तिक मास में मिथिला, मगध, अंग, नेपाल और भूटान से लाखों श्रद्धालु (*कल्पवासी*) गंगा तट पर पर्णकुटी बनाकर एक माह तक सत्य, संयम और ब्रह्मचर्य का पालन करते हुए त्रिकाल गंगा स्नान और जप-तप करते हैं।\n\n- **हरिद्वार की 'हर की पौड़ी' की तर्ज पर विकास:** बिहार सरकार द्वारा सिमरिया धाम को भव्य रिवरफ्रंट के रूप में पुनर्विकसित किया गया है। यहाँ सुंदर पक्के सीढ़ीदार स्नान घाट, रिवर प्रोमेनेड, आधुनिक धर्मशालाएं, चेंजिंग रूम और विशाल आरती मंडप निर्मित किए गए हैं।\n- **भव्य गंगा महाआरती:** प्रत्येक संध्या को सिमरिया घाट पर बनारस और हरिद्वार की भांति अलौकिक **गंगा महाआरती** का आयोजन होता है, जिसमें सैकड़ों दीपों की जगमगाहट, शंखनाद और वैदिक मंत्रोच्चार से गंगा का जल विस्तार आलोकित हो उठता है।\n- **राष्ट्रकवि दिनकर की पावन जन्मभूमि:** सिमरिया केवल धार्मिक तीर्थ ही नहीं, बल्कि भारतीय साहित्य के सूर्य **राष्ट्रकवि रामधारी सिंह 'दिनकर'** (1908-1974) की पावन जन्मस्थली है, जिनकी ओजस्वी लेखनी (*रश्मिरथी*, *कुरुक्षेत्र*, *उर्वशी*) ने स्वतंत्रता संग्राम और राष्ट्र चेतना को अमर स्वर प्रदान किए।\n\nऐतिहासिक **राजेंद्र सेतु** और नवनिर्मित 6-लेन **औंटा-सिमरिया गंगा पुल** के मुहाने पर स्थित यह धाम आस्था, राष्ट्रीय चेतना और आधुनिक पर्यटन का एक अनुपम संगम है।"
+    },
+    "history": {
+      "en": "The spiritual and historical heritage of **Simaria Dham** reflects thousands of years of Gangetic civilizational continuity:\n\n- **Vedic & Mithila Kingdom Antiquity:** According to traditional regional puranas and Mithila chronicles, the tradition of *Kalpwas* (month-long riverbank ascetic contemplation) at Simaria was initiated by **Rajarshi Janaka**, the philosopher-king of Mithila, who performed severe penances along this sacred northern bend (*Uttaravahini*) of the Ganga.\n- **Adi Shankaracharya & Chaitanya Mahaprabhu:** Spiritual traditions recount that Jagadguru Adi Shankaracharya and later Sri Chaitanya Mahaprabhu halted along these holy banks during their trans-India spiritual peregrinations, blessing the pilgrim ford.\n- **Kumbh & Ardh Kumbh Traditions:** Over centuries, Simaria evolved into the premier gathering point for Vaishnava and Shaivite monastic orders across Eastern India, culminating in massive Kumbh and Ardh Kumbh snan congregations attended by Naga sadhus and Akhada mahants.\n- **Engineering Landmark of Rajendra Setu (1959):** In 1959, India's first President Dr. Rajendra Prasad inaugurated the iconic rail-cum-road **Rajendra Setu** at Simaria—the very first bridge spanning the Ganga in independent Bihar, connecting North and South Bihar and transforming regional commerce.\n- **Birthplace of Rashtrakavi Dinkar (1908):** In this spiritually charged village, the titan of modern Hindi poetry, Ramdhari Singh 'Dinkar', was born on September 23, 1908. His ancestral home and local memorial libraries preserve his literary manuscripts and inspire generations of scholars.\n- **Modern Har Ki Pauri Masterplan (2023–2024):** The Bihar Water Resources Department commissioned a ₹1,100-crore waterfront overhaul, constructing state-of-the-art barrage regulators, permanent river promenades, and monumental illuminated bathing ghats.",
+      "hi": "**सिमरिया धाम** की ऐतिहासिक और सांस्कृतिक परंपरा हजारों वर्षों के गंगा सभ्यता के इतिहास को अपने भीतर समेटे हुए है:\n\n- **वैदिक काल एवं मिथिला नरेश जनक का कल्पवास:** पौराणिक आख्यानों के अनुसार सिमरिया में कल्पवास की पावन परंपरा का आरंभ मिथिला के दार्शनिक राजा **राजर्षि जनक** के काल में हुआ था। मान्यता है कि उन्होंने गंगा के इस पवित्र उत्तरवाहिनी प्रवाह के तट पर कठोर तपस्या की थी।\n- **शंकराचार्य और चैतन्य महाप्रभु का आगमन:** आध्यात्मिक अनुश्रुतियों के अनुसार आदि शंकराचार्य और भक्ति आंदोलन के प्रणेता चैतन्य महाप्रभु ने अपनी धार्मिक यात्राओं के दौरान सिमरिया के इस पावन घाट पर विश्राम कर गंगा की स्तुति की थी।\n- **कुंभ एवं अर्धकुंभ की परंपरा:** सदियों से सिमरिया पूर्वी भारत में अखाड़ों, संतों और नागा संन्यासियों का प्रमुख साधना केंद्र रहा है, जहाँ विशाल कुंभ और अर्धकुंभ स्नान पर्वों का निरंतर आयोजन होता आया है।\n- **राजेंद्र सेतु का ऐतिहासिक निर्माण (1959):** वर्ष 1959 में भारत के प्रथम राष्ट्रपति डॉ. राजेंद्र प्रसाद ने यहाँ देश के प्रतिष्ठित रेल-सह-सड़क **राजेंद्र सेतु** का उद्घाटन किया था, जो स्वतंत्र भारत में गंगा नदी पर बना बिहार का पहला विशाल पुल था और जिसने उत्तर व दक्षिण बिहार को एक सूत्र में बांधा।\n- **राष्ट्रकवि दिनकर की जन्मभूमि (1908):** 23 सितंबर 1908 को इसी पावन सिमरिया गांव में हिंदी साहित्य के युगपुरुष **रामधारी सिंह 'दिनकर'** का जन्म हुआ। उनकी पैतृक धरोहर और पुस्तकालय आज भी उनकी राष्ट्रीय चेतना की गवाही देते हैं।\n- **'हर की पौड़ी' स्वरूप आधुनिक कायाकल्प (2023-2024):** बिहार सरकार के जल संसाधन विभाग द्वारा व्यापक विकास परियोजना के अंतर्गत सिमरिया घाट को हरिद्वार की 'हर की पौड़ी' जैसा भव्य रूप दिया गया है, जिसमें स्थायी स्नान घाट, रिवरफ्रंट और भव्य आरती स्थल शामिल हैं।"
+    },
+    "significance": {
+      "en": "The spiritual, cultural, and literary significance of **Simaria Dham** reverberates across the cultural sphere of Bihar and the Indian nation:\n\n- **Supreme Ganga Bathing & Kalpwas Tirth:** Revered as one of the most auspicious sites along the entire 2,525 km course of the Ganga, taking a holy bath at Simaria on **Kartik Purnima**, **Somvati Amavasya**, and **Makar Sankranti** is believed to wash away lifetimes of karmic afflictions and bestow spiritual liberation (*Moksha*).\n- **Unique Kalpwas Community Culture:** The month-long Kartik fair presents an unparalleled living museum of Indian ascetic traditions, where over 100,000 pilgrims live in eco-friendly thatch dwellings (*Raoti*), cook simple single-grain meals (*Ekabhukta*), and participate in non-stop philosophical discourses.\n- **Literary Pilgrimage for Hindi Speakers:** For millions of admirers of Hindi literature worldwide, visiting Simaria is an emotional homage to Rashtrakavi Dinkar, whose thunderous poetry inspired the nation during times of struggle and celebrated India's timeless spiritual identity.\n- **Economic & Transport Nerve-Center:** Positioned at the central crossroads of NH-31, NH-33, the Aunta-Simaria Bridge, and the Barauni railway junction, Simaria drives hospitality, regional trade, boat transport, and religious tourism throughout Central Bihar.",
+      "hi": "**सिमरिया धाम** का आध्यात्मिक, सांस्कृतिक और साहित्यिक महत्व राष्ट्रीय स्तर पर अत्यंत गरिमामय और अद्वितीय है:\n\n- **महापुण्यदायी गंगा स्नान एवं मोक्ष तीर्थ:** पतितपावनी गंगा के तट पर स्थित होने के कारण **कार्तिक पूर्णिमा**, **मकर संक्रांति**, **सोमवती अमावस्या** और **गंगा दशहरा** के अवसर पर सिमरिया में स्नान का विशेष आध्यात्मिक महत्व है। मान्यता है कि यहाँ श्रद्धापूर्वक किया गया गंगा स्नान जन्म-जन्मांतर के पापों से मुक्ति दिलाकर मोक्ष का मार्ग प्रशस्त करता है।\n- **अद्वितीय कल्पवास संस्कृति की धरोहर:** एक माह तक चलने वाले कल्पवास मेले में भारतीय संस्कृति की सादगी और तपस्या का अनुपम दर्शन होता है। लाखों कल्पवासी गंगा की रेती पर घास-फूस की झोपड़ियों (रावटी) में रहकर स्वयं एक समय सात्विक भोजन बनाते हैं और संतों के प्रवचन सुनते हैं।\n- **राष्ट्रकवि दिनकर का साहित्यिक तीर्थ:** साहित्य प्रेमियों के लिए सिमरिया राष्ट्रकवि रामधारी सिंह 'दिनकर' की स्मृति से जुड़ा एक पावन तीर्थ है। यहाँ आने वाले युवा और लेखक उनकी जन्मस्थली को नमन कर राष्ट्रीयता और स्वाभिमान की प्रेरणा प्राप्त करते हैं।\n- **क्षेत्रीय आर्थिक एवं आवागमन का केंद्र:** राष्ट्रीय राजमार्ग 31 और नए औंटा-सिमरिया 6-लेन पुल के संगम पर स्थित होने के कारण यह स्थल धार्मिक पर्यटन, नाविकों की आजीविका और स्थानीय व्यापार के संवर्धन में अत्यंत महत्वपूर्ण भूमिका निभाता है।"
+    },
+    "location": {
+      "address": {
+        "en": "**Simaria Dham & Ganga Ghat**, Simaria Village, Barauni Block, National Highway 31 (NH-31) Corridor / Aunta-Simaria Bridge Approach, Begusarai District, Bihar - 851126, India.\n\n*Geographic Orientation, Access & Riverfront Panorama:* Simaria Dham is situated approximately 18 kilometers south of Begusarai district headquarters and 6 kilometers south of Barauni Junction, directly flanking the northern bank of the River Ganga. It is located at the northern terminus of the historic Rajendra Setu rail-cum-road bridge and the newly constructed 6-lane Aunta-Simaria Ganga Expressway Bridge connecting Begusarai to Mokama and Patna. The grand entrance gates and paved promenade lead directly from the highway bypass down to the illuminated bathing ghats.",
+        "hi": "**सिमरिया धाम एवं गंगा घाट**, ग्राम सिमरिया, बरौनी प्रखंड, राष्ट्रीय राजमार्ग संख्या 31 (NH-31) कॉरिडोर / औंटा-सिमरिया पुल संपर्क पथ, बेगूसराय जिला, बिहार - 851126, भारत।\n\n*भौगोलिक स्थिति, सड़क संपर्क एवं घाट का विहंगम दृश्य:* सिमरिया धाम बेगूसराय जिला मुख्यालय से लगभग 18 किलोमीटर दक्षिण में और बरौनी जंक्शन से 6 किलोमीटर दक्षिण दिशा में पवित्र गंगा नदी के उत्तरी तट पर स्थित है। यह ऐतिहासिक रेल-सह-सड़क राजेंद्र सेतु और बेगूसराय को मोकामा व पटना से जोड़ने वाले नए 6-लेन औंटा-सिमरिया गंगा एक्सप्रेसवे पुल के उत्तरी मुहाने पर पड़ता है। राष्ट्रीय राजमार्ग से सीधे घाट तक जाने वाले चौड़े पक्के संपर्क मार्ग और भव्य प्रवेश द्वार से उतरकर मुख्य स्नान घाट और आरती मंडप तक पहुँचा जा सकता है।"
+      },
+      "latitude": 25.385,
+      "longitude": 86.0025,
+      "mapQuery": "Simaria Dham Ganga Ghat, Barauni, Begusarai, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "day": "Monday",
+          "open": "04:00",
+          "close": "22:00"
+        },
+        {
+          "day": "Tuesday",
+          "open": "04:00",
+          "close": "22:00"
+        },
+        {
+          "day": "Wednesday",
+          "open": "04:00",
+          "close": "22:00"
+        },
+        {
+          "day": "Thursday",
+          "open": "04:00",
+          "close": "22:00"
+        },
+        {
+          "day": "Friday",
+          "open": "04:00",
+          "close": "22:00"
+        },
+        {
+          "day": "Saturday",
+          "open": "04:00",
+          "close": "22:00"
+        },
+        {
+          "day": "Sunday",
+          "open": "04:00",
+          "close": "22:00"
+        }
+      ],
+      "entryFee": {
+        "amount": 0,
+        "currency": "INR",
+        "type": "free"
+      },
+      "recommendedDurationMinutes": 120,
+      "bestTimeToVisit": {
+        "en": "October to March for pleasant river breezes, and specifically during the month of Kartik (October–November) for the grand Kalpwas Mela and evening Ganga Maha Aarti.",
+        "hi": "अक्टूबर से मार्च तक का समय सुखद मौसम के लिए, और विशेष रूप से कार्तिक मास (अक्टूबर-नवंबर) में विश्वप्रसिद्ध कल्पवास मेले तथा दिव्य सांध्य गंगा महाआरती के दर्शन के लिए सर्वोत्तम है।"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Positioned directly beside the 4-lane National Highway NH-31 and the 6-lane Aunta-Simaria Bridge corridor. Continuous express buses, state transport coaches, shared autos, and taxis run between Patna, Mokama, Begusarai, and Barauni with dedicated drop-offs directly at Simaria Dham bypass.",
+        "hi": "चार-लेन राष्ट्रीय राजमार्ग NH-31 और 6-लेन औंटा-सिमरिया पुल कॉरिडोर के बिल्कुल किनारे स्थित। पटना, मोकामा, बेगूसराय और बरौनी के बीच चलने वाली एक्सप्रेस बसें, राज्य परिवहन की बसें, शेयरिंग ऑटो और टैक्सियां सीधे सिमaria धाम बाईपास पर यात्रियों को उतारती हैं।"
+      },
+      "railway": [
+        {
+          "name": {
+            "en": "Simaria Railway Station (BCA)",
+            "hi": "सिमरिया रेलवे स्टेशन (BCA)"
+          },
+          "distanceKm": 1.5
+        },
+        {
+          "name": {
+            "en": "Barauni Junction (BJU)",
+            "hi": "बरौनी जंक्शन (BJU)"
+          },
+          "distanceKm": 8
+        },
+        {
+          "name": {
+            "en": "Hathidah Junction (HTZ)",
+            "hi": "हाथीदह जंक्शन (HTZ)"
+          },
+          "distanceKm": 4
+        },
+        {
+          "name": {
+            "en": "Begusarai Railway Station (BGS)",
+            "hi": "बेगूसराय रेलवे स्टेशन (BGS)"
+          },
+          "distanceKm": 19
+        }
+      ],
+      "airport": [
+        {
+          "name": {
+            "en": "Jay Prakash Narayan International Airport, Patna (PAT)",
+            "hi": "जयप्रकाश नारायण अंतरराष्ट्रीय हवाई अड्डा, पटना (PAT)"
+          },
+          "distanceKm": 105
+        },
+        {
+          "name": {
+            "en": "Darbhanga Airport (DBR)",
+            "hi": "दरभंगा हवाई अड्डा (DBR)"
+          },
+          "distanceKm": 115
+        }
+      ],
+      "localTransport": {
+        "en": "Auto-rickshaws, battery e-rickshaws, and private rental cars connect Barauni Junction and Begusarai with Simaria Dham round-the-clock. Motorized river boats operate across the Ganga between Simaria and Hathidah/Mokama.",
+        "hi": "बरौनी जंक्शन और बेगूसराय नगर से चौबीसों घंटे ऑटो-रिक्शा, ई-रिक्शा और निजी टैक्सियां उपलब्ध रहती हैं। इसके अतिरिक्त सिमरिया और हाथीदह/मोकामा के बीच गंगा में पारंपरिक नावें व स्टीमर भी संचालित होते हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 0,
+        "max": 0,
+        "currency": "INR",
+        "note": {
+          "en": "Entry to the river ghats, promenade, and viewing the evening Ganga Aarti is completely free; changing rooms charge a nominal fee of ₹5 to ₹10.",
+          "hi": "गंगा घाट, रिवरफ्रंट और भव्य सांध्य आरती के दर्शन पूर्णतः निःशुल्क हैं; चेंजिंग रूम का उपयोग मात्र ₹5 से ₹10 के टोकन शुल्क पर उपलब्ध है।"
+        }
+      },
+      "localTransport": {
+        "min": 25,
+        "max": 250,
+        "currency": "INR",
+        "note": {
+          "en": "Shared auto from Barauni Junction to Simaria Ghat costs ₹20–₹25; reserved auto costs approximately ₹150–₹250.",
+          "hi": "बरौनी जंक्शन से सिमरिया घाट शेयरिंग ऑटो ₹20–₹25 प्रति यात्री; आरक्षित ऑटो ₹150–₹250 में सुलभ है।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": true,
+      "atm": true,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 400,
+      "stairs": true,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "**River Bathing Safety Protocols & Sanctum Precautions:**\n\nWhile taking a sacred bath (*Ganga Snan*) at **Simaria Dham**, adhering to river safety guidelines is essential for all pilgrims:\n\n- **Bathe Within Safety Barricades:** Always bathe strictly within the iron chains and safety buoy barricades installed by the River Police and State Disaster Response Force (SDRF); the riverbed drops abruptly into deep undercurrents beyond marked zones.\n- **Supervision of Children & Elderly:** Keep a secure handhold on young children and senior family members on wet steps; avoid stepping on algae-covered lower masonry steps during low-tide phases.\n- **Changing Rooms & Valuables:** Utilize the modern covered changing enclosures constructed along the upper promenade; avoid leaving mobile phones, wallets, and gold ornaments unattended on the open ghat steps while bathing.",
+        "hi": "**गंगा स्नान सुरक्षा नियम एवं आवश्यक सावधानियां:**\n\n**सिमरिया धाम** में पतितपावनी गंगा में पवित्र स्नान करते समय श्रद्धालुओं को नदी सुरक्षा के सभी नियमों का कड़ाई से पालन करना चाहिए:\n\n- **सुरक्षा बैरिकेडिंग के भीतर ही स्नान करें:** राज्य आपदा मोचन बल (SDRF) और नदी पुलिस द्वारा घाट पर लगाई गई लोहे की जंजीरों और फ्लोटिंग बैरिकेडिंग के भीतर ही स्नान करें; चिन्हित सीमा से बाहर नदी की गहराई और जलधारा अत्यंत तीव्र है।\n- **बच्चों व बुजुर्गों की सुरक्षा:** सीढ़ियों पर काई या फिसलन हो सकती है, अतः बच्चों और वृद्ध परिजनों का हाथ पकड़कर रखें और उन्हें गहरे पानी में अकेले कतई न जाने दें।\n- **चेंजिंग रूम एवं सामान की सुरक्षा:** घाट के ऊपरी हिस्से पर बने आधुनिक महिला चेंजिंग रूम का उपयोग करें; स्नान के समय अपने मोबाइल, पर्स और कीमती आभूषण घाट की सीढ़ियों पर लावारिस न छोड़ें।"
+      },
+      {
+        "en": "**Grand Ganga Aarti Timings & Spiritual Experience:**\n\nWitnessing the mesmerizing **Simaria Ganga Maha Aarti** is the crowning highlight of any pilgrimage:\n\n- **Aarti Timing & Seating:** The ceremonial Aarti commences around **06:00 PM in winter** and **06:45 PM in summer** at the central Aarti platform; arrive at least 30 minutes in advance to secure a comfortable seat along the tiered steps of the amphitheater.\n- **Floating Diya Offerings:** Purchase small eco-friendly leaf boats (*Dona*) carrying oil lamps and marigold blossoms from local vendors (₹10–₹20) to float gently on the river after the aarti, creating a magical sea of lights.\n- **Photography & Drone Guidelines:** Handheld photography and mobile videography of the aarti are permitted; however, flying commercial drones over the bridge corridor and bathing crowds requires prior permission from the district administration.",
+        "hi": "**भव्य गंगा महाआरती का समय एवं अलौकिक अनुभव:**\n\nसिमरिया धाम की **गंगा महाआरती** का दर्शन एक ऐसा आध्यात्मिक अनुभव है जो जीवन भर स्मृतियों में अंकित रहता है:\n\n- **आरती का समय एवं बैठने की व्यवस्था:** मुख्य आरती मंच पर सर्दियों में सायं **06:00 बजे** तथा गर्मियों में **06:45 बजे** आरती प्रारंभ होती है; सीढ़ीदार एम्फीथिएटर में आगे की सीट पाने के लिए कम से कम 30 मिनट पहले घाट पर पहुँचें।\n- **दीपदान की पावन परंपरा:** स्थानीय नाविकों और बच्चों से पर्यावरण-अनुकूल पत्तों के दोने में सजे दीप व गेंदे के फूल (₹10–₹20) लेकर आरती के पश्चात गंगा की बहती धारा में प्रवाहित करें; हजारों तैरते दीपों का नजारा मन मोह लेता है।\n- **फोटोग्राफी एवं ड्रोन संबंधी नियम:** मोबाइल और कैमरे से आरती की तस्वीरें लेने की पूर्ण अनुमति है; परंतु पुल और भीड़भाड़ वाले संवेदनशील क्षेत्र में ड्रोन उड़ाने के लिए जिला प्रशासन से पूर्व अनुमति आवश्यक है।"
+      },
+      {
+        "en": "**Rashtrakavi Dinkar Memorial & Literary Excursion:**\n\nEnrich your pilgrimage by connecting with the historic literary legacy of modern India:\n\n- **Dinkar Ancestral Village Visit:** Located just 1.5 km inland from the ghat is the village of Simaria, where you can visit the memorial library and the site dedicated to Rashtrakavi Ramdhari Singh 'Dinkar', housing portraits and his legendary poetic works.\n- **Kartik Kalpwas Mela Highlights:** If traveling in October or November during the month-long Kalpwas Mela, experience the traditional rural bazaar, taste freshly roasted *Chana-Sattu*, regional sweets, and attend nightly Ramleela performances.\n- **Exceptional Highway Connectivity:** Simaria's strategic junction location enables travelers to seamlessly transition across the Ganga to Mokama, Nalanda, Rajgir, or Patna within 1.5 to 2.5 hours via the new six-lane bridge.",
+        "hi": "**राष्ट्रकवि दिनकर स्मारक एवं कल्पवास मेले की यात्रा:**\n\nअपनी तीर्थयात्रा को राष्ट्रकवि की साहित्यिक विरासत और ऐतिहासिक कल्पवास मेले के साथ जोड़कर और अधिक समृद्ध बनाएं:\n\n- **दिनकर जी की पैतृक भूमि का दर्शन:** सिमरिया घाट से मात्र 1.5 किलोमीटर की दूरी पर राष्ट्रकवि रामधारी सिंह 'दिनकर' का पैतृक गांव स्थित है, जहाँ उनका स्मृति स्थल और पुस्तकालय उनकी अमर कविताओं (*रश्मिरथी*, *उर्वशी*) की स्मृतियों को जीवंत करता है।\n- **कार्तिक कल्पवास मेले का आनंद:** यदि आप अक्टूबर-नवंबर में कल्पवास मेले के दौरान आते हैं, तो गंगा की रेती पर बसी तंबुओं की आध्यात्मिक नगरी देखें, पारंपरिक सत्संग सुनें और स्थानीय सत्तू व गरमा-गरम जलेबी का आनंद लें।\n- **उत्कृष्ट 6-लेन हाईवे कनेक्टिविटी:** नए 6-लेन औंटा-सिमरिया पुल के माध्यम से आप गंगा पार करके मोकामा, नालंदा, राजगीर अथवा पटना की यात्रा केवल 1.5 से 2.5 घंटे में सुगमता से पूरी कर सकते हैं।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "naulakha-temple",
+      "kanwar-lake-bird-sanctuary",
+      "jaimangalagarh-temple"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        {
+          "title": "Simaria Dham - Begusarai District Official Portal",
+          "organization": "District Administration Begusarai, Government of Bihar",
+          "url": "https://begusarai.nic.in/tourist-place/simariya/"
+        },
+        {
+          "title": "Development of Simaria Ghat as Haridwar of Bihar",
+          "organization": "Water Resources Department, Government of Bihar",
+          "url": "https://wrd.bihar.gov.in/"
+        },
+        {
+          "title": "Bihar Tourism - Simaria Ganga Circuit",
+          "organization": "Department of Tourism, Government of Bihar",
+          "url": "https://tourism.bihar.gov.in/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "baba-hari-giri-dham",
+    "slug": "baba-hari-giri-dham",
+    "name": {
+      "en": "Baba Hari Giri Dham (Garhpura Shiv Mandir)",
+      "hi": "बाबा हरि गिरी धाम (गढ़पुरा शिव मंदिर)"
+    },
+    "districtId": "begusarai",
+    "placeType": "temple",
+    "primaryCategory": "religious",
+    "categories": [
+      "religious",
+      "heritage",
+      "cultural",
+      "pilgrimage_center"
+    ],
+    "subcategories": [
+      "shiva_temple",
+      "swayambhu_jyotirlinga_shrine",
+      "historic_mound",
+      "holy_water_tank"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "heritage_circuit",
+      "mithila_cultural_circuit",
+      "eco_circuit",
+      "shiva_circuit"
+    ],
+    "tags": [
+      "mustVisit",
+      "featured",
+      "shravani_mela",
+      "swayambhu_shivling",
+      "baba_hari_giri_dham",
+      "garhpura",
+      "saptakoop",
+      "shiv_ganga"
+    ],
+    "audiences": [
+      "pilgrims",
+      "families",
+      "spiritual_seekers",
+      "photographers",
+      "culture_enthusiasts"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "An ancient 400-year-old Shaivite pilgrimage center in Garhpura, venerated for its self-manifested Swayambhu Shivling, sacred Saptakoop, and vibrant Shravani Mela.",
+      "hi": "गढ़पुरा में स्थित 400 वर्ष पुराना पावन शैव तीर्थ, जो अपने स्वयंभू शिवलिंग, पवित्र सप्तकूप, शिव गंगा सरोवर और भव्य श्रावणी मेले के लिए विख्यात है।"
+    },
+    "description": {
+      "en": "**Baba Hari Giri Dham** (venerated across Bihar and neighboring Nepal as **Garhpura Dham** or *Baba Hari Giri Mandir*) is one of the most revered and ancient Shaivite pilgrimage complexes in the Mithila-Anga region, situated approximately 34 kilometers northeast of Begusarai district headquarters in the historic town of Garhpura.\n\nEndowed with a continuous devotional lineage spanning over **four centuries**, the sacred shrine is celebrated for its natural, self-manifested (**Swayambhu**) black stone Shiva Lingam, which emerged from the earth and has been worshipped by generations of yogis, ascetics, and faithful householders who attest to the miraculous fulfillment of their heartfelt prayers (*Manokamna Siddhi*).\n\n- **Sprawling Temple Complex:** The sanctified campus features an ornate main spire housing Baba Hari Giri Mahadev, an expansive pillared congregation hall (*Natmandir*), dedicated shrines for **Mata Parvati**, **Lord Ganesha**, **Kartikeya**, and a newly consecrated **Banke Bihari Temple**.\n- **Sacred Saptakoop & Tridandi Samadhi:** Within the precinct lie the legendary **Saptakoop (seven sacred ancient wells)**, whose waters are believed to possess therapeutic purifying virtues, alongside the revered memorial samadhi of **Tridandi Rishi**, the ascetic sage who anchored the temple's spiritual foundation.\n- **Holy Shiv Ganga Sarovar:** Flanking the temple is the vast, renovated **Shiv Ganga pond**, whose landscaped ghats and reflective waters provide a serene setting for ritual ablutions and morning prayers.\n\nDuring the auspicious Hindu month of **Shravan (Sawan)** and on **Maha Shivratri**, hundreds of thousands of saffron-clad Kanwariyas journey on foot carrying holy Ganga water from Simaria Ghat to offer jalabhishek here amidst exhilarating chants of *Har Har Mahadev*.",
+      "hi": "**बाबा हरि गिरी धाम** (संपूर्ण बिहार, बंगाल और नेपाल में **गढ़पुरा धाम** अथवा *बाबा हरि गिरी शिव मंदिर* के नाम से प्रसिद्ध) मिथिला और अंग प्रदेश के सर्वाधिक प्राचीन व जाग्रत शैव तीर्थों में से एक है। यह पावन तीर्थ बेगूसराय जिला मुख्यालय से लगभग 34 किलोमीटर उत्तर-पूर्व दिशा में ऐतिहासिक गढ़पुरा प्रखंड में स्थित है।\n\n**चार सौ वर्षों से अधिक** की अखंड आध्यात्मिक परंपरा को संजोए यह पावन धाम अपने प्राकृतिक **स्वयंभू काले प्रस्तर शिवलिंग** के लिए विख्यात है। लोक आस्था के अनुसार यह दिव्य शिवलिंग स्वतः भूमि से प्रकट हुआ था और यहाँ सच्चे मन से की गई पूजा-अर्चना से भक्तों की सभी मनोकामनाएं अवश्य पूर्ण होती हैं।\n\n- **भव्य मंदिर परिसर एवं देवालय:** विस्तृत प्रांगण में ऊंचे शिखर वाला मुख्य देवालय स्थित है, जहाँ बाबा हरि गिरि महादेव का गर्भगृह है। इसके अतिरिक्त परिसर में **माता पार्वती**, **गणेश जी**, **कार्तिकेय**, संकटमोचन हनुमान तथा नवनिर्मित **बांके बिहारी मंदिर** स्थापित हैं।\n- **प्राचीन सप्तकूप एवं त्रिदंडी ऋषि समाधि:** मंदिर परिसर में पौराणिक **सप्तकूप (सात प्राचीन कुएं)** विद्यमान हैं, जिनके जल को औषधीय गुणों से युक्त और पापनाशक माना जाता है। साथ ही यहाँ महान तपस्वी **त्रिदंडी ऋषि की पावन समाधि** स्थित है, जिन्होंने इस तपोभूमि को जागृत किया था।\n- **पवित्र शिव गंगा सरोवर:** मंदिर के ठीक सामने विशाल व सुंदर **शिव गंगा सरोवर** स्थित है, जिसके पक्के घाटों पर श्रद्धालु स्नान कर बाबा भोलेनाथ के जलाभिषेक हेतु जल भरते हैं।\n\nपवित्र **श्रावण मास (सावन)** और **महाशिवरात्रि** के महापर्व पर सिमरिया गंगा तट से जल भरकर पैदल यात्रा करने वाले लाखों कांवरियों की कतारों और *हर हर महादेव* के गगनभेदी जयकारों से पूरा गढ़पुरा क्षेत्र शिवमय हो उठता है।"
+    },
+    "history": {
+      "en": "The spiritual genesis and folk history of **Baba Hari Giri Dham** in Garhpura reflects the mystical ascetic traditions of medieval Bihar:\n\n- **The Legend of the Swayambhu Lingam (Circa 16th–17th Century):** Historical lore narrates that over four centuries ago, the site was a dense pastoral woodland where cows grazed. A local cowherd noticed that his finest cow consistently released her milk voluntarily over a hidden subterranean stone mound. Upon careful clearance of the thorny brushwood, local villagers discovered the self-manifested Shiva Lingam.\n- **The Tapasya of Baba Hari Giri & Tridandi Rishi:** Renowned wandering Shaivite ascetic **Baba Hari Giri** established his hermitage at the spot, performing intense spiritual penance (*Tapasya*) and consecrating daily rituals. He was succeeded by the venerated saint **Tridandi Rishi**, whose spiritual samadhi continues to be worshipped within the inner courtyard.\n- **Excavation of Saptakoop (Seven Holy Wells):** To sustain the water needs of visiting pilgrims and sadhus in what was once a parched tract, the saints oversaw the construction of seven interconnected wells (*Saptakoop*), symbolizing the seven sacred rivers of India.\n- **Patronage of Garhpura Zamindars:** During the 18th and 19th centuries, regional landlords (*Zamindars*) of Garhpura and Shakarpura constructed the brick sanctum, the towering vimana spire, and donated agricultural lands to sustain the temple's daily *Bhog* and charitable kitchen (*Langar*).\n- **Modern Renovation & Beautification:** In recent years, public trust committees and the Government of Bihar have overseen extensive infrastructure upgrades, developing illuminated promenades around the Shiv Ganga pond, paved pilgrim sheds, and modern guest facilities.",
+      "hi": "**बाबा हरि गिरी धाम गढ़पुरा** की ऐतिहासिक पृष्ठभूमि और संत परंपरा मध्यकालीन भारत की रहस्यमयी तपोभूमि की गौरवगाथा को दर्शाती है:\n\n- **स्वयंभू शिवलिंग का प्राकट्य (16वीं-17वीं शताब्दी):** जनश्रुतियों और मंदिर के ऐतिहासिक वृत्तांतों के अनुसार, लगभग चार सौ वर्ष पूर्व यह क्षेत्र घने जंगलों और चरागाहों से घिरा हुआ था। एक चरवाहे ने देखा कि उसकी कामधेनु स्वरूपा गाय प्रतिदिन एक निश्चित झाड़ी के पास जाकर अपने स्तनों से स्वतः दुग्ध की धारा बहा देती थी। जब ग्रामीणों ने उस स्थान की सफाई की, तो भूमि से एक दिव्य ज्योतिर्मय काला शिवलिंग प्रकट हुआ।\n- **बाबा हरि गिरि एवं त्रिदंडी ऋषि की तपस्या:** उस काल के महान सिद्ध संन्यासी **बाबा हरि गिरि जी महाराज** ने यहाँ अपनी कुटिया बनाई और वर्षों तक घोर तपस्या कर इस तीर्थ को जाग्रत किया। उन्हीं के नाम पर इस धाम का नाम 'बाबा हरि गिरी धाम' पड़ा। कालांतर में उच्चकोटि के संत **त्रिदंडी ऋषि** ने यहाँ साधना की, जिनकी पावन समाधि आज भी प्रांगण में पूजनीय है।\n- **सप्तकूप का ऐतिहासिक निर्माण:** संतों और दूर-दराज से आने वाले तीर्थयात्रियों की पेयजल व अनुष्ठानिक आवश्यकताओं की पूर्ति हेतु यहाँ **सप्तकूप (सात पवित्र कुएं)** खुदवाए गए, जिन्हें भारत की सात पवित्र नदियों का प्रतीक माना जाता है।\n- **गढ़पुरा रियासत का संरक्षण:** 18वीं और 19वीं शताब्दी में गढ़पुरा और शकरपुरा के स्थानीय जमींदारों ने मंदिर के मुख्य गर्भगृह, नक्काशीदार गुंबद और परकोटे का पक्का निर्माण कराया तथा मंदिर के दैनिक भोग और साधु सेवा के लिए भूमि समर्पित की।\n- **आधुनिक कायाकल्प एवं सुंदरीकरण:** पिछले कुछ वर्षों में स्थानीय न्यास समिति और पर्यटन विभाग के सहयोग से मंदिर के चारों ओर विशाल परिक्रमा पथ, आधुनिक धर्मशालाएं और शिव गंगा सरोवर के घाटों का भव्य सौंदर्यीकरण किया गया है।"
+    },
+    "significance": {
+      "en": "The religious, cultural, and community significance of **Baba Hari Giri Dham** holds immense stature across North Bihar:\n\n- **Premier Shaivite Pilgrimage Center:** Regarded as the spiritual equivalent of Deoghar's Baba Baidyanath Dham for the Begusarai-Samastipur-Khagaria belt, Baba Hari Giri Dham is revered as a *Manokamna Lingam* where devotees tying sacred red threads (*Mauli*) around the sanctum grills believe their long-cherished prayers are fulfilled.\n- **The Grand Shravani Mela:** Throughout the month of Sawan, the temple becomes the epicenter of immense cultural devotion. Over half a million Kanwariyas collect holy Ganga water from Simaria Ghat (over 45 km away) and journey barefoot across rural highways, filling the atmosphere with spiritual zeal.\n- **Saptakoop Spiritual Cleansing:** The ancient seven wells and the holy Shiv Ganga pond are considered spiritually rejuvenating, drawing pilgrims who bathe in the waters to alleviate physical ailments and mental distress.\n- **Vibrant Annual Festivities:** In addition to Shravan, the temple hosts massive fairs during **Maha Shivratri**, **Basant Panchami**, and **Kartik Purnima**, featuring devotional music competitions, folk plays, and extensive community feeding (*Bhandara*).",
+      "hi": "**बाबा हरि गिरी धाम** का धार्मिक, सांस्कृतिक और सामाजिक महत्व उत्तर बिहार के जनजीवन में अत्यंत व्यापक और गहरा है:\n\n- **उत्तर बिहार का 'देवघर' स्वरूप आस्था केंद्र:** बेगूसराय, समस्तीपुर, खगड़िया और दरभंगा क्षेत्र के श्रद्धालुओं के लिए यह तीर्थ देवघर के बाबा बैद्यनाथ धाम के समान ही फलदायी माना जाता है। इसे 'मनोकामना लिंग' के रूप में पूजा जाता है, जहाँ मन्नत का लाल कलावा बांधने से असाध्य कष्ट दूर होते हैं और परिवार में सुख-शांति आती है।\n- **ऐतिहासिक श्रावणी मेला एवं कांवर यात्रा:** सावन के महीने में यहाँ का दृश्य अत्यंत भव्य और विहंगम होता है। 45 किलोमीटर दूर सिमरिया गंगा तट से पवित्र गंगाजल लेकर नंगे पांव पैदल चलने वाले लाखों कांवरिया बाबा हरि गिरी को जल अर्पित करते हैं।\n- **सप्तकूप और शिव गंगा का आध्यात्मिक महत्व:** सात पवित्र कूपों और विशाल शिव गंगा सरोवर के जल में स्नान करने से शारीरिक और मानसिक संतापों से मुक्ति मिलती है। श्रद्धालु इस पावन जल को अपने घरों में छिड़कने के लिए भी ले जाते हैं।\n- **महाशिवरात्रि एवं लोक उत्सव:** महाशिवरात्रि के दिन यहाँ भगवान शिव की भव्य बारात निकाली जाती है, जिसमें पूरे जिले से हजारों लोग शामिल होते हैं। इस अवसर पर लगने वाले विशाल ग्रामीण मेले में पारंपरिक लोक संगीत, भजन संध्या और विशाल भंडारे का आयोजन होता है।"
+    },
+    "location": {
+      "address": {
+        "en": "**Baba Hari Giri Dham (Garhpura Mandir)**, Main Temple Avenue, Post Office Garhpura, Garhpura Block Headquarters, Sub-Division Bakhri, Begusarai District, Mithila Region, Bihar - 848204, India.\n\n*Geographic Orientation, Road Infrastructure & Sacred Environs:* The ancient temple complex is situated roughly 34 kilometers northeast of the Begusarai district administrative collectorate and about 12 kilometers north of the Bakhri sub-divisional administrative center. It is situated directly along the paved Garhpura-Bakhri-Begusarai regional highway artery. The pilgrimage entrance zone is characterized by an imposing decorative welcome toran archway, illuminated streetlamp promenades, expansive open vehicle parking lots, and the landscaped embankment of the sacred Shiv Ganga sarovar water tank bordering the temple's outer pillared pavilions.",
+        "hi": "**बाबा हरि गिरी धाम (गढ़पुरा शिव मंदिर)**, मुख्य मंदिर मार्ग, डाकघर गढ़पुरा, गढ़पुरा प्रखंड मुख्यालय, अनुमंडल बखरी, बेगूसराय जिला, मिथिला क्षेत्र, बिहार - 848204, भारत।\n\n*भौगोलिक स्थिति, सड़क संपर्क एवं पावन मंदिर परिवेश:* यह प्राचीन शैव धाम बेगूसराय जिला समाहरणालय से लगभग 34 किलोमीटर उत्तर-पूर्व दिशा में और बखरी अनुमंडल मुख्यालय से लगभग 12 किलोमीटर उत्तर में स्थित है। यह गढ़पुरा-बखरी-बेगूसराय मुख्य पक्की सड़क पर सीधे अवस्थित है। तीर्थ परिसर के बाहर एक विशाल स्वागत तोरण द्वार, आधुनिक प्रकाश स्तंभों से युक्त पैदल मार्ग, वाहनों के लिए बड़ा खुला पार्किंग मैदान और मंदिर के बाहरी परकोटे से लगा हुआ विशाल व पवित्र शिव गंगा सरोवर बना हुआ है, जो दूर से ही श्रद्धालुओं को आकर्षित करता है।"
+      },
+      "latitude": 25.589,
+      "longitude": 86.262,
+      "mapQuery": "Baba Hari Giri Dham, Garhpura, Begusarai, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "day": "Monday",
+          "open": "04:30",
+          "close": "21:30"
+        },
+        {
+          "day": "Tuesday",
+          "open": "05:00",
+          "close": "21:00"
+        },
+        {
+          "day": "Wednesday",
+          "open": "05:00",
+          "close": "21:00"
+        },
+        {
+          "day": "Thursday",
+          "open": "05:00",
+          "close": "21:00"
+        },
+        {
+          "day": "Friday",
+          "open": "05:00",
+          "close": "21:00"
+        },
+        {
+          "day": "Saturday",
+          "open": "05:00",
+          "close": "21:00"
+        },
+        {
+          "day": "Sunday",
+          "open": "04:30",
+          "close": "21:30"
+        }
+      ],
+      "entryFee": {
+        "amount": 0,
+        "currency": "INR",
+        "type": "free"
+      },
+      "recommendedDurationMinutes": 75,
+      "bestTimeToVisit": {
+        "en": "October to March for cool pleasant weather, and during the holy month of Shravan (July–August) or Maha Shivratri for vibrant spiritual festivities.",
+        "hi": "अक्टूबर से मार्च तक का समय सुहावने मौसम के लिए, तथा श्रावण मास (जुलाई-अगस्त) अथवा महाशिवरात्रि का समय अलौकिक आध्यात्मिक उत्सवों के दर्शन के लिए सर्वोत्तम है।"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Well-connected by paved district roadways linking Begusarai to Bakhri and Garhpura. Direct passenger buses, shared maxi-cabs, and auto-rickshaws operate from Begusarai Bus Stand and Bakhri town directly to Garhpura Bazaar.",
+        "hi": "बेगूसराय, बखरी और गढ़पुरा को जोड़ने वाली पक्की जिला सड़कों द्वारा सुगम आवागमन। बेगूसराय बस स्टैंड और बखरी चौक से गढ़पुरा बाजार के लिए सीधी यात्री बसें, मैक्सी कैब और ऑटो-रिक्शा निरंतर उपलब्ध रहते हैं।"
+      },
+      "railway": [
+        {
+          "name": {
+            "en": "Garhpura Railway Station (GPH)",
+            "hi": "गढ़पुरा रेलवे स्टेशन (GPH)"
+          },
+          "distanceKm": 2
+        },
+        {
+          "name": {
+            "en": "Bakhri / Salauna Railway Station (SLNA)",
+            "hi": "सलौना रेलवे स्टेशन (SLNA)"
+          },
+          "distanceKm": 11
+        },
+        {
+          "name": {
+            "en": "Begusarai Railway Station (BGS)",
+            "hi": "बेगूसराय रेलवे स्टेशन (BGS)"
+          },
+          "distanceKm": 35
+        },
+        {
+          "name": {
+            "en": "Barauni Junction (BJU)",
+            "hi": "बरौनी जंक्शन (BJU)"
+          },
+          "distanceKm": 48
+        }
+      ],
+      "airport": [
+        {
+          "name": {
+            "en": "Darbhanga Airport (DBR)",
+            "hi": "दरभंगा हवाई अड्डा (DBR)"
+          },
+          "distanceKm": 92
+        },
+        {
+          "name": {
+            "en": "Jay Prakash Narayan International Airport, Patna (PAT)",
+            "hi": "जयप्रकाश नारायण अंतरराष्ट्रीय हवाई अड्डा, पटना (PAT)"
+          },
+          "distanceKm": 150
+        }
+      ],
+      "localTransport": {
+        "en": "E-rickshaws, shared auto-rickshaws, and cycle-rickshaws are readily available at Garhpura railway halt and Bakhri road junction to reach the temple gates within minutes.",
+        "hi": "गढ़पुरा रेलवे स्टेशन और बखरी रोड तिराहे पर ई-रिक्शा, शेयरिंग ऑटो और साइकिल रिक्शा प्रचुर संख्या में उपलब्ध रहते हैं जो चंद मिनटों में मंदिर पहुंचा देते हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 0,
+        "max": 0,
+        "currency": "INR",
+        "note": {
+          "en": "General darshan and jalabhishek are completely free; ritual puja items (belpatra, flowers, milk, incense) cost ₹30 to ₹100 at temple stalls.",
+          "hi": "सामान्य दर्शन और जलाभिषेक पूर्णतः निःशुल्क है; पूजा सामग्री (बेलपत्र, फूल, दूध, धतूरा, अगरबत्ती) की थाली ₹30 से ₹100 में उपलब्ध रहती है।"
+        }
+      },
+      "localTransport": {
+        "min": 40,
+        "max": 300,
+        "currency": "INR",
+        "note": {
+          "en": "Shared auto from Begusarai to Bakhri/Garhpura costs ₹50–₹60; local e-rickshaw from Garhpura station costs ₹10; private reserved auto costs ₹250–₹350.",
+          "hi": "बेगूसराय से बखरी/गढ़पुरा शेयरिंग ऑटो ₹50–₹60 प्रति व्यक्ति; गढ़पुरा स्टेशन से ई-रिक्शा ₹10; आरक्षित ऑटो ₹250–₹350 रहता है।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": true,
+      "atm": false,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 250,
+      "stairs": false,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "**Jalabhishek Guidelines & Monday Worship Protocols:**\n\nTo have a serene and soul-stirring worship experience at **Baba Hari Giri Dham**, note these traditional devotional practices:\n\n- **Monday & Pradosh Crowds:** Mondays are exceptionally sacred for Lord Shiva, attracting heavy local congregations; visiting between **05:00 AM and 07:30 AM** or in the peaceful afternoon window between **01:30 PM and 04:00 PM** ensures unhurried personal jalabhishek.\n- **Traditional Offerings:** Devotees customarily offer pure Gangajal, fresh Belpatra (wood-apple leaves), Dhatura, raw milk, and sacred sandalwood paste (*Chandan*) to the Swayambhu Lingam; avoid using metallic utensils other than copper or brass for pouring water.\n- **Saptakoop Reverence:** Do not contaminate the waters of the ancient Saptakoop wells; draw water only using the provided pulleys and buckets designated for ritual purposes.",
+        "hi": "**जलाभिषेक नियम एवं सोमवार पूजा संबंधी आवश्यक मार्गदर्शन:**\n\n**बाबा हरि गिरी धाम** में भगवान भोलेनाथ के दर्शन और जलाभिषेक को शांतिपूर्ण व फलदायी बनाने के लिए इन पावन नियमों का ध्यान रखें:\n\n- **सोमवार और प्रदोष की भीड़:** भगवान शिव का प्रिय दिन होने के कारण प्रत्येक सोमवार को यहाँ भारी भीड़ रहती है। कतारों से बचने के लिए प्रातः **05:00 बजे से 07:30 बजे** के बीच अथवा दोपहर **01:30 बजे से 04:00 बजे** के शांत समय में दर्शन हेतु पहुंचें।\n- **पारंपरिक पूजन सामग्री:** स्वयंभू शिवलिंग पर पवित्र गंगाजल, ताजे बेलपत्र, धतूरा, कच्चा दूध, भस्म और चंदन अर्पित करने की शास्त्रीय परंपरा है; जल चढ़ाने के लिए तांबे या पीतल के लोटे का ही उपयोग करें।\n- **सप्तकूप की पवित्रता:** प्राचीन सप्तकूप के पावन जल को प्रदूषित न करें; स्नान अथवा आचमन के लिए केवल निर्धारित बाल्टियों और रस्सियों का ही प्रयोग करें।"
+      },
+      {
+        "en": "**Shravani Mela Survival Tips & Kanwariya Logistics:**\n\nIf participating in or visiting during the month-long **Shravan Fair (July–August)**, keep these logistical points in mind:\n\n- **Kanwar Route Preparedness:** If undertaking the traditional barefoot pedestrian Kanwar pilgrimage from Simaria Ghat to Garhpura (approx. 45 km), carry foot bandages, ORS hydration packets, and walk along the shaded shoulder tracks maintained by voluntary Seva camps.\n- **Traffic & Security Regulations:** During Sawan Mondays, vehicular movement around Garhpura bazaar is restricted by district police; utilize the designated outer parking zones located 500 meters from the temple gateway.\n- **Locker & Shoe Stands:** Dedicated volunteer booths operate during the festival to store shoes and bags safely; keep your belongings organized before entering the barricaded queue lanes.",
+        "hi": "**श्रावणी मेले में दर्शन एवं कांवरियों के लिए आवश्यक सुझाव:**\n\nयदि आप सावन के पावन महीने (जुलाई-अगस्त) में **श्रावणी मेले** के दौरान धाम की यात्रा कर रहे हैं, तो इन व्यवस्थागत बातों का ध्यान रखें:\n\n- **कांवर मार्ग की तैयारी:** यदि आप सिमरिया गंगा तट से गढ़पुरा तक (लगभग 45 किमी) पैदल डाक कांवर यात्रा कर रहे हैं, तो अपने साथ ओआरएस (ORS) के पैकेट, प्राथमिक चिकित्सा सामग्री रखें और सेवा शिविरों की सहायता लेते हुए चलें।\n- **यातायात एवं पार्किंग व्यवस्था:** सावन के सोमवार को गढ़पुरा मुख्य बाजार में वाहनों का प्रवेश प्रतिबंधित रहता है; अतः जिला प्रशासन द्वारा बनाए गए बाहरी पार्किंग स्थलों पर ही अपने वाहन खड़े करें।\n- **जूता स्टैंड व कतार व्यवस्था:** मेले के दौरान सेवा समितियों द्वारा निःशुल्क जूता स्टैंड और व्यवस्थित बैरिकेडिंग बनाई जाती है; सुरक्षा कर्मियों के निर्देशों का पालन करते हुए कतारबद्ध होकर शांतिपूर्वक दर्शन करें।"
+      },
+      {
+        "en": "**Local Delicacies, Cash Advice & Nearby Attractions:**\n\nEnsure a well-rounded and hassle-free excursion across northeast Begusarai:\n\n- **Prasad & Regional Sweets:** Don't miss tasting the famous Garhpura *Pedas* made from pure reduced milk (*Mawa*) and fresh local *Jalebis* sold at sweetshops lining the temple approach bazaar.\n- **Cash Readiness:** Garhpura is a rural block town where digital QR payments can occasionally face telecom network latency; carry sufficient cash in ₹50 and ₹100 denominations for local transport and offerings.\n- **Connected Excursion:** Combine your visit to Baba Hari Giri Dham with the nearby **Kanwar Lake Bird Sanctuary (approx. 18 km west)** and the ancient **Jaimangalagarh Temple** for an enriching full-day cultural and eco-tourism circuit.",
+        "hi": "**स्थानीय प्रसाद, नकद राशि एवं नजदीकी पर्यटन स्थल:**\n\nपूर्वोत्तर बेगूसarai के इस ग्रामीण अंचल की यात्रा को संपूर्ण और सुगम बनाने के लिए उपयोगी सुझाव:\n\n- **प्रसिद्ध गढ़पुरा का पेड़ा:** मंदिर दर्शन के पश्चात मंदिर मार्ग पर स्थित मिष्ठान भंडारों से शुद्ध मावे से बने प्रसिद्ध गढ़पुरा के *पेड़े* और गरमा-गरम *जलेबी* का स्वाद अवश्य लें, जो यहाँ का विशेष प्रसाद है।\n- **नकद राशि साथ रखें:** गढ़पुरा एक ग्रामीण कस्बा है जहाँ कभी-कभी इंटरनेट धीमा होने से ऑनलाइन यूपीआई भुगतान में देरी हो सकती है; अतः स्थानीय खर्चों और प्रसाद हेतु अपने पास पर्याप्त नकद मुद्रा रखें।\n- **संयुक्त पर्यटन सर्किट:** बाबा हरि गिरी धाम के दर्शन के साथ आप पश्चिम दिशा में मात्र 18 किलोमीटर की दूरी पर स्थित विश्वविख्यात **कांवर झील पक्षी अभयारण्य** और **माँ जयमंगला गढ़ मंदिर** का भ्रमण कर एक दिन में संपूर्ण बेगूसराय का आनंद ले सकते हैं।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "kanwar-lake-bird-sanctuary",
+      "jaimangalagarh-temple",
+      "naulakha-temple"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        {
+          "title": "Hari Giri Dham Garhpura - Begusarai District Official Portal",
+          "organization": "District Administration Begusarai, Government of Bihar",
+          "url": "https://begusarai.nic.in/tourist-place/baba-hari-giri-dham/"
+        },
+        {
+          "title": "Shiva Circuit of Bihar",
+          "organization": "Bihar Tourism Development Corporation",
+          "url": "https://tourism.bihar.gov.in/"
+        },
+        {
+          "title": "Temples and Cultural Heritage of Begusarai",
+          "organization": "State Information & Public Relations Department, Bihar",
+          "url": "https://prdbihar.gov.in/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  }
+]

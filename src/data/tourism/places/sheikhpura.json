@@ -1,0 +1,765 @@
+[
+  {
+    "id": "girihinda-mountain",
+    "slug": "girihinda-mountain",
+    "name": {
+      "en": "Girihinda Mountain & Baba Kameshwar Nath Temple",
+      "hi": "गिरिहिंडा पर्वत एवं बाबा कामेश्वर नाथ मंदिर"
+    },
+    "districtId": "sheikhpura",
+    "placeType": "hill",
+    "primaryCategory": "religious",
+    "categories": [
+      "religious",
+      "natural",
+      "historical",
+      "cultural"
+    ],
+    "subcategories": [
+      "shiva_temple",
+      "hilltop_shrine",
+      "scenic_viewpoint",
+      "pilgrimage_site"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "nature_and_wildlife_circuit",
+      "eco_circuit",
+      "shiva_circuit"
+    ],
+    "tags": [
+      "featured",
+      "mustVisit",
+      "panoramic_views",
+      "mahabharata_heritage",
+      "shravan_fair",
+      "trekking"
+    ],
+    "audiences": [
+      "pilgrims",
+      "nature_lovers",
+      "families",
+      "photographers",
+      "adventure_seekers"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "An iconic ~800-foot rocky prominence crowned by the ancient Baba Kameshwar Nath Shiva-Parvati Temple, celebrated for Mahabharata lore and panoramic vistas.",
+      "hi": "लगभग 800 फीट ऊंची मनोरम पहाड़ी जिसके शिखर पर महाभारत कालीन बाबा कामेश्वर नाथ शिव-पार्वती मंदिर स्थित है, जो विहंगम दृश्यों और गहरी आस्था का केंद्र है।"
+    },
+    "description": {
+      "en": "The **Girihinda Mountain** (locally revered as **Girihinda Pahar**) is the defining geographical landmark, spiritual nerve center, and premier eco-tourism destination of **Sheikhpura district** in south-central Bihar. Rising dramatically to an elevation of approximately **800 feet** above the surrounding fertile Gangetic and Magadh plains, this magnificent rocky hillock commands awe-inspiring panoramic vistas of verdant agricultural fields, winding water bodies, and the bustling township of Sheikhpura spreading toward the horizon.\n\nPerched majestically atop its rocky crest is the celebrated **Baba Kameshwar Nath Temple**, an ancient sanctuary dedicated to **Lord Shiva** and his divine consort **Maa Parvati**. Devotees and leisure travelers ascend the hill either via a well-paved, scenic pedestrian stairway winding through shaded neem and banyan trees or via a dedicated motorable ghat road suitable for two-wheelers and light motor vehicles.\n\n- **Scenic Terraces & Bal Udyan:** The foothills and mid-slopes feature beautifully landscaped recreational gardens, a children's park (*Bal Udyan*), stone gazebos, cascading water fountains, and panoramic viewing decks developed by Bihar Tourism and the district administration.\n- **Spiritual Aura & Sunrise Views:** The crisp hill breeze, the resonant ringing of ancient brass bells, and the morning sun casting golden hues across the Magadha horizon offer a sublime atmosphere for meditation, quiet introspection, and nature photography.\n- **Vibrant Congregation:** The hillside becomes a sea of devotional fervor during the auspicious month of **Shravan** and the holy night of **Maha Shivratri**, when tens of thousands of devotees assemble for holy *Jalabhisheka* and sacred darshan.",
+      "hi": "**गिरिहिंडा पर्वत** (स्थानीय रूप से **गिरिहिंडा पहाड़**) दक्षिण-मध्य बिहार के **शेखपुरा जिले** का सर्वप्रमुख भौगोलिक प्रतीक, आध्यात्मिक चेतना का केंद्र और एक अत्यंत लोकप्रिय प्राकृतिक पर्यटन स्थल है। विस्तृत मगध के समतल मैदानी भूभाग से लगभग **800 फीट** की ऊंचाई पर शान से खड़ा यह प्रस्तर पर्वत चारों ओर फैली हरियाली, प्राचीन जलाशयों और क्षितिज तक फैले शेखपुरा नगर का मनमोहक विहंगम दृश्य प्रस्तुत करता है।\n\nपर्वत के सर्वोच्च शिखर पर प्राचीन और चमत्कारी **बाबा कामेश्वर नाथ मंदिर** विराजमान है, जो देवाधिदेव **भगवान शिव** एवं जगतजननी **माता पार्वती** को समर्पित है। श्रद्धालु और प्रकृति प्रेमी पर्वत की चोटी तक पहुँचने के लिए छायादार नीम और वटवृक्षों से घिरी सुव्यवस्थित पक्की सीढ़ियों का मार्ग चुनते हैं, जबकि हल्के वाहनों और दोपहिया वाहनों के लिए एक सुगम सर्पिलाकार घाट मार्ग (मोटरेबल रोड) भी निर्मित किया गया है।\n\n- **बाल उद्यान एवं मनोरम वाटिकाएँ:** पर्वत की तलहटी और मध्य ढलानों पर बिहार पर्यटन तथा जिला प्रशासन द्वारा सुसज्जित बाल उद्यान, संगमरमरी फव्वारे, विश्राम शेड और सुंदर पाथवे विकसित किए गए हैं, जो इसे परिवारों के लिए आदर्श अवकाश स्थल बनाते हैं।\n- **प्राकृतिक छटा एवं ध्यान साधना:** प्रातःकाल की शीतल पहाड़ी समीर, मंदिर के घंटों की मंगल ध्वनि और सूर्योदय के समय स्वर्णिम आभा में नहाया मगध क्षेत्र यहाँ आने वाले हर आगंतुक को असीम शांति, ताजगी और ध्यानमयी ऊर्जा प्रदान करता है।\n- **भव्य धार्मिक संगम:** पवित्र **श्रावण मास** और **महाशिवरात्रि** के पावन पर्व पर समूचा पर्वत केसरिया रंग में रंग जाता है, जहाँ लाखों कांवड़िए और शिवभक्त बाबा के जलाभिषेक हेतु मीलों की यात्रा कर शीश नवाने पहुँचते हैं।"
+    },
+    "history": {
+      "en": "The historical and mythological heritage of **Girihinda Mountain** is deeply intertwined with the ancient epic **Mahabharata** and the vibrant regional folklore of the Magadha region:\n\n- **The Pandava Exile & Bhima's Residence:** According to revered local traditions and enduring folk chronicles, during the period of their forest exile (*Vanvas*), the five **Pandava brothers** and mother Kunti traversed this forested hill range. It is believed that the mighty Pandava warrior **Bhima** made this imposing mountain his residence.\n- **Encounter with Hidimba and Ghatotkacha's Birth:** Folklore affirms that the forest surrounding Girihinda was the domain of the demon king Hidimb and his sister **Hidimba**. Upon vanquishing Hidimb, Bhima accepted Hidimba as his consort atop this hill, and from this sacred union was born their legendary warrior son, **Ghatotkacha**, who played a pivotal role in the Kurukshetra War.\n- **Divine Overnight Temple Construction:** The legend further narrates that Bhima personally consecrated a Shivalinga on this summit to atone for battlefield combat and seek cosmic tranquility. Astounded by his unwavering devotion, Lord Shiva instructed the celestial architect **Lord Vishwakarma** to construct the stone sanctum overnight before the cock's first morning crow.\n\nThroughout the medieval era, the strategic hill served as a lookout bastion for regional chieftains and monks traveling between Nalanda and Rajgir, retaining its timeless role as an unshakeable citadel of faith across millennia.",
+      "hi": "**गिरिहिंडा पर्वत** का इतिहास और पौराणिक आख्यान महाकाव्य **महाभारत** तथा मगध क्षेत्र की प्राचीनतम लोकगाथाओं में गहराई से समाहित हैं:\n\n- **पांडवों का अज्ञातवास एवं भीम का निवास:** प्रचलित धार्मिक मान्यताओं और स्थानीय जनश्रुतियों के अनुसार, अपने बारह वर्षों के वनवास के दौरान **पांडवों** ने माता कुंती के साथ इस विंध्य-मगध वनमाला में आश्रय लिया था। इस विशाल और दुर्गम पर्वत को पराक्रमी पांडव पुत्र **भीम** ने अपने विशेष साधना और निवास स्थल के रूप में चुना था।\n- **हिडिम्बा से विवाह एवं घटोत्कच का जन्म:** लोक आख्यानों के अनुसार, यह क्षेत्र राक्षसराज हिडिम्ब और उसकी बहन **हिडिम्बा** का अधिवास था। हिडिम्ब के वधोपरांत, भीम का विवाह हिडिम्बा के साथ इसी रमणीय पर्वत शिखर पर संपन्न हुआ था। इसी पावन संगम से पराक्रमी योद्धा **घटोत्कच** का जन्म हुआ, जिसने महाभारत के धर्मयुद्ध में ऐतिहासिक भूमिका निभाई थी।\n- **विश्वकर्मा द्वारा रातों-रात मंदिर निर्माण:** किंवदंती है कि भीम ने आत्मशुद्धि और भगवान महादेव की अनुकंपा प्राप्त करने के लिए यहाँ एक दुर्लभ शिवलिंग की स्थापना की। भीम की अगाध भक्ति से प्रसन्न होकर देवाधिदेव शिव के निर्देश पर देव-शिल्पी **भगवान विश्वकर्मा** ने रातों-रात, मुर्ग़े की पहली बांग से पूर्व, इस भव्य पाषाण मंदिर का निर्माण संपन्न किया था।\n\nमध्यकाल में यह सामरिक पहाड़ी नालंदा, राजगीर और अंग महाजनपद के मध्य यात्रा करने वाले संतों और सैनिकों के लिए निगरानी स्थल बनी रही। सदियों के उतार-चढ़ाव के बावजूद, यह पर्वत सनातन धर्म और महाभारत कालीन स्मृतियों का एक अडिग केंद्र बना हुआ है।"
+    },
+    "significance": {
+      "en": "The spiritual, cultural, and socio-ecological significance of **Girihinda Mountain** holds unparalleled prominence in the civic life of Sheikhpura and surrounding south Bihar districts:\n\n- **Fulfillment of Desires (*Kameshwar Nath*):** The presiding deity is worshipped as *Kameshwar Nath*—the lord who fulfills all righteous human aspirations, spiritual yearnings, and heartfelt wishes. It is an enduring local conviction that married couples struggling with childlessness who perform traditional *Dugdhabhisheka* (milk ablution) and fervent prayers here are blessed with healthy progeny.\n- **Living Eco-Cultural Sanctuary:** Beyond its spiritual gravitas, Girihinda stands as the green lungs and premier geological wonder of Sheikhpura town. Its weathered granite rocks, native flora, and seasonal water catchment streams provide a vital haven for regional birds, langurs, and indigenous vegetation amidst an urbanizing landscape.\n- **The Grand Shravan Mela:** During the sacred Hindu month of Shravan, thousands of saffron-robed **Kanwariyas** bring sacred water drawn from the holy Ganges at Sultanganj and Barh to bathe the Shivalinga atop Girihinda, transforming the hill into an electrifying corridor of chants proclaiming *\"Har Har Mahadev\"* and *\"Bol Bam\"*.\n- **Community Cohesion & Festivities:** On **Maha Shivratri** and **Makar Sankranti**, vibrant regional fairs host traditional wrestling bouts, rural handicrafts, devotional musical concerts (*Bhajan Sandhyas*), and celebratory family picnics across the lower promenades.",
+      "hi": "**गिरिहिंडा पर्वत** का धार्मिक, सांस्कृतिक और सामाजिक-पारिस्थितिक महत्व शेखपुरा और निकटवर्ती मगध क्षेत्रों के जनजीवन में अत्यंत गहरा और बहुआयामी है:\n\n- **मनोकामना पूरक बाबा कामेश्वर नाथ:** यहाँ प्रतिष्ठित महादेव 'कामेश्वर नाथ' कहलाते हैं—अर्थात समस्त धर्मसम्मत कामनाओं को पूर्ण करने वाले प्रभु। क्षेत्रीय श्रद्धालुओं में यह अटूट विश्वास है कि जो निःसंतान दंपत्ति यहाँ आकर सच्चे मन से दुग्धाभिषेक और जलाभिषेक करते हैं, उन्हें महादेव के आशीर्वाद से सुयोग्य संतान की प्राप्ति होती है और समस्त पारिवारिक कष्टों का निवारण होता है।\n- **प्राकृतिक धरोहर एवं जैव-विविधता:** धार्मिक आस्था के अतिरिक्त, गिरिहिंडा पर्वत शेखपुरा नगर के लिए एक हरित प्राकृतिक फेफड़े (इको-कवर) के रूप में कार्य करता है। इसके प्राचीन ग्रेनाइट प्रस्तर, औषधीय वृक्ष और प्राकृतिक जल सोतें क्षेत्र के पक्षियों, वन्यजीवों और पर्यावरण के संतुलन को बनाए रखने में अमूल्य योगदान देते हैं।\n- **विशाल श्रावणी मेला एवं कांवड़ यात्रा:** पवित्र सावन माह में गंगा नदी से पवित्र जल भरकर लाने वाले हजारों **कांवरिए** नंगे पाँव चलकर इस पर्वत की चढ़ाई करते हैं। *\"बोल बम\"* और *\"हर-हर महादेव\"* के दिव्य जयघोष से समूची पर्वत श्रृंखला आध्यात्मिक ऊर्जा से स्पंदित हो उठती है।\n- **सांस्कृतिक उत्सव एवं सामाजिक समरसता:** **महाशिवरात्रि**, **मकर संक्रांति** और नववर्ष के अवसर पर पर्वत के आंचल में भव्य मेले लगते हैं, जहाँ लोक संगीत, भजन संध्या, ग्रामीण दस्तकारी और परिवार मिलन के कार्यक्रम आयोजित होते हैं, जो सामाजिक सौहार्द को दृढ़ करते हैं।"
+    },
+    "location": {
+      "address": {
+        "en": "Baba Kameshwar Nath Mandir, Girihinda Mountain Peak (Girihinda Pahar Hilltop Shrine), Ward Number 04, Girihinda Mohalla, Adjacent to the Circuit House Road and Forest Rest House, Sheikhpura Nagar Parishad, Sheikhpura Block and Administrative Subdivision, Sheikhpura District, Magadh Administrative Division, Bihar - 811105, Republic of India. Situated approximately 1.5 kilometers northwest of Sheikhpura Central Bus Stand, 2.5 kilometers from Sheikhpura Railway Junction, and directly approachable via the arterial Sheikhpura-Barbigha Main Highway corridor. The sacred hilltop sanctuary stands perched atop an 800-foot rocky granitic prominence with dedicated paved vehicular ghat access, scenic viewing pavilions, and wide pedestrian stairway walkways beginning at the foothill Bal Udyan public park complex.",
+        "hi": "बाबा कामेश्वर नाथ मंदिर, गिरिहिंडा पर्वत शिखर (गिरिहिंडा पहाड़ तीर्थ स्थल), वार्ड संख्या 04, गिरिहिंडा मोहल्ला, सर्किट हाउस रोड एवं वन विश्राम गृह के समीप, शेखपुरा नगर परिषद, शेखपुरा प्रखंड एवं प्रशासनिक अनुमंडल, शेखपुरा जिला, मगध प्रशासनिक प्रमंडल, बिहार - 811105, भारत गणराज्य। यह पावन तीर्थ स्थल शेखपुरा केंद्रीय बस स्टैंड से लगभग 1.5 किलोमीटर उत्तर-पश्चिम, शेखपुरा रेलवे जंक्शन से 2.5 किलोमीटर की दूरी पर स्थित है तथा मुख्य शेखपुरा-बरबीघा राजमार्ग मार्ग से सुगमतापूर्वक जुड़ा हुआ है। यह पवित्र तीर्थ लगभग 800 फीट ऊँचे विशाल ग्रेनाइट शैल शिखर पर विराजमान है, जहाँ तक सुरक्षित पहुँचने के लिए तलहटी में स्थित बाल उद्यान वाटिका परिसर से आरंभ होने वाली पक्की सीढ़ियाँ, सुरक्षा रेलिंग तथा सुगम दोपहिया व कार योग्य सर्पिलाकार पक्की घाट सड़क उपलब्ध है।"
+      },
+      "latitude": 25.1385,
+      "longitude": 85.8562,
+      "mapQuery": "Girihinda Mountain, Baba Kameshwar Nath Temple, Sheikhpura, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "day": "Monday",
+          "open": "04:30",
+          "close": "21:30"
+        },
+        {
+          "day": "Tuesday",
+          "open": "05:00",
+          "close": "20:30"
+        },
+        {
+          "day": "Wednesday",
+          "open": "05:00",
+          "close": "20:30"
+        },
+        {
+          "day": "Thursday",
+          "open": "05:00",
+          "close": "20:30"
+        },
+        {
+          "day": "Friday",
+          "open": "05:00",
+          "close": "20:30"
+        },
+        {
+          "day": "Saturday",
+          "open": "05:00",
+          "close": "20:30"
+        },
+        {
+          "day": "Sunday",
+          "open": "05:00",
+          "close": "20:30"
+        }
+      ],
+      "entryFee": {
+        "amount": 0,
+        "currency": "INR",
+        "type": "free"
+      },
+      "recommendedDurationMinutes": 120,
+      "bestTimeToVisit": {
+        "en": "October to March for pleasant hiking weather and clear vistas; July to August for the sacred Shravan Mela festival.",
+        "hi": "सुहावने मौसम और स्पष्ट दृश्यों के लिए अक्टूबर से मार्च; पावन श्रावणी मेले के दर्शन हेतु जुलाई से अगस्त।"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Girihinda Mountain is located right on the edge of Sheikhpura town, linked via the Patna-Rajgir-Sheikhpura-Lakhisarai highway route. Regular state transport buses, private air-conditioned coaches, and shared passenger vehicles connect Sheikhpura with Patna (120 km), Nawada (42 km), Bihar Sharif (38 km), and Lakhisarai (28 km).",
+        "hi": "गिरिहिंडा पर्वत शेखपुरा नगर के उत्तरी छोर पर स्थित है, जो पटना-राजगीर-शेखपुरा-लखीसराय मार्ग से सीधे जुड़ा है। पटना (120 किमी), नवादा (42 किमी), बिहारशरीफ (38 किमी) और लखीसराय (28 किमी) से नियमित बसें और निजी वाहन उपलब्ध हैं।"
+      },
+      "railway": [
+        {
+          "name": {
+            "en": "Sheikhpura Junction (SHK)",
+            "hi": "शेखपुरा जंक्शन (SHK)"
+          },
+          "distanceKm": 2.5
+        },
+        {
+          "name": {
+            "en": "Kiwul Junction / Lakhisarai (KIUL)",
+            "hi": "किऊल जंक्शन / लखीसराय (KIUL)"
+          },
+          "distanceKm": 28
+        },
+        {
+          "name": {
+            "en": "Nawada Railway Station (NWD)",
+            "hi": "नवादा रेलवे स्टेशन (NWD)"
+          },
+          "distanceKm": 42
+        }
+      ],
+      "airport": [
+        {
+          "name": {
+            "en": "Jay Prakash Narayan International Airport, Patna (PAT)",
+            "hi": "जय प्रकाश नारायण अंतर्राष्ट्रीय हवाई अड्डा, पटना (PAT)"
+          },
+          "distanceKm": 125
+        },
+        {
+          "name": {
+            "en": "Gaya International Airport (GAY)",
+            "hi": "गया अंतर्राष्ट्रीय हवाई अड्डा (GAY)"
+          },
+          "distanceKm": 110
+        }
+      ],
+      "localTransport": {
+        "en": "Battery e-rickshaws, shared three-wheelers, and auto-rickshaws operate continuously from Sheikhpura Railway Junction and the bus terminal directly to the foot of Girihinda Mountain within 10 to 15 minutes.",
+        "hi": "शेखपुरा रेलवे जंक्शन और बस टर्मिनल से लगातार बैटरी ई-रिक्शा और ऑटो-रिक्शा उपलब्ध रहते हैं, जो 10 से 15 मिनट में गिरिहिंडा पर्वत की तलहटी तक पहुँचा देते हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 0,
+        "max": 0,
+        "currency": "INR",
+        "note": {
+          "en": "Free entry to temple; nominal 10 INR maintenance fee for Bal Udyan garden.",
+          "hi": "मंदिर में निःशुल्क प्रवेश; बाल उद्यान हेतु 10 रुपये का मामूली रखरखाव शुल्क।"
+        }
+      },
+      "localTransport": {
+        "min": 20,
+        "max": 100,
+        "currency": "INR",
+        "note": {
+          "en": "One-way shared or reserved e-rickshaw fare from Sheikhpura station.",
+          "hi": "शेखपुरा स्टेशन से एक तरफ का शेयरिंग अथवा रिज़र्व ई-रिक्शा किराया।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": false,
+      "atm": true,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "moderate",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 400,
+      "stairs": true,
+      "wheelchairAccessible": false,
+      "suitableForChildren": true,
+      "suitableForElderly": false
+    },
+    "travelTips": [
+      {
+        "en": "**Ascent Options, Footwear, and Timing Strategy:**\n\nVisitors planning to summit **Girihinda Mountain** can choose between climbing the traditional stone stairway (comprising roughly 350 well-cut steps) or utilizing the winding motorable road that ascends to the upper saddle.\n\n- **Early Morning Ascent:** The ideal time to commence your ascent is at daybreak between **05:30 AM and 07:30 AM**. This enables you to avoid the midday heat, witness an ethereal golden sunrise over the Magadha landscape, and participate in the sanctum's morning *Aarti*.\n- **Footwear and Grip:** Sturdy walking shoes with solid traction are strongly recommended for the hike. Remove your footwear at the designated holding stall outside the upper temple gateway before stepping onto the stone flagstones.\n- **Hydration:** Carry a refillable water bottle, as walking the stairs requires moderate cardiovascular effort, though small snack and tea kiosks operate along the foothill gardens.",
+        "hi": "**चढ़ाई के विकल्प, जूते एवं समय प्रबंधन रणनीति:**\n\n**गिरिहिंडा पर्वत** के शिखर की यात्रा करने वाले श्रद्धालु पारंपरिक पाषाण सीढ़ियों (लगभग 350 चौड़ी और पक्की सीढ़ियाँ) या दोपहिया/चारपहिया वाहनों के लिए बनी सर्पिलाकार पक्की घाट सड़क में से किसी का भी चयन कर सकते हैं।\n\n- **प्रातःकालीन चढ़ाई का लाभ:** अपनी यात्रा प्रातःकाल **05:30 बजे से 07:30 बजे** के बीच शुरू करना सर्वोत्तम है। इससे आप दोपहर की कड़ी धूप से बच सकेंगे, मगध के क्षितिज पर अलौकिक सूर्योदय के साक्षी बन सकेंगे और गर्भगृह में होने वाली मंगल आरती में सम्मिलित हो सकेंगे।\n- **जूते और ग्रिप:** सीढ़ियों की चढ़ाई के लिए आरामदायक और अच्छी ग्रिप वाले स्पोर्ट्स जूते पहनें। मंदिर के मुख्य तोरण द्वार के बाहर बने जूता स्टैंड पर जूते उतारकर ही पवित्र पाषाण प्रांगण में प्रवेश करें।\n- **जलयोजन (हाइड्रेशन):** अपने साथ पीने के पानी की बोतल अवश्य रखें, क्योंकि सीढ़ियों की चढ़ाई में मध्यम शारीरिक श्रम लगता है, यद्यपि तलहटी के बाल उद्यान के समीप चाय और ताजे जल की दुकानें उपलब्ध हैं।"
+      },
+      {
+        "en": "**Temple Etiquette, Offerings, and Photography Norms:**\n\nWhen worshipping at the ancient **Baba Kameshwar Nath Temple**, observance of reverent devotional decorum ensures a serene and fulfilling spiritual pilgrimage:\n\n- **Modest Attire:** Both male and female visitors should wear modest, respectful Indian attire such as kurtas, dhotis, salwar suits, or sarees. Sleeveless tops and brief western attire are considered inappropriate for the sanctum.\n- **Puja Offerings:** Fresh bilva leaves (*Belpatra*), flowers, sacred Gangajal, and unadulterated milk can be purchased from local vendors near the lower car parking and foothill entrance archway.\n- **Photography Guidelines:** Photography and videography are welcomed across the scenic hill terraces, the children's park, and the exterior courtyard to capture magnificent sweeping vistas of Sheikhpura town. However, taking photographs directly inside the sanctum sanctorum (*Garbhagriha*) during ongoing puja rites is prohibited out of respect for sacred tradition.",
+        "hi": "**मंदिर मर्यादा, पूजन सामग्री एवं फोटोग्राफी नियम:**\n\nप्राचीन **बाबा कामेश्वर नाथ मंदिर** में दर्शन और पूजन के दौरान पारंपरिक धार्मिक मर्यादाओं का पालन करना आपकी यात्रा को अत्यंत सुखद और आध्यात्मिक रूप से फलदायी बनाता है:\n\n- **शालीन परिधान:** मंदिर प्रांगण में प्रवेश हेतु पुरुष और महिला श्रद्धालु शालीन एवं सात्विक भारतीय परिधान (जैसे कुर्ता-पायजामा, धोती, सलवार-सूट अथवा साड़ी) धारण करें। पश्चिमी छोटे वस्त्र पहनकर गर्भगृह में जाना वर्जित माना जाता है।\n- **पूजन सामग्री की व्यवस्था:** शुद्ध बेलपत्र, धतूरा, मदार के फूल, पवित्र गंगाजल और गाय का कच्चा दूध तलहटी स्थित पार्किंग और प्रवेश द्वार के पास लगी दुकानों से आसानी से प्राप्त किया जा सकता है।\n- **फोटोग्राफी एवं वीडियोग्राफी:** पर्वत की खुली छतों, बाल उद्यान और मनोरम पहाड़ियों से शेखपुरा नगर के विहंगम दृश्यों को कैमरे में कैद करने की पूरी छूट है। तथापि, गर्भगृह के भीतर स्थापित मुख्य शिवलिंग की तस्वीरें पूजा अनुष्ठानों के दौरान लेना धार्मिक मर्यादा के विरुद्ध है और इससे बचना चाहिए।"
+      },
+      {
+        "en": "**Monsoon Cautions, Wildlife Awareness, and Seasonal Crowds:**\n\nPlanning your trip to **Girihinda Mountain** requires mindful attention to regional weather variations and seasonal surges:\n\n- **Monsoon Precautions:** During the monsoon months (late June to September), the exposed granite boulders and older outdoor stone steps can become slippery with moss. Tread with deliberate care, stay on marked safety paths, and avoid walking along precipitous cliff edges.\n- **Simian Inhabitants:** The hill is home to troops of indigenous rhesus macaques and gray langurs. Keep your food packages, prasad bags, spectacles, and shiny belongings securely packed in zipped backpacks to prevent unexpected snatching.\n- **Festival Rush Management:** If visiting during the peak **Shravan Mela** or **Maha Shivratri**, anticipate long serpentine queues and heavy traffic along the approach road. It is highly recommended to arrive before 06:00 AM or in late afternoon to avoid peak midday congestion.",
+        "hi": "**मानसून सावधानी, वन्यजीव सतर्कता एवं मौसमी भीड़ प्रबंधन:**\n\n**गिरिहिंडा पर्वत** की सुरक्षित और आनंददायक यात्रा के लिए स्थानीय मौसम और त्योहारों की भीड़ को ध्यान में रखकर योजना बनाना बेहद आवश्यक है:\n\n- **बरसात में फिसलन से बचाव:** मानसून के महीनों (जुलाई से सितंबर) के दौरान खुले ग्रेनाइट पत्थरों और बाहरी सीढ़ियों पर काई जमने के कारण फिसलन हो सकती है। अतः हमेशा रेलिंग पकड़कर चलें, निर्धारित पक्के रास्तों पर रहें और खतरनाक ढलानों के किनारे जाने से बचें।\n- **बंदरों से सावधानी:** पहाड़ी पर स्थानीय लंगूरों और बंदरों की टोलियां विचरण करती हैं। अपने प्रसाद के थैले, खाने-पीने की वस्तुएं, चश्मे और मोबाइल फोन को बैकपैक में सुरक्षित रखें तथा उन्हें अनावश्यक रूप से छेड़ने या डराने का प्रयास न करें।\n- **त्योहारों में समय प्रबंधन:** **श्रावणी मेला** और **महाशिवरात्रि** के दौरान यहाँ श्रद्धालुओं की भारी भीड़ उमड़ती है। लंबी कतारों और वाहनों के जाम से बचने के लिए प्रातः 06:00 बजे से पूर्व अथवा अपराह्न काल में दर्शन के लिए पहुँचना अधिक सुविधाजनक रहता है।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "arghauti-pokhar",
+      "shri-vishnu-dham-samas"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-18",
+      "sources": [
+        {
+          "title": "Sheikhpura District Administration Official Portal",
+          "organization": "Government of Bihar",
+          "url": "https://sheikhpura.nic.in/tourist-place/girihinda-mountain/"
+        },
+        {
+          "title": "Bihar State Tourism Development Corporation",
+          "organization": "Department of Tourism, Government of Bihar",
+          "url": "https://tourism.bihar.gov.in/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "shri-vishnu-dham-samas",
+    "slug": "shri-vishnu-dham-samas",
+    "name": {
+      "en": "Shri Vishnu Dham, Samas",
+      "hi": "श्री विष्णु धाम, सामस"
+    },
+    "districtId": "sheikhpura",
+    "placeType": "temple",
+    "primaryCategory": "religious",
+    "categories": [
+      "religious",
+      "historical",
+      "cultural",
+      "archaeological"
+    ],
+    "subcategories": [
+      "vishnu_temple",
+      "pala_dynasty_monument",
+      "ancient_sculpture",
+      "pilgrimage_shrine"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "vaishnava_circuit",
+      "heritage_circuit"
+    ],
+    "tags": [
+      "featured",
+      "mustVisit",
+      "pala_art",
+      "monolithic_statue",
+      "tirupati_of_north_india",
+      "archaeological_wonder"
+    ],
+    "audiences": [
+      "pilgrims",
+      "history_buffs",
+      "archaeologists",
+      "families",
+      "cultural_travelers"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "The renowned 'Tirupati of North India' enshrining a magnificent 7.5-foot Pala-era monolithic black granite idol of Lord Vishnu discovered in 1992.",
+      "hi": "'उत्तर भारत का तिरुपति' नाम से विख्यात भव्य तीर्थ, जहाँ 1992 में एक प्राचीन सरोवर से प्राप्त भगवान विष्णु की 7.5 फीट ऊंची दुर्लभ पालकालीन श्याम पाषाण प्रतिमा स्थापित है।"
+    },
+    "description": {
+      "en": "**Shri Vishnu Dham** (also celebrated as **Samas Vishnu Mandir** or **Vishnu Khamba**) is an internationally acclaimed pilgrimage destination and archaeological marvel situated in the historic village of **Samas Buzurg**, located near Barbigha in **Sheikhpura district**, Bihar. Renowned across spiritual circles as the **\"Tirupati of North India\"** (*Uttar Bharat ka Tirupati*), the temple enshrines what is acknowledged by art historians as one of the largest, most exquisitely carved monolithic idols of **Lord Maha Vishnu** ever discovered in northern India.\n\nCrafted from a single block of lustrous black Kasauti stone (touchstone/black granite), the awe-inspiring idol stands an astounding **7 feet 6 inches in height** and spans roughly **3.5 feet across**. The deity is represented in the classical *Chaturbhuja* (four-armed) Samapadasthanaka posture, holding the celestial attributes: the sacred conch shell (*Shankha*), the cosmic discus (*Sudarshana Chakra*), the divine mace (*Kaumodaki Gada*), and the auspicious lotus (*Padma*).\n\n- **Magnificent Iconography:** The divine murti is adorned with a towering Kirita-mukuta (royal crown), flowing Vanamala (celestial garland), intricately carved armlets, and celestial attendants including Goddess Lakshmi and Goddess Saraswati standing gracefully by the Lord's feet.\n- **Temple Complex & Sacred Kund:** The shrine stands proudly within a serene rural expanse bordered by a large sacred water tank (*Vishnu Sarovar*), whose tranquil waters reflect the gleaming spire of the modern temple complex built through community devotion and state support.\n- **Spiritual Pilgrimage:** Countless devotees, scholar monks, and travelers from across India converge upon Samas to witness the hypnotic divine gaze of this centuries-old cosmic protector, offering tulsi garlands and Vedic prayers.",
+      "hi": "**श्री विष्णु धाम** (जिन्हें **सामस विष्णु मंदिर** अथवा **विष्णु खंभा** के नाम से भी जाना जाता है) बिहार के **शेखपुरा जिले** में बरबीघा प्रखंड के अंतर्गत ऐतिहासिक ग्राम **सामस बुजुर्ग** में स्थित एक अत्यंत पावन तीर्थस्थल और पुरातात्विक विस्मय है। संपूर्ण भारतवर्ष में **\"उत्तर भारत का तिरुपति\"** के गौरवमयी नाम से विख्यात, यह भव्य मंदिर भगवान **श्री महाविष्णु** की उत्तर भारत में खोजी गई सबसे विशाल और कलात्मक रूप से परिपूर्ण एकल प्रस्तर (मोनोलिथिक) प्रतिमाओं में से एक को अपने गर्भगृह में संजोए हुए है।\n\nएक ही चमकीले काले कसौटी पत्थर (दुर्लभ कृष्ण प्रस्तर) से तराशी गई यह भव्य प्रतिमा लगभग **7 फीट 6 इंच ऊंची** और **3.5 फीट चौड़ी** है। चतुर्भुजी स्वरूप में भगवान विष्णु समपादस्थानक मुद्रा में विराजमान हैं, जिनके चारों कर-कमलों में शंख, चक्र, गदा और पद्म सुशोभित हैं।\n\n- **अद्भुत प्रतिमा विज्ञान (आइकनोग्राफी):** प्रतिमा के मस्तक पर भव्य किरीट-मुकुट, कंठ में वैजयंती वनमाला, बाजूबंद और चरणों के समीप माता लक्ष्मी एवं माता सरस्वती की अत्यंत नक्काशीदार छवियां उकेरी गई हैं, जो पालकालीन मूर्तिकला के चरमोत्कर्ष को दर्शाती हैं।\n- **सरोवर एवं मंदिर प्रांगण:** यह दिव्य मंदिर एक विशाल और पवित्र सरोवर (**विष्णु सरोवर**) के मध्य एक द्वीप-सदृश ऊंचे चबूतरे पर स्थापित है, जिसके स्वच्छ जल में मंदिर के श्वेत शिखर का मनोहारी प्रतिबिंब दिखाई पड़ता है।\n- **अखंड भक्ति परंपरा:** प्रतिदिन दूर-दराज से आने वाले हजारों श्रद्धालु, इतिहासकार और साधु-संत यहाँ आकर भगवान विष्णु के श्रीचरणों में तुलसी दल, पंचामृत और पीले पुष्प अर्पित कर अपने जीवन में सुख, शांति और मोक्ष की प्रार्थना करते हैं।"
+    },
+    "history": {
+      "en": "The emergence of **Shri Vishnu Dham** is one of the most astonishing archaeological discoveries in modern Bihar, bridging centuries of forgotten royal heritage with present-day devotional revival:\n\n- **The Historic Excavation of 1992:** For generations, an obscure weathered black stone slab projected out of the embankment of the ancient village pond in Samas, locally utilized by washermen without realizing its sacred identity. On **July 5, 1992**, during a community de-silting and excavation project led by village elders, the earth gave way to reveal the colossal, pristine form of Lord Vishnu lying perfectly preserved under the silt.\n- **Pala Dynasty Artistry & Inscription:** Rigorous archaeological examinations by the Archaeological Survey of India (ASI) and the Bihar State Department of Archaeology dated the sculpture to the **Pala Empire (circa 9th–11th Century CE)**, an era celebrated as the golden age of classical stone metallurgy and Tantric-Vedic art. Fascinatingly, a clear ancient Brahmi-derived Nagari inscription on the pedestal records the name of the master sculptor, **\"Sitdev\"** (or *Shitdev*).\n- **The Vishnu Khamba Tradition:** The site was traditionally remembered in oral memory as associated with an ancient astronomical pillar or stone monument (*Vishnu Khamba*), indicating that Samas once thrived as a monumental Vaishnava temple town during the reign of King Dharmapala or Devapala.\n\nFollowing its joyous unearthing, local villagers, philanthropic trusts, and the Bihar Government united to construct a dignified sanctum around the idol, enshrining the timeless masterwork in eternal reverence.",
+      "hi": "**श्री विष्णु धाम (सामस)** का इतिहास आधुनिक बिहार के सबसे रोमांचक और चमत्कारी पुरातात्विक उद्घाटनों में से एक है, जिसने सदियों से दबी गौरवशाली विरासत को पुनः जाग्रत कर दिया:\n\n- **5 जुलाई 1992 का ऐतिहासिक प्रकटीकरण:** सामस गाँव के एक पुराने तालाब (पोखर) के किनारे एक विशाल काला पत्थर दशकों से आंशिक रूप से बाहर निकला हुआ था, जिसका उपयोग ग्रामीण साधारण पत्थर मानकर करते थे। **5 जुलाई 1992** को जब गाँव वालों ने तालाब की गहरी खुदाई और उड़ाही का कार्य शुरू किया, तो कीचड़ और गाद के भीतर से भगवान विष्णु की यह सात-साढ़े सात फीट लंबी, पूर्णतः सुरक्षित और भव्य प्रतिमा बाहर निकल आई।\n- **पालकालीन कला एवं शिल्पी 'सीतदेव' का शिलालेख:** भारतीय पुरातत्व सर्वेक्षण और बिहार पुरातत्व निदेशालय के विशेषज्ञों द्वारा किए गए गहन परीक्षणों से यह सिद्ध हुआ कि यह दुर्लभ मूर्ति **पाल साम्राज्य (लगभग 9वीं से 11वीं शताब्दी ईस्वी)** की उत्कृष्ट कृति है। प्रतिमा के निचले पादपीठ पर प्राचीन नागरी लिपि में इसके मुख्य मूर्तिकार का नाम **\"सीतदेव\"** (या *शितदेव*) स्पष्ट रूप से उत्कीर्ण है।\n- **विष्णु खंभा की प्राचीन परंपरा:** स्थानीय बुजुर्गों की मौखिक स्मृति में यह स्थान 'विष्णु खंभा' या विशाल स्तंभ वाले मंदिर स्थल के रूप में विख्यात था, जो यह सिद्ध करता है कि पाल सम्राट धर्मपाल अथवा देवपाल के काल में सामस एक विशाल वैष्णव तीर्थ नगरी रहा होगा।\n\nप्रतिमा के प्राकट्य के उपरांत ग्रामीणों और बिहार सरकार के सहयोग से यहाँ भव्य मंदिर का निर्माण कराया गया, जो आज पूरे मगध और अंग क्षेत्र का गौरव बना हुआ है।"
+    },
+    "significance": {
+      "en": "The spiritual, historical, and architectural significance of **Shri Vishnu Dham** places it among the paramount Vaishnavite pilgrimage shrines of Eastern India:\n\n- **The North Indian Tirupati:** Revering the deity with the same boundless devotion as Lord Venkateswara of Tirumala, pilgrims flock to Samas under the belief that standing before this magnificent Vishnu murti bestows profound spiritual purification, material abundance, freedom from planetary afflictions, and the ultimate blessing of *Moksha* (liberation).\n- **Masterpiece of Pala Iconography:** As an unrivaled masterpiece of Eastern Indian classical sculpture, the statue features intricate open-work carving (*Jali* work) around the celestial halo (*Prabhamandala*), displaying Vidyadharas, Gandharvas, makara motifs, and divine avatars, making it a subject of monumental fascination for art historians worldwide.\n- **Grand Religious Congregations:** The temple vibrates with ecstatic devotional music on **Vaikuntha Ekadashi**, **Janmashtami**, **Anant Chaturdashi**, and **Kartik Purnima**, when thousands of families undertake vows (*Manokamna Vrat*), conducting sacred satyanarayan pujas along the pond's paved banks.\n- **Center of Regional Harmony:** The temple's rediscovery catalyzed a deep cultural awakening across Sheikhpura and Nalanda districts, fostering communal cooperation, rural economic vitality, and widespread heritage conservation initiatives across the region.",
+      "hi": "**श्री विष्णु धाम** का आध्यात्मिक, ऐतिहासिक और मूर्तिकला की दृष्टि से महत्व पूर्वी भारत के प्रमुख वैष्णव तीर्थस्थलों में सर्वोपरि माना जाता है:\n\n- **उत्तर भारत के तिरुपति के रूप में मान्यता:** जिस प्रकार दक्षिण भारत में तिरुपति बालाजी की महिमा है, उसी प्रकार उत्तर भारत में सामस के इस श्रीविष्णु विग्रह को साक्षात वैकुंठपति का स्वरूप माना जाता है। श्रद्धालुओं का दृढ़ विश्वास है कि भगवान विष्णु के इस दिव्य रूप के दर्शन मात्र से जन्म-जन्मांतर के पापों का क्षय होता है, ग्रह दोष शांत होते हैं और परिवार में सुख, समृद्धि तथा शांति का वास होता है।\n- **पाल मूर्तिकला का अद्वितीय शिखर:** यह प्रतिमा पाल युगीन पाषाण शिल्प का सर्वश्रेष्ठ उदाहरण है। भगवान के प्रभा-मंडल (आभामंडल) के चारों ओर गंधर्वों, अप्सराओं, मकर मुखों और दशावतारों की इतनी सूक्ष्म और सजीव नक्काशी की गई है कि यह विश्वभर के शोधकर्ताओं और कला मर्मज्ञों को आश्चर्यचकित कर देती है।\n- **प्रमुख उत्सव एवं अनुष्ठान:** **वैकुंठ एकादशी**, **श्रीकृष्ण जन्माष्टमी**, **अनंत चतुर्दशी** और **कार्तिक पूर्णिमा** के पावन अवसरों पर यहाँ भव्य मेले लगते हैं। इस दौरान हजारों श्रद्धालु सरोवर में स्नान कर भगवान को 56 भोग, पीतांबरी वस्त्र और तुलसी मंजरी अर्पित करते हैं।\n- **सांस्कृतिक समरसता का केंद्र:** 1992 में हुए इस दैवीय प्राकट्य ने न केवल सामस गाँव बल्कि पूरे शेखपुरा जिले को अंतरराष्ट्रीय मानचित्र पर पहचान दिलाई है, जिससे क्षेत्र में धार्मिक पर्यटन और सांस्कृतिक गौरव का अभूतपूर्व संचार हुआ है।"
+    },
+    "location": {
+      "address": {
+        "en": "Shri Vishnu Dham Mandir Complex, Samas Village (Samas Buzurg Gram Panchayat), Near Barbigha-Sarmera State Highway Corridor, Barbigha Block and Assembly Constituency, Sheikhpura District, Magadh Administrative Division, Bihar - 811101, Republic of India. Situated approximately 6 kilometers east of Barbigha municipal town center, 22 kilometers northwest of Sheikhpura District Headquarters, and easily accessible via the Bihar Sharif-Barbigha connecting arterial highway road. The historic pilgrimage sanctuary complex is established directly adjacent to the ancient Vishnu Sarovar water reservoir in the peaceful rural landscape of Samas Buzurg, featuring fully paved entrance roads, dedicated visitor parking zones, clean perimeter circumambulatory paths, and large covered pilgrim assembly halls.",
+        "hi": "श्री विष्णु धाम मंदिर तीर्थ परिसर, सामस गाँव (सामस बुजुर्ग ग्राम पंचायत), बरबीघा-सरमेरा स्टेट हाईवे कॉरिडोर के समीप, बरबीघा प्रखंड एवं विधानसभा क्षेत्र, शेखपुरा जिला, मगध प्रशासनिक प्रमंडल, बिहार - 811101, भारत गणराज्य। यह पावन तीर्थस्थल बरबीघा नगर केंद्र से लगभग 6 किलोमीटर पूर्व, शेखपुरा जिला मुख्यालय से 22 किलोमीटर उत्तर-पश्चिम तथा बिहारशरीफ-बरबीघा मुख्य संपर्क मार्ग द्वारा सुगमता से जुड़ा हुआ है। यह ऐतिहासिक तीर्थ परिसर सामस बुजुर्ग के शांत व रमणीय ग्रामीण अंचल में प्राचीन पवित्र विष्णु सरोवर के पावन तट पर स्थित है, जहाँ पक्के संपर्क मार्ग, तीर्थयात्री वाहन पार्किंग, स्वच्छ परिक्रमा पथ, छायादार विश्राम शेड और विशाल सत्संग मंडप की सुचारू व्यवस्था उपलब्ध है।"
+      },
+      "latitude": 25.2415,
+      "longitude": 85.736,
+      "mapQuery": "Shri Vishnu Dham, Samas, Barbigha, Sheikhpura, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "day": "Monday",
+          "open": "05:30",
+          "close": "20:30"
+        },
+        {
+          "day": "Tuesday",
+          "open": "05:30",
+          "close": "20:30"
+        },
+        {
+          "day": "Wednesday",
+          "open": "05:30",
+          "close": "20:30"
+        },
+        {
+          "day": "Thursday",
+          "open": "05:30",
+          "close": "20:30"
+        },
+        {
+          "day": "Friday",
+          "open": "05:30",
+          "close": "20:30"
+        },
+        {
+          "day": "Saturday",
+          "open": "05:30",
+          "close": "20:30"
+        },
+        {
+          "day": "Sunday",
+          "open": "05:30",
+          "close": "20:30"
+        }
+      ],
+      "entryFee": {
+        "amount": 0,
+        "currency": "INR",
+        "type": "free"
+      },
+      "recommendedDurationMinutes": 90,
+      "bestTimeToVisit": {
+        "en": "October to March for cool, pleasant sightseeing; November (Kartik Purnima) and December/January (Vaikuntha Ekadashi) for vibrant temple festivities.",
+        "hi": "सुखद और सुहावने मौसम के लिए अक्टूबर से मार्च; कार्तिक पूर्णिमा एवं वैकुंठ एकादशी के भव्य उत्सवों के लिए नवंबर से जनवरी।"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Samas is located 6 km from Barbigha town, which lies at the junction of major state highways linking Patna, Bihar Sharif, Sheikhpura, and Mokama. Regular express and local buses ply between Patna (90 km), Bihar Sharif (24 km), and Barbigha throughout the day.",
+        "hi": "सामस बरबीघा नगर से 6 किमी की दूरी पर स्थित है, जो पटना, बिहारशरीफ, शेखपुरा और मोकामा को जोड़ने वाले प्रमुख राज्य राजमार्गों पर पड़ता है। पटना (90 किमी), बिहारशरीफ (24 किमी) और बरबीघा के बीच नियमित बस सेवा उपलब्ध है।"
+      },
+      "railway": [
+        {
+          "name": {
+            "en": "Sheikhpura Junction (SHK)",
+            "hi": "शेखपुरा जंक्शन (SHK)"
+          },
+          "distanceKm": 22
+        },
+        {
+          "name": {
+            "en": "Bihar Sharif Junction (BEHS)",
+            "hi": "बिहारशरीफ जंक्शन (BEHS)"
+          },
+          "distanceKm": 26
+        },
+        {
+          "name": {
+            "en": "Mokama Junction (MKA)",
+            "hi": "मोकामा जंक्शन (MKA)"
+          },
+          "distanceKm": 38
+        }
+      ],
+      "airport": [
+        {
+          "name": {
+            "en": "Jay Prakash Narayan International Airport, Patna (PAT)",
+            "hi": "जय प्रकाश नारायण अंतर्राष्ट्रीय हवाई अड्डा, पटना (PAT)"
+          },
+          "distanceKm": 95
+        },
+        {
+          "name": {
+            "en": "Gaya International Airport (GAY)",
+            "hi": "गया अंतर्राष्ट्रीय हवाई अड्डा (GAY)"
+          },
+          "distanceKm": 105
+        }
+      ],
+      "localTransport": {
+        "en": "Continuous auto-rickshaws, battery e-rickshaws, and shared Vikram tempos operate from Barbigha central bus stand (Sri Krishna Singh Chowk) directly to Samas Vishnu Dham within 15 minutes.",
+        "hi": "बरबीघा मुख्य बस स्टैंड (श्रीकृष्ण सिंह चौक) से सामस विष्णु धाम के लिए लगातार ऑटो-रिक्शा, ई-रिक्शा और विक्रम टेम्पो उपलब्ध रहते हैं, जो 15 मिनट में मंदिर तक पहुँचा देते हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 0,
+        "max": 0,
+        "currency": "INR",
+        "note": {
+          "en": "Free public darshan for all devotees.",
+          "hi": "सभी श्रद्धालुओं के लिए निःशुल्क सार्वजनिक दर्शन।"
+        }
+      },
+      "localTransport": {
+        "min": 20,
+        "max": 120,
+        "currency": "INR",
+        "note": {
+          "en": "One-way shared or private auto fare from Barbigha town.",
+          "hi": "बरबीघा नगर से एक तरफ का शेयरिंग अथवा निजी ऑटो किराया।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": false,
+      "atm": false,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 100,
+      "stairs": false,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "**Optimal Darshan Hours and Ritual Protocol:**\n\nTo absorb the sublime grace of **Shri Vishnu Dham**, schedule your visit during the morning *Mangala Aarti* at **06:00 AM** or the evening *Sandhya Aarti* at **06:30 PM**, when the idol is bathed, adorned in silken Pitambari garments, and illuminated by traditional camphor lamps.\n\n- **Sacred Offerings:** Lord Vishnu is traditionally pleased with offerings of fresh Tulsi leaves, yellow marigold garlands, seasonal fruits, and Makhan-Mishri prasad, all obtainable from village vendors right outside the temple gate.\n- **Attire & Sanctity:** Wear traditional, modest clothing (dhoti-kurta, pyjama, or saree/salwar suit). Remove shoes at the designated shoe stall before ascending the sanctum steps.\n- **Silence & Meditation:** Devotees are encouraged to spend 15–20 minutes quietly sitting in the mandapa to meditate upon the transcendental features of the Pala-era deity.",
+        "hi": "**दर्शन का सर्वश्रेष्ठ समय एवं पूजन विधि:**\n\n**श्री विष्णु धाम** के दिव्य दर्शन का पूर्ण लाभ प्राप्त करने के लिए प्रातः **06:00 बजे** होने वाली मंगला आरती अथवा सायं **06:30 बजे** की संध्या आरती के समय उपस्थित होना सर्वोत्तम रहता है। इस समय भगवान का पंचामृत अभिषेक कर उन्हें पीतांबरी वस्त्रों और सुगंधित पुष्पों से सुसज्जित किया जाता है।\n\n- **पूजन एवं प्रसाद:** भगवान विष्णु को तुलसी दल, पीले गेंदे के फूल, पंचामृत और माखन-मिश्री का भोग अत्यंत प्रिय है, जिसे आप मंदिर के बाहर स्थित स्थानीय दुकानों से सरलता से प्राप्त कर सकते हैं।\n- **पहनावा एवं मर्यादा:** मंदिर में प्रवेश करते समय सात्विक और पारंपरिक भारतीय परिधान (जैसे कुर्ता-पायजामा, धोती या साड़ी/सलवार सूट) धारण करें। मुख्य द्वार पर जूते-चप्पल उतारकर ही संगमरमरी प्रांगण में प्रवेश करें।\n- **ध्यान एवं शांति:** दर्शनोपरांत मंदिर के सभा मंडप में 15 से 20 मिनट शांत बैठकर भगवान के स्वरूप का ध्यान करना अत्यंत शांतिदायक और आध्यात्मिक ऊर्जा प्रदाता माना जाता है।"
+      },
+      {
+        "en": "**Archaeological Appreciation and Photography Protocol:**\n\nFor history enthusiasts, students, and heritage travelers, **Shri Vishnu Dham** provides an extraordinary in-person lesson in medieval Indian iconography and Pala sculptural excellence:\n\n- **Iconographic Details to Notice:** Take special note of the delicate relief carving on the pedestal (*Pitha*), where master sculptor Sitdev inscribed his historic signature in classical script, as well as the celestial attendants flanking the Lord's feet.\n- **Sanctum Photography Restrictions:** While photography of the temple exterior, the pond reflections, and surrounding village panoramas is warmly permitted, taking photographs directly inside the inner sanctum is restricted to preserve the spiritual sanctity of active worship.\n- **Temple Trust Guidance:** The local temple trust (*Nyas Samiti*) priests are exceptionally hospitable and will gladly narrate the fascinating story of the 1992 pond excavation to curious visitors.",
+        "hi": "**पुरातात्विक अध्ययन एवं फोटोग्राफी मर्यादा:**\n\nइतिहास प्रेमियों, पुरातत्व के विद्यार्थियों और शोधार्थियों के लिए **श्री विष्णु धाम** मध्यकालीन भारतीय मूर्तिकला और पाल युगीन प्रस्तर शिल्प का प्रत्यक्ष अध्ययन करने का एक अनुपम केंद्र है:\n\n- **मूर्तिकला की बारीकियां:** दर्शन करते समय भगवान के चरणपीठ पर विशेष ध्यान दें, जहाँ इसके मुख्य शिल्पी 'सीतदेव' का प्राचीन नागरी लिपि में उत्कीर्ण नाम और भगवान के दोनों ओर खड़ी लक्ष्मी-सरस्वती की दुर्लभ मूर्तियां दृष्टव्य हैं।\n- **गर्भगृह के नियम:** मंदिर के बाहरी परिसर, विशाल विष्णु सरोवर और ग्रामीण परिवेश की तस्वीरें लेने की पूरी अनुमति है। परंतु गर्भगृह के भीतर मुख्य विग्रह की तस्वीरें खींचने से पूर्व मंदिर समिति के नियमों का सम्मान करें और मर्यादा बनाए रखें।\n- **स्थानीय पुजारियों से विमर्श:** मंदिर न्यास समिति के पुजारी अत्यंत सहृदय हैं और वे आगंतुकों को 1992 के ऐतिहासिक उत्खनन और प्रतिमा के प्रकटीकरण की रोमांचक गाथा सहर्ष विस्तारपूर्वक सुनाते हैं।"
+      },
+      {
+        "en": "**Transit Logistics, Road Routes, and Excursion Planning:**\n\nOrganizing your excursion to **Samas Village** from Patna, Nalanda, or Sheikhpura requires straightforward route planning:\n\n- **Road Access via Barbigha:** The smoothest route from Patna (approx. 2 hours via NH-30A / SH-8) proceeds through Fatuha, Bakhtiyarpur, and Bihar Sharif directly into Barbigha. From Barbigha's Sri Krishna Chowk, an all-weather rural road leads directly to Samas.\n- **Cash and Connectivity:** While major mobile telephone networks (Jio, Airtel) have reliable 4G/5G coverage in Samas, digital payment QR scanners at village shops can sometimes encounter signal drops; carrying modest cash currency is recommended.\n- **Combined Tour Circuit:** Pair your visit to Samas with the nearby **Girihinda Mountain** in Sheikhpura, the historical sites of **Bihar Sharif**, or the world-heritage ruins of **Nalanda**, crafting an unforgettable one-day heritage circuit through historic Magadha.",
+        "hi": "**मार्ग प्रबंधन, नकद राशि एवं समन्वित यात्रा योजना:**\n\nपटना, नालंदा अथवा शेखपुरा से **सामस गाँव** की यात्रा की योजना बनाना बेहद सुगम है यदि आप सही मार्ग का चयन करें:\n\n- **बरबीघा होकर सुगम मार्ग:** पटना से आने वाले यात्री (लगभग 2 घंटे का सफर) फतुहा, बख्तियारपुर और बिहारशरीफ होते हुए बरबीघा पहुँच सकते हैं। बरबीघा के श्रीकृष्ण सिंह चौक से सामस के लिए पक्की ग्रामीण सड़क सीधे मंदिर तक ले जाती है।\n- **नकद राशि एवं नेटवर्क:** यद्यपि सामस गाँव में जियो और एयरटेल जैसे प्रमुख मोबाइल नेटवर्कों की अच्छी 4G/5G कनेक्टिविटी उपलब्ध है, फिर भी ग्रामीण दुकानों पर यूपीआई (UPI) भुगतान में कभी-कभी सर्वर की समस्या आ सकती है, इसलिए कुछ नकद राशि अपने पास अवश्य रखें।\n- **समन्वित पर्यटन सर्किट:** सामस विष्णु धाम के दर्शन के साथ-साथ आप शेखपुरा के **गिरिहिंडा पर्वत**, बिहारशरीफ के ऐतिहासिक स्थलों अथवा **नालंदा महाविहार** के विश्व धरोहर खंडहरों का भ्रमण जोड़कर एक संपूर्ण एकदिवसीय मगध हेरिटेज टूर का आनंद ले सकते हैं।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "girihinda-mountain",
+      "arghauti-pokhar"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-18",
+      "sources": [
+        {
+          "title": "Sheikhpura District Administration Official Portal",
+          "organization": "Government of Bihar",
+          "url": "https://sheikhpura.nic.in/tourist-place/samas-vishnudham/"
+        },
+        {
+          "title": "Bihar Tourism Department",
+          "organization": "Government of Bihar",
+          "url": "https://tourism.bihar.gov.in/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "arghauti-pokhar",
+    "slug": "arghauti-pokhar",
+    "name": {
+      "en": "Arghauti Pokhar & Durga Mandir",
+      "hi": "अरघौती पोखर एवं दुर्गा मंदिर"
+    },
+    "districtId": "sheikhpura",
+    "placeType": "waterbody",
+    "primaryCategory": "cultural",
+    "categories": [
+      "cultural",
+      "religious",
+      "historical",
+      "natural"
+    ],
+    "subcategories": [
+      "heritage_water_tank",
+      "chhath_ghat",
+      "durga_temple",
+      "community_promenade"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "heritage_circuit",
+      "cultural_circuit"
+    ],
+    "tags": [
+      "featured",
+      "chhath_puja_hub",
+      "durga_puja",
+      "ancient_tank",
+      "historic_ghats",
+      "evening_promenade"
+    ],
+    "audiences": [
+      "pilgrims",
+      "families",
+      "cultural_travelers",
+      "photographers",
+      "local_walkers"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "A historic community water reservoir and revered Chhath Puja sanctuary in Sheikhpura, celebrated for its paved heritage ghats and the auspicious Durga Mandir.",
+      "hi": "शेखपुरा का ऐतिहासिक सामुदायिक जलाशय और आस्था का महापर्व छठ का प्रमुख केंद्र, जो अपने पक्के हेरिटेज घाटों और सिद्ध दुर्गा मंदिर के लिए प्रसिद्ध है।"
+    },
+    "description": {
+      "en": "**Arghauti Pokhar** (often spelled as **Arghaoti Pokhar**) is the premier historical water body, public cultural landmark, and revered spiritual epicenter of **Sheikhpura town** in south Bihar. Spanning several acres in the vibrant heart of the municipal township, this ancient reservoir has served as the lifeblood of local hydrological management, festive community gatherings, and sacred ritual ablutions across generations of townspeople.\n\nNestled gracefully along its paved southern embankments stands the illustrious **Arghauti Pokhar Durga Mandir**, a venerable temple enshrining the protective divine form of **Maa Durga**. The pond derives its poetic name, *Arghauti*, from the Sanskrit word *Arghya*—signifying the holy libations and water offerings presented by fasting devotees (*Vratis*) to the rising and setting Sun God (*Bhagwan Surya*) during the great festival of **Chhath Puja**.\n\n- **Heritage Ghats & Promenade:** The water body has been meticulously beautified by the district administration and civic council with wide masonry ghat steps, safety railings, ornate streetlamps, high-mast solar illumination, and a landscaped perimeter walking promenade.\n- **Scenic & Serene Ambiance:** During quiet dawn and twilight hours, the still waters mirror the crimson hues of dawn, creating an idyllic setting for evening walks, yoga, and contemplative peaceful moments away from traffic.\n- **Epicenter of Festivities:** The precinct reaches its aesthetic zenith during **Chhath Puja** and **Shardiya Durga Puja**, when the entire lake perimeter is decorated with colorful illuminations, flower garlands, and devotional melodies that unite people across all walks of life.",
+      "hi": "**अरघौती पोखर** (जिसे **अरघाओती पोखर** भी लिखा जाता है) दक्षिण बिहार के **शेखपुरा नगर** का सर्वप्रमुख ऐतिहासिक जलाशय, सामुदायिक सांस्कृतिक केंद्र और आस्था का पावन आध्यात्मिक स्थल है। नगर परिषद के हृदयस्थल में कई एकड़ भूभाग पर फैला यह विशाल प्राचीन सरोवर सदियों से स्थानीय जल संरक्षण, सामाजिक उत्सवों और धार्मिक स्नान परंपराओं का मुख्य आधार रहा है।\n\nइस मनोरम सरोवर के पक्के दक्षिणी तट पर प्रतिष्ठित **अरघौती पोखर दुर्गा मंदिर** स्थित है, जहाँ जगदंबा **माता दुर्गा** की दिव्य प्रतिमा स्थापित है। इस सरोवर का नाम 'अरघौती' संस्कृत शब्द *अर्घ्य* से प्रेरित है, जिसका तात्पर्य लोक आस्था के महापर्व **छठ पूजा** के दौरान व्रतधारियों द्वारा अस्ताचलगामी और उदीयमान भगवान सूर्य नारायण को अर्पित किए जाने वाले पवित्र जलांजलि से है।\n\n- **सुसज्जित हेरिटेज घाट एवं भ्रमण पथ:** शेखपुरा जिला प्रशासन और नगर परिषद द्वारा सरोवर का कायाकल्प करते हुए इसके चारों ओर सुंदर पक्के सीढ़ीदार घाट, सुरक्षा रेलिंग, पाथवे, हाई-मास्ट लाइटें और छायादार वृक्षारोपण किया गया है।\n- **शांत एवं मनोरम परिवेश:** प्रातःकाल और गोधूलि वेला में सरोवर का शांत जल आकाश की रक्तिम छटा को प्रतिबिंबित करता है, जो स्थानीय नागरिकों और पर्यटकों के लिए प्रातःकालीन भ्रमण, योग और मानसिक शांति का एक आदर्श केंद्र प्रदान करता है।\n- **उत्सवों का भव्य केंद्र:** **कार्तिक एवं चैती छठ महापर्व** तथा **शारदीय दुर्गा पूजा** के दौरान यह पूरा क्षेत्र लाखों दीपों, तोरणद्वारों और रंग-बिरंगी रोशनी से जगमगा उठता है, जहाँ पारंपरिक छठ गीतों की गूंज समूचे नगर को भक्तिमय बना देती है।"
+    },
+    "history": {
+      "en": "The origins of **Arghauti Pokhar** reflect the enlightened civic planning, water conservation ethos, and devotional heritage of medieval and early modern Bihar:\n\n- **Medieval Civic Water Harvesting:** Historical records indicate that the pond was originally excavated during the early medieval period by regional Magadha administrators to capture surface rainwater runoff from the nearby Girihinda hill slopes. This massive artificial reservoir recharged groundwater aquifers, prevented seasonal inundation, and supplied clean freshwater for agriculture and everyday domestic needs.\n- **The Sacred Chhath Tradition:** Over the centuries, as Vedic solar worship blossomed across Bihar, the tranquil reservoir emerged as Sheikhpura's foremost *Chhath Ghat*. Families began dedicating specific ghat stone platforms to ancestral lineages, establishing an unbroken living tradition of performing morning and evening solar *Arghya* spanning multiple centuries.\n- **Establishment of the Durga Temple:** During the late 19th and early 20th centuries, local merchants, ascetics, and community leaders constructed the **Durga Mandir** on its banks to invoke divine protection and celebrate Navratri with grand community feasts and *Kanya Pujan*.\n\nIn recent years, modern urban rejuvenation initiatives spearheaded by the Urban Development and Housing Department of Bihar have reinforced its masonry embankments and integrated automated aeration systems, ensuring this ancient jewel continues to nourish Sheikhpura's cultural identity.",
+      "hi": "**अरघौती पोखर** का इतिहास मध्यकालीन बिहार की दूरदर्शी जल प्रबंधन व्यवस्था, पर्यावरण चेतना और गहरी धार्मिक परंपराओं का एक अनूठा संगम प्रस्तुत करता है:\n\n- **मध्यकालीन जल संचयन प्रणाली:** ऐतिहासिक अभिलेखों और स्थानीय इतिहास के अनुसार, इस विशाल पोखर का मूल उत्खनन मध्यकाल में निकटवर्ती गिरिहिंडा पहाड़ी से बहकर आने वाले वर्षा जल को संचित करने हेतु कराया गया था। इस विशाल कृत्रिम जलाशय ने भूमिगत जलस्तर को बनाए रखने, बाढ़ से नगर की रक्षा करने और कृषि व घरेलू उपयोग हेतु स्वच्छ जल उपलब्ध कराने में सदियों तक जीवनदायिनी भूमिका निभाई।\n- **छठ महापर्व की सदियों पुरानी परंपरा:** जैसे-जैसे मगध और अंग क्षेत्र में भगवान सूर्य की उपासना (छठ पूजा) का विस्तार हुआ, यह सरोवर शेखपुरा के सबसे प्रमुख 'छठ घाट' के रूप में स्थापित हो गया। विभिन्न पीढ़ियों के परिवारों ने यहाँ पक्के घाटों का निर्माण कराया, जहाँ आज भी सदियों से निर्जला व्रत रखने वाले व्रती सूर्यदेव को सांध्य और प्रातःकालीन अर्घ्य अर्पित करते हैं।\n- **दुर्गा मंदिर की स्थापना:** 19वीं सदी के उत्तरार्ध और 20वीं सदी के प्रारंभ में स्थानीय नागरिकों और धर्मनिष्ठ व्यापारियों ने जलाशय के तट पर **श्री दुर्गा मंदिर** की स्थापना की, जो नवरात्र के दौरान शतचंडी पाठ, कन्या पूजन और भव्य दुर्गा पूजा आयोजनों का प्रमुख केंद्र बन गया।\n\nहाल के वर्षों में बिहार सरकार के नगर विकास विभाग और स्थानीय प्रशासन द्वारा इस जलाशय के घाटों का जीर्णोद्धार, सुरक्षा दीवारों का निर्माण और सुंदरीकरण कराया गया है, जिससे यह ऐतिहासिक धरोहर आधुनिक स्वरूप में भी जीवंत बनी हुई है।"
+    },
+    "significance": {
+      "en": "The socio-religious, cultural, and ecological significance of **Arghauti Pokhar** makes it a treasured civic gem for the people of Sheikhpura district:\n\n- **The Sanctum of Chhath Mahaparv:** As the undisputed focal point of **Chhath Puja** in Sheikhpura, the ghats witness tens of thousands of devotees standing waist-deep in water holding bamboo baskets (*Soop*) laden with thekua, sugarcane, bananas, and coconuts. The collective chanting of traditional folklore songs honoring *Chhathi Maiya* creates an unforgettable aura of pure devotion and community oneness.\n- **Spiritual Energy of Durga Mandir:** The adjacent Durga temple serves as an everyday sanctuary of prayer, where local residents seek blessings for courage, well-being, and prosperity. During the nine nights of **Navratri**, special Havana rituals, Chandi recitations, and colorful Dandiya celebrations fill the courtyard.\n- **Civic Gathering & Ecological Lung:** Beyond religious rituals, the lake functions as Sheikhpura's communal town square and prime urban ecological buffer, supporting wetland avifauna, cooling local microclimates, and offering a serene pedestrian escape for morning walkers, senior citizens, and youth.\n- **Symbol of Cultural Inclusivity:** The preparation and cleaning of Arghauti Pokhar's ghats brings together volunteers, youth clubs, and municipal sanitation workers across all societal strata, exemplifying the egalitarian spirit of Bihar's rich cultural traditions.",
+      "hi": "**अरघौती पोखर** का सामाजिक, धार्मिक, सांस्कृतिक और पर्यावरणीय महत्व शेखपुरा जिले के सामूहिक जीवन में अत्यंत अनूठा और आदरणीय है:\n\n- **लोक आस्था के महापर्व छठ का पावन केंद्र:** शेखपुरा में **छठ पूजा** का यह सर्वोपरि तीर्थ माना जाता है। कार्तिक और चैत्र मास के छठ पर्व पर यहाँ हजारों की संख्या में व्रती महिला-पुरुष कमर तक पानी में खड़े होकर सूप और दउरा में ठेकुआ, ईख, मौसमी फल और दीप सजाकर भगवान भुवन भास्कर को अर्घ्य देते हैं। पारंपरिक छठ गीतों की मधुर धुन से पूरा वातावरण भक्ति और शुचिता से ओत-प्रोत हो जाता है।\n- **दुर्गा मंदिर की आध्यात्मिक चेतना:** तट पर स्थित प्राचीन दुर्गा मंदिर स्थानीय निवासियों के लिए नित्य दर्शन और शक्ति उपासना का प्रमुख केंद्र है। **शारदीय एवं वासंतिक नवरात्र** के नौ दिनों तक यहाँ अखंड दीप प्रज्वलित किए जाते हैं तथा दुर्गा सप्तशती के पाठ, महाआरती और कन्या भोज का भव्य आयोजन होता है।\n- **सामुदायिक भ्रमण स्थल एवं पर्यावरण संरक्षण:** धार्मिक अनुष्ठानों के साथ-साथ यह विशाल सरोवर शेखपुरा नगर के पर्यावरण संतुलन, भूजल पुनर्भरण और शहरी जैव-विविधता का रक्षक है। सुबह-शाम ठंडी हवाओं के बीच यहाँ टहलने वाले बुजुर्गों, युवाओं और परिवारों के लिए यह एक शांतिपूर्ण प्राकृतिक आश्रय स्थल है।\n- **सामाजिक समरसता का अनुपम प्रतीक:** छठ पूजा के अवसर पर घाटों की सफाई, रंग-रोगन और प्रकाश व्यवस्था में सभी वर्गों और समुदायों के लोग स्वेच्छा से श्रमदान करते हैं, जो बिहार की समरसता और सहभागिता की गौरवशाली संस्कृति को साकार करता है।"
+    },
+    "location": {
+      "address": {
+        "en": "Arghauti Pokhar & Durga Mandir Precinct, Ward Number 08, Station Road - College Road Intersection, Sheikhpura Town Center, Sheikhpura Nagar Parishad, Sheikhpura Block and Administrative Subdivision, Sheikhpura District, Magadh Administrative Division, Bihar - 811105, Republic of India. Situated roughly 1.5 kilometers east of Sheikhpura Railway Junction, 1 kilometer south of Sheikhpura Old Bus Stand, and conveniently connected via the central municipal arterial roadway branching toward Girihinda Mountain. The historic waterfront public complex is positioned adjacent to prominent educational colleges and administrative quarters, featuring paved circumferential approach lanes, dedicated step-down masonry ghats, safety balustrades, public benches, illuminated tree-lined promenades, and pedestrian parkways.",
+        "hi": "अरघौती पोखर एवं श्री दुर्गा मंदिर परिसर, वार्ड संख्या 08, स्टेशन रोड - कॉलेज रोड चौराहा, शेखपुरा नगर केंद्र, शेखपुरा नगर परिषद, शेखपुरा प्रखंड एवं प्रशासनिक अनुमंडल, शेखपुरा जिला, मगध प्रशासनिक प्रमंडल, बिहार - 811105, भारत गणराज्य। यह दर्शनीय स्थल शेखपुरा रेलवे जंक्शन से लगभग 1.5 किलोमीटर पूर्व, शेखपुरा पुराने बस स्टैंड से 1 किलोमीटर दक्षिण तथा गिरिहिंडा पर्वत की ओर जाने वाले केंद्रीय नगर परिषद मार्ग से सुगमतापूर्वक जुड़ा हुआ है। यह ऐतिहासिक सार्वजनिक जलतीर्थ परिसर नगर के प्रतिष्ठित महाविद्यालयों और प्रशासनिक आवासों के समीप स्थित है, जहाँ पक्के परिक्रमा मार्ग, सीढ़ीदार पक्के हेरिटेज घाट, सुरक्षा रेलिंग, सार्वजनिक विश्राम बेंच, सौर प्रकाश व्यवस्था और छायादार पाथवे की उत्कृष्ट व्यवस्था है।"
+      },
+      "latitude": 25.1325,
+      "longitude": 85.851,
+      "mapQuery": "Arghauti Pokhar, Durga Mandir, Sheikhpura, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "day": "Monday",
+          "open": "05:00",
+          "close": "21:00"
+        },
+        {
+          "day": "Tuesday",
+          "open": "05:00",
+          "close": "21:00"
+        },
+        {
+          "day": "Wednesday",
+          "open": "05:00",
+          "close": "21:00"
+        },
+        {
+          "day": "Thursday",
+          "open": "05:00",
+          "close": "21:00"
+        },
+        {
+          "day": "Friday",
+          "open": "05:00",
+          "close": "21:00"
+        },
+        {
+          "day": "Saturday",
+          "open": "05:00",
+          "close": "21:00"
+        },
+        {
+          "day": "Sunday",
+          "open": "05:00",
+          "close": "21:00"
+        }
+      ],
+      "entryFee": {
+        "amount": 0,
+        "currency": "INR",
+        "type": "free"
+      },
+      "recommendedDurationMinutes": 60,
+      "bestTimeToVisit": {
+        "en": "October to March for comfortable evenings; October/November during Chhath Puja and Durga Puja for sensational cultural festivities.",
+        "hi": "सुहावनी शाम के लिए अक्टूबर से मार्च; छठ पूजा एवं दुर्गा पूजा के अलौकिक सांस्कृतिक उत्सवों के दर्शन हेतु अक्टूबर और नवंबर।"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Arghauti Pokhar is situated in central Sheikhpura town along the main College Road connecting Station Road. It is easily reached by state buses, rental vehicles, and private cars arriving from Patna (120 km), Nawada (42 km), or Lakhisarai (28 km).",
+        "hi": "अरघौती पोखर शेखपुरा नगर के केंद्र में स्टेशन रोड को जोड़ने वाले मुख्य कॉलेज रोड पर स्थित है। पटना (120 किमी), नवादा (42 किमी) या लखीसराय (28 किमी) से आने वाली बसों, टैक्सियों और निजी वाहनों द्वारा यहाँ सरलता से पहुँचा जा सकता है।"
+      },
+      "railway": [
+        {
+          "name": {
+            "en": "Sheikhpura Junction (SHK)",
+            "hi": "शेखपुरा जंक्शन (SHK)"
+          },
+          "distanceKm": 1.5
+        },
+        {
+          "name": {
+            "en": "Warisaliganj Railway Station (WRS)",
+            "hi": "वारिसलीगंज रेलवे स्टेशन (WRS)"
+          },
+          "distanceKm": 18
+        },
+        {
+          "name": {
+            "en": "Kiwul Junction (KIUL)",
+            "hi": "किऊल जंक्शन (KIUL)"
+          },
+          "distanceKm": 28
+        }
+      ],
+      "airport": [
+        {
+          "name": {
+            "en": "Jay Prakash Narayan International Airport, Patna (PAT)",
+            "hi": "जय प्रकाश नारायण अंतर्राष्ट्रीय हवाई अड्डा, पटना (PAT)"
+          },
+          "distanceKm": 122
+        },
+        {
+          "name": {
+            "en": "Gaya International Airport (GAY)",
+            "hi": "गया अंतर्राष्ट्रीय हवाई अड्डा (GAY)"
+          },
+          "distanceKm": 112
+        }
+      ],
+      "localTransport": {
+        "en": "Frequent battery e-rickshaws, shared auto-rickshaws, and cycle-rickshaws are available directly outside Sheikhpura Railway Junction and bus terminals, reaching Arghauti Pokhar within 5 to 7 minutes.",
+        "hi": "शेखपुरा रेलवे जंक्शन और बस टर्मिनल के ठीक बाहर लगातार बैटरी ई-रिक्शा, शेयरिंग ऑटो और साइकिल-रिक्शा उपलब्ध रहते हैं, जो 5 से 7 मिनट में अरघौती पोखर पहुँचा देते हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 0,
+        "max": 0,
+        "currency": "INR",
+        "note": {
+          "en": "Free public access to both the pond ghats and Durga Mandir.",
+          "hi": "पोखर घाटों और दुर्गा मंदिर दोनों में निःशुल्क सार्वजनिक प्रवेश।"
+        }
+      },
+      "localTransport": {
+        "min": 15,
+        "max": 50,
+        "currency": "INR",
+        "note": {
+          "en": "One-way shared or reserved e-rickshaw ride from Sheikhpura railway station.",
+          "hi": "शेखपुरा रेलवे स्टेशन से एक तरफ का शेयरिंग अथवा निजी ई-रिक्शा किराया।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": false,
+      "atm": true,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 150,
+      "stairs": true,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "**Visiting Strategy and Evening Promenade Experience:**\n\nTo appreciate the true beauty and tranquil charm of **Arghauti Pokhar**, visit during the late afternoon between **04:30 PM and 06:30 PM** when the sun casts a soothing glow over the water and cool breezes drift across the promenades.\n\n- **Evening Aarti at Durga Mandir:** Arrive in time for the evening *Aarti* at 06:00 PM at the adjacent Durga Mandir, which is accompanied by the rhythmic clanging of bells, dholak beats, and community chanting.\n- **Footwear Etiquette:** While footwear is permitted along the outer walking tracks and upper road promenades, please remove shoes before stepping onto the sacred lower ghat steps or entering the inner temple sanctum.\n- **Family Strolls:** The paved perimeter path is ideal for peaceful family walks, senior citizen leisure, and quiet reading on the stone benches overlooking the water.",
+        "hi": "**भ्रमण की रणनीति एवं सांध्यकालीन अनुभव:**\n\n**अरघौती पोखर** के शांत और मनोरम परिवेश का वास्तविक आनंद लेने के लिए अपराह्न **04:30 बजे से 06:30 बजे** के मध्य अपनी यात्रा की योजना बनाएं, जब ढलते सूर्य की स्वर्णिम किरणें जल पर तैरती हैं और शीतल समीर पूरे परिसर को ताजगी से भर देती है।\n\n- **दुर्गा मंदिर की संध्या आरती:** सायं 06:00 बजे तट पर स्थित दुर्गा मंदिर में होने वाली दैनिक महाआरती में अवश्य सम्मिलित हों, जहाँ घंटों की मधुर ध्वनि, ढोलक की थाप और शंखनाद से वातावरण दिव्य हो उठता है।\n- **जूते-चप्पल के नियम:** यद्यपि बाहरी पाथवे और सड़क पर जूते पहनकर चला जा सकता है, परंतु पवित्र पक्के घाटों की सीढ़ियों पर उतरते समय अथवा मंदिर के भीतर प्रवेश करते समय जूते-चप्पल उतारना अनिवार्य है।\n- **पारिवारिक भ्रमण:** सरोवर के चारों ओर बना पक्का परिक्रमा मार्ग पारिवारिक चहलकदमी, वरिष्ठ नागरिकों के विश्राम और जलाशय के किनारे बैठकर शांति के पल बिताने के लिए अत्यंत उपयुक्त है।"
+      },
+      {
+        "en": "**Chhath Mahaparv Guidelines and Festival Planning:**\n\nWitnessing the grand celebration of **Chhath Puja** at **Arghauti Pokhar** is an unforgettable cultural experience, but requires thoughtful advance preparation due to immense festive gatherings:\n\n- **Extreme Crowds:** During the evening *Sandhya Arghya* and early morning *Usha Arghya* (Kartik month, October/November), tens of thousands of worshippers congregate around the water. Arrive at least two hours before sunset or sunrise to secure a safe vantage point.\n- **Cultural Respect & Cleanliness:** Chhath is renowned for uncompromised ritual purity (*Pavitrata*). Never litter, avoid stepping near worship trays (*Soop* and *Dauri*), and keep the ghat steps scrupulously clean.\n- **Photography Norms:** Taking respectful photographs of the illuminated water, earthen oil lamps floating on the lake, and joyous celebrations is customary, but maintain a polite distance from fasting devotees performing intimate prayers.",
+        "hi": "**छठ महापर्व के नियम एवं त्योहार प्रबंधन:**\n\n**अरघौती पोखर** पर **छठ पूजा** का अलौकिक दृश्य देखना जीवन का एक अविस्मरणीय अनुभव है, परंतु अत्यधिक भीड़ होने के कारण पूर्व योजना बनाना आवश्यक है:\n\n- **अपार जनसमूह का प्रबंधन:** कार्तिक माह (अक्टूबर/नवंबर) में संध्या अर्घ्य और प्रातःकालीन उषा अर्घ्य के समय यहाँ अपार जनसैलाब उमड़ता है। यदि आप इस पावन दृश्य के साक्षी बनना चाहते हैं, तो सूर्यास्त अथवा सूर्योदय से कम से कम दो घंटे पूर्व घाट पर पहुँचें।\n- **पवित्रता एवं स्वच्छता का सम्मान:** छठ महापर्व कठोर शुचिता और पवित्रता का प्रतीक है। घाटों पर किसी भी प्रकार का कचरा न फैलाएं, पूजा के सूप और दउरा के समीप जूते पहनकर न जाएं और धार्मिक मर्यादा का पूर्ण सम्मान करें।\n- **फोटोग्राफी संबंधी शिष्टाचार:** सरोवर में तैरते मिट्टी के दीयों और जगमगाते घाटों की गरिमामयी तस्वीरें ली जा सकती हैं, परंतु साधना में लीन व्रतियों की निजता का ध्यान रखें और उनके पूजन में कोई व्यवधान न डालें।"
+      },
+      {
+        "en": "**Water Safety, Waste Disposal, and Town Excursions:**\n\nEnsuring personal safety and maintaining ecological hygiene during your visit to **Arghauti Pokhar** will protect this historic sanctuary for future generations:\n\n- **Water Depth Awareness:** While the stepped masonry ghats are broad and safe, the central portions of the pond are deep. Children should always be closely supervised near the water's edge, and stepping beyond the marked safety chains into deep water is strictly prohibited.\n- **Zero Plastic Discipline:** Dispose of organic flower waste, clay lamps, and plastic packaging in the designated municipal trash bins placed along the upper promenade rather than tossing items directly into the reservoir.\n- **Nearby Town Sights:** Combine your visit to Arghauti Pokhar with an ascent of nearby **Girihinda Mountain (2 km away)** and a visit to the local bazaars of Sheikhpura town, known for traditional sweets such as regional Khaja and fresh dairy delicacies.",
+        "hi": "**जल सुरक्षा, स्वच्छता अनुशासन एवं स्थानीय दर्शनीय स्थल:**\n\n**अरघौती पोखर** की यात्रा के दौरान व्यक्तिगत सुरक्षा और पर्यावरण की स्वच्छता का ध्यान रखना इस ऐतिहासिक धरोहर के संरक्षण के लिए अत्यंत आवश्यक है:\n\n- **सरोवर की गहराई से सतर्कता:** यद्यपि पक्के सीढ़ीदार घाट चौड़े और सुरक्षित हैं, परंतु सरोवर के मध्य भाग में गहराई अधिक है। छोटे बच्चों को पानी के किनारे अकेला न छोड़ें तथा सुरक्षा जंजीरों और चेतावनी संकेतों के पार गहरे पानी में जाने से बचें।\n- **कचरा प्रबंधन:** पूजा के फूल, मिट्टी के दीये अथवा अन्य किसी भी सामग्री को सीधे जल में न फेंकें; इसके लिए ऊपरी पाथवे पर नगर परिषद द्वारा लगाए गए कूड़ेदानों का ही उपयोग करें।\n- **शेखपुरा नगर दर्शन:** अरघौती पोखर के भ्रमण के साथ-साथ आप पास स्थित **गिरिहिंडा पर्वत (मात्र 2 किमी दूर)** के दर्शन और शेखपुरा के स्थानीय बाजारों का भ्रमण कर सकते हैं, जहाँ पारंपरिक मिठाइयों और मगही व्यंजनों का स्वाद लिया जा सकता है।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "girihinda-mountain",
+      "shri-vishnu-dham-samas"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-18",
+      "sources": [
+        {
+          "title": "Sheikhpura District Administration Official Portal",
+          "organization": "Government of Bihar",
+          "url": "https://sheikhpura.nic.in/"
+        },
+        {
+          "title": "Bihar Tourism Official Portal",
+          "organization": "Department of Tourism, Government of Bihar",
+          "url": "https://tourism.bihar.gov.in/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  }
+]

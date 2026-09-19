@@ -1,0 +1,931 @@
+[
+  {
+    "id": "baba-garibnath-temple",
+    "slug": "baba-garibnath-temple",
+    "name": {
+      "en": "Baba Garibnath Temple",
+      "hi": "बाबा गरीबनाथ मंदिर"
+    },
+    "districtId": "muzaffarpur",
+    "placeType": "temple",
+    "primaryCategory": "religious",
+    "categories": [
+      "religious",
+      "pilgrimage_site",
+      "historical",
+      "cultural"
+    ],
+    "subcategories": [
+      "shiva_temple",
+      "jyotirlinga_shrine",
+      "heritage_site"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "tirhut_circuit",
+      "ramayana_circuit",
+      "eco_circuit",
+      "shiva_circuit"
+    ],
+    "tags": [
+      "mustVisit",
+      "pilgrimage",
+      "shiva",
+      "kanwarYatra",
+      "historicTemple",
+      "spiritual"
+    ],
+    "audiences": [
+      "pilgrims",
+      "families",
+      "culture_enthusiasts",
+      "devotees"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "Venerated as the 'Deoghar of Bihar', Baba Garibnath Temple is North Bihar's supreme Shaivite pilgrimage shrine, consecrated with an ancient Swayambhu Shivalinga that draws millions during the holy Shravan Kanwar Yatra.",
+      "hi": "'बिहार का देवघर' कहे जाने वाले बाबा गरीबनाथ मंदिर में प्राचीन स्वयंभू शिवलिंग प्रतिष्ठित है, जहाँ सावन मास की प्रसिद्ध कांवड़ यात्रा के दौरान लाखों श्रद्धालु जलाभिषेक एवं दर्शन हेतु पधारते हैं।"
+    },
+    "description": {
+      "en": "The **Baba Garibnath Temple**, venerated as the **'Deoghar of Bihar'**, is the premier Shaivite sanctuary and cultural heartbeat of North Bihar, situated in the historic Purani Bazar quarter of Muzaffarpur.\n\nEnshrining an ancient, self-manifested (**Swayambhu**) Shivalinga, this sanctified pilgrimage abode attracts countless millions of devotees from across Bihar, Uttar Pradesh, West Bengal, and Nepal. The temple complex radiates an intensely serene yet vibrant spiritual aura, resonant with the eternal chants of *'Har Har Mahadev'* and *'Om Namah Shivaya'* from dawn until night.\n\nDistinguished architectural and devotional features of the shrine include:\n- **Swayambhu Shivalinga Sanctum**: The divine central lingam resting in an underground-level marble sanctum, continuously bathed in holy Gangajal, raw milk, fragrant Chandan, and Belpatra by reverent worshippers.\n- **Vast Sabha Mandap**: A grand columned prayer pavilion accommodating thousands of devotees during evening Sandhya Aartis, choral bhajans, and Vedic Rudrabhishek recitations.\n- **Subsidiary Deities**: Exquisite subsidiary shrines dedicated to Goddess Parvati, Lord Ganesha, Kartikeya, Kaal Bhairav, and Lord Hanuman, encircling the central courtyard.\n- **Sacred Peepal & Banyan Enclave**: Preserved ancient holy trees within the precinct beneath which yogis and sadhus sit in quiet contemplation.\n\nStanding as an enduring sanctuary for seekers from every walk of life, the temple embodies profound divine grace, equality, and unshakeable spiritual faith.",
+      "hi": "**बाबा गरीबनाथ मंदिर**, जिसे संपूर्ण उत्तर भारत में श्रद्धापूर्वक **'बिहार का देवघर'** के नाम से जाना जाता है, मुजफ्फरपुर के ऐतिहासिक पुरानी बाजार क्षेत्र में स्थित शैव परंपरा का सर्वोच्च एवं सर्वाधिक जागृत तीर्थस्थल है।\n\nगर्भगृह में प्रतिष्ठित अनादि एवं **स्वयंभू शिवलिंग** के दर्शन एवं जलाभिषेक हेतु संपूर्ण बिहार, पूर्वी उत्तर प्रदेश, बंगाल तथा पड़ोसी देश नेपाल से प्रतिवर्ष लाखों श्रद्धालु यहाँ नतमस्तक होते हैं। मंदिर परिसर में प्रातः काल से लेकर देर रात्रि की शयन आरती तक गूंजने वाले *'हर हर महादेव'* और *'ॐ नमः शिवाय'* के पवित्र महामंत्र संपूर्ण वातावरण को दिव्य ऊर्जा, शांति और आध्यात्मिक चेतना से सराबोर रखते हैं।\n\nइस पावन देवालय की प्रमुख स्थापत्य एवं धार्मिक विशेषताएं:\n- **स्वयंभू शिवलिंग गर्भगृह**: संगमरमर से सुसज्जित पाताल-सदृश शीतल गर्भगृह, जहाँ प्राकृतिक रूप से प्रकट शिवलिंग पर अविरल पवित्र गंगाजल, कच्चा दूध, सुगंधित भस्म और त्रिनेत्र बेलपत्र अर्पित किए जाते हैं।\n- **विशाल सभा मंडप**: नक्काशीदार स्तंभों से युक्त एक विस्तृत प्रार्थना भवन, जहाँ संध्या आरती, रुद्राभिषेक और सामूहिक संकीर्तन में हजारों भक्त एक साथ सम्मिलित होते हैं।\n- **परिसर स्थित उप-देवालय**: मुख्य मंदिर के अतिरिक्त परिसर में माता पार्वती, प्रथम पूज्य गणेश, कार्तिकेय, संकटमोचन हनुमान और काल भैरव के भव्य मंदिर स्थापित हैं।\n- **पवित्र वट एवं पीपल वृक्ष**: प्रांगण में संरक्षित प्राचीन देववृक्ष, जिनकी छत्रछाया में संत-महात्मा और साधक ध्यान एवं जप साधना करते हैं।\n\nयह पावन धाम अमीर-गरीब, जाति-पांति के सभी भेदों से परे हटकर प्रत्येक भक्त को आध्यात्मिक आश्रय और अगाध मानसिक संबल प्रदान करता है।"
+    },
+    "history": {
+      "en": "The historical origins of the **Baba Garibnath Temple** span more than three centuries, interwoven with miraculous local lore, zamindari heritage, and deep Tirhut folk traditions.\n\nAccording to long-preserved oral records, the sacred area where the temple stands was once a dense primeval forest known as 'Bariyar', shaded by a majestic banyan tree and owned by a prominent local landlord named **Maniyar Baboo**.\n\nKey historical developments that shaped this venerated shrine include:\n- **The Miraculous Revelation**: While laborers were felling the ancient banyan tree to construct residential quarters, their iron axes struck a hidden rock beneath the soil. To their sheer astonishment, crimson red blood welled up from the severed roots. Terrified by the omen, the workers dropped their tools and alerted the landlord.\n- **The Divine Dream Commandment**: That very night, Lord Shiva appeared in a vivid dream to Maniyar Baboo, reprimanding the felling of the holy tree and revealing that an eternal Swayambhu Shivalinga lay consecrated at the roots, commanding immediate public veneration.\n- **Origin of 'Garibnath'**: Local history recounts that a destitute and ailing devotee spent months praying tirelessly at the newly uncovered lingam; cured completely of his miseries, the deity came to be revered as **'Garibnath'** (The Merciful Protector of the Poor).\n- **Architectural Transformation**: Originally enshrined in a humble mud-and-thatch hut, the temple was progressively expanded during the 19th and 20th centuries by local mercantile guilds (Mahajans) and Tirhut royal patrons into a grand tiered nagara-style temple.",
+      "hi": "**बाबा गरीबनाथ मंदिर** का गौरवशाली इतिहास तीन शताब्दियों से अधिक पुराना है, जो तिरहुत की लोक-संस्कृति, आध्यात्मिक चमत्कारों और ऐतिहासिक जमींदारी परंपराओं के साथ अटूट रूप से जुड़ा हुआ है।\n\nस्थानीय ऐतिहासिक साक्ष्यों और प्राचीन जनश्रुतियों के अनुसार, वर्तमान मंदिर स्थल कभी 'बरियार' नामक एक सघन वन क्षेत्र का हिस्सा था। यहाँ एक अत्यंत विशाल एवं प्राचीन वटवृक्ष (बरगद का पेड़) स्थित था, जिसकी भूमि स्थानीय प्रतिष्ठित जमींदार **मनियार बाबू** के स्वामित्व में थी।\n\nमंदिर के ऐतिहासिक उद्भव से जुड़े प्रमुख प्रसंग:\n- **अलौकिक प्रकटीकरण का चमत्कार**: जब जमींदार के आदेश पर लकड़हारे भूमि समतल करने हेतु उस विशाल बरगद के वृक्ष को काटने लगे, तो कुल्हाड़ी की पहली चोट पड़ते ही वृक्ष की जड़ों के भीतर से लाल रक्त की अविरल धारा बहने लगी। इस हैरतअंगेज दृश्य को देखकर काष्ठकार भयभीत होकर भाग खड़े हुए और उन्होंने तुरंत जमींदार को सूचित किया।\n- **महादेव का स्वप्नादेश**: उसी रात्रि भगवान सदाशिव ने जमींदार मनियार बाबू को स्वप्न में साक्षात दर्शन दिए। महादेव ने वृक्ष कटाई पर रोष जताते हुए प्रकट किया कि उस पावन भूमि पर उनका अनादि **स्वयंभू शिवलिंग** प्रतिष्ठित है, जिसे निकालकर जन-कल्याण हेतु स्थापित किया जाए।\n- **'गरीबनाथ' नामकरण की गाथा**: मान्यता है कि एक अत्यंत निर्धन, उपेक्षित और असाध्य रोग से पीड़ित भक्त ने यहाँ अनवरत अश्रुपूर्ण प्रार्थना की, और भगवान शिव की कृपा से वह पूर्णतः स्वस्थ और समृद्ध हो गया। दीन-दुखियों के संकट हरने के कारण देवाधिदेव को **'बाबा गरीबनाथ'** कहा जाने लगा।\n- **भव्य स्थापत्य का विकास**: प्रारंभ में एक छोटी कच्ची मठिया के रूप में स्थापित इस पवित्र धाम को 19वीं और 20वीं शताब्दी में मुजफ्फरपुर के धर्मनिष्ठ साहूकारों और राजाओं द्वारा नागर शैली के भव्य पक्के मंदिर का स्वरूप दिया गया।"
+    },
+    "significance": {
+      "en": "The **Baba Garibnath Temple** holds immense theological, socio-cultural, and regional prominence as the spiritual nerve centre of North Bihar and the Tirhut division.\n\nCelebrated in folk culture as the **'Deoghar of Bihar'**, the temple matches Jharkhand's Baidyanath Dham in religious fervor, especially during the auspicious Hindu monsoon season.\n\nMajor dimensions that underline the temple's enduring significance:\n- **The Epic Shravan Kanwar Yatra**: During the Hindu holy month of **Shravan (Sawan)**, over four million Kanwariyas embark on a monumental 80-kilometer barefoot pilgrimage. Devotees collect sacred Ganga water from **Pahleza Ghat** (Sonepur) or **Kaunhara Ghat** (Hajipur) and traverse rugged highways with ornamental bamboo poles to perform the auspicious **Jalabhishek** on Baba's lingam.\n- **Universal Social Harmony**: The temple serves as a glorious equalizer where social hierarchy, caste divisions, and economic disparities evaporate entirely under saffron robes and the universal chorus of *'Bol Bam'*\n- **Fulfillment of Vows (Manokamna Peeth)**: Thousands of pilgrims visit daily to tie sacred red threads, offer belpatra, and perform Rudrabhishek, believing fervently that Baba cures long-standing illnesses and blesses families with peace and prosperity.\n- **Civic & Philanthropic Beacon**: Operating free Annadanam (daily meal kitchens), dharmashalas, and health dispensaries, the temple trust sustains essential community welfare throughout Muzaffarpur.",
+      "hi": "**बाबा गरीबनाथ मंदिर** उत्तरी बिहार और संपूर्ण मिथिला-तिरहुत क्षेत्र का सर्वोच्च आध्यात्मिक, सामाजिक और सांस्कृतिक प्रेरणापुंज है। इसे जन-आस्था में **'बिहार का देवघर'** कहा जाता है, जिसकी तुलना सीधे द्वादश ज्योतिर्लिंगों में शामिल बाबा बैद्यनाथ धाम से की जाती है।\n\nमंदिर के बहुआयामी धार्मिक एवं सामाजिक महत्व को उजागर करने वाले प्रमुख बिंदु:\n- **ऐतिहासिक श्रावणी कांवड़ मेला**: पवित्र **श्रावण (सावन)** मास के दौरान प्रतिवर्ष लगभग चालीस लाख से अधिक कांवड़िए अदम्य श्रद्धा के साथ 80 किलोमीटर की दुर्गम पदयात्रा करते हैं। श्रद्धालु सारण के **पहलेजा घाट** अथवा वैशाली के **कौनहारा घाट** से पवित्र गंगाजल कांवड़ में भरकर नंगे पांव 'बोल बम' का जयकारा लगाते हुए बाबा गरीबनाथ पर **जलाभिषेक** करने पहुँचते हैं।\n- **सामाजिक समरसता का अद्वितीय मंच**: बाबा के पावन प्रांगण में जाति, वर्ण, पद और अमीरी-गरीबी का हर भेद मिट जाता है। गेरुआ वस्त्र धारण किए लाखों नर-नारी एक समान भाव से भगवान आशुतोष के चरणों में नतमस्तक होते हैं।\n- **मनोकामना पूर्ति पीठ**: जनमानस में यह दृढ़ विश्वास है कि यहाँ सच्चे मन से किया गया रुद्राभिषेक और बेलपत्र-धतूरा अर्पण असाध्य रोगों को दूर करता है तथा सूनी गोद भरने व मनोवांछित फल प्रदान करने में अचूक है।\n- **धार्मिक एवं जनकल्याणकारी केंद्र**: मंदिर न्यास द्वारा संचालित निःशुल्क अन्नक्षेत्र (भंडारा), विशाल धर्मशालाएं और चिकित्सा शिविर मुजफ्फरपुर शहर के सामाजिक ताने-बाने को निरंतर संबल और सेवा प्रदान करते हैं।"
+    },
+    "location": {
+      "address": {
+        "en": "**Baba Garibnath Temple**, Garibnath Mandir Road, Historic Purani Bazar, Kamla Nehru Nagar, Post Office Head Office, Muzaffarpur, District Muzaffarpur, North Bihar, Postal Index Number (PIN) **842001**, India.\n\nGeographical & Regional Navigation Details:\n- **Precise Urban Zone**: Centrally situated within Ward 22 of Muzaffarpur Municipal Corporation, inside the buzzing commercial artery of Purani Bazar and Sutapatti Cloth Market.\n- **Surrounding Landmarks**: Positioned approximately 500 metres east of the iconic Saraiyaganj Tower, 1.2 kilometres northeast of Tilak Maidan, and 1.8 kilometres north of Company Bagh.\n- **Transit Hub Distances**: Located just 2.5 kilometres southeast of **Muzaffarpur Junction Railway Station (MFP)**, 3.2 kilometres from the Government Inter-State Bus Terminus (Imlibatti / Imli Chatti), and 72 kilometres northeast of Jay Prakash Narayan International Airport, Patna (PAT).\n- **Arterial Highway Connectivity**: Effortlessly reachable via National Highway 22 (NH-22) connecting Patna to Sitamarhi, and National Highway 27 (NH-27 / East-West Corridor) via Gobarsahi and Bairiya Chowk, with round-the-clock availability of auto-rickshaws, e-rickshaws, and pedestrian access through the market square.",
+        "hi": "**बाबा गरीबनाथ मंदिर**, गरीबनाथ मंदिर मार्ग, ऐतिहासिक पुरानी बाजार, कमला नेहरू नगर, प्रधान डाकघर क्षेत्र, मुजफ्फरपुर नगर, जिला मुजफ्फरपुर, उत्तरी बिहार, पिन कोड **842001**, भारत।\n\nभौगोलिक एवं मार्गनिर्देशन का विस्तृत विवरण:\n- **सटीक शहरी अवस्थिति**: मुजफ्फरपुर नगर निगम के वार्ड संख्या 22 के अंतर्गत, थोक वस्त्र बाजार सूतापट्टी और पुरानी बाजार की प्रमुख व्यावसायिक वीथि में स्थित।\n- **निकटवर्ती प्रमुख लैंडमार्क**: शहर के हृदयस्थल सरैयागंज क्लॉक टावर से मात्र 500 मीटर पूर्व, तिलक मैदान से 1.2 किलोमीटर उत्तर-पूर्व तथा कंपनी बाग से 1.8 किलोमीटर उत्तर में स्थित।\n- **परिवहन केंद्रों से दूरी**: **मुजफ्फरपुर जंक्शन रेलवे स्टेशन (MFP)** से मात्र 2.5 किलोमीटर दक्षिण-पूर्व, इमलीचट्टी स्थित सरकारी अंतर्राज्यीय बस टर्मिनल से 3.2 किलोमीटर तथा जयप्रकाश नारायण अंतरराष्ट्रीय हवाई अड्डा पटना (PAT) से लगभग 72 किलोमीटर की दूरी पर अवस्थित।\n- **राजमार्ग एवं स्थानीय सुगमता**: पटना-सीतामढ़ी राष्ट्रीय राजमार्ग 22 (NH-22) तथा ईस्ट-वेस्ट कॉरिडोर राष्ट्रीय राजमार्ग 27 (NH-27) से गोबरसही व बैरिया चौक के रास्ते जुड़ा हुआ है, जहाँ से चौबीसों घंटे ई-रिक्शा, निजी ऑटो अथवा पैदल सुगमता से पहुँचा जा सकता है।"
+      },
+      "latitude": 26.1209,
+      "longitude": 85.3892,
+      "mapQuery": "Baba Garibnath Temple, Purani Bazar, Muzaffarpur, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "day": "Monday",
+          "open": "04:00",
+          "close": "21:30"
+        },
+        {
+          "day": "Tuesday",
+          "open": "04:30",
+          "close": "21:00"
+        },
+        {
+          "day": "Wednesday",
+          "open": "04:30",
+          "close": "21:00"
+        },
+        {
+          "day": "Thursday",
+          "open": "04:30",
+          "close": "21:00"
+        },
+        {
+          "day": "Friday",
+          "open": "04:30",
+          "close": "21:00"
+        },
+        {
+          "day": "Saturday",
+          "open": "04:30",
+          "close": "21:00"
+        },
+        {
+          "day": "Sunday",
+          "open": "04:30",
+          "close": "21:00"
+        }
+      ],
+      "entryFee": {
+        "amount": 0,
+        "currency": "INR",
+        "type": "free"
+      },
+      "recommendedDurationMinutes": 90,
+      "bestTimeToVisit": {
+        "en": "October to March (for pleasant weather) or July-August during the holy month of Shravan (for vibrant spiritual fervour)",
+        "hi": "अक्टूबर से मार्च (सुखद मौसम के लिए) अथवा सावन/श्रावण मास (जुलाई-अगस्त) में दिव्य कांवड़ यात्रा के दर्शन हेतु"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Situated in the central Purani Bazar area of Muzaffarpur, easily accessible via NH-22, NH-27, and regional arterial roads connecting to Patna, Darbhanga, and Sitamarhi.",
+        "hi": "मुजफ्फरपुर के केंद्रीय पुरानी बाजार में स्थित, पटना, दरभंगा और सीतामढ़ी से जोड़ने वाले NH-22, NH-27 और मुख्य शहर मार्गों के माध्यम से सुलभ।"
+      },
+      "railway": [
+        {
+          "name": {
+            "en": "Muzaffarpur Junction Railway Station (MFP)",
+            "hi": "मुजफ्फरपुर जंक्शन रेलवे स्टेशन (MFP)"
+          },
+          "distanceKm": 2.5
+        },
+        {
+          "name": {
+            "en": "Ram Dayalu Nagar Railway Station (RD)",
+            "hi": "राम दयालु नगर रेलवे स्टेशन (RD)"
+          },
+          "distanceKm": 4.2
+        }
+      ],
+      "airport": [
+        {
+          "name": {
+            "en": "Darbhanga Airport (DBR)",
+            "hi": "दरभंगा हवाई अड्डा (DBR)"
+          },
+          "distanceKm": 65
+        },
+        {
+          "name": {
+            "en": "Jay Prakash Narayan International Airport, Patna (PAT)",
+            "hi": "जयप्रकाश नारायण अंतर्राष्ट्रीय हवाई अड्डा, पटना (PAT)"
+          },
+          "distanceKm": 78
+        }
+      ],
+      "localTransport": {
+        "en": "Prepaid auto-rickshaws, battery-operated e-rickshaws, and cycle-rickshaws operate round the clock from Muzaffarpur Junction and nearby bus stands.",
+        "hi": "मुजफ्फरपुर जंक्शन और नजदीकी बस स्टैंड से चौबीसों घंटे ऑटो-रिक्शा, ई-रिक्शा और साइकिल-रिक्शा आसानी से उपलब्ध हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 0,
+        "max": 0,
+        "currency": "INR",
+        "note": {
+          "en": "General darshan is completely free. Voluntary donation counters and VIP pass queues are managed by the temple trust.",
+          "hi": "सामान्य दर्शन पूर्णतः निःशुल्क है। ऐच्छिक दान और विशेष दर्शन की व्यवस्था मंदिर न्यास द्वारा की जाती है।"
+        }
+      },
+      "localTransport": {
+        "min": 20,
+        "max": 100,
+        "currency": "INR",
+        "note": {
+          "en": "Shared e-rickshaw or private auto fare from Muzaffarpur Junction to Purani Bazar.",
+          "hi": "मुजफ्फरपुर जंक्शन से पुरानी बाजार तक साझा ई-रिक्शा या निजी ऑटो का किराया।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": true,
+      "atm": true,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 250,
+      "stairs": true,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "- **Best Season & Festival Timings**: The winter period from **October to March** offers cool, comfortable weather ideal for unhurried family worship. If you wish to witness the grand spectacle of faith, visit on **Maha Shivratri** (February/March) or during **Shravan** (July/August), though you must prepare for colossal crowds exceeding hundreds of thousands of pilgrims.\n- **Early Morning Darshan Timing**: To avoid winding queues that stretch for kilometres, arrive at the temple doors before dawn between **04:00 AM and 05:30 AM**, especially on Mondays and festival mornings when queue wait times can exceed four hours.\n- **Traditional Attire & Temple Etiquette**: Devotees should wear modest traditional clothing such as dhotis, kurtas, sarees, or salwar suits. Footwear must be deposited at the complimentary shoe counter near the north entrance gate before stepping onto the temple marble plaza.\n- **Authentic Offerings & Prasad Purchase**: Purchase pure cow milk, fresh Belpatra, Datura, Janeu, Chandan paste, and Muzaffarpur's famous traditional Khoya Peda prasad only from certified temple trust stalls or reputed vendors along Mandir Road.\n- **Security of Valuables**: Because the approach roads pass through crowded bazaar alleys, keep cash, jewelry, and smartphones securely tucked in inner zipped pockets and remain vigilant against pickpockets during peak aarti hours.",
+        "hi": "- **भ्रमण का श्रेष्ठ मौसम व उत्सव काल**: सुखद एवं शांतिपूर्ण पारिवारिक दर्शन हेतु **अक्टूबर से मार्च** के शीतकालीन महीने सर्वोत्तम हैं। वहीं आस्था के अलौकिक महाकुंभ का साक्षी बनने के लिए **महाशिवरात्रि** (फरवरी/मार्च) अथवा **श्रावण मास** (जुलाई/अगस्त) में आएं, हालांकि इस दौरान लाखों की भीड़ के लिए मानसिक रूप से तैयार रहें।\n- **प्रातःकालीन दर्शन एवं समय प्रबंधन**: लंबी कतारों और घंटों की प्रतीक्षा से बचने के लिए भोर में **प्रातः 04:00 से 05:30 बजे** के बीच मंदिर पहुंचें। विशेष रूप से सावन के सोमवार और प्रदोष के दिन कतार में लगने का समय 3 से 4 घंटे तक खिंच सकता है।\n- **मर्यादित परिधान एवं शुचिता**: मंदिर में प्रवेश हेतु पारंपरिक एवं शालीन वस्त्र (कुर्ता-पायजामा, धोती, साड़ी अथवा सलवार-कमीज) धारण करें। संगमरमर के मुख्य प्रांगण में प्रवेश करने से पहले उत्तरी द्वार पर स्थित निःशुल्क जूता स्टैंड पर अपने जूते-चप्पल अवश्य जमा करें।\n- **शुद्ध पूजा सामग्री एवं प्रसाद**: कच्चा गाय का दूध, ताजे त्रिदल बेलपत्र, धतूरा, जनेऊ, भस्म और मुजफ्फरपुर का प्रसिद्ध पारंपरिक खोया पेड़ा प्रसाद मंदिर मार्ग पर स्थित अधिकृत काउंटरों अथवा प्रतिष्ठित दुकानों से ही खरीदें।\n- **सामान की सुरक्षा एवं सतर्कता**: पुरानी बाजार की गलियों और मुख्य द्वार पर अत्यधिक भीड़ रहने के कारण मोबाइल फोन, पर्स और गहनों को सुरक्षित जेब में रखें तथा महाआरती के समय जेबकतरों से विशेष सावधानी बरतें।"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        {
+          "title": "Baba Garibnath Mandir",
+          "organization": "Bihar Tourism, Government of Bihar",
+          "url": "https://tourism.bihar.gov.in/en/destinations/muzaffarpur/baba-garibnath-mandir"
+        },
+        {
+          "title": "District Muzaffarpur Official Portal",
+          "organization": "District Administration Muzaffarpur, Government of Bihar",
+          "url": "https://muzaffarpur.nic.in/tourist-place/baba-garibnath-temple/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "shaheed-khudiram-bose-memorial",
+    "slug": "shaheed-khudiram-bose-memorial",
+    "name": {
+      "en": "Shaheed Khudiram Bose Memorial & Smarak",
+      "hi": "शहीद खुदीराम बोस स्मारक स्थल"
+    },
+    "districtId": "muzaffarpur",
+    "placeType": "memorial",
+    "primaryCategory": "historical",
+    "categories": [
+      "historical",
+      "heritage",
+      "monument",
+      "cultural"
+    ],
+    "subcategories": [
+      "freedom_struggle_memorial",
+      "patriots_monument",
+      "historic_garden"
+    ],
+    "circuits": [
+      "heritage_circuit",
+      "freedom_trail_bihar",
+      "tirhut_circuit"
+    ],
+    "tags": [
+      "mustVisit",
+      "historical",
+      "freedomStruggle",
+      "khudiramBose",
+      "nationalMonument",
+      "patriotism"
+    ],
+    "audiences": [
+      "history_buffs",
+      "students",
+      "families",
+      "patriots",
+      "culture_enthusiasts"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "A revered national monument dedicated to 18-year-old revolutionary martyr Khudiram Bose, marking the epicentre of the 1908 Muzaffarpur Conspiracy that shook the British Empire.",
+      "hi": "18 वर्षीय अमर क्रांतिकारी शहीद खुदीराम बोस की स्मृति को समर्पित एक पावन राष्ट्रीय स्मारक, जो 1908 के ऐतिहासिक मुजफ्फरपुर बम कांड और भारतीय स्वतंत्रता संग्राम की शौर्यगाथा को जीवंत करता है।"
+    },
+    "description": {
+      "en": "The **Shaheed Khudiram Bose Memorial & Smarak Sthal** (शहीद खुदीराम बोस स्मारक स्थल) is one of India's most sanctified national patriotic shrines, situated in the dignified Company Bagh precinct of Muzaffarpur near the District Collectorate and the historic Muzaffarpur Central Jail.\n\nThe memorial stands as an eternal tribute to **Khudiram Bose**, who at the tender age of eighteen embraced the gallows with a glowing smile and the sacred Bhagavad Gita pressed against his chest, becoming one of the youngest and most celebrated martyrs of the Indian independence movement. The site marks the very ground associated with the historic **1908 Muzaffarpur Conspiracy**, an event that shattered colonial complacency and ignited revolutionary fire across the subcontinent.\n\nKey elements of this sacred historic complex include:\n- **Life-Size Bronze Statue**: A stirring, magnificent bronze statue of Shaheed Khudiram Bose standing atop an elevated marble pedestal, draped in patriotic wreaths and tricolour ribbons.\n- **Commemorative Inscriptions**: Polished black granite tablets detailing the fateful chronology of the April 30, 1908 bombing incident, the trial proceedings in Muzaffarpur Court, and the martyr's immortal last words.\n- **Shaheed Park & Landscaped Gardens**: A tranquil public memorial park filled with mature ashoka trees, blossoming flowerbeds, and peaceful stone walking paths where visitors pay homage.\n- **Proximity to Historic Sites**: Located near the original Sessions Court building where the landmark treason trial was conducted and the colonial jail where the young patriot was hanged at dawn on August 11, 1908.\n\nA visit to this sacred memorial evokes profound national pride, reverence, and reflection on the supreme price paid for India's freedom.",
+      "hi": "**शहीद खुदीराम बोस स्मारक स्थल** भारत के स्वतंत्रता संग्राम का एक अत्यंत पावन और प्रेरणादायी राष्ट्रीय तीर्थ है, जो मुजफ्फरपुर के गरिमामयी कंपनी बाग क्षेत्र में कलेक्ट्रेट और ऐतिहासिक केंद्रीय कारागार के समीप स्थित है।\n\nयह स्मारक अमर शहीद **खुदीराम बोस** के अदम्य साहस और सर्वोच्च बलिदान की अमर गाथा को समर्पित है, जिन्होंने मात्र 18 वर्ष की आयु में चेहरे पर असीम मुस्कान और हाथों में श्रीमद्भगवद्गीता थामकर फांसी के फंदे को चूम लिया था। वे भारतीय स्वाधीनता आंदोलन के सबसे युवा और तेजस्वी हुतात्माओं में अग्रणी हैं। यह स्थल वर्ष **1908 के ऐतिहासिक मुजफ्फरपुर षड्यंत्र** से सीधे जुड़ा हुआ है, जिसने ब्रिटिश हुकूमत की नींव हिला दी थी और संपूर्ण भारत में सशस्त्र क्रांति की ज्वाला प्रज्वलित कर दी थी।\n\nस्मारक परिसर के प्रमुख दर्शनीय एवं ऐतिहासिक अंग:\n- **भव्य आदमकद कांस्य प्रतिमा**: संगमरमर के ऊंचे चबूतरे पर स्थापित अमर शहीद खुदीराम बोस की ओजस्वी कांस्य प्रतिमा, जो दर्शकों के भीतर राष्ट्रभक्ति और गौरव का संचार करती है।\n- **शिलालेख एवं ऐतिहासिक फलक**: काले ग्रेनाइट पर उत्कीर्ण ऐतिहासिक विवरण, जिसमें 30 अप्रैल 1908 के बम विस्फोट, मुजफ्फरपुर अदालत में चले ऐतिहासिक मुकदमे और शहीद के अमर अंतिम शब्दों का विशद उल्लेख है।\n- **शहीद उद्यान एवं हरित परिसर**: अशोक के घने वृक्षों, मौसमी फूलों की क्यारियों और शांत प्रस्तर मार्गों से सुसज्जित एक सुंदर स्मारक पार्क, जहाँ नागरिक और शोधार्थी मौन श्रद्धांजलि अर्पित करते हैं।\n- **ऐतिहासिक स्थलों का सानिध्य**: परिसर के निकट ही वह ऐतिहासिक सत्र न्यायालय भवन स्थित है जहाँ मुकदमा चला था, तथा थोड़ी दूरी पर वह जेल (अब शहीद खुदीराम बोस केंद्रीय कारा) है जहाँ 11 अगस्त 1908 को उन्हें फांसी दी गई थी।\n\nयहाँ आकर प्रत्येक देशवासी का शीश मातृभूमि के लिए सर्वस्व न्योछावर करने वाले इस अमर सेनानी के चरणों में श्रद्धा से झुक जाता है।"
+    },
+    "history": {
+      "en": "The history commemorated at the **Shaheed Khudiram Bose Memorial** represents a seismic watershed moment in India's armed freedom struggle against British colonial dominion.\n\nIn early 1908, the secret revolutionary society **Anushilan Samiti** resolved to assassinate **Douglas Kingsford**, the notoriously brutal Chief Presidency Magistrate of Calcutta known for inflicting savage floggings on young anti-partition nationalists. When Kingsford was promoted and transferred to Muzaffarpur as District and Sessions Judge, two teenage revolutionaries—18-year-old **Khudiram Bose** from Midnapore and 19-year-old **Prafulla Chaki**—were entrusted with the perilous assassination mission.\n\nThe historic sequence of events unfolded dramatically:\n- **The Bombing (April 30, 1908)**: Disguised and lying in wait outside the European Club near Company Bagh, the duo hurled a powerful handmade bomb at an approaching horse carriage at 8:30 PM, believing it carried Judge Kingsford. Tragically, the carriage carried the wife and daughter of barrister Pringle Kennedy, killing both.\n- **The Escape & Prafulla Chaki's Martyrdom**: The revolutionaries fled separately along railway tracks. Surrounded by police at Mokama Ghat station, Prafulla Chaki courageously shot himself in the mouth with his revolver to evade imperial capture, becoming a martyr.\n- **Arrest at Waini Station**: Exhausted and famished after running 25 miles barefoot, Khudiram was confronted by police at Waini railway station (now renamed **Khudiram Bose Pusa Station**) while attempting to buy parched grain. Two loaded revolvers were found on his person.\n- **Trial & Glorious Martyrdom**: Tried in the Muzaffarpur courtroom with unbending composure, Khudiram cheerfully confessed to his patriotic mission. Sentenced to death, he walked to the gallows at Muzaffarpur Central Jail on **August 11, 1908**, singing songs of freedom with radiant serenity.",
+      "hi": "**शहीद खुदीराम बोस स्मारक** का इतिहास भारत के सशस्त्र स्वतंत्रता आंदोलन का वह स्वर्णिम और रोमांचक अध्याय है जिसने सोए हुए राष्ट्र को झकझोर कर क्रांति के पथ पर अग्रसर किया था।\n\nवर्ष 1908 के आरंभ में, क्रांतिकारी संगठन **अनुशीलन समिति** ने कलकत्ता के कुख्यात और क्रूर चीफ प्रेसीडेंसी मजिस्ट्रेट **डगलस किंग्सफोर्ड** को मृत्युदंड देने का गुप्त निर्णय लिया, जो स्वदेशी आंदोलनकारियों और किशोरों को अमानवीय कोड़े मारने की सजा देता था। जब ब्रिटिश सरकार ने भयभीत होकर किंग्सफोर्ड का तबादला मुजफ्फरपुर के जिला जज के पद पर कर दिया, तब दो निष्ठावान किशोर क्रांतिकारियों—मिदनापुर के 18 वर्षीय **खुदीराम बोस** तथा 19 वर्षीय **प्रफुल्ल चाकी**—को इस साहसिक कार्य की जिम्मेदारी सौंपी गई।\n\nइतिहास के पन्नों में दर्ज वह रोमांचक घटनाक्रम:\n- **ऐतिहासिक बम विस्फोट (30 अप्रैल 1908)**: कंपनी बाग स्थित यूरोपियन क्लब के बाहर घात लगाए बैठे इन दोनों रणबांकुरों ने रात्रि 8:30 बजे किंग्सफोर्ड की समझकर एक बग्घी पर जोरदार बम फेंका। दुर्भाग्यवश उस बग्घी में बैरिस्टर प्रिंगल कैनेडी की पत्नी और पुत्री सवार थीं, जिनकी इस विस्फोट में मृत्यु हो गई और किंग्सफोर्ड बच निकला।\n- **बलिदान और प्रफुल्ल चाकी की शहादत**: दोनों क्रांतिकारी अलग-अलग दिशाओं में रेलवे पटरियों के सहारे भागे। मोकामा घाट रेलवे स्टेशन पर जब ब्रिटिश पुलिस ने प्रफुल्ल चाकी को घेर लिया, तो उन्होंने पराधीनता स्वीकार करने के बजाय अपनी ही पिस्तौल से स्वयं को गोली मारकर वीरगति प्राप्त की।\n- **वैनी स्टेशन पर गिरफ्तारी**: 25 मील नंगे पांव दौड़ने के बाद जब भूखे-प्यासे खुदीराम वैनी स्टेशन (अब **खुदीराम बोस पूसा स्टेशन**) पर पानी और सत्तू मांग रहे थे, तब संदेह होने पर सिपाहियों ने उन्हें घेर लिया। तलाशी में उनके पास से दो भरी हुई पिस्तौलें और गोलियां बरामद हुईं।\n- **मुकदमा और अमर शहादत**: मुजफ्फरपुर अदालत में चले मुकदमे के दौरान खुदीराम के चेहरे पर कोई भय नहीं था। **11 अगस्त 1908** की भोर में मुजफ्फरपुर केंद्रीय जेल में जब उन्हें फांसी के फंदे तक ले जाया गया, तो वे मुस्कुराते हुए गीता हाथ में लेकर अमरता की गोद में सो गए।"
+    },
+    "significance": {
+      "en": "The **Shaheed Khudiram Bose Memorial** occupies an immortal place in the psychological and political landscape of modern India, venerated as a fountainhead of youth revolution and national self-respect.\n\nThe Muzaffarpur bombing marked the decisive transition from petitions and constitutional protests to unyielding revolutionary direct action, galvanizing poets, intellectuals, and freedom fighters throughout Bengal, Bihar, Maharashtra, and Punjab.\n\nThe multifaceted significance of this memorial encompasses:\n- **Symbol of Supreme Youth Sacrifice**: Khudiram Bose proved that even a teenager possessed the indomitable courage to challenge the might of the British Empire. His sacrifice inspired legendary revolutionaries including Bhagat Singh, Chandrashekhar Azad, and Surya Sen.\n- **Cultural Renaissance & Folk Songs**: The martyrdom gave birth to iconic Bengali and Bihari folk ballads, most notably the immortal song *'Ekbar Biday De Ma Ghure Ashi'* (Bid me farewell mother, I shall return soon), sung in households across Eastern India for over a century.\n- **Annual Shaheed Diwas Celebrations**: Every year on **August 11**, the district administration, armed forces, freedom fighters' families, and thousands of students gather at Company Bagh to conduct solemn guard-of-honour ceremonies, cultural symposia, and patriotic marches.\n- **Educational & Pilgrimage Anchor**: The monument serves as an indispensable educational stop for school excursions, university scholars, and travelers tracing the anti-colonial heritage circuit of Bihar.",
+      "hi": "**शहीद खुदीराम बोस स्मारक** आधुनिक भारत के राजनीतिक, सामाजिक और मनोवैज्ञानिक इतिहास में अद्वितीय स्थान रखता है। यह स्थल भारतीय युवाओं के अप्रतिम त्याग, अदम्य शौर्य और राष्ट्रीय आत्मसम्मान का अमर प्रतीक है।\n\nमुजफ्फरपुर की यह ऐतिहासिक घटना ब्रिटिश हुकूमत के विरुद्ध याचना की नीति को त्यागकर प्रत्यक्ष क्रांतिकारी प्रतिरोध के नए युग का सूत्रपात करने वाली साबित हुई, जिसने बंगाल, बिहार, महाराष्ट्र और पंजाब के संपूर्ण स्वतंत्रता संग्राम को एक नई दिशा दी।\n\nइस स्मारक का बहुआयामी ऐतिहासिक एवं सांस्कृतिक महत्व:\n- **युवा राष्ट्रभक्ति का सर्वोच्च प्रतिमान**: खुदीराम बोस ने मात्र अठारह वर्ष की उम्र में यह सिद्ध कर दिखाया कि देश की आजादी के लिए हंसते-हंसते प्राण न्योछावर करने का साहस क्या होता है। उनके बलिदान ने आगे चलकर भगत सिंह, चंद्रशेखर आजाद और सूर्य सेन जैसे महान क्रांतिकारियों की पूरी पीढ़ी को प्रेरित किया।\n- **लोक-साहित्य और गीतों में अमरता**: उनकी शहादत ने अमर लोकगीत *'एकबार बिदाय दे मां घूरे आशी'* (एक बार विदा दो मां, मैं फिर लौट कर आऊंगा) को जन्म दिया, जो पिछले एक सौ अठारह वर्षों से हर भारतीय के हृदय में राष्ट्रप्रेम की अविरल तरंगें पैदा कर रहा है।\n- **प्रतिवर्ष भव्य 'शहादत दिवस' का आयोजन**: प्रत्येक वर्ष **11 अगस्त** को स्मारक स्थल पर जिला प्रशासन, पुलिस बल, सामाजिक संस्थाओं और हजारों छात्र-छात्राओं की उपस्थिति में गरिमामयी सलामी, पुष्पांजलि और देशभक्ति संगोष्ठियों का आयोजन किया जाता है।\n- **शैक्षणिक एवं ऐतिहासिक प्रेरणा केंद्र**: यह स्थल बिहार के स्वतंत्रता संग्राम सर्किट का एक अनिवार्य केंद्र है, जहाँ विभिन्न राज्यों से आने वाले शोधार्थी, पर्यटक और विद्यार्थी राष्ट्र के गौरवशाली इतिहास से रूबरू होते हैं।"
+    },
+    "location": {
+      "address": {
+        "en": "**Shaheed Khudiram Bose Memorial & Smarak Sthal**, Company Bagh Road, Collectorate Campus, Ward No. 14, Post Office Muzaffarpur Head Office, District Muzaffarpur, North Bihar, Postal Index Number (PIN) **842001**, India.\n\nGeographic Positioning & Urban Navigation:\n- **Administrative Quarter**: Situated in the green, tree-canopied civic heart of Muzaffarpur known as Company Bagh, directly adjacent to the District Collectorate Office and the District and Sessions Court of Muzaffarpur.\n- **Historic Proximity**: Positioned within 600 metres of the historic Shaheed Khudiram Bose Central Jail where the gallows were erected, and approximately 1 kilometre west of the Burhi Gandak River embankment.\n- **Transit Hub Distances**: Located merely 1.5 kilometres north of **Muzaffarpur Junction Railway Station (MFP)**, 2.5 kilometres from the Government Bus Terminal (Imlibatti), and 70 kilometres northeast of Patna Airport (PAT).\n- **Road Accessibility**: Connected seamlessly via Club Road, Court Road, and Motijheel Road, with easy access by car, e-rickshaw, auto-rickshaw, or foot from any commercial hub in the city.",
+        "hi": "**शहीद खुदीराम बोस स्मारक स्थल**, कंपनी बाग मार्ग, कलेक्ट्रेट परिसर, वार्ड संख्या 14, प्रधान डाकघर क्षेत्र, जिला मुजफ्फरपुर, उत्तरी बिहार, पिन कोड **842001**, भारत।\n\nभौगोलिक स्थिति एवं विस्तृत मार्गनिर्देशन:\n- **प्रशासनिक क्षेत्र में अवस्थिति**: मुजफ्फरपुर के हरित एवं शांत प्रशासनिक केंद्र कंपनी बाग में स्थित, जो जिला समाहरणालय (कलेक्ट्रेट) कार्यालय और जिला एवं सत्र न्यायालय मुजफ्फरपुर के ठीक सम्मुख है।\n- **ऐतिहासिक स्थलों से दूरी**: ऐतिहासिक शहीद खुदीराम बोस केंद्रीय कारागार (फांसी स्थल) से मात्र 600 मीटर की दूरी पर तथा बूढ़ी गंडक नदी के तटबंध से लगभग 1 किलोमीटर पश्चिम में अवस्थित।\n- **प्रमुख परिवहन केंद्रों से दूरी**: **मुजफ्फरपुर जंक्शन रेलवे स्टेशन (MFP)** से मात्र 1.5 किलोमीटर उत्तर, इमलीचट्टी स्थित मुख्य बस स्टैंड से 2.5 किलोमीटर तथा पटना अंतरराष्ट्रीय हवाई अड्डे से लगभग 70 किलोमीटर दूर।\n- **सड़क संपर्क एवं सुगमता**: कोर्ट रोड, क्लब रोड और मोतीझील मुख्य मार्ग से जुड़ा हुआ है। यहाँ नगर के किसी भी हिस्से से ई-रिक्शा, निजी वाहन अथवा पैदल अत्यंत सुगमता से पहुँचा जा सकता है।"
+      },
+      "latitude": 26.1264,
+      "longitude": 85.3855,
+      "mapQuery": "Shaheed Khudiram Bose Memorial, Company Bagh, Muzaffarpur, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "day": "Monday",
+          "open": "06:00",
+          "close": "19:00"
+        },
+        {
+          "day": "Tuesday",
+          "open": "06:00",
+          "close": "19:00"
+        },
+        {
+          "day": "Wednesday",
+          "open": "06:00",
+          "close": "19:00"
+        },
+        {
+          "day": "Thursday",
+          "open": "06:00",
+          "close": "19:00"
+        },
+        {
+          "day": "Friday",
+          "open": "06:00",
+          "close": "19:00"
+        },
+        {
+          "day": "Saturday",
+          "open": "06:00",
+          "close": "19:00"
+        },
+        {
+          "day": "Sunday",
+          "open": "06:00",
+          "close": "19:00"
+        }
+      ],
+      "entryFee": {
+        "amount": 0,
+        "currency": "INR",
+        "type": "free"
+      },
+      "recommendedDurationMinutes": 60,
+      "bestTimeToVisit": {
+        "en": "October to March (for pleasant winter weather) or August 11 during the solemn annual Shaheed Diwas commemoration",
+        "hi": "अक्टूबर से मार्च (सुखद शीतकालीन मौसम के लिए) अथवा 11 अगस्त को वार्षिक 'शहीद दिवस' के अवसर पर"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Centrally situated in the Company Bagh administrative zone along Court Road, connected to NH-22 and NH-27 via Motijheel and Saraiyaganj.",
+        "hi": "कोर्ट रोड पर कंपनी बाग प्रशासनिक क्षेत्र के केंद्र में स्थित, मोतीझील और सरैयागंज के रास्ते NH-22 और NH-27 से सुगम सड़क संपर्क उपलब्ध है।"
+      },
+      "railway": [
+        {
+          "name": {
+            "en": "Muzaffarpur Junction Railway Station (MFP)",
+            "hi": "मुजफ्फरपुर जंक्शन रेलवे स्टेशन (MFP)"
+          },
+          "distanceKm": 1.5
+        },
+        {
+          "name": {
+            "en": "Khudiram Bose Pusa Railway Station (KRBP)",
+            "hi": "खुदीराम बोस पूसा रेलवे स्टेशन (KRBP)"
+          },
+          "distanceKm": 38
+        }
+      ],
+      "airport": [
+        {
+          "name": {
+            "en": "Darbhanga Airport (DBR)",
+            "hi": "दरभंगा हवाई अड्डा (DBR)"
+          },
+          "distanceKm": 64
+        },
+        {
+          "name": {
+            "en": "Jay Prakash Narayan International Airport, Patna (PAT)",
+            "hi": "जयप्रकाश नारायण अंतर्राष्ट्रीय हवाई अड्डा, पटना (PAT)"
+          },
+          "distanceKm": 72
+        }
+      ],
+      "localTransport": {
+        "en": "E-rickshaws, shared and private autos, and cycle rickshaws operate continuously from Muzaffarpur Junction and nearby bus terminals.",
+        "hi": "मुजफ्फरपुर जंक्शन और बस स्टैंड से ई-रिक्शा, निजी ऑटो और साइकिल रिक्शा निरंतर उपलब्ध रहते हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 0,
+        "max": 0,
+        "currency": "INR",
+        "note": {
+          "en": "Entry to the memorial park is entirely free for all visitors.",
+          "hi": "स्मारक पार्क में प्रवेश सभी आगंतुकों के लिए पूर्णतः निःशुल्क है।"
+        }
+      },
+      "localTransport": {
+        "min": 20,
+        "max": 80,
+        "currency": "INR",
+        "note": {
+          "en": "Standard e-rickshaw or auto fare from Muzaffarpur Junction to Company Bagh.",
+          "hi": "मुजफ्फरपुर जंक्शन से कंपनी बाग तक ई-रिक्शा अथवा ऑटो का सामान्य किराया।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 150,
+      "stairs": false,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "- **Best Visiting Hours & Light**: Visit between **08:00 AM and 06:00 PM** when the surrounding park is open and basking in pleasant daylight. Morning hours are especially tranquil for taking thoughtful photographs of the bronze statue and reading the commemorative stone plaques.\n- **Annual Martyrdom Day Pilgrimage**: If your travel calendar permits, plan your visit on **August 11 (Shaheed Diwas)** to witness the stirring official guard-of-honour, floral tribute ceremonies by civil dignitaries, and cultural programs organized by school students and cultural troupes.\n- **Combined Patriotic Itinerary**: Combine your visit to the memorial with nearby historical landmarks including the historic British-era District Court complex where the trial occurred and the outer gates of Shaheed Khudiram Bose Central Jail.\n- **Courteous Conduct**: The memorial is a consecrated national historic site; visitors are requested to maintain solemn decorum, avoid littering within the park gardens, and refrain from stepping onto the elevated marble base of the memorial statue.\n- **Civic Conveniences**: Safe parking for two-wheelers and cars is available along Company Bagh Road. Refreshment stalls, local tea corners, and fresh fruit vendors are situated right outside the park perimeter.",
+        "hi": "- **भ्रमण का सर्वोत्तम समय व वातावरण**: स्मारक का भ्रमण प्रातः **08:00 बजे से सायं 06:00 बजे** के बीच करें जब पार्क खुला रहता है और धूप में स्मारक की भव्यता निखरती है। शांत वातावरण में प्रतिमा को नमन करने और शिलालेखों को पढ़ने के लिए सुबह का समय सबसे उपयुक्त है।\n- **शहादत दिवस (11 अगस्त) का विशेष अवसर**: यदि संभव हो तो **11 अगस्त** को अपनी यात्रा की योजना बनाएं, जब यहाँ आधिकारिक 'शहीद दिवस' पर पुलिस बल द्वारा गार्ड ऑफ ऑनर, प्रशासनिक पुष्पांजलि तथा देशभक्ति से ओतप्रोत सांस्कृतिक कार्यक्रमों का आयोजन होता है।\n- **स्वतंत्रता संग्राम हेरिटेज परिपथ**: इस स्मारक के भ्रमण के साथ-साथ पास ही स्थित ऐतिहासिक जिला न्यायालय भवन (जहाँ मुकदमा चला था) और शहीद खुदीराम बोस केंद्रीय जेल के बाह्य परिसर का भी अवलोकन अवश्य करें।\n- **स्मारक मर्यादा एवं शुचिता**: यह एक राष्ट्रीय गौरव का पावन स्मारक है; अतः परिसर में शांति बनाए रखें, कूड़ा-कचरा न फैलाएं तथा प्रतिमा के मुख्य संगमरमर चबूतरे पर चढ़ने से परहेज करें।\n- **पार्किंग एवं जनसुविधाएं**: कंपनी बाग मार्ग पर दोपहिया और चारपहिया वाहनों के लिए पर्याप्त पार्किंग उपलब्ध है। पार्क के बाहर स्वच्छ पेयजल, चाय और ताजे फलों के स्टॉल आसानी से मिल जाते हैं।"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        {
+          "title": "Places of Interest - Muzaffarpur",
+          "organization": "District Administration Muzaffarpur, Government of Bihar",
+          "url": "https://muzaffarpur.nic.in/tourist-places/"
+        },
+        {
+          "title": "Bihar Tourism - Freedom Trail",
+          "organization": "Bihar Tourism, Government of Bihar",
+          "url": "https://tourism.bihar.gov.in/en/destinations/muzaffarpur"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "national-research-centre-on-litchi",
+    "slug": "national-research-centre-on-litchi",
+    "name": {
+      "en": "ICAR-National Research Centre on Litchi & Shahi Orchards",
+      "hi": "भाकृअनुप-राष्ट्रीय लीची अनुसंधान केंद्र एवं शाही लीची बागान"
+    },
+    "districtId": "muzaffarpur",
+    "placeType": "research_centre",
+    "primaryCategory": "nature",
+    "categories": [
+      "nature",
+      "educational",
+      "agro_tourism",
+      "heritage"
+    ],
+    "subcategories": [
+      "horticultural_institute",
+      "orchard_estate",
+      "botanical_garden",
+      "eco_park"
+    ],
+    "circuits": [
+      "agro_tourism_bihar",
+      "tirhut_circuit",
+      "eco_circuit"
+    ],
+    "tags": [
+      "mustVisit",
+      "shahiLitchi",
+      "litchiCapital",
+      "agroTourism",
+      "botanicalResearch",
+      "giTag",
+      "nature"
+    ],
+    "audiences": [
+      "families",
+      "agro_enthusiasts",
+      "nature_lovers",
+      "students",
+      "researchers"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "The premier national institute and lush agro-tourism haven dedicated to the world-famous GI-tagged 'Shahi Litchi', earning Muzaffarpur its celebrated crown as the 'Litchi Capital of India'.",
+      "hi": "विश्वविख्यात जीआई-टैग प्राप्त 'शाही लीची' के संरक्षण एवं संवर्धन को समर्पित भारत का शीर्ष राष्ट्रीय अनुसंधान संस्थान, जिसके कारण मुजफ्फरपुर को 'भारत की लीची राजधानी' कहा जाता है।"
+    },
+    "description": {
+      "en": "The **ICAR-National Research Centre on Litchi (NRCL)** (राष्ट्रीय लीची अनुसंधान केंद्र) and its surrounding lush orchards in Mushahari form the beating heart of Muzaffarpur's globally celebrated identity as the **'Litchi Capital of India'** (भारत की लीची राजधानी).\n\nEstablished under the aegis of the Indian Council of Agricultural Research, this sprawling 100-acre lush agricultural sanctuary is the nation's premier apex institution solely dedicated to comprehensive research, germplasm conservation, and post-harvest technology on litchi cultivation. Muzaffarpur owes its international horticultural fame to its distinctive terroir—the fertile, calcium-rich alluvial silt deposited by the Burhi Gandak and Gandak river systems, coupled with optimal subtropical summer humidity, creating the ideal ecosystem for the world's most fragrant and succulent litchis.\n\nCore attractions and highlights for tourists and agro-enthusiasts include:\n- **National Litchi Germplasm Repository**: A botanical treasure trove preserving more than 60 diverse, exotic, and indigenous varieties of litchi sourced from across India, China, Thailand, and South Africa.\n- **GI-Tagged 'Shahi Litchi' Groves**: Expansive experimental orchards showcasing the legendary **Shahi Litchi** (awarded the prestigious Geographical Indication tag in 2018) alongside popular cultivars such as *China*, *Bedana*, *Kasba*, and *Late Seedless*.\n- **Agri-Tourism & Orchard Trails**: Guided walking paths beneath dense, evergreen tree canopies where visitors can observe drip-irrigation models, organic composting units, and high-density planting techniques.\n- **Apiculture & Honey Cultivation Units**: Thriving beekeeping colonies integrated inside the orchards that produce the prized Muzaffarpur raw litchi blossom honey (*Litchi Madhu*).\n- **Processing & Value-Addition Labs**: Facilities developing litchi nectar, squash, dehydrated litchi nuts, wine base, and canned pulp for international export markets.\n\nFor visitors arriving during the vibrant harvest season, the fragrant air, emerald foliage, and heavy bunches of crimson-red fruits create an unforgettable sensory experience.",
+      "hi": "**भाकृअनुप-राष्ट्रीय लीची अनुसंधान केंद्र (NRCL)** तथा मुशहरी के विस्तृत सुरम्य लीची बागान मुजफ्फरपुर की विश्वप्रसिद्ध पहचान **'भारत की लीची राजधानी'** (Litchi Capital of India) के जीवंत प्रतीक हैं।\n\nभारतीय कृषि अनुसंधान परिषद (ICAR) के तत्वावधान में 100 एकड़ से अधिक सुरम्य भूभाग में स्थापित यह शीर्ष संस्थान देश का एकमात्र ऐसा विशिष्ट राष्ट्रीय अनुसंधान केंद्र है जो लीची के उन्नत उत्पादन, आनुवंशिक संरक्षण, कीट प्रबंधन और प्रसंस्कृत उत्पादों के विकास हेतु समर्पित है। मुजफ्फरपुर को दुनिया भर में लीची का सिरमौर बनाने में यहाँ की विशिष्ट भौगोलिक स्थिति का सबसे बड़ा योगदान है—बूढ़ी गंडक नदी की कछारी दोमट मिट्टी, भूमि में प्राकृतिक चूने (कैल्शियम) की प्रचुरता, और मई माह की अनुकूल आर्द्र जलवायु मिलकर लीची को अद्वितीय मिठास, सुगंध और रसीलापन प्रदान करते हैं।\n\nपर्यटकों और कृषि-प्रेमियों के लिए यहाँ के प्रमुख आकर्षण:\n- **राष्ट्रीय लीची जीन-बैंक एवं जर्मप्लाज्म**: 60 से अधिक दुर्लभ, स्वदेशी एवं अंतरराष्ट्रीय लीची की प्रजातियों का विशाल जीवित संग्रह, जहाँ भारत, चीन, थाईलैंड और दक्षिण अफ्रीका की प्रजातियां संरक्षित हैं।\n- **जीआई-टैग्ड 'शाही लीची' के बागान**: वर्ष 2018 में प्रतिष्ठित भौगोलिक उपदर्शन (GI Tag) प्राप्त विश्वप्रसिद्ध **शाही लीची** के विशाल बाग, साथ ही *चाइना*, *बेदाना*, *कस्बा*, और *स्वर्ण रूपा* जैसी उन्नत किस्में।\n- **कृषि-पर्यटन एवं छायादार वीथियां**: विशाल, सदाबहार लीची वृक्षों की छांव में बने मार्ग, जहाँ पर्यटक बूंद-बूंद सिंचाई (ड्रिप इरिगेशन), कैनोपी प्रबंधन और सघन बागवानी के आधुनिक तरीकों को निकट से देख सकते हैं।\n- **मधुमक्खी पालन (एपिकल्चर) केंद्र**: लीची के परागण और शुद्ध **लीची शहद** उत्पादन के लिए बागानों में स्थापित आधुनिक मधुमक्खी बक्से, जहाँ से निकलने वाला हल्का स्वर्णिम शहद अत्यंत सुवासित और औषधीय होता है।\n- **प्रसंस्करण एवं मूल्य संवर्धन इकाई**: लीची का शुद्ध जूस, स्क्वैश, डिब्बाबंद गूदा, और निर्जलित 'लीची नट' तैयार करने वाली आधुनिक प्रायोगिक प्रयोगशालाएं।\n\nमई और जून के महीनों में जब पेड़ों पर लाल-गुलाबी लीचियों के गुच्छे लटकते हैं और वातावरण में मनमोहक सुगंध फैलती है, तब यहाँ का परिदृश्य स्वर्ग-समान प्रतीत होता है।"
+    },
+    "history": {
+      "en": "The history of litchi cultivation in Muzaffarpur and the establishment of the **National Research Centre on Litchi** reflect an extraordinary journey of colonial horticultural experimentation, princely patronage, and modern scientific triumph.\n\nLitchi (*Litchi chinensis*) was originally introduced to India from southern China via Bengal in the late 18th century. By the early 19th century, European indigo planters and forward-thinking zamindars of the Tirhut region discovered that the fertile floodplains of the Burhi Gandak River possessed exceptional agro-climatic conditions that made the fruit dramatically sweeter, thinner-skinned, and more aromatic than its East Asian ancestors.\n\nMilestones in this agricultural heritage include:\n- **Origin of the 'Shahi' Cultivar**: In the late 19th century, royal horticulturists in Darbhanga and Muzaffarpur selected an extraordinary natural clone known for its distinct rose-like fragrance, tiny seed, and high pulp ratio, christening it **'Shahi' (Royal)** litchi to honor its aristocratic favor.\n- **Establishment of NRCL (2001)**: Recognizing that Bihar produced over 40% of India's litchis but suffered from post-harvest rot and climate vulnerabilities, the Government of India established the National Research Centre on Litchi on **June 6, 2001** under the IX Five-Year Plan at Mushahari Farm.\n- **Elevation to Full Apex Status**: The centre officially became fully operational in 2005, spearheading pioneering breakthroughs in bio-rational pest management, canopy architecture, and cold-chain logistics.\n- **Geographical Indication (GI) Recognition (2018)**: In October 2018, **'Shahi Litchi of Bihar'** received the prestigious Geographical Indication (GI) registration, formally enshrining Muzaffarpur's exclusive intellectual and cultural provenance over this king of sub-tropical fruits on the world stage.",
+      "hi": "मुजफ्फरपुर में लीची की ऐतिहासिक यात्रा और **राष्ट्रीय लीची अनुसंधान केंद्र (NRCL)** की स्थापना औपनिवेशिक काल के बागवानी प्रयोगों, शाही संरक्षण और स्वतंत्र भारत की कृषि क्रांति का एक अत्यंत गौरवशाली अध्याय है।\n\nमूल रूप से दक्षिणी चीन से 18वीं शताब्दी के उत्तरार्ध में बंगाल के रास्ते भारत आई लीची (*लीची चाइनेन्सिस*) ने 19वीं सदी के आरंभ में तिरहुत की धरती पर पदार्पण किया। यहाँ के यूरोपीय नीलहों (नील बागान मालिकों) तथा स्थानीय प्रगतिशील जमींदारों ने पाया कि मुजफ्फरपुर में बूढ़ी गंडक की कछारी मिट्टी और आर्द्र जलवायु में फलने वाली लीची अपने मूल चीनी स्वरूप से कहीं अधिक रसीली, सुगंधित और पतले छिलके वाली हो जाती है।\n\nइस ऐतिहासिक विरासत के प्रमुख मील के पत्थर:\n- **'शाही लीची' का प्रादुर्भाव**: 19वीं सदी के अंतिम दशकों में दरभंगा राज और मुजफ्फरपुर के शाही उद्यानों में एक विशेष प्राकृतिक किस्म की पहचान की गई, जिसकी अद्वितीय गुलाब-जैसी महक और छोटे बीज के कारण इसे **'शाही'** नाम दिया गया, जो तत्कालीन नवाबों और ब्रिटिश वायसरायों की विशेष पसंद बनी।\n- **अनुसंधान केंद्र की स्थापना (2001)**: भारत की कुल लीची का लगभग 40 प्रतिशत से अधिक उत्पादन अकेले बिहार में होने के बावजूद तुड़ाई के बाद होने वाले भारी नुकसान और अनुसंधान के अभाव को देखते हुए, केंद्र सरकार ने 9वीं पंचवर्षीय योजना के तहत **6 जून 2001** को मुशहरी फार्म में राष्ट्रीय लीची अनुसंधान केंद्र की स्थापना की।\n- **पूर्ण स्वायत्त संस्थान का स्वरूप (2005)**: वर्ष 2005 में इस केंद्र ने अपने आधुनिक वैज्ञानिक परिसर और 100 एकड़ के प्रक्षेत्र से पूर्ण कार्य आरंभ किया, जिसने कीट नियंत्रण, कैनोपी छंटाई और शीत-भंडारण तकनीकों में देश को आत्मनिर्भर बनाया।\n- **जीआई टैग (GI Tag) की ऐतिहासिक उपलब्धि (2018)**: अक्टूबर 2018 में मुजफ्फरपुर की **'शाही लीची'** को आधिकारिक तौर पर बौद्धिक संपदा अधिकार के रूप में जीआई टैग प्रदान किया गया, जिसने अंतरराष्ट्रीय मंच पर मुजफ्फरपुर के फल की विशिष्टता और एकाधिकार पर मुहर लगा दी।"
+    },
+    "significance": {
+      "en": "The **National Research Centre on Litchi & Shahi Litchi Heritage** holds massive socio-economic, ecological, and cultural significance, anchoring the agrarian livelihood and identity of North Bihar.\n\nMuzaffarpur is synonymous with litchi across India, with the red fruit serving as a powerful cultural metaphor and regional ambassador during the peak summer months.\n\nThe far-reaching impact of this agro-heritage hub includes:\n- **Agrarian Economic Pillar**: Litchi cultivation sustains over 50,000 farming households, seasonal laborers, packaging artisans, and logistics workers across Muzaffarpur, Vaishali, Samastipur, and East Champaran, driving an annual rural trade worth hundreds of crores.\n- **National Royal Gift Tradition**: Following an illustrious post-independence tradition, the first premium harvest of Shahi Litchi from Muzaffarpur is packed into special ceremonial baskets and dispatched via special trains as an official state gift to the President, Prime Minister, and Union Cabinet Ministers in New Delhi.\n- **Scientific Germplasm Conservation**: As global climate change threatens subtropical orchards, NRCL acts as a vital gene repository and research vanguard, breeding climate-resilient varieties and mitigating fruit-borer attacks.\n- **Agro-Tourism & Sensory Wonder**: Muzaffarpur's litchi orchards represent one of Eastern India's most evocative farm-tourism destinations, where travelers can wander beneath fruiting trees, taste freshly plucked sun-warmed fruit, and learn about sustainable beekeeping.",
+      "hi": "**राष्ट्रीय लीची अनुसंधान केंद्र एवं शाही लीची बागान** उत्तर बिहार की ग्रामीण अर्थव्यवस्था, पारिस्थितिकी और सांस्कृतिक पहचान की रीढ़ हैं। मुजफ्फरपुर का नाम आते ही देश-विदेश में लाल-लाल मीठी लीची की छवि स्वतः उभर आती है।\n\nइस कृषि धरोहर और वैज्ञानिक केंद्र का बहुआयामी महत्व:\n- **ग्रामीण आजीविका का मजबूत आधार**: लीची की खेती मुजफ्फरपुर, वैशाली, समस्तीपुर और पूर्वी चंपारण के 50,000 से अधिक किसान परिवारों, खेतिहर मजदूरों, टोकरी निर्माताओं और परिवहन कर्मियों की आजीविका चलाती है, जिससे प्रतिवर्ष सैकड़ों करोड़ रुपये का ग्रामीण व्यापार होता है।\n- **राष्ट्रपति और प्रधानमंत्री को विशेष सौगात की परंपरा**: स्वतंत्रता के बाद से चली आ रही एक अनूठी और भव्य परंपरा के तहत, मुजफ्फरपुर की पहली और सबसे चुनिंदा शाही लीची की खेप विशेष डिब्बों में पैक करके नई दिल्ली में भारत के राष्ट्रपति, प्रधानमंत्री और केंद्रीय मंत्रियों को राजकीय उपहार के रूप में भेजी जाती है।\n- **राष्ट्रीय जर्मप्लाज्म संरक्षण**: जलवायु परिवर्तन के दौर में तापमान वृद्धि और बेमौसम बारिश से लीची की फसल को बचाने के लिए यह संस्थान अत्याधुनिक अनुसंधान और नई जलवायु-अनुकूल किस्मों के विकास में देश का मार्गदर्शन कर रहा है।\n- **कृषि-पर्यटन एवं प्राकृतिक अनुभव**: मुजफ्फरपुर के लीची के बागान पूर्वी भारत में एग्रो-टूरिज्म का एक अनुपम केंद्र हैं, जहाँ पर्यटक पेड़ों से सीधे तोड़ी गई ताजी फल का स्वाद ले सकते हैं, बागों में टहल सकते हैं और लीची के पेड़ों के बीच मधुमक्खी पालन का प्रत्यक्ष अनुभव कर सकते हैं।"
+    },
+    "location": {
+      "address": {
+        "en": "**ICAR-National Research Centre on Litchi (NRCL)**, Mushahari Farm Campus, Pusa Road (SH-49), Post Office Mushahari, Muzaffarpur District, North Bihar, Postal Index Number (PIN) **842002**, India.\n\nGeographic & Transit Access Information:\n- **Exact Setting**: Located in the lush rural-agrarian belt of Mushahari on State Highway 49 (Muzaffarpur–Pusa Road), approximately 8 kilometres southeast of Muzaffarpur city centre.\n- **Nearby Landmark**: Situated near the historic Mushahari Block headquarters and adjacent to the expansive ICAR experimental farm fields.\n- **Transit Distances**: Positioned 8.5 kilometres southeast of **Muzaffarpur Junction Railway Station (MFP)**, 7.5 kilometres from the Imlibatti Government Bus Terminal, and 76 kilometres northeast of Jay Prakash Narayan International Airport in Patna (PAT).\n- **Road Route**: Readily accessible by car, taxi, or shared tempo from Muzaffarpur via Mithanpura Chowk and Mushahari Road, offering a picturesque drive lined with mango and litchi orchards.",
+        "hi": "**भाकृअनुप-राष्ट्रीय लीची अनुसंधान केंद्र (NRCL)**, मुशहरी फार्म परिसर, पूसा रोड (राजकीय राजमार्ग 49), डाकघर मुशहरी, जिला मुजफ्फरपुर, उत्तरी बिहार, पिन कोड **842002**, भारत।\n\nभौगोलिक स्थिति एवं विस्तृत यात्रा विवरण:\n- **सटीक अवस्थिति**: मुजफ्फरपुर शहर के केंद्र से लगभग 8 किलोमीटर दक्षिण-पूर्व में राज्य राजमार्ग 49 (मुजफ्फरपुर-पूसा मार्ग) पर स्थित मुशहरी के सुरम्य ग्रामीण-कृषि क्षेत्र में अवस्थित।\n- **प्रमुख लैंडमार्क**: ऐतिहासिक मुशहरी प्रखंड मुख्यालय के समीप तथा भारतीय कृषि अनुसंधान परिषद के विस्तृत प्रायोगिक प्रक्षेत्रों के मध्य स्थित।\n- **परिवहन केंद्रों से दूरी**: **मुजफ्फरपुर जंक्शन रेलवे स्टेशन (MFP)** से मात्र 8.5 किलोमीटर दक्षिण-पूर्व, इमलीचट्टी बस स्टैंड से 7.5 किलोमीटर तथा पटना के जयप्रकाश नारायण अंतरराष्ट्रीय हवाई अड्डे से लगभग 76 किलोमीटर दूर।\n- **सड़क मार्ग एवं सुगमता**: मुजफ्फरपुर शहर के मिठनपुरा चौक से मुशहरी रोड होते हुए कार, टैक्सी, ई-रिक्शा अथवा ऑटो द्वारा यहाँ आसानी से पहुँचा जा सकता है; यह संपूर्ण मार्ग आम और लीची के हरे-भरे बागों से आच्छादित है।"
+      },
+      "latitude": 26.1415,
+      "longitude": 85.4522,
+      "mapQuery": "ICAR-National Research Centre on Litchi, Mushahari, Muzaffarpur, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "day": "Monday",
+          "open": "09:30",
+          "close": "17:00"
+        },
+        {
+          "day": "Tuesday",
+          "open": "09:30",
+          "close": "17:00"
+        },
+        {
+          "day": "Wednesday",
+          "open": "09:30",
+          "close": "17:00"
+        },
+        {
+          "day": "Thursday",
+          "open": "09:30",
+          "close": "17:00"
+        },
+        {
+          "day": "Friday",
+          "open": "09:30",
+          "close": "17:00"
+        },
+        {
+          "day": "Saturday",
+          "open": "09:30",
+          "close": "17:00"
+        },
+        {
+          "day": "Sunday",
+          "closed": true
+        }
+      ],
+      "entryFee": {
+        "amount": 0,
+        "currency": "INR",
+        "type": "free"
+      },
+      "recommendedDurationMinutes": 120,
+      "bestTimeToVisit": {
+        "en": "Mid-May to early June (for the dazzling fruiting season of red Shahi Litchi) or November to March (for pleasant agro-tours)",
+        "hi": "15 मई से 10 जून (लाल-गुलाबी शाही लीची के चरम फलोत्पादन का दृश्य देखने हेतु) अथवा नवंबर से मार्च (सुखद कृषि भ्रमण हेतु)"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Located 8 km southeast of Muzaffarpur on State Highway 49 (Muzaffarpur-Pusa Road) passing through Mithanpura and Mushahari.",
+        "hi": "मिठनपुरा और मुशहरी होते हुए राज्य राजमार्ग 49 (मुजफ्फरपुर-पूसा मार्ग) पर मुजफ्फरपुर शहर से 8 किलोमीटर दक्षिण-पूर्व में स्थित।"
+      },
+      "railway": [
+        {
+          "name": {
+            "en": "Muzaffarpur Junction Railway Station (MFP)",
+            "hi": "मुजफ्फरपुर जंक्शन रेलवे स्टेशन (MFP)"
+          },
+          "distanceKm": 8.5
+        },
+        {
+          "name": {
+            "en": "Silout Railway Station (SIHO)",
+            "hi": "सिलौत रेलवे स्टेशन (SIHO)"
+          },
+          "distanceKm": 6.2
+        }
+      ],
+      "airport": [
+        {
+          "name": {
+            "en": "Darbhanga Airport (DBR)",
+            "hi": "दरभंगा हवाई अड्डा (DBR)"
+          },
+          "distanceKm": 68
+        },
+        {
+          "name": {
+            "en": "Jay Prakash Narayan International Airport, Patna (PAT)",
+            "hi": "जयप्रकाश नारायण अंतर्राष्ट्रीय हवाई अड्डा, पटना (PAT)"
+          },
+          "distanceKm": 76
+        }
+      ],
+      "localTransport": {
+        "en": "Taxis, private auto-rickshaws, and shared rural tempos ply frequently between Mithanpura Chowk and Mushahari Farm.",
+        "hi": "मिठनपुरा चौक से मुशहरी फार्म तक टैक्सियां, निजी ऑटो और साझा ग्रामीण टेंपो निरंतर संचालित होते हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 0,
+        "max": 0,
+        "currency": "INR",
+        "note": {
+          "en": "Demonstration farm visits and sales counter access are free. Laboratory tours require prior permission.",
+          "hi": "प्रायोगिक प्रक्षेत्रों और बिक्री काउंटर का भ्रमण निःशुल्क है। प्रयोगशालाओं के लिए पूर्व अनुमति आवश्यक है।"
+        }
+      },
+      "localTransport": {
+        "min": 50,
+        "max": 200,
+        "currency": "INR",
+        "note": {
+          "en": "Shared tempo or private auto fare from Muzaffarpur town to Mushahari NRCL campus.",
+          "hi": "मुजफ्फरपुर नगर से मुशहरी NRCL परिसर तक साझा टेंपो अथवा निजी ऑटो का किराया।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 500,
+      "stairs": false,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "- **Peak Season for Litchi Orchards**: The optimal window to visit the orchards in full glory is from **mid-May to early June**. This is the only period when the trees are laden with vibrant crimson-red Shahi and China litchis and harvesting is in peak swing.\n- **Winter Research & Agro-Tours**: If visiting for academic or pleasant weather reasons between **November and March**, the institute campus offers lush greenery, flowering litchi panicles, and buzzing honeybee apiaries under mild sunshine.\n- **Permits & Official Visits**: Tourists are free to view the outer demonstration plots and purchase value-added products. However, if you wish to tour the specialized research laboratories or gene-bank orchards, prior verbal or written permission from the Director's office at NRCL is advised.\n- **Buying Authentic Fruits & Products**: Purchase genuine GI-tagged Shahi Litchis and certified pure raw Litchi Honey directly from the NRCL experimental farm sales counter or verified organic farmers along the Mushahari-Pusa corridor.\n- **Attire & Orchard Walking**: Wear sturdy walking shoes, a broad-brimmed sun hat, and cotton apparel, as walking along the orchard soil trails involves exposure to outdoor sunshine and garden terrain.",
+        "hi": "- **बागान भ्रमण का स्वर्णिम समय**: लाल-लाल पकी लीचियों के बागों का साक्षात आनंद लेने के लिए **15 मई से 10 जून** के बीच का समय सर्वोत्तम है। यही वह समय है जब पेड़ों पर रसीली शाही और चाइना लीची के गुच्छे लदे होते हैं और बागों में तुड़ाई का उत्सव चलता है।\n- **शीतकालीन भ्रमण व मौसम**: यदि आप सुखद मौसम और शैक्षणिक उद्देश्य से आ रहे हैं, तो **नवंबर से मार्च** के महीने बेहतरीन हैं, जब हल्की धूप में संस्थान का परिसर हरियाली से महकता है और लीची के पेड़ों पर नए बौर (मंजर) आते हैं।\n- **परिसर में प्रवेश व अनुमति**: आम पर्यटक प्रायोगिक प्रक्षेत्रों और बिक्री काउंटर पर आसानी से जा सकते हैं। लेकिन विशेष अनुसंधान प्रयोगशालाओं अथवा जीन-बैंक के विस्तृत भ्रमण हेतु संस्थान के निदेशक कार्यालय से पूर्व अनुमति लेना श्रेयस्कर रहता है।\n- **प्रामाणिक फल एवं लीची शहद की खरीद**: जीआई-प्रमाणित शुद्ध शाही लीची और प्रामाणिक कच्चा **लीची शहद** संस्थान के आधिकारिक कृषि बिक्री काउंटर अथवा मुशहरी रोड पर स्थित पंजीकृत उत्पादकों से ही खरीदें।\n- **परिधान एवं बाग में सावधानी**: बागों की पगडंडियों पर चलने के लिए आरामदायक सूती कपड़े, धूप का चश्मा, टोपी और मजबूत जूते पहनें, क्योंकि गर्मियों में दोपहर के समय धूप काफी तेज हो सकती है।"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        {
+          "title": "ICAR-National Research Centre on Litchi",
+          "organization": "Indian Council of Agricultural Research, Government of India",
+          "url": "https://nrclitchi.org.in/"
+        },
+        {
+          "title": "Shahi Litchi of Bihar - GI Registry",
+          "organization": "Geographical Indications Registry, Government of India",
+          "url": "https://ipindia.gov.in/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "ramchandra-shahi-museum-jubba-sahni-park",
+    "slug": "ramchandra-shahi-museum-jubba-sahni-park",
+    "name": {
+      "en": "Ramchandra Shahi Museum & Jubba Sahni Park",
+      "hi": "रामचंद्र शाही संग्रहालय एवं शहीद जुब्बा साहनी पार्क"
+    },
+    "districtId": "muzaffarpur",
+    "placeType": "museum",
+    "primaryCategory": "cultural",
+    "categories": [
+      "cultural",
+      "historical",
+      "museum",
+      "recreational"
+    ],
+    "subcategories": [
+      "archaeological_museum",
+      "city_park",
+      "sculpture_gallery",
+      "botanical_garden"
+    ],
+    "circuits": [
+      "heritage_circuit",
+      "tirhut_circuit",
+      "museum_trail_bihar",
+      "buddhist_circuit",
+      "ramayana_circuit"
+    ],
+    "tags": [
+      "mustVisit",
+      "archaeology",
+      "museum",
+      "sculpture",
+      "jubbaSahni",
+      "cityPark",
+      "culture"
+    ],
+    "audiences": [
+      "families",
+      "history_buffs",
+      "students",
+      "children",
+      "scholars"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "Muzaffarpur's crown cultural sanctuary, combining the tranquil greenery of Jubba Sahni Park with the artifact-rich Ramchandra Shahi Museum showcasing rare sculptures and coins of ancient Tirhut.",
+      "hi": "मुजफ्फरपुर का प्रमुख सांस्कृतिक एवं मनोरंजन केंद्र, जिसमें शहीद जुब्बा साहनी पार्क की शांत हरियाली और प्राचीन तिरहुत की दुर्लभ मूर्तियों व सिक्कों से समृद्ध रामचंद्र शाही संग्रहालय सम्मिलित हैं।"
+    },
+    "description": {
+      "en": "The **Ramchandra Shahi Museum & Jubba Sahni Park** (रामचंद्र शाही संग्रहालय एवं शहीद जुब्बा साहनी पार्क) represents the cultural, recreational, and archaeological epicenter of urban Muzaffarpur, situated in the graceful Club Road area of Mithanpura.\n\nSpanning several verdant acres, this dual heritage destination unites a serene, tree-shaded public park with North Bihar's most significant regional archaeological museum. Named after two distinguished sons of Bihar—martyred freedom fighter **Jubba Sahni** and social reformer **Ramchandra Shahi**—the complex provides citizens and travelers alike a peaceful natural haven alongside rare physical glimpses into the prehistoric, Mauryan, Sunga, Pala, and medieval civilizational milestones of the ancient Tirhut realm.\n\nSalient attractions within the museum and park grounds include:\n- **Masterpiece Archaeological Sculptures**: The museum galleries house extraordinary stone sculptures, most notably the famed black basalt idol of **Manasa Nag** (Serpent Goddess), the intricately carved **Ashtadikpal** (guardians of the eight directions), and exquisitely sculpted medieval images of Vishnu, Surya, and Uma-Maheshwar.\n- **Ancient Terracotta & Coins**: Rare terracotta figurines, seals, and punch-marked coins excavated from significant regional archaeological sites including Katra Garh and Vaishali.\n- **Freedom Struggle Memorial Gallery**: Rare photographic records, documents, and memorabilia celebrating the martyrs of the 1942 Quit India Movement in North Bihar.\n- **Lush Landscaped Grounds**: Jubba Sahni Park features expansive Japanese-style lawns, manicured topiary, seasonal rose beds, illuminated musical fountains, and children's amusement rides.\n- **Walking Avenues & Shaded Pergolas**: Broad paved promenades sheltered by magnificent mahogany, rain trees, and royal palms, making it a premier morning health retreat.\n\nThe complex stands as a vital cultural repository that bridges Muzaffarpur's deep antiquity with modern civic life.",
+      "hi": "**रामचंद्र शाही संग्रहालय एवं शहीद जुब्बा साहनी पार्क** मुजफ्फरपुर नगर का प्रमुख सांस्कृतिक, पुरातात्विक और मनोरंजन केंद्र है, जो मिठनपुरा के शांत व प्रतिष्ठित क्लब रोड क्षेत्र में स्थित है।\n\nकई एकड़ में फैला यह सुरम्य परिसर प्रकृति और इतिहास का एक अद्भुत संगम प्रस्तुत करता है। इस परिसर का नामकरण बिहार के दो महान सपूतों—1942 के भारत छोड़ो आंदोलन के अमर बलिदानी **जुब्बा साहनी** तथा प्रख्यात स्वतंत्रता सेनानी व समाजसेवी **रामचंद्र शाही** की स्मृति में किया गया है। यहाँ एक ओर जहाँ हरे-भरे पेड़ों और रंग-बिरंगे फूलों से सजा रमणीक सार्वजनिक पार्क है, वहीं दूसरी ओर उत्तर बिहार की समृद्ध प्राचीन विरासत, मूर्तिकला और इतिहास को संजोए हुए एक विशिष्ट राज्य स्तरीय पुरातात्विक संग्रहालय विद्यमान है।\n\nपरिसर के प्रमुख सांस्कृतिक एवं पुरातात्विक आकर्षण:\n- **दुर्लभ प्राचीन प्रतिमाएं**: संग्रहालय की वीथियों में काले पत्थर (बेसाल्ट) की उत्कृष्ट प्राचीन मूर्तियां प्रदर्शित हैं, जिनमें प्रसिद्ध **मनसा नाग** (सर्प देवी), **अष्टदिक्पाल** (आठ दिशाओं के संरक्षक देवता), तथा गुप्त एवं पाल कालीन विष्णु, सूर्य और उमा-महेश्वर की नक्काशीदार प्रतिमाएं प्रमुख हैं।\n- **प्राचीन मृण्मूर्तियां एवं सिक्के**: कटरा गढ़ और वैशाली के उत्खननों से प्राप्त मौर्य एवं शुंग कालीन दुर्लभ टेराकोटा कलाकृतियां, प्राचीन मुहरें तथा आहत (पंच-मार्क) सिक्के जो प्राचीन तिरहुत के व्यापारिक इतिहास पर प्रकाश डालते हैं।\n- **स्वाधीनता संग्राम वीथिका**: स्वतंत्रता आंदोलन, विशेष रूप से उत्तर बिहार में 1942 की क्रांति और जुब्बा साहनी के संघर्ष को दर्शाने वाले दुर्लभ दस्तावेज, चित्र और ऐतिहासिक संस्मरण।\n- **शहीद जुब्बा साहनी पार्क**: जापानी शैली के मखमली लॉन, मौसमी गुलाब की क्यारियां, शाम को चलने वाले संगीतमय फव्वारे और बच्चों के लिए झूले व टॉय-ट्रेन आकर्षण।\n- **विशाल छायादार प्रस्तर मार्ग**: महोगनी, गुलमोहर और पाम के विशाल वृक्षों से घिरी वीथियां, जहाँ प्रातःकाल और संध्या समय सैकड़ों नागरिक स्वास्थ्य लाभ और सुकून के क्षण बिताने आते हैं।\n\nयह पावन परिसर मुजफ्फरपुर के नागरिकों और बाहर से आने वाले पर्यटकों को प्राचीन इतिहास और प्राकृतिक सौंदर्य से एक साथ जोड़ता है।"
+    },
+    "history": {
+      "en": "The history of this historic complex is deeply bound with the anti-colonial resistance movement of Tirhut and the systematic preservation of Bihar's rich archaeological heritage during the post-independence era.\n\nDuring the momentous **Quit India Movement of 1942**, local freedom fighter **Jubba Sahni**, hailing from a humble background in Chainpur, led an audacious uprising of patriotic peasants against British oppression. After police opened fire on peaceful agitators, the infuriated crowd stormed the Minapur police station. Sahni was subsequently arrested, subjected to brutal imperial custody, and hanged by the colonial regime on **March 11, 1944** in Bhagalpur Central Jail, immortalizing his name across Tirhut.\n\nThe evolutionary history of the park and museum encompasses:\n- **Civic Dedication to Martyr Jubba Sahni**: Following independence, the municipal authorities of Muzaffarpur transformed the spacious green fields of Club Road into a public park to honor the supreme sacrifice of Shaheed Jubba Sahni.\n- **Inception of the Museum (1979)**: Recognizing that invaluable ancient sculptures, temple friezes, and terracottas unearthed in surrounding villages were vulnerable to theft and weathering, the Directorate of Museums, Government of Bihar, inaugurated the **Ramchandra Shahi Museum** inside the park in 1979.\n- **Naming after Ramchandra Shahi**: The museum was christened in memory of Babu Ramchandra Shahi, an eminent nationalist, philanthropist, and patron of education and cultural preservation in Tirhut.\n- **Archaeological Amalgamation**: Over the decades, systematic exploration teams transferred rare artifacts recovered from the historic mounds of **Katra Garh**, Vaishali, and Gandak basin riverbeds into the secure, curated galleries of the museum, transforming it into North Bihar's finest antiquarian treasury.",
+      "hi": "इस ऐतिहासिक परिसर का उद्भव तिरहुत के औपनिवेशिक विरोधी जन-आंदोलन और स्वतंत्रता के पश्चात बिहार की अमूल्य पुरातात्विक संपदा के संरक्षण की दूरदर्शी सोच से जुड़ा हुआ है।\n\nवर्ष 1942 के ऐतिहासिक **भारत छोड़ो आंदोलन** के दौरान मुजफ्फरपुर के चैनपुर निवासी वीर सेनानी **जुब्बा साहनी** ने ब्रिटिश दमन के विरुद्ध किसानों और आम जनता का ओजस्वी नेतृत्व किया था। मीनापुर थाने पर हुए जन-विद्रोह के पश्चात अंग्रेजी हुकूमत ने उन पर बर्बर अत्याचार किए और **11 मार्च 1944** को भागलपुर सेंट्रल जेल में उन्हें फांसी दे दी गई। उनकी शहादत ने उन्हें समूचे उत्तर बिहार में लोकनायक का दर्जा दिला दिया।\n\nपार्क और संग्रहालय के विकास से जुड़े प्रमुख ऐतिहासिक पड़ाव:\n- **शहीद जुब्बा साहनी पार्क की स्थापना**: देश की आजादी के बाद मुजफ्फरपुर के क्लब रोड स्थित विशाल हरित क्षेत्र को इस महान बलिदानी की स्मृति में एक सुंदर सार्वजनिक पार्क के रूप में विकसित किया गया, ताकि आने वाली पीढ़ियां उनके त्याग से प्रेरणा ले सकें।\n- **रामचंद्र शाही संग्रहालय की स्थापना (1979)**: तिरहुत और वैशाली क्षेत्र के गांवों, टीलों और पोखरों की खुदाई से प्राप्त हो रही दुर्लभ मूर्तियों और पुरावशेषों को सुरक्षित रखने हेतु बिहार सरकार के कला, संस्कृति एवं युवा विभाग द्वारा वर्ष 1979 में पार्क परिसर में संग्रहालय की स्थापना की गई।\n- **रामचंद्र शाही का योगदान**: इस संग्रहालय का नामकरण तिरहुत के प्रख्यात स्वतंत्रता सेनानी, सामाजिक सुधारक और शिक्षाविद् बाबू रामचंद्र शाही के सम्मान में किया गया, जिन्होंने क्षेत्रीय संस्कृति और इतिहास के संरक्षण में उल्लेखनीय योगदान दिया था।\n- **कटरा गढ़ के पुरावशेषों का संग्रह**: समय-समय पर प्राचीन **कटरा गढ़** के ऐतिहासिक टीलों, बूढ़ी गंडक की तलहटी तथा आसपास के पुरास्थलों से प्राप्त शुंग, कुषाण और पाल कालीन मूर्तियों, सिक्कों और बर्तनों को यहाँ संरक्षित कर इसे उत्तर बिहार का शीर्ष संग्रहालय बनाया गया।"
+    },
+    "significance": {
+      "en": "The **Ramchandra Shahi Museum & Jubba Sahni Park** holds outstanding historical, civic, and educational significance as North Bihar's foremost antiquarian sanctuary and primary green lung.\n\nIt functions as both a living memorial to the courage of anti-colonial martyrs and a treasure vault documenting the millennial cultural evolution of Tirhut and Mithila.\n\nCore aspects of the complex's overarching significance include:\n- **Preservation of Ancient Tirhut Art**: The museum safeguards irreplaceable archaeological masterpieces, enabling students, scholars, and historians to study the artistic synthesis of Buddhist, Brahmanical, and indigenous regional motifs dating from the 3rd century BCE to the 12th century CE.\n- **Inspiration of Patriotic Martyrdom**: By honoring Jubba Sahni, the complex keeps the fiery legacy of grassroots peasant resistance in the Quit India Movement alive in the public memory of Bihar.\n- **Ecological & Civic Oasis**: In a bustling commercial city like Muzaffarpur, Jubba Sahni Park provides crucial green cover, fresh air, and a safe, peaceful environment for families, joggers, and elderly citizens.\n- **Cultural Tourism Hub**: The combination of leisure, horticulture, and scholarly antiquity makes it an essential stop for heritage enthusiasts exploring the circuit between Patna, Vaishali, Muzaffarpur, and Darbhanga.",
+      "hi": "**रामचंद्र शाही संग्रहालय एवं जुब्बा साहनी पार्क** का ऐतिहासिक, नागरिक और शैक्षणिक महत्व उत्तर बिहार के सांस्कृतिक परिदृश्य में अत्यंत विशिष्ट है। यह परिसर एक ओर जहाँ स्वतंत्रता के वीर हुतात्माओं की शौर्य-गाथा का साक्षी है, वहीं दूसरी ओर प्राचीन तिरहुत और मिथिला की सहस्राब्दियों पुरानी सांस्कृतिक यात्रा का जीवित दस्तावेज है।\n\nइस परिसर के दूरगामी महत्व को रेखांकित करने वाले प्रमुख बिंदु:\n- **प्राचीन तिरहुत कला का संरक्षण**: यह संग्रहालय ईसा पूर्व तीसरी शताब्दी से लेकर 12वीं शताब्दी तक की दुर्लभ ब्राह्मण एवं बौद्ध प्रतिमाओं, टेराकोटा और सिक्कों को सुरक्षित रखता है, जिससे शोधार्थियों और विद्यार्थियों को प्राचीन मूर्तिकला और इतिहास के अध्ययन का स्वर्णिम अवसर मिलता है।\n- **स्वाधीनता संग्राम की प्रेरणा**: जुब्बा साहनी जैसे जमीनी किसान सेनानी के बलिदान को नमन करते हुए यह स्थल नई पीढ़ी में राष्ट्रसेवा और सामाजिक न्याय की चेतना को प्रज्वलित करता है।\n- **नगर का प्रमुख हरित फेफड़ा**: तेजी से विकसित होते व्यावसायिक शहर मुजफ्फरपुर के मध्य स्थित यह पार्क शुद्ध वायु, शांत वातावरण और पारिवारिक सुकून का एक अत्यंत महत्वपूर्ण प्राकृतिक आश्रय है।\n- **सांस्कृतिक पर्यटन का केंद्र**: वैशाली, मुजफ्फरपुर और दरभंगा के हेरिटेज सर्किट पर आने वाले पर्यटकों के लिए यह स्थल ज्ञान, इतिहास और विश्राम का एक आदर्श गंतव्य प्रस्तुत करता है।"
+    },
+    "location": {
+      "address": {
+        "en": "**Ramchandra Shahi Museum & Shaheed Jubba Sahni Park**, Club Road, Mithanpura, Ward No. 28, Post Office Ramna, Muzaffarpur, District Muzaffarpur, North Bihar, Postal Index Number (PIN) **842002**, India.\n\nGeographic & Accessibility Specifics:\n- **Urban Neighborhood**: Situated in the peaceful, elite civil and residential district of Mithanpura along Club Road, opposite the historic Muzaffarpur Club.\n- **Prominent Landmarks**: Positioned within 500 metres of Mithanpura Chowk, 1.2 kilometres southeast of Company Bagh, and 1.5 kilometres south of Motijheel shopping market.\n- **Transit Hub Distances**: Located approximately 2.8 kilometres south of **Muzaffarpur Junction Railway Station (MFP)**, 3.5 kilometres from the Government Inter-State Bus Terminus (Imlibatti), and 74 kilometres northeast of Jay Prakash Narayan International Airport in Patna (PAT).\n- **Road Connectivity**: Conveniently accessible from NH-22 via Gobarsahi Chowk or Aghoria Bazar, with continuous availability of battery e-rickshaws, shared autos, and ample on-site visitor parking.",
+        "hi": "**रामचंद्र शाही संग्रहालय एवं शहीद जुब्बा साहनी पार्क**, क्लब रोड, मिठनपुरा, वार्ड संख्या 28, डाकघर रमना, मुजफ्फरपुर नगर, जिला मुजफ्फरपुर, उत्तरी बिहार, पिन कोड **842002**, भारत।\n\nभौगोलिक स्थिति एवं यात्रा विवरण:\n- **शहरी क्षेत्र**: मुजफ्फरपुर के शांत, प्रतिष्ठित एवं हरित आवासीय क्षेत्र मिठनपुरा में क्लब रोड पर ऐतिहासिक मुजफ्फरपुर क्लब के ठीक सामने स्थित।\n- **निकटवर्ती लैंडमार्क**: प्रसिद्ध मिठनपुरा चौक से मात्र 500 मीटर, कंपनी बाग से 1.2 किलोमीटर दक्षिण-पूर्व तथा मोतीझील व्यापारिक केंद्र से लगभग 1.5 किलोमीटर दक्षिण में अवस्थित।\n- **परिवहन केंद्रों से दूरी**: **मुजफ्फरपुर जंक्शन रेलवे स्टेशन (MFP)** से लगभग 2.8 किलोमीटर दक्षिण, इमलीचट्टी सरकारी बस स्टैंड से 3.5 किलोमीटर तथा पटना अंतरराष्ट्रीय हवाई अड्डे से 74 किलोमीटर दूर।\n- **सड़क मार्ग एवं सुगमता**: गोबरसही चौक और अघोरिया बाजार के रास्ते राष्ट्रीय राजमार्ग 22 (NH-22) से सीधा जुड़ा हुआ है। यहाँ नगर के हर हिस्से से ई-रिक्शा, निजी ऑटो अथवा कार द्वारा आसानी से पहुँचा जा सकता है तथा पार्क के बाहर पर्याप्त पार्किंग उपलब्ध है।"
+      },
+      "latitude": 26.1185,
+      "longitude": 85.394,
+      "mapQuery": "Ramchandra Shahi Museum, Jubba Sahni Park, Club Road, Muzaffarpur, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "day": "Monday",
+          "closed": true
+        },
+        {
+          "day": "Tuesday",
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Wednesday",
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Thursday",
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Friday",
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Saturday",
+          "open": "10:00",
+          "close": "17:00"
+        },
+        {
+          "day": "Sunday",
+          "open": "10:00",
+          "close": "17:00"
+        }
+      ],
+      "entryFee": {
+        "amount": 10,
+        "currency": "INR",
+        "type": "nominal"
+      },
+      "recommendedDurationMinutes": 90,
+      "bestTimeToVisit": {
+        "en": "October to March (for crisp comfortable weather and scenic park blooms)",
+        "hi": "अक्टूबर से मार्च (सुहावने मौसम और पार्क के खिले फूलों के आनंद हेतु)"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Situated in the central Mithanpura area along Club Road, easily reachable from Saraiyaganj, Motijheel, and NH-22.",
+        "hi": "क्लब रोड पर मिठनपुरा के मध्य में स्थित, सरैयागंज, मोतीझील और NH-22 से आसानी से पहुँचा जा सकता है।"
+      },
+      "railway": [
+        {
+          "name": {
+            "en": "Muzaffarpur Junction Railway Station (MFP)",
+            "hi": "मुजफ्फरपुर जंक्शन रेलवे स्टेशन (MFP)"
+          },
+          "distanceKm": 2.8
+        },
+        {
+          "name": {
+            "en": "Ram Dayalu Nagar Railway Station (RD)",
+            "hi": "राम दयालु नगर रेलवे स्टेशन (RD)"
+          },
+          "distanceKm": 3.8
+        }
+      ],
+      "airport": [
+        {
+          "name": {
+            "en": "Darbhanga Airport (DBR)",
+            "hi": "दरभंगा हवाई अड्डा (DBR)"
+          },
+          "distanceKm": 66
+        },
+        {
+          "name": {
+            "en": "Jay Prakash Narayan International Airport, Patna (PAT)",
+            "hi": "जयप्रकाश नारायण अंतर्राष्ट्रीय हवाई अड्डा, पटना (PAT)"
+          },
+          "distanceKm": 74
+        }
+      ],
+      "localTransport": {
+        "en": "E-rickshaws, shared and private auto-rickshaws, and cycle-rickshaws are available round the clock from all city junctions.",
+        "hi": "शहर के सभी चौराहों से ई-रिक्शा, निजी व शेयर ऑटो तथा साइकिल रिक्शा चौबीसों घंटे उपलब्ध हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 10,
+        "max": 20,
+        "currency": "INR",
+        "note": {
+          "en": "Nominal municipal entry fee of INR 10-20 per adult for the park and museum premises.",
+          "hi": "पार्क और संग्रहालय परिसर हेतु प्रति वयस्क 10 से 20 रुपये का सामान्य प्रवेश शुल्क।"
+        }
+      },
+      "localTransport": {
+        "min": 20,
+        "max": 80,
+        "currency": "INR",
+        "note": {
+          "en": "Standard local auto or e-rickshaw fare from Muzaffarpur station to Club Road Mithanpura.",
+          "hi": "मुजफ्फरपुर स्टेशन से क्लब रोड मिठनपुरा तक स्थानीय ऑटो या ई-रिक्शा का किराया।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 300,
+      "stairs": true,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "- **Best Time to Visit**: Plan your excursion during the pleasant winter season between **October and March**. The museum is best explored during daytime hours from **10:30 AM to 04:30 PM** (Note: closed on Mondays and gazetted government holidays).\n- **Combined Park & Museum Experience**: Allocate at least two to three hours. Spend the initial hour exploring the stone sculptures and ancient terracottas in the museum, followed by a leisurely stroll or picnic in the manicured gardens of Jubba Sahni Park.\n- **Photography & Museum Rules**: Photography of the exterior park and lawns is encouraged. However, check with the museum curatorial desk regarding permit tokens before taking photographs of antique stone sculptures and terracotta galleries inside.\n- **Family & Children Amenities**: Jubba Sahni Park is exceptionally family-friendly, offering dedicated children's play zones, swings, food kiosks, and musical water fountains operating in the evenings (05:30 PM to 07:00 PM).\n- **Footwear & Cleanliness**: Maintain park hygiene by depositing all wrappers and water bottles into designated litter bins, and take care not to touch fragile antique display cases inside the museum.",
+        "hi": "- **भ्रमण का श्रेष्ठ समय एवं कार्य दिवस**: सुखद मौसम के लिए **अक्टूबर से मार्च** के महीने सबसे उत्तम हैं। संग्रहालय का भ्रमण प्रातः **10:30 बजे से सायं 04:30 बजे** के बीच करें (ध्यान रहे: संग्रहालय प्रत्येक सोमवार तथा सरकारी राजपत्रित अवकाशों पर बंद रहता है)।\n- **संग्रहालय व पार्क का संयुक्त भ्रमण**: यहाँ कम से कम दो से तीन घंटे का समय रखें। पहले घंटे में संग्रहालय की प्राचीन मूर्तियों और दुर्लभ सिक्कों का अवलोकन करें, और फिर जुब्बा साहनी पार्क के हरे-भरे उद्यानों में सुकून भरी सैर का आनंद लें।\n- **फोटोग्राफी एवं संग्रहालय नियम**: पार्क और बाहरी हरियाली की फोटोग्राफी पूर्णतः अनुमत है। संग्रहालय के भीतर प्राचीन मूर्तियों और गैलरी की तस्वीर खींचने से पूर्व काउंटर पर टिकट व अनुमति के नियमों की जानकारी अवश्य लें।\n- **पारिवारिक व बाल सुविधाएं**: जुब्बा साहनी पार्क बच्चों और परिवारों के लिए मुजफ्फरपुर का सर्वश्रेष्ठ स्थल है, जहाँ बच्चों के लिए झूले, टॉय-ट्रेन और शाम को **05:30 से 07:00 बजे** के बीच आकर्षक संगीतमय फव्वारे चलाए जाते हैं।\n- **स्वच्छता एवं आचरण**: पार्क को सुंदर और स्वच्छ बनाए रखने हेतु कचरा केवल कूड़ेदान में ही डालें, तथा संग्रहालय के भीतर प्राचीन पुरावशेषों और शीशे के शोकेस को हाथ न लगाएं।"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        {
+          "title": "Directorate of Museums, Bihar",
+          "organization": "Department of Art, Culture and Youth, Government of Bihar",
+          "url": "https://yac.bihar.gov.in/"
+        },
+        {
+          "title": "District Muzaffarpur Tourism Guide",
+          "organization": "District Administration Muzaffarpur, Government of Bihar",
+          "url": "https://muzaffarpur.nic.in/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  }
+]

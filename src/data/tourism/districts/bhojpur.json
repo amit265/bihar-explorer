@@ -1,0 +1,352 @@
+{
+  "id": "bhojpur",
+  "slug": "bhojpur",
+  "name": {
+    "en": "Bhojpur",
+    "hi": "भोजपुर"
+  },
+  "division": "Patna",
+  "description": {
+    "en": "Historic heartland of the Bhojpuri culture on the fertile Ganga-Sone doab, world-renowned as the cradle of the 1857 freedom struggle under octogenarian warrior Babu Veer Kunwar Singh.",
+    "hi": "गंगा और सोन नदी के उर्वर दोआब पर स्थित भोजपुरी संस्कृति का उद्गम स्थल, जो 1857 के प्रथम स्वाधीनता संग्राम के महानायक बाबू वीर कुंवर सिंह की तपोभूमि और शौर्यगाथा के लिए विश्वविख्यात है।"
+  },
+  "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1200&auto=format&fit=crop",
+  "coordinates": {
+    "latitude": 25.556,
+    "longitude": 84.66
+  },
+  "tourismThemes": [
+    "historical",
+    "heritage",
+    "spiritual",
+    "cultural",
+    "freedom_circuit"
+  ],
+  "religiousAssociations": [
+    "hinduism",
+    "jainism"
+  ],
+  "placeIds": [
+    "veer-kunwar-singh-fort-jagdishpur",
+    "aranya-devi-temple-arrah",
+    "arrah-house",
+    "belaur-surya-mandir"
+  ],
+  "featuredPlaceIds": [
+    "veer-kunwar-singh-fort-jagdishpur",
+    "aranya-devi-temple-arrah",
+    "arrah-house",
+    "belaur-surya-mandir"
+  ],
+  "nearbyDistrictIds": [
+    "patna",
+    "buxar",
+    "saran",
+    "rohtas",
+    "arwal"
+  ],
+  "overview": {
+    "en": "Nestled in the fertile doab of the sacred Ganga and Sone rivers in western-central Bihar, **Bhojpur** (headquartered at the historical city of **Arrah**) is a legendary land of timeless valor, linguistic heritage, and agrarian abundance. Named after the medieval Parmar monarch **Raja Bhoj**, the district gave its name to the globally spoken **Bhojpuri language** and folk culture. Bhojpur stands immortalized in Indian history as the epicenter of the **1857 First War of Independence** in eastern India, championed by the octogenarian lion of Jagdishpur, **Babu Veer Kunwar Singh**. Rooted in ancient mythology, Arrah derives its name from **Aranya Devi** (Goddess of the Forest), where the Pandavas of the Mahabharata are believed to have found refuge. Geographically cradled by the mighty Ganga to the north and the golden sands of the Sone to the east, Bhojpur is endowed with an extensive network of British-era canals that nourish bumper harvests of paddy and wheat. From the solemn ramparts of **Veer Kunwar Singh Fort** and the colonial battleground of **Arrah House** to the sacred waters of **Belaur Surya Mandir** and the historic engineering marvel of the **Koilwar Bridge**, Bhojpur embodies the indomitable courage, cultural warmth, and vibrant spirit of Bihar.",
+    "hi": "पतितपावनी **माँ गंगा** और स्वर्णमयी **सोन नदी** के अत्यंत उर्वर दोआब में स्थित **भोजपुर** (मुख्यालय: **आरा**) अदम्य शौर्य, समृद्ध भाषाई विरासत और कृषि संपन्नता का प्रतीक ऐतिहासिक जनपद है। धार (मालवा) के प्रतापी परमार शासक **राजा भोज** की स्मृति में नामित इस पावन धरा से विश्व भर में करोड़ों लोगों द्वारा बोली जाने वाली समृद्ध **भोजपुरी भाषा** और लोक-संस्कृति का उद्भव हुआ। भारतीय स्वतंत्रता संग्राम के इतिहास में भोजपुर का नाम 1857 के प्रथम स्वाधीनता समर के महानायक **बाबू वीर कुंवर सिंह** के अप्रतिम त्याग और जगदीशपुर से संचालित जनक्रांति के लिए स्वर्णाक्षरों में दर्ज है।\n\nपौराणिक मान्यताओं के अनुसार जिला मुख्यालय 'आरा' का नाम महाभारतकालीन **अरण्य देवी** (वन की देवी) से जुड़ा है, जहाँ पांडवों ने अपने अज्ञातवास के दौरान समय व्यतीत किया था। उत्तर में गंगा तथा पूर्व में सोन नदी की प्राकृतिक सीमाओं से घिरा यह जनपद सोन नहर प्रणाली की बदौलत राज्य के प्रमुख अन्न भंडारों में गिना जाता है। जगदीशपुर का **वीर कुंवर सिंह किला**, 1857 की ऐतिहासिक घेराबंदी का गवाह **आरा हाउस**, 52 पोखरों के तट पर स्थित **बेलौर सूर्य मंदिर**, बड़हरा का विख्यात **बखोरापुर काली मंदिर** और भारतीय रेल स्थापत्य का मील का पत्थर **कोइलवर पुल (अब्दुल बारी पुल)** इस जिले को इतिहास, अध्यात्म और आधुनिक विकास का एक अनूठा केंद्र बनाते हैं।"
+  },
+  "history": {
+    "en": "The historical trajectory of **Bhojpur** spans Vedic antiquity, medieval Rajput chivalry, and monumental chapters of the Indian freedom struggle:\n\n- **Ancient & Mythological Lore**: In ancient scriptures, this territory was known as *Aranya Kshetra* (forest sanctuary). According to local tradition and Mahabharata lore, the Pandavas resided here during their forest exile, and nearby Ekachakra was the legendary site where Bhima vanquished the demon Bakasura. The presiding deity, **Aranya Devi**, has been revered since ancient times as the guardian mother of the region.\n- **Medieval Era & The Ujjainiya Parmars**: Following the fall of Dhar (Malwa) in the 14th century, Parmar Rajputs migrated eastward under Raja Santan Singh and established their capital at Bhojpur (near modern Dumraon/Bhojpur), naming it in honor of their illustrious forebear **Raja Bhoj**. The dynasty, known as the **Ujjainiyas of Shahabad**, established prominent principalities including Jagdishpur, Dumraon, and Buxar, leaving a lasting impact on regional identity and lending their name to the **Bhojpuri** dialect and culture.\n- **The 1857 Uprising & Babu Veer Kunwar Singh**: During the First War of Indian Independence (1857), Bhojpur emerged as the primary revolutionary bastion in Bihar. At the age of eighty, **Babu Veer Kunwar Singh**, the zamindar of Jagdishpur, assumed command of revolting sepoys from Danapur. In July 1857, his forces liberated Arrah and subjected the British garrison to the famous eight-day **Siege of Arrah** at Arrah House. Employing brilliant asymmetric guerrilla warfare across Bihar, Uttar Pradesh, and Madhya Pradesh, he repeatedly defeated British forces under Eyre, Milman, and Le Grand. On 23 April 1858, after triumphantly liberating Jagdishpur and hoisting the national flag, he succumbed to battle wounds, etching his name into immortal legend.\n- **Modern Era & Formation of Bhojpur**: Formed initially as a unified Shahabad district under British rule, Bhojpur became an independent district in 1972 and was further bifurcated in 1991 to create the separate district of Buxar. The district played a pioneering role in the freedom struggle, peasant movements (Kisan Sabha), and Dalit emancipation under national leaders like **Babu Jagjivan Ram**.",
+    "hi": "**भोजपुर का इतिहास** पौराणिक काल, मध्यकालीन राजपूत शौर्य और स्वाधीनता संग्राम के अभूतपूर्व बलिदानों से आलोकित है:\n\n- **पौराणिक एवं महाभारतकालीन पृष्ठभूमि**: प्राचीन काल में यह भूभाग घने जंगलों से आच्छादित होने के कारण **'अरण्य क्षेत्र'** कहलाता था। स्थानीय मान्यताओं और *महाभारत* के संदर्भों के अनुसार, पांडवों ने अपने अज्ञातवास के दौरान यहाँ शरण ली थी तथा पास ही स्थित एकचक्रा नगरी में महाबली भीम ने बकासुर राक्षस का वध किया था। नगर की कुलदेवी **माँ अरण्य देवी** की उपासना सदियों से निरंतर जारी है।\n- **मध्यकाल एवं उज्जैनिया परमार वंश का आगमन**: 14वीं शताब्दी में मालवा (धार) के पतन के उपरांत परमार राजपूतों ने राजा संतन सिंह के नेतृत्व में इस क्षेत्र में आकर अपनी सत्ता स्थापित की। उन्होंने अपने प्रतापी पूर्वज **राजा भोज** के नाम पर अपनी राजधानी का नाम 'भोजपुर' रखा। इस वंश के शासक **उज्जैनिया राजपूत** कहलाए, जिन्होंने जगदीशपुर, डुमरांव और बक्सर जैसी प्रमुख रियासतों की नींव रखी। इसी ऐतिहासिक भूभाग से विश्वविख्यात **'भोजपुरी'** भाषा, लोकसाहित्य और सांस्कृतिक पहचान का विकास हुआ।\n- **1857 का प्रथम स्वतंत्रता संग्राम एवं वीर कुंवर सिंह**: 1857 के स्वाधीनता महासमर में भोजपुर पूर्वी भारत का सबसे बड़ा क्रांतिकारी गढ़ बना। 80 वर्ष के वयोवृद्ध नायक **बाबू वीर कुंवर सिंह** ने दानापुर के विद्रोही सैनिकों की कमान संभाली और जुलाई 1857 में आरा पर अधिकार कर ब्रिटिश टुकड़ी को **'आरा हाउस'** में आठ दिनों तक बंधक बनाए रखा। कुंवर सिंह ने बिहार से लेकर उत्तर प्रदेश (आजमगढ़, मिर्जापुर, बलिया) तक अद्वितीय छापामार युद्ध लड़ा। 23 अप्रैल 1858 को कैप्टन ली ग्रांड की सेना को परास्त कर जगदीशपुर पर पुनः विजय पताका फहराने के तीन दिन बाद उन्होंने अमर बलिदान दिया।\n- **आधुनिक काल व जिले का पुनर्गठन**: ब्रिटिश काल में यह क्षेत्र विशाल शाहाबाद जिले का अभिन्न अंग था। वर्ष 1972 में पुराने शाहाबाद को विभाजित कर भोजपुर जिले का गठन किया गया तथा 1991 में इससे अलग कर बक्सर जिला बना। यह भूमि किसान सभा आंदोलन और **बाबू जगजीवन राम** के नेतृत्व में सामाजिक न्याय की संघर्ष स्थली रही है।"
+  },
+  "geography": {
+    "location": {
+      "en": "Situated in the south-central Gangetic plain of Bihar between 25°10' N to 25°40' N latitude and 84°17' E to 84°51' E longitude, bordering Patna to the east and Saran to the north.",
+      "hi": "बिहार के मध्य-दक्षिणी गंगा के मैदानी भाग में 25°10' से 25°40' उत्तरी अक्षांश तथा 84°17' से 84°51' पूर्वी देशांतर के मध्य स्थित, जिसके पूर्व में राजधानी पटना तथा उत्तर में सारण जिला स्थित है।"
+    },
+    "areaSqKm": 2395,
+    "boundaries": {
+      "en": "Bounded by the River Ganga and Saran (Chhapra) district to the north, Patna district across the Sone River to the east, Rohtas and Arwal districts to the south, and Buxar district to the west.",
+      "hi": "उत्तर में गंगा नदी तथा सारण (छपरा) जिला, पूर्व में सोन नदी के पार पटना जिला, दक्षिण में रोहतास एवं अरवल जिले, तथा पश्चिम में बक्सर जिला स्थित है।"
+    },
+    "physiography": {
+      "en": "Dominated by an exceptionally flat and highly fertile alluvial plain formed by the depositional action of the Ganga and Sone rivers. The general slope is gentle from south-southwest to north-northeast. The district encompasses three physiographic belts: the riverine diara tract along the Ganga characterized by seasonal silt renewal (Khadar), the central older alluvial upland (Bangar) supporting intensive canal agriculture, and the sandy eastern belt flanking the Sone.",
+      "hi": "भौगोलिक संरचना गंगा और सोन नदियों द्वारा निर्मित अत्यंत समतल और उपजाऊ जलोढ़ मैदान से युक्त है। जिले का सामान्य ढलान दक्षिण-दक्षिण-पश्चिम से उत्तर-उत्तर-पूर्व की ओर मंद है। भू-आकृति को तीन प्रमुख भागों में बांटा जा सकता है: गंगा के किनारे स्थित दियारा क्षेत्र जहाँ प्रतिवर्ष नवीन खादर जलोढ़ का जमाव होता है, मध्यवर्ती पुरातन बांगर मैदान जहाँ सोन नहरों से सघन खेती होती है, तथा पूर्व में सोन नदी के समानांतर बालूदार तटीय पट्टी।"
+    },
+    "climate": {
+      "en": "Humid subtropical monsoon climate with three distinct seasons: hot dry summers from March to June (temperatures peaking around 43°C to 45°C with scorching western 'Loo' winds), a monsoon season from July to September (average annual rainfall of 900 to 1,020 mm), and mild, invigorating winters from December to February (temperatures dipping to 8°C–10°C).",
+      "hi": "उपोष्णकटिबंधीय मानसूनी जलवायु पाई जाती है। ग्रीष्म ऋतु (मार्च से जून) में तापमान 43°C से 45°C तक पहुँच जाता है और शुष्क गर्म 'लू' चलती है; वर्षा ऋतु (जुलाई से सितंबर) में दक्षिण-पश्चिम मानसून से 900 से 1,020 मिमी तक औसत वार्षिक वर्षा होती है; जबकि शीत ऋतु (दिसंबर से फरवरी) सुहावनी व ठंडी रहती है और न्यूनतम तापमान 8°C से 10°C के बीच रहता है।"
+    },
+    "rivers": [
+      {
+        "name": {
+          "en": "Ganga River",
+          "hi": "गंगा नदी"
+        },
+        "description": {
+          "en": "Forms the northern boundary of the district for over 40 km, providing fertile riverine diara land, critical freshwater resources, and interstate connectivity via the Veer Kunwar Singh Setu (Arrah-Chhapra Bridge).",
+          "hi": "जिले की उत्तरी सीमा पर लगभग 40 किमी तक प्रवाहित होती है, जो उर्वर दियारा कृषि भूमि, सिंचाई जल और वीर कुंवर सिंह सेतु (आरा-छपरा पुल) के माध्यम से सारण से संपर्क उपलब्ध कराती है।"
+        }
+      },
+      {
+        "name": {
+          "en": "Sone River",
+          "hi": "सोन नदी"
+        },
+        "description": {
+          "en": "The golden-sand perennial river forming the entire eastern border with Patna district. Renowned across India for its premium coarse red building sand, it feeds the historic Sone Canal system and is spanned by the iconic 1862 Koilwar (Abdul Bari) Bridge and the new Vashishtha Narayan Setu.",
+          "hi": "पटना जिले के साथ पूर्वी सीमा बनाने वाली स्वर्णिम बालू की सदानीरा नदी। पूरे देश में उच्च गुणवत्ता वाले लाल निर्माण बालू (सोन का बालू) के लिए प्रसिद्ध, जो ऐतिहासिक सोन नहर प्रणाली का मुख्य स्रोत है तथा जिस पर ऐतिहासिक कोइलवर पुल और वशिष्ठ नारायण सेतु निर्मित हैं।"
+        }
+      },
+      {
+        "name": {
+          "en": "Gangi River",
+          "hi": "गांगी नदी"
+        },
+        "description": {
+          "en": "A paleo-channel of the Ganga that meanders through Arrah city, historically serving as an urban drainage channel and ecological waterway connecting back to the Ganga near Barhara.",
+          "hi": "गंगा नदी की एक प्राचीन उपशाखा (पैलियो-चैनल), जो आरा नगर के मध्य से होकर बहती है तथा बड़हरा के निकट पुनः मुख्य गंगा धारा में विलीन हो जाती है; यह ऐतिहासिक रूप से स्थानीय जल निकासी की प्रमुख धारा रही है।"
+        }
+      }
+    ]
+  },
+  "demographics": {
+    "population": {
+      "value": 2728407,
+      "year": 2011,
+      "source": "Census of India 2011"
+    },
+    "density": {
+      "value": 1139,
+      "year": 2011
+    },
+    "literacyRate": {
+      "value": 70.47,
+      "year": 2011
+    },
+    "sexRatio": {
+      "value": 907,
+      "year": 2011
+    }
+  },
+  "administration": {
+    "headquarters": {
+      "en": "Arrah (Ara)",
+      "hi": "आरा"
+    },
+    "subdivisions": 3,
+    "blocks": 14,
+    "villages": 1209,
+    "asOf": "2024"
+  },
+  "economy": {
+    "description": {
+      "en": "Bhojpur's economy is predominantly agrarian, sustained by the century-old **Sone Canal irrigation network** and highly productive alluvial soil. Agro-processing forms the industrial backbone, with hundreds of automated rice mills clustered around Arrah, Piro, Jagdishpur, and Behea. In addition, the extraction and commercial trade of high-grade construction sand from the Sone riverbed (celebrated regionally as *Sone ka balu*) represents a massive economic sector. Rural entrepreneurship thrives on traditional confectioneries like the famous **Udwantnagar Khurma** (under GI examination) and Belgrami, modern cold storages for potato farming, light agricultural implement manufacturing, brick kilns, and lively regional agricultural markets (mandis).",
+      "hi": "भोजपुर की अर्थव्यवस्था मूल रूप से कृषि और कृषि-आधारित उद्योगों पर टिकी है, जिसे **सोन नहर सिंचाई प्रणाली** और उर्वर दोमट मिट्टी से भरपूर संबल मिलता है। जिले की औद्योगिक रीढ़ आधुनिक राइस मिलों का विशाल नेटवर्क है, जो आरा, पीरो, जगदीशपुर और बिहिया में सघन रूप से केंद्रित हैं। इसके अतिरिक्त सोन नदी से निकलने वाला उच्च कोटि का लाल निर्माण बालू (*सोन का बालू*) जिले का एक प्रमुख राजस्व एवं रोजगार स्रोत है। ग्रामीण स्तर पर पारंपरिक मिष्ठान उद्योग जैसे **उदवंतनगर का खुरमा** (जीआई टैग प्रक्रियाधीन) व बेलग्रामी, आलू भंडारण हेतु आधुनिक कोल्ड स्टोरेज, कृषि यंत्र निर्माण और ईंट-भट्ठे स्थानीय आजीविका को गति प्रदान करते हैं।"
+    },
+    "majorIndustries": {
+      "en": "- **Agro-Processing & Milling**: Large clusters of modern automatic rice mills, flour mills, and mustard oil expellers in Arrah, Piro, and Behea.\n- **Sone River Sand Mining**: Large-scale legal extraction and interstate dispatch of premium coarse red construction sand along the Sone riverbed.\n- **Heritage Confectionery**: Commercial production and nationwide dispatch of famed Udwantnagar Khurma and Shahabad Belgrami sweets.\n- **Cold Storage & Warehousing**: Extensive cold chain infrastructure catering to commercial potato, onion, and vegetable cultivators.\n- **Light Engineering & Metal Fabrication**: Agricultural implement fabrication, threshers, tractor trailers, and iron casting units along the Arrah industrial corridor.",
+      "hi": "- **कृषि प्रसंस्करण एवं राइस मिलें**: आरा, पीरो, जगदीशपुर और बिहिया में स्थापित आधुनिक स्वचालित राइस मिलें, फ्लोर मिलें और सरसों तेल निष्कर्षण इकाइयाँ।\n- **सोन बालू खनन एवं विपणन**: सोन नदी के तटीय क्षेत्रों में उच्च गुणवत्ता वाले लाल भवन निर्माण बालू का बड़े पैमाने पर खनन और अंतरराज्यीय परिवहन।\n- **पारंपरिक मिष्ठान कुटीर उद्योग**: उदवंतनगर का प्रसिद्ध छेना खुरमा (जीआई टैग प्रक्रियाधीन) और बेलग्रामी का बड़े पैमाने पर व्यावसायिक उत्पादन।\n- **शीत भंडारण (कोल्ड स्टोरेज)**: आलू और मौसमी बागवानी फसलों के संरक्षण के लिए जिले भर में स्थापित आधुनिक शीतगृह नेटवर्क।\n- **लघु इंजीनियरिंग व धातु उद्योग**: कृषि उपकरण निर्माण, थ्रेशर, ट्रैक्टर ट्रेलर और औद्योगिक ढांचों का निर्माण।"
+    }
+  },
+  "agriculture": {
+    "description": {
+      "en": "Recognized alongside Rohtas and Buxar as an integral quadrant of Bihar's fertile **Rice Bowl**, Bhojpur boasts an extraordinarily high cropping intensity of over 170%. Over 75% of the total geographical area is under intensive cultivation, supported by the Sone Western Main Canal, high-capacity state tubewells, and river pumps. Farmers follow a sophisticated multi-cropping regime with Kharif paddy followed by Rabi wheat, pulses, and oilseeds. The northern riverine diara belt along the Ganga produces bumper seasonal harvests of riverbed vegetables, melons, and maize, while modern dairy farming supplements rural household incomes.",
+      "hi": "रोहतास और बक्सर के साथ मिलकर बिहार के **'धान का कटोरा'** कहे जाने वाले शाहाबाद क्षेत्र का प्रमुख हिस्सा होने के कारण भोजपुर की कृषि उत्पादकता राज्य में शीर्ष पायदान पर है। यहाँ का फसल सघनता अनुपात 170% से अधिक है। कुल भौगोलिक क्षेत्रफल का 75% से अधिक हिस्सा सघन खेती के अंतर्गत है, जिसे सोन पश्चिमी मुख्य नहर और नलकूपों से सुनिश्चित सिंचाई मिलती है। किसान खरीफ में धान और रबी में गेहूं, दलहन और तिलहन की रिकॉर्ड पैदावार करते हैं। उत्तर में गंगा का दियारा क्षेत्र तरबूज, खरबूज, मक्का और हरी सब्जियों के लिए विख्यात है।"
+    },
+    "majorCrops": {
+      "en": "- **Food Grains**: High-yielding Paddy (धान - Kharif staple), Wheat (गेहूं - Rabi staple), and Maize (मक्का).\n- **Pulses**: Gram/Chickpea (चना), Lentil (मसूर), Pigeon Pea (अरहर/तूर), and Green Gram (मूंग).\n- **Oilseeds**: Mustard/Rapeseed (सरसों/राई) and Linseed (तीसी).\n- **Commercial & Cash Crops**: Sugarcane (गन्ना), Potato (आलू), and Onion.\n- **Riverine Horticulture**: Cucurbits (ककड़ी, खीरा, तरबूज, खरबूज) in the Ganga diara, and Mango orchards (Malbhog, Bambai, and Langra varieties).",
+      "hi": "- **प्रमुख खाद्यान्न**: उच्च उपज वाला धान (खरीफ की मुख्य फसल), गेहूं (रबी की प्रधान फसल), एवं मक्का।\n- **दलहन**: चना, मसूर, अरहर (तूर), मटर और मूंग।\n- **तिलहन**: सरसों, राई और तीसी (अलसी)।\n- **नकदी व व्यावसायिक फसलें**: गन्ना, आलू और प्याज।\n- **बागवानी एवं दियारा फसलें**: गंगा तटीय दियारा में ककड़ी, खीरा, तरबूज, खरबूज, तथा आम के बगीचे (मालदह, बंबई, लंगड़ा)।"
+    }
+  },
+  "culture": {
+    "festivals": {
+      "en": "- **Vijayotsav (Babu Veer Kunwar Singh Victory Day)**: Celebrated annually on **23rd April** at Jagdishpur Fort with state honours, patriotic rallies, military brass bands, and seminars commemorating Kunwar Singh's 1858 victory over British forces.\n- **Chhath Puja**: Celebrated with transcendent devotion across the banks of the Ganga (Barhara), the Sone River (Koilwar), Gangi riverfront, and the sacred 52-pond complex of Belaur Surya Mandir.\n- **Aranya Devi Navratri Festival**: Nine days of spiritual jubilation and massive religious fairs at the historic Aranya Devi Temple in Arrah during Chaitra and Sharadiya Navratri.\n- **Bakhorapur Kali Mandir Fair**: Grand religious congregation in Barhara block during Navratri, drawing thousands of devotees to the sacred neem tree shrine.\n- **Maha Shivratri & Makar Sankranti**: Celebrated with holy snan in the Ganga and Sone, followed by temple visits and traditional community feasting.",
+      "hi": "- **विजयोत्सव (बाबू वीर कुंवर सिंह विजय दिवस)**: प्रतिवर्ष **23 अप्रैल** को जगदीशपुर किले में राजकीय सम्मान के साथ आयोजित होने वाला राष्ट्रीय गौरव पर्व, जिसमें 1858 में अंग्रेजी सेना पर कुंवर सिंह की ऐतिहासिक विजय की स्मृति में भव्य कार्यक्रम होते हैं।\n- **छठ महापर्व**: गंगा तट (बड़हरा), सोन नदी (कोइलवर), गांगी नदी और ऐतिहासिक 52 पोखरों वाले **बेलौर सूर्य मंदिर** में लाखों व्रतियों द्वारा असीम श्रद्धा के साथ भगवान सूर्य को अर्घ्य।\n- **अरण्य देवी चैत्र व शारदीय नवरात्र मेला**: आरा स्थित माँ अरण्य देवी मंदिर में नौ दिनों तक चलने वाला भव्य धार्मिक उत्सव, जिसमें पूरे शाहाबाद से श्रद्धालु माता के दर्शन हेतु उमड़ते हैं।\n- **बखोरापुर काली मंदिर मेला**: बड़हरा प्रखंड के बखोरापुर में पवित्र नीम वृक्ष के नीचे स्थित माँ काली के पावन पिंडों के दर्शन हेतु नवरात्र में उमड़ने वाला विशाल जनसमूह।\n- **महाशिवरात्रि एवं मकर संक्रांति**: गंगा और सोन में पावन स्नान, तिलकुट-दही-चूड़ा का पारंपरिक भोज और शिवालयों में जलाभिषेक।"
+    },
+    "artAndCrafts": {
+      "en": "- **Bhojpuri Folk Music & Oral Literature**: The living cradle of Bhojpuri folk ballads, Kajari, Chaiti, Birha, Nirgun (inspired by Sant Kabir), and traditional festive Sohar songs.\n- **Bhojpuri Bheet Chitra (Mud-Wall Murals)**: Intricate festive folk wall paintings made with natural pigments by rural women during weddings, Chhath, and harvest rituals.\n- **Bamboo & Reed Basketry (Sikki & Munj Craft)**: Traditional handcrafted containers, fans, and baskets woven from wild riverside grasses and bamboo splits.\n- **Clay Pottery & Terracotta**: Indigenous earthen lamps, storage urns (matkas), and festive idols crafted by traditional Kumbhakar potter families.",
+      "hi": "- **भोजपुरी लोक संगीत एवं मौखिक परंपरा**: कजरी, चैती, बिरहा, निर्गुण और सोहर की समृद्ध लोकगायन परंपरा, जो भोजपुर की सांस्कृतिक आत्मा में रची-बसी है।\n- **भोजपुरी भीत चित्र (भित्ति कला)**: मांगलिक अवसरों, विवाह और छठ पूजा पर ग्रामीण महिलाओं द्वारा मिट्टी की दीवारों पर गेरू, चूने और प्राकृतिक रंगों से उकेरे जाने वाले पारंपरिक चित्र।\n- **सिक्की, मूंज एवं बांस शिल्प**: नदी तटीय घासों और बांस की कमचियों से निर्मित पारंपरिक डलिया, पंखे और घरेलू सजावटी वस्तुएं।\n- **मृण्मूर्तियाँ एवं टेराकोटा शिल्प**: स्थानीय कुम्हारों द्वारा चाक पर निर्मित कलात्मक मिट्टी के बर्तन, छठ के चूल्हे और देवी-देवताओं की प्रतिमाएं।"
+    },
+    "food": {
+      "en": "- **Udwantnagar Khurma (उदवंतनगर का खुरमा)**: Famed cube-shaped sweet made from deep-fried solidified cottage cheese (chhena) coated in crunchy crystallized caramelized sugar, currently under examination for a prestigious GI tag.\n- **Shahabad Belgrami (बेलग्रामी)**: A timeless dry dairy sweet crafted from pure chhena and sugar syrup, celebrated for its crumbly outer crust and succulent inner texture.\n- **Authentic Litti-Chokha**: Charcoal/cowdung-baked whole wheat balls stuffed with sattu (roasted gram flour infused with ajwain, kalonji, mustard oil, and spices), drenched in pure desi ghee and served with smoky brinjal-tomato chokha.\n- **Dal Puri & Kheer**: Auspicious festive delicacy of spiced split-chana stuffed pooris accompanied by slow-cooked rice kheer.\n- **Sattu Drink & Baati**: Nutritious summer coolers made of roasted gram powder mixed with water, roasted cumin, mint, green chillies, and lemon juice.",
+      "hi": "- **उदवंतनगर का खुरमा**: शुद्ध छेने को तलकर गाढ़ी चाशनी में पागकर तैयार की जाने वाली विशिष्ट चौकोर मिठाई, जिसकी बाहरी परत कुरकुरी और भीतरी भाग रसदार होता है (जीआई टैग प्रक्रियाधीन)।\n- **शाहाबाद की बेलग्रामी**: सूखे छेने और चीनी की चाशनी से बनने वाली सदियों पुरानी पारंपरिक मिठाई, जो पूरे बिहार और पूर्वांचल में बेहद लोकप्रिय है।\n- **पारंपरिक लिट्टी-चोखा**: उपलों की आंच पर पकी सत्तू भरी लिट्टी, शुद्ध देसी घी और भुने बैंगन-टमाटर-आलू के चोखे का बेजोड़ प्रामाणिक स्वाद।\n- **दाल पूरी और खीर**: मांगलिक अवसरों, पर्व-त्योहारों और पारिवारिक उत्सवों पर बनने वाला पारंपरिक शुभ भोजन।\n- **सत्तू का नमकीन शर्बत**: भुने चने के सत्तू में भुना जीरा, काला नमक, पुदीना, हरी मिर्च और नींबू का रस मिलाकर तैयार किया जाने वाला शीतल स्वास्थ्यवर्धक पेय।"
+    }
+  },
+  "transport": {
+    "road": {
+      "en": "- **National Highway 922 (NH-922)**: Modern 4-lane high-speed expressway connecting Patna to Buxar directly through Arrah, reducing road journey time to Patna to under an hour.\n- **National Highway 319 (NH-319 / Old SH-12)**: Vital highway corridor connecting Arrah southwards to Jagdishpur, Piro, and Mohania, linking directly with the Grand Trunk Road (Golden Quadrilateral / NH-19).\n- **Veer Kunwar Singh Setu (Arrah-Chhapra Bridge)**: Major 4.35-km Ganga river bridge linking Arrah (Bhojpur) directly to Babura and Chhapra (Saran district), eliminating the need for long detours via Patna.\n- **Vashishtha Narayan Setu & Koilwar Bridges**: Six-lane road bridge over the Sone River alongside the historic Abdul Bari Bridge, ensuring seamless congestion-free vehicular transit toward Patna.\n- **State Bus Connectivity**: Frequent BSRTC and private bus operations from Arrah New Bus Stand to Patna, Sasaram, Buxar, Chhapra, Varanasi, and Gaya.",
+      "hi": "- **राष्ट्रीय राजमार्ग 922 (NH-922)**: पटना से आरा होते हुए बक्सर तक निर्मित आधुनिक 4-लेन एक्सप्रेसवे, जिससे राज्य की राजधानी पटना की दूरी मात्र 1 घंटे में तय होती है।\n- **राष्ट्रीय राजमार्ग 319 (NH-319 / पुरानी SH-12)**: आरा को जगदीशपुर, पीरो और मोहनिया होते हुए सीधे ग्रैंड ट्रंक रोड (जीटी रोड / स्वर्णिम चतुर्भुज NH-19) से जोड़ने वाला प्रमुख आर्थिक गलियारा।\n- **वीर कुंवर सिंह सेतु (आरा-छपरा पुल)**: गंगा नदी पर बना 4.35 किमी लंबा पुल, जो आरा (भोजपुर) को सीधे बबुरा और छपरा (सारण) से जोड़ता है।\n- **वशिष्ठ नारायण सेतु (नया कोइलवर पुल)**: सोन नदी पर ऐतिहासिक अब्दुल बारी पुल के समानांतर निर्मित 6-लेन आधुनिक सड़क पुल, जिसने पटना-आरा मार्ग पर यातायात को अत्यंत सुगम बना दिया है।\n- **बस सेवा**: आरा के नए बस स्टैंड से पटना, सासाराम, बक्सर, छपरा, वाराणसी और भभुआ के लिए चौबीसों घंटे नियमित सरकारी व निजी बसें उपलब्ध हैं।"
+    },
+    "railway": {
+      "en": "- **Ara Junction (ARA)**: A Category-A major railway junction on the prestigious Howrah–Patna–Pt. Deen Dayal Upadhyaya (Mughalsarai)–New Delhi mainline of East Central Railway.\n- **High-Speed & Express Halts**: Key stoppage for prestigious trains including Vande Bharat Express, Rajdhani Express, Magadh Express, Shramjeevi Express, Sampoorna Kranti Express, and Vikramshila Express, providing direct non-stop rail links to Delhi, Kolkata, Mumbai, Patna, and Guwahati.\n- **Ara–Sasaram Branch Line**: Important broad-gauge passenger and freight corridor connecting Ara Junction through Udwantnagar, Garhani, Piro, and Bikramganj to Sasaram on the Grand Chord line.\n- **Koilwar & Bihiya Stations**: Significant intermediate passenger stations facilitating suburban commuter transit across the district.",
+      "hi": "- **आरा जंक्शन (ARA)**: पूर्व मध्य रेलवे के हावड़ा-पटना-पंडित दीनदयाल उपाध्याय (मुगलसराय)-नई दिल्ली मेन लाइन पर स्थित प्रमुख 'ए' श्रेणी रेलवे जंक्शन।\n- **प्रमुख सुपरफास्ट व एक्सप्रेस ट्रेनें**: वंदे भारत एक्सप्रेस, राजधानी एक्सप्रेस, मगध एक्सप्रेस, श्रमजीवी एक्सप्रेस, सम्पूर्ण क्रांति एक्सप्रेस और विक्रमशिला एक्सप्रेस सहित दर्जनों प्रमुख ट्रेनों का नियमित ठहराव, जो दिल्ली, कोलकाता, मुंबई और पटना से तीव्र रेल संपर्क प्रदान करता है।\n- **आरा-सासाराम रेल लाइन**: आरा जंक्शन से पीरो और बिक्रमगंज होते हुए सासाराम (ग्रैंड कॉर्ड लाइन) को जोड़ने वाला महत्वपूर्ण ब्रॉड-गेज रेलमार्ग।\n- **कोइलवर एवं बिहिया स्टेशन**: जिले के अन्य प्रमुख रेलवे स्टेशन जहाँ अनेक पैसेंजर और एक्सप्रेस रेलगाड़ियों का ठहराव है।"
+    },
+    "airport": {
+      "en": "- **Jay Prakash Narayan International Airport (PAT), Patna**: Located approximately 55 km east of Arrah; easily accessible within 50 to 60 minutes via the 4-lane NH-922 expressway, offering daily flight connections to New Delhi, Mumbai, Bengaluru, Kolkata, Chennai, and Hyderabad.\n- **Gaya International Airport (GAY)**: Situated approximately 115 km southeast; reachable in 2.5 to 3 hours via Arrah-Sasaram-Gaya road or rail, offering seasonal international flights and domestic connectivity.",
+      "hi": "- **जयप्रकाश नारायण अंतर्राष्ट्रीय हवाई अड्डा (PAT), पटना**: आरा से मात्र 55 किमी पूर्व में स्थित, 4-लेन NH-922 एक्सप्रेसवे द्वारा 50 से 60 मिनट में सुगम पहुंच; जहाँ से दिल्ली, मुंबई, बेंगलुरु, कोलकाता और हैदराबाद के लिए नियमित उड़ानें उपलब्ध हैं।\n- **गया अंतर्राष्ट्रीय हवाई अड्डा (GAY)**: लगभग 115 किमी दक्षिण-पूर्व में स्थित, सड़क अथवा रेल मार्ग द्वारा 2.5 से 3 घंटे में पहुंच योग्य।"
+    }
+  },
+  "importantPersonalities": [
+    {
+      "name": {
+        "en": "Babu Veer Kunwar Singh",
+        "hi": "बाबू वीर कुंवर सिंह"
+      },
+      "association": {
+        "en": "Legendary chieftain of Jagdishpur who led the 1857 First War of Independence in Bihar at the age of 80. Revered as the 'Lion of Bihar' for his unmatched guerrilla military campaigns and selfless sacrifice.",
+        "hi": "1857 के प्रथम स्वतंत्रता संग्राम में बिहार के महानायक एवं जगदीशपुर के प्रतापी शासक। 80 वर्ष की उम्र में अंग्रेजों के विरुद्ध छापामार युद्ध का संचालन करने और मातृभूमि के लिए सर्वस्व न्योछावर करने वाले 'बिहार के सिंह'।"
+      }
+    },
+    {
+      "name": {
+        "en": "Babu Jagjivan Ram ('Babuji')",
+        "hi": "बाबू जगजीवन राम ('बाबूजी')"
+      },
+      "association": {
+        "en": "Eminent freedom fighter, social reformer, and Deputy Prime Minister of India born in Chandwa, Arrah. A champion of Dalit rights and social justice, he served in the Union Cabinet continuously for over three decades and successfully spearheaded India's Defence Ministry during the 1971 Indo-Pak war.",
+        "hi": "महान स्वतंत्रता सेनानी, सामाजिक न्याय के पुरोधा और भारत के पूर्व उप-प्रधानमंत्री, जिनका जन्म आरा के चंदवा में हुआ था। तीन दशकों से अधिक समय तक केंद्रीय मंत्रिमंडल में रहे तथा 1971 के भारत-पाक युद्ध के समय देश के रक्षा मंत्री के रूप में ऐतिहासिक भूमिका निभाई।"
+      }
+    },
+    {
+      "name": {
+        "en": "Dr. Vashishtha Narayan Singh",
+        "hi": "डॉ. वशिष्ठ नारायण सिंह"
+      },
+      "association": {
+        "en": "World-renowned mathematical genius born in Basantpur village, Bhojpur. He earned his doctorate from UC Berkeley, worked at NASA on Apollo space missions, and famously challenged aspects of Einstein's Theory of Relativity; the new Koilwar Bridge is named Vashishtha Narayan Setu in his honor.",
+        "hi": "विश्वविख्यात गणितज्ञ, जिनका जन्म भोजपुर के बसंतपुर गांव में हुआ था। कैलिफोर्निया विश्वविद्यालय (बर्कले) से पीएचडी, नासा (NASA) के अपोलो मिशन में योगदान तथा आइंस्टीन के सिद्धांतों को चुनौती देने वाले महान विद्वान; इनके सम्मान में नए कोइलवर पुल का नाम 'वशिष्ठ नारायण सेतु' रखा गया है।"
+      }
+    },
+    {
+      "name": {
+        "en": "Babu Amar Singh",
+        "hi": "बाबू अमर सिंह"
+      },
+      "association": {
+        "en": "Younger brother and trusted military commander of Veer Kunwar Singh. Following Kunwar Singh's martyrdom in April 1858, Amar Singh assumed supreme command of the revolutionary forces, sustaining guerrilla resistance against British forces from the rugged forests of Jagdishpur and Kaimur for over a year.",
+        "hi": "बाबू वीर कुंवर सिंह के छोटे भाई और परम पराक्रमी सेनापति। कुंवर सिंह के अमर बलिदान के बाद उन्होंने विद्रोही सेना का नेतृत्व संभाला और कैमूर की पहाड़ियों व जगदीशपुर के जंगलों से अंग्रेजों के विरुद्ध एक वर्ष से अधिक समय तक गुरिल्ला युद्ध जारी रखा।"
+      }
+    },
+    {
+      "name": {
+        "en": "Acharya Shivpujan Sahay",
+        "hi": "आचार्य शिवपूजन सहाय"
+      },
+      "association": {
+        "en": "Doyen of modern Hindi prose, legendary novelist (Dehati Duniya), lexicographer, and editor born in Unwans (Shahabad/Bhojpur). Honored with the Padma Bhushan, he played a foundational role in standardizing Hindi language and literary criticism in eastern India.",
+        "hi": "आधुनिक हिंदी गद्य के मूर्धन्य साहित्यकार, 'देहाती दुनिया' जैसे कालजयी उपन्यास के रचयिता एवं 'मतवाला' व 'हिमालय' जैसी पत्रिकाओं के संपादक। पद्म भूषण से सम्मानित इस महान मनीषी का जन्म शाहाबाद (भोजपुर) के उनवांस में हुआ था।"
+      }
+    },
+    {
+      "name": {
+        "en": "Bindeshwari Dubey",
+        "hi": "बिंदेश्वरी दुबे"
+      },
+      "association": {
+        "en": "Veteran freedom fighter of the 1942 Quit India Movement, trade union leader, Union Minister, and former Chief Minister of Bihar (1985–1988), born in Mahuar village in Bhojpur district.",
+        "hi": "1942 के भारत छोड़ो आंदोलन के अग्रणी सेनानी, प्रख्यात श्रमिक नेता, पूर्व केंद्रीय मंत्री एवं बिहार के पूर्व मुख्यमंत्री (1985–1988), जिनका जन्म भोजपुर जिले के महुआरी (महुआर) गांव में हुआ था।"
+      }
+    }
+  ],
+  "tourismIdentity": [
+    {
+      "en": "Cradle of 1857 Armed Resistance: Ancestral Domain of Babu Veer Kunwar Singh",
+      "hi": "1857 के प्रथम स्वाधीनता संग्राम की वीरभूमि: बाबू वीर कुंवर सिंह का जगदीशपुर"
+    },
+    {
+      "en": "Epicenter of Bhojpuri Language & Vibrant Gangetic Folk Culture",
+      "hi": "भोजपुरी भाषा, लोकगीतों और समृद्ध सांस्कृतिक विरासत का वैश्विक उद्गम स्थल"
+    },
+    {
+      "en": "Ancient Spiritual Roots: Sanctum of Aranya Devi & Sun Worship at Belaur",
+      "hi": "पौराणिक आस्था का केंद्र: शक्ति स्वरूपा माँ अरण्य देवी एवं बेलौर का ऐतिहासिक सूर्य धाम"
+    },
+    {
+      "en": "Engineering & Architectural Marvel: Historic 1862 Koilwar (Abdul Bari) Bridge & Sone Waterfront",
+      "hi": "स्थापत्य व इंजीनियरिंग का चमत्कार: 1862 का ऐतिहासिक कोइलवर (अब्दुल बारी) पुल एवं सोन तट"
+    },
+    {
+      "en": "Living Freedom Heritage: Arrah House Siege Monument & Jagdishpur Fort Memorial",
+      "hi": "स्वाधीनता संग्राम के जीवंत साक्षी: ऐतिहासिक आरा हाउस स्मारक एवं जगदीशपुर दुर्ग"
+    },
+    {
+      "en": "Culinary Heritage of the Sone-Ganga Doab: Famed Udwantnagar Khurma & Shahabad Belgrami",
+      "hi": "सोन-गंगा दोआब का समृद्ध मिष्ठान वैभव: उदवंतनगर का प्रसिद्ध खुरमा एवं बेलग्रामी"
+    }
+  ],
+  "didYouKnow": [
+    {
+      "en": "The entire globally recognized **Bhojpuri language**—spoken today by over 50 million people across India, Nepal, Mauritius, Suriname, Trinidad and Tobago, and Guyana—derives its name directly from **Bhojpur**, where medieval Parmar kings founded their capital.",
+      "hi": "विश्व भर में 5 करोड़ से अधिक लोगों द्वारा बोली जाने वाली समृद्ध **भोजपुरी भाषा** (भारत, नेपाल, मॉरीशस, सूरीनाम, त्रिनिदाद एवं गुयाना) का नामकरण सीधे इसी **भोजपुर** जनपद के नाम पर हुआ है, जहाँ परमार शासकों ने अपनी राजधानी बसाई थी।"
+    },
+    {
+      "en": "At the age of **80**, **Babu Veer Kunwar Singh** displayed unfathomable bravery during his 1858 crossing of the Ganga at Shivpur Ghat. When an enemy cannonball shattered his left wrist, he unsheathed his sword, severed his own poisoned arm, and cast it into the sacred river as an offering to Mother Ganga before vanquishing the British at Jagdishpur.",
+      "hi": "80 वर्ष की उम्र में **बाबू वीर कुंवर सिंह** ने अदम्य साहस का ऐसा परिचय दिया जो विश्व इतिहास में दुर्लभ है। 1858 में शिवपुर घाट पर गंगा पार करते समय जब एक अंग्रेजी तोप का गोला उनकी बाईं कलाई में लगा, तो जहर फैलने से रोकने के लिए उन्होंने बिना झिझक अपनी ही तलवार से अपना हाथ काटकर माँ गंगा को समर्पित कर दिया था।"
+    },
+    {
+      "en": "The **Koilwar Bridge (Abdul Bari Bridge)** spanning the Sone River, opened on 4 November 1862, is currently the **oldest operational railway bridge in India**. At 1.44 km, it was the longest river bridge on the Indian subcontinent for nearly four decades and served as a prominent backdrop in Sir Richard Attenborough's 1982 Oscar-winning film *Gandhi*.",
+      "hi": "सोन नदी पर बना **कोइलवर पुल (अब्दुल बारी पुल)**, जिसका उद्घाटन 4 नवंबर 1862 को हुआ था, वर्तमान में **भारत का सबसे पुराना चालू रेलवे पुल** है। 1.44 किमी लंबा यह पुल चार दशकों तक भारतीय उपमहाद्वीप का सबसे लंबा पुल रहा और रिचर्ड एटनबरो की ऑस्कर विजेता फिल्म *'गांधी'* (1982) में भी प्रदर्शित हुआ था।"
+    },
+    {
+      "en": "The town of **Arrah** owes its name to Goddess **Aranya Devi** (Goddess of the Forest). According to local Mahabharata legends, this region was a dense virgin forest (*Aranya*) where the Pandavas resided during their exile and King Mordhwaj underwent Lord Krishna's divine test of devotion.",
+      "hi": "**आरा** नगर का नाम देवी **अरण्य देवी** (वन की अधिष्ठात्री देवी) के नाम पर पड़ा है। पौराणिक कथाओं के अनुसार, प्राचीन काल में यह क्षेत्र एक विशाल सघन वन (*अरण्य*) था, जहाँ पांडवों ने अपने अज्ञातवास का समय बिताया था तथा राजा मोरध्वज ने भगवान श्रीकृष्ण की अनन्य परीक्षा दी थी।"
+    },
+    {
+      "en": "The mouth-watering sweet **Udwantnagar Khurma**, crafted from deep-fried paneer/chhena cubes crystallized in caramelized sugar syrup, has been a regional culinary legend for over a century; applications have been formally submitted to grant this delicacy a prestigious **Geographical Indication (GI) tag**.",
+      "hi": "भोजपुर के उदवंतनगर का प्रसिद्ध **छेना खुरमा**, जिसे तले हुए शुद्ध छेने को चाशनी में पागकर बनाया जाता है, पिछले 100 से अधिक वर्षों से पूर्वांचल का प्रतिष्ठित मिष्ठान है; इसे भारत सरकार द्वारा **भौगोलिक उपदर्शन (GI टैग)** प्रदान करने की प्रक्रिया तेजी से जारी है।"
+    },
+    {
+      "en": "During the famous **Siege of Arrah (1857)**, a modest two-story billiard outhouse known as **Arrah House** withstood an eight-day armed siege by Veer Kunwar Singh's revolutionary forces. Sixty-eight British soldiers, civilians, and Sikh loyalists fortified inside were saved when Major Vincent Eyre's relief column arrived with artillery.",
+      "hi": "1857 के प्रथम स्वतंत्रता संग्राम के दौरान **'आरा हाउस'** नामक दो मंजिला बिलियर्ड्स भवन एक ऐतिहासिक घेराबंदी का साक्षी बना था। यहाँ 68 ब्रिटिश व सिख सैनिकों ने बाबू वीर कुंवर सिंह की क्रांतिकारी सेना के विरुद्ध आठ दिनों तक मोर्चा संभाले रखा था, जब तक कि विन्सेंट आयर की तोपखाना टुकड़ी राहत के लिए नहीं पहुंची।"
+    }
+  ],
+  "sources": [
+    {
+      "title": "District Official Portal of Bhojpur",
+      "organization": "District Administration Bhojpur, Government of Bihar",
+      "url": "https://bhojpur.nic.in",
+      "year": 2024
+    },
+    {
+      "title": "District Census Handbook: Bhojpur (Census of India 2011, Series 11, Part XII-A & B)",
+      "organization": "Directorate of Census Operations, Bihar, Ministry of Home Affairs, Government of India",
+      "url": "https://censusindia.gov.in",
+      "year": 2011
+    },
+    {
+      "title": "Bhojpur Heritage & Freedom Circuit Profile",
+      "organization": "Bihar State Tourism Development Corporation (BSTDC), Government of Bihar",
+      "url": "https://tourism.bihar.gov.in",
+      "year": 2024
+    },
+    {
+      "title": "Arrah House & 1857 Memorials, Archaeological Profile",
+      "organization": "Archaeological Survey of India (ASI), Patna Circle",
+      "url": "https://asipatnacycle.gov.in",
+      "year": 2023
+    },
+    {
+      "title": "Comprehensive District Agricultural Plan (CDAP): Bhojpur",
+      "organization": "Department of Agriculture, Government of Bihar",
+      "url": "https://state.bihar.gov.in/krishi",
+      "year": 2022
+    }
+  ],
+  "status": "published",
+  "verification": {
+    "status": "verified",
+    "lastVerifiedAt": "2026-09-19",
+    "sources": [
+      {
+        "name": "District Portal Bhojpur, Government of Bihar",
+        "url": "https://bhojpur.nic.in",
+        "type": "government"
+      },
+      {
+        "name": "Bihar Tourism Official Portal",
+        "url": "https://tourism.bihar.gov.in",
+        "type": "official"
+      },
+      {
+        "name": "Census of India 2011",
+        "url": "https://censusindia.gov.in",
+        "type": "government"
+      }
+    ]
+  }
+}

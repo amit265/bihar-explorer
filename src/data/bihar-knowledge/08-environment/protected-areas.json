@@ -1,0 +1,176 @@
+{
+  "data": [
+    {
+      "id": "valmiki-national-park-and-tiger-reserve",
+      "name": {
+        "en": "Valmiki National Park & Tiger Reserve",
+        "hi": "वाल्मीकि राष्ट्रीय उद्यान एवं बाघ अभयारण्य"
+      },
+      "category": "national-park-tiger-reserve",
+      "establishedYear": 1990,
+      "areaSqKm": 898.45,
+      "districtIds": [
+        "west-champaran"
+      ],
+      "headquarters": {
+        "en": "Bettiah",
+        "hi": "बेतिया"
+      },
+      "description": {
+        "en": "### The Crown Jewel of Conservation\n\nThe only National Park in Bihar, **Valmiki** is a sprawling, dense mosaic of pristine bhabar and terai landscapes in West Champaran.\n\n### Reserve Significance\n\n* **Tiger Stronghold:** It serves as the ultimate stronghold for the majestic Bengal Tiger within the state.\n* **Avian Paradise:** The reserve is globally recognized as an Important Bird Area (IBA), hosting incredible species like the Great Hornbill.\n* **Eco-Tourism Focus:** The government is aggressively developing sustainable eco-tourism here to generate local tribal employment and promote conservation awareness.\n\nValmiki stands as a towering beacon of successful wildlife revival in northern India.",
+        "hi": "### संरक्षण का मुकुट रत्न\n\nबिहार का एकमात्र राष्ट्रीय उद्यान, **वाल्मीकि** पश्चिमी चंपारण में प्राचीन भाभर और तराई परिदृश्यों का एक विस्तृत, घना मोज़ेक है।\n\n### रिजर्व का महत्व\n\n* **बाघ का गढ़:** यह राज्य के भीतर राजसी बंगाल टाइगर के लिए अंतिम गढ़ के रूप में कार्य करता है।\n* **एवियन पैराडाइज:** रिजर्व को विश्व स्तर पर एक महत्वपूर्ण पक्षी क्षेत्र (IBA) के रूप में मान्यता प्राप्त है, जो ग्रेट हॉर्नबिल जैसी अविश्वसनीय प्रजातियों की मेजबानी करता है।\n* **इको-टूरिज्म फोकस:** सरकार स्थानीय आदिवासी रोजगार पैदा करने और संरक्षण जागरूकता को बढ़ावा देने के लिए यहां आक्रामक रूप से टिकाऊ इको-टूरिज्म विकसित कर रही है।\n\nवाल्मीकि उत्तरी भारत में सफल वन्यजीव पुनरुद्धार के एक विशाल बीकन के रूप में खड़ा है।"
+      },
+      "keyHighlights": [
+        "Only Tiger Reserve in Bihar (established under Project Tiger in 1990)",
+        "Contiguous transboundary wildlife corridor with Nepal's Chitwan",
+        "Triveni Sangam and historic Valmiki Ashram on Gandak river"
+      ]
+    },
+    {
+      "id": "vikramshila-gangetic-dolphin-sanctuary",
+      "name": {
+        "en": "Vikramshila Gangetic Dolphin Sanctuary",
+        "hi": "विक्रमशिला गंगा डॉल्फिन अभयारण्य"
+      },
+      "category": "riverine-aquatic-sanctuary",
+      "establishedYear": 1991,
+      "lengthKm": 60,
+      "districtIds": [
+        "bhagalpur"
+      ],
+      "description": {
+        "en": "### The Riverine Safe Haven\n\nIndia's first and strictly only sanctuary explicitly dedicated to the endangered **Gangetic Dolphin**, spanning a critical 50km stretch of the Ganga in Bhagalpur.\n\n### Sanctuary Features\n\n* **Core Habitat:** This deep, meandering river segment provides the perfect ecological conditions for the blind dolphins to hunt and breed.\n* **Threat Mitigation:** The sanctuary actively combats severe threats from highly destructive fishing practices, poaching, and intense boat traffic.\n* **Aquatic Biodiversity:** Besides dolphins, it critically protects vulnerable populations of smooth-coated otters and various freshwater turtles.\n\nIt is an internationally significant zone for cetacean conservation.",
+        "hi": "### नदी का सुरक्षित आश्रय\n\nभारत का पहला और कड़ाई से एकमात्र अभयारण्य जो विशेष रूप से लुप्तप्राय **गांगेय डॉल्फ़िन** को समर्पित है, जो भागलपुर में गंगा के एक महत्वपूर्ण 50 किमी खिंचाव में फैला है।\n\n### अभयारण्य की विशेषताएं\n\n* **मुख्य आवास:** यह गहरा, घुमावदार नदी खंड अंधे डॉल्फ़िन को शिकार करने और प्रजनन करने के लिए सही पारिस्थितिक स्थितियां प्रदान करता है।\n* **खतरा शमन:** अभयारण्य सक्रिय रूप से अत्यधिक विनाशकारी मछली पकड़ने की प्रथाओं, अवैध शिकार और तीव्र नाव यातायात से गंभीर खतरों का मुकाबला करता है।\n* **जलीय जैव विविधता:** डॉल्फ़िन के अलावा, यह चिकनी-लेपित ऊदबिलाव और विभिन्न मीठे पानी के कछुओं की कमजोर आबादी की गंभीर रूप से रक्षा करता है।\n\nयह सिटासियन संरक्षण के लिए अंतरराष्ट्रीय स्तर पर महत्वपूर्ण क्षेत्र है।"
+      },
+      "ecologicalSignificance": {
+        "en": "Serves as the vital gene pool and research ground for India's National Aquatic Animal.",
+        "hi": "भारत के राष्ट्रीय जलीय जीव के संरक्षण, अध्ययन और आनुवंशिक सुरक्षा का प्रमुख राष्ट्रीय केंद्र।"
+      }
+    },
+    {
+      "id": "kanwar-lake-kabartal-ramsar-site",
+      "name": {
+        "en": "Kanwar Lake (Kabartal Wetland) Bird Sanctuary",
+        "hi": "कांवर झील (काबरताल) पक्षी अभयारण्य"
+      },
+      "category": "ramsar-wetland-bird-sanctuary",
+      "establishedYear": 1989,
+      "ramsarDesignationDate": "2020-07-21",
+      "areaSqKm": 26.2,
+      "districtIds": [
+        "begusarai"
+      ],
+      "description": {
+        "en": "### Bihar's First Ramsar Site\n\nAsia's largest freshwater oxbow lake, **Kabartal (in Begusarai)** is a spectacularly vast wetland formed by the meandering Burhi Gandak river.\n\n### Wetland Significance\n\n* **International Recognition:** It achieved a monumental milestone by being designated as Bihar's first **Ramsar Site of International Importance**.\n* **Wintering Sanctuary:** The lake is a vital wintering haven for millions of migratory birds arriving from the freezing Central Asian Flyway.\n* **Ecological Challenges:** The lake currently faces severe existential threats from rapid agricultural encroachment, pervasive siltation, and alarming drying out.\n\nSaving Kabartal is recognized as an absolute priority for global wetland conservationists.",
+        "hi": "### बिहार का पहला रामसर स्थल\n\nएशिया की सबसे बड़ी मीठे पानी की गोखुर झील, **काबरताल (बेगूसराय में)** घुमावदार बूढ़ी गंडक नदी द्वारा निर्मित एक शानदार विशाल आर्द्रभूमि है।\n\n### आर्द्रभूमि का महत्व\n\n* **अंतर्राष्ट्रीय मान्यता:** इसे बिहार के पहले **अंतर्राष्ट्रीय महत्व के रामसर स्थल** के रूप में नामित करके एक स्मारकीय मील का पत्थर हासिल किया।\n* **शीतकालीन अभयारण्य:** झील मध्य एशियाई फ्लाईवे से आने वाले लाखों प्रवासी पक्षियों के लिए एक महत्वपूर्ण शीतकालीन आश्रय है।\n* **पारिस्थितिक चुनौतियां:** झील वर्तमान में तेजी से कृषि अतिक्रमण, व्यापक गाद और खतरनाक रूप से सूखने से गंभीर अस्तित्व के खतरों का सामना कर रही है।\n\nकाबरताल को बचाना वैश्विक आर्द्रभूमि संरक्षणवादियों के लिए एक पूर्ण प्राथमिकता के रूप में मान्यता प्राप्त है।"
+      },
+      "keyAvianSpecies": [
+        "Red-crested Pochard",
+        "Northern Pintail",
+        "Common Teal",
+        "Greater Spotted Eagle"
+      ]
+    },
+    {
+      "id": "kaimur-wildlife-sanctuary",
+      "name": {
+        "en": "Kaimur Wildlife Sanctuary",
+        "hi": "कैमूर वन्यजीव अभयारण्य"
+      },
+      "category": "wildlife-sanctuary",
+      "establishedYear": 1979,
+      "areaSqKm": 1504.96,
+      "districtIds": [
+        "kaimur",
+        "rohtas"
+      ],
+      "description": {
+        "en": "### The Vast Southern Wilderness\n\nThe absolutely largest wildlife sanctuary in Bihar by area, deeply encompassing the rugged escarpments and dry forests of the ancient Vindhyan range.\n\n### Sanctuary Features\n\n* **Tiger Potential:** It is currently under serious consideration and preparation to be officially upgraded to Bihar's highly anticipated second **Tiger Reserve**.\n* **Rich Fauna:** It boasts a highly diverse predator population, including leopards, sloth bears, and hyenas.\n* **Prehistoric Heritage:** The sanctuary seamlessly integrates wildlife protection with the preservation of invaluable prehistoric rock art and ancient waterfalls.\n\nKaimur is poised to become the next major focal point for megafauna conservation in eastern India.",
+        "hi": "### विशाल दक्षिणी जंगल\n\nक्षेत्रफल के हिसाब से बिहार का सबसे बड़ा वन्यजीव अभयारण्य, प्राचीन विंध्यन पर्वतमाला के ऊबड़-खाबड़ कगारों और शुष्क जंगलों को गहराई से समेटे हुए है।\n\n### अभयारण्य की विशेषताएं\n\n* **बाघ की क्षमता:** वर्तमान में इसे आधिकारिक तौर पर बिहार के बहुप्रतीक्षित दूसरे **टाइगर रिजर्व** में अपग्रेड करने के लिए गंभीर विचार और तैयारी चल रही है।\n* **समृद्ध जीव-जंतु:** यह तेंदुए, भालू और लकड़बग्घे सहित अत्यधिक विविध शिकारी आबादी का दावा करता है।\n* **प्रागैतिहासिक विरासत:** अभयारण्य अमूल्य प्रागैतिहासिक रॉक कला और प्राचीन झरनों के संरक्षण के साथ वन्यजीव संरक्षण को मूल रूप से एकीकृत करता है।\n\nकैमूर पूर्वी भारत में मेगाफौना संरक्षण के लिए अगला प्रमुख केंद्र बिंदु बनने के लिए तैयार है।"
+      },
+      "archaeologicalWealth": {
+        "en": "Houses over 50 prehistoric rock-art shelter complexes dating back to the Mesolithic and Neolithic eras.",
+        "hi": "यहाँ मध्यपाषाण और नवपाषाण काल के 50 से अधिक प्रागैतिहासिक शैलचित्र (रॉक पेंटिंग्स) गुफाएं मौजूद हैं।"
+      }
+    },
+    {
+      "id": "bhimbandh-wildlife-sanctuary",
+      "name": {
+        "en": "Bhimbandh Wildlife Sanctuary",
+        "hi": "भीमबांध वन्यजीव अभयारण्य"
+      },
+      "category": "wildlife-sanctuary",
+      "establishedYear": 1976,
+      "areaSqKm": 681.99,
+      "districtIds": [
+        "munger"
+      ],
+      "description": {
+        "en": "### The Geothermal Forest\n\nLocated beautifully in the deeply forested Kharagpur hills of Munger, **Bhimbandh** is uniquely characterized by its numerous therapeutic hot springs.\n\n### Sanctuary Features\n\n* **Dense Canopies:** The sanctuary features incredibly dense Sal and bamboo forests, offering excellent camouflage for its wildlife.\n* **Avian and Mammal Diversity:** It is particularly famous for its rich peafowl populations, wild boars, and secretive leopards.\n* **Mythological Ties:** According to deep local legend, the Pandava hero Bhima constructed a dam (bandh) here during his exile.\n\nThe sanctuary offers a perfect blend of profound natural beauty and deep mythological resonance.",
+        "hi": "### भूतापीय वन\n\nमुंगेर की घने जंगलों वाली खड़कपुर पहाड़ियों में खूबसूरती से स्थित, **भीमबांध** विशिष्ट रूप से इसके कई चिकित्सीय गर्म झरनों की विशेषता है।\n\n### अभयारण्य की विशेषताएं\n\n* **घने चंदवा:** अभयारण्य में अविश्वसनीय रूप से घने साल और बांस के जंगल हैं, जो इसके वन्यजीवों के लिए उत्कृष्ट छलावरण प्रदान करते हैं।\n* **एवियन और स्तनपायी विविधता:** यह विशेष रूप से अपने समृद्ध मोर आबादी, जंगली सूअर और गुप्त तेंदुओं के लिए प्रसिद्ध है।\n* **पौराणिक संबंध:** गहरी स्थानीय किंवदंती के अनुसार, पांडव नायक भीम ने अपने वनवास के दौरान यहां एक बांध (बांध) का निर्माण किया था।\n\nअभयारण्य गहरी प्राकृतिक सुंदरता और गहरी पौराणिक गूंज का एक आदर्श मिश्रण प्रस्तुत करता है।"
+      },
+      "keyFauna": [
+        "Indian Leopard",
+        "Sloth Bear",
+        "Sambar Deer",
+        "Barking Deer",
+        "Wild Boar"
+      ]
+    },
+    {
+      "id": "rajgir-wildlife-sanctuary-and-nature-safari",
+      "name": {
+        "en": "Rajgir Wildlife Sanctuary & Nature Safari",
+        "hi": "राजगीर वन्यजीव अभयारण्य एवं नेचर सफारी"
+      },
+      "category": "wildlife-sanctuary-ecotourism",
+      "establishedYear": 1978,
+      "areaSqKm": 35.84,
+      "districtIds": [
+        "nalanda"
+      ],
+      "description": {
+        "en": "### The Historic Nature Trail\n\nNestled spectacularly among the five historic hills of the ancient Magadhan empire, this sanctuary provides a crucial, protected green lung for Nalanda.\n\n### Sanctuary Features\n\n* **Nature Safari:** It recently gained immense popularity for India's first state-of-the-art **Glass Cabin Nature Safari** and thrilling Zoo Safari.\n* **Protected Flora:** The hills are fiercely protected to conserve vital dry deciduous forests and precious medicinal plant species.\n* **Historical Integration:** The wildlife deeply shares its habitat with world-renowned Buddhist monuments and Jain temples.\n\nIt is Bihar's premier model for successfully blending high-volume heritage tourism with strict ecological preservation.",
+        "hi": "### ऐतिहासिक प्रकृति ट्रेल\n\nप्राचीन मगध साम्राज्य की पांच ऐतिहासिक पहाड़ियों के बीच शानदार ढंग से बसा यह अभयारण्य नालंदा के लिए एक महत्वपूर्ण, संरक्षित हरा फेफड़ा प्रदान करता है।\n\n### अभयारण्य की विशेषताएं\n\n* **नेचर सफारी:** इसने हाल ही में भारत के पहले अत्याधुनिक **ग्लास केबिन नेचर सफारी** और रोमांचक चिड़ियाघर सफारी के लिए अपार लोकप्रियता हासिल की है।\n* **संरक्षित वनस्पति:** महत्वपूर्ण शुष्क पर्णपाती जंगलों और कीमती औषधीय पौधों की प्रजातियों के संरक्षण के लिए पहाड़ियों की कड़ाई से रक्षा की जाती है।\n* **ऐतिहासिक एकीकरण:** वन्यजीव गहराई से विश्व प्रसिद्ध बौद्ध स्मारकों और जैन मंदिरों के साथ अपना निवास स्थान साझा करते हैं।\n\nयह उच्च मात्रा वाले विरासत पर्यटन को सख्त पारिस्थितिक संरक्षण के साथ सफलतापूर्वक सम्मिश्रित करने के लिए बिहार का प्रमुख मॉडल है।"
+      }
+    },
+    {
+      "id": "nagi-and-nakti-bird-sanctuaries",
+      "name": {
+        "en": "Nagi & Nakti Dam Bird Sanctuaries (Ramsar Sites)",
+        "hi": "नागी एवं नकटी बांध पक्षी अभयारण्य (रामसर स्थल)"
+      },
+      "category": "ramsar-wetland-bird-sanctuaries",
+      "establishedYear": 1984,
+      "ramsarDesignationDate": "2024-06-05",
+      "districtIds": [
+        "jamui"
+      ],
+      "description": {
+        "en": "### The Twin Reservoirs\n\nTwo closely contiguous, man-made reservoirs in the Jamui district that have spectacularly transformed into premier birding destinations.\n\n### Sanctuary Features\n\n* **Bar-Headed Geese:** They hold the prestigious distinction of hosting one of the largest wintering congregations of **Bar-headed Geese** in India.\n* **Bird Festival:** The state government enthusiastically hosts the annual 'Kalrav' bird festival here to aggressively promote avid bird watching.\n* **Irrigation Origins:** Originally constructed strictly for irrigation, they beautifully prove that engineered habitats can foster immense biodiversity.\n\nThey represent a shining triumph of unplanned ecological succession.",
+        "hi": "### जुड़वां जलाशय\n\nजमुई जिले में दो निकटवर्ती, मानव निर्मित जलाशय जो शानदार ढंग से प्रमुख बर्डिंग स्थलों में बदल गए हैं।\n\n### अभयारण्य की विशेषताएं\n\n* **बार-हेडेड गीज़:** उनके पास भारत में **बार-हेडेड गीज़** के सबसे बड़े शीतकालीन मण्डली में से एक की मेजबानी करने का प्रतिष्ठित गौरव है।\n* **पक्षी महोत्सव:** राज्य सरकार पक्षी देखने को आक्रामक रूप से बढ़ावा देने के लिए उत्साहपूर्वक वार्षिक 'कलरव' पक्षी उत्सव की मेजबानी करती है।\n* **सिंचाई उत्पत्ति:** मूल रूप से कड़ाई से सिंचाई के लिए निर्मित, वे खूबसूरती से साबित करते हैं कि इंजीनियर आवास अपार जैव विविधता को बढ़ावा दे सकते हैं।\n\nवे अनियोजित पारिस्थितिक उत्तराधिकार की एक शानदार जीत का प्रतिनिधित्व करते हैं।"
+      },
+      "notableFeatures": [
+        "Annual Bihar Bird Festival (Kalrav) venue",
+        "Over 20,000 wintering waterfowl"
+      ]
+    },
+    {
+      "id": "kusheshwar-asthan-bird-sanctuary",
+      "name": {
+        "en": "Kusheshwar Asthan Bird Sanctuary",
+        "hi": "कुशेश्वर स्थान पक्षी अभयारण्य"
+      },
+      "category": "wetland-bird-sanctuary",
+      "establishedYear": 1994,
+      "areaSqKm": 29.17,
+      "districtIds": [
+        "darbhanga"
+      ],
+      "description": {
+        "en": "### The Mithila Wetlands\n\nA vast, highly dynamic seasonal wetland complex situated in Darbhanga, deeply revered both ecologically and culturally.\n\n### Sanctuary Features\n\n* **Migratory Flocks:** It serves as a vital winter stopover for critically endangered species like the **Siberian Crane** and Dalmatian Pelican.\n* **Spiritual Connection:** The sanctuary completely surrounds the deeply sacred Kusheshwar Shiva temple, intertwining wildlife with fervent religious devotion.\n* **Dynamic Boundaries:** The sanctuary's boundaries expand and contract dramatically with the intense annual flooding of the Kosi and Kamla rivers.\n\nIt is a living testament to the deep spiritual ecology of the Mithila region.",
+        "hi": "### मिथिला आर्द्रभूमि\n\nदरभंगा में स्थित एक विशाल, अत्यधिक गतिशील मौसमी आर्द्रभूमि परिसर, पारिस्थितिक और सांस्कृतिक दोनों रूप से गहराई से पूजनीय है।\n\n### अभयारण्य की विशेषताएं\n\n* **प्रवासी झुंड:** यह **साइबेरियन क्रेन** और डेलमेटियन पेलिकन जैसी गंभीर रूप से लुप्तप्राय प्रजातियों के लिए एक महत्वपूर्ण शीतकालीन पड़ाव के रूप में कार्य करता है।\n* **आध्यात्मिक संबंध:** अभयारण्य पूरी तरह से गहरे पवित्र कुशेश्वर शिव मंदिर को घेरता है, जो वन्यजीवों को उत्कट धार्मिक भक्ति के साथ जोड़ता है।\n* **गतिशील सीमाएं:** कोसी और कमला नदियों की तीव्र वार्षिक बाढ़ के साथ अभयारण्य की सीमाएं नाटकीय रूप से फैलती और सिकुड़ती हैं।\n\nयह मिथिला क्षेत्र की गहरी आध्यात्मिक पारिस्थितिकी का एक जीवंत प्रमाण है।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "data": [
+    {
+      "id": "cropping-seasons-bihar",
+      "name": {
+        "en": "Cropping Seasons of Bihar",
+        "hi": "बिहार के फसल मौसम (फसली चक्र)"
+      },
+      "category": {
+        "en": "Agricultural Calendar",
+        "hi": "कृषि पंचांग"
+      },
+      "seasons": [
+        {
+          "name": { "en": "Kharif (Aghani & Bhadai)", "hi": "खरीफ (अगहनी एवं भदई)" },
+          "sowing": { "en": "June - July (onset of monsoon)", "hi": "जून - जुलाई (मानसून का आगमन)" },
+          "harvesting": { "en": "November - December (Aghani) / September (Bhadai)", "hi": "नवंबर - दिसंबर (अगहनी) / सितंबर (भदई)" },
+          "majorCrops": {
+            "en": ["Paddy (Rice)", "Maize", "Jute", "Arhar", "Soybean"],
+            "hi": ["धान (चावल)", "मक्का", "जूट", "अरहर", "सोयाबीन"]
+          }
+        },
+        {
+          "name": { "en": "Rabi (Winter Season)", "hi": "रबी (शीतकालीन मौसम)" },
+          "sowing": { "en": "October - November (post-monsoon)", "hi": "अक्टूबर - नवंबर (मानसून पश्चात)" },
+          "harvesting": { "en": "March - April", "hi": "मार्च - अप्रैल" },
+          "majorCrops": {
+            "en": ["Wheat", "Gram (Chana)", "Lentil (Masur)", "Mustard", "Barley", "Rabi Maize", "Potato"],
+            "hi": ["गेहूं", "चना", "मसूर", "सरसों", "जौ", "रबी मक्का", "आलू"]
+          }
+        },
+        {
+          "name": { "en": "Zaid / Garma (Summer Season)", "hi": "जायद / गरमा (ग्रीष्मकालीन मौसम)" },
+          "sowing": { "en": "March - April", "hi": "मार्च - अप्रैल" },
+          "harvesting": { "en": "May - June", "hi": "मई - जून" },
+          "majorCrops": {
+            "en": ["Moong (Green gram)", "Watermelon", "Muskmelon", "Cucumber", "Bitter gourd", "Garma Paddy", "Fodder"],
+            "hi": ["मूंग", "तरबूज", "खरबूजा", "खीरा", "करेला", "गरमा धान", "चारा"]
+          }
+        }
+      ],
+      "description": {
+        "en": "Bihar has three distinct agricultural seasons: Kharif (dominated by Aghani paddy transplanted with the monsoon), Rabi (dominated by winter wheat and pulses), and Zaid/Garma (short summer season for fast-maturing legumes and cucurbits). Aghani crops account for nearly 70% of Bihar's net sown area, underscoring the deep reliance of the rural economy on the South-West Monsoon.",
+        "hi": "बिहार में तीन अलग-अलग कृषि मौसम होते हैं: खरीफ (मानसून के साथ रोपे गए अगहनी धान का वर्चस्व), रबी (शीतकालीन गेहूं और दलहन का वर्चस्व), और जायद/गरमा (जल्दी पकने वाले दलहन और खीरा-ककड़ी जैसी फसलों के लिए छोटा ग्रीष्मकालीन मौसम)। अगहनी फसलें बिहार के कुल बोए गए क्षेत्र का लगभग 70% हिस्सा हैं, जो दक्षिण-पश्चिम मानसून पर ग्रामीण अर्थव्यवस्था की गहरी निर्भरता को रेखांकित करती हैं।"
+      },
+      "bpscRelevance": {
+        "en": "Classification into Aghani, Bhadai, and Rabi; harvest months and specific pulses cultivated in Zaid/Garma (Moong, Urad).",
+        "hi": "अगहनी, भदई और रबी में वर्गीकरण; कटाई के महीने और जायद/गरमा में उगाई जाने वाली विशिष्ट दलहन (मूंग, उड़द)।"
+      }
+    },
+    {
+      "id": "rice-paddy-cultivation-belt",
+      "name": {
+        "en": "Paddy Cultivation Belt (Rice Bowl of Bihar)",
+        "hi": "धान की खेती का क्षेत्र (बिहार का धान का कटोरा)"
+      },
+      "category": {
+        "en": "Staple Cereal Crop",
+        "hi": "प्रमुख खाद्यान्न फसल"
+      },
+      "grossAreaPercentage": "~45% of gross cropped area",
+      "leadingDistricts": [
+        "rohtas",
+        "aurangabad",
+        "kaimur",
+        "bhojpur",
+        "west-champaran",
+        "buxar"
+      ],
+      "keyCharacteristics": {
+        "en": [
+          "Rohtas district is celebrated as the 'Rice Bowl of Bihar' (धान का कटोरा), leading in both gross output and productivity",
+          "Son Canal network provides dependable assured flow irrigation across Shahabad and Magadh divisions",
+          "Grown in three varieties: Aghani (winter harvest, 80%), Bhadai (autumn harvest, 15%), and Garma (summer harvest, 5%)",
+          "Famous indigenous aromatic varieties include Katarni rice (GI tagged) and Marcha rice (GI tagged)"
+        ],
+        "hi": [
+          "रोहतास जिले को कुल उत्पादन और उत्पादकता दोनों में अग्रणी होने के कारण 'बिहार का धान का कटोरा' कहा जाता है",
+          "सोन नहर नेटवर्क शाहाबाद और मगध प्रमंडलों में विश्वसनीय सुनिश्चित प्रवाह सिंचाई प्रदान करता है",
+          "तीन किस्मों में उगाया जाता है: अगहनी (शीतकालीन कटाई, 80%), भदई (शरदकालीन कटाई, 15%), और गरमा (ग्रीष्मकालीन कटाई, 5%)",
+          "प्रसिद्ध स्वदेशी सुगंधित किस्मों में कतरनी चावल (जीआई टैग) और मर्चा चावल (जीआई टैग) शामिल हैं"
+        ]
+      },
+      "description": {
+        "en": "Rice is the primary staple food crop and economic mainstay of Bihar. The South-Western alluvial belt (Rohtas, Kaimur, Aurangabad, Bhojpur) supported by the perennial Son Canal system produces the highest yields in the state. In North Bihar, low-lying tracts and Terai plains in West Champaran and Madhubani also support extensive deep-water aman and aghani rice cultivation.",
+        "hi": "चावल बिहार की प्राथमिक मुख्य खाद्य फसल और आर्थिक आधार है। बारहमासी सोन नहर प्रणाली द्वारा समर्थित दक्षिण-पश्चिमी जलोढ़ पट्टी (रोहतास, कैमूर, औरंगाबाद, भोजपुर) राज्य में उच्चतम उपज देती है। उत्तर बिहार में, पश्चिमी चंपारण और मधुबनी के निचले क्षेत्र और तराई के मैदान भी गहरे पानी वाले अमन और अगहनी चावल की व्यापक खेती का पोषण करते हैं।"
+      },
+      "bpscRelevance": {
+        "en": "Top rice-producing district (Rohtas), percentage of agricultural land under rice (~45%), and GI-tagged rice varieties.",
+        "hi": "शीर्ष चावल उत्पादक जिला (रोहतास), चावल के तहत कृषि भूमि का प्रतिशत (~45%), और जीआई-टैग वाली चावल की किस्में।"
+      }
+    },
+    {
+      "id": "wheat-cultivation-belt",
+      "name": {
+        "en": "Wheat Cultivation Belt",
+        "hi": "गेहूं की खेती का क्षेत्र"
+      },
+      "category": {
+        "en": "Rabi Cereal Crop",
+        "hi": "रबी खाद्यान्न फसल"
+      },
+      "grossAreaPercentage": "~30% of gross cropped area",
+      "leadingDistricts": [
+        "rohtas",
+        "bhojpur",
+        "siwan",
+        "west-champaran",
+        "patna",
+        "begusarai",
+        "nalanda"
+      ],
+      "keyCharacteristics": {
+        "en": [
+          "Second most important staple grain after rice in Bihar",
+          "Requires cool, dry winters for vegetative growth (10-15°C) and warm sunny weather during ripening (20-25°C)",
+          "Thrives on well-drained fertile alluvium (Bhangar and Karail-Kewal soils)",
+          "Supported by high-efficiency electrified private tube-wells and state canal networks",
+          "Yields enhanced by 'Mahawat' showers from Western Disturbances in January"
+        ],
+        "hi": [
+          "बिहार में चावल के बाद दूसरा सबसे महत्वपूर्ण मुख्य अनाज",
+          "वानस्पतिक वृद्धि के लिए ठंडी, शुष्क सर्दी (10-15°C) और पकने के दौरान गर्म धूप वाले मौसम (20-25°C) की आवश्यकता होती है",
+          "अच्छी जल निकासी वाली उपजाऊ जलोढ़ (बांगर और कराइल-केवल मिट्टी) पर खूब फलता-फूलता है",
+          "उच्च दक्षता वाले विद्युतीकृत निजी नलकूपों और राज्य नहर नेटवर्क द्वारा समर्थित",
+          "जनवरी में पश्चिमी विक्षोभ से होने वाली 'माहवट' की वर्षा से पैदावार बढ़ती है"
+        ]
+      },
+      "description": {
+        "en": "Wheat has expanded dramatically across Bihar since the Green Revolution, becoming the dominant crop of the Rabi season. Rohtas, Bhojpur, and West Champaran lead in production. The crop is sown in November-December following the harvest of Kharif paddy and harvested by April. With expanding rural electrification and solar-powered irrigation, wheat productivity in Bihar has crossed 3,000 kg/ha in leading districts.",
+        "hi": "हरित क्रांति के बाद से पूरे बिहार में गेहूं का नाटकीय रूप से विस्तार हुआ है, जो रबी मौसम की प्रमुख फसल बन गई है। रोहतास, भोजपुर और पश्चिमी चंपारण उत्पादन में अग्रणी हैं। यह फसल खरीफ धान की कटाई के बाद नवंबर-दिसंबर में बोई जाती है और अप्रैल तक काट ली जाती है। ग्रामीण विद्युतीकरण और सौर ऊर्जा संचालित सिंचाई के विस्तार के साथ, प्रमुख जिलों में बिहार में गेहूं की उत्पादकता 3,000 किलोग्राम/हेक्टेयर को पार कर गई है।"
+      },
+      "bpscRelevance": {
+        "en": "Leading wheat-producing districts, winter rainfall (Western Disturbances) impact on yield, and crop rotation with paddy.",
+        "hi": "अग्रणी गेहूं उत्पादक जिले, शीतकालीन वर्षा (पश्चिमी विक्षोभ) का उपज पर प्रभाव, और धान के साथ फसल चक्र।"
+      }
+    },
+    {
+      "id": "maize-cultivation-belt",
+      "name": {
+        "en": "Maize / Makka Powerhouse Belt",
+        "hi": "मक्का उत्पादक प्रमुख क्षेत्र"
+      },
+      "category": {
+        "en": "Cash & Cereal Crop",
+        "hi": "नकदी एवं खाद्यान्न फसल"
+      },
+      "nationalRanking": "Among top 5 states in India; highest Rabi maize productivity nationwide (exceeding US Midwest averages)",
+      "leadingDistricts": [
+        "khagaria",
+        "samastipur",
+        "begusarai",
+        "saharsa",
+        "katihar",
+        "purnia",
+        "madhepura",
+        "araria"
+      ],
+      "keyCharacteristics": {
+        "en": [
+          "Grown across all three seasons: Kharif, Rabi, and Summer/Garma",
+          "Rabi Maize in North Bihar has achieved extraordinary productivity records (over 8 to 10 tonnes per hectare)",
+          "Khagaria, Begusarai, and Samastipur form the commercial heart of Bihar's maize empire",
+          "Serves as the raw material backbone for animal feed industries, starch factories, and ethanol production plants",
+          "Purnia established India's first greenfield grain-based ethanol plant using local maize and broken rice"
+        ],
+        "hi": [
+          "तीनों मौसमों में उगाया जाता है: खरीफ, रबी और ग्रीष्म/गरमा",
+          "उत्तर बिहार में रबी मक्का ने असाधारण उत्पादकता रिकॉर्ड (8 से 10 टन प्रति हेक्टेयर से अधिक) हासिल किया है",
+          "खगड़िया, बेगूसराय और समस्तीपुर बिहार के मक्का साम्राज्य के वाणिज्यिक केंद्र हैं",
+          "पशु आहार उद्योगों, स्टार्च कारखानों और एथेनॉल उत्पादन संयंत्रों के लिए कच्चे माल की रीढ़ के रूप में कार्य करता है",
+          "पूर्णिया में स्थानीय मक्का और टूटे चावल का उपयोग करके भारत का पहला ग्रीनफील्ड अनाज-आधारित एथेनॉल संयंत्र स्थापित किया गया"
+        ]
+      },
+      "description": {
+        "en": "Maize is North Bihar's golden cash crop. While historically a coarse foodgrain, the introduction of high-yielding hybrid varieties transformed winter (Rabi) maize into a high-profit agro-industrial crop. With fertile Khadar and Balsundari soils and abundant sunshine, the Kosi-Seemanchal and Burhi Gandak plains achieve some of the highest maize yields globally, driving export trade to Southeast Asia and supplying poultry feed across India.",
+        "hi": "मक्का उत्तर बिहार की स्वर्णिम नकदी फसल है। हालांकि ऐतिहासिक रूप से एक मोटा अनाज था, उच्च उपज देने वाली संकर किस्मों की शुरुआत ने शीतकालीन (रबी) मक्का को एक उच्च लाभ वाली कृषि-औद्योगिक फसल में बदल दिया। उपजाऊ खादर और बालसुंदरी मिट्टी और प्रचुर धूप के साथ, कोसी-सीमांचल और बूढ़ी गंडक के मैदान विश्व स्तर पर मक्का की उच्चतम उपज प्राप्त करते हैं, जिससे दक्षिण पूर्व एशिया में निर्यात व्यापार और पूरे भारत में पोल्ट्री फीड की आपूर्ति होती है।"
+      },
+      "bpscRelevance": {
+        "en": "High current exam priority: Bihar's record Rabi maize productivity, leading districts (Khagaria/Begusarai), and India's first ethanol plant at Purnia.",
+        "hi": "अत्यंत महत्वपूर्ण परीक्षा प्राथमिकता: बिहार की रिकॉर्ड रबी मक्का उत्पादकता, प्रमुख जिले (खगड़िया/बेगूसराय), और पूर्णिया में भारत का पहला एथेनॉल संयंत्र।"
+      }
+    },
+    {
+      "id": "sugarcane-agricultural-belt",
+      "name": {
+        "en": "Sugarcane Agricultural Belt",
+        "hi": "गन्ना कृषि क्षेत्र"
+      },
+      "category": {
+        "en": "Commercial Cash Crop",
+        "hi": "वाणिज्यिक नकदी फसल"
+      },
+      "leadingDistricts": [
+        "west-champaran",
+        "east-champaran",
+        "gopalganj",
+        "sitamarhi",
+        "siwan"
+      ],
+      "keyCharacteristics": {
+        "en": [
+          "Concentrated predominantly in the North-Western alluvial tract (Tirhut and Saran divisions)",
+          "West Champaran produces over 50% of the entire state's sugarcane harvest",
+          "Favoured by calcareous Bhangar and Piemont swamp soils with high natural moisture and lime",
+          "Supplies historic sugar mills at Bagaha, Harinagar, Majhaulia, Narkatiaganj, Sugauli, and Gopalganj",
+          "Core beneficiary of Bihar's Ethanol Production Promotion Policy 2021"
+        ],
+        "hi": [
+          "मुख्य रूप से उत्तर-पश्चिमी जलोढ़ क्षेत्र (तिरहुत और सारण प्रमंडल) में संकेंद्रित",
+          "पश्चिमी चंपारण पूरे राज्य के गन्ने की फसल का 50% से अधिक उत्पादन करता है",
+          "उच्च प्राकृतिक नमी और चूने वाली चूनायुक्त बांगर और पीडमोंट दलदली मिट्टी इसके अनुकूल है",
+          "बगहा, हरिनगर, मझौलिया, नरकटियागंज, सुगौली और गोपालगंज में ऐतिहासिक चीनी मिलों को आपूर्ति करता है",
+          "बिहार की एथेनॉल उत्पादन प्रोत्साहन नीति 2021 का मुख्य लाभार्थी"
+        ]
+      },
+      "description": {
+        "en": "Sugarcane is the historic commercial pillar of North-Western Bihar. During the early 20th century, Bihar was the sugar bowl of India, housing dozens of premier sugar refineries. Today, the belt is heavily concentrated in the Champaran and Gopalganj plains where sub-Himalayan moisture, calcareous loam, and high summer humidity allow ratoon and planted cane to thrive.",
+        "hi": "गन्ना उत्तर-पश्चिमी बिहार का ऐतिहासिक वाणिज्यिक स्तंभ है। 20वीं सदी की शुरुआत में, बिहार भारत का चीनी का कटोरा था, जिसमें दर्जनों प्रमुख चीनी मिलें थीं। आज, यह बेल्ट चंपारण और गोपालगंज के मैदानों में भारी रूप से संकेंद्रित है जहां उप-हिमालयी नमी, चूनायुक्त दोमट, और उच्च ग्रीष्मकालीन आर्द्रता गन्ने की भरपूर वृद्धि में सहायता करती है।"
+      },
+      "bpscRelevance": {
+        "en": "Top sugarcane producing district (West Champaran), location of sugar mills, and revival under Bihar Ethanol Policy.",
+        "hi": "शीर्ष गन्ना उत्पादक जिला (पश्चिमी चंपारण), चीनी मिलों का स्थान, और बिहार एथेनॉल नीति के तहत पुनरुद्धार।"
+      }
+    },
+    {
+      "id": "jute-and-mesta-belt",
+      "name": {
+        "en": "Jute and Mesta Cultivation Belt",
+        "hi": "जूट एवं मेस्टा कृषि पेटी"
+      },
+      "category": {
+        "en": "Commercial Fibre Crop",
+        "hi": "वाणिज्यिक रेशा फसल"
+      },
+      "nationalRanking": "2nd largest jute producing state in India after West Bengal (~8-10% of national production)",
+      "leadingDistricts": [
+        "purnia",
+        "katihar",
+        "kishanganj",
+        "araria",
+        "saharsa",
+        "supaul"
+      ],
+      "keyCharacteristics": {
+        "en": [
+          "Requires warm humid climate (>25°C, relative humidity 70-90%) and heavy rainfall (>1,400 mm)",
+          "Thrives on Khadar silty loam and Terai soils along the Kosi and Mahananda floodplains",
+          "Requires abundant flowing freshwater for retting (soaking and extracting fibre from stalks)",
+          "Purnia and Katihar house historic jute manufacturing mills and research facilities",
+          "Natural biodegradable fibre gaining renewed global prominence against single-use plastics"
+        ],
+        "hi": [
+          "गर्म आर्द्र जलवायु (>25°C, सापेक्ष आर्द्रता 70-90%) और भारी वर्षा (>1,400 मिमी) की आवश्यकता होती है",
+          "कोसी और महानंदा के बाढ़ के मैदानों में खादर गाद-युक्त दोमट और तराई मिट्टी पर फलता-फूलता है",
+          "रेटिंग (डंठल से रेशे को गलाने और निकालने) के लिए प्रचुर मात्रा में बहते मीठे पानी की आवश्यकता होती है",
+          "पूर्णिया और कटिहार में ऐतिहासिक जूट निर्माण मिलें और अनुसंधान सुविधाएं हैं",
+          "एकल-उपयोग प्लास्टिक के खिलाफ प्राकृतिक बायोडिग्रेडेबल फाइबर के रूप में वैश्विक स्तर पर पुनः महत्व प्राप्त कर रहा है"
+        ]
+      },
+      "description": {
+        "en": "The north-eastern humid corner of Bihar, known geographically as the Seemanchal tract, is India's second largest producer of golden fibre (jute). The region's high rainfall, proximity to the Bay of Bengal, and maze of perennial slow-moving rivers provide ideal conditions for both jute cultivation and water-retting. The crop provides livelihoods to hundreds of thousands of smallholder farmers across Purnia, Katihar, and Kishanganj.",
+        "hi": "बिहार का उत्तर-पूर्वी आर्द्र कोना, जिसे भौगोलिक रूप से सीमांचल क्षेत्र के रूप में जाना जाता है, सुनहरे रेशे (जूट) का भारत का दूसरा सबसे बड़ा उत्पादक है। क्षेत्र की भारी वर्षा, बंगाल की खाड़ी से निकटता, और बारहमासी धीमी गति से बहने वाली नदियों का जाल जूट की खेती और वाटर-रेटिंग दोनों के लिए आदर्श स्थिति प्रदान करता है। यह फसल पूर्णिया, कटिहार और किशनगंज के लाखों छोटे किसानों को आजीविका प्रदान करती है।"
+      },
+      "bpscRelevance": {
+        "en": "Bihar's national rank in Jute production (2nd, behind West Bengal), top jute-producing district (Purnia), and climate requirements.",
+        "hi": "जूट उत्पादन में बिहार का राष्ट्रीय स्थान (पश्चिम बंगाल के बाद दूसरा), शीर्ष जूट उत्पादक जिला (पूर्णिया), और जलवायु आवश्यकताएं।"
+      }
+    },
+    {
+      "id": "gi-tagged-horticulture-zones",
+      "name": {
+        "en": "GI-Tagged Specialty Agricultural Produce",
+        "hi": "जीआई-टैग प्राप्त विशिष्ट कृषि उत्पाद"
+      },
+      "category": {
+        "en": "Geographical Indications & Specialty Horticulture",
+        "hi": "भौगोलिक उपदर्शन (GI) एवं विशिष्ट बागवानी"
+      },
+      "products": [
+        {
+          "name": { "en": "Shahi Litchi of Muzaffarpur", "hi": "मुजफ्फरपुर की शाही लीची" },
+          "districts": ["muzaffarpur", "vaishali", "samastipur", "east-champaran"],
+          "giYear": 2018,
+          "features": {
+            "en": "Distinctive rose-fragrance, juicy pulp, sweet pulp-to-seed ratio, grown on calcareous Balsundari soils",
+            "hi": "विशिष्ट गुलाब जैसी सुगंध, रसदार गूदा, मीठा गूदा-से-बीज अनुपात, चूनायुक्त बालसुंदरी मिट्टी पर उत्पादित"
+          }
+        },
+        {
+          "name": { "en": "Mithila Makhana (Foxnut)", "hi": "मिथिला मखाना" },
+          "districts": ["darbhanga", "madhubani", "saharsa", "katihar", "purnia"],
+          "giYear": 2022,
+          "features": {
+            "en": "Aquatic cash crop harvested from stagnant ponds and chaurs; Bihar produces over 85-90% of the world's makhana",
+            "hi": "तालाबों और चौरों से काटी जाने वाली जलीय नकदी फसल; बिहार दुनिया के 85-90% से अधिक मखाना का उत्पादन करता है"
+          }
+        },
+        {
+          "name": { "en": "Zardalu Mango of Bhagalpur", "hi": "भागलपुर का जर्दालु आम" },
+          "districts": ["bhagalpur", "banka"],
+          "giYear": 2018,
+          "features": {
+            "en": "Golden-yellow skin, non-fibrous sweet creamy flesh, unique aroma, gifted annually to national and foreign dignitaries",
+            "hi": "सुनहरी-पीली त्वचा, बिना रेशे वाला मीठा मलाईदार गूदा, अनूठी सुगंध, राष्ट्रीय और विदेशी गणमान्य व्यक्तियों को प्रतिवर्ष भेंट"
+          }
+        },
+        {
+          "name": { "en": "Katarni Rice of Bhagalpur & Banka", "hi": "कतरनी चावल (भागलपुर एवं बांका)" },
+          "districts": ["bhagalpur", "banka"],
+          "giYear": 2018,
+          "features": {
+            "en": "Fine-grained, highly aromatic, soft cooked texture, ceremonial rice used in Chhath and festivals",
+            "hi": "महीन दाना, अत्यधिक सुगंधित, पकाने में मुलायम बनावट, छठ और त्योहारों में उपयोग किया जाने वाला अनुष्ठानिक चावल"
+          }
+        },
+        {
+          "name": { "en": "Magahi Paan (Betel Leaf)", "hi": "मगही पान" },
+          "districts": ["nawada", "nalanda", "gaya", "aurangabad"],
+          "giYear": 2018,
+          "features": {
+            "en": "Tender, succulent leaf that literally melts in the mouth without leaving fibrous residue; grown in specialized shaded enclosures (Bareja)",
+            "hi": "कोमल, रसदार पत्ता जो बिना रेशेदार अवशेष छोड़े मुंह में घुल जाता है; विशेष छायादार बाड़ों (बरेजा) में उगाया जाता है"
+          }
+        },
+        {
+          "name": { "en": "Marcha Rice of West Champaran", "hi": "मर्चा चावल (पश्चिमी चंपारण)" },
+          "districts": ["west-champaran"],
+          "giYear": 2023,
+          "features": {
+            "en": "Indigenous small, round aromatic paddy resembling black pepper (Marcha); famous for aromatic chura (beaten rice)",
+            "hi": "काली मिर्च (मर्चा) के समान स्वदेशी छोटा, गोल सुगंधित धान; सुगंधित चूड़ा के लिए प्रसिद्ध"
+          }
+        }
+      ],
+      "description": {
+        "en": "Bihar boasts a distinguished heritage of geographical indication (GI) agricultural produce. These specialty crops are anchored in distinct soil chemistry and micro-climates, ranging from the calcium-rich Balsundari soils creating the exquisite Shahi Litchi of Muzaffarpur, to the nutrient-rich wetland ponds of Mithila producing 90% of global Makhana, and the Himalayan foothill conditions nurturing aromatic Marcha rice.",
+        "hi": "बिहार भौगोलिक उपदर्शन (जीआई) कृषि उत्पादों की एक विशिष्ट विरासत का दावा करता है। ये विशेष फसलें अलग-अलग मिट्टी के रसायन और सूक्ष्म जलवायु पर आधारित हैं, जैसे मुजफ्फरपुर की उत्कृष्ट शाही लीची बनाने वाली कैल्शियम युक्त बालसुंदरी मिट्टी, वैश्विक मखाना का 90% उत्पादन करने वाले मिथिला के पोषक तत्वों से भरपूर आर्द्रभूमि तालाब, और सुगंधित मर्चा चावल का पोषण करने वाली हिमालयी तलहटी की परिस्थितियां।"
+      },
+      "bpscRelevance": {
+        "en": "Direct matching questions in BPSC Prelims: GI tag year and specific district associations for Shahi Litchi, Zardalu Mango, Katarni Rice, Magahi Paan, Mithila Makhana, and Marcha Rice.",
+        "hi": "BPSC प्रारंभिक परीक्षा में सीधे सुमेलन प्रश्न: शाही लीची, जर्दालु आम, कतरनी चावल, मगही पान, मिथिला मखाना और मर्चा चावल के लिए जीआई टैग वर्ष और विशिष्ट जिला संबंध।"
+      }
+    },
+    {
+      "id": "major-irrigation-systems",
+      "name": {
+        "en": "Major Canal & River Valley Irrigation Systems",
+        "hi": "प्रमुख नहर एवं नदी घाटी सिंचाई प्रणालियाँ"
+      },
+      "category": {
+        "en": "Irrigation Infrastructure",
+        "hi": "सिंचाई अवसंरचना"
+      },
+      "majorProjects": [
+        {
+          "name": { "en": "Son Canal System", "hi": "सोन नहर प्रणाली" },
+          "inceptionYear": 1874,
+          "barrage": { "en": "Indrapuri Barrage (Dehri-on-Sone)", "hi": "इंद्रपुरी बराज (डेहरी-ऑन-सोन)" },
+          "canals": {
+            "en": ["Main Western Canal (irrigates Rohtas, Bhojpur, Buxar)", "Main Eastern Canal (irrigates Aurangabad, Gaya, Jehanabad, Patna)"],
+            "hi": ["मुख्य पश्चिमी नहर (रोहतास, भोजपुर, बक्सर की सिंचाई)", "मुख्य पूर्वी नहर (औरंगाबाद, गया, जहानाबाद, पटना की सिंचाई)"]
+          },
+          "significance": {
+            "en": "Oldest modern canal irrigation system in Bihar; transformed semi-arid Shahabad into a cereal surplus granary",
+            "hi": "बिहार में सबसे पुरानी आधुनिक नहर सिंचाई प्रणाली; अर्ध-शुष्क शाहाबाद को अनाज अधिशेष वाले अन्न भंडार में बदल दिया"
+          }
+        },
+        {
+          "name": { "en": "Gandak Project", "hi": "गंडक परियोजना" },
+          "inceptionYear": 1959,
+          "barrage": { "en": "Valmikinagar Barrage (Bhainsalotan, West Champaran)", "hi": "वाल्मीकिनगर बराज (भैंसालोटन, पश्चिमी चंपारण)" },
+          "canals": {
+            "en": ["Triveni Canal", "Tirhut Canal (Main Eastern)", "Saran Canal (Main Western)"],
+            "hi": ["त्रिवेणी नहर", "तिरहुत नहर (मुख्य पूर्वी)", "सारण नहर (मुख्य पश्चिमी)"]
+          },
+          "significance": {
+            "en": "Joint project between India and Nepal irrigating Champaran, Saran, Gopalganj, Siwan, Muzaffarpur, and Vaishali",
+            "hi": "भारत और नेपाल के बीच संयुक्त परियोजना जो चंपारण, सारण, गोपालगंज, सीवान, मुजफ्फरपुर और वैशाली को सिंचित करती है"
+          }
+        },
+        {
+          "name": { "en": "Kosi Project", "hi": "कोसी परियोजना" },
+          "inceptionYear": 1954,
+          "barrage": { "en": "Bhimnagar Barrage (Birpur, Supaul)", "hi": "भीमनगर बराज (बीरपुर, सुपौल)" },
+          "canals": {
+            "en": ["Eastern Kosi Canal (Supaul, Saharsa, Madhepura, Purnia)", "Western Kosi Canal (Darbhanga, Madhubani)"],
+            "hi": ["पूर्वी कोसी नहर (सुपौल, सहरसा, मधेपुरा, पूर्णिया)", "पश्चिमी कोसी नहर (दरभंगा, मधुबनी)"]
+          },
+          "significance": {
+            "en": "Flood control, power generation, and irrigation across North-Eastern floodplains",
+            "hi": "उत्तर-पूर्वी बाढ़ के मैदानों में बाढ़ नियंत्रण, विद्युत उत्पादन और सिंचाई"
+          }
+        }
+      ],
+      "description": {
+        "en": "Canal irrigation is a foundational pillar of agriculture in Bihar, led by three mega river systems: the Son Project in the south, and the Gandak and Kosi Projects in the north. While canals provide gravity-fed irrigation to over 2.8 million hectares, private tubewells (powered by expanding rural dedicated electrical feeders) constitute over 60% of actual net irrigated area across the state.",
+        "hi": "नहर सिंचाई बिहार में कृषि का एक बुनियादी स्तंभ है, जिसका नेतृत्व तीन बड़ी नदी प्रणालियाँ करती हैं: दक्षिण में सोन परियोजना, और उत्तर में गंडक और कोसी परियोजनाएं। जबकि नहरें 28 लाख हेक्टेयर से अधिक क्षेत्र में सिंचाई प्रदान करती हैं, निजी नलकूप (समर्पित ग्रामीण बिजली फीडरों द्वारा संचालित) पूरे राज्य में वास्तविक शुद्ध सिंचित क्षेत्र के 60% से अधिक का गठन करते हैं।"
+      },
+      "bpscRelevance": {
+        "en": "Inception years (Son 1874, Kosi agreement 1954, Gandak 1959), barrage locations, and canal command areas.",
+        "hi": "शुरुआत के वर्ष (सोन 1874, कोसी समझौता 1954, गंडक 1959), बराज के स्थान, और नहर कमान क्षेत्र।"
+      }
+    }
+  ]
+}

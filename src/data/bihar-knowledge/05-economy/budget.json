@@ -1,0 +1,302 @@
+{
+  "data": [
+    {
+      "id": "budget-overview-2024-25",
+      "category": "state-budget",
+      "title": {
+        "en": "Bihar State Budget 2024–25 Overview",
+        "hi": "बिहार राज्य बजट 2024–25 का समग्र विवरण"
+      },
+      "description": {
+        "en": "### A Historic Financial Blueprint\nThe Government of Bihar presented a monumental state budget with a total expenditure outlay of ₹2,78,725.72 crore for the financial year 2024-25. This document serves as a comprehensive blueprint for the state's socio-economic trajectory.\n\n### Core Pillars\n* **Inclusive Growth:** Heavy emphasis on uplifting marginalized communities through targeted social welfare schemes.\n* **Infrastructure Expansion:** Accelerated funding for roads, bridges, and energy projects.\n* **Human Capital:** Mass public recruitment drives in education and healthcare to strengthen public service delivery.\n\n### The Vision\nOverall, the budget is strategically structured to balance rapid capital expenditure with robust fiscal consolidation.",
+        "hi": "### एक ऐतिहासिक वित्तीय खाका\nबिहार सरकार ने वित्तीय वर्ष 2024-25 के लिए ₹2,78,725.72 करोड़ के कुल व्यय परिव्यय के साथ एक स्मारकीय राज्य बजट पेश किया। यह दस्तावेज़ राज्य के सामाजिक-आर्थिक प्रक्षेपवक्र के लिए एक व्यापक ब्लूप्रिंट के रूप में कार्य करता है।\n\n### मुख्य स्तंभ\n* **समावेशी विकास:** लक्षित सामाजिक कल्याण योजनाओं के माध्यम से हाशिए के समुदायों के उत्थान पर भारी जोर।\n* **बुनियादी ढांचे का विस्तार:** सड़कों, पुलों और ऊर्जा परियोजनाओं के लिए त्वरित वित्तपोषण।\n* **मानव पूंजी:** सार्वजनिक सेवा वितरण को मजबूत करने के लिए शिक्षा और स्वास्थ्य सेवा में बड़े पैमाने पर सार्वजनिक भर्ती अभियान।\n\n### दृष्टिकोण\nकुल मिलाकर, बजट रणनीतिक रूप से मजबूत राजकोषीय समेकन के साथ तेजी से पूंजीगत व्यय को संतुलित करने के लिए संरचित है।"
+      },
+      "indicators": {
+        "fiscalYear": "2024-25",
+        "totalBudgetOutlayInCrores": 278725.72,
+        "revenueExpenditureInCrores": 225676.58,
+        "capitalExpenditureInCrores": 53049.14,
+        "revenueSurplusInCrores": 449.14
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Finance Department, Government of Bihar — Budget Speech & Annual Financial Statement 2024-25",
+        "hi": "वित्त विभाग, बिहार सरकार — बजट भाषण एवं वार्षिक वित्तीय विवरण 2024-25"
+      },
+      "relatedDistricts": [
+        "patna"
+      ]
+    },
+    {
+      "id": "revenue-receipts-and-expenditure",
+      "category": "fiscal-receipts",
+      "title": {
+        "en": "Revenue Receipts & Central Devolution",
+        "hi": "राजस्व प्राप्तियां एवं केंद्रीय कर हस्तांतरण"
+      },
+      "description": {
+        "en": "### The Revenue Architecture\nTotal revenue receipts for the fiscal year 2024-25 are ambitiously estimated at ₹2,26,125.72 crore. Bihar's fiscal health heavily relies on a balanced mix of central allocations and state-generated income.\n\n### Key Revenue Streams\n* **Central Devolution:** Strongly anchored by central tax devolution under the 15th Finance Commission awards, contributing approximately ₹1.15 lakh crore.\n* **State's Own Tax Revenue (SOTR):** Demonstrating healthy internal fiscal capacity, SOTR is projected at over ₹54,300 crore.\n* **Non-Tax Revenues:** Supplemented by grants-in-aid and state non-tax revenues.\n\n### Fiscal Stability\nThis robust revenue model ensures the state can comfortably fund its massive administrative and developmental commitments without over-leveraging.",
+        "hi": "### राजस्व वास्तुकला\nवित्तीय वर्ष 2024-25 के लिए कुल राजस्व प्राप्तियों का अनुमान महत्वाकांक्षी रूप से ₹2,26,125.72 करोड़ लगाया गया है। बिहार का राजकोषीय स्वास्थ्य केंद्रीय आवंटन और राज्य-उत्पन्न आय के संतुलित मिश्रण पर बहुत अधिक निर्भर करता है।\n\n### प्रमुख राजस्व धाराएं\n* **केंद्रीय हस्तांतरण:** 15वें वित्त आयोग की सिफारिशों के तहत केंद्रीय कर हस्तांतरण द्वारा दृढ़ता से जुड़ा हुआ है, जो लगभग ₹1.15 लाख करोड़ का योगदान देता है।\n* **राज्य का अपना कर राजस्व (SOTR):** स्वस्थ आंतरिक राजकोषीय क्षमता का प्रदर्शन करते हुए, SOTR का अनुमान ₹54,300 करोड़ से अधिक है।\n* **गैर-कर राजस्व:** अनुदान-सहायता और राज्य के गैर-कर राजस्व द्वारा पूरक।\n\n### राजकोषीय स्थिरता\nयह मजबूत राजस्व मॉडल सुनिश्चित करता है कि राज्य बिना अधिक ऋण लिए अपनी विशाल प्रशासनिक और विकासात्मक प्रतिबद्धताओं को आसानी से वित्तपोषित कर सके।"
+      },
+      "indicators": {
+        "totalRevenueReceiptsInCrores": 226125.72,
+        "shareInCentralTaxesInCrores": 115174.0,
+        "statesOwnTaxRevenueInCrores": 54300.0,
+        "grantsInAidFromCenterInCrores": 52751.0,
+        "statesNonTaxRevenueInCrores": 3900.0
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Receipts Budget 2024-25, Finance Department, Bihar",
+        "hi": "प्राप्ति बजट 2024-25, वित्त विभाग, बिहार"
+      },
+      "relatedDistricts": [
+        "patna"
+      ]
+    },
+    {
+      "id": "capital-outlay-and-asset-creation",
+      "category": "capital-expenditure",
+      "title": {
+        "en": "Capital Expenditure & Asset Creation",
+        "hi": "पूंजीगत व्यय एवं परिसंपत्ति निर्माण"
+      },
+      "description": {
+        "en": "### Investing in the Future\nCapital outlay—funds strictly dedicated to creating productive assets—in Bihar's budget stands at an impressive ₹53,049.14 crore, accounting for nearly 19% of the total state expenditure.\n\n### Major Asset Creation\n* **Physical Infrastructure:** Financing massive high-speed road corridors, robust river bridges, and extensive grid sub-stations.\n* **Social Infrastructure:** Aggressive construction of district medical colleges and modern educational facilities.\n* **Disaster Management:** Fortifying vital flood control embankments across North Bihar.\n\n### Economic Multiplier\nBy prioritizing capital expenditure, the state government triggers a powerful economic multiplier effect, creating immediate construction jobs while laying the groundwork for long-term industrialization.",
+        "hi": "### भविष्य में निवेश\nपूंजीगत परिव्यय—उत्पादक संपत्ति बनाने के लिए सख्ती से समर्पित धन—बिहार के बजट में प्रभावशाली ₹53,049.14 करोड़ है, जो कुल राज्य व्यय का लगभग 19% है।\n\n### प्रमुख संपत्ति निर्माण\n* **भौतिक बुनियादी ढांचा:** बड़े पैमाने पर हाई-स्पीड रोड कॉरिडोर, मजबूत नदी पुलों और व्यापक ग्रिड सब-स्टेशनों का वित्तपोषण।\n* **सामाजिक बुनियादी ढांचा:** जिला मेडिकल कॉलेजों और आधुनिक शैक्षणिक सुविधाओं का आक्रामक निर्माण।\n* **आपदा प्रबंधन:** उत्तर बिहार में महत्वपूर्ण बाढ़ नियंत्रण तटबंधों को मजबूत करना।\n\n### आर्थिक गुणक\nपूंजीगत व्यय को प्राथमिकता देकर, राज्य सरकार एक शक्तिशाली आर्थिक गुणक प्रभाव को ट्रिगर करती है, जो दीर्घकालिक औद्योगीकरण के लिए आधार तैयार करते हुए तत्काल निर्माण रोजगार पैदा करती है।"
+      },
+      "indicators": {
+        "capitalOutlayInCrores": 53049.14,
+        "capitalSharePercent": 19.03,
+        "keyAssetSectors": [
+          "Road Construction",
+          "Bridges",
+          "Irrigation & Flood Control",
+          "Power Transmission",
+          "Health Infrastructure",
+          "Education Facilities"
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Finance Department, Government of Bihar",
+        "hi": "वित्त विभाग, बिहार सरकार"
+      },
+      "relatedDistricts": [
+        "patna",
+        "muzaffarpur",
+        "gaya",
+        "darbhanga",
+        "bhagalpur"
+      ]
+    },
+    {
+      "id": "education-sector-allocation",
+      "category": "departmental-allocations",
+      "title": {
+        "en": "Education Sector — Highest Priority Allocation",
+        "hi": "शिक्षा क्षेत्र — सर्वोच्च प्राथमिकता आवंटन"
+      },
+      "description": {
+        "en": "### The Highest Priority\nReflecting a deep commitment to human capital development, the Education sector receives the single largest sectoral share in the Bihar budget, with a massive allocation of ₹52,639.03 crore (over 18.8% of the total budget).\n\n### Transformative Interventions\n* **Massive Recruitment:** Sustaining the unprecedented recruitment drive of over 2 lakh government school teachers through the BPSC.\n* **Student Welfare:** Fully funding essential schemes like student uniforms, bicycles (Mukhyamantri Cycle Yojana), and the PM POSHAN Mid-Day Meal program.\n* **Modernization:** Rapidly upgrading school infrastructure with digital smart classrooms across secondary schools.\n\n### Long-Term Goal\nThis heavy financial backing is fundamentally aimed at eliminating educational disparities and building a highly skilled future workforce.",
+        "hi": "### सर्वोच्च प्राथमिकता\nमानव पूंजी विकास के प्रति गहरी प्रतिबद्धता को दर्शाते हुए, बिहार के बजट में शिक्षा क्षेत्र को सबसे बड़ा क्षेत्रीय हिस्सा प्राप्त हुआ है, जिसमें ₹52,639.03 करोड़ (कुल बजट का 18.8% से अधिक) का भारी आवंटन किया गया है।\n\n### परिवर्तनकारी हस्तक्षेप\n* **बड़े पैमाने पर भर्ती:** BPSC के माध्यम से 2 लाख से अधिक सरकारी स्कूल शिक्षकों के अभूतपूर्व भर्ती अभियान को बनाए रखना।\n* **छात्र कल्याण:** छात्र वर्दी, साइकिल (मुख्यमंत्री साइकिल योजना), और पीएम पोषण मध्याह्न भोजन कार्यक्रम जैसी आवश्यक योजनाओं का पूरी तरह से वित्तपोषण।\n* **आधुनिकीकरण:** माध्यमिक विद्यालयों में डिजिटल स्मार्ट कक्षाओं के साथ स्कूल के बुनियादी ढांचे को तेजी से उन्नत करना।\n\n### दीर्घकालिक लक्ष्य\nइस भारी वित्तीय समर्थन का मूल उद्देश्य शैक्षिक विषमताओं को दूर करना और भविष्य का एक अत्यधिक कुशल कार्यबल तैयार करना है।"
+      },
+      "indicators": {
+        "allocationInCrores": 52639.03,
+        "percentageOfTotalBudget": 18.88,
+        "keyPrograms": [
+          "BPSC School Teacher Recruitment (TRE)",
+          "Mukhyamantri Balika / Balak Cycle & Poshak Yojana",
+          "Samagra Shiksha Abhiyan",
+          "Smart Classrooms in Secondary Schools",
+          "Mid-Day Meal (PM POSHAN) Scheme"
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Education Department / Finance Department, Government of Bihar",
+        "hi": "शिक्षा विभाग / वित्त विभाग, बिहार सरकार"
+      },
+      "relatedDistricts": [
+        "patna",
+        "darbhanga",
+        "purnia",
+        "gaya",
+        "rohtas"
+      ]
+    },
+    {
+      "id": "health-sector-allocation",
+      "category": "departmental-allocations",
+      "title": {
+        "en": "Health & Family Welfare Allocation",
+        "hi": "स्वास्थ्य एवं परिवार कल्याण आवंटन"
+      },
+      "description": {
+        "en": "### Strengthening Public Health\nTo ensure universal and affordable medical care, the Health Department was granted a substantial outlay of ₹16,263.63 crore for the fiscal year.\n\n### Key Healthcare Investments\n* **Medical Infrastructure:** Aggressive funding to establish modern Government Medical Colleges and Hospitals (GMCH) in every district and division.\n* **Free Medicine & Services:** Ensuring round-the-clock emergency hospital services and robust free medicine supply chains via BMSICL.\n* **Maternal Care:** Strong financial backing for institutional delivery incentives under the Janani Suraksha Yojana.\n\n### Pandemic Readiness\nThe budget also specifically factors in the continued strengthening of tele-medicine networks and critical care units to enhance resilience against future health crises.",
+        "hi": "### सार्वजनिक स्वास्थ्य को मजबूत करना\nसार्वभौमिक और सस्ती चिकित्सा देखभाल सुनिश्चित करने के लिए, स्वास्थ्य विभाग को वित्तीय वर्ष के लिए ₹16,263.63 करोड़ का पर्याप्त परिव्यय प्रदान किया गया।\n\n### प्रमुख स्वास्थ्य देखभाल निवेश\n* **चिकित्सा अवसंरचना:** प्रत्येक जिले और प्रमंडल में आधुनिक सरकारी मेडिकल कॉलेज और अस्पताल (GMCH) स्थापित करने के लिए आक्रामक वित्तपोषण।\n* **मुफ्त दवा और सेवाएं:** BMSICL के माध्यम से चौबीसों घंटे आपातकालीन अस्पताल सेवाएं और मजबूत मुफ्त दवा आपूर्ति श्रृंखला सुनिश्चित करना।\n* **मातृ देखभाल:** जननी सुरक्षा योजना के तहत संस्थागत प्रसव प्रोत्साहन के लिए मजबूत वित्तीय समर्थन।\n\n### महामारी की तैयारी\nबजट विशेष रूप से भविष्य के स्वास्थ्य संकटों के खिलाफ लचीलापन बढ़ाने के लिए टेली-मेडिसिन नेटवर्क और क्रिटिकल केयर इकाइयों के निरंतर सुदृढ़ीकरण पर भी विचार करता है।"
+      },
+      "indicators": {
+        "allocationInCrores": 16263.63,
+        "percentageOfTotalBudget": 5.83,
+        "ongoingMedicalCollegeProjects": [
+          "Bhojpur",
+          "Buxar",
+          "Sitamarhi",
+          "Begusarai",
+          "Supaul",
+          "Vaishali",
+          "Siwan",
+          "Madhubani"
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Health Department / Finance Department, Government of Bihar",
+        "hi": "स्वास्थ्य विभाग / वित्त विभाग, बिहार सरकार"
+      },
+      "relatedDistricts": [
+        "patna",
+        "bhojpur",
+        "buxar",
+        "sitamarhi",
+        "begusarai"
+      ]
+    },
+    {
+      "id": "rural-development-and-panchayati-raj",
+      "category": "departmental-allocations",
+      "title": {
+        "en": "Rural Development & Panchayati Raj Allocation",
+        "hi": "ग्रामीण विकास एवं पंचायती राज आवंटन"
+      },
+      "description": {
+        "en": "### Empowering the Grassroots\nRecognizing that Bihar's soul resides in its villages, Rural Development and Panchayati Raj (local self-governance) received a combined allocation of over ₹25,000 crore.\n\n### Core Rural Programs\n* **Women's Empowerment:** Massive capitalization and support for 'Jeevika'—the state's highly successful network of women's self-help groups.\n* **Rural Infrastructure:** Dedicated funds for the construction of Panchayat Sarkar Bhawans across all gram panchayats and ensuring all-weather road connectivity under the Mukhya Mantri Gram Sampark Yojana.\n* **Housing for All:** Substantial state contributions towards the PM Awas Yojana Gramin.\n\n### Decentralized Governance\nThese funds are critical in strengthening grassroots democracy and directly infusing capital into the rural agrarian economy.",
+        "hi": "### जमीनी स्तर को सशक्त बनाना\nयह स्वीकार करते हुए कि बिहार की आत्मा उसके गांवों में बसती है, ग्रामीण विकास और पंचायती राज (स्थानीय स्वशासन) को ₹25,000 करोड़ से अधिक का संयुक्त आवंटन प्राप्त हुआ।\n\n### मुख्य ग्रामीण कार्यक्रम\n* **महिला सशक्तिकरण:** 'जीविका' के लिए बड़े पैमाने पर पूंजीकरण और समर्थन—जो महिलाओं के स्वयं सहायता समूहों का राज्य का अत्यधिक सफल नेटवर्क है।\n* **ग्रामीण बुनियादी ढांचा:** सभी ग्राम पंचायतों में पंचायत सरकार भवन के निर्माण और मुख्यमंत्री ग्राम संपर्क योजना के तहत हर मौसम में सड़क संपर्क सुनिश्चित करने के लिए समर्पित धन।\n* **सबके लिए आवास:** पीएम आवास योजना ग्रामीण की दिशा में राज्य का पर्याप्त योगदान।\n\n### विकेंद्रीकृत शासन\nये निधियां जमीनी स्तर के लोकतंत्र को मजबूत करने और ग्रामीण कृषि अर्थव्यवस्था में सीधे पूंजी लगाने में महत्वपूर्ण हैं।"
+      },
+      "indicators": {
+        "ruralDevelopmentInCrores": 14296.0,
+        "panchayatiRajInCrores": 11025.0,
+        "focusAreas": [
+          "Jeevika SHG capitalization",
+          "Panchayat Sarkar Bhawan construction",
+          "Rural all-weather road connectivity",
+          "Livelihood cluster development"
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Rural Development Department & Panchayati Raj Department, Bihar",
+        "hi": "ग्रामीण विकास विभाग एवं पंचायती राज विभाग, बिहार"
+      },
+      "relatedDistricts": [
+        "patna",
+        "nalanda",
+        "samastipur",
+        "purnia",
+        "gaya"
+      ]
+    },
+    {
+      "id": "saat-nischay-phase-2",
+      "category": "flagship-schemes",
+      "title": {
+        "en": "Mukhya Mantri Saat Nischay Yojana – Phase 2",
+        "hi": "मुख्यमंत्री सात निश्चय योजना — द्वितीय चरण"
+      },
+      "description": {
+        "en": "### The Flagship Vision\nThe Chief Minister's visionary governance blueprint, 'Saat Nischay-2' (Seven Resolves, Phase 2: 2020–2025), is earmarked with dedicated annual outlays of over ₹5,040 crore to fast-track its implementation.\n\n### The Seven Core Missions\n* **Yuva Shakti & Sashakt Mahila:** Focusing heavily on youth upskilling and empowering women through micro-credit and education.\n* **Agriculture & Urbanization:** Ensuring 'Irrigation to Every Field' alongside developing 'Clean & Prosperous Villages' and 'Clean & Developed Cities'.\n* **Infrastructure & Health:** Expanding 'Seamless Connectivity' through rural road bypasses and guaranteeing 'Healthcare for All'.\n\n### Holistic Development\nThis targeted umbrella scheme ensures that the most pressing socio-economic issues receive uninterrupted, mission-mode funding independent of routine departmental budgets.",
+        "hi": "### प्रमुख विजन\nमुख्यमंत्री के दूरदर्शी शासन ब्लूप्रिंट, 'सात निश्चय-2' (2020-2025) के कार्यान्वयन में तेजी लाने के लिए ₹5,040 करोड़ से अधिक के समर्पित वार्षिक परिव्यय निर्धारित किए गए हैं।\n\n### सात मुख्य मिशन\n* **युवा शक्ति और सशक्त महिला:** सूक्ष्म ऋण और शिक्षा के माध्यम से युवाओं के कौशल विकास और महिलाओं को सशक्त बनाने पर भारी ध्यान।\n* **कृषि और शहरीकरण:** 'स्वच्छ और समृद्ध गांव' तथा 'स्वच्छ और विकसित शहर' विकसित करने के साथ-साथ 'हर खेत तक सिंचाई का पानी' सुनिश्चित करना।\n* **बुनियादी ढांचा और स्वास्थ्य:** ग्रामीण सड़क बाईपास के माध्यम से 'सुलभ संपर्कता' का विस्तार करना और 'सबके लिए अतिरिक्त स्वास्थ्य सुविधा' की गारंटी देना।\n\n### समग्र विकास\nयह लक्षित अम्ब्रेला योजना सुनिश्चित करती है कि सबसे गंभीर सामाजिक-आर्थिक मुद्दों को नियमित विभागीय बजट से स्वतंत्र, मिशन-मोड में निर्बाध धन प्राप्त हो।"
+      },
+      "sevenMissions": [
+        {
+          "missionNumber": 1,
+          "name": {
+            "en": "Yuva Shakti — Bihar Ki Pragati (Youth Power)",
+            "hi": "युवा शक्ति — बिहार की प्रगति"
+          }
+        },
+        {
+          "missionNumber": 2,
+          "name": {
+            "en": "Sashakt Mahila — Saksham Mahila (Empowered Women)",
+            "hi": "सशक्त महिला — सक्षम महिला"
+          }
+        },
+        {
+          "missionNumber": 3,
+          "name": {
+            "en": "Har Khet Tak Sinchai Ka Pani (Irrigation to Every Farm)",
+            "hi": "हर खेत तक सिंचाई का पानी"
+          }
+        },
+        {
+          "missionNumber": 4,
+          "name": {
+            "en": "Swachh Gaon — Samriddh Gaon (Clean & Prosperous Village)",
+            "hi": "स्वच्छ गांव — समृद्ध गांव"
+          }
+        },
+        {
+          "missionNumber": 5,
+          "name": {
+            "en": "Swachh Shahar — Viksit Shahar (Clean & Developed City)",
+            "hi": "स्वच्छ शहर — विकसित शहर"
+          }
+        },
+        {
+          "missionNumber": 6,
+          "name": {
+            "en": "Sulabh Samparkata (Accessible Connectivity)",
+            "hi": "सुलभ संपर्कता"
+          }
+        },
+        {
+          "missionNumber": 7,
+          "name": {
+            "en": "Sabke Liye Atirikt Swasthya Suvidha (Healthcare for All)",
+            "hi": "सबके लिए अतिरिक्त स्वास्थ्य सुविधा"
+          }
+        }
+      ],
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Planning and Development Department, Government of Bihar",
+        "hi": "योजना एवं विकास विभाग, बिहार सरकार"
+      },
+      "relatedDistricts": [
+        "patna",
+        "nalanda",
+        "muzaffarpur",
+        "gaya",
+        "darbhanga"
+      ]
+    },
+    {
+      "id": "fiscal-deficit-and-debt-trajectory",
+      "category": "fiscal-prudence",
+      "title": {
+        "en": "Fiscal Deficit & FRBM Compliance",
+        "hi": "राजकोषीय घाटा एवं FRBM अनुपालन"
+      },
+      "description": {
+        "en": "### Maintaining Fiscal Discipline\nDespite managing a massive developmental budget, Bihar continues to maintain stringent fiscal prudence, strictly adhering to the Fiscal Responsibility and Budget Management (FRBM) Act.\n\n### Key Fiscal Indicators\n* **Fiscal Deficit:** For 2024-25, the fiscal deficit is judiciously estimated at ₹29,095 crore, which is 2.98% of the projected GSDP—safely below the legally prescribed 3.0% limit.\n* **Revenue Surplus:** Remarkably, the state successfully projects a revenue surplus (+₹449.14 crore), meaning daily operational expenses are comfortably met by current revenues.\n\n### Debt Management\nThis meticulous financial management ensures that the state's debt trajectory remains sustainable, preventing the burdening of future generations while securing low-interest institutional loans for capital projects.",
+        "hi": "### राजकोषीय अनुशासन बनाए रखना\nएक बड़े पैमाने पर विकासात्मक बजट के प्रबंधन के बावजूद, बिहार राजकोषीय उत्तरदायित्व और बजट प्रबंधन (FRBM) अधिनियम का सख्ती से पालन करते हुए कड़ा राजकोषीय अनुशासन बनाए रखता है।\n\n### प्रमुख राजकोषीय संकेतक\n* **राजकोषीय घाटा:** 2024-25 के लिए, राजकोषीय घाटा बुद्धिमानी से ₹29,095 करोड़ अनुमानित है, जो अनुमानित GSDP का 2.98% है—जो कानूनी रूप से निर्धारित 3.0% सीमा से सुरक्षित रूप से नीचे है।\n* **राजस्व अधिशेष:** उल्लेखनीय रूप से, राज्य सफलतापूर्वक एक राजस्व अधिशेष (+₹449.14 करोड़) का अनुमान लगाता है, जिसका अर्थ है कि दैनिक परिचालन व्यय वर्तमान राजस्व द्वारा आसानी से पूरे किए जाते हैं।\n\n### ऋण प्रबंधन\nयह सूक्ष्म वित्तीय प्रबंधन सुनिश्चित करता है कि राज्य का ऋण प्रक्षेपवक्र टिकाऊ बना रहे, जो पूंजीगत परियोजनाओं के लिए कम ब्याज वाले संस्थागत ऋणों को सुरक्षित करते हुए भविष्य की पीढ़ियों पर बोझ को रोकता है।"
+      },
+      "indicators": {
+        "fiscalDeficitInCrores": 29095.0,
+        "fiscalDeficitAsPercentOfGSDP": 2.98,
+        "frbmStatutoryLimitPercent": 3.0,
+        "revenueDeficit": "Surplus (+₹449.14 crore)"
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Fiscal Policy Strategy Statement 2024-25, Finance Department, Bihar",
+        "hi": "राजकोषीय नीति रणनीति विवरण 2024-25, वित्त विभाग, बिहार"
+      },
+      "relatedDistricts": [
+        "patna"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "data": [
+    {
+      "id": "ethanol-biofuel-industry",
+      "category": "green-energy-manufacturing",
+      "title": {
+        "en": "Ethanol & Biofuels Production Industry",
+        "hi": "एथेनॉल एवं जैव ईंधन उत्पादन उद्योग"
+      },
+      "description": {
+        "en": "### A Pioneering Policy\nBihar emerged as a trailblazer by becoming the first state in India to formulate and officially notify an exclusive Ethanol Production Promotion Policy in 2021, aligning with the national biofuel transition.\n\n### Strategic Advantage\n* **Abundant Feedstock:** The state leverages its massive surplus of maize and broken rice to feed these distilleries.\n* **Modern Infrastructure:** State-of-the-art, grain-based ethanol distillation plants have been commissioned across key districts like Purnia, Gopalganj, Bhojpur, and Muzaffarpur.\n\n### National Contribution\nThese facilities play a crucial role in reducing carbon footprints and actively support India's ambitious 20% ethanol-blending mandate, while substantially boosting farmers' incomes.",
+        "hi": "### एक अग्रणी नीति\nराष्ट्रीय जैव ईंधन संक्रमण के अनुरूप, 2021 में एक विशेष एथेनॉल उत्पादन प्रोत्साहन नीति तैयार करने और आधिकारिक तौर पर अधिसूचित करने वाला भारत का पहला राज्य बनकर बिहार एक पथप्रदर्शक के रूप में उभरा।\n\n### रणनीतिक लाभ\n* **प्रचुर कच्चा माल:** राज्य इन डिस्टिलरीज को आपूर्ति करने के लिए मक्का और टूटे चावल के अपने भारी अधिशेष का लाभ उठाता है।\n* **आधुनिक बुनियादी ढांचा:** पूर्णिया, गोपालगंज, भोजपुर और मुजफ्फरपुर जैसे प्रमुख जिलों में अत्याधुनिक, अनाज-आधारित एथेनॉल आसवन संयंत्र चालू किए गए हैं।\n\n### राष्ट्रीय योगदान\nये सुविधाएं कार्बन फुटप्रिंट को कम करने में महत्वपूर्ण भूमिका निभाती हैं और भारत के महत्वाकांक्षी 20% एथेनॉल-मिश्रण लक्ष्य का सक्रिय रूप से समर्थन करती हैं, जबकि किसानों की आय में भी काफी वृद्धि करती हैं।"
+      },
+      "indicators": {
+        "policyYear": 2021,
+        "firstGrainEthanolPlant": {
+          "location": "Purnia (Parora)",
+          "capacityKLPD": 65,
+          "commissionedYear": 2022
+        },
+        "totalSanctionedCapacityKLPD": 3500,
+        "feedstocks": [
+          "Maize",
+          "Damaged Foodgrains / Broken Rice",
+          "Sugarcane Juice / Molasses"
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Department of Industries, Government of Bihar",
+        "hi": "उद्योग विभाग, बिहार सरकार"
+      },
+      "relatedDistricts": [
+        "purnia",
+        "gopalganj",
+        "bhojpur",
+        "muzaffarpur",
+        "buxar",
+        "west-champaran"
+      ]
+    },
+    {
+      "id": "food-processing-agro-industry",
+      "category": "agro-processing",
+      "title": {
+        "en": "Food Processing & Agro-Enterprises",
+        "hi": "खाद्य प्रसंस्करण एवं कृषि-उद्यम"
+      },
+      "description": {
+        "en": "### Industrial Priority\nGiven Bihar's abundant harvest of fruits, vegetables, maize, and makhana, the food processing sector has been officially designated as a top-priority industrial category.\n\n### Key Infrastructure Clusters\n* **Mega Food Parks:** Facilities like the Mega Food Park at Mansi (Khagaria) provide centralized processing capabilities.\n* **Specialized Corridors:** Establishment of makhana processing clusters in Darbhanga and Katihar, alongside cold chain corridors under the PMFME scheme.\n\n### Economic Impact\nThese initiatives are systematically curbing post-harvest losses, increasing the shelf life of perishables, and integrating local farmers directly with global food supply chains.",
+        "hi": "### औद्योगिक प्राथमिकता\nफलों, सब्जियों, मक्का और मखाना की प्रचुर पैदावार को देखते हुए, खाद्य प्रसंस्करण क्षेत्र को आधिकारिक तौर पर सर्वोच्च प्राथमिकता वाली औद्योगिक श्रेणी के रूप में नामित किया गया है।\n\n### प्रमुख बुनियादी ढांचा क्लस्टर\n* **मेगा फूड पार्क:** मानसी (खगड़िया) में मेगा फूड पार्क जैसी सुविधाएं केंद्रीकृत प्रसंस्करण क्षमता प्रदान करती हैं।\n* **विशिष्ट गलियारे:** पीएमएफएमई (PMFME) योजना के तहत कोल्ड चेन कॉरिडोर के साथ-साथ दरभंगा और कटिहार में मखाना प्रसंस्करण क्लस्टर की स्थापना।\n\n### आर्थिक प्रभाव\nये पहलें व्यवस्थित रूप से फसल कटाई के बाद के नुकसान को रोक रही हैं, खराब होने वाले उत्पादों की शेल्फ लाइफ बढ़ा रही हैं, और स्थानीय किसानों को सीधे वैश्विक खाद्य आपूर्ति श्रृंखलाओं के साथ जोड़ रही हैं।"
+      },
+      "indicators": {
+        "priorityStatus": "High Priority Sector",
+        "majorClusters": [
+          {
+            "commodity": "Makhana",
+            "districts": [
+              "darbhanga",
+              "madhubani",
+              "katihar",
+              "purnia"
+            ]
+          },
+          {
+            "commodity": "Maize & Starch",
+            "districts": [
+              "purnia",
+              "khagaria",
+              "begusarai"
+            ]
+          },
+          {
+            "commodity": "Litchi Processing",
+            "districts": [
+              "muzaffarpur",
+              "vaishali"
+            ]
+          },
+          {
+            "commodity": "Rice & Flour Mills",
+            "districts": [
+              "rohtas",
+              "kaimur",
+              "buxar"
+            ]
+          }
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Department of Industries, Government of Bihar / MoFPI",
+        "hi": "उद्योग विभाग, बिहार सरकार / खाद्य प्रसंस्करण उद्योग मंत्रालय"
+      },
+      "relatedDistricts": [
+        "khagaria",
+        "purnia",
+        "darbhanga",
+        "muzaffarpur",
+        "rohtas"
+      ]
+    },
+    {
+      "id": "bhagalpur-tussar-silk",
+      "category": "textiles-and-handloom",
+      "title": {
+        "en": "Bhagalpur Silk — The Silk City Heritage",
+        "hi": "भागलपुर सिल्क — सिल्क सिटी की ऐतिहासिक विरासत"
+      },
+      "description": {
+        "en": "### The Silk Heritage\nBhagalpur, famously celebrated as the 'Silk City' of India, harbors a rich handloom weaving legacy that spans over two illustrious centuries, forming the core of its cultural identity.\n\n### Traditional Craftsmanship\n* **Distinct Varieties:** The region is globally renowned for producing exquisite indigenous Tussar, Matka, Bafta, and Eri silks.\n* **Artisan Hubs:** The traditional weaving clusters of Nathnagar and Champanagar collectively employ over 30,000 artisan households.\n\n### Global Footprint\nThe eco-friendly, distinctively textured wild silk fabrics woven here are highly sought after by fashion houses and are exported globally across the US, Europe, and the Middle East.",
+        "hi": "### रेशम की विरासत\nभारत की 'सिल्क सिटी' के रूप में प्रसिद्ध भागलपुर, एक समृद्ध हथकरघा बुनाई विरासत का घर है जो दो शानदार शताब्दियों से अधिक पुरानी है, जो इसकी सांस्कृतिक पहचान का मूल है।\n\n### पारंपरिक शिल्प कौशल\n* **विशिष्ट किस्में:** यह क्षेत्र उत्कृष्ट स्वदेशी टसर, मटका, बाफ्ता और एरी सिल्क के उत्पादन के लिए विश्व स्तर पर प्रसिद्ध है।\n* **कारीगर हब:** नाथनगर और चंपानगर के पारंपरिक बुनाई क्लस्टर सामूहिक रूप से 30,000 से अधिक कारीगर परिवारों को रोजगार देते हैं।\n\n### वैश्विक पदचिह्न\nयहां बुने गए पर्यावरण के अनुकूल, विशिष्ट बनावट वाले जंगली रेशम के कपड़े फैशन हाउस द्वारा अत्यधिक मांग में हैं और इन्हें वैश्विक स्तर पर अमेरिका, यूरोप और मध्य पूर्व में निर्यात किया जाता है।"
+      },
+      "indicators": {
+        "giTagRegistered": true,
+        "giName": "Bhagalpur Silk",
+        "activeHandlooms": 25000,
+        "primaryClusters": [
+          "Nathnagar",
+          "Champanagar",
+          "Puraini",
+          "Kharik"
+        ],
+        "exportDestinations": [
+          "United States",
+          "European Union",
+          "Japan",
+          "Middle East"
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Handloom & Sericulture Directorate, Department of Industries, Bihar",
+        "hi": "हथकरघा एवं रेशम निदेशालय, उद्योग विभाग, बिहार"
+      },
+      "relatedDistricts": [
+        "bhagalpur",
+        "banka"
+      ]
+    },
+    {
+      "id": "textiles-leather-muzaffarpur",
+      "category": "textiles-and-apparel",
+      "title": {
+        "en": "Textile, Garment & Leather Hubs",
+        "hi": "वस्त्र, परिधान एवं चमड़ा हब"
+      },
+      "description": {
+        "en": "### Industrial Revival\nFueled by the progressive Bihar Textile & Leather Policy 2022, the state is witnessing a rapid industrial renaissance, particularly in ready-made garment and leather manufacturing.\n\n### Flagship Manufacturing Zones\n* **Bela Industrial Area (Muzaffarpur):** Modern garment and bag manufacturing clusters have taken root here, aggressively producing millions of school bags and high-grade export garments.\n* **Chanpatia Startup Zone (West Champaran):** Emerged as a celebrated national model where returnee migrant artisans successfully established dynamic, localized textile manufacturing units.\n\n### Employment Generation\nThis sector is acting as a massive employment multiplier, offering lucrative jobs locally and reversing traditional migration trends.",
+        "hi": "### औद्योगिक पुनरुद्धार\nप्रगतिशील बिहार वस्त्र एवं चमड़ा नीति 2022 से प्रेरित होकर, राज्य विशेष रूप से रेडीमेड परिधान और चमड़ा निर्माण में तेजी से औद्योगिक पुनर्जागरण का गवाह बन रहा है।\n\n### प्रमुख विनिर्माण क्षेत्र\n* **बेला औद्योगिक क्षेत्र (मुजफ्फरपुर):** आधुनिक परिधान और बैग निर्माण क्लस्टर यहां स्थापित हुए हैं, जो आक्रामक रूप से लाखों स्कूल बैग और उच्च-स्तरीय निर्यात वस्त्रों का उत्पादन कर रहे हैं।\n* **चनपटिया स्टार्टअप जोन (पश्चिमी चंपारण):** एक प्रसिद्ध राष्ट्रीय मॉडल के रूप में उभरा, जहां वापस लौटे प्रवासी कारीगरों ने सफलतापूर्वक गतिशील, स्थानीय वस्त्र निर्माण इकाइयां स्थापित कीं।\n\n### रोजगार सृजन\nयह क्षेत्र एक बड़े रोजगार गुणक के रूप में कार्य कर रहा है, जो स्थानीय स्तर पर आकर्षक नौकरियां प्रदान कर रहा है और पारंपरिक प्रवास की प्रवृत्तियों को उलट रहा है।"
+      },
+      "indicators": {
+        "policyYear": 2022,
+        "capitalSubsidyPercent": 15,
+        "employmentSubsidyPerWorkerMonthlyINR": 5000,
+        "flagshipHubs": [
+          {
+            "hub": "Bela Industrial Area (Muzaffarpur)",
+            "focus": "Garments, Bags & Footwear"
+          },
+          {
+            "hub": "Chanpatia Startup Zone (West Champaran)",
+            "focus": "Apparel, Kurtis, Winterwear & Footwear"
+          }
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Department of Industries, Government of Bihar",
+        "hi": "उद्योग विभाग, बिहार सरकार"
+      },
+      "relatedDistricts": [
+        "muzaffarpur",
+        "west-champaran",
+        "patna"
+      ]
+    },
+    {
+      "id": "barauni-petrochemical-fertilizer-hub",
+      "category": "heavy-industry",
+      "title": {
+        "en": "Barauni Industrial Complex — Petroleum, Fertilizer & Power",
+        "hi": "बरौनी औद्योगिक परिसर — पेट्रोलियम, उर्वरक एवं विद्युत"
+      },
+      "description": {
+        "en": "### The Heavy Industry Anchor\nBegusarai rightly holds the title of the 'Industrial Capital of Bihar', a status firmly anchored by the colossal Barauni Industrial Complex that houses critical heavy industries.\n\n### Key Establishments\n* **Petroleum Refining:** The Indian Oil Corporation Ltd. (IOCL) Barauni Refinery, currently undergoing massive expansion to 9 MMTPA alongside new petrochemical units.\n* **Fertilizer Production:** The successful revival of the Hindustan Urvarak & Rasayan Ltd. (HURL) gas-based urea plant, securing regional fertilizer supplies.\n* **Power Generation:** Supported by the robust Barauni Thermal Power Station.\n\n### Economic Significance\nThis complex drives significant auxiliary industrial growth, secures regional energy and agricultural needs, and serves as a major revenue generator for the state.",
+        "hi": "### भारी उद्योग का आधार\nबेगूसराय को सही मायने में 'बिहार की औद्योगिक राजधानी' का खिताब प्राप्त है, यह दर्जा विशाल बरौनी औद्योगिक परिसर द्वारा दृढ़ता से स्थापित है जिसमें महत्वपूर्ण भारी उद्योग स्थित हैं।\n\n### प्रमुख प्रतिष्ठान\n* **पेट्रोलियम रिफाइनिंग:** इंडियन ऑयल कॉर्पोरेशन लिमिटेड (IOCL) बरौनी रिफाइनरी, जिसका वर्तमान में नई पेट्रोकेमिकल इकाइयों के साथ 9 MMTPA तक भारी विस्तार किया जा रहा है।\n* **उर्वरक उत्पादन:** क्षेत्रीय उर्वरक आपूर्ति सुनिश्चित करने वाले हिंदुस्तान उर्वरक एवं रसायन लिमिटेड (HURL) गैस-आधारित यूरिया संयंत्र का सफल पुनरुद्धार।\n* **विद्युत उत्पादन:** मजबूत बरौनी थर्मल पावर स्टेशन द्वारा समर्थित।\n\n### आर्थिक महत्व\nयह परिसर महत्वपूर्ण सहायक औद्योगिक विकास को गति देता है, क्षेत्रीय ऊर्जा और कृषि आवश्यकताओं को सुरक्षित करता है, और राज्य के लिए एक प्रमुख राजस्व जनरेटर के रूप में कार्य करता है।"
+      },
+      "indicators": {
+        "refineryCapacityMMTPA": 9.0,
+        "fertilizerPlantInvestmentInCrores": 9500,
+        "fertilizerOutputMetricTonnesPerDay": 3850,
+        "ureaType": "Neem Coated Urea"
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Ministry of Petroleum & Natural Gas / Ministry of Chemicals & Fertilizers, GoI",
+        "hi": "पेट्रोलियम एवं प्राकृतिक गैस मंत्रालय / रसायन एवं उर्वरक मंत्रालय, भारत सरकार"
+      },
+      "relatedDistricts": [
+        "begusarai"
+      ]
+    },
+    {
+      "id": "biada-industrial-estates",
+      "category": "industrial-infrastructure",
+      "title": {
+        "en": "BIADA — Industrial Parks & Plug-and-Play Infrastructure",
+        "hi": "बियाडा (BIADA) — औद्योगिक पार्क एवं प्लग-एंड-प्ले इंफ्रास्ट्रक्चर"
+      },
+      "description": {
+        "en": "### Industrial Infrastructure Network\nThe Bihar Industrial Area Development Authority (BIADA) plays a pivotal role by administering over 70 structured industrial areas grouped across the regional clusters of Patna, Darbhanga, Muzaffarpur, and Bhagalpur.\n\n### Plug-and-Play Facilities\n* **Ready-to-Move Sheds:** To aggressively cut down setup times, BIADA has introduced pre-constructed 'Plug-and-Play' industrial sheds.\n* **Integrated Utilities:** These facilities come equipped with immediate electrical, water, and effluent treatment connections, allowing investors to commence manufacturing instantly.\n\n### Promoting MSMEs\nBy drastically reducing initial capital expenditure and bureaucratic friction, BIADA's estates are highly attractive to MSMEs and large corporate investors alike.",
+        "hi": "### औद्योगिक बुनियादी ढांचा नेटवर्क\nबिहार औद्योगिक क्षेत्र विकास प्राधिकरण (बियाडा) पटना, दरभंगा, मुजफ्फरपुर और भागलपुर के क्षेत्रीय क्लस्टरों में समूहीकृत 70 से अधिक संरचित औद्योगिक क्षेत्रों का प्रशासन करके एक महत्वपूर्ण भूमिका निभाता है।\n\n### प्लग-एंड-प्ले सुविधाएं\n* **तैयार शेड:** सेटअप समय को आक्रामक रूप से कम करने के लिए, बियाडा ने पूर्व-निर्मित 'प्लग-एंड-प्ले' औद्योगिक शेड पेश किए हैं।\n* **एकीकृत उपयोगिताएँ:** ये सुविधाएं तत्काल बिजली, पानी और अपशिष्ट उपचार कनेक्शन से सुसज्जित हैं, जिससे निवेशक तुरंत विनिर्माण शुरू कर सकते हैं।\n\n### MSME को बढ़ावा देना\nप्रारंभिक पूंजीगत व्यय और नौकरशाही बाधाओं को काफी कम करके, बियाडा के औद्योगिक एस्टेट MSME और बड़े कॉर्पोरेट निवेशकों दोनों के लिए अत्यधिक आकर्षक हैं।"
+      },
+      "indicators": {
+        "totalIndustrialEstates": 74,
+        "totalLandBankAcres": 14000,
+        "plugAndPlayShedAreaSqFt": 2500000,
+        "keyIndustrialParks": [
+          "Patliputra (Patna)",
+          "Fatuha (Patna)",
+          "Hajipur (Vaishali)",
+          "Bela (Muzaffarpur)",
+          "Barun (Aurangabad)",
+          "Kumarbagh (West Champaran)"
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Bihar Industrial Area Development Authority (BIADA)",
+        "hi": "बिहार औद्योगिक क्षेत्र विकास प्राधिकरण (बियाडा)"
+      },
+      "relatedDistricts": [
+        "patna",
+        "vaishali",
+        "muzaffarpur",
+        "aurangabad",
+        "west-champaran"
+      ]
+    },
+    {
+      "id": "bihar-industrial-policy-biipp",
+      "category": "industrial-policy",
+      "title": {
+        "en": "Bihar Industrial Investment Promotion Policy (BIIPP)",
+        "hi": "बिहार औद्योगिक निवेश प्रोत्साहन नीति (BIIPP)"
+      },
+      "description": {
+        "en": "### Investor-Friendly Framework\nThe Bihar Industrial Investment Promotion Policy (BIIPP) constitutes a highly attractive and transparent investor-friendly policy architecture, designed to position Bihar as a preferred manufacturing destination.\n\n### Core Incentives\n* **Financial Assistance:** Offers substantial capital investment subsidies and stamp duty exemptions for acquiring industrial land.\n* **Tax Reimbursements:** Provides 100% net SGST reimbursement for up to 5 years, along with attractive electricity tariff subsidies.\n* **Inclusive Growth:** Special patent registration incentives with strict priority processing for women, SC/ST, and Economically Backward Class (EBC) entrepreneurs.\n\n### Broad Vision\nThis comprehensive policy ecosystem aims to derisk investments, encourage formalization, and stimulate both domestic and foreign direct investments across priority sectors.",
+        "hi": "### निवेशक-अनुकूल ढांचा\nबिहार औद्योगिक निवेश प्रोत्साहन नीति (BIIPP) एक अत्यधिक आकर्षक और पारदर्शी निवेशक-अनुकूल नीतिगत ढांचे का गठन करती है, जिसे बिहार को एक पसंदीदा विनिर्माण गंतव्य के रूप में स्थापित करने के लिए डिज़ाइन किया गया है।\n\n### मुख्य प्रोत्साहन\n* **वित्तीय सहायता:** औद्योगिक भूमि अधिग्रहण के लिए पर्याप्त पूंजीगत निवेश सब्सिडी और स्टांप शुल्क में छूट प्रदान करती है।\n* **कर प्रतिपूर्ति:** आकर्षक बिजली शुल्क सब्सिडी के साथ 5 वर्षों तक 100% शुद्ध SGST प्रतिपूर्ति प्रदान करती है।\n* **समावेशी विकास:** महिला, SC/ST और आर्थिक रूप से पिछड़े वर्ग (EBC) के उद्यमियों के लिए सख्त प्राथमिकता प्रसंस्करण के साथ विशेष पेटेंट पंजीकरण प्रोत्साहन।\n\n### व्यापक दृष्टिकोण\nइस व्यापक नीति पारिस्थितिकी तंत्र का उद्देश्य निवेश को जोखिम मुक्त करना, औपचारिकीकरण को प्रोत्साहित करना और प्राथमिकता वाले क्षेत्रों में घरेलू और प्रत्यक्ष विदेशी निवेश दोनों को प्रोत्साहित करना है।"
+      },
+      "indicators": {
+        "capitalSubsidyLimitInCrores": 5.0,
+        "sgstReimbursementDurationYears": 5,
+        "prioritySectors": [
+          "Food Processing",
+          "Textiles & Leather",
+          "Ethanol & Biofuels",
+          "IT & Electronics System Design",
+          "Renewable Energy",
+          "General Manufacturing"
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Department of Industries, Government of Bihar",
+        "hi": "उद्योग विभाग, बिहार सरकार"
+      },
+      "relatedDistricts": [
+        "patna",
+        "begusarai",
+        "muzaffarpur",
+        "gaya"
+      ]
+    },
+    {
+      "id": "tourism-hospitality-industry",
+      "category": "service-industry",
+      "title": {
+        "en": "Tourism & Hospitality Economy",
+        "hi": "पर्यटन एवं आतिथ्य अर्थव्यवस्था"
+      },
+      "description": {
+        "en": "### An Economic Pillar\nTourism, deeply rooted in historical and spiritual heritage, is a massive employment generator and a vital pillar of Bihar's service economy, anchored by globally renowned pilgrim tourist circuits.\n\n### Diverse Tourist Circuits\n* **The Buddhist Circuit:** Sites like Bodh Gaya, Nalanda, Rajgir, and Vaishali draw millions of international travelers, particularly from East and Southeast Asia.\n* **Other Spiritual Trails:** The state also actively promotes the Jain Circuit (Pavapuri, Champapuri), Ramayan Circuit (Sitamarhi, Buxar), Sufi Circuit (Maner Sharif), and Sikh Circuit (Takht Sri Patna Sahib).\n\n### Hospitality Ecosystem\nThis continuous influx of tourists fosters extensive growth in the hospitality sector, stimulating demand for hotels, transportation networks, guide services, and local handicrafts.",
+        "hi": "### एक आर्थिक स्तंभ\nऐतिहासिक और आध्यात्मिक विरासत में गहराई से निहित पर्यटन, एक विशाल रोजगार सृजक है और विश्व स्तर पर प्रसिद्ध तीर्थ पर्यटन सर्किट द्वारा लंगर डाले हुए बिहार की सेवा अर्थव्यवस्था का एक महत्वपूर्ण स्तंभ है।\n\n### विविध पर्यटन सर्किट\n* **बौद्ध सर्किट:** बोधगया, नालंदा, राजगीर और वैशाली जैसे स्थल लाखों अंतरराष्ट्रीय यात्रियों को आकर्षित करते हैं, विशेष रूप से पूर्व और दक्षिण पूर्व एशिया से।\n* **अन्य आध्यात्मिक मार्ग:** राज्य सक्रिय रूप से जैन सर्किट (पावापुरी, चंपापुरी), रामायण सर्किट (सीतामढ़ी, बक्सर), सूफी सर्किट (मनेर शरीफ), और सिख सर्किट (तख्त श्री पटना साहिब) को भी बढ़ावा देता है।\n\n### आतिथ्य पारिस्थितिकी तंत्र\nपर्यटकों की यह निरंतर आमद आतिथ्य क्षेत्र में व्यापक विकास को बढ़ावा देती है, जिससे होटल, परिवहन नेटवर्क, गाइड सेवाओं और स्थानीय हस्तशिल्प की मांग को प्रोत्साहन मिलता है।"
+      },
+      "indicators": {
+        "annualTouristsInCrores": 8.2,
+        "unescoWorldHeritageSites": [
+          {
+            "name": {
+              "en": "Mahabodhi Temple Complex",
+              "hi": "महाबोधि मंदिर परिसर"
+            },
+            "district": "gaya",
+            "year": 2002
+          },
+          {
+            "name": {
+              "en": "Archaeological Site of Nalanda Mahavihara",
+              "hi": "नालंदा महाविहार का पुरातत्व स्थल"
+            },
+            "district": "nalanda",
+            "year": 2016
+          }
+        ],
+        "majorCircuits": [
+          "Buddhist Circuit",
+          "Jain Circuit",
+          "Ramayan Circuit",
+          "Sufi Circuit",
+          "Sikh Circuit",
+          "Eco-Tourism Circuit"
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Department of Tourism, Government of Bihar",
+        "hi": "पर्यटन विभाग, बिहार सरकार"
+      },
+      "relatedDistricts": [
+        "gaya",
+        "nalanda",
+        "vaishali",
+        "patna",
+        "sitamarhi",
+        "buxar",
+        "west-champaran"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,755 @@
+[
+  {
+    "id": "golghar",
+    "slug": "golghar",
+    "name": {
+      "en": "Golghar",
+      "hi": "गोलघर"
+    },
+    "districtId": "patna",
+    "placeType": "monument",
+    "primaryCategory": "heritage",
+    "categories": [
+      "heritage",
+      "history",
+      "architectural",
+      "scenic"
+    ],
+    "subcategories": [
+      "colonial",
+      "monument",
+      "viewpoint"
+    ],
+    "circuits": [
+      "heritage-circuit"
+    ],
+    "tags": [
+      "popular",
+      "featured",
+      "history_lovers",
+      "photography",
+      "sunset"
+    ],
+    "audiences": [
+      "families",
+      "children",
+      "history_lovers",
+      "photography",
+      "international_travelers"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "A massive granary built by the British in 1786, offering a panoramic view of Patna and the river Ganga.",
+      "hi": "1786 में अंग्रेजों द्वारा बनाया गया एक विशाल अन्नागार, जहाँ से पटना और गंगा नदी का विहंगम दृश्य दिखाई देता है।"
+    },
+    "description": {
+      "en": "The **Golghar** is a massive, beehive-shaped granary located in Patna, built by **Captain John Garstin** of the Bengal Engineers in **1786**.\n\nConstructed in the aftermath of the devastating famine of 1770, it was engineered as a state granary to store up to **137,000 tons** of grain for the British army.\n\n**Key Architectural Features:**\n- **Pillar-less Architecture**: A massive dome-like structure built without internal pillars, designed to withstand immense lateral pressure.\n- **Spiral Stairways**: Two spiraling flights of **145 steps** wrap around the outside, allowing grain carriers to ascend one side and descend the other.\n- **Panoramic Ganga View**: The summit offers a breathtaking, uninterrupted 360-degree vista of Patna city and the majestic **River Ganga**.",
+      "hi": "**गोलघर** पटना के मध्य में स्थित मधुमक्खी के छत्ते के आकार का एक विशाल अन्नागार (अनाज भंडार) है, जिसे **1786** में बंगाल इंजीनियर्स के **कैप्टन जॉन गारस्टिन** द्वारा बनवाया गया था।\n\n1770 के विनाशकारी अकाल के बाद ब्रिटिश सेना के लिए अनाज सुरक्षित रखने हेतु इस विशाल भंडार का निर्माण किया गया था, जिसकी भंडारण क्षमता लगभग **1,37,000 टन** थी।\n\n**प्रमुख स्थापत्य विशेषताएं:**\n- **स्तंभ-विहीन वास्तुकला**: बिना किसी आंतरिक खंभे के निर्मित एक विशाल गुंबदाकार संरचना, जिसे भारी अनाज के दबाव को सहने के लिए डिज़ाइन किया गया था।\n- **दोहरी घुमावदार सीढ़ियाँ**: बाहरी दीवार पर **145 सीढ़ियों** के दो घुमावदार मार्ग हैं, जिससे अनाज वाहक एक तरफ से चढ़ सकें और दूसरी तरफ से उतर सकें।\n- **विहंगम गंगा दर्शन**: शीर्ष पर पहुँचने पर पूरे पटना शहर और पवित्र **गंगा नदी** का 360-डिग्री मनमोहक विहंगम दृश्य दिखाई देता है।"
+    },
+    "history": {
+      "en": "Following the catastrophic **Famine of 1770**, which wiped out nearly a third of the population in the Bengal and Bihar regions, Governor-General **Warren Hastings** ordered the construction of this granary.\n\n**Historical Insights:**\n- **Architectural Paradox**: The granary's doors were designed to open inward. Had it ever been filled to its maximum capacity, the immense internal pressure would have prevented the doors from being opened from the outside.\n- **Colonial Legacy**: While rarely utilized to its full storage potential, it stands today as an enduring symbol of 18th-century British civil engineering in Bihar.",
+      "hi": "**1770 के विनाशकारी अकाल** के बाद, जिसने बंगाल और बिहार की लगभग एक-तिहाई आबादी को समाप्त कर दिया था, गवर्नर-जनरल **वारेन हेस्टिंग्स** ने इस विशाल अन्नागार के निर्माण का आदेश दिया था।\n\n**ऐतिहासिक रोचक तथ्य:**\n- **दरवाजों की डिज़ाइन भूल**: गोलघर के दरवाजे अंदर की ओर खुलने के लिए बनाए गए थे। यदि इसे कभी इसकी अधिकतम क्षमता तक भर दिया जाता, तो दरवाजों को बाहर से खोलना असंभव हो जाता।\n- **औपनिवेशिक धरोहर**: यद्यपि इसका उपयोग कभी पूरी क्षमता से नहीं किया गया, फिर भी यह बिहार में 18वीं शताब्दी के औपनिवेशिक काल की इंजीनियरिंग के एक स्थायी प्रतीक के रूप में शान से खड़ा है।"
+    },
+    "significance": {
+      "en": "An iconic landmark of Patna representing colonial-era history and architectural ingenuity:\n\n- **Pillarless Dome Engineering**: A celebrated early example of self-supporting dome architecture in India.\n- **Historic Memorial**: An enduring reminder of the severe 1770 famine and colonial administrative response.\n- **Panoramic Landmark**: One of the capital's most visited heritage viewpoints, offering panoramic vistas over the Ganges.",
+      "hi": "औपनिवेशिक इतिहास और अद्वितीय स्थापत्य कौशल का प्रतिनिधित्व करने वाला पटना का एक प्रतिष्ठित प्रतीक:\n\n- **स्तंभ-विहीन इंजीनियरिंग**: भारत में बिना किसी आंतरिक स्तंभ के बनी स्व-सहायक गुंबद वास्तुकला का ऐतिहासिक उदाहरण।\n- **ऐतिहासिक स्मारक**: 1770 के भीषण अकाल और औपनिवेशिक प्रशासनिक इतिहास का एक जीवंत साक्ष्य।\n- **राजधानी का प्रमुख दर्शन स्थल**: पटना का सर्वाधिक लोकप्रिय हेरिटेज स्थल, जहाँ से पवित्र गंगा नदी का विहंगम दृश्य दिखाई देता है।"
+    },
+    "location": {
+      "address": {
+        "en": "Ashok Rajpath, Chhajju Bagh, Patna, Bihar 800001",
+        "hi": "अशोक राजपथ, छज्जू बाग, पटना, बिहार 800001"
+      },
+      "latitude": 25.6212,
+      "longitude": 85.1374,
+      "mapQuery": "Golghar, Patna, Bihar"
+    },
+    "visitingInfo": {
+      "entryFee": {
+        "amount": 10,
+        "currency": "INR",
+        "type": "standard"
+      },
+      "recommendedDurationMinutes": 60,
+      "bestTimeToVisit": {
+        "en": "October to March, particularly during sunset.",
+        "hi": "अक्टूबर से मार्च, विशेष रूप से सूर्यास्त के समय।"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Centrally located on Ashok Rajpath, easily accessible by auto-rickshaws, cabs, or private vehicles from anywhere in Patna.",
+        "hi": "अशोक राजपथ पर केंद्र में स्थित, पटना में कहीं से भी ऑटो-रिक्शा, कैब या निजी वाहनों द्वारा आसानी से पहुँचा जा सकता है।"
+      },
+      "localTransport": {
+        "en": "E-rickshaws and auto-rickshaws are readily available throughout the city.",
+        "hi": "पूरे शहर में ई-रिक्शा और ऑटो-रिक्शा आसानी से उपलब्ध हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 10,
+        "max": 20,
+        "currency": "INR",
+        "note": {
+          "en": "Nominal entry fee.",
+          "hi": "नाममात्र प्रवेश शुल्क।"
+        }
+      },
+      "localTransport": {
+        "min": 50,
+        "max": 150,
+        "currency": "INR",
+        "note": {
+          "en": "Depends on distance within Patna.",
+          "hi": "पटना के भीतर दूरी पर निर्भर करता है।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": false,
+      "accommodation": false,
+      "atm": false,
+      "medical": false
+    },
+    "accessibility": {
+      "difficulty": "moderate",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 200,
+      "stairs": true,
+      "wheelchairAccessible": false,
+      "suitableForChildren": true,
+      "suitableForElderly": false
+    },
+    "travelTips": [
+      {
+        "en": "Climbing the 145 stairs requires physical stamina; it may not be suitable for the elderly or those with heart conditions.",
+        "hi": "145 सीढ़ियां चढ़ने के लिए शारीरिक क्षमता की आवश्यकता होती है; यह बुजुर्गों या हृदय रोगियों के लिए उपयुक्त नहीं हो सकता है।"
+      },
+      {
+        "en": "Visit during the late afternoon to enjoy a beautiful sunset view over the Ganga.",
+        "hi": "गंगा के ऊपर खूबसूरत सूर्यास्त का आनंद लेने के लिए देर दोपहर के दौरान आएं।"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-18"
+    },
+    "status": "published",
+    "updatedAt": "2026-09-18",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "takht-sri-patna-sahib",
+    "slug": "takht-sri-patna-sahib",
+    "name": {
+      "en": "Takht Sri Patna Sahib",
+      "hi": "तख्त श्री पटना साहिब"
+    },
+    "districtId": "patna",
+    "placeType": "temple",
+    "primaryCategory": "religious",
+    "categories": [
+      "religious",
+      "heritage",
+      "history"
+    ],
+    "subcategories": [
+      "gurdwara",
+      "pilgrimage"
+    ],
+    "religions": [
+      "sikhism"
+    ],
+    "circuits": [
+      "sikh-circuit",
+      "sikh_circuit"
+    ],
+    "tags": [
+      "popular",
+      "spiritual",
+      "peaceful",
+      "history_lovers"
+    ],
+    "audiences": [
+      "families",
+      "pilgrims",
+      "history_lovers",
+      "international_travelers"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "A majestic Gurdwara marking the birthplace of Guru Gobind Singh Ji, the tenth Sikh Guru.",
+      "hi": "सिखों के दसवें गुरु, गुरु गोबिंद सिंह जी के जन्मस्थान को चिह्नित करने वाला एक राजसी गुरुद्वारा।"
+    },
+    "description": {
+      "en": "**Takht Sri Patna Sahib** (also known as **Harmandir Sahib**) is one of the five sacred Takhts (Thrones of Authority) in Sikhism, located in the historic old quarters of Patna along the banks of the Ganges.\n\nBuilt to commemorate the birthplace of **Guru Gobind Singh Ji**, the tenth Sikh Guru who was born here in **1666**, this grand gurdwara is an architectural masterpiece crafted from pristine white marble with gleaming golden domes and intricate inlay work.\n\n**Sacred Relics & Highlights:**\n- **Sacred Relics**: Preserves the infant cradle (*Panghura*), personal weapons, sacred arrows, and the holy sword (*Khanda*) of Guru Gobind Singh Ji.\n- **Holy Scriptures**: Houses historic copies of the Guru Granth Sahib bearing the sacred handwritten signature of the tenth Guru.\n- **Guru Ka Langar**: Serves hot, freshly prepared vegetarian meals daily to all pilgrims and visitors without distinction of caste or creed.",
+      "hi": "**तख्त श्री पटना साहिब** (गुरुद्वारा हरमंदिर साहिब) सिख धर्म के पांच पवित्र तख्तों (सर्वोच्च धार्मिक आसनों) में से एक है, जो पटना के ऐतिहासिक पुराने क्षेत्र में गंगा तट के निकट स्थित है।\n\nयह सिखों के दसवें गुरु, **गुरु गोबिंद सिंह जी** की पावन जन्मस्थली है, जिनका जन्म यहाँ **1666** में हुआ था। यह भव्य गुरुद्वारा श्वेत संगमरमर, सुनहरे गुंबदों और नक्काशीदार कलाकृतियों से सुसज्जित एक दर्शनीय और परम पावन स्थल है।\n\n**पवित्र अवशेष और प्रमुख आकर्षण:**\n- **पावन अवशेष**: गुरु गोबिंद सिंह जी का बाल्यकाल का सोने का पालना (*पंगूड़ा*), उनके व्यक्तिगत अस्त्र-शस्त्र, पवित्र बाण और उनकी ऐतिहासिक तलवार (*खांडा*)।\n- **हस्तलिखित पांडुलिपियां**: गुरु गोबिंद सिंह जी के पावन हस्ताक्षरों से युक्त गुरु ग्रंथ साहिब की दुर्लभ और ऐतिहासिक प्रतियां।\n- **गुरु का लंगर**: बिना किसी भेदभाव के प्रतिदिन हजारों श्रद्धालुओं और पर्यटकों को निरंतर शुद्ध व सात्विक लंगर परोसा जाता है।"
+    },
+    "history": {
+      "en": "Guru Gobind Singh Ji spent his early childhood years in Patna before departing for Anandpur Sahib in Punjab. The site has been revered as a holy sanctuary since the 17th century.\n\n**Historical Milestones:**\n- **Foundational Construction**: The original commemorative gurdwara structure was built by **Maharaja Ranjit Singh**, the first Maharaja of the Sikh Empire, between 1837 and 1839.\n- **Rebuilding after 1934**: Following severe structural damage during the devastating 1934 Bihar earthquake, the gurdwara was meticulously rebuilt in white marble between 1954 and 1957 under Sant Nischal Singh.",
+      "hi": "गुरु गोबिंद सिंह जी ने अपने बाल्यकाल के प्रारंभिक वर्ष पटना में ही व्यतीत किए थे, जिसके बाद वे पंजाब के आनंदपुर साहिब चले गए। 17वीं सदी से ही यह स्थल श्रद्धालुओं के लिए परम पूजनीय तीर्थ रहा है।\n\n**ऐतिहासिक घटनाक्रम:**\n- **आरंभिक निर्माण**: सिख साम्राज्य के पहले महाराजा, **महाराजा रणजीत सिंह** ने 1837 से 1839 के बीच इस पावन स्थल पर मूल गुरुद्वारे का निर्माण करवाया था।\n- **1934 के बाद पुनर्निर्माण**: 1934 के विनाशकारी बिहार भूकंप में क्षतिग्रस्त होने के बाद, संत निश्चल सिंह जी की देखरेख में 1954 से 1957 के बीच वर्तमान भव्य श्वेत संगमरमर संरचना का पुनर्निर्माण किया गया।"
+    },
+    "significance": {
+      "en": "It holds supreme spiritual authority and historical sanctity for the global Sikh community:\n\n- **Seat of Temporal Authority**: One of the **Panj Takhts**, the five supreme spiritual thrones directing religious life in Sikhism.\n- **Birthplace of the Tenth Guru**: Sacred ground where Guru Gobind Singh Ji was born and where his divine mission took root.\n- **Epicenter of Prakash Parv**: The epicenter of global Sikh festivities, drawing hundreds of thousands of pilgrims during the annual birth anniversary celebrations.",
+      "hi": "विश्वभर के सिख समुदाय के लिए इसका सर्वोच्च आध्यात्मिक और ऐतिहासिक महत्व है:\n\n- **पंज तख्तों में सर्वोच्च स्थान**: सिख धर्म के पांच प्रमुख धार्मिक तख्तों में शामिल, जो सिख पंथ के सर्वोच्च आध्यात्मिक आसन हैं।\n- **दशमेश पिता की जन्मभूमि**: पावन भूमि जहाँ संत-सिपाही गुरु गोबिंद सिंह जी का जन्म हुआ और उनके दिव्य जीवन का आरंभ हुआ।\n- **प्रकाश पर्व का केंद्र**: प्रतिवर्ष गुरु गोबिंद सिंह जी के **प्रकाश पर्व** पर देश-विदेश से लाखों श्रद्धालु यहाँ नतमस्तक होने आते हैं।"
+    },
+    "location": {
+      "address": {
+        "en": "Patna Sahib, Patna, Bihar 800008",
+        "hi": "पटना साहिब, पटना, बिहार 800008"
+      },
+      "latitude": 25.5976,
+      "longitude": 85.2285,
+      "mapQuery": "Takht Sri Patna Sahib, Patna"
+    },
+    "visitingInfo": {
+      "entryFee": {
+        "amount": 0,
+        "currency": "INR",
+        "type": "standard"
+      },
+      "recommendedDurationMinutes": 90,
+      "bestTimeToVisit": {
+        "en": "Year-round, especially during early morning prayers or Gurpurab festivals.",
+        "hi": "साल भर, विशेष रूप से सुबह की प्रार्थना या गुरपुरब त्योहारों के दौरान।"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Located in the older part of Patna, accessible via cabs and auto-rickshaws.",
+        "hi": "पटना के पुराने हिस्से में स्थित, कैब और ऑटो-रिक्शा के माध्यम से पहुँचा जा सकता है।"
+      },
+      "localTransport": {
+        "en": "E-rickshaws are the most convenient way to navigate the narrow lanes leading to the Gurdwara.",
+        "hi": "गुरुद्वारे तक जाने वाली संकरी गलियों में जाने के लिए ई-रिक्शा सबसे सुविधाजनक तरीका है।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 0,
+        "max": 0,
+        "currency": "INR",
+        "note": {
+          "en": "Free entry.",
+          "hi": "प्रवेश निःशुल्क।"
+        }
+      },
+      "localTransport": {
+        "min": 50,
+        "max": 200,
+        "currency": "INR",
+        "note": {
+          "en": "Depends on distance from central Patna.",
+          "hi": "मध्य पटना से दूरी पर निर्भर करता है।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": true,
+      "atm": false,
+      "medical": false
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 100,
+      "stairs": true,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "Visitors must cover their heads and remove their shoes before entering the Gurdwara premises.",
+        "hi": "गुरुद्वारा परिसर में प्रवेश करने से पहले आगंतुकों को अपना सिर ढंकना होगा और अपने जूते उतारने होंगे।"
+      },
+      {
+        "en": "Do partake in the Langar (community kitchen meal) which is served to all visitors.",
+        "hi": "लंगर (सामुदायिक रसोई भोजन) में अवश्य भाग लें जो सभी आगंतुकों को परोसा जाता है।"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-18"
+    },
+    "status": "published",
+    "updatedAt": "2026-09-18",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "bihar-museum",
+    "slug": "bihar-museum",
+    "name": {
+      "en": "Bihar Museum",
+      "hi": "बिहार संग्रहालय"
+    },
+    "districtId": "patna",
+    "placeType": "museum",
+    "primaryCategory": "educational",
+    "categories": [
+      "educational",
+      "heritage",
+      "architectural"
+    ],
+    "subcategories": [
+      "history",
+      "art",
+      "museum"
+    ],
+    "circuits": [
+      "heritage-circuit",
+      "eco_circuit"
+    ],
+    "tags": [
+      "popular",
+      "museum",
+      "history_lovers",
+      "modern_architecture",
+      "family_friendly"
+    ],
+    "audiences": [
+      "families",
+      "children",
+      "history_lovers",
+      "students",
+      "international_travelers"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "A world-class museum showcasing the rich history and heritage of Bihar through state-of-the-art exhibits.",
+      "hi": "अत्याधुनिक प्रदर्शनियों के माध्यम से बिहार के समृद्ध इतिहास और विरासत को प्रदर्शित करने वाला एक विश्व स्तरीय संग्रहालय।"
+    },
+    "description": {
+      "en": "The **Bihar Museum** is a world-class cultural institution and contemporary architectural marvel located on Bailey Road in Patna, sprawling across **13.5 acres**.\n\nDesigned to showcase the monumental cultural, artistic, and historical legacy of Bihar, it seamlessly blends cutting-edge museology with interactive experiential learning.\n\n**Key Galleries & Exhibits:**\n- **History Galleries**: Chronicling Bihar's historical journey across millennia—from prehistoric times through the ancient Magadha, Maurya, and Gupta empires up to 1764.\n- **Art Gallery & Visible Storage**: Featuring celebrated traditional Madhubani folk art, ancient terracotta treasures, and rare regional sculptures.\n- **Children's Gallery**: An innovative, discovery-based space where young visitors explore nature, archaeology, and ancient heritage through interactive touchpoints.\n- **Didarganj Yakshi Pavilion**: A dedicated climate-controlled gallery housing the globally renowned polished sandstone **Didarganj Yakshi** (3rd century BCE).",
+      "hi": "**बिहार संग्रहालय** पटना के बेली रोड पर **13.5 एकड़** में फैला एक विश्वस्तरीय सांस्कृतिक संस्थान और समकालीन स्थापत्य का उत्कृष्ट चमत्कार है।\n\nबिहार की गहन सांस्कृतिक, कलात्मक और ऐतिहासिक विरासत को उजागर करने के लिए डिज़ाइन किया गया यह संग्रहालय अत्याधुनिक तकनीक और अंतरराष्ट्रीय स्तर की प्रदर्शनियों का संगम है।\n\n**प्रमुख दीर्घाएं व प्रदर्शनियां:**\n- **इतिहास दीर्घा**: प्रागैतिहासिक काल से लेकर प्राचीन मगध, मौर्य और गुप्त साम्राज्यों से होते हुए 1764 तक के बिहार के गौरवशाली इतिहास की झांकी।\n- **कला दीर्घा एवं दृश्य भंडारण**: पारंपरिक मिथिला (मधुबनी) कला, टेराकोटा की प्राचीन कृतियाँ और बिहार भर की दुर्लभ प्रस्तर मूर्तियाँ।\n- **बाल दीर्घा**: बच्चों के लिए तैयार किया गया संवादात्मक कक्ष जहाँ खेल-खेल में पुरातत्व, प्रकृति और सभ्यतागत इतिहास सीखा जा सकता है।\n- **दीदारगंज यक्षी मंडप**: विश्वप्रसिद्ध तीसरी शताब्दी ईसा पूर्व की मौर्यकालीन पॉलिश वाली **दीदारगंज यक्षी** की प्रतिमा के लिए समर्पित विशेष दीर्घा।"
+    },
+    "history": {
+      "en": "Conceived by the Government of Bihar to bring the region's epochal heritage to the global forefront, the museum opened in phases beginning in **2015** and was completed in **October 2017**.\n\n**Architecture & Design:**\n- **International Architecture**: Designed by Pritzker Prize-winning Japanese architectural firm **Maki and Associates** in partnership with Mumbai's **Opolis Architects**.\n- **Materiality & Heritage**: Built with weathering Corten steel and terracotta tones, reflecting Bihar's rich alluvial clay and historical brick tradition.",
+      "hi": "बिहार के गौरवशाली अतीत को अंतरराष्ट्रीय पटल पर स्थापित करने की परिकल्पना के साथ, इस संग्रहालय का उद्घाटन **2015** में शुरू हुआ और **अक्टूबर 2017** में पूर्ण रूप से जनता के लिए खोला गया।\n\n**वास्तुकला और डिज़ाइन:**\n- **अंतरराष्ट्रीय साझेदारी**: इसका निर्माण प्रित्जकर पुरस्कार विजेता जापानी आर्किटेक्चरल फर्म **माकी एंड एसोसिएट्स** ने मुंबई के **ओपोलिस आर्किटेक्ट्स** के साथ मिलकर किया।\n- **स्थापत्य सौंदर्य**: मौसम-प्रतिरोधी कॉर्टेन स्टील और टेराकोटा का उपयोग बिहार की मिट्टी और ईंट शिल्प की प्राचीन परंपरा को आधुनिक रूप में प्रदर्शित करता है।"
+    },
+    "significance": {
+      "en": "The Bihar Museum stands as one of South Asia's preeminent cultural institutions:\n\n- **Civilizational Repository**: Preserves thousands of years of human achievement, tracing the origins of Indian democracy, philosophy, and spiritual movements.\n- **Modern Learning Center**: Reinvents museum culture through interactive storytelling, audio-visual immersion, and student workshops.\n- **Global Pride for Bihar**: Serves as a vital bridge connecting global travelers and locals with the profound contributions of ancient Bihar to world civilization.",
+      "hi": "बिहार संग्रहालय दक्षिण एशिया के सबसे प्रमुख सांस्कृतिक और शैक्षिक संस्थानों में से एक है:\n\n- **सभ्यतागत धरोहर का संरक्षक**: भारतीय दर्शन, लोकतंत्र और आध्यात्मिक आंदोलनों की उत्पत्ति को दर्शाने वाली सहस्राब्दियों पुरानी अनमोल कृतियों का संग्रह।\n- **आधुनिक शिक्षण केंद्र**: इंटरैक्टिव मल्टीमीडिया, ऑडियो-विजुअल प्रस्तुतियों और कार्यशालाओं के माध्यम से संग्रहालय अनुभव को जीवंत बनाता है।\n- **वैश्विक पहचान**: अंतरराष्ट्रीय पर्यटकों और स्थानीय नागरिकों को विश्व सभ्यता में प्राचीन बिहार के ऐतिहासिक योगदान से जोड़ने वाला एक सशक्त सेतु।"
+    },
+    "location": {
+      "address": {
+        "en": "Bailey Road, Patna, Bihar 800001",
+        "hi": "बेली रोड, पटना, बिहार 800001"
+      },
+      "latitude": 25.6033,
+      "longitude": 85.1166,
+      "mapQuery": "Bihar Museum, Patna"
+    },
+    "visitingInfo": {
+      "entryFee": {
+        "amount": 100,
+        "currency": "INR",
+        "type": "standard"
+      },
+      "recommendedDurationMinutes": 180,
+      "bestTimeToVisit": {
+        "en": "Anytime during the day. It is generally closed on Mondays.",
+        "hi": "दिन के दौरान किसी भी समय। यह आमतौर पर सोमवार को बंद रहता है।"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Centrally located on Bailey Road, accessible by private cars, cabs, and auto-rickshaws.",
+        "hi": "बेली रोड पर केंद्र में स्थित, निजी कारों, कैब और ऑटो-रिक्शा द्वारा पहुँचा जा सकता है।"
+      },
+      "localTransport": {
+        "en": "City buses and auto-rickshaws frequently ply on this route.",
+        "hi": "सिटी बसें और ऑटो-रिक्शा इस मार्ग पर अक्सर चलते हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 50,
+        "max": 100,
+        "currency": "INR",
+        "note": {
+          "en": "Different fees for Indians and foreigners. Discount for students.",
+          "hi": "भारतीयों और विदेशियों के लिए अलग-अलग शुल्क। छात्रों के लिए छूट।"
+        }
+      },
+      "localTransport": {
+        "min": 20,
+        "max": 100,
+        "currency": "INR",
+        "note": {
+          "en": "Reasonable transport costs in the city center.",
+          "hi": "शहर के केंद्र में उचित परिवहन लागत।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": false,
+      "atm": false,
+      "medical": false
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 500,
+      "stairs": false,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "Allocate at least 3 to 4 hours to fully explore all the galleries.",
+        "hi": "सभी दीर्घाओं को पूरी तरह से देखने के लिए कम से कम 3 से 4 घंटे का समय निकालें।"
+      },
+      {
+        "en": "Photography may be restricted in certain exhibits, check signage before taking pictures.",
+        "hi": "कुछ प्रदर्शनियों में फोटोग्राफी प्रतिबंधित हो सकती है, चित्र लेने से पहले साइनेज की जाँच करें।"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-18"
+    },
+    "status": "published",
+    "updatedAt": "2026-09-18",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "agam-kuan",
+    "slug": "agam-kuan",
+    "name": {
+      "en": "Agam Kuan",
+      "hi": "अगम कुआँ"
+    },
+    "districtId": "patna",
+    "placeType": "monument",
+    "primaryCategory": "heritage",
+    "categories": [
+      "heritage",
+      "history",
+      "religious"
+    ],
+    "subcategories": [
+      "ancient",
+      "archaeological",
+      "mythology"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "heritage-circuit",
+      "buddhist_circuit"
+    ],
+    "tags": [
+      "history_lovers",
+      "ancient",
+      "mythology",
+      "archaeology"
+    ],
+    "audiences": [
+      "history_lovers",
+      "pilgrims",
+      "researchers"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": false,
+      "hiddenGem": true,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "An ancient well dating back to the Mauryan empire, believed to be fathomless and historically linked to Emperor Ashoka.",
+      "hi": "मौर्य साम्राज्य के समय का एक प्राचीन कुआँ, जिसे अथाह माना जाता है और जिसका ऐतिहासिक रूप से सम्राट अशोक से संबंध है।"
+    },
+    "description": {
+      "en": "**Agam Kuan** (literally meaning *'The Unfathomable Well'*) is one of the oldest and most enigmatic archaeological monuments in Patna, dating back to the **Mauryan Empire** in the 3rd century BCE.\n\nConstructed of circular kiln-burnt brick rings, this ancient circular well plunges to an astounding depth of over **105 feet** (32 meters) and has historically never been known to dry up.\n\n**Key Features:**\n- **Ancient Masonry**: Composed of circular brick masonry in the upper section and preserved ancient wooden rings at its base that have survived intact for over 2,300 years.\n- **Shitala Devi Temple**: Located right beside the well is the revered temple of Goddess Shitala, visited by devotees for blessings of good health, protection against sickness, and ritual vows.",
+      "hi": "**अगम कुआँ** (अर्थात *'अथाह कुआँ'*) पटना के सबसे प्राचीन और रहस्यमयी पुरातात्विक स्थलों में से एक है, जिसका संबंध तीसरी शताब्दी ईसा पूर्व के **मौर्य साम्राज्य** से है।\n\nईंट के छल्लों से निर्मित यह विशाल गोलाकार कुआँ **105 फीट** (लगभग 32 मीटर) से भी अधिक गहरा है और भीषण सूखे में भी इसका जल कभी समाप्त नहीं हुआ है।\n\n**प्रमुख विशेषताएं:**\n- **प्राचीन चिनाई**: ऊपरी भाग में पकी हुई गोलाकार ईंटों की चुनाई और गहराई में प्राचीन लकड़ी के वलय हैं, जो 2300 से अधिक वर्षों से सुरक्षित हैं।\n- **शीतला देवी मंदिर**: कुएं के परिसर में स्थित माँ शीतला का अत्यंत पूजनीय मंदिर, जहाँ श्रद्धालु आरोग्य, संतान सुख और मनोकामना पूर्ति के लिए दर्शन करने आते हैं।"
+    },
+    "history": {
+      "en": "Believed to have been constructed during the reign of Mauryan **Emperor Ashoka** (c. 3rd century BCE), Agam Kuan is shrouded in fascinating folklore and historical chronicles.\n\n**Historical Legends & Archaeology:**\n- **Ashoka's Torture Chamber**: According to ancient Buddhist chronicles (such as the *Ashokavadana*), Ashoka constructed this fathomless pit as part of his infamous 'hell chambers' before renouncing violence and embracing Buddhism.\n- **The Tale of Succession**: Folklore recounts that Ashoka threw his 99 half-brothers into this well during the fierce war of succession for the throne of Pataliputra.\n- **Archaeological Study**: British explorer **Laurence Waddell** documented the site in the 1890s, identifying its Mauryan brick construction and confirming its extreme antiquity.",
+      "hi": "माना जाता है कि इसका निर्माण महान मौर्य **सम्राट अशोक** (लगभग तीसरी शताब्दी ईसा पूर्व) के शासनकाल में हुआ था, और यह सहस्राब्दियों से इतिहास और दंतकथाओं का केंद्र रहा है।\n\n**ऐतिहासिक किंवदंतियाँ व पुरातत्व:**\n- **अशोक का 'नरक' कक्ष**: प्राचीन बौद्ध वृत्तांतों (*अशोकावदान*) के अनुसार, बौद्ध धर्म अपनाने से पूर्व सम्राट अशोक ने इसे अपने कुख्यात प्रताड़ना कक्ष या 'अशोक के नरक' के हिस्से के रूप में बनवाया था।\n- **उत्तराधिकार संघर्ष की कथा**: लोककथाओं के अनुसार, पाटलिपुत्र के सिंहासन पर बैठने के लिए अशोक ने अपने 99 सौतेले भाइयों को इसी कुएं में डलवा दिया था।\n- **पुरातात्विक अनुसंधान**: 1890 के दशक में ब्रिटिश पुरातत्वविद् **लॉरेंस वाडेल** ने इस कुएं का अध्ययन किया और इसकी ईंटों की प्राचीन मौर्यकालीन बनावट की पुष्टि की।"
+    },
+    "significance": {
+      "en": "Agam Kuan is a critical historical relic linking modern Patna to ancient imperial Pataliputra:\n\n- **Mauryan Hydraulic Engineering**: A rare, surviving pre-Christian era well showcasing ancient Indian hydrology and masonry.\n- **Transformation of Ashoka**: A poignant physical site associated with Emperor Ashoka's legendary transformation from ruthless conqueror to compassionate Buddhist ruler.\n- **Folk & Spiritual Traditions**: An enduring center of local faith that has maintained unbroken ritual practices for millennia.",
+      "hi": "अगम कुआँ आधुनिक पटना को प्राचीन साम्राज्यिक पाटलिपुत्र से जोड़ने वाला एक महत्वपूर्ण ऐतिहासिक अवशेष है:\n\n- **मौर्यकालीन जल अभियांत्रिकी**: 2,300 वर्ष पुरानी पक्की ईंटों की वास्तुकला और प्राचीन जल प्रबंधन का एक दुर्लभ जीवित नमूना।\n- **सम्राट अशोक का हृदय परिवर्तन**: 'चंडाशोक' से दयालु और धर्मपरायण 'धर्माशोक' बनने की महान ऐतिहासिक यात्रा से जुड़ा एक महत्वपूर्ण स्थल।\n- **धार्मिक व सांस्कृतिक आस्था**: सदियों से चली आ रही लोक परंपराओं और शीतला माता की पूजा-अर्चना का एक जीवंत केंद्र।"
+    },
+    "location": {
+      "address": {
+        "en": "Gulzarbagh, Patna, Bihar 800007",
+        "hi": "गुलज़ारबाग, पटना, बिहार 800007"
+      },
+      "latitude": 25.6042,
+      "longitude": 85.1977,
+      "mapQuery": "Agam Kuan, Patna"
+    },
+    "visitingInfo": {
+      "entryFee": {
+        "amount": 0,
+        "currency": "INR",
+        "type": "standard"
+      },
+      "recommendedDurationMinutes": 30,
+      "bestTimeToVisit": {
+        "en": "Morning or early afternoon.",
+        "hi": "सुबह या दोपहर की शुरुआत।"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Accessible via Ashok Rajpath towards Gulzarbagh area.",
+        "hi": "गुलज़ारबाग क्षेत्र की ओर अशोक राजपथ के माध्यम से पहुँचा जा सकता है।"
+      },
+      "localTransport": {
+        "en": "Auto-rickshaws and cabs from central Patna are easily available.",
+        "hi": "मध्य पटना से ऑटो-रिक्शा और कैब आसानी से उपलब्ध हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 0,
+        "max": 0,
+        "currency": "INR",
+        "note": {
+          "en": "No entry fee.",
+          "hi": "कोई प्रवेश शुल्क नहीं।"
+        }
+      },
+      "localTransport": {
+        "min": 50,
+        "max": 150,
+        "currency": "INR",
+        "note": {
+          "en": "Transport depends on starting location.",
+          "hi": "परिवहन प्रारंभिक स्थान पर निर्भर करता है।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": false,
+      "toilets": false,
+      "drinkingWater": false,
+      "food": false,
+      "accommodation": false,
+      "atm": false,
+      "medical": false
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 50,
+      "stairs": false,
+      "wheelchairAccessible": false,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "Combine this visit with nearby historical sites like Kumhrar.",
+        "hi": "इस यात्रा को कुम्हरार जैसे नजदीकी ऐतिहासिक स्थलों के साथ जोड़ें।"
+      },
+      {
+        "en": "Be respectful of the religious practices happening around the well.",
+        "hi": "कुएं के आसपास होने वाली धार्मिक प्रथाओं का सम्मान करें।"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-18"
+    },
+    "status": "published",
+    "updatedAt": "2026-09-18",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "kumhrar",
+    "slug": "kumhrar",
+    "name": {
+      "en": "Kumhrar",
+      "hi": "कुम्हरार"
+    },
+    "districtId": "patna",
+    "placeType": "archaeological_site",
+    "primaryCategory": "heritage",
+    "categories": [
+      "heritage",
+      "history"
+    ],
+    "subcategories": [
+      "ancient",
+      "ruins",
+      "park"
+    ],
+    "circuits": [
+      "heritage-circuit",
+      "buddhist-circuit",
+      "buddhist_circuit"
+    ],
+    "tags": [
+      "history_lovers",
+      "archaeology",
+      "ancient_india",
+      "mauryan_empire"
+    ],
+    "audiences": [
+      "history_lovers",
+      "researchers",
+      "families",
+      "students"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": false,
+      "hiddenGem": true,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "An ancient archaeological site containing the ruins of Pataliputra, showcasing the remains of the Mauryan empire's grand 80-pillared hall.",
+      "hi": "पाटलिपुत्र के खंडहरों वाला एक प्राचीन पुरातात्विक स्थल, जो मौर्य साम्राज्य के भव्य 80-स्तंभों वाले हॉल के अवशेषों को प्रदर्शित करता है।"
+    },
+    "description": {
+      "en": "**Kumhrar** is an expansive archaeological park in south-eastern Patna that contains the excavated ruins of ancient **Pataliputra**, the legendary imperial capital of the Mauryan and Gupta empires.\n\nIt preserves tangible structural remains from the golden age of ancient India, spanning the reigns of **Chandragupta Maurya** and **Emperor Ashoka**.\n\n**Key Excavated Ruins & Highlights:**\n- **80-Pillared Grand Assembly Hall**: The centerpiece of Kumhrar, featuring the subterranean remains of a colossal hypostyle hall praised by Greek ambassador Megasthenes.\n- **Arogya Vihar**: Ruins of an ancient hospital and monastic dispensary directed by the celebrated physician Dhanvantari during the Gupta era.\n- **Anand Bihar**: Foundations of ancient Buddhist monasteries and residential viharas made of burnt bricks.\n- **Site Museum**: Displays authentic Mauryan terracotta artifacts, ancient copper coins, clay seals, and fragments of polished sandstone pillars.",
+      "hi": "**कुम्हरार** दक्षिण-पूर्वी पटना में स्थित एक शांत और विस्तृत पुरातात्विक उद्यान है, जहाँ मौर्य और गुप्त साम्राज्यों की ऐतिहासिक राजधानी **पाटलिपुत्र** के प्राचीन अवशेष मौजूद हैं।\n\nयह स्थल **चंद्रगुप्त मौर्य** और **सम्राट अशोक** के शासनकाल से जुड़े प्राचीन भारत के स्वर्ण युग के मूर्त साक्ष्यों को प्रदर्शित करता है।\n\n**प्रमुख उत्खनित अवशेष व आकर्षण:**\n- **80-स्तंभों वाला विशाल सभा कक्ष**: कुम्हरार का मुख्य आकर्षण, मौर्य साम्राज्य (तीसरी शताब्दी ईसा पूर्व) के 80 खंभों वाले एक भव्य राजसी हॉल के अवशेष, जिसकी प्रशंसा यूनानी राजदूत मेगस्थनीज ने की थी।\n- **आरोग्य विहार**: गुप्त काल के एक प्राचीन चिकित्सालय और बौद्ध मठ के अवशेष, जिसे प्रसिद्ध चिकित्सक धन्वंतरि द्वारा संचालित माना जाता है।\n- **आनंद विहार**: पकी हुई ईंटों से निर्मित प्राचीन बौद्ध विहारों और आवासीय परिसरों की नींव।\n- **साइट संग्रहालय**: खुदाई में प्राप्त मौर्यकालीन टेराकोटा की मूर्तियाँ, प्राचीन सिक्के, मुहरें और पॉलिश किए गए बलुआ पत्थर के अवशेष।"
+    },
+    "history": {
+      "en": "Pataliputra stood as the epicenter of Indian power for over six centuries before undergoing natural decay, fire, and river inundation in the post-Gupta era.\n\n**Excavation & Archaeological Discoveries:**\n- **Spooner's Excavations**: The site was extensively excavated between 1912 and 1915 by **Dr. D. B. Spooner** of the Archaeological Survey of India, who uncovered 72 pillar pits and one intact polished column.\n- **Legendary Mauryan Polish**: The Chunar sandstone pillars displayed the peerless glass-like **Mauryan polish**, an ancient finishing technique unique to the 3rd century BCE.\n- **Ancient Destruction**: Excavations revealed layers of charcoal and silt, indicating that the grand wooden ceiling and pillars were consumed in a massive fire and submerged in flood alluvium.",
+      "hi": "प्राचीन पाटलिपुत्र नगर छह शताब्दियों से भी अधिक समय तक भारतीय शक्ति और शासन का केंद्र रहा, जिसके बाद उत्तर-गुप्त काल में आग और गंगा की बाढ़ के कारण यह खंडहरों में तब्दील हो गया।\n\n**पुरातात्विक खोज और इतिहास:**\n- **डी. बी. स्पूनर द्वारा उत्खनन**: 1912 से 1915 के बीच भारतीय पुरातत्व सर्वेक्षण (ASI) के **डॉ. डी. बी. स्पूनर** ने यहाँ विस्तृत खुदाई की, जिसमें 72 खंभों के गड्ढे और एक अक्षुण्ण पॉलिश किया हुआ स्तंभ मिला।\n- **मौर्यकालीन पॉलिश**: चुनार के बलुआ पत्थर के खंभों पर शीशे जैसी चमकदार **मौर्यकालीन पॉलिश** पाई गई, जो प्राचीन भारत की उन्नत प्रस्तर कला का बेजोड़ उदाहरण है।\n- **प्राचीन विनाश**: खुदाई में मिले कोयले और गाद की परतों से साबित होता है कि प्राचीन काल में भीषण अग्निकांड और उसके बाद आई बाढ़ के कारण यह भव्य हॉल नष्ट हो गया था।"
+    },
+    "significance": {
+      "en": "Kumhrar holds supreme archaeological and civilizational significance as the primary surviving monument of ancient Pataliputra:\n\n- **Imperial Grandeur of Pataliputra**: The only archaeological site offering direct physical evidence of the monumental secular architecture of the Mauryan Empire.\n- **Architectural Ingenuity**: Demonstrates advanced ancient engineering, including deep-silt foundation techniques, timber framing, and sophisticated urban drainage.\n- **Seat of Ancient Wisdom & Governance**: The geographic ground zero where Chanakya formulated statecraft and from where Ashoka propagated Buddhism across the ancient world.",
+      "hi": "कुम्हरार प्राचीन भारत के गौरवशाली इतिहास और सभ्यता का एक अद्वितीय पुरातात्विक केंद्र है:\n\n- **पाटलिपुत्र का राजसी वैभव**: प्राचीन **पाटलिपुत्र** की स्मारकीय वास्तुकला और मौर्य साम्राज्य की भव्यता को प्रत्यक्ष रूप से देखने का सबसे प्रमुख स्थल।\n- **प्राचीन इंजीनियरिंग कौशल**: 2300 वर्ष पूर्व की उन्नत नींव प्रणाली, लकड़ी के निर्माण और जल निकासी तकनीक का उत्कृष्ट प्रमाण।\n- **शासन और ज्ञान का ऐतिहासिक केंद्र**: वह ऐतिहासिक भूमि जहाँ से आचार्य चाणक्य ने अर्थशास्त्र की रचना की और सम्राट अशोक ने पूरे विश्व में शांति व धम्म का संदेश दिया।"
+    },
+    "location": {
+      "address": {
+        "en": "Kumhrar, Patna, Bihar 800026",
+        "hi": "कुम्हरार, पटना, बिहार 800026"
+      },
+      "latitude": 25.5969,
+      "longitude": 85.1764,
+      "mapQuery": "Kumhrar Park, Patna"
+    },
+    "visitingInfo": {
+      "entryFee": {
+        "amount": 25,
+        "currency": "INR",
+        "type": "standard"
+      },
+      "recommendedDurationMinutes": 60,
+      "bestTimeToVisit": {
+        "en": "Winter months (October to March) for pleasant weather during outdoor exploration.",
+        "hi": "बाहरी अन्वेषण के दौरान सुखद मौसम के लिए सर्दियों के महीने (अक्टूबर से मार्च)।"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Located off Kankarbagh Road, easily accessible by all road transport modes.",
+        "hi": "कंकड़बाग रोड के पास स्थित, सभी सड़क परिवहन साधनों द्वारा आसानी से पहुँचा जा सकता है।"
+      },
+      "localTransport": {
+        "en": "Auto-rickshaws and cabs provide easy connectivity from anywhere in Patna.",
+        "hi": "ऑटो-रिक्शा और कैब पटना में कहीं से भी आसान कनेक्टिविटी प्रदान करते हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 10,
+        "max": 30,
+        "currency": "INR",
+        "note": {
+          "en": "Minimal entry fee for Indians, slightly higher for foreign nationals.",
+          "hi": "भारतीयों के लिए न्यूनतम प्रवेश शुल्क, विदेशी नागरिकों के लिए थोड़ा अधिक।"
+        }
+      },
+      "localTransport": {
+        "min": 50,
+        "max": 150,
+        "currency": "INR",
+        "note": {
+          "en": "Standard auto fares apply.",
+          "hi": "मानक ऑटो किराया लागू होता है।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": false,
+      "accommodation": false,
+      "atm": false,
+      "medical": false
+    },
+    "accessibility": {
+      "difficulty": "moderate",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 500,
+      "stairs": false,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "Carry an umbrella or wear a hat during summer as much of the site is outdoors.",
+        "hi": "गर्मियों के दौरान छतरी ले जाएं या टोपी पहनें क्योंकि साइट का अधिकांश भाग बाहर है।"
+      },
+      {
+        "en": "Hire a local guide if available to fully understand the historical layout and ruins.",
+        "hi": "यदि उपलब्ध हो तो ऐतिहासिक लेआउट और खंडहरों को पूरी तरह से समझने के लिए एक स्थानीय गाइड किराए पर लें।"
+      }
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-18"
+    },
+    "status": "published",
+    "updatedAt": "2026-09-18",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  }
+]

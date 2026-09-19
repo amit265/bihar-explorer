@@ -1,0 +1,337 @@
+{
+  "data": [
+    {
+      "id": "bihar-panchayati-raj-act-2006",
+      "name": {
+        "en": "Bihar Panchayati Raj Act, 2006",
+        "hi": "बिहार पंचायती राज अधिनियम, 2006"
+      },
+      "category": {
+        "en": "Local Self-Government Framework",
+        "hi": "स्थानीय स्वशासन ढांचा"
+      },
+      "constitutionalArticles": "Articles 243 to 243-O (73rd Constitutional Amendment Act, 1992)",
+      "dateEnacted": "2006-04-08",
+      "historicMilestone": {
+        "en": "Bihar became the FIRST state in India to provide 50% reservation for women in all tiers of Panchayati Raj Institutions (PRIs) and Gram Kachaharis",
+        "hi": "बिहार पंचायती राज संस्थाओं (PRIs) और ग्राम कचारियों के सभी स्तरों में महिलाओं के लिए 50% आरक्षण प्रदान करने वाला भारत का पहला राज्य बना"
+      },
+      "threeTierStructure": {
+        "tier1": {
+          "name": {
+            "en": "Gram Panchayat",
+            "hi": "ग्राम पंचायत"
+          },
+          "level": "Village level",
+          "count": 8387
+        },
+        "tier2": {
+          "name": {
+            "en": "Panchayat Samiti",
+            "hi": "पंचायत समिति"
+          },
+          "level": "Block level",
+          "count": 534
+        },
+        "tier3": {
+          "name": {
+            "en": "Zilla Parishad",
+            "hi": "जिला परिषद"
+          },
+          "level": "District level",
+          "count": 38
+        }
+      },
+      "reservationStructure": {
+        "women": "50% reservation across all categories and offices (Mukhiya, Pramukh, Adhyaksha, Ward Member)",
+        "extremelyBackwardClasses": "Up to 20% reservation for Extremely Backward Classes (EBC)",
+        "scAndSt": "Proportional to population share in each respective constituency"
+      },
+      "description": {
+        "en": "### A Generational Transformation\nThe Bihar Panchayati Raj Act, 2006 replaced the earlier 1993 enactment, ushering in a profound generational transformation in grassroots democracy. It effectively democratized local power structures by giving a powerful voice to marginalized sections.\n\n### Historic Reservations\n* **Women's Quota:** Bihar made history by becoming the FIRST state in India to guarantee a massive 50% reservation for women across all tiers of Panchayati Raj Institutions (PRIs).\n* **EBC Quota:** It provided a groundbreaking up to 20% reservation for Extremely Backward Classes (EBCs).\n\n### Institutional Framework\nThe Act established a robust three-tier system (Gram Panchayat, Panchayat Samiti, Zilla Parishad) and institutionalized the parallel Gram Kachahari system to deliver rapid local justice alongside village development.",
+        "hi": "### एक युगांतकारी परिवर्तन\nबिहार पंचायती राज अधिनियम, 2006 ने पहले के 1993 के अधिनियम को प्रतिस्थापित किया, जिसने जमीनी लोकतंत्र में एक गहन पीढ़ीगत परिवर्तन की शुरुआत की। इसने हाशिए के वर्गों को एक शक्तिशाली आवाज देकर स्थानीय सत्ता संरचनाओं का प्रभावी ढंग से लोकतंत्रीकरण किया।\n\n### ऐतिहासिक आरक्षण\n* **महिला कोटा:** बिहार पंचायती राज संस्थाओं (PRIs) के सभी स्तरों पर महिलाओं के लिए बड़े पैमाने पर 50% आरक्षण की गारंटी देने वाला भारत का पहला राज्य बनकर इतिहास रच दिया।\n* **ईबीसी कोटा:** इसने अत्यंत पिछड़ा वर्ग (EBC) के लिए 20% तक का अभूतपूर्व आरक्षण प्रदान किया।\n\n### संस्थागत ढांचा\nअधिनियम ने एक मजबूत त्रि-स्तरीय प्रणाली (ग्राम पंचायत, पंचायत समिति, जिला परिषद) की स्थापना की और ग्राम विकास के साथ-साथ त्वरित स्थानीय न्याय प्रदान करने के लिए समानांतर ग्राम कचहरी प्रणाली को संस्थागत बनाया।"
+      },
+      "bpscRelevance": {
+        "en": "Signature question: First state to grant 50% women reservation (Bihar, 2006), year of the new Act (2006), EBC reservation quota (20%), and 3-tier structure.",
+        "hi": "हस्ताक्षर प्रश्न: महिलाओं को 50% आरक्षण देने वाला पहला राज्य (बिहार, 2006), नए अधिनियम का वर्ष (2006), ईबीसी आरक्षण कोटा (20%), और 3-स्तरीय संरचना।"
+      }
+    },
+    {
+      "id": "gram-panchayat-tier-1",
+      "name": {
+        "en": "Gram Panchayat (Village Level - Tier 1)",
+        "hi": "ग्राम पंचायत (ग्राम स्तर - प्रथम स्तर)"
+      },
+      "category": {
+        "en": "Panchayati Raj - Tier 1",
+        "hi": "पंचायती राज - प्रथम स्तर"
+      },
+      "asOf": "2024-01-01",
+      "totalUnits": 8387,
+      "populationCriterion": "Constituted for a village or group of villages having a population of approximately 7,000",
+      "institutionalOrgans": {
+        "gramSabha": {
+          "title": {
+            "en": "Gram Sabha",
+            "hi": "ग्राम सभा"
+          },
+          "nature": {
+            "en": "General body comprising all registered adult voters; meets at least 4 times a year; exercises social audit over all panchayat expenditures",
+            "hi": "सभी पंजीकृत वयस्क मतदाताओं से मिलकर बना आम निकाय; वर्ष में कम से कम 4 बार बैठक; पंचायत के सभी खर्चों का सामाजिक अंकेक्षण (सोशल ऑडिट) करता है"
+          }
+        },
+        "mukhiya": {
+          "title": {
+            "en": "Mukhiya (Panchayat President)",
+            "hi": "मुखिया"
+          },
+          "nature": {
+            "en": "Directly elected head of the Gram Panchayat; presides over meetings, operates statutory panchayat funds jointly with the Panchayat Secretary",
+            "hi": "ग्राम पंचायत के प्रत्यक्ष निर्वाचित प्रमुख; बैठकों की अध्यक्षता करते हैं, पंचायत सचिव के साथ संयुक्त रूप से वैधानिक पंचायत खातों का संचालन करते हैं"
+          }
+        },
+        "upMukhiya": {
+          "title": {
+            "en": "Up-Mukhiya (Vice President)",
+            "hi": "उप-मुखिया"
+          },
+          "nature": {
+            "en": "Elected indirectly by and from among the elected Ward Members",
+            "hi": "निर्वाचित वार्ड सदस्यों द्वारा और उनमें से अप्रत्यक्ष रूप से निर्वाचित"
+          }
+        },
+        "wardMembers": {
+          "title": {
+            "en": "Ward Members",
+            "hi": "वार्ड सदस्य"
+          },
+          "nature": {
+            "en": "Elected directly from wards (each ward having roughly 500 population); heads Ward Implementation and Monitoring Committees (WIMC)",
+            "hi": "वार्डों से सीधे निर्वाचित (प्रत्येक वार्ड में लगभग 500 की आबादी); वार्ड क्रियान्वयन एवं प्रबंधन समिति (WIMC) के प्रमुख"
+          }
+        },
+        "panchayatSecretary": {
+          "title": {
+            "en": "Panchayat Sachiv (Panchayat Secretary)",
+            "hi": "पंचायत सचिव"
+          },
+          "nature": {
+            "en": "Permanent civil servant appointed by the state government; maintains official records, accounts, and vital statistics registers (birth/death registration)",
+            "hi": "राज्य सरकार द्वारा नियुक्त स्थायी लोक सेवक; आधिकारिक रिकॉर्ड, खाते और जन्म/मृत्यु पंजीकरण रजिस्टर का रखरखाव करते हैं"
+          }
+        }
+      },
+      "description": {
+        "en": "### The Foundation of Rural Governance\nThe Gram Panchayat operates as the foundational, grassroots executive unit of rural self-governance in Bihar. Typically constituted for a population of roughly 7,000, it manages the direct implementation of basic civic amenities.\n\n### Key Organs\n* **Mukhiya:** The directly elected president who leads the panchayat and jointly operates statutory funds with the state-appointed Panchayat Secretary.\n* **Gram Sabha:** The general body comprising all registered adult voters, acting as a powerful social auditor over panchayat expenditures.\n\n### Executing Development\nUnder the flagship 'Saat Nischay' program, the panchayat's Ward Implementation and Monitoring Committees (WIMC) successfully executed massive, direct-to-home schemes like piped drinking water ('Har Ghar Nal Ka Jal') across Bihar's 8,387 panchayats.",
+        "hi": "### ग्रामीण शासन की नींव\nग्राम पंचायत बिहार में ग्रामीण स्वशासन की आधारभूत, जमीनी कार्यकारी इकाई के रूप में कार्य करती है। आमतौर पर लगभग 7,000 की आबादी के लिए गठित, यह बुनियादी नागरिक सुविधाओं के सीधे कार्यान्वयन का प्रबंधन करती है।\n\n### प्रमुख अंग\n* **मुखिया:** सीधे निर्वाचित अध्यक्ष जो पंचायत का नेतृत्व करता है और राज्य द्वारा नियुक्त पंचायत सचिव के साथ संयुक्त रूप से वैधानिक धन का संचालन करता है।\n* **ग्राम सभा:** सभी पंजीकृत वयस्क मतदाताओं से मिलकर बना आम निकाय, जो पंचायत व्यय पर एक शक्तिशाली सामाजिक लेखा परीक्षक (ऑडिटर) के रूप में कार्य करता है।\n\n### विकास का निष्पादन\nप्रमुख 'सात निश्चय' कार्यक्रम के तहत, पंचायत की वार्ड क्रियान्वयन एवं प्रबंधन समितियों (WIMC) ने बिहार की 8,387 पंचायतों में पाइप से पीने के पानी ('हर घर नल का जल') जैसी विशाल, डायरेक्ट-टू-होम योजनाओं को सफलतापूर्वक लागू किया।"
+      },
+      "bpscRelevance": {
+        "en": "Population criterion (~7,000 for Gram Panchayat, ~500 per ward), role of Gram Sabha, tenure (5 years from first meeting), and election method (Mukhiya direct, Up-Mukhiya indirect).",
+        "hi": "जनसंख्या मानदंड (ग्राम पंचायत के लिए ~7,000, प्रति वार्ड ~500), ग्राम सभा की भूमिका, कार्यकाल (पहली बैठक से 5 वर्ष), और चुनाव पद्धति (मुखिया प्रत्यक्ष, उप-मुखिया अप्रत्यक्ष)।"
+      }
+    },
+    {
+      "id": "panchayat-samiti-tier-2",
+      "name": {
+        "en": "Panchayat Samiti (Block Level - Tier 2)",
+        "hi": "पंचायत समिति (प्रखंड स्तर - द्वितीय स्तर)"
+      },
+      "category": {
+        "en": "Panchayati Raj - Tier 2",
+        "hi": "पंचायती राज - द्वितीय स्तर"
+      },
+      "asOf": "2024-01-01",
+      "totalUnits": 534,
+      "populationCriterion": "One member elected for every roughly 5,000 population in the block area",
+      "composition": {
+        "directlyElectedMembers": {
+          "en": "Members directly elected from territorial constituencies in the block",
+          "hi": "प्रखंड के क्षेत्रीय निर्वाचन क्षेत्रों से सीधे निर्वाचित सदस्य"
+        },
+        "exOfficioMembers": {
+          "en": "All Mukhiyas of Gram Panchayats within the block, local MLAs, MLCs, and MPs representing the block",
+          "hi": "प्रखंड के भीतर की ग्राम पंचायतों के सभी मुखिया, प्रखंड का प्रतिनिधित्व करने वाले स्थानीय विधायक, विधान पार्षद और सांसद"
+        }
+      },
+      "leadership": {
+        "pramukh": {
+          "en": "Pramukh: Elected by directly elected members from among themselves; presides over Samiti meetings",
+          "hi": "प्रमुख: सीधे निर्वाचित सदस्यों द्वारा अपने में से निर्वाचित; समिति की बैठकों की अध्यक्षता करते हैं"
+        },
+        "upPramukh": {
+          "en": "Up-Pramukh: Elected vice-chairperson",
+          "hi": "उप-प्रमुख: निर्वाचित उपाध्यक्ष"
+        },
+        "executiveOfficer": {
+          "en": "Block Development Officer (BDO) serves as the ex-officio Executive Officer of the Panchayat Samiti",
+          "hi": "प्रखंड विकास पदाधिकारी (बीडीओ) पंचायत समिति के पदेन कार्यपालक अधिकारी के रूप में कार्य करते हैं"
+        }
+      },
+      "description": {
+        "en": "### The Intermediate Coordinator\nThe Panchayat Samiti serves as the crucial intermediate coordination tier, operating across Bihar's 534 Community Development Blocks. It effectively bridges the gap between village-level execution and district-level planning.\n\n### Composition & Leadership\n* **Electoral Structure:** Composed of directly elected members (roughly one per 5,000 population), alongside all Mukhiyas of the block and local legislators (MLAs, MPs) as ex-officio members.\n* **Executive Leadership:** The elected 'Pramukh' serves as the political head, while the Block Development Officer (BDO) acts as the statutory Executive Officer.\n\n### Core Functions\nThe Samiti aggregates annual village plans into cohesive block-level strategies, oversees primary health and education infrastructure, and manages inter-panchayat rural road networks.",
+        "hi": "### मध्यवर्ती समन्वयक\nपंचायत समिति महत्वपूर्ण मध्यवर्ती समन्वय स्तर के रूप में कार्य करती है, जो बिहार के 534 सामुदायिक विकास प्रखंडों में संचालित होती है। यह प्रभावी रूप से ग्राम-स्तर के निष्पादन और जिला-स्तरीय योजना के बीच की खाई को पाटती है।\n\n### संरचना और नेतृत्व\n* **चुनावी संरचना:** सीधे निर्वाचित सदस्यों (प्रति 5,000 आबादी पर लगभग एक), प्रखंड के सभी मुखिया और स्थानीय विधायकों (विधायक, सांसद) के पदेन सदस्यों से मिलकर बनती है।\n* **कार्यकारी नेतृत्व:** निर्वाचित 'प्रमुख' राजनीतिक प्रमुख के रूप में कार्य करता है, जबकि प्रखंड विकास पदाधिकारी (बीडीओ) वैधानिक कार्यपालक अधिकारी के रूप में कार्य करता है।\n\n### मुख्य कार्य\nसमिति वार्षिक ग्राम योजनाओं को एकजुट ब्लॉक-स्तरीय रणनीतियों में समेकित करती है, प्राथमिक स्वास्थ्य और शिक्षा बुनियादी ढांचे की देखरेख करती है, और अंतर-पंचायत ग्रामीण सड़क नेटवर्क का प्रबंधन करती है।"
+      },
+      "bpscRelevance": {
+        "en": "Total Panchayat Samitis (534), Executive Officer of Panchayat Samiti (BDO), and ratio of representation (~5,000 population per member).",
+        "hi": "कुल पंचायत समितियां (534), पंचायत समिति के कार्यपालक अधिकारी (बीडीओ), और प्रतिनिधित्व का अनुपात (प्रति सदस्य ~5,000 जनसंख्या)।"
+      }
+    },
+    {
+      "id": "zilla-parishad-tier-3",
+      "name": {
+        "en": "Zilla Parishad (District Level - Tier 3)",
+        "hi": "जिला परिषद (जिला स्तर - तृतीय स्तर)"
+      },
+      "category": {
+        "en": "Panchayati Raj - Tier 3",
+        "hi": "पंचायती राज - तृतीय स्तर"
+      },
+      "asOf": "2024-01-01",
+      "totalUnits": 38,
+      "populationCriterion": "One member directly elected for every roughly 50,000 population in the district",
+      "composition": {
+        "directlyElectedMembers": {
+          "en": "Members directly elected from territorial constituencies",
+          "hi": "क्षेत्रीय निर्वाचन क्षेत्रों से सीधे निर्वाचित सदस्य"
+        },
+        "exOfficioMembers": {
+          "en": "All Pramukhs of Panchayat Samitis in the district, MLAs, MLCs, and MPs registered as electors in the district",
+          "hi": "जिले की पंचायत समितियों के सभी प्रमुख, जिले में मतदाता के रूप में पंजीकृत विधायक, विधान पार्षद और सांसद"
+        }
+      },
+      "leadership": {
+        "adhyaksha": {
+          "en": "Zilla Parishad Adhyaksha (President): Political head elected by elected members from among themselves",
+          "hi": "जिला परिषद अध्यक्ष: निर्वाचित सदस्यों द्वारा अपने में से निर्वाचित राजनीतिक प्रमुख"
+        },
+        "chiefExecutiveOfficer": {
+          "en": "Deputy Development Commissioner (DDC - senior IAS/BAS officer) serves as the Chief Executive Officer (CEO) of the Zilla Parishad",
+          "hi": "उप विकास आयुक्त (डीडीसी - वरिष्ठ आईएएस/बीएएस अधिकारी) जिला परिषद के मुख्य कार्यपालक अधिकारी (सीईओ) के रूप में कार्य करते हैं"
+        }
+      },
+      "description": {
+        "en": "### The Apex Rural Authority\nThe Zilla Parishad sits comfortably at the apex of the three-tier rural local self-governance structure across each of Bihar's 38 districts, commanding significant planning and supervisory authority.\n\n### Composition & Leadership\n* **Electoral Structure:** Members are directly elected (roughly one per 50,000 population), joined by all Panchayat Samiti Pramukhs and district legislators as ex-officio members.\n* **Executive Leadership:** Headed politically by the elected Zilla Parishad Adhyaksha (President), with the senior Deputy Development Commissioner (DDC) serving as the powerful Chief Executive Officer (CEO).\n\n### Strategic Role\nWorking in strict tandem with the constitutional District Planning Committee, the Zilla Parishad formulates composite, macro-level district development plans, supervises expansive rural road networks, and oversees district-wide educational institutions.",
+        "hi": "### सर्वोच्च ग्रामीण प्राधिकरण\nजिला परिषद बिहार के प्रत्येक 38 जिलों में त्रि-स्तरीय ग्रामीण स्थानीय स्वशासन संरचना के शीर्ष पर आराम से बैठती है, जो महत्वपूर्ण योजना और पर्यवेक्षी अधिकार को नियंत्रित करती है।\n\n### संरचना और नेतृत्व\n* **चुनावी संरचना:** सदस्य सीधे चुने जाते हैं (लगभग 50,000 आबादी पर एक), सभी पंचायत समिति प्रमुख और जिला विधायक पदेन सदस्य के रूप में शामिल होते हैं।\n* **कार्यकारी नेतृत्व:** निर्वाचित जिला परिषद अध्यक्ष राजनीतिक रूप से इसका नेतृत्व करते हैं, जिसमें वरिष्ठ उप विकास आयुक्त (डीडीसी) शक्तिशाली मुख्य कार्यपालक अधिकारी (सीईओ) के रूप में कार्य करते हैं।\n\n### रणनीतिक भूमिका\nसंवैधानिक जिला योजना समिति के साथ सख्त तालमेल में काम करते हुए, जिला परिषद समग्र, वृहद-स्तरीय जिला विकास योजनाएं तैयार करती है, विस्तृत ग्रामीण सड़क नेटवर्क की निगरानी करती है, और जिले भर के शैक्षणिक संस्थानों की देखरेख करती है।"
+      },
+      "bpscRelevance": {
+        "en": "CEO of Zilla Parishad (DDC), ratio of representation (~50,000 population), total count (38), and role in District Planning Committee (Article 243ZD).",
+        "hi": "जिला परिषद के मुख्य कार्यपालक अधिकारी (डीडीसी), प्रतिनिधित्व का अनुपात (~50,000 जनसंख्या), कुल संख्या (38), और जिला योजना समिति (अनुच्छेद 243ZD) में भूमिका।"
+      }
+    },
+    {
+      "id": "women-empowerment-in-local-governance",
+      "name": {
+        "en": "50% Women Reservation in Local Governance",
+        "hi": "स्थानीय शासन में महिलाओं के लिए 50% आरक्षण"
+      },
+      "category": {
+        "en": "Affirmative Action & Social Transformation",
+        "hi": "सकारात्मक कार्रवाई एवं सामाजिक परिवर्तन"
+      },
+      "statutoryMilestone": "Section 13, 38, and 65 of Bihar Panchayati Raj Act, 2006 & Bihar Municipal Act, 2007",
+      "empiricalImpact": {
+        "en": [
+          "Over 50% of the elected representatives across all three tiers of Panchayati Raj in Bihar are women (frequently reaching 52-54% in general elections due to women also winning unreserved open seats)",
+          "Over 4,200 women Mukhiyas and thousands of female Sarpanchs lead village governance",
+          "Catalyzed unprecedented women participation in public works, SHG formation ('JEEViKA' / Bihar Rural Livelihoods Project), and school management committees",
+          "Spurred other Indian states (including MP, Rajasthan, Himachal Pradesh, Uttarakhand) to replicate Bihar's 50% model"
+        ],
+        "hi": [
+          "बिहार में पंचायती राज के तीनों स्तरों पर निर्वाचित प्रतिनिधियों में से 50% से अधिक महिलाएं हैं (सामान्य सीटों पर भी जीतने के कारण अक्सर 52-54% तक पहुंच जाती हैं)",
+          "4,200 से अधिक महिला मुखिया और हजारों महिला सरपंच ग्रामीण शासन का नेतृत्व करती हैं",
+          "सार्वजनिक कार्यों, स्वयं सहायता समूहों के गठन ('जीविका' / बिहार ग्रामीण आजीविका परियोजना), और स्कूल प्रबंधन समितियों में महिलाओं की अभूतपूर्व भागीदारी को गति दी",
+          "अन्य भारतीय राज्यों (मध्य प्रदेश, राजस्थान, हिमाचल प्रदेश, उत्तराखंड सहित) को बिहार के 50% मॉडल को अपनाने के लिए प्रेरित किया"
+        ]
+      },
+      "description": {
+        "en": "### A Historic Leap Forward\nThe statutory enactment of 50% reservation for women in local bodies in 2006 stands as one of the most consequential and revolutionary social engineering milestones in modern Bihar's history.\n\n### Shattering the Glass Ceiling\nPrior to 2006, women's participation was severely confined. Bihar's bold policy instantly created a massive generation of grassroots female political leaders, decisively breaking traditional patriarchal boundaries in deeply conservative rural societies.\n\n### Empirical Impact\n* **Massive Representation:** Over 50% of elected representatives across all three PR tiers are now women (often reaching 52-54% as women also conquer unreserved seats).\n* **Social Synergy:** This political empowerment powerfully synergized with the 'JEEViKA' (rural livelihoods) movement, driving unprecedented female participation in public works and school management, ultimately forcing other states to replicate Bihar's model.",
+        "hi": "### एक ऐतिहासिक छलांग\n2006 में स्थानीय निकायों में महिलाओं के लिए 50% आरक्षण का वैधानिक अधिनियमन आधुनिक बिहार के इतिहास में सबसे महत्वपूर्ण और क्रांतिकारी सामाजिक इंजीनियरिंग मील के पत्थरों में से एक है।\n\n### ग्लास सीलिंग को तोड़ना\n2006 से पहले, महिलाओं की भागीदारी गंभीर रूप से सीमित थी। बिहार की साहसिक नीति ने तुरंत जमीनी स्तर की महिला राजनीतिक नेताओं की एक विशाल पीढ़ी का निर्माण किया, जिसने गहराई से रूढ़िवादी ग्रामीण समाजों में पारंपरिक पितृसत्तात्मक सीमाओं को निर्णायक रूप से तोड़ दिया।\n\n### अनुभवजन्य प्रभाव\n* **व्यापक प्रतिनिधित्व:** पीआर (पंचायती राज) के तीनों स्तरों पर 50% से अधिक निर्वाचित प्रतिनिधि अब महिलाएं हैं (अक्सर 52-54% तक पहुंच जाती हैं क्योंकि महिलाएं अनारक्षित सीटों पर भी जीत हासिल करती हैं)।\n* **सामाजिक तालमेल:** इस राजनीतिक सशक्तिकरण ने 'जीविका' (ग्रामीण आजीविका) आंदोलन के साथ शक्तिशाली रूप से तालमेल बिठाया, सार्वजनिक कार्यों और स्कूल प्रबंधन में महिलाओं की अभूतपूर्व भागीदारी को प्रेरित किया, जिसने अंततः अन्य राज्यों को बिहार के मॉडल को दोहराने के लिए मजबूर किया।"
+      },
+      "bpscRelevance": {
+        "en": "Most highlighted topic in BPSC Mains Essay and GS-II: Role of 50% reservation, synergy with JEEViKA (World Bank funded Bihar Rural Livelihoods Project), and woman empowerment indices.",
+        "hi": "BPSC मुख्य परीक्षा निबंध और GS-II में सबसे प्रमुख विषय: 50% आरक्षण की भूमिका, जीविका (विश्व बैंक द्वारा वित्तपोषित बिहार ग्रामीण आजीविका परियोजना) के साथ तालमेल, और महिला सशक्तिकरण सूचकांक।"
+      }
+    },
+    {
+      "id": "urban-local-bodies-bihar",
+      "name": {
+        "en": "Urban Local Bodies (ULBs) Structure",
+        "hi": "शहरी स्थानीय निकाय (ULB) संरचना"
+      },
+      "category": {
+        "en": "Urban Governance",
+        "hi": "शहरी शासन"
+      },
+      "statutoryFramework": "Bihar Municipal Act, 2007 (enacted under 74th Constitutional Amendment Act, 1992)",
+      "asOf": "2024-01-01",
+      "urbanTiers": [
+        {
+          "tierName": {
+            "en": "Municipal Corporation (Nagar Nigam)",
+            "hi": "नगर निगम"
+          },
+          "criteria": {
+            "en": "Larger urban areas with population exceeding 200,000",
+            "hi": "2,00,000 से अधिक जनसंख्या वाले बड़े शहरी क्षेत्र"
+          },
+          "currentCount": 19,
+          "majorCorporations": [
+            "Patna",
+            "Gaya",
+            "Bhagalpur",
+            "Muzaffarpur",
+            "Bihar Sharif",
+            "Darbhanga",
+            "Purnia",
+            "Begusarai",
+            "Katihar",
+            "Ara",
+            "Chhapra",
+            "Munger",
+            "Sasaram",
+            "Motihari",
+            "Bettiah",
+            "Samastipur",
+            "Saharsa",
+            "Madhubani",
+            "Sitamarhi"
+          ]
+        },
+        {
+          "tierName": {
+            "en": "Municipal Council (Nagar Parishad)",
+            "hi": "नगर परिषद"
+          },
+          "criteria": {
+            "en": "Medium urban areas with population between 40,000 and 200,000",
+            "hi": "40,000 से 2,00,000 के बीच जनसंख्या वाले मध्यम शहरी क्षेत्र"
+          },
+          "currentCount": 88
+        },
+        {
+          "tierName": {
+            "en": "Town Council (Nagar Panchayat)",
+            "hi": "नगर पंचायत"
+          },
+          "criteria": {
+            "en": "Transitional areas from rural to urban with population between 12,000 and 40,000",
+            "hi": "12,000 से 40,000 के बीच जनसंख्या वाले ग्रामीण से शहरी संक्रमणकालीन क्षेत्र"
+          },
+          "currentCount": 154
+        }
+      ],
+      "landmark2022ElectoralReform": {
+        "en": "Under the Bihar Municipal (Amendment) Act 2022, Mayors and Deputy Mayors (and Nagar Parishad/Panchayat Presidents) are DIRECTLY ELECTED by the registered voters of the entire city, ending horse-trading among ward councillors.",
+        "hi": "बिहार नगरपालिका (संशोधन) अधिनियम 2022 के तहत, मेयर और डिप्टी मेयर (तथा नगर परिषद/पंचायत अध्यक्ष) पूरे शहर के पंजीकृत मतदाताओं द्वारा सीधे निर्वाचित होते हैं, जिससे वार्ड पार्षदों के बीच खरीद-फरोख्त समाप्त हुई।"
+      },
+      "description": {
+        "en": "### Governing the Cities\nUrban governance in Bihar is robustly structured under the Bihar Municipal Act 2007. The state categorizes its Urban Local Bodies (ULBs) into three functional tiers based on population density and urbanization levels.\n\n### The Urban Hierarchy\n* **Municipal Corporations (Nagar Nigam):** 19 massive corporations manage major urban agglomerations (population > 200,000) like Patna, Gaya, and Bhagalpur.\n* **Municipal Councils (Nagar Parishad):** 88 councils govern medium-sized urban centers.\n* **Town Councils (Nagar Panchayat):** 154 councils manage rapidly transitioning rural-to-urban areas.\n\n### Historic Electoral Reform\nUnder a landmark 2022 amendment, Mayors and Deputy Mayors are now DIRECTLY ELECTED by the registered voters of the entire city. This monumental reform eradicated the chronic political horse-trading among ward councillors, ensuring stable and accountable city leadership.",
+        "hi": "### शहरों का शासन\nबिहार में शहरी शासन बिहार नगरपालिका अधिनियम 2007 के तहत मजबूती से संरचित है। राज्य जनसंख्या घनत्व और शहरीकरण के स्तर के आधार पर अपने शहरी स्थानीय निकायों (ULB) को तीन कार्यात्मक स्तरों में वर्गीकृत करता है।\n\n### शहरी पदानुक्रम\n* **नगर निगम:** 19 विशाल निगम पटना, गया और भागलपुर जैसे प्रमुख शहरी समूहों (जनसंख्या > 2,00,000) का प्रबंधन करते हैं।\n* **नगर परिषद:** 88 परिषदें मध्यम आकार के शहरी केंद्रों का शासन करती हैं।\n* **नगर पंचायत:** 154 परिषदें तेजी से ग्रामीण-से-शहरी क्षेत्रों में परिवर्तित हो रहे क्षेत्रों का प्रबंधन करती हैं।\n\n### ऐतिहासिक चुनाव सुधार\nएक ऐतिहासिक 2022 संशोधन के तहत, मेयर और डिप्टी मेयर अब पूरे शहर के पंजीकृत मतदाताओं द्वारा सीधे निर्वाचित होते हैं। इस स्मारकीय सुधार ने वार्ड पार्षदों के बीच पुरानी राजनीतिक खरीद-फरोख्त को मिटा दिया, जिससे स्थिर और जवाबदेह शहर नेतृत्व सुनिश्चित हुआ।"
+      },
+      "bpscRelevance": {
+        "en": "Total Municipal Corporations in Bihar (19), direct election of Mayors under 2022 amendment, urbanization rate (11.3% in 2011 census to ~16%+ currently), and 74th Amendment provisions.",
+        "hi": "बिहार में कुल नगर निगम (19), 2022 संशोधन के तहत मेयर का प्रत्यक्ष चुनाव, शहरीकरण दर (2011 की जनगणना में 11.3% से बढ़कर वर्तमान में ~16%+), और 74वें संशोधन के प्रावधान।"
+      }
+    }
+  ]
+}

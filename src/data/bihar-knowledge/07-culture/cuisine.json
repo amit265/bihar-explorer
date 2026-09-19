@@ -1,0 +1,190 @@
+{
+  "data": [
+    {
+      "id": "litti-chokha",
+      "name": {
+        "en": "Litti Chokha",
+        "hi": "लिट्टी चोखा"
+      },
+      "category": "main-course",
+      "giTagged": false,
+      "districtIds": [
+        "bhojpur",
+        "patna",
+        "buxar",
+        "gaya",
+        "rohtas"
+      ],
+      "description": {
+        "en": "### Introduction\n**Litti Chokha** is the undisputed culinary ambassador of Bihar. It is a hearty, rustic, and incredibly flavourful dish that perfectly represents the agricultural heartland of the state.\n\n### The Anatomy of Litti\n* **The Shell:** Whole wheat dough balls form the sturdy outer shell.\n* **The Stuffing:** The core is packed with spiced *sattu* (roasted gram flour), vigorously mixed with ajwain, kalonji, pungent mustard oil, garlic, fiery green chilies, and tangy pickle masala.\n* **The Baking:** Traditionally, it is slow-baked over smoldering cow dung embers or charcoal, lending it a distinctive earthy smokiness.\n\n### The Accompaniments\nBefore serving, the hot Litti is cracked open and dipped generously in pure *desi cow ghee*. It is invariably accompanied by *Chokha*—a fiery, smoky mash of roasted eggplants, tomatoes, boiled potatoes, raw mustard oil, and coriander.",
+        "hi": "### परिचय\n**लिट्टी चोखा** बिहार का निर्विवाद पाक राजदूत है। यह एक पेट भरने वाला, देहाती और अविश्वसनीय रूप से स्वादिष्ट व्यंजन है जो राज्य के कृषि क्षेत्र का पूरी तरह से प्रतिनिधित्व करता है।\n\n### लिट्टी की संरचना\n* **आवरण:** गेहूं के आटे की गोलियां मजबूत बाहरी आवरण बनाती हैं।\n* **भराव (स्टफिंग):** इसके अंदर मसालेदार *सत्तू* (भुना हुआ चना पाउडर) भरा जाता है, जिसे अजवाइन, मंगरैल (कलौंजी), तीखे सरसों के तेल, लहसुन, तीखी हरी मिर्च और खट्टे अचार के मसाले के साथ अच्छी तरह मिलाया जाता है।\n* **सिंकाई:** पारंपरिक रूप से, इसे गाय के गोबर के सुलगते उपलों या कोयले पर धीमी आंच पर सेंका जाता है, जो इसे एक विशिष्ट मिट्टी का धुएं वाला स्वाद देता है।\n\n### साथ में परोसा जाने वाला (चोखा)\nपरोसने से पहले, गर्म लिट्टी को तोड़ा जाता है और शुद्ध *देसी गाय के घी* में डुबोया जाता है। इसके साथ हमेशा *चोखा* परोसा जाता है—जो भुने हुए बैंगन, टमाटर, उबले हुए आलू, कच्चे सरसों के तेल और धनिया का एक तीखा, धुएं के स्वाद वाला मिश्रण होता है।"
+      },
+      "nutritionalValue": {
+        "en": "High in dietary fiber, plant protein from roasted gram flour, gut-friendly spices, and low glycemic index.",
+        "hi": "चने के सत्तू से भरपूर वनस्पति प्रोटीन, पाचन के लिए अनुकूल मसाले और प्रचुर मात्रा में फाइबर।"
+      }
+    },
+    {
+      "id": "sattu-sharbat",
+      "name": {
+        "en": "Sattu Sharbat (Bihari Protein Drink)",
+        "hi": "सत्तू शर्बत (देसी प्रोटीन पेय)"
+      },
+      "category": "beverage",
+      "giTagged": false,
+      "districtIds": [
+        "patna",
+        "bhojpur",
+        "gaya",
+        "muzaffarpur",
+        "darbhanga"
+      ],
+      "description": {
+        "en": "### Introduction\n**Sattu Sharbat** is Bihar’s revered indigenous superfood and the ultimate refreshing health beverage. Made from finely roasted Bengal gram (*chana*) flour, it is a nutritional powerhouse widely consumed to beat the brutal North Indian summers.\n\n### Variations\n* **Savory (Namkeen):** The most popular version. Sattu is blended with chilled water, roasted cumin powder, black salt, chopped onions, fresh mint, green chilies, and a generous squeeze of lemon juice.\n* **Sweet (Meetha):** A simpler, energy-dense version where the flour is briskly whisked with chilled water and raw *desi jaggery* or brown sugar.\n\n### Health Benefits\nKnown as the 'poor man’s protein', it boasts a low glycemic index, massive amounts of dietary fiber, and acts as a potent natural coolant that protects against the scorching summer *loo* (heatwaves).",
+        "hi": "### परिचय\n**सत्तू शर्बत** बिहार का श्रद्धेय स्वदेशी सुपरफूड और बेहतरीन ताजगी देने वाला स्वास्थ्यवर्धक पेय है। बारीक भुने हुए चने के आटे से बना, यह एक पोषण का पावरहाउस है जिसका व्यापक रूप से उत्तर भारतीय गर्मियों को मात देने के लिए सेवन किया जाता है।\n\n### प्रकार\n* **नमकीन:** सबसे लोकप्रिय संस्करण। सत्तू को ठंडे पानी, भुना जीरा पाउडर, काला नमक, बारीक कटे प्याज, ताजे पुदीने, हरी मिर्च और नींबू के रस के साथ मिलाया जाता है।\n* **मीठा:** एक सरल, ऊर्जा से भरपूर संस्करण जहां आटे को ठंडे पानी और कच्चे *देसी गुड़* या ब्राउन शुगर के साथ फेंटा जाता है।\n\n### स्वास्थ्य लाभ\n'गरीबों के प्रोटीन' के रूप में जाना जाने वाला, यह कम ग्लाइसेमिक इंडेक्स, आहार फाइबर की भारी मात्रा का दावा करता है, और एक शक्तिशाली प्राकृतिक शीतलक (कूलेंट) के रूप में कार्य करता है जो चिलचिलाती गर्मियों की *लू* से बचाता है।"
+      }
+    },
+    {
+      "id": "silao-khaja",
+      "name": {
+        "en": "Silao Khaja",
+        "hi": "सिलाव का खाजा"
+      },
+      "category": "sweet-delicacy",
+      "giTagged": true,
+      "giRegistrationYear": 2018,
+      "districtIds": [
+        "nalanda"
+      ],
+      "originPlace": {
+        "en": "Silao, Nalanda",
+        "hi": "सिलाव, नालंदा"
+      },
+      "description": {
+        "en": "### Introduction\n**Silao Khaja** is a legendary multi-layered, ultra-crisp dessert native to the historic town of Silao, situated between the ancient ruins of Nalanda and Rajgir. In 2018, it rightfully earned a Geographical Indication (GI) tag for its unique craftsmanship.\n\n### Culinary Craftsmanship\n* **Ingredients:** It is prepared from a meticulous dough of wheat flour, *maida* (refined flour), and pure ghee.\n* **The 52 Layers:** Master confectioners fold the dough into 52 crisp, wafer-thin layers. It is then deep-fried to a state of golden perfection.\n* **The Sweetening:** Finally, it is lightly steeped in boiling sugar syrup in a way that sweetens the pastry without ever losing its delicate, melt-in-the-mouth crunch.\n\n### Historical Ties\nLocal legends closely associate Khaja with the ancient Magadhan court. Folklore suggests that even Lord Buddha was offered this exquisite delicacy when he passed through Silao.",
+        "hi": "### परिचय\n**सिलाव का खाजा** नालंदा और राजगीर के प्राचीन खंडहरों के बीच स्थित ऐतिहासिक शहर सिलाव का एक प्रसिद्ध बहु-स्तरीय और अत्यंत कुरकुरा मिष्ठान्न है। 2018 में, इसने अपनी अनूठी शिल्प कौशल के लिए भौगोलिक संकेत (GI) टैग अर्जित किया।\n\n### पाक शिल्प कौशल\n* **सामग्री:** इसे गेहूं के आटे, *मैदा* और शुद्ध घी के बारीक गूंथे हुए आटे से तैयार किया जाता है।\n* **52 परतें:** कुशल हलवाई आटे को 52 कुरकुरी, पतली परतों में मोड़ते हैं। फिर इसे सुनहरा होने तक डीप फ्राई किया जाता है।\n* **मिठास:** अंत में, इसे उबलती चीनी की चाशनी में इस तरह से हल्का डुबोया जाता है कि यह अपने मुंह में पिघलने वाले नाजुक कुरकुरेपन को खोए बिना मीठा हो जाए।\n\n### ऐतिहासिक संबंध\nस्थानीय किंवदंतियां खाजा को प्राचीन मगध दरबार से गहराई से जोड़ती हैं। लोककथाओं से पता चलता है कि जब भगवान बुद्ध सिलाव से गुजरे थे, तब उन्हें भी यह उत्कृष्ट व्यंजन परोसा गया था।"
+      },
+      "historicalContext": {
+        "en": "Local historical legends associate Khaja with the ancient Magadhan court and Buddhist traveler records dating back more than two millennia.",
+        "hi": "स्थानीय जनश्रुतियों के अनुसार प्राचीन मगध साम्राज्य और भगवान बुद्ध के समय से ही इस स्वादिष्ट मिष्ठान्न का उल्लेख मिलता है।"
+      }
+    },
+    {
+      "id": "gaya-tilkut",
+      "name": {
+        "en": "Gaya Tilkut",
+        "hi": "गया का तिलकुट"
+      },
+      "category": "winter-sweet",
+      "giTagged": false,
+      "districtIds": [
+        "gaya"
+      ],
+      "description": {
+        "en": "### Introduction\n**Gaya Tilkut** is a legendary winter specialty of Gaya that holds immense cultural and religious significance. It is the indispensable dish of the Makar Sankranti festival, traditionally consumed alongside fresh curd and flattened rice (*Dahi-Chura*).\n\n### The Grueling Process\n* **Ingredients:** It requires only two primary ingredients: white sesame seeds (*til*) and boiling concentrated jaggery (*gur*) or refined sugar.\n* **The Beating:** The preparation is a rhythmic, labor-intensive manual process. The hot sesame and jaggery candy is transferred to stone anvils where artisans beat it continuously with heavy wooden or iron hammers. \n\n### The Result\nThis rigorous beating traps air and stretches the sugars, transforming a hard candy into light, crumbly, and exquisite wafer-like discs that melt instantly in the mouth.",
+        "hi": "### परिचय\n**गया का तिलकुट** गया की एक ऐतिहासिक शीतकालीन मिठाई है जिसका अत्यधिक सांस्कृतिक और धार्मिक महत्व है। यह मकर संक्रांति के त्योहार का अनिवार्य व्यंजन है, जिसे पारंपरिक रूप से ताजे दही और चूड़े (दही-चूड़ा) के साथ खाया जाता है।\n\n### कठोर प्रक्रिया\n* **सामग्री:** इसके लिए केवल दो मुख्य सामग्रियों की आवश्यकता होती है: सफेद तिल और खौलता हुआ गाढ़ा गुड़ या चीनी।\n* **कुटाई:** इसकी तैयारी एक लयबद्ध और श्रम-गहन मैनुअल प्रक्रिया है। गर्म तिल और गुड़ की चाशनी को पत्थर के खांचों में स्थानांतरित किया जाता है जहां कारीगर इसे लगातार भारी लकड़ी या लोहे के हथौड़ों (मूसल) से कूटते हैं।\n\n### परिणाम\nयह कठोर कुटाई हवा को फंसाती है और शर्करा को फैलाती है, जिससे एक सख्त कैंडी हल्की, भुरभुरी और उत्कृष्ट वेफर जैसी बन जाती है जो मुंह में जाते ही घुल जाती है।"
+      },
+      "varieties": [
+        "Gur Tilkut (Jaggery)",
+        "Shakkar Tilkut (Refined Sugar)",
+        "Khoya Tilkut"
+      ]
+    },
+    {
+      "id": "thekua-khajuria",
+      "name": {
+        "en": "Thekua (Khajuria)",
+        "hi": "ठेकुआ (खजुरिया)"
+      },
+      "category": "sacred-prasad-sweet",
+      "giTagged": false,
+      "districtIds": [
+        "patna",
+        "gaya",
+        "darbhanga",
+        "muzaffarpur",
+        "bhojpur"
+      ],
+      "description": {
+        "en": "### Introduction\n**Thekua** (also known as Khajuria) is much more than a sweet snack; it is the most sacred and beloved *Mahaprasad* of the Chhath Puja festival. \n\n### Traditional Preparation\n* **The Dough:** The stiff dough is strictly hand-kneaded using coarse whole wheat flour, fragrant *desi* ghee, molten jaggery (or sugar), crushed cardamom, dry coconut slivers, and fennel seeds.\n* **The Moulding:** The dough is pressed onto intricately carved wooden dies called *saancha*, which imprint beautiful motifs of the sun, leaves, and flowers onto the cookies.\n* **Frying:** They are then deep-fried on a very slow flame in pure ghee until they achieve a reddish-brown color, resulting in a crunchy exterior and a crumbly interior.\n\n### Cultural Value\nThekua symbolizes purity, devotion, and the harvest, carrying the distinct, nostalgic aroma of Bihari households during the festive season.",
+        "hi": "### परिचय\n**ठेकुआ** (जिसे खजुरिया भी कहा जाता है) केवल एक मीठा नाश्ता नहीं है; यह छठ पूजा महापर्व का सबसे पवित्र और प्रिय *महाप्रसाद* है।\n\n### पारंपरिक तैयारी\n* **आटा (डोह):** सख्त आटे को दरदरे गेहूं के आटे, सुगंधित *देसी घी*, पिघले गुड़ (या चीनी), कुचली हुई इलायची, सूखे नारियल के टुकड़ों और सौंफ का उपयोग करके हाथों से गूंथा जाता है।\n* **सांचा:** गूंथे हुए आटे को *सांचा* नामक जटिल नक्काशीदार लकड़ी के खांचों पर दबाया जाता है, जो कुकीज़ पर सूरज, पत्तियों और फूलों के सुंदर रूपांकनों को उकेरते हैं।\n* **तलना:** फिर उन्हें शुद्ध घी में बहुत धीमी आंच पर तब तक डीप फ्राई किया जाता है जब तक कि वे लाल-भूरे रंग के न हो जाएं, जिसके परिणामस्वरूप बाहरी हिस्सा कुरकुरा और अंदर का हिस्सा भुरभुरा होता है।\n\n### सांस्कृतिक मूल्य\nठेकुआ पवित्रता, भक्ति और फसल का प्रतीक है, जो त्योहारी सीज़न के दौरान बिहारी घरों की विशिष्ट और पुरानी यादों वाली सुगंध को वहन करता है।"
+      }
+    },
+    {
+      "id": "champaran-meat-ahuna",
+      "name": {
+        "en": "Champaran Handi Meat (Ahuna Meat)",
+        "hi": "चंपारण हांडी मटन (अहुना मीट)"
+      },
+      "category": "slow-cooked-specialty",
+      "giTagged": false,
+      "districtIds": [
+        "west-champaran",
+        "east-champaran",
+        "patna"
+      ],
+      "description": {
+        "en": "### Introduction\n**Champaran Handi Meat**, popularly known as *Ahuna Meat*, is a celebrated culinary innovation from the Champaran district. It has taken the Indian culinary scene by storm due to its unique slow-cooking technique and rustic flavors.\n\n### The Ahuna Technique\n* **Marination:** Fresh mutton is heavily marinated with whole pods of garlic, whole dry red chilies, crushed onions, cumin, coriander, and most importantly, pungent raw mustard oil.\n* **Sealing:** The marinated meat is placed inside an unglazed earthen clay pot (*Ahuna* or *Handi*). The mouth of the pot is hermetically sealed with wheat flour dough to lock in the steam.\n* **Slow Cooking:** It is cooked extremely slowly over smoldering embers of wood or charcoal. No ladle is used; the chef simply swirls the sealed pot periodically to prevent burning.\n\n### The Flavor\nThe earthen pot imparts a distinct earthy aroma, while the slow cooking allows the meat to cook entirely in its own juices and the raw mustard oil, resulting in a profoundly rich and tender dish.",
+        "hi": "### परिचय\n**चंपारण हांडी मटन**, जिसे लोकप्रिय रूप से *अहुना मीट* के नाम से जाना जाता है, चंपारण जिले का एक प्रसिद्ध पाक नवाचार है। अपनी अनूठी धीमी आंच वाली खाना पकाने की तकनीक और देहाती स्वादों के कारण इसने भारतीय पाक परिदृश्य में तहलका मचा दिया है।\n\n### अहुना तकनीक\n* **मैरिनेशन:** ताजे मटन को लहसुन की साबुत गांठों, सूखी लाल मिर्च, कुचले हुए प्याज, जीरा, धनिया और सबसे महत्वपूर्ण रूप से तीखे कच्चे सरसों के तेल के साथ भारी मात्रा में मैरीनेट किया जाता है।\n* **सीलिंग:** मैरीनेट किए गए मांस को मिट्टी के एक बिना पके बर्तन (*अहुना* या *हांडी*) के अंदर रखा जाता है। भाप को अंदर रोकने के लिए बर्तन के मुंह को गेहूं के आटे से पूरी तरह सील कर दिया जाता है।\n* **धीमी आंच पर पकना:** इसे लकड़ी या कोयले के सुलगते अंगारों पर बेहद धीमी आंच पर पकाया जाता है। किसी चमचे (कड़छी) का उपयोग नहीं किया जाता है; शेफ जलने से बचाने के लिए समय-समय पर सील किए गए बर्तन को केवल हिलाता है।\n\n### स्वाद\nमिट्टी का बर्तन एक अलग मिट्टी की सुगंध प्रदान करता है, जबकि धीमी आंच पर पकने से मांस पूरी तरह से अपने रस और कच्चे सरसों के तेल में पक जाता है, जिसके परिणामस्वरूप एक अत्यंत समृद्ध और मुलायम व्यंजन बनता है।"
+      }
+    },
+    {
+      "id": "mithila-makhana-dishes",
+      "name": {
+        "en": "Mithila Makhana (Fox Nut) Delicacies",
+        "hi": "मिथिला मखाना व्यंजन (खीर एवं करी)"
+      },
+      "category": "delicacy-superfood",
+      "giTagged": true,
+      "giRegistrationYear": 2022,
+      "districtIds": [
+        "madhubani",
+        "darbhanga",
+        "samastipur",
+        "purnia",
+        "katihar"
+      ],
+      "description": {
+        "en": "### Introduction\nBihar holds a near-monopoly on Fox Nuts (*Euryale ferox*), accounting for over 85% of India's total production. Harvested arduously from the wetlands of Mithila, **Mithila Makhana** was awarded a Geographical Indication (GI) tag in 2022.\n\n### Culinary Uses\n* **Makhana Kheer:** The crown jewel of Maithil banquets. The roasted fox nuts are simmered slowly in whole milk, richly flavored with saffron, cardamom, and roasted cashews, creating a luxurious dessert.\n* **Savory Curries:** Makhana is also cooked into rich, savory tomato and cashew-based gravies (*Makhana-Kaju Curry*) served during festive feasts.\n\n### Cultural Hospitality\nIn Mithila culture, offering *'Paan, Maach, aur Makhaan'* (Betel leaf, Fish, and Fox Nuts) is considered the highest form of respect and traditional hospitality, symbolizing prosperity and well-being.",
+        "hi": "### परिचय\nमखाने (*यूरियाल फेरोक्स*) पर बिहार का लगभग एकाधिकार है, जो भारत के कुल उत्पादन का 85% से अधिक हिस्सा पैदा करता है। मिथिला की आर्द्रभूमियों से कड़ी मेहनत से काटे गए, **मिथिला मखाना** को 2022 में भौगोलिक संकेत (GI) टैग से सम्मानित किया गया था।\n\n### पाक उपयोग\n* **मखाने की खीर:** मैथिल भोज का सबसे प्रमुख व्यंजन। भुने हुए मखानों को दूध में धीमी आंच पर पकाया जाता है, और केसर, इलायची और भुने हुए काजू के साथ समृद्ध स्वाद दिया जाता है, जिससे एक शानदार मिठाई बनती है।\n* **नमकीन करी (सब्जी):** मखाने को त्योहारी दावतों के दौरान परोसे जाने वाले समृद्ध, स्वादिष्ट टमाटर और काजू-आधारित ग्रेवी (*मखाना-काजू करी*) में भी पकाया जाता है।\n\n### सांस्कृतिक आतिथ्य\nमिथिला संस्कृति में, *'पान, माछ और मखान'* (पान का पत्ता, मछली और मखाना) पेश करना सम्मान और पारंपरिक आतिथ्य का सर्वोच्च रूप माना जाता है, जो समृद्धि और कल्याण का प्रतीक है।"
+      }
+    },
+    {
+      "id": "parwal-ki-mithai",
+      "name": {
+        "en": "Parwal Ki Mithai",
+        "hi": "परवल की मिठाई"
+      },
+      "category": "vegetable-sweet",
+      "giTagged": false,
+      "districtIds": [
+        "patna",
+        "bhojpur",
+        "vaishali"
+      ],
+      "description": {
+        "en": "### Introduction\n**Parwal Ki Mithai** is a rare and astonishing sweetmeat masterpiece from Bihar that completely transforms a common savory vegetable—the green pointed gourd (*parwal*)—into a luxurious culinary gem.\n\n### The Transformation Process\n* **Preparation:** Tender, flawless gourds are carefully peeled, slit, and completely de-seeded. They are then blanched to retain their vibrant green color.\n* **Sweetening:** The gourds are simmered in a cardamom-scented sugar syrup until they become delicately sweet and translucent.\n* **The Stuffing:** The hollowed, sweet gourds are generously stuffed with rich, roasted milk solids (*khoya/mawa*), infused with saffron, and studded with crushed pistachios and almonds.\n\n### The Final Touch\nGarnished with edible silver foil (*vark*), this sweet is a testament to the ingenuity of traditional Bihari halwais (confectioners), commonly served during weddings and major festivals.",
+        "hi": "### परिचय\n**परवल की मिठाई** बिहार की एक दुर्लभ और आश्चर्यजनक उत्कृष्ट मिठाई है जो एक आम सब्जी—हरे परवल—को पूरी तरह से एक शानदार पाक रत्न में बदल देती है।\n\n### परिवर्तन की प्रक्रिया\n* **तैयारी:** ताजे, बेदाग परवलों को सावधानीपूर्वक छीला जाता है, काटा जाता है और पूरी तरह से बीज निकाल दिए जाते हैं। फिर उनके जीवंत हरे रंग को बनाए रखने के लिए उन्हें हल्का उबाला जाता है।\n* **मिठास:** परवलों को इलायची की सुगंध वाली चीनी की चाशनी में तब तक पकाया जाता है जब तक कि वे नाजुक रूप से मीठे और पारदर्शी न हो जाएं।\n* **भराव (स्टफिंग):** खोखले, मीठे परवलों को केसर से युक्त और कुचले हुए पिस्ता व बादाम जड़े हुए समृद्ध, भुने हुए मावे (खोया) से भर दिया जाता है।\n\n### अंतिम रूप\nखाद्य चांदी के वर्क से सजी यह मिठाई पारंपरिक बिहारी हलवाइयों की सरलता का प्रमाण है, जिसे आमतौर पर शादियों और प्रमुख त्योहारों के दौरान परोसा जाता है।"
+      }
+    },
+    {
+      "id": "malpua-bihar",
+      "name": {
+        "en": "Bihari Malpua",
+        "hi": "बिहारी मालपुआ"
+      },
+      "category": "sweet-delicacy",
+      "giTagged": false,
+      "districtIds": [
+        "patna",
+        "gaya",
+        "darbhanga",
+        "bhojpur"
+      ],
+      "description": {
+        "en": "### Introduction\n**Bihari Malpua** is a luscious, deeply comforting festive pancake that is absolutely mandatory in Bihar during the festival of Holi and other celebratory feasts.\n\n### The Rich Batter\nUnlike regular pancakes, the Bihari Malpua is incredibly rich. The batter is made by combining all-purpose flour (*maida*) with heavily mashed overripe bananas, whole milk, a touch of semolina (*sooji*) for crispness, crushed fennel seeds (*saunf*), and grated dry fruits.\n\n### Frying and Steeping\n* **The Fry:** Ladles of the thick batter are dropped into smoking hot *desi ghee*, where they spread into perfect circles and are deep-fried until the edges are exceptionally crisp and golden brown.\n* **The Syrup:** Straight out of the wok, they are plunged into boiling sugar syrup infused with green cardamom and saffron.\n\nThe result is a dessert that is dangerously addictive—crisp on the edges, spongy and syrup-soaked in the center.",
+        "hi": "### परिचय\n**बिहारी मालपुआ** एक बहुत ही स्वादिष्ट और आनंददायक पारंपरिक पकवान (पैनकेक) है जो होली के त्योहार और अन्य उत्सव के भोज के दौरान बिहार में बिल्कुल अनिवार्य है।\n\n### समृद्ध घोल\nनियमित पैनकेक के विपरीत, बिहारी मालपुआ अविश्वसनीय रूप से समृद्ध होता है। इसका घोल मैदा को अच्छी तरह से मसले हुए अधिक पके केले, दूध, कुरकुरेपन के लिए थोड़ी सूजी, कुचली हुई सौंफ और कद्दूकस किए हुए सूखे मेवों को मिलाकर बनाया जाता है।\n\n### तलना और चाशनी में डुबोना\n* **तलना:** गाढ़े घोल को कलछी से गर्म *देसी घी* में डाला जाता है, जहां वे पूर्ण वृत्तों में फैल जाते हैं और किनारों के असाधारण रूप से कुरकुरा और सुनहरा भूरा होने तक डीप फ्राई किए जाते हैं।\n* **चाशनी:** कड़ाही से सीधे बाहर निकालकर, उन्हें हरी इलायची और केसर से युक्त उबलती चीनी की चाशनी में डुबोया जाता है।\n\nपरिणाम एक ऐसी मिठाई है जिसकी लत लग सकती है—किनारों पर कुरकुरी, बीच में स्पंजी और चाशनी से लथपथ।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,593 @@
+[
+  {
+    "id": "punaura-dham",
+    "slug": "punaura-dham",
+    "name": {
+      "en": "Punaura Dham",
+      "hi": "पुनौरा धाम"
+    },
+    "districtId": "sitamarhi",
+    "placeType": "temple",
+    "primaryCategory": "religious",
+    "categories": [
+      "religious",
+      "pilgrimage",
+      "historical",
+      "heritage"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "ramayana",
+      "ramayana_circuit",
+      "shiva_circuit"
+    ],
+    "tags": [
+      "mustVisit",
+      "featured",
+      "ramayanaCircuit",
+      "heritage",
+      "pilgrimage",
+      "sitaBirthplace"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "The sanctified birthplace of Goddess Sita, featuring the holy Sita Kund sarovar and the revered Janaki Temple on the historic Ramayana Circuit.",
+      "hi": "जगज्जननी माता सीता का परम पावन प्राकट्य स्थल, जहाँ पवित्र सीता कुंड सरोवर और भव्य जानकी मंदिर रामायण सर्किट के प्रमुख केंद्र के रूप में सुशोभित हैं।"
+    },
+    "description": {
+      "en": "**Punaura Dham** (पुनौरा धाम), situated approximately five kilometers west of Sitamarhi town in northern Bihar, is globally venerated as the sanctified birthplace of **Goddess Sita** (Mata Janaki), the supreme embodiment of devotion, virtue, maternal fortitude, and sacrifice. According to timeless Vedic traditions, the revered epic **Ramayana**, and the Vishnu Purana, this sacred sanctuary marks the exact location where King Janaka of Videha ploughed the drought-stricken earth with a ceremonial golden plough. Upon tilling the holy soil, he unearthed a consecrated earthen pot containing the radiant infant Sita, an event that instantly brought life-giving monsoon rains to parched Mithila.\n\nThe sprawling temple complex encompasses the majestic **Janaki Temple**, enshrining consecrated marble idols of Mata Sita, Lord Rama, and Lakshmana, along with the revered **Sita Kund**—a sacred sarovar believed to possess restorative and spiritually cleansing energies. Pilgrims from across India and Nepal converge here in perpetual streams to offer reverent prayers, perform circumambulation (parikrama), and meditate in an atmosphere steeped in maternal tenderness and spiritual purity. As an anchor destination under the national **Ramayana Circuit**, Punaura Dham stands as an inspiring monument to India's timeless spiritual consciousness, civilizational integrity, and maternal shakti.",
+      "hi": "**पुनौरा धाम** उत्तरी बिहार के सीतामढ़ी जिला मुख्यालय से लगभग पाँच किलोमीटर पश्चिम में स्थित एक अत्यंत पावन, ऐतिहासिक और विश्वविख्यात तीर्थ स्थल है, जिसे **माता सीता** (माता जानकी) के पावन प्राकट्य स्थल के रूप में संपूर्ण विश्व में पूजा जाता है। सनातन धर्म के पवित्र ग्रंथों, पुराणों और **रामायण** महाकाव्य के अनुसार, यह वही दिव्य भूमि है जहाँ विदेह राज **राजर्षि जनक** ने भीषण दुर्भिक्ष और अकाल से प्रजा को मुक्ति दिलाने के लिए सोने का हल चलाकर भूमि पूजन किया था। हल की नोक (सीत) से टकराकर पृथ्वी से एक स्वर्ण मंजूषा प्रकट हुई, जिसमें से जगज्जननी माता सीता का बाल रूप में दिव्य अवतरण हुआ, जिसके पश्चात संपूर्ण मिथिला मूसलाधार वर्षा से तृप्त हो गई।\n\nइस विस्तृत और मनोरम मंदिर परिसर में **माता जानकी** का मुख्य गर्भगृह सुशोभित है, जिसमें भगवान श्रीराम, माता सीता और लक्ष्मण जी की मनोहारी प्रतिमाएं प्रतिष्ठित हैं। मुख्य मंदिर के निकट ही ऐतिहासिक एवं पवित्र **सीता कुंड** सरोवर स्थित है, जहाँ स्नान और आचमन करने से पापों का शमन तथा मानसिक शांति की प्राप्ति मानी जाती है। भारत और नेपाल (विशेषकर जनकपुर धाम) से लाखों श्रद्धालु यहाँ दर्शन, परिक्रमा और ध्यान के लिए पधारते हैं। केंद्र और राज्य सरकार द्वारा **रामायण सर्किट** के अंतर्गत इस पावन धाम का भव्य जीर्णोद्धार और आध्यात्मिक केंद्र के रूप में पुनर्विकास किया जा रहा है, जो इसे वैश्विक पटल पर एक प्रमुख आध्यात्मिक तीर्थ के रूप में स्थापित करता है।"
+    },
+    "history": {
+      "en": "The historical and scriptural antiquity of **Punaura Dham** extends back to the Treta Yuga, richly documented in Maharshi Valmiki's **Ramayana**, the Adhyatma Ramayana, and Goswami Tulsidas's **Ramcharitmanas**. Ancient legends recount that during the reign of King Janaka, the prosperous kingdom of Mithila suffered a devastating multi-year drought. On the counsel of enlightened Vedic sages and royal preceptors, the righteous king took up a golden plough at the hermitage of **Pundrik Rishi** (from whose name *Punaura* is derived) to perform the sacred Halakarshana ritual. The miraculous unearthing of the divine child not only sanctified the earth but instantly heralded cosmic renewal and torrential rainfall.\n\nThroughout the medieval and early modern eras, the hermitage transformed into a focal sanctuary for ascetics of the **Ramanandi Sampradaya** and devoted Vaishnavite sadhus who preserved the sacred grounds through centuries of political upheaval. The ruling dynasties of Mithila, including the **Karnat and Oiniwar dynasties**, contributed land grants and protective endowments to maintain daily worship. In the early 20th century, modern stone and marble sanctums were erected over the ancient foundations under the auspices of local religious trusts. Today, scholarly excavations and state-led heritage conservation under the **PRASHAD scheme** continue to validate and preserve this hallowed bedrock of India's cultural tapestry.",
+      "hi": "**पुनौरा धाम** का ऐतिहासिक और पौराणिक परिप्रेक्ष्य त्रेतायुग से अविभाज्य रूप से जुड़ा हुआ है, जिसका विशद उल्लेख महर्षि वाल्मीकि रचित **रामायण**, अध्यात्म रामायण तथा गोस्वामी तुलसीदास कृत **श्रीरामचरितमानस** में मिलता है। प्राचीन आख्यानों के अनुसार, जब मिथिला राज्य में लगातार कई वर्षों तक वर्षा न होने के कारण भीषण दुर्भिक्ष पड़ा, तब कुलगुरुओं और त्रिकालदर्शी ऋषियों के परामर्श पर राजर्षि जनक ने **पुंडरीक ऋषि** के आश्रम के समीप (जिससे कालांतर में *पुनौरा* नाम पड़ा) सोने के हल से धरती को जोतकर यज्ञीय अनुष्ठान किया था। हल के स्पर्श से भूमि से दिव्य मंजूषा प्रकट हुई और जानकी जी के अवतरण के साथ ही संपूर्ण मिथिला में अमृतमयी वर्षा हुई।\n\nमध्यकाल और आधुनिक काल में यह तपोभूमि **रामानंदी संप्रदाय** के वैष्णव संतों और साधकों की प्रमुख साधना स्थली बनी, जिन्होंने कठिन ऐतिहासिक परिस्थितियों में भी इस तीर्थ की पवित्रता और पूजा परंपरा को अक्षुण्ण रखा। मिथिला के ऐतिहासिक **कर्णाट वंश** और **ओइनवार वंश** के नरेशों ने मंदिर के संवर्धन हेतु भूमि दान और संरक्षण प्रदान किया। बीसवीं शताब्दी के आरंभ में स्थानीय धार्मिक न्यास और श्रद्धालुओं के सहयोग से यहाँ संगमरमर और प्रस्तर का वर्तमान भव्य मंदिर निर्मित हुआ। वर्तमान में केंद्र और बिहार सरकार की **प्रसाद योजना** (PRASHAD Scheme) के तहत इस ऐतिहासिक धरोहर का आधुनिकतम सुविधाओं के साथ पुनर्विकास किया जा रहा है, जो इसके प्राचीन गौरव को नई आभा प्रदान कर रहा है।"
+    },
+    "significance": {
+      "en": "The theological, cultural, and spiritual significance of **Punaura Dham** is unparalleled, as it represents the genesis of **Mata Sita**, who epitomizes the highest ideals of Bharatiya womanhood—unflinching righteousness (Dharma), maternal benevolence, endurance, and boundless grace. As a pivotal anchor on the international **Ramayana Circuit**, Punaura Dham bridges the holy trajectory running from **Ayodhya** in Uttar Pradesh to **Janakpur Dham** in Nepal, creating an unbroken trail of epic devotion. Devotees believe that visiting this sacred sanctuary dissolves ancestral afflictions, fosters matrimonial harmony, and instills profound mental tranquility.\n\nThe spiritual radiance of Punaura Dham peaks during the grand observance of **Janaki Navami** (the appearance day of Goddess Sita in the bright fortnight of Vaishakha), when hundreds of thousands of pilgrims assemble for 24-hour Akhand Kirtan, ceremonial recitations, and colorful chariot processions. Major festivals such as **Vivaha Panchami**, **Sharadiya Navratri**, and **Chhath Puja** witness ecstatic celebrations marked by traditional Maithili folk singing, ritual offerings, and illumination of thousands of earthen lamps around Sita Kund. The temple stands not merely as an architectural marvel, but as an eternal wellspring of moral strength and civilizational identity for millions across the globe.",
+      "hi": "**पुनौरा धाम** का धार्मिक, दार्शनिक और सांस्कृतिक महत्व अद्वितीय है, क्योंकि यह स्थल भारतीय संस्कृति में त्याग, तपस्या, पातिव्रत्य और नारी-शक्ति की सर्वोच्च प्रतीक **माता सीता** के प्राकट्य का साक्षी है। वैश्विक स्तर पर विकसित किए जा रहे **रामायण सर्किट** में पुनौरा धाम का स्थान अत्यंत केंद्रीय है, जो भगवान श्रीराम की जन्मभूमि **अयोध्या** और माता सीता की विवाहस्थली **जनकपुर धाम** (नेपाल) के मध्य एक पवित्र आध्यात्मिक सेतु का कार्य करता है। ऐसी दृढ़ मान्यता है कि इस पावन धाम में श्रद्धापूर्वक शीश नवाने और सीता कुंड में आचमन करने से पारिवारिक कलह समाप्त होते हैं, दांपत्य जीवन में सुख-समृद्धि का वास होता है और आत्मिक शांति प्राप्त होती है।\n\nप्रत्येक वर्ष वैशाख मास के शुक्ल पक्ष की नवमी को मनाया जाने वाला **जानकी नवमी** महोत्सव यहाँ का मुख्य आकर्षण है, जिसमें देश-विदेश से लाखों श्रद्धालु, संत और मनीषी सम्मिलित होते हैं। इस अवसर पर अखंड रामचरितमानस पाठ, वैदिक ऋचाओं का गान, भव्य शोभायात्राएं और पारंपरिक मैथिली सोहर व भजनों की गूंज से संपूर्ण क्षेत्र भक्तिमय हो उठता है। इसके अतिरिक्त **विवाह पंचमी**, **शारदीय नवरात्रि** तथा **छठ महापर्व** के पावन अवसर पर भी सीता कुंड के घाट हजारों दीपों की रोशनी से जगमगा उठते हैं। यह पावन धाम लोक आस्था, सांस्कृतिक एकता और आध्यात्मिक चेतना का एक शाश्वत प्रकाशस्तंभ है।"
+    },
+    "location": {
+      "address": {
+        "en": "**Punaura Dham Temple Complex**, situated along Punaura Road in the serene rural environs of **Sitamarhi Rural**, Post Office Punaura, Sitamarhi District, Bihar, Postal Index Number (PIN) **843302**, India.\n\nThe holy shrine is strategically positioned approximately **5 kilometers west** of the Sitamarhi District Administrative Headquarters and the Sitamarhi Junction Railway Station. It lies comfortably connected via State Highway 87 (SH-87) and National Highway 227 (NH-227), allowing effortless vehicular access from major urban hubs including Muzaffarpur (approx. 65 km away) and Patna (approx. 140 km away). Flanked by lush agricultural farmlands, historic mango orchards, and the sacred Sita Kund sarovar, this tranquil address provides an unobstructed, spiritually vibrant setting that warmly welcomes pilgrims, researchers, and tourists arriving via regional transport corridors.",
+        "hi": "**पुनौरा धाम मंदिर परिसर**, पुनौरा रोड, **सीतामढ़ी ग्रामीण**, डाकघर पुनौरा, जिला सीतामढ़ी, बिहार, पिन कोड **843302**, भारत।\n\nयह परम पावन तीर्थ स्थल सीतामढ़ी जिला समाहरणालय (मुख्यालय) और सीतामढ़ी जंक्शन रेलवे स्टेशन से लगभग **5 किलोमीटर पश्चिम** में एक शांत और सुरम्य ग्रामीण परिवेश में स्थित है। यह धाम राज्य राजमार्ग 87 (SH-87) और राष्ट्रीय राजमार्ग 227 (NH-227) के माध्यम से सुगमतापूर्वक जुड़ा हुआ है, जिससे मुजफ्फरपुर (लगभग 65 किमी) और राजधानी पटना (लगभग 140 किमी) से सीधी और सुगम सड़क कनेक्टिविटी उपलब्ध है। ऐतिहासिक सीता कुंड सरोवर, प्राचीन वटवृक्षों और हरे-भरे आम के बगीचों से घिरा यह शांत पता तीर्थयात्रियों, शोधकर्ताओं और पर्यटकों के लिए एक सुलभ, तनावमुक्त, सुरक्षित और गहन आध्यात्मिक गंतव्य प्रदान करता है।"
+      },
+      "latitude": 26.5985,
+      "longitude": 85.4678,
+      "mapQuery": "Punaura Dham, Sitamarhi, Bihar"
+    },
+    "visitingInfo": {
+      "recommendedDurationMinutes": 90,
+      "bestTimeToVisit": {
+        "en": "October to March",
+        "hi": "अक्टूबर से मार्च"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Accessible by road from Sitamarhi district headquarters (approx. 5 km west). Well-connected via State Highway 87 (SH-87) and National Highway 227 (NH-227), linking directly to Muzaffarpur (65 km) and Patna (140 km).",
+        "hi": "सीतामढ़ी जिला मुख्यालय से सड़क मार्ग द्वारा सुगमता से पहुँचा जा सकता है (लगभग 5 किमी पश्चिम)। राज्य राजमार्ग 87 (SH-87) और राष्ट्रीय राजमार्ग 227 (NH-227) के माध्यम से मुजफ्फरपुर (65 किमी) और पटना (140 किमी) से सीधा सड़क संपर्क उपलब्ध है।"
+      },
+      "localTransport": {
+        "en": "Local auto-rickshaws, e-rickshaws, and private taxis are readily available throughout the day from Sitamarhi Junction railway station and the central bus stand.",
+        "hi": "सीतामढ़ी जंक्शन रेलवे स्टेशन और मुख्य बस स्टैंड से स्थानीय ऑटो-रिक्शा, ई-रिक्शा और निजी टैक्सियां दिनभर आसानी से उपलब्ध रहती हैं।"
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": true,
+      "atm": true,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 250,
+      "stairs": true,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "- **Aarti & Devotional Timings**: Attend the serene Morning Aarti (Mangala Aarti) at dawn around 05:30 AM or the mesmerizing Evening Sandhya Aarti at 06:30 PM to immerse yourself in deeply peaceful Vedic chants, resonant brass bells, and a spiritually radiant atmosphere before the sanctum sanctorum.",
+        "hi": "- **आरती और दर्शन का सर्वोत्तम समय**: प्रातःकालीन मंगला आरती (लगभग 05:30 बजे) अथवा सूर्यास्त के समय होने वाली संध्या आरती (लगभग 06:30 बजे) में अवश्य सम्मिलित हों, जब वैदिक मंत्रोच्चार, पीतल के दीपों और शंखध्वनि से मंदिर का वातावरण अत्यंत दिव्य, पावन और अलौकिक हो उठता है।"
+      },
+      {
+        "en": "- **Holy Dip in Sita Kund**: Devotees wishing to take a sacred bath or perform ritual ablutions in the holy Sita Kund sarovar are advised to carry an extra pair of modest traditional clothes, use the designated changing enclosures, and strictly avoid using soap, shampoo, or chemical detergents to preserve water sanctity.",
+        "hi": "- **सीता कुंड में पवित्र स्नान**: पावन सीता कुंड सरोवर में स्नान या आचमन करने के इच्छुक श्रद्धालु अपने साथ अतिरिक्त शालीन वस्त्र रखें, निर्धारित वस्त्र परिवर्तन कक्षों का उपयोग करें और जल की आध्यात्मिक शुचिता बनाए रखने के लिए साबुन, शैम्पू अथवा डिटर्जेंट का उपयोग बिल्कुल न करें।"
+      },
+      {
+        "en": "- **Festivals & Cultural Fairs**: Plan your visit during **Janaki Navami** (April–May) or **Vivaha Panchami** (November–December) to witness majestic chariot processions, continuous 24-hour Ramayana recitations, authentic Maithili devotional singing, and vibrant cultural village fairs that showcase regional handicrafts.",
+        "hi": "- **उत्सव और सांस्कृतिक मेले**: मिथिला की समृद्ध लोक संस्कृति, रथयात्रा और भक्ति संगीत का साक्षी बनने के लिए **जानकी नवमी** (अप्रैल-मई) या **विवाह पंचमी** (नवंबर-दिसंबर) के समय यात्रा की योजना बनाएं, जब पूरा तीर्थ दीपों की रोशनी और लोक भजनों से जगमगा उठता है।"
+      },
+      {
+        "en": "- **Comprehensive Ramayana Heritage Circuit**: Maximize your spiritual exploration by combining your visit to Punaura Dham with neighboring sacred sites, including **Haleshwar Sthan** (ancient Shiva shrine, 5 km away), the central **Janaki Mandir** in Sitamarhi town, and **Panthpakar** (where Sita's bridal palanquin rested).",
+        "hi": "- **संपूर्ण रामायण सर्किट यात्रा**: अपनी यात्रा को परिपूर्ण बनाने के लिए पुनौरा धाम के साथ **हलेश्वर स्थान** (शिव मंदिर, 5 किमी दूर), सीतामढ़ी नगर स्थित **जानकी मंदिर** तथा **पंथपाकर** (माता सीता की डोली का विश्राम स्थल) को एक दिवसीय यात्रा कार्यक्रम में अवश्य शामिल करें।"
+      },
+      {
+        "en": "- **Temple Etiquette & Offerings**: Wear modest, traditional attire respectful of Hindu temple customs, safely deposit footwear at the designated entrance stalls, and seek assistance only from authorized shrine trust priests if organizing specific Sankalp pujas, Hawan rituals, or special Archana offerings.",
+        "hi": "- **मंदिर शिष्टाचार और व्यवस्था**: धार्मिक गरिमा के अनुकूल शालीन पारंपरिक परिधान धारण करें, प्रवेश द्वार के पास बने जूता घर में जूते-चप्पल सुरक्षित रखें, और किसी भी विशेष पूजा, हवन अथवा संकल्प अनुष्ठान के लिए केवल मंदिर न्यास के अधिकृत पुजारियों से ही संपर्क करें।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "janaki-mandir-sitamarhi",
+      "haleshwar-sthan",
+      "panthpakar"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        {
+          "title": "Punaura Dham - Ramayana Circuit",
+          "organization": "Bihar Tourism, Government of Bihar",
+          "url": "https://tourism.bihar.gov.in/"
+        },
+        {
+          "title": "District Sitamarhi - Places of Interest",
+          "organization": "District Administration Sitamarhi",
+          "url": "https://sitamarhi.nic.in/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "janaki-mandir-sitamarhi",
+    "slug": "janaki-mandir-sitamarhi",
+    "name": {
+      "en": "Janaki Mandir (Janaki Sthan)",
+      "hi": "जानकी मंदिर (जानकी स्थान)"
+    },
+    "districtId": "sitamarhi",
+    "placeType": "temple",
+    "primaryCategory": "religious",
+    "categories": [
+      "religious",
+      "historical",
+      "pilgrimage",
+      "heritage"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "ramayana",
+      "ramayana_circuit"
+    ],
+    "tags": [
+      "mustVisit",
+      "featured",
+      "ramayanaCircuit",
+      "heritage",
+      "urvijaKund",
+      "pilgrimage"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "The historic central Janaki Mandir of Sitamarhi town, revered for Urvija Kund and its rediscovery by Saint Birbal Das five centuries ago.",
+      "hi": "सीतामढ़ी नगर के हृदय में स्थित ऐतिहासिक जानकी मंदिर, जो पवित्र उर्विला/उर्विजा कुंड और 500 वर्ष पूर्व संत बीरबल दास द्वारा पुनर्प्राप्ति के लिए पूजनीय है।"
+    },
+    "description": {
+      "en": "**Janaki Mandir** (जानकी मंदिर), also affectionately known as **Janaki Sthan**, is the historic and spiritual nucleus located in the heart of Sitamarhi town in northern Bihar. Consecrated to **Goddess Sita** (Mata Janaki), along with Lord Rama and Lakshmana, this venerable temple is celebrated as one of the oldest centers of unbroken devotion in Mithila. According to age-old regional traditions, King Janaka of Videha excavated a holy tank here and installed stone figures of Rama, Sita, and Lakshmana to commemorate the divine manifestation of Goddess Sita from the sacred soil.\n\nThe centerpiece of this sanctified enclave is the venerable **Urvija Kund** (also revered as Janaki Kund), a tranquil sacred sarovar adjoining the main temple courtyard. The word *Urvija* signifies 'one born from the earth', an epithet of Mata Sita. The shrine complex features an ornate marble mandapa, soaring shikharas, beautifully sculpted sanctums, and vibrant courtyards where daily Vedic rituals, Chalisas, and devotional Ramayana cantos resonate uninterruptedly. Serving as the ceremonial starting point for the annual **Sitamarhi Dham Parikrama Yatra**, Janaki Sthan draws thousands of devout souls seeking maternal blessings, inner peace, and divine grace.",
+      "hi": "**जानकी मंदिर** (जिसे श्रद्धापूर्वक **जानकी स्थान** भी कहा जाता है), उत्तरी बिहार के सीतामढ़ी नगर के केंद्र में स्थित एक अत्यंत पावन, प्राचीन और आध्यात्मिक तीर्थ स्थल है। **माता सीता** (माता जानकी), भगवान श्रीराम और लक्ष्मण जी को समर्पित यह ऐतिहासिक मंदिर मिथिलांचल में अटूट आस्था और भक्ति का प्रमुख केंद्र है। पौराणिक मान्यताओं के अनुसार, त्रेतायुग में माता सीता के प्राकट्य के उपरांत विदेह नरेश **राजा जनक** ने इस स्थान पर एक पवित्र पुष्करिणी का निर्माण करवाया था तथा अपनी पुत्री जानकी और दामाद श्रीराम के दिव्य स्वरूप को चिरस्थायी बनाने हेतु प्रस्तर प्रतिमाएं स्थापित की थीं।\n\nइस पावन मंदिर परिसर का मुख्य आकर्षण **उर्विजा कुंड** (जिसे जानकी कुंड भी कहा जाता है) है, जो मुख्य मंदिर प्रांगण से सटा हुआ एक पवित्र सरोवर है। संस्कृत में *उर्विजा* का अर्थ 'पृथ्वी से उत्पन्न' होता है, जो माता सीता का ही एक पावन नाम है। मंदिर में संगमरमर का भव्य मंडप, नक्काशीदार शिखर तथा शांत गर्भगृह सुशोभित हैं, जहाँ प्रतिदिन वैदिक मंत्रोच्चार, जानकी चालीसा और श्रीरामचरितमानस की चौपाइयों की मधुर गूंज सुनाई देती है। प्रत्येक वर्ष वैशाख मास में आयोजित होने वाली ऐतिहासिक **सीतामढ़ी धाम परिक्रमा यात्रा** का शुभारंभ इसी पावन जानकी स्थान से होता है, जहाँ देश-विदेश से श्रद्धालु माता का आशीर्वाद प्राप्त करने आते हैं।"
+    },
+    "history": {
+      "en": "The historical narrative of **Janaki Mandir (Janaki Sthan)** is an inspiring saga of spiritual preservation spanning millennia. While scriptural traditions trace its roots back to King Janaka's commemoration of Sita's unearthing, the original ancient shrines were lost to the dense forests and swamps that reclaimed the region over turbulent medieval centuries. Around **500 years ago**, a renowned Vaishnava ascetic and mystic from Ayodhya named **Saint Birbal Das** was guided to this spot through divine inspiration. Guided by recurring visions, Birbal Das cleared the untamed jungle, excavated the forgotten foundations, and miraculously uncovered the ancient stone murties established by King Janaka.\n\nBirbal Das constructed a rustic hermitage and re-established formal Vaishnavite worship under the **Ramanandi Sampradaya**, reviving Sitamarhi as a major pilgrimage outpost. Recognizing the immense sanctity of the revived shrine, local chieftains, the Maharaja of Darbhanga, and benevolent zamindars provided substantial endowments of fertile agricultural land to support its daily rituals, pilgrims' guest houses, and the maintenance of Urvija Kund. In the early decades of the 20th century, the present brick and stone temple complex was constructed, replacing earlier structures while preserving the ancient sacred murtis inside the inner sanctum.",
+      "hi": "**जानकी मंदिर (जानकी स्थान)** का ऐतिहासिक परिप्रेक्ष्य सहस्राब्दियों पुरानी आध्यात्मिक साधना और पुनरुद्धार की एक अद्भुत गाथा है। यद्यपि पौराणिक परंपराएं इसे त्रेतायुग में राजा जनक द्वारा स्थापित मूल स्थान मानती हैं, परंतु मध्यकाल के राजनीतिक उतार-चढ़ाव और प्राकृतिक आपदाओं के कारण यह स्थल घने जंगलों में लुप्त हो गया था। लगभग **500 वर्ष पूर्व**, अयोध्या से आए एक महान वैष्णव संत और सिद्ध तपस्वी **महात्मा बीरबल दास** को स्वप्न में माता सीता के दिव्य विग्रह की पुनर्प्राप्ति का दैवीय आदेश प्राप्त हुआ। बीरबल दास जी ने इस निर्जन वन को साफ कराया, खुदाई करवाई और राजा जनक कालीन प्राचीन पाषाण प्रतिमाओं को खोज निकाला।\n\nसंत बीरबल दास ने यहाँ एक कुटिया स्थापित कर **रामानंदी संप्रदाय** के अनुसार विधिवत पूजा-अर्चना पुनः आरंभ की, जिससे सीतामढ़ी एक बार फिर प्रमुख तीर्थ के रूप में जाग्रत हुआ। कालांतर में मिथिला के राजाओं, दरभंगा महाराज और स्थानीय जमींदारों ने मंदिर के संचालन, साधु-सेवा तथा उर्विला कुंड के जीर्णोद्धार हेतु विपुल भूमि दान की। बीसवीं शताब्दी के आरंभ में श्रद्धालुओं और धार्मिक न्यास के सहयोग से वर्तमान पक्के मंदिर, शिखर और धर्मशाला का निर्माण कराया गया, जिसने प्राचीन विग्रहों को सुरक्षित रखते हुए इस ऐतिहासिक मंदिर को उसका आधुनिक भव्य स्वरूप प्रदान किया।"
+    },
+    "significance": {
+      "en": "The religious and cultural significance of **Janaki Mandir** is foundational to the identity of Sitamarhi, the town named directly in honor of Goddess Sita. Serving as the urban spiritual anchor of the district, Janaki Sthan embodies the profound filial devotion of the people of Mithila toward Sita, whom they revere not merely as a goddess, but intimately as their daughter (**Mithila Ki Beti**). Every visitor to the shrine is welcomed with customary Maithili hospitality, reflecting centuries of unbroken maternal adoration and spiritual kinship.\n\nThe temple becomes an epicenter of magnificent religious festivities during **Sita Navami** (the appearance day of Sita) and **Ram Navami** (the birth of Lord Rama), when hundreds of thousands of pilgrims participate in the grand **Sitamarhi Parikrama**, circumambulating the town's sacred shrines starting from Urvija Kund. Another spectacular occasion is **Vivaha Panchami** (the wedding anniversary of Rama and Sita), commemorated with authentic Maithili wedding rituals, traditional folk songs, and exuberant baraat processions. Pilgrims take holy dips in Urvija Kund, believing its sanctified waters bestow spiritual clarity, dispel marital hurdles, and bestow lifelong familial harmony.",
+      "hi": "**जानकी मंदिर** का धार्मिक, सांस्कृतिक और सामाजिक महत्व सीतामढ़ी के अस्तित्व से जुड़ा है, क्योंकि स्वयं सीतामढ़ी नगर का नामकरण माता सीता के पावन नाम पर ही हुआ है। नगर के आध्यात्मिक केंद्र के रूप में यह मंदिर मिथिलावासियों के उस अनूठे भाव को प्रकट करता है, जिसके अंतर्गत वे माता सीता को केवल पूज्य देवी ही नहीं, बल्कि अपने घर की लाडली बेटी (**मिथिला की बेटी**) मानकर अत्यंत स्नेह और आत्मीयता से पूजते हैं। यहाँ आने वाले प्रत्येक श्रद्धालु को मिथिला की इस ममतामयी और आत्मीय संस्कृति का साक्षात अनुभव होता है।\n\nवैशाख मास में **जानकी नवमी** तथा चैत्र मास में **रामनवमी** के पावन अवसर पर यहाँ अभूतपूर्व धार्मिक उत्सव आयोजित होते हैं। इस दौरान ऐतिहासिक **सीतामढ़ी परिक्रमा** का आयोजन होता है, जिसमें लाखों भक्त उर्विला कुंड से संकल्प लेकर नगर के सभी देवालयों की परिक्रमा करते हैं। अगहन मास की **विवाह पंचमी** पर यहाँ श्रीराम-जानकी विवाह का अलौकिक उत्सव मनाया जाता है, जिसमें पारंपरिक मैथिली वैवाहिक गीत (सोहर, समदौन) गाए जाते हैं और भव्य बारात निकाली जाती है। मान्यता है कि पवित्र उर्विला कुंड में स्नान करने से दांपत्य जीवन के कष्ट दूर होते हैं, मनोकामनाएं पूर्ण होती हैं और परिवार में सुख-शांति का स्थायी वास होता है।"
+    },
+    "location": {
+      "address": {
+        "en": "**Janaki Mandir (Janaki Sthan Temple Complex)**, located in the central temple precinct of **Rajopatti / Sitamarhi Bazar**, Post Office Sitamarhi, Sitamarhi District, Bihar, Postal Index Number (PIN) **843302**, India.\n\nThe sanctified temple is conveniently positioned in the heart of Sitamarhi town, situated approximately **1.5 kilometers southwest** of the Sitamarhi Junction Railway Station and about **1 kilometer** from the main Government Bus Stand. It is easily accessed via Station Road, Court Road, and Janaki Mandir Path, connecting smoothly to National Highway 227 (NH-227) and State Highway 87. Flanked by the sacred Urvija Kund sarovar, bustling traditional devotional bazaars, and pilgrim rest houses, this historic address provides an easily accessible, highly prominent, and spiritually vibrant destination for travelers and devotees exploring the holy soil of Mithila.",
+        "hi": "**जानकी मंदिर (जानकी स्थान मंदिर परिसर)**, मुख्य मंदिर परिसर, **राजोपट्टी / सीतामढ़ी बाजार**, मुख्य डाकघर सीतामढ़ी, जिला सीतामढ़ी, बिहार, पिन कोड **843302**, भारत।\n\nयह ऐतिहासिक मंदिर सीतामढ़ी नगर के मध्य में अत्यंत सुलभ स्थान पर स्थित है, जो सीतामढ़ी जंक्शन रेलवे स्टेशन से मात्र **1.5 किलोमीटर दक्षिण-पश्चिम** तथा मुख्य सरकारी बस स्टैंड से लगभग **1 किलोमीटर** की दूरी पर स्थित है। यह स्टेशन रोड, कोर्ट रोड और जानकी मंदिर मार्ग द्वारा राष्ट्रीय राजमार्ग 227 (NH-227) तथा राज्य राजमार्ग 87 से सीधे जुड़ा हुआ है। पवित्र उर्विला (उर्विजा) कुंड, पारंपरिक पूजा-सामग्री के बाजारों, धर्मशालाओं और रिहायशी बस्तियों से घिरा यह पता देश-विदेश से आने वाले श्रद्धालुओं, पर्यटकों और शोधार्थियों के लिए नगर के भीतर अत्यंत सुलभ, सुरक्षित और भक्तिमय गंतव्य प्रदान करता है।"
+      },
+      "latitude": 26.5952,
+      "longitude": 85.4808,
+      "mapQuery": "Janaki Mandir, Janaki Sthan, Sitamarhi, Bihar"
+    },
+    "visitingInfo": {
+      "recommendedDurationMinutes": 60,
+      "bestTimeToVisit": {
+        "en": "October to March",
+        "hi": "अक्टूबर से मार्च"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Easily accessible by road located centrally in Sitamarhi town, connecting smoothly to National Highway 227 (NH-227) and State Highway 87 via Court Road and Station Road.",
+        "hi": "सीतामढ़ी नगर के केंद्र में स्थित होने के कारण सड़क मार्ग से सुगम पहुंच उपलब्ध है; यह कोर्ट रोड और स्टेशन रोड के माध्यम से राष्ट्रीय राजमार्ग 227 (NH-227) और राज्य राजमार्ग 87 से सीधे जुड़ा है।"
+      },
+      "localTransport": {
+        "en": "Abundant e-rickshaws, cycle-rickshaws, and auto-rickshaws connect Janaki Sthan with the railway station and bus terminus throughout the day.",
+        "hi": "रेलवे स्टेशन और बस स्टैंड से जानकी स्थान के लिए दिनभर प्रचुर मात्रा में ई-रिक्शा, साइकिल-रिक्शा और ऑटो-रिक्शा उपलब्ध रहते हैं।"
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": true,
+      "atm": true
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 100,
+      "stairs": true,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "- **Urvija Kund Rituals & Parikrama**: Take time to walk along the paved parikrama path encircling the sacred **Urvija Kund**; morning hours (06:00 AM to 08:30 AM) offer the calmest ambience for offering arghya to the rising sun and meditating beside the historic waters.",
+        "hi": "- **उर्विजा कुंड दर्शन एवं परिक्रमा**: पवित्र **उर्विजा कुंड** के चारों ओर बने पक्के परिक्रमा पथ पर शांतिपूर्वक भ्रमण करें; प्रातःकाल 06:00 से 08:30 बजे का समय उदित होते सूर्य को अर्घ्य देने और ऐतिहासिक सरोवर के तट पर ध्यान लगाने के लिए सर्वाधिक शांत और प्रेरणादायी होता है।"
+      },
+      {
+        "en": "- **Sitamarhi Dham Parikrama Participation**: If traveling during the bright fortnight of Vaishakha, join thousands of barefoot pilgrims participating in the historic **Sitamarhi Parikrama Yatra**, which ceremonially commences from Janaki Sthan with sacred flag hoistings and traditional conch blowing.",
+        "hi": "- **सीतामढ़ी धाम परिक्रमा यात्रा**: यदि आप वैशाख शुक्ल पक्ष के दौरान यात्रा कर रहे हैं, तो जानकी स्थान से आरंभ होने वाली ऐतिहासिक **सीतामढ़ी परिक्रमा यात्रा** में अवश्य भाग लें, जहाँ हजारों श्रद्धालु नंगे पांव शंखध्वनि और भजन-कीर्तन के साथ नगर के सभी देवालयों की परिक्रमा करते हैं।"
+      },
+      {
+        "en": "- **Maithili Wedding Traditions on Vivaha Panchami**: Experience authentic Maithili bridal rituals during **Vivaha Panchami** (Nov–Dec), where local women sing classical wedding songs (*Sohar* and *Samdaun*) reenacting the divine wedding of Rama and Sita in deeply moving poetic detail.",
+        "hi": "- **विवाह पंचमी पर मैथिली वैवाहिक परंपराएं**: मार्गशीर्ष मास की **विवाह पंचमी** के पावन पर्व पर मंदिर अवश्य पधारें, जब मिथिला की महिलाएं पारंपरिक वैवाहिक गीत (*सोहर* और *समदौन*) गाकर प्रभु श्रीराम और माता सीता के विवाह प्रसंग का अत्यंत भावुक और जीवंत मंचन करती हैं।"
+      },
+      {
+        "en": "- **Central Market Accessibility & Parking**: Because the shrine is centrally located within the bustling market district of Sitamarhi town, traffic congestion can peak in the evenings; utilizing local e-rickshaws or walking from nearby hotel accommodations is strongly recommended over private four-wheelers.",
+        "hi": "- **बाजार क्षेत्र और सुगम आवागमन**: चूंकि यह मंदिर सीतामढ़ी नगर के मुख्य बाजार क्षेत्र के मध्य स्थित है, इसलिए शाम के समय वाहनों का दबाव बढ़ जाता है; असुविधा से बचने के लिए चार पहिया वाहन के स्थान पर स्थानीय ई-रिक्शा का उपयोग करें अथवा निकटवर्ती होटल से पैदल आएं।"
+      },
+      {
+        "en": "- **Devotional Offerings & Saint Birbal Das Smriti**: Honor the historic revival of the shrine by paying homage at the samadhi memorial of Saint Birbal Das within the broader math precincts, and purchase authentic Mithila sweets like *Tilmba* and *Balushahi* from reputable sweetshops near the temple gate.",
+        "hi": "- **बीरबल दास स्मृति एवं प्रसाद**: मंदिर परिसर के समीप स्थित संत बीरबल दास जी के स्मृति स्थल पर शीश नवाकर उनके महान योगदान का स्मरण करें, तथा मंदिर के मुख्य द्वार के निकट स्थित पारंपरिक मिष्ठान भंडारों से सीतामढ़ी की प्रसिद्ध *बालूशाही* और *तिलमबा* का शुद्ध प्रसाद प्राप्त करें।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "punaura-dham",
+      "haleshwar-sthan",
+      "panthpakar"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        {
+          "title": "Janaki Sthan Mandir",
+          "organization": "Bihar Tourism, Government of Bihar",
+          "url": "https://tourism.bihar.gov.in/"
+        },
+        {
+          "title": "Religious Places - Sitamarhi",
+          "organization": "District Administration Sitamarhi",
+          "url": "https://sitamarhi.nic.in/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-19",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "haleshwar-sthan",
+    "slug": "haleshwar-sthan",
+    "name": {
+      "en": "Haleshwar Sthan",
+      "hi": "हलेश्वर स्थान"
+    },
+    "districtId": "sitamarhi",
+    "placeType": "temple",
+    "primaryCategory": "religious",
+    "categories": [
+      "religious",
+      "historical",
+      "pilgrimage",
+      "heritage"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "ramayana",
+      "ramayana_circuit",
+      "shiva_circuit"
+    ],
+    "tags": [
+      "featured",
+      "ramayanaCircuit",
+      "shivaTemple",
+      "ancient",
+      "pilgrimage"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "An illustrious, prehistoric Shiva temple consecrated by King Janaka of Mithila prior to initiating the sacred furrow that revealed Goddess Sita.",
+      "hi": "मिथिला नरेश राजा जनक द्वारा माता सीता के प्राकट्य हेतु हल चलाने से पूर्व स्थापित एक अत्यंत प्राचीन, सिद्ध और दिव्य शिव मंदिर।"
+    },
+    "description": {
+      "en": "**Haleshwar Sthan** (हलेश्वर स्थान), situated approximately three kilometers northwest of the district headquarters of Sitamarhi in northern Bihar, is one of the oldest, most sanctified, and architecturally revered **Lord Shiva** temples in the historic Mithila region. According to unbroken regional lore and classical Hindu puranas, this prehistoric shrine was personally consecrated by **King Janaka** (Rajarshi Janaka of Videha). Faced with a catastrophic drought that devastated his subjects, the noble king consecrated this lingam to invoke Mahadev's cosmic grace before taking up the sacred golden plough (*hal*) at Punaura—giving the deity the venerated name *Haleshwar* (Lord of the Plough).\n\nThe serene temple complex houses an ancient black stone **Shiva Lingam** enshrined within a subterranean sanctum sanctorum, radiating profound meditative tranquility and divine spiritual vibrations. The holy precincts also feature a historic temple pond (*sarovar*), an imposing Nandi pavilion, and ancillary shrines dedicated to Goddess Parvati, Lord Ganesha, Lord Kartikeya, and Lord Bhairava. Pilgrims, Kanwariyas, and spiritual seekers from across Bihar and southern Nepal arrive in continuous streams, offering holy water, Belpatra leaves, Dhatura, and raw milk. Set amid peaceful rural environs, Haleshwar Sthan offers an unforgettable sanctuary for deep contemplation, devotional prayer, and spiritual renewal.",
+      "hi": "**हलेश्वर स्थान** उत्तरी बिहार के सीतामढ़ी जिला मुख्यालय से मात्र तीन किलोमीटर उत्तर-पश्चिम में स्थित देवाधिदेव **भगवान शिव** का एक अत्यंत प्राचीन, सिद्ध और ऐतिहासिक तीर्थ स्थल है। मिथिला क्षेत्र की पौराणिक परंपराओं और धर्मग्रंथों के अनुसार, इस पावन शिवलिंग की स्थापना त्रेतायुग में स्वयं मिथिला नरेश **राजर्षि जनक** ने की थी। संपूर्ण राज्य में पड़े भीषण अकाल और सूखे के निवारण हेतु धरती पर सोने का हल (*हल*) चलाने से पूर्व, राजा जनक ने भगवान आशुतोष को प्रसन्न करने और उनकी असीम कृपा प्राप्त करने के लिए इस स्थान पर शिवलिंग प्रतिष्ठित कर कठोर तपस्या की थी। हल चलाने से पूर्व स्थापित होने के कारण इस दिव्य विग्रह को **हलेश्वर महादेव** अथवा हलेश्वर नाथ कहा गया।\n\nमंदिर परिसर के मुख्य गर्भगृह में काले कसौटी प्रस्तर का एक अत्यंत प्राचीन और चमत्कारी **शिवलिंग** प्रतिष्ठित है, जिसके दर्शन मात्र से साधकों को मानसिक शांति, आध्यात्मिक ऊर्जा और दैवीय अभय की अनुभूति होती है। मंदिर परिसर में एक सुरम्य और पवित्र पुष्करिणी (तालाब), नंदी मंडप तथा माता पार्वती, विघ्नहर्ता गणेश, कार्तिकेय और भैरव जी के सुंदर सहायक मंदिर भी स्थापित हैं। उत्तर बिहार, सीमांचल तथा पड़ोसी राष्ट्र नेपाल के तराई क्षेत्रों से लाखों श्रद्धालु और शिवभक्त यहाँ जलाभिषेक, दुग्धाभिषेक तथा बेलपत्र व धतूरा अर्पित करने आते हैं। हरे-भरे ग्रामीण वातावरण में स्थित यह धाम आत्मिक शांति, साधना और महाकाल की भक्ति का एक अलौकिक केंद्र है।"
+    },
+    "history": {
+      "en": "The historical genesis of **Haleshwar Sthan** is inextricably entwined with the epic narrative of the **Ramayana** and the philosophical traditions of ancient Videha. When rainfall deserted the Mithila territory for years, bringing famine and suffering, Maharshi Yagnavalkya and court sages advised King Janaka that only propitiating Lord Shiva through intense penance could unlock the skies and heal the earth. The king consecrated this sacred lingam, performed solemn Vedic Rudrabhisheka ceremonies, and subsequently tilled the ground at Punaura where Goddess Sita miraculously emerged, prompting immediate cosmic thunderstorms and bountiful agrarian revival.\n\nThroughout the medieval era, the temple enjoyed continuous patronage and grants from the illustrious rulers of the **Karnat dynasty** of Simraungadh and later the scholarly **Oiniwar kings**, who considered Haleshwar Mahadev a foremost guardian deity of the northern frontier. During the 18th and 19th centuries, saintly ascetics from the Dasnami and Shaivite monastic orders settled here, guiding local zamindars and wealthy trading guilds to renovate the stone mandapa and construct brick parikrama pathways. Modern structural additions and perimeter development have been systematically undertaken by local temple committees and district cultural authorities, safeguarding its ancient identity while facilitating contemporary pilgrimage.",
+      "hi": "**हलेश्वर स्थान** का ऐतिहासिक और पौराणिक संदर्भ त्रेतायुग के रामायण काल और विदेह साम्राज्य की महान दार्शनिक परंपराओं से गहराई से जुड़ा हुआ है। पौराणिक आख्यानों के अनुसार, जब मिथिला की पावन धरती कई वर्षों तक वर्षा की एक-एक बूंद के लिए तरस रही थी, तब महर्षि याज्ञवल्क्य और राजपुरोहितों के परामर्श पर राजर्षि जनक ने देवाधिदेव महादेव की शरण ली। उन्होंने इस पवित्र स्थल पर शिवलिंग स्थापित कर वैदिक मंत्रोच्चार के साथ महारुद्राभिषेक संपन्न किया और महादेव से प्रजा के कल्याण का वरदान मांगा। इसके तुरंत बाद जब उन्होंने पुनौरा में हल चलाया, तो माता सीता का प्राकट्य हुआ और संपूर्ण विदेह राज्य में झमाझम अमृत वर्षा होने लगी।\n\nइतिहासकारों के अनुसार, मध्यकाल में सिमरांवगढ़ के **कर्णाट वंश** और दरभंगा के **ओइनवार वंश** के प्रतापी राजाओं ने इस मंदिर को देव-संरक्षक मानकर अनेक धार्मिक और भू-राजस्व दान दिए। अठारहवीं और उन्नीसवीं शताब्दी में दसनामी जूना अखाड़े के संन्यासियों और स्थानीय जमींदारों ने मंदिर का पुनरुद्धार करवाया तथा इसके गर्भगृह, नाट्य मंडप और सरोवर के पक्के घाटों का निर्माण कराया। वर्तमान समय में स्थानीय धार्मिक न्यास परिषद और बिहार राज्य पर्यटन विकास निगम द्वारा इस ऐतिहासिक मंदिर का योजनाबद्ध संरक्षण किया जा रहा है, जिससे इसकी प्राचीन स्थापत्य कला और ऐतिहासिक गरिमा सुरक्षित बनी हुई है।"
+    },
+    "significance": {
+      "en": "The theological, cultural, and spiritual significance of **Haleshwar Sthan** is profound, as it stands as an enduring living monument to the harmonious confluence of **Shaivism and Vaishnavism** within Bharatiya spirituality. Because King Janaka invoked Lord Shiva here immediately prior to unearthing Goddess Sita (the eternal consort of Lord Rama and avatar of Goddess Lakshmi), the temple embodies the deep, complementary scriptural relationship between Shiva and Rama. Pilgrims undertaking the sacred circuit of Sitamarhi, Janakpur, and Ayodhya consider their spiritual merits incomplete without first seeking the auspicious grace of Haleshwar Mahadev.\n\nThe spiritual atmosphere reaches a fever pitch of devotion during the holy month of **Shravan** (Sawan), when hundreds of thousands of saffron-robed **Kanwariyas** undertake arduous walking journeys carrying holy water from the sacred Bagmati, Lakhandei, and Ganga rivers to perform continuous Jalabhisheka on the Shivalingam. The monumental festival of **Maha Shivratri** draws immense crowds for night-long Vedic pujas across all four praharas (night watches), specialized Rudri path recitations, and vibrant village melas. Devotees firmly hold the faith that sincere prayers offered at this swayambhu altar grant relief from chronic diseases, remove domestic obstacles, bestow agricultural prosperity, and guide the soul toward ultimate liberation (Moksha).",
+      "hi": "**हलेश्वर स्थान** का धार्मिक, सांस्कृतिक और आध्यात्मिक महत्व अत्यंत गूढ़ है, क्योंकि यह तीर्थ सनातन धर्म की दो प्रमुख धाराओं—**शैव और वैष्णव परंपरा**—के पावन समन्वय का जीवंत प्रतीक है। चूंकि माता सीता के प्राकट्य और उनके बाल्यकाल से पूर्व स्वयं राजा जनक ने यहाँ महादेव की स्तुति की थी, इसलिए यह मंदिर सिद्ध करता है कि भगवान शिव और भगवान श्रीराम की भक्ति एक-दूसरे के पूरक हैं। सीतामढ़ी और जनकपुर धाम की तीर्थयात्रा पर आने वाले श्रद्धालुओं के लिए हलेश्वर नाथ का दर्शन करना धार्मिक दृष्टि से अत्यंत पुण्यदायी और अनिवार्य माना जाता है।\n\nपवित्र **श्रावण मास** (सावन) के दौरान यह पावन धाम भक्ति के महासागर में परिवर्तित हो जाता है। इस दौरान गेरुए वस्त्र धारण किए लाखों **कांवरिये** पवित्र बागमती, लखनदेई और गंगा नदी से जल भरकर मीलों पैदल यात्रा करते हुए 'बोल बम' के जयकारों के साथ यहाँ जलाभिषेक करते हैं। इसके अतिरिक्त **महाशिवरात्रि** का पावन पर्व यहाँ अभूतपूर्व श्रद्धा के साथ मनाया जाता है, जिसमें चारों प्रहर की विशेष पूजा, महारुद्राभिषेक और विशाल मेले का आयोजन होता है। लोक मान्यता है कि हलेश्वर महादेव के दर पर सच्ची निष्ठा से की गई प्रार्थना से असाध्य रोगों से मुक्ति, कृषि में विपुल समृद्धि, ग्रहों के दोषों का निवारण और मनोवांछित फल की प्राप्ति होती है।"
+    },
+    "location": {
+      "address": {
+        "en": "**Haleshwar Sthan Temple Complex**, situated on Haleshwar Sthan Road in the peaceful rural settlement of **Sitamarhi Rural**, Post Office Sitamarhi, Sitamarhi District, Bihar, Postal Index Number (PIN) **843302**, India.\n\nThe ancient Shiva shrine is conveniently situated approximately **3 kilometers northwest** of the Sitamarhi District Administrative Headquarters and the Sitamarhi Junction Railway Station. The site is easily accessible via the paved Sitamarhi-Riga Road and connects effortlessly to National Highway 227 (NH-227) and State Highway 87 (SH-87), making it a swift and straightforward transit point for travelers arriving from Darbhanga (approx. 70 km), Muzaffarpur (approx. 65 km), or the international Nepal border at Bairgania and Sonbarsa. Nestled amid open pastoral fields, ancestral mango groves, and adjacent to a sanctified temple sarovar (pond), the address provides an easily reachable, noise-free sanctuary deeply conducive to peaceful meditation, traditional Vedic rituals, and spiritual contemplation.",
+        "hi": "**हलेश्वर स्थान मंदिर परिसर**, हलेश्वर स्थान रोड, **सीतामढ़ी ग्रामीण**, मुख्य डाकघर सीतामढ़ी, जिला सीतामढ़ी, बिहार, पिन कोड **843302**, भारत।\n\nयह प्राचीन एवं पूज्य शिव मंदिर सीतामढ़ी जिला समाहरणालय (मुख्यालय) तथा सीतामढ़ी जंक्शन रेलवे स्टेशन से मात्र **3 किलोमीटर उत्तर-पश्चिम** में स्थित है। यह मंदिर सीतामढ़ी-रीगा पक्के मुख्य मार्ग के समीप स्थित है और राष्ट्रीय राजमार्ग 227 (NH-227) तथा राज्य राजमार्ग 87 (SH-87) से सुगमतापूर्वक जुड़ा हुआ है, जिससे मुजफ्फरपुर (लगभग 65 किमी), दरभंगा (लगभग 70 किमी) अथवा भारत-नेपाल सीमा (सोनबरसा/बैरगनिया) की ओर से आने वाले वाहनों के लिए यहाँ पहुँचना बेहद सरल और सुगम है। हरे-भरे लहलहाते खेतों, प्राचीन आम के बगीचों और मंदिर के पवित्र पुष्करिणी सरोवर के तट पर स्थित यह रमणीय पता शहरी कोलाहल से दूर, प्रदूषणमुक्त वातावरण में श्रद्धालुओं को ध्यान, महारुद्राभिषेक और पूजा-अर्चना के लिए एक आदर्श आध्यात्मिक परिवेश प्रदान करता है।"
+      },
+      "latitude": 26.6208,
+      "longitude": 85.4715,
+      "mapQuery": "Haleshwar Sthan, Sitamarhi, Bihar"
+    },
+    "visitingInfo": {
+      "recommendedDurationMinutes": 60,
+      "bestTimeToVisit": {
+        "en": "October to March",
+        "hi": "अक्टूबर से मार्च"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Accessible by road from Sitamarhi town (approx. 3 km northwest). Connected via the Sitamarhi-Riga Road and easily approachable from National Highway 227 (NH-227) and State Highway 87.",
+        "hi": "सीतामढ़ी नगर से सड़क मार्ग द्वारा आसानी से पहुँचा जा सकता है (लगभग 3 किमी उत्तर-पश्चिम)। यह सीतामढ़ी-रीगा मार्ग से जुड़ा हुआ है तथा राष्ट्रीय राजमार्ग 227 (NH-227) और राज्य राजमार्ग 87 से सीधे पहुँचा जा सकता है।"
+      },
+      "localTransport": {
+        "en": "Local auto-rickshaws, e-rickshaws, and private taxis are generally available throughout the day from Sitamarhi town and railway station.",
+        "hi": "सीतामढ़ी नगर और रेलवे स्टेशन से दिनभर स्थानीय ऑटो-रिक्शा, ई-रिक्शा और निजी टैक्सियां आसानी से उपलब्ध रहती हैं।"
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "atm": true
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 150,
+      "stairs": true,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "- **Managing Sawan & Shivratri Pilgrimage**: If planning a pilgrimage during the holy month of **Shravan (July–August)** or on **Maha Shivratri**, anticipate colossal gatherings of Kanwariyas and extended queues; arriving before 05:00 AM ensures a smoother, unhurried Jalabhisheka darshan before the sanctum.",
+        "hi": "- **सावन और शिवरात्रि में दर्शन प्रबंधन**: यदि आप पवित्र **श्रावण मास (जुलाई-अगस्त)** अथवा **महाशिवरात्रि** के महापर्व पर पधार रहे हैं, तो लाखों भक्तों और कांवरियों की भारी भीड़ को देखते हुए प्रातः 05:00 बजे से पूर्व पहुँचें ताकि सुगमता से शांतिपूर्वक शिवलिंग पर जलाभिषेक कर सकें।"
+      },
+      {
+        "en": "- **Authentic Puja Offerings**: Fresh three-leaf Belpatra, sacred Dhatura fruits, raw cow milk, wildflowers, and sanctified water can be obtained from authorized devotional kiosks positioned directly outside the main entrance arch at standardized, nominal rates.",
+        "hi": "- **पूजा सामग्री की व्यवस्था**: ताजे त्रिशूलयुक्त बेलपत्र, धतूरा, गाय का कच्चा दूध, मदार के फूल और पवित्र जल मंदिर के मुख्य द्वार के बाहर स्थित अधिकृत पूजा स्टॉलों से निर्धारित और उचित दरों पर सरलता से प्राप्त किए जा सकते हैं।"
+      },
+      {
+        "en": "- **Preserving Sarovar Sanctity**: Help preserve the spiritual purity and cleanliness of the historic temple sarovar (pushkarini); utilize the designated bathing pavilions and avoid discarding synthetic wrappers, plastic containers, or used garlands into the open water.",
+        "hi": "- **सरोवर की स्वच्छता और मर्यादा**: मंदिर के ऐतिहासिक पुष्करिणी सरोवर की शुचिता बनाए रखने में सहयोग करें; स्नान के लिए निर्धारित घाटों का प्रयोग करें तथा सरोवर के निर्मल जल में प्लास्टिक सामग्री, साबुन अथवा बासी फूल-मालाएं कदापि विसर्जित न करें।"
+      },
+      {
+        "en": "- **Coordinated Ramayana Trail Exploration**: Make the most of your travel day by pairing your morning darshan at Haleshwar Sthan with visits to **Punaura Dham** (5 km away), the town's **Janaki Mandir** (3 km away), and **Panthpakar** for an unbroken Ramayana pilgrimage itinerary.",
+        "hi": "- **संयुक्त तीर्थ यात्रा कार्यक्रम**: अपनी एक दिवसीय यात्रा को सार्थक बनाने के लिए प्रातः हलेश्वर स्थान में महादेव के दर्शन के उपरांत **पुनौरा धाम** (5 किमी), सीतामढ़ी नगर स्थित **जानकी मंदिर** (3 किमी) तथा **पंथपाकर** का संयुक्त भ्रमण कर रामायण सर्किट का पुण्य लाभ लें।"
+      },
+      {
+        "en": "- **Rudrabhisheka Booking & Temple Etiquette**: Maintain dignified temple decorum by wearing modest traditional clothes, removing footwear at the perimeter shoe stand, and coordinating in advance with resident temple trust priests if wishing to perform comprehensive Vedic Rudrabhisheka ceremonies.",
+        "hi": "- **रुद्राभिषेक बुकिंग एवं मंदिर मर्यादा**: शालीन और स्वच्छ पारंपरिक वस्त्र पहनें, जूते-चप्पल मुख्य द्वार के जूता घर में जमा करें, तथा विशेष रुद्राभिषेक, महामृत्युंजय जाप अथवा शांति अनुष्ठान संपन्न कराने हेतु मंदिर न्यास के वरिष्ठ पुजारियों से पूर्व संपर्क करें।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "punaura-dham",
+      "janaki-mandir-sitamarhi",
+      "panthpakar"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        {
+          "title": "Haleshwar Sthan Temple",
+          "organization": "Bihar Tourism, Government of Bihar",
+          "url": "https://tourism.bihar.gov.in/"
+        },
+        {
+          "title": "Religious Places - Sitamarhi",
+          "organization": "District Administration Sitamarhi",
+          "url": "https://sitamarhi.nic.in/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "panthpakar",
+    "slug": "panthpakar",
+    "name": {
+      "en": "Panthpakar Banyan Tree & Mandir",
+      "hi": "पंथपाकर वटवृक्ष एवं जानकी मंदिर"
+    },
+    "districtId": "sitamarhi",
+    "placeType": "heritage_site",
+    "primaryCategory": "historical",
+    "categories": [
+      "historical",
+      "religious",
+      "heritage",
+      "nature"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "ramayana",
+      "ramayana_circuit",
+      "eco_circuit",
+      "shiva_circuit"
+    ],
+    "tags": [
+      "featured",
+      "ramayanaCircuit",
+      "ancientTree",
+      "heritage",
+      "sacredBanyan",
+      "pilgrimage"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": true,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "The celebrated prehistoric Pakar banyan tree where Goddess Sita's bridal palanquin rested on her journey from Janakpur to Ayodhya.",
+      "hi": "प्रसिद्ध पौराणिक पाकर वटवृक्ष जहाँ विवाह के उपरांत जनकपुर से अयोध्या जाते समय माता सीता की पालकी (डोली) ने विश्राम किया था।"
+    },
+    "description": {
+      "en": "**Panthpakar** (पंथपाकर), located approximately eight kilometers northeast of Sitamarhi town in northern Bihar, is a singularly mesmerizing open-air mythological and heritage landmark anchored on the international **Ramayana Circuit**. The soul of this sacred site is an immense, centuries-old **Pakar Tree** (a venerated species of the *Ficus* genus related to the sacred banyan) whose colossal interconnected aerial roots, sprawling trunks, and dense canopy cover a vast expanse of land like an emerald natural pavilion. According to revered regional traditions and the **Ramayana**, this holy site is where the royal wedding procession (*baraat*) carrying **Goddess Sita** in her bridal palanquin (*doli*) and **Lord Rama** paused for rest on their auspicious voyage from Janakpur Dham to Ayodhya.\n\nNestled beneath the sheltering branches of this living botanical wonder stands the humble and reverent **Panthpakar Janki Mandir**, enshrining divine deities of Mata Sita, Lord Rama, and Lakshmana. The sprawling aerial roots have miraculously intertwined into natural arches and meditating alcoves, creating an intensely peaceful, meditative aura. Devotees and spiritual travelers gather here to offer flowers, tie protective sacred threads (*mouli*) on the holy trunks, and absorb the profound tranquility of an ancient resting place sanctified by the footprints of the divine couple.",
+      "hi": "**पंथपाकर** उत्तरी बिहार के सीतामढ़ी जिला मुख्यालय से लगभग आठ किलोमीटर उत्तर-पूर्व में स्थित एक अत्यंत पावन, मनोहारी और ऐतिहासिक स्थल है, जो अंतरराष्ट्रीय **रामायण सर्किट** का एक प्रमुख केंद्र है। इस दिव्य तीर्थ का मुख्य आकर्षण सदियों पुराना एक विशालकाय **पाकर वृक्ष** (वट/अंजीर प्रजाति का पवित्र महावृक्ष) है, जिसकी अनगिनत जटाएं, परस्पर जुड़े विशाल तने और सघन छत्रछाया एक विस्तृत भूभाग पर एक प्राकृतिक मंडप के समान फैली हुई हैं। सनातन धर्म की लोक आस्था और **रामायण** कालीन परंपराओं के अनुसार, जनकपुर में भगवान श्रीराम और माता सीता के विवाह के उपरांत जब अयोध्या के लिए बारात प्रस्थान कर रही थी, तब माता जानकी की सुसज्जित पालकी (डोली) ने इसी पाकर वृक्ष की शीतल छाया में विश्राम किया था।\n\nइस अलौकिक वटवृक्ष के नीचे **पंथपाकर जानकी मंदिर** स्थापित है, जिसमें माता सीता, प्रभु श्रीराम और लक्ष्मण जी के दिव्य विग्रह सुशोभित हैं। वृक्ष की विशालकाय जटाएं भूमि में धंसकर अनेक नए तनों का रूप धारण कर चुकी हैं, जिससे यहाँ प्राकृतिक मेहराबें और ध्यान कक्ष जैसी संरचनाएं निर्मित हो गई हैं। देश-विदेश से आने वाले श्रद्धालु और रामायण प्रेमी इस वृक्ष की परिक्रमा करते हैं, तनों पर रक्षासूत्र बांधते हैं और उस पवित्र शांति का अनुभव करते हैं जो माता सीता के पावन चरण-स्पर्श से आज भी यहाँ स्पंदित है।"
+    },
+    "history": {
+      "en": "The historical and legendary antiquity of **Panthpakar** is intertwined with the climactic wedding events described in Maharshi Valmiki's **Ramayana** and regional folklore of Mithila. Following the breaking of Lord Shiva's divine bow (*Pinaka*) at King Janaka's court in Janakpur and the grand royal wedding, the triumphant wedding entourage of King Dasharatha set forth toward Ayodhya. When the bridal party reached this scenic clearing, the palanquin-bearers paused to rest under the generous shade of the ancient Pakar tree. Folk memory also associates this sanctified corridor with the momentous confrontation and dialogue between **Lord Rama** and the fiery sage-warrior **Lord Parashurama** (*Ram-Parashuram Samvad*), who arrived with the celestial bow of Lord Vishnu to test Rama's divine identity.\n\nThroughout the centuries, local agrarian villagers and ascetics treated the monumental tree with profound reverence, fiercely protecting it from destruction and deforestation. In the early 20th century, a permanent shrine dedicated to Mata Janaki was established under the roots, and formal rituals were instituted by Vaishnavite ascetics. Recognizing its unique botanical antiquity and immense mythological prominence, the Bihar State Tourism Development Corporation (BSTDC) and the Ministry of Tourism, Government of India, designated Panthpakar as a primary waypoint along the formal Ramayana Tourism Circuit, establishing paved pathways, seating kiosks, and heritage conservation barriers around the living monument.",
+      "hi": "**पंथपाकर** का ऐतिहासिक और पौराणिक परिप्रेक्ष्य महर्षि वाल्मीकि रचित **रामायण** तथा मिथिला के लोक इतिहास के सर्वाधिक महत्वपूर्ण प्रसंगों से जुड़ा हुआ है। जनकपुर धाम में सीता स्वयंवर के दौरान भगवान श्रीराम द्वारा शिवजी के धनुष 'पिनाक' का भंजन करने और भव्य विवाह संपन्न होने के उपरांत, राजा दशरथ की बारात जनकपुर से अयोध्या की ओर प्रस्थान कर रही थी। मार्ग में जब दुल्हन बनी माता जानकी की पालकी इस स्थान पर पहुँची, तो कहारों ने विश्राम हेतु डोली को इस विशाल पाकर वृक्ष की घनी छाया में रखा। मिथिला की लोक परंपराओं में यह भी मान्यता है कि इसी क्षेत्र के समीप भगवान परशुराम और भगवान श्रीराम का ऐतिहासिक मिलन तथा **राम-परशुराम संवाद** संपन्न हुआ था, जहाँ परशुराम जी ने श्रीराम के विष्णु अवतार होने की पुष्टि की थी।\n\nसदियों से स्थानीय ग्रामीणों, साधुओं और प्रकृति प्रेमियों ने इस महावृक्ष को देवतुल्य मानकर इसकी सुरक्षा की और इसे कभी कटने नहीं दिया। बीसवीं शताब्दी में वृक्ष की शाखाओं के नीचे माता जानकी के मंदिर की स्थापना की गई तथा नित्य पूजा-अर्चना आरंभ हुई। इसकी अद्वितीय वानस्पतिक प्राचीनता और रामायण कालीन महत्व को देखते हुए भारत सरकार के पर्यटन मंत्रालय तथा बिहार राज्य पर्यटन विकास निगम द्वारा इसे **रामायण सर्किट** का अभिन्न अंग घोषित किया गया है, जिसके तहत वृक्ष के चारों ओर पक्के परिक्रमा पथ, पर्यटकों के बैठने हेतु शेड तथा संरक्षण दीवार का निर्माण कराया गया है।"
+    },
+    "significance": {
+      "en": "The civilizational, cultural, and environmental significance of **Panthpakar** is extraordinary, representing a rare and breathtaking convergence of **living nature worship** (*Vriksha Puja*) and epic Ramayana pilgrimage. Unlike conventional temples constructed of bricks and mortar, the principal object of veneration at Panthpakar is a living, breathing ancient tree that stands as a silent, timeless witness to Mithila's matrimonial traditions. In Maithil culture, the banyan and pakar trees symbolize longevity, sheltering compassion, and cosmic endurance, mirroring the infinite patience and benevolence of Goddess Sita herself.\n\nThe site holds a deeply tender place in the hearts of newly married women and brides across the region, who journey here to pray for enduring marital fidelity, family harmony, and the blessings of Mata Janaki. During **Vivaha Panchami** (the divine wedding anniversary of Rama and Sita in November-December), Panthpakar transforms into a festive fairground where women sing devotional bridal songs (*Samdaun*) that narrate the bittersweet emotions of Sita bidding farewell to her parental kingdom of Mithila. The site also attracts botanists, environmentalists, and heritage photographers who marvel at the sprawling root network that forms a resilient natural canopy of immense ecological and cultural vitality.",
+      "hi": "**पंथपाकर** का सांस्कृतिक, दार्शनिक और पर्यावरणीय महत्व अत्यंत विशिष्ट है, क्योंकि यह स्थल सनातन धर्म की **प्रकृति पूजा** (वृक्ष पूजा) और रामायण कालीन आस्था का एक अनुपम संगम है। ईंट-पत्थर के पारंपरिक मंदिरों से भिन्न, पंथपाकर में पूजनीय केंद्र स्वयं एक सजीव, विशालकाय महावृक्ष है, जो मिथिला की समृद्ध वैवाहिक परंपराओं और लोक चेतना का मूक साक्षी रहा है। मैथिल संस्कृति में पाकर और वटवृक्ष को अखंड सौभाग्य, शीतलता और धैर्य का प्रतीक माना जाता है, जो माता सीता के अगाध त्याग, करुणा और सहनशीलता के गुणों को प्रतिबिंबित करता है।\n\nसंपूर्ण उत्तर बिहार और नेपाल के तराई क्षेत्रों में नवविवाहित महिलाओं के लिए यह तीर्थ अत्यंत पूज्य है, जो यहाँ आकर अखंड सौभाग्य, दांपत्य सुख और मातृत्व के आशीर्वाद हेतु वृक्ष के तने में रक्षासूत्र बांधती हैं। **विवाह पंचमी** (नवंबर-दिसंबर) के अवसर पर यहाँ विशेष सांस्कृतिक उत्सव और मेला लगता है, जिसमें ग्रामीण महिलाएं भावुक कर देने वाले पारंपरिक मैथिली विदाई गीत (**समदौन**) गाती हैं, जो माता सीता की मिथिला से अयोध्या विदाई के मार्मिक प्रसंग का स्मरण कराते हैं। यह स्थल वानस्पतिक दृष्टि से भी शोधार्थियों, पर्यावरणविदों और फोटोग्राफरों के लिए अत्यंत कौतूहल और आकर्षण का केंद्र है।"
+    },
+    "location": {
+      "address": {
+        "en": "**Panthpakar Banyan Tree & Sita Mandir Heritage Complex**, located in the quiet agricultural village settlement of **Panthpakar Village**, Post Office Bathnaha, Bathnaha Block / Riga region, Sitamarhi District, Bihar, Postal Index Number (PIN) **843322**, India.\n\nThis serene open-air mythological site is strategically positioned approximately **8 kilometers northeast** of the Sitamarhi District Administrative Headquarters and the Sitamarhi Junction Railway Station. It is easily reachable via the paved Sitamarhi–Bathnaha–Sonbarsa Road and connects conveniently to National Highway 227 (NH-227), facilitating straightforward road travel from neighboring districts including Muzaffarpur, Darbhanga, and the international Nepal border post at Bhitthamore. Surrounded by expansive green paddy fields, ancestral agricultural groves, and tranquil rural hamlets, this peaceful rural address provides an authentic, unhurried, and deeply spiritual natural setting for pilgrims retracing the bridal voyage of Goddess Sita.",
+        "hi": "**पंथपाकर वटवृक्ष एवं सीता मंदिर धरोहर परिसर**, सुरम्य ग्रामीण क्षेत्र, **ग्राम पंथपाकर**, डाकघर बथनाहा, बथनाहा प्रखंड / रीगा क्षेत्र, जिला सीतामढ़ी, बिहार, पिन कोड **843322**, भारत।\n\nयह शांत और पौराणिक धरोहर स्थल सीतामढ़ी जिला समाहरणालय (मुख्यालय) तथा सीतामढ़ी जंक्शन रेलवे स्टेशन से लगभग **8 किलोमीटर उत्तर-पूर्व** में स्थित है। यह सीतामढ़ी-बथनाहा-सोनबरसा पक्के संपर्क मार्ग द्वारा सुगमता से पहुँचा जा सकता है और राष्ट्रीय राजमार्ग 227 (NH-227) से सुविधाजनक रूप से जुड़ा हुआ है, जिससे मुजफ्फरपुर, दरभंगा और नेपाल सीमा पर स्थित भिट्ठामोड़ से आने वाले पर्यटकों के लिए यहाँ पहुँचना बेहद सुगम है। लहलहाते हरे-भरे धान के खेतों, प्राचीन बाग-बगीचों और शांत ग्रामीण बस्तियों से घिरा यह पता तीर्थयात्रियों और प्रकृति प्रेमियों को एक प्रदूषणमुक्त, शांत और गहरा आध्यात्मिक अनुभव प्रदान करता है।"
+      },
+      "latitude": 26.654,
+      "longitude": 85.535,
+      "mapQuery": "Panthpakar Banyan Tree, Sitamarhi, Bihar"
+    },
+    "visitingInfo": {
+      "recommendedDurationMinutes": 60,
+      "bestTimeToVisit": {
+        "en": "October to March",
+        "hi": "अक्टूबर से मार्च"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Located approximately 8 km northeast of Sitamarhi town, approachable via Sitamarhi-Bathnaha rural road connecting directly to National Highway 227 (NH-227).",
+        "hi": "सीतामढ़ी नगर से लगभग 8 किमी उत्तर-पूर्व में स्थित, सीतामढ़ी-बथनाहा ग्रामीण मार्ग से पहुँचा जा सकता है जो राष्ट्रीय राजमार्ग 227 (NH-227) से सीधे जुड़ता है।"
+      },
+      "localTransport": {
+        "en": "Private taxis and reserved auto-rickshaws are the most convenient transport options available from Sitamarhi town and railway station.",
+        "hi": "सीतामढ़ी नगर और रेलवे स्टेशन से निजी टैक्सी अथवा आरक्षित ऑटो-रिक्शा आवागमन के सर्वाधिक सुविधाजनक साधन हैं।"
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 100,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "- **Reverence for the Ancient Pakar Roots**: Treat the centuries-old root system and spreading branches with utmost gentleness; avoid climbing on the low-hanging aerial arches, carving on tree trunks, or disturbing bird nests nestled within the dense green canopy.",
+        "hi": "- **प्राचीन पाकर वृक्ष की जटाओं का सम्मान**: सदियों पुरानी दिव्य जटाओं और शाखाओं की गरिमा का सम्मान करें; लटकती हुई शाखाओं पर झूलने अथवा चढ़ने का प्रयास न करें, वृक्ष के तनों पर कुछ न लिखें तथा सघन छत्रछाया में बसे पक्षियों के घोंसलों को हानि न पहुँचाएँ।"
+      },
+      {
+        "en": "- **Natural Canopy Photography & Lighting**: The dappled sunlight filtering through the sprawling leaves creates breathtaking photographic compositions; visit between 07:30 AM and 10:00 AM or in the late afternoon (03:30 PM to 05:00 PM) for the softest lighting and most ethereal natural shadows.",
+        "hi": "- **प्राकृतिक मंडप में फोटोग्राफी और प्रकाश**: सघन पत्तों से छनकर आती धूप मनोहारी दृश्य प्रस्तुत करती है; बेहतरीन छायांकन के लिए प्रातः 07:30 से 10:00 बजे अथवा दोपहर बाद 03:30 से 05:00 बजे के बीच का समय चुनें जब सूर्य का प्रकाश कोमल और आध्यात्मिक आभा लिए होता है।"
+      },
+      {
+        "en": "- **Mata Janaki Palanquin Memorial Darshan**: Pay reverent homage at the modest Panthpakar Janki Mandir nestled beneath the tree's primary trunk; local women often present red chunari and sindoor here in prayer for lifelong marital blessings and familial well-being.",
+        "hi": "- **माता जानकी डोली विश्राम स्थल दर्शन**: वृक्ष के मुख्य तने के नीचे स्थित पावन जानकी मंदिर में शीश नवाएं; यहाँ स्थानीय महिलाएं अखंड सौभाग्य और दांपत्य सुख की कामना के साथ माता जानकी को लाल चुनरी और सिंदूर अर्पित कर वृक्ष के तने में रक्षासूत्र बांधती हैं।"
+      },
+      {
+        "en": "- **Rural Road Travel & Local Navigation**: The last few kilometers of approach route pass through pastoral village lanes; traveling by high-clearance private vehicles or hiring a local auto-rickshaw from Sitamarhi town is advisable, as public buses do not operate directly to the temple gate.",
+        "hi": "- **ग्रामीण मार्ग एवं परिवहन व्यवस्था**: मंदिर तक पहुँचने वाले अंतिम कुछ किलोमीटर का मार्ग शांत ग्रामीण सड़कों से होकर गुजरता है; सीतामढ़ी नगर से निजी वाहन अथवा ऑटो-रिक्शा आरक्षित कर आना सर्वोत्तम रहता है, क्योंकि मुख्य द्वार तक सीधी बस सेवा उपलब्ध नहीं है।"
+      },
+      {
+        "en": "- **Travel Essentials & Day-Trip Packing**: Because commercial eateries and market shops are limited in the immediate vicinity of Panthpakar village, carry bottled drinking water, light snacks, and sun umbrellas, especially when traveling during the warm summer or early autumn months.",
+        "hi": "- **यात्रा सामग्री और आवश्यक तैयारियां**: चूंकि पंथपाकर ग्रामीण क्षेत्र में स्थित है और मुख्य द्वार के समीप बड़े रेस्टोरेंट या बाजार उपलब्ध नहीं हैं, इसलिए अपने साथ पीने का शुद्ध पानी, हल्के अल्पाहार तथा धूप से बचाव हेतु छाता अवश्य रखें।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "punaura-dham",
+      "janaki-mandir-sitamarhi",
+      "haleshwar-sthan"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        {
+          "title": "Panthpakar - Ramayana Circuit",
+          "organization": "Bihar Tourism, Government of Bihar",
+          "url": "https://tourism.bihar.gov.in/"
+        },
+        {
+          "title": "Places of Interest - Sitamarhi",
+          "organization": "District Administration Sitamarhi",
+          "url": "https://sitamarhi.nic.in/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-19",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  }
+]

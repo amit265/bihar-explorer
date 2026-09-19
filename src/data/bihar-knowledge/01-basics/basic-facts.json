@@ -1,0 +1,314 @@
+{
+  "data": [
+    {
+      "id": "fact-area-ranking",
+      "category": "geography",
+      "title": {
+        "en": "Geographical Area & National Share",
+        "hi": "भौगोलिक क्षेत्रफल एवं राष्ट्रीय भागीदारी"
+      },
+      "fact": {
+        "en": "Bihar encompasses an area of 94,163 sq km, constituting 2.86% of India's total land area.",
+        "hi": "बिहार का कुल भौगोलिक क्षेत्रफल 94,163 वर्ग किमी है, जो भारत के कुल क्षेत्रफल का 2.86% है।"
+      },
+      "value": {
+        "en": "94,163 sq km (Rank 12th)",
+        "hi": "94,163 वर्ग किमी (12वां स्थान)"
+      },
+      "description": {
+        "en": "### A Strategic Landlocked State\n\nBihar boasts a total land area of **94,163 square kilometers**. \n\n*   **National Ranking**: Following the reorganization of Jammu & Kashmir in 2019, Bihar officially ranks as the **12th largest state** in India by geographical area.\n*   **Land Share**: It occupies approximately **2.86%** of the country's total landmass.\n*   **Topography**: The state is entirely landlocked and is dominated by the fertile Middle Ganga Plain, making it one of the most agriculturally productive regions in the country.",
+        "hi": "### एक सामरिक स्थल-रुद्ध राज्य\n\nबिहार का कुल भौगोलिक क्षेत्रफल **94,163 वर्ग किलोमीटर** है।\n\n*   **राष्ट्रीय रैंकिंग**: 2019 में जम्मू और कश्मीर के पुनर्गठन के बाद, बिहार आधिकारिक तौर पर भौगोलिक क्षेत्रफल के हिसाब से भारत का **12वां सबसे बड़ा राज्य** है।\n*   **भूमि की हिस्सेदारी**: यह देश के कुल भूभाग का लगभग **2.86%** हिस्सा घेरता है।\n*   **स्थलाकृति**: यह राज्य पूरी तरह से भूमि से घिरा (landlocked) है और इसके अधिकांश हिस्से पर उपजाऊ मध्य गंगा का मैदान फैला है, जो इसे देश के सबसे अधिक कृषि उत्पादक क्षेत्रों में से एक बनाता है।"
+      },
+      "asOf": "2024-01-01",
+      "associatedDistrictIds": [
+        "patna",
+        "west-champaran"
+      ],
+      "sources": [
+        "Survey of India",
+        "Government of Bihar Portal"
+      ]
+    },
+    {
+      "id": "fact-population-density",
+      "category": "demographics",
+      "title": {
+        "en": "Highest Population Density in India",
+        "hi": "भारत में सर्वाधिक जनसंख्या घनत्व"
+      },
+      "fact": {
+        "en": "Bihar has a population density of 1,106 persons per sq km, the highest among all Indian states.",
+        "hi": "1,106 व्यक्ति प्रति वर्ग किमी के घनत्व के साथ बिहार भारत के सभी राज्यों में प्रथम स्थान पर है।"
+      },
+      "value": {
+        "en": "1,106 persons / sq km",
+        "hi": "1,106 व्यक्ति / वर्ग किमी"
+      },
+      "description": {
+        "en": "### The Density Phenomenon\n\nWith an incredible **1,106 persons per square kilometer**, Bihar holds the record for the highest population density among all Indian states (as per Census 2011).\n\n#### District Extremes\n*   **Most Dense**: **Sheohar** is the most densely populated district in the state, packing a massive **1,882 persons per sq km**.\n*   **Least Dense**: **Kaimur (Bhabua)** has the lowest density at **488 persons per sq km**, primarily due to its rocky terrain and dense forests along the Vindhyan plateau.",
+        "hi": "### जनसंख्या घनत्व का परिदृश्य\n\nअविश्वसनीय **1,106 व्यक्ति प्रति वर्ग किलोमीटर** के साथ, बिहार (2011 की जनगणना के अनुसार) सभी भारतीय राज्यों में सर्वाधिक जनसंख्या घनत्व का रिकॉर्ड रखता है।\n\n#### जिलों के चरम आंकड़े\n*   **सर्वाधिक सघन**: **शिवहर** राज्य का सबसे सघन बसा हुआ जिला है, जहां प्रति वर्ग किमी **1,882 व्यक्ति** निवास करते हैं।\n*   **न्यूनतम सघन**: **कैमूर (भभुआ)** में सबसे कम घनत्व **488 व्यक्ति प्रति वर्ग किमी** है, जिसका मुख्य कारण विंध्य पठार के साथ इसका पथरीला इलाका और घने जंगल हैं।"
+      },
+      "asOf": "2011-03-31",
+      "associatedDistrictIds": [
+        "sheohar",
+        "kaimur"
+      ],
+      "sources": [
+        "Census of India 2011"
+      ]
+    },
+    {
+      "id": "fact-literacy-metrics",
+      "category": "demographics",
+      "title": {
+        "en": "Literacy Extremes across Districts",
+        "hi": "जिलों में साक्षरता के उच्चतम व न्यूनतम आंकड़े"
+      },
+      "fact": {
+        "en": "Rohtas holds the highest literacy rate (73.37%), while Purnia records the lowest (51.08%).",
+        "hi": "रोहतास जिले में सर्वाधिक साक्षरता दर (73.37%) और पूर्णिया में न्यूनतम साक्षरता दर (51.08%) है।"
+      },
+      "value": {
+        "en": "Highest: Rohtas 73.37% | Lowest: Purnia 51.08%",
+        "hi": "सर्वाधिक: रोहतास 73.37% | न्यूनतम: पूर्णिया 51.08%"
+      },
+      "description": {
+        "en": "### Educational Disparities\n\nWhile the state's overall literacy stood at **61.80%** in 2011, the district-level data reveals significant regional variations:\n\n*   **Overall Highest**: **Rohtas** (73.37%)\n*   **Overall Lowest**: **Purnia** (51.08%)\n*   **Male Literacy**: Rohtas peaks at 82.88%, while Purnia lags at 59.06%.\n*   **Female Literacy**: Rohtas again leads at 62.97%, but **Saharsa** drops to the absolute bottom for female literacy at a mere **41.68%**.\n\nThese statistics drive the state's targeted educational interventions.",
+        "hi": "### शैक्षिक असमानताएं\n\nजबकि 2011 में राज्य की कुल साक्षरता **61.80%** थी, जिला स्तर के आंकड़े महत्वपूर्ण क्षेत्रीय भिन्नताओं को उजागर करते हैं:\n\n*   **समग्र रूप से सर्वाधिक**: **रोहतास** (73.37%)\n*   **समग्र रूप से न्यूनतम**: **पूर्णिया** (51.08%)\n*   **पुरुष साक्षरता**: रोहतास 82.88% पर शीर्ष पर है, जबकि पूर्णिया 59.06% पर पीछे है।\n*   **महिला साक्षरता**: रोहतास 62.97% के साथ फिर से आगे है, लेकिन **सहरसा** महिला साक्षरता के मामले में केवल **41.68%** के साथ सबसे नीचे आ जाता है।\n\nये आंकड़े राज्य के लक्षित शैक्षिक हस्तक्षेपों को दिशा देते हैं।"
+      },
+      "asOf": "2011-03-31",
+      "associatedDistrictIds": [
+        "rohtas",
+        "purnia",
+        "saharsa"
+      ],
+      "sources": [
+        "Census of India 2011, Directorate of Census Operations Bihar"
+      ]
+    },
+    {
+      "id": "fact-sex-ratio-distribution",
+      "category": "demographics",
+      "title": {
+        "en": "Sex Ratio Distribution (Census 2011)",
+        "hi": "लिंगानुपात वितरण (जनगणना 2011)"
+      },
+      "fact": {
+        "en": "Gopalganj is the only district in Bihar where females outnumber males with a sex ratio of 1,021.",
+        "hi": "गोपालगंज बिहार का एकमात्र ऐसा जिला है जहां महिलाओं की संख्या पुरुषों से अधिक है (लिंगानुपात 1,021)।"
+      },
+      "value": {
+        "en": "State Average: 918 | Highest: Gopalganj (1,021) | Lowest: Munger & Bhagalpur (876)",
+        "hi": "राज्य औसत: 918 | सर्वाधिक: गोपालगंज (1,021) | न्यूनतम: मुंगेर एवं भागलपुर (876)"
+      },
+      "description": {
+        "en": "### State Gender Demographics\n\nThe overall sex ratio of Bihar according to Census 2011 was **918 females per 1,000 males**.\n\n#### Notable Extremes\n*   **Gopalganj** is a demographic outlier in Bihar, being the *only* district where females outnumber males, boasting an impressive sex ratio of **1,021**.\n*   Conversely, **Munger** and **Bhagalpur** report the lowest sex ratios at **876**.\n\n#### Child Sex Ratio (0-6 years)\nThe child sex ratio paints a slightly better picture at **935**. **Kishanganj** leads this category at 971, while **Vaishali** drops to the lowest at 904.",
+        "hi": "### राज्य जनसांख्यिकीय आंकड़े (लिंगानुपात)\n\n2011 की जनगणना के अनुसार बिहार का कुल लिंगानुपात **918 महिलाएं प्रति 1,000 पुरुष** था।\n\n#### उल्लेखनीय आंकड़े\n*   **गोपालगंज** बिहार में एक जनसांख्यिकीय अपवाद है, जो *एकमात्र* ऐसा जिला है जहां महिलाओं की संख्या पुरुषों से अधिक है, इसका शानदार लिंगानुपात **1,021** है।\n*   इसके विपरीत, **मुंगेर** और **भागलपुर** में सबसे कम लिंगानुपात **876** दर्ज किया गया है।\n\n#### शिशु लिंगानुपात (0-6 वर्ष)\nशिशु लिंगानुपात **935** पर थोड़ी बेहतर तस्वीर पेश करता है। इस श्रेणी में **किशनगंज** 971 के साथ सबसे आगे है, जबकि **वैशाली** सबसे निचले स्तर 904 पर आ जाता है।"
+      },
+      "asOf": "2011-03-31",
+      "associatedDistrictIds": [
+        "gopalganj",
+        "munger",
+        "bhagalpur",
+        "kishanganj",
+        "vaishali"
+      ],
+      "sources": [
+        "Census of India 2011"
+      ]
+    },
+    {
+      "id": "fact-highest-mountain-peak",
+      "category": "geography",
+      "title": {
+        "en": "Highest Mountain Peak of Bihar",
+        "hi": "बिहार की सर्वोच्च पर्वत चोटी"
+      },
+      "fact": {
+        "en": "Someshwar Fort (Someshwar Peak) in West Champaran is the highest point in Bihar at 874 meters.",
+        "hi": "पश्चिम चंपारण स्थित सोमेश्वर किला (सोमेश्वर श्रेणी) 874 मीटर की ऊंचाई के साथ बिहार का सर्वोच्च बिंदु है।"
+      },
+      "value": {
+        "en": "874 meters (2,867 feet)",
+        "hi": "874 मीटर (2,867 फीट)"
+      },
+      "description": {
+        "en": "### The Roof of Bihar\n\nWhile Bihar is primarily known for its flat alluvial plains, its north-western tip touches the Himalayan foothills.\n\n*   **Location**: The **Someshwar Fort** (or Someshwar Peak) is located in the Ramnagar block of **West Champaran** district, right along the Indo-Nepal international border.\n*   **Height**: Standing at **874 meters (2,867 feet)**, it is the absolute highest geographical point in the state.\n*   **Significance**: Situated in the Shivalik foothill range, it commands panoramic views of the towering Himalayas to the north and the dense Terai sal forests of the **Valmiki National Park** below.",
+        "hi": "### बिहार का शिखर\n\nयद्यपि बिहार मुख्य रूप से अपने समतल जलोढ़ मैदानों के लिए जाना जाता है, इसका उत्तर-पश्चिमी सिरा हिमालय की तलहटी को छूता है।\n\n*   **स्थान**: **सोमेश्वर किला** (या सोमेश्वर चोटी) **पश्चिम चंपारण** जिले के रामनगर प्रखंड में, भारत-नेपाल अंतरराष्ट्रीय सीमा के ठीक साथ स्थित है।\n*   **ऊंचाई**: **874 मीटर (2,867 फीट)** की ऊंचाई पर खड़ा यह राज्य का सर्वोच्च भौगोलिक बिंदु है।\n*   **महत्व**: शिवालिक तलहटी पर्वतमाला में स्थित, यह उत्तर में विशाल हिमालय और नीचे **वाल्मीकि राष्ट्रीय उद्यान** के घने तराई साल वनों के मनोरम दृश्यों को प्रस्तुत करता है।"
+      },
+      "asOf": "2024-01-01",
+      "associatedDistrictIds": [
+        "west-champaran"
+      ],
+      "sources": [
+        "Geological Survey of India",
+        "Survey of India Toposheets"
+      ]
+    },
+    {
+      "id": "fact-ganga-length-districts",
+      "category": "geography",
+      "title": {
+        "en": "River Ganga Stretch & Traversed Districts",
+        "hi": "गंगा नदी का प्रवाह विस्तार एवं जिले"
+      },
+      "fact": {
+        "en": "The sacred Ganga flows 445 km across 12 districts in Bihar, from Buxar in the west to Katihar in the east.",
+        "hi": "पवित्र गंगा नदी पश्चिम में बक्सर से लेकर पूर्व में कटिहार तक बिहार के 12 जिलों से होकर 445 किमी की दूरी तय करती है।"
+      },
+      "value": {
+        "en": "445 km across 12 districts",
+        "hi": "12 जिलों में 445 किमी लंबा प्रवाह"
+      },
+      "description": {
+        "en": "### The Lifeline of Bihar\n\nThe River Ganga acts as the central artery of Bihar, geographically bisecting the state into the North Bihar and South Bihar plains.\n\n*   **Total Journey**: It travels **445 kilometers** through the state.\n*   **Entry and Exit**: The river elegantly enters Bihar near **Chausa (Buxar district)** and finally exits the state at **Manihari (Katihar district)**.\n*   **Districts Touched**: The river flows through exactly **12 districts**.\n*   **Longest Stretch**: **Patna** district enjoys the longest continuous river frontage along the Ganga, spanning approximately 99 kilometers.",
+        "hi": "### बिहार की जीवन रेखा\n\nगंगा नदी बिहार की केंद्रीय धमनी के रूप में कार्य करती है, जो भौगोलिक रूप से राज्य को उत्तर बिहार और दक्षिण बिहार के मैदानों में विभाजित करती है।\n\n*   **कुल यात्रा**: यह राज्य से होकर **445 किलोमीटर** की यात्रा करती है।\n*   **प्रवेश और निकास**: नदी **चौसा (बक्सर जिले)** के पास बिहार में प्रवेश करती है और अंततः **मनिहारी (कटिहार जिले)** में राज्य से बाहर निकलकर पश्चिम बंगाल में प्रवेश करती है।\n*   **प्रभावित जिले**: यह नदी ठीक **12 जिलों** से होकर बहती है।\n*   **सबसे लंबा विस्तार**: **पटना** जिले में गंगा नदी का सबसे लंबा निरंतर तटवर्ती विस्तार है, जो लगभग 99 किलोमीटर तक फैला है।"
+      },
+      "asOf": "2024-01-01",
+      "associatedDistrictIds": [
+        "buxar",
+        "bhojpur",
+        "saran",
+        "patna",
+        "vaishali",
+        "samastipur",
+        "begusarai",
+        "lakhisarai",
+        "munger",
+        "khagaria",
+        "bhagalpur",
+        "katihar"
+      ],
+      "sources": [
+        "Water Resources Department, Government of Bihar",
+        "National Mission for Clean Ganga"
+      ]
+    },
+    {
+      "id": "fact-geographical-extremities",
+      "category": "extremities",
+      "title": {
+        "en": "Cardinal Geographical Extremities of Bihar",
+        "hi": "बिहार के चारों दिशाओं के सीमांत जिले"
+      },
+      "fact": {
+        "en": "West Champaran (North), Gaya (South), Kishanganj (East), and Kaimur (West) mark Bihar's outermost borders.",
+        "hi": "पश्चिम चंपारण (उत्तर), गया (दक्षिण), किशनगंज (पूर्व) और कैमूर (पश्चिम) बिहार के सीमांत जिले हैं।"
+      },
+      "value": {
+        "en": "N: West Champaran | S: Gaya | E: Kishanganj | W: Kaimur",
+        "hi": "उत्तर: पश्चिम चंपारण | दक्षिण: गया | पूर्व: किशनगंज | पश्चिम: कैमूर"
+      },
+      "description": {
+        "en": "### The Four Corners of the State\n\nBihar's vast territorial spread is anchored by four unique extremity districts:\n\n1.  **Northernmost**: **West Champaran**. Famous for the Valmiki Tiger Reserve and the Someshwar hills.\n2.  **Southernmost**: **Gaya**. A globally renowned spiritual center experiencing the state's most extreme temperatures.\n3.  **Easternmost**: **Kishanganj**. Bordering Nepal and West Bengal, it receives the state's highest rainfall and features lush tea estates.\n4.  **Westernmost**: **Kaimur**. Bordering Uttar Pradesh, it sits atop the ancient Vindhyan plateau.",
+        "hi": "### राज्य के चार कोने\n\nबिहार का विशाल क्षेत्रीय विस्तार चार अद्वितीय सीमांत जिलों द्वारा निर्धारित होता है:\n\n1.  **सबसे उत्तरी**: **पश्चिम चंपारण**। वाल्मीकि टाइगर रिजर्व और सोमेश्वर पहाड़ियों के लिए प्रसिद्ध है।\n2.  **सबसे दक्षिणी**: **गया**। एक विश्व प्रसिद्ध आध्यात्मिक केंद्र जो राज्य के सबसे चरम तापमान का अनुभव करता है।\n3.  **सबसे पूर्वी**: **किशनगंज**। नेपाल और पश्चिम बंगाल की सीमा पर स्थित, यहाँ राज्य की सर्वाधिक वर्षा होती है और चाय के बगान हैं।\n4.  **सबसे पश्चिमी**: **कैमूर**। उत्तर प्रदेश की सीमा से लगा यह जिला प्राचीन विंध्य पठार पर स्थित है।"
+      },
+      "asOf": "2024-01-01",
+      "associatedDistrictIds": [
+        "west-champaran",
+        "gaya",
+        "kishanganj",
+        "kaimur"
+      ],
+      "sources": [
+        "Survey of India",
+        "Bihar State Disaster Management Authority"
+      ]
+    },
+    {
+      "id": "fact-international-nepal-border",
+      "category": "geography",
+      "title": {
+        "en": "Indo-Nepal International Border",
+        "hi": "भारत-नेपाल अंतरराष्ट्रीय सीमा"
+      },
+      "fact": {
+        "en": "Bihar shares an open 729 km international border with Nepal touching 7 northern districts.",
+        "hi": "बिहार नेपाल के साथ 729 किमी लंबी अंतरराष्ट्रीय सीमा साझा करता है, जो राज्य के 7 उत्तरी जिलों को छूती है।"
+      },
+      "value": {
+        "en": "729 km across 7 districts",
+        "hi": "7 जिलों में 729 किमी सीमा"
+      },
+      "description": {
+        "en": "### The Open Frontier\n\nBihar's entire northern boundary is an international frontier with the sovereign nation of **Nepal**.\n\n*   **Length**: The porous, open border stretches for exactly **729 kilometers**.\n*   **Bordering Districts**: Moving from West to East, the 7 border districts are: **West Champaran, East Champaran, Sitamarhi, Madhubani, Supaul, Araria, and Kishanganj**.\n*   **Geopolitics & Trade**: This border is vital for international trade and deep cultural exchanges. Major integrated check-posts like Raxaul-Birgunj and Jogbani-Biratnagar facilitate immense daily cross-border traffic.",
+        "hi": "### खुली सीमा\n\nबिहार की पूरी उत्तरी सीमा संप्रभु राष्ट्र **नेपाल** के साथ एक अंतरराष्ट्रीय सीमा है।\n\n*   **लंबाई**: यह झरझरी और खुली सीमा ठीक **729 किलोमीटर** तक फैली हुई है।\n*   **सीमावर्ती जिले**: पश्चिम से पूर्व की ओर बढ़ते हुए, 7 सीमावर्ती जिले हैं: **पश्चिम चंपारण, पूर्वी चंपारण, सीतामढ़ी, मधुबनी, सुपौल, अररिया और किशनगंज**।\n*   **भू-राजनीति और व्यापार**: यह सीमा अंतर्राष्ट्रीय व्यापार और गहरे सांस्कृतिक आदान-प्रदान के लिए महत्वपूर्ण है। रक्सौल-बीरगंज और जोगबनी-विराटनगर जैसी प्रमुख एकीकृत चेक-पोस्ट प्रतिदिन बड़े पैमाने पर सीमा पार यातायात की सुविधा प्रदान करती हैं।"
+      },
+      "asOf": "2024-01-01",
+      "associatedDistrictIds": [
+        "west-champaran",
+        "east-champaran",
+        "sitamarhi",
+        "madhubani",
+        "supaul",
+        "araria",
+        "kishanganj"
+      ],
+      "sources": [
+        "Ministry of Home Affairs, Government of India",
+        "Sashastra Seema Bal (SSB)"
+      ]
+    },
+    {
+      "id": "fact-first-constitutional-leaders",
+      "category": "governance",
+      "title": {
+        "en": "Foundational Constitutional Dignitaries",
+        "hi": "प्रथम संवैधानिक नेतृत्व"
+      },
+      "fact": {
+        "en": "Dr. Rajendra Prasad from Siwan became India's First President; Dr. Sri Krishna Sinha was Bihar's First Chief Minister.",
+        "hi": "सीवान के जीरादेई में जन्मे डॉ. राजेन्द्र प्रसाद स्वतंत्र भारत के प्रथम राष्ट्रपति बने; डॉ. श्रीकृष्ण सिंह बिहार के प्रथम मुख्यमंत्री थे।"
+      },
+      "value": {
+        "en": "President: Dr. Rajendra Prasad | CM: Dr. Sri Krishna Sinha | Governor: Jairamdas Daulatram",
+        "hi": "राष्ट्रपति: डॉ. राजेन्द्र प्रसाद | मुख्यमंत्री: डॉ. श्रीकृष्ण सिंह | राज्यपाल: जयरामदास दौलतराम"
+      },
+      "description": {
+        "en": "### Leaders of Independent India\n\nBihar played an outsized role in shaping the constitutional and administrative framework of newly independent India.\n\n*   **First President of India**: **Dr. Rajendra Prasad**, born in Ziradei (Siwan), became the first President of the Republic of India (1950–1962).\n*   **Interim Assembly President**: **Dr. Sachchidananda Sinha** from Buxar had the honor of serving as the interim President of the Constituent Assembly on December 9, 1946.\n*   **First Chief Minister**: **Dr. Sri Krishna Sinha** served as the first CM of Bihar, leading the state through its foundational post-independence years.\n*   **First Governor**: **Jairamdas Daulatram** served as Bihar's first post-independence Governor (1947–1948).",
+        "hi": "### स्वतंत्र भारत के नेता\n\nनव स्वतंत्र भारत के संवैधानिक और प्रशासनिक ढांचे को आकार देने में बिहार ने बहुत बड़ी भूमिका निभाई।\n\n*   **भारत के प्रथम राष्ट्रपति**: जीरादेई (सीवान) में जन्मे **डॉ. राजेंद्र प्रसाद** भारत गणराज्य के पहले राष्ट्रपति (1950-1962) बने।\n*   **अंतरिम विधानसभा अध्यक्ष**: बक्सर के **डॉ. सच्चिदानंद सिन्हा** को 9 दिसंबर 1946 को संविधान सभा के प्रथम अंतरिम अध्यक्ष के रूप में कार्य करने का सम्मान प्राप्त हुआ।\n*   **प्रथम मुख्यमंत्री**: **डॉ. श्रीकृष्ण सिंह** ने बिहार के पहले मुख्यमंत्री के रूप में कार्य किया, जिन्होंने स्वतंत्रता के बाद के प्रारंभिक वर्षों में राज्य का नेतृत्व किया।\n*   **प्रथम राज्यपाल**: स्वतंत्रता के बाद **जयरामदास दौलतराम** बिहार के पहले राज्यपाल (1947-1948) बने।"
+      },
+      "asOf": "2024-01-01",
+      "associatedDistrictIds": [
+        "siwan",
+        "buxar",
+        "sheikhpura",
+        "patna"
+      ],
+      "sources": [
+        "Parliamentary Archives of India",
+        "Cabinet Secretariat Bihar"
+      ]
+    },
+    {
+      "id": "fact-urban-rural-split",
+      "category": "demographics",
+      "title": {
+        "en": "Rural vs Urban Population Proportion",
+        "hi": "ग्रामीण बनाम शहरी जनसंख्या अनुपात"
+      },
+      "fact": {
+        "en": "Bihar is overwhelmingly agrarian with 88.7% rural population and 11.3% urban population in Census 2011.",
+        "hi": "बिहार में 88.7% आबादी ग्रामीण और मात्र 11.3% आबादी शहरी है (जनगणना 2011)।"
+      },
+      "value": {
+        "en": "Rural: 88.71% | Urban: 11.29%",
+        "hi": "ग्रामीण: 88.71% | शहरी: 11.29%"
+      },
+      "description": {
+        "en": "### An Agrarian Society\n\nBihar remains one of the most overwhelmingly rural and agrarian societies in India. According to Census 2011:\n\n*   **Rural Dominance**: A massive **88.71%** of the population resides in rural villages, deeply tied to agriculture and allied sectors.\n*   **Urban Footprint**: Only **11.29%** of the population lives in urban centers.\n\n#### Urbanization Extremes\n*   **Most Urbanized**: **Patna** leads the state by a wide margin, with 43.07% of its population living in urban areas.\n*   **Least Urbanized**: Districts like **Samastipur (3.47%)** and **Banka (3.50%)** remain almost entirely rural.\n\n*Note: To boost urban infrastructure and governance, the state government undertook a massive expansion drive between 2020 and 2023, creating dozens of new Nagar Panchayats and Nagar Parishads, significantly altering these figures for the upcoming census.*",
+        "hi": "### एक कृषि प्रधान समाज\n\nबिहार भारत में सबसे अधिक ग्रामीण और कृषि प्रधान समाजों में से एक बना हुआ है। 2011 की जनगणना के अनुसार:\n\n*   **ग्रामीण प्रभुत्व**: जनसंख्या का एक विशाल हिस्सा, **88.71%**, ग्रामीण गांवों में रहता है, जो कृषि और संबद्ध क्षेत्रों से गहराई से जुड़ा हुआ है।\n*   **शहरी परिदृश्य**: जनसंख्या का केवल **11.29%** ही शहरी केंद्रों में रहता है।\n\n#### शहरीकरण के चरम आंकड़े\n*   **सर्वाधिक नगरीकृत**: **पटना** बड़े अंतर से राज्य में सबसे आगे है, जिसकी 43.07% आबादी शहरी क्षेत्रों में रहती है।\n*   **न्यूनतम नगरीकृत**: **समस्तीपुर (3.47%)** और **बांका (3.50%)** जैसे जिले लगभग पूरी तरह से ग्रामीण हैं।\n\n*नोट: शहरी बुनियादी ढांचे और प्रशासन को बढ़ावा देने के लिए, राज्य सरकार ने 2020 और 2023 के बीच एक बड़े पैमाने पर विस्तार अभियान चलाया, जिसमें दर्जनों नई नगर पंचायतों और नगर परिषदों का निर्माण किया गया, जो आगामी जनगणना के लिए इन आंकड़ों को महत्वपूर्ण रूप से बदल देगा।*"
+      },
+      "asOf": "2011-03-31",
+      "associatedDistrictIds": [
+        "patna",
+        "samastipur",
+        "banka"
+      ],
+      "sources": [
+        "Census of India 2011",
+        "Urban Development and Housing Department, Govt of Bihar"
+      ]
+    }
+  ]
+}

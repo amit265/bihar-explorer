@@ -1,0 +1,525 @@
+{
+  "data": [
+    {
+      "id": "administrative-hierarchy-overview",
+      "name": {
+        "en": "Administrative Hierarchy of Bihar",
+        "hi": "बिहार का प्रशासनिक पदानुक्रम"
+      },
+      "category": {
+        "en": "Administrative Structure",
+        "hi": "प्रशासनिक संरचना"
+      },
+      "asOf": "2024-01-01",
+      "administrativeTiers": [
+        {
+          "tierLevel": 1,
+          "name": {
+            "en": "State Secretariat (Patna)",
+            "hi": "राज्य सचिवालय (पटना)"
+          },
+          "head": {
+            "en": "Chief Secretary (IAS)",
+            "hi": "मुख्य सचिव (आईएएस)"
+          },
+          "count": 1
+        },
+        {
+          "tierLevel": 2,
+          "name": {
+            "en": "Administrative Divisions (Pramandal)",
+            "hi": "प्रशासनिक प्रमंडल"
+          },
+          "head": {
+            "en": "Divisional Commissioner (IAS)",
+            "hi": "प्रमंडलीय आयुक्त (आईएएस)"
+          },
+          "count": 9
+        },
+        {
+          "tierLevel": 3,
+          "name": {
+            "en": "Districts (Zilla)",
+            "hi": "जिले (ज़िला)"
+          },
+          "head": {
+            "en": "District Magistrate / Collector (DM / DC)",
+            "hi": "जिलाधिकारी / समाहर्ता (डीएम)"
+          },
+          "count": 38
+        },
+        {
+          "tierLevel": 4,
+          "name": {
+            "en": "Sub-Divisions (Anumandal)",
+            "hi": "अनुमंडल"
+          },
+          "head": {
+            "en": "Sub-Divisional Officer / Magistrate (SDO / SDM)",
+            "hi": "अनुमंडल पदाधिकारी / दंडाधिकारी (एसडीओ)"
+          },
+          "count": 101
+        },
+        {
+          "tierLevel": 5,
+          "name": {
+            "en": "Community Development Blocks & Circles (Prakhand / Anchal)",
+            "hi": "प्रखंड एवं अंचल"
+          },
+          "head": {
+            "en": "Block Development Officer (BDO) & Circle Officer (CO)",
+            "hi": "प्रखंड विकास पदाधिकारी (बीडीओ) एवं अंचलाधिकारी (सीओ)"
+          },
+          "count": 534
+        },
+        {
+          "tierLevel": 6,
+          "name": {
+            "en": "Gram Panchayats",
+            "hi": "ग्राम पंचायतें"
+          },
+          "head": {
+            "en": "Mukhiya (Elected) & Panchayat Secretary (Official)",
+            "hi": "मुखिया (निर्वाचित) एवं पंचायत सचिव (शासकीय)"
+          },
+          "count": 8387
+        },
+        {
+          "tierLevel": 7,
+          "name": {
+            "en": "Revenue Villages",
+            "hi": "राजस्व गांव"
+          },
+          "head": {
+            "en": "Revenue Karamchari / Village Accountant",
+            "hi": "राजस्व कर्मचारी"
+          },
+          "count": 45103
+        }
+      ],
+      "description": {
+        "en": "### A Pyramidal Structure\nThe administrative apparatus of Bihar operates as a robust, pyramidal, and decentralized structure meticulously designed to execute government policies and maintain strict law and order across its vast 94,163 sq km territory.\n\n### The Administrative Tiers\nThe entire state machinery is methodically organized into cascading tiers:\n* **9 Divisions & 38 Districts:** For macro-level supervision and execution.\n* **101 Sub-divisions:** Serving as intermediate functional units.\n* **534 Blocks/Circles:** Functioning as the grassroots delivery hubs for rural development and revenue collection.\n\n### Governance Goal\nThis multi-layered hierarchy effectively ensures that administrative power percolates from the apex State Secretariat down to the most remote revenue villages.",
+        "hi": "### एक पिरामिडनुमा संरचना\nबिहार का प्रशासनिक तंत्र एक मजबूत, पिरामिडनुमा और विकेंद्रीकृत ढांचे के रूप में कार्य करता है जिसे 94,163 वर्ग किमी के विशाल क्षेत्र में सरकारी नीतियों को लागू करने और सख्त कानून व्यवस्था बनाए रखने के लिए सावधानीपूर्वक डिज़ाइन किया गया है।\n\n### प्रशासनिक स्तर\nसंपूर्ण राज्य मशीनरी को व्यवस्थित रूप से कई स्तरों में संगठित किया गया है:\n* **9 प्रमंडल और 38 जिले:** वृहद स्तर के पर्यवेक्षण और निष्पादन के लिए।\n* **101 अनुमंडल:** मध्यवर्ती कार्यात्मक इकाइयों के रूप में कार्य करते हुए।\n* **534 प्रखंड/अंचल:** ग्रामीण विकास और राजस्व संग्रह के लिए जमीनी स्तर के डिलीवरी हब के रूप में कार्य करते हुए।\n\n### शासन का लक्ष्य\nयह बहु-स्तरीय पदानुक्रम प्रभावी ढंग से सुनिश्चित करता है कि प्रशासनिक शक्ति शीर्ष राज्य सचिवालय से लेकर सबसे दूरस्थ राजस्व गांवों तक पहुंचे।"
+      },
+      "bpscRelevance": {
+        "en": "Direct factual counts asked repeatedly in BPSC: Total divisions (9), districts (38), subdivisions (101), blocks (534), and gram panchayats (8,387).",
+        "hi": "BPSC में बार-बार पूछे जाने वाले प्रत्यक्ष तथ्यात्मक आंकड़े: कुल प्रमंडल (9), जिले (38), अनुमंडल (101), प्रखंड (534), और ग्राम पंचायतें (8,387)।"
+      }
+    },
+    {
+      "id": "nine-administrative-divisions",
+      "name": {
+        "en": "The 9 Administrative Divisions of Bihar",
+        "hi": "बिहार के 9 प्रशासनिक प्रमंडल"
+      },
+      "category": {
+        "en": "Regional Administration",
+        "hi": "क्षेत्रीय प्रशासन"
+      },
+      "asOf": "2024-01-01",
+      "divisions": [
+        {
+          "id": "patna-division",
+          "name": {
+            "en": "Patna Division",
+            "hi": "पटना प्रमंडल"
+          },
+          "headquarters": {
+            "en": "Patna",
+            "hi": "पटना"
+          },
+          "districtsCount": 6,
+          "districts": [
+            "patna",
+            "nalanda",
+            "bhojpur",
+            "buxar",
+            "rohtas",
+            "kaimur"
+          ]
+        },
+        {
+          "id": "tirhut-division",
+          "name": {
+            "en": "Tirhut Division",
+            "hi": "तिरहुत प्रमंडल"
+          },
+          "headquarters": {
+            "en": "Muzaffarpur",
+            "hi": "मुजफ्फरपुर"
+          },
+          "districtsCount": 6,
+          "districts": [
+            "muzaffarpur",
+            "west-champaran",
+            "east-champaran",
+            "sitamarhi",
+            "sheohar",
+            "vaishali"
+          ]
+        },
+        {
+          "id": "saran-division",
+          "name": {
+            "en": "Saran Division",
+            "hi": "सारण प्रमंडल"
+          },
+          "headquarters": {
+            "en": "Chhapra",
+            "hi": "छपरा"
+          },
+          "districtsCount": 3,
+          "districts": [
+            "saran",
+            "siwan",
+            "gopalganj"
+          ]
+        },
+        {
+          "id": "darbhanga-division",
+          "name": {
+            "en": "Darbhanga Division",
+            "hi": "दरभंगा प्रमंडल"
+          },
+          "headquarters": {
+            "en": "Darbhanga",
+            "hi": "दरभंगा"
+          },
+          "districtsCount": 3,
+          "districts": [
+            "darbhanga",
+            "madhubani",
+            "samastipur"
+          ]
+        },
+        {
+          "id": "kosi-division",
+          "name": {
+            "en": "Kosi Division",
+            "hi": "कोसी प्रमंडल"
+          },
+          "headquarters": {
+            "en": "Saharsa",
+            "hi": "सहरसा"
+          },
+          "districtsCount": 3,
+          "districts": [
+            "saharsa",
+            "supaul",
+            "madhepura"
+          ]
+        },
+        {
+          "id": "purnia-division",
+          "name": {
+            "en": "Purnia Division",
+            "hi": "पूर्णिया प्रमंडल"
+          },
+          "headquarters": {
+            "en": "Purnia",
+            "hi": "पूर्णिया"
+          },
+          "districtsCount": 4,
+          "districts": [
+            "purnia",
+            "katihar",
+            "araria",
+            "kishanganj"
+          ]
+        },
+        {
+          "id": "bhagalpur-division",
+          "name": {
+            "en": "Bhagalpur Division",
+            "hi": "भागलपुर प्रमंडल"
+          },
+          "headquarters": {
+            "en": "Bhagalpur",
+            "hi": "भागलपुर"
+          },
+          "districtsCount": 2,
+          "districts": [
+            "bhagalpur",
+            "banka"
+          ]
+        },
+        {
+          "id": "munger-division",
+          "name": {
+            "en": "Munger Division",
+            "hi": "मुंगेर प्रमंडल"
+          },
+          "headquarters": {
+            "en": "Munger",
+            "hi": "मुंगेर"
+          },
+          "districtsCount": 6,
+          "districts": [
+            "munger",
+            "jamui",
+            "lakhisarai",
+            "sheikhpura",
+            "khagaria",
+            "begusarai"
+          ]
+        },
+        {
+          "id": "magadh-division",
+          "name": {
+            "en": "Magadh Division",
+            "hi": "मगध प्रमंडल"
+          },
+          "headquarters": {
+            "en": "Gaya",
+            "hi": "गया"
+          },
+          "districtsCount": 5,
+          "districts": [
+            "gaya",
+            "nawada",
+            "aurangabad",
+            "jehanabad",
+            "arwal"
+          ]
+        }
+      ],
+      "description": {
+        "en": "### Regional Command Centers\nAdministrative Divisions act as vital intermediate supervisory units positioned between the State Secretariat and the District Collectorates. They are headed by highly experienced senior IAS officers designated as Divisional Commissioners.\n\n### Divisional Responsibilities\n* **Supervision & Coordination:** They rigorously inspect district collectorates and coordinate multi-district development programs.\n* **Revenue & Crisis Management:** They serve as powerful appellate authorities for revenue disputes and assume critical command during regional emergencies (like floods or mass unrest).\n\n### Demographic Distribution\nTirhut, Patna, and Munger are the state's largest divisions by district count (encompassing 6 districts each), while Bhagalpur remains the smallest (containing just 2 districts).",
+        "hi": "### क्षेत्रीय कमान केंद्र\nप्रशासनिक प्रमंडल राज्य सचिवालय और जिला समाहरणालयों के बीच स्थित महत्वपूर्ण मध्यवर्ती पर्यवेक्षी इकाइयों के रूप में कार्य करते हैं। इनका नेतृत्व प्रमंडलीय आयुक्त के रूप में नामित अत्यधिक अनुभवी वरिष्ठ आईएएस अधिकारियों द्वारा किया जाता है।\n\n### प्रमंडलीय जिम्मेदारियां\n* **पर्यवेक्षण और समन्वय:** वे जिला समाहरणालयों का कड़ाई से निरीक्षण करते हैं और बहु-जिला विकास कार्यक्रमों का समन्वय करते हैं।\n* **राजस्व और संकट प्रबंधन:** वे राजस्व विवादों के लिए शक्तिशाली अपीलीय अधिकारियों के रूप में काम करते हैं और क्षेत्रीय आपात स्थितियों (जैसे बाढ़ या बड़े पैमाने पर अशांति) के दौरान महत्वपूर्ण कमान संभालते हैं।\n\n### जनसांख्यिकीय वितरण\nतिरहुत, पटना और मुंगेर जिले की संख्या (प्रत्येक में 6 जिले शामिल) के हिसाब से राज्य के सबसे बड़े प्रमंडल हैं, जबकि भागलपुर (केवल 2 जिले) सबसे छोटा है।"
+      },
+      "bpscRelevance": {
+        "en": "Frequent BPSC map/pairing questions: Smallest division by district count (Bhagalpur with 2 districts: Bhagalpur & Banka), and districts comprising Saran, Kosi, and Darbhanga divisions.",
+        "hi": "BPSC के सुमेलन प्रश्न: जिलों की संख्या के आधार पर सबसे छोटा प्रमंडल (भागलपुर, 2 जिले: भागलपुर और बांका), और सारण, कोसी तथा दरभंगा प्रमंडलों के घटक जिले।"
+      }
+    },
+    {
+      "id": "chief-secretary-and-state-secretariat",
+      "name": {
+        "en": "Chief Secretary & The State Secretariat",
+        "hi": "मुख्य सचिव एवं राज्य सचिवालय"
+      },
+      "category": {
+        "en": "Apex Civil Bureaucracy",
+        "hi": "शीर्ष नागरिक नौकरशाही"
+      },
+      "role": {
+        "en": "Senior-most civil servant and administrative head of the Government of Bihar",
+        "hi": "बिहार सरकार के वरिष्ठतम लोक सेवक और प्रशासनिक प्रमुख"
+      },
+      "secretariatBuildings": {
+        "en": [
+          "Old Secretariat (Vikas Bhawan / Sardar Patel Bhawan)",
+          "New Secretariat (Sinchai Bhawan)"
+        ],
+        "hi": [
+          "पुराना सचिवालय (विकास भवन / सरदार पटेल भवन)",
+          "नया सचिवालय (सिंचाई भवन)"
+        ]
+      },
+      "coreResponsibilities": {
+        "en": [
+          "Principal advisor to the Chief Minister on all administrative, strategic, and governance policy matters",
+          "Secretary to the State Cabinet; prepares agenda and records minutes of Cabinet meetings",
+          "Head of the State Civil Services (Bihar Administrative Service and state IAS cadre)",
+          "Chairman of the State Disaster Management Executive Committee",
+          "Apex coordinator resolving jurisdictional and financial disputes between various government departments"
+        ],
+        "hi": [
+          "सभी प्रशासनिक, रणनीतिक और शासन नीति मामलों पर मुख्यमंत्री के प्रमुख सलाहकार",
+          "राज्य मंत्रिमंडल के सचिव; कैबिनेट बैठकों का एजेंडा तैयार करना और कार्यवृत्त दर्ज करना",
+          "राज्य नागरिक सेवाओं (बिहार प्रशासनिक सेवा और राज्य आईएएस संवर्ग) के प्रमुख",
+          "राज्य आपदा प्रबंधन कार्यकारी समिति के अध्यक्ष",
+          "विभिन्न सरकारी विभागों के बीच अधिकार क्षेत्र और वित्तीय विवादों को हल करने वाले शीर्ष समन्वयक"
+        ]
+      },
+      "description": {
+        "en": "### The Bureaucratic Apex\nThe Chief Secretary unequivocally stands at the apex of Bihar's entire civil administrative machinery. Operating from the historic Old Secretariat (Vikas Bhawan) in Patna, this role is the highest achievable rank for an IAS officer within the state cadre.\n\n### Essential Functions\n* **Cabinet Advisor:** Serves as the principal strategic advisor to the Chief Minister and acts as the Secretary to the State Cabinet.\n* **Inter-Departmental Coordination:** Ensures seamless horizontal coordination across all 44+ government departments, expertly resolving jurisdictional disputes.\n* **Crisis Commander:** Takes charge of the State Disaster Management Executive Committee during catastrophic events like floods or pandemics.\n\n### The Critical Bridge\nUltimately, the Chief Secretary acts as the indispensable bridge connecting the elected political executive with the permanent bureaucracy.",
+        "hi": "### नौकरशाही का शिखर\nमुख्य सचिव स्पष्ट रूप से बिहार की संपूर्ण नागरिक प्रशासनिक मशीनरी के शीर्ष पर खड़े हैं। पटना के ऐतिहासिक पुराने सचिवालय (विकास भवन) से संचालित होने वाला यह पद राज्य कैडर के भीतर एक आईएएस अधिकारी के लिए सर्वोच्च प्राप्य रैंक है।\n\n### आवश्यक कार्य\n* **कैबिनेट सलाहकार:** मुख्यमंत्री के प्रमुख रणनीतिक सलाहकार के रूप में कार्य करते हैं और राज्य मंत्रिमंडल के सचिव के रूप में कार्य करते हैं।\n* **अंतर-विभागीय समन्वय:** सभी 44+ सरकारी विभागों के बीच निर्बाध क्षैतिज समन्वय सुनिश्चित करते हैं और अधिकार क्षेत्र के विवादों को कुशलता से सुलझाते हैं।\n* **संकट कमांडर:** बाढ़ या महामारी जैसी विनाशकारी घटनाओं के दौरान राज्य आपदा प्रबंधन कार्यकारी समिति का प्रभार संभालते हैं।\n\n### महत्वपूर्ण सेतु\nअंततः, मुख्य सचिव निर्वाचित राजनीतिक कार्यपालिका को स्थायी नौकरशाही से जोड़ने वाले अपरिहार्य सेतु के रूप में कार्य करते हैं।"
+      },
+      "bpscRelevance": {
+        "en": "Role of Chief Secretary as Cabinet Secretary, coordinator of state departments, and crisis administrator during natural disasters.",
+        "hi": "कैबिनेट सचिव के रूप में मुख्य सचिव की भूमिका, राज्य विभागों के समन्वयक, और प्राकृतिक आपदाओं के दौरान संकट प्रशासक।"
+      }
+    },
+    {
+      "id": "district-collector-magistrate",
+      "name": {
+        "en": "District Magistrate & Collector (DM / DC)",
+        "hi": "जिलाधिकारी एवं समाहर्ता (डीएम)"
+      },
+      "category": {
+        "en": "District Administration",
+        "hi": "ज़िला प्रशासन"
+      },
+      "office": {
+        "en": "District Collectorate (Samaharanalay)",
+        "hi": "जिला समाहरणालय"
+      },
+      "multifacetedRoles": {
+        "asCollector": {
+          "en": "Apex revenue officer of the district; collection of land revenue, excise, mining royalties, and supervision of land records",
+          "hi": "जिले के शीर्ष राजस्व अधिकारी; भू-राजस्व, आबकारी, खनन रॉयल्टी का संग्रह और भूमि अभिलेखों का पर्यवेक्षण"
+        },
+        "asDistrictMagistrate": {
+          "en": "Head of district law and order; commands district police under CrPC, issues prohibitory orders (Section 144), regulates arms licenses",
+          "hi": "जिला कानून व्यवस्था के प्रमुख; दंड प्रक्रिया संहिता के तहत जिला पुलिस पर नियंत्रण, निषेधाज्ञा (धारा 144) जारी करना, शस्त्र लाइसेंस का विनियमन"
+        },
+        "asDistrictDevelopmentOfficer": {
+          "en": "Coordinates implementation of central and state welfare schemes (MNREGA, PMAY, Saat Nischay) alongside the Deputy Development Commissioner (DDC)",
+          "hi": "उप विकास आयुक्त (डीडीसी) के साथ केंद्रीय और राज्य कल्याणकारी योजनाओं (मनरेगा, पीएमएवाई, सात निश्चय) के क्रियान्वयन का समन्वय"
+        },
+        "asDistrictElectionOfficer": {
+          "en": "Responsible for peaceful conduct of Parliamentary and Assembly elections under Election Commission of India superintendence",
+          "hi": "भारत निर्वाचन आयोग के पर्यवेक्षण में संसदीय और विधानसभा चुनावों के शांतिपूर्ण संचालन के लिए जिम्मेदार"
+        }
+      },
+      "description": {
+        "en": "### The Pillar of Governance\nThe District Magistrate (DM) / Collector is the undeniable linchpin of territorial governance in Bihar. Serving as the direct, authoritative representative of the state government across Bihar's 38 districts, the DM's role is complex and highly demanding.\n\n### A Multifaceted Command\n* **Law & Order (Magistrate):** Commands the district police machinery, enforces Section 144 to prevent riots, and issues arms licenses.\n* **Revenue (Collector):** Serves as the apex revenue officer, overseeing land records and aggressively mobilizing tax/excise collection.\n* **Development:** Spearheads the execution of massive welfare schemes (like MNREGA and Saat Nischay) alongside the DDC.\n* **Election Integrity:** Functions as the District Election Officer to ensure free, fair, and peaceful polls.",
+        "hi": "### शासन का स्तंभ\nजिलाधिकारी (डीएम) / समाहर्ता बिहार में क्षेत्रीय शासन की निर्विवाद धुरी हैं। बिहार के 38 जिलों में राज्य सरकार के प्रत्यक्ष, आधिकारिक प्रतिनिधि के रूप में कार्य करते हुए, डीएम की भूमिका जटिल और अत्यधिक मांग वाली है।\n\n### बहुआयामी कमान\n* **कानून व्यवस्था (दंडाधिकारी):** जिला पुलिस मशीनरी को नियंत्रित करते हैं, दंगों को रोकने के लिए धारा 144 लागू करते हैं, और शस्त्र लाइसेंस जारी करते हैं।\n* **राजस्व (समाहर्ता):** शीर्ष राजस्व अधिकारी के रूप में कार्य करते हैं, भूमि अभिलेखों की देखरेख करते हैं और कर/उत्पाद शुल्क संग्रह को आक्रामक रूप से जुटाते हैं।\n* **विकास:** डीडीसी के साथ मिलकर विशाल कल्याणकारी योजनाओं (जैसे मनरेगा और सात निश्चय) के निष्पादन का नेतृत्व करते हैं।\n* **चुनाव अखंडता:** स्वतंत्र, निष्पक्ष और शांतिपूर्ण चुनाव सुनिश्चित करने के लिए जिला निर्वाचन अधिकारी के रूप में कार्य करते हैं।"
+      },
+      "bpscRelevance": {
+        "en": "Foundational topic for civil service aspirants: powers under Section 144, role as District Election Officer, and relationship with Superintendent of Police (SP).",
+        "hi": "सिविल सेवा अभ्यर्थियों के लिए बुनियादी विषय: धारा 144 के तहत शक्तियां, जिला निर्वाचन अधिकारी के रूप में भूमिका, और पुलिस अधीक्षक (एसपी) के साथ संबंध।"
+      }
+    },
+    {
+      "id": "sub-divisional-officer-administration",
+      "name": {
+        "en": "Sub-Divisional Officer / Magistrate (SDO / SDM)",
+        "hi": "अनुमंडल पदाधिकारी / अनुमंडल दंडाधिकारी (एसडीओ / एसडीएम)"
+      },
+      "category": {
+        "en": "Sub-Divisional Administration",
+        "hi": "अनुमंडल प्रशासन"
+      },
+      "totalUnits": 101,
+      "cadre": {
+        "en": "Indian Administrative Service (IAS junior cadre) or Senior Bihar Administrative Service (BAS)",
+        "hi": "भारतीय प्रशासनिक सेवा (आईएएस कनिष्ठ संवर्ग) या वरिष्ठ बिहार प्रशासनिक सेवा (बीएएस)"
+      },
+      "corePowers": {
+        "en": [
+          "Maintenance of public peace and order within the subdivision under preventive sections of CrPC (Sections 107, 116, 133, 144)",
+          "Appellate authority over Circle Officers regarding land dispute settlements and mutation orders",
+          "Supervision of the Public Distribution System (PDS / Ration dealers) and consumer welfare",
+          "Returning Officer (RO) for State Legislative Assembly constituencies during general elections"
+        ],
+        "hi": [
+          "दंड प्रक्रिया संहिता की निवारक धाराओं (धारा 107, 116, 133, 144) के तहत अनुमंडल के भीतर सार्वजनिक शांति और व्यवस्था बनाए रखना",
+          "भूमि विवाद निपटान और दाखिल-खारिज (म्यूटेशन) आदेशों के संबंध में अंचलाधिकारियों के ऊपर अपीलीय प्राधिकारी",
+          "सार्वजनिक वितरण प्रणाली (पीडीएस / राशन डीलर) और उपभोक्ता कल्याण का पर्यवेक्षण",
+          "आम चुनावों के दौरान राज्य विधानसभा क्षेत्रों के लिए रिटर्निंग ऑफिसर (आरओ)"
+        ]
+      },
+      "description": {
+        "en": "### The Sub-District Commander\nThe Sub-Divisional Officer (SDO) essentially serves as the 'miniature District Magistrate' at the sub-district level across Bihar's 101 subdivisions. This prestigious post is typically held by junior IAS officers or senior members of the Bihar Administrative Service (BAS).\n\n### Executive Authority\n* **Public Tranquility:** Exercises potent executive magisterial powers under preventive sections of the CrPC to rapidly quell local disturbances.\n* **Revenue & Civil Welfare:** Acts as an appellate authority adjudicating land mutation disputes from Circle Officers, and rigorously supervises the local Public Distribution System (ration networks).\n* **Electoral Duty:** Crucially serves as the Returning Officer (RO) for state assembly constituencies.",
+        "hi": "### उप-जिला कमांडर\nअनुमंडल पदाधिकारी (एसडीओ) अनिवार्य रूप से बिहार के 101 अनुमंडलों में उप-जिला स्तर पर 'लघु जिलाधिकारी' के रूप में कार्य करते हैं। यह प्रतिष्ठित पद आमतौर पर कनिष्ठ आईएएस अधिकारियों या बिहार प्रशासनिक सेवा (बीएएस) के वरिष्ठ सदस्यों द्वारा धारित किया जाता है।\n\n### कार्यकारी प्राधिकरण\n* **सार्वजनिक शांति:** स्थानीय अशांति को तेजी से शांत करने के लिए दंड प्रक्रिया संहिता (CrPC) की निवारक धाराओं के तहत शक्तिशाली कार्यकारी दंडाधिकारी शक्तियों का प्रयोग करते हैं।\n* **राजस्व और नागरिक कल्याण:** अंचलाधिकारियों से आने वाले भूमि दाखिल-खारिज विवादों का न्यायनिर्णयन करने वाले अपीलीय प्राधिकरण के रूप में कार्य करते हैं, और स्थानीय सार्वजनिक वितरण प्रणाली (राशन नेटवर्क) की कड़ाई से निगरानी करते हैं।\n* **चुनावी कर्तव्य:** महत्वपूर्ण रूप से राज्य विधानसभा क्षेत्रों के लिए रिटर्निंग ऑफिसर (आरओ) के रूप में कार्य करते हैं।"
+      },
+      "bpscRelevance": {
+        "en": "Direct career goal for BPSC Combined Competitive Examination rank-holders (Bihar Administrative Service premier cadre post).",
+        "hi": "बीपीएससी संयुक्त प्रतियोगी परीक्षा के शीर्ष रैंक धारकों के लिए सीधा लक्ष्य पद (बिहार प्रशासनिक सेवा का प्रमुख संवर्ग पद)।"
+      }
+    },
+    {
+      "id": "block-and-circle-administration",
+      "name": {
+        "en": "Block Development Officer (BDO) & Circle Officer (CO)",
+        "hi": "प्रखंड विकास पदाधिकारी (बीडीओ) एवं अंचलाधिकारी (सीओ)"
+      },
+      "category": {
+        "en": "Grassroots Field Administration",
+        "hi": "जमीनी क्षेत्रीय प्रशासन"
+      },
+      "totalUnits": 534,
+      "functionalDivision": {
+        "bdoRole": {
+          "title": {
+            "en": "Block Development Officer (BDO)",
+            "hi": "प्रखंड विकास पदाधिकारी (बीडीओ)"
+          },
+          "focus": {
+            "en": "Development administration: Executive officer of Panchayat Samiti, executes rural poverty alleviation, housing schemes (PMAY), sanitation, and MGNREGA works",
+            "hi": "विकास प्रशासन: पंचायत समिति के कार्यपालक अधिकारी, ग्रामीण गरीबी उन्मूलन, आवास योजनाएं (पीएमएवाई), स्वच्छता और मनरेगा कार्यों का क्रियान्वयन"
+          }
+        },
+        "coRole": {
+          "title": {
+            "en": "Circle Officer (CO)",
+            "hi": "अंचलाधिकारी (सीओ)"
+          },
+          "focus": {
+            "en": "Revenue administration: Land records maintenance, land mutation (Dakhil-Kharij), issuing caste, income, and residence certificates, disaster compensation",
+            "hi": "राजस्व प्रशासन: भूमि अभिलेखों का रखरखाव, दाखिल-खारिज (म्यूटेशन), जाति, आय और निवास प्रमाण पत्र जारी करना, आपदा मुआवजा वितरण"
+          }
+        }
+      },
+      "description": {
+        "en": "### The Grassroots Interface\nAt the foundational level of Bihar's 534 blocks (Prakhand / Anchal), state administration is functionally bifurcated into two distinct, specialized arms: Development and Revenue.\n\n### The Dual Leadership\n* **Block Development Officer (BDO):** Heads the development machinery. Collaborating closely with elected Panchayat representatives, the BDO executes rural poverty alleviation programs, sanitation drives, housing schemes, and MGNREGA works.\n* **Circle Officer (CO):** Commands the revenue office (Anchal). The CO is strictly responsible for managing sensitive land demarcations, tenancy issues, mutation (Dakhil-Kharij), and issuing vital statutory certificates (caste, income).\n\nTogether, the BDO and CO represent the most crucial frontline interface between the common rural citizen and the state machinery.",
+        "hi": "### जमीनी स्तर का इंटरफ़ेस\nबिहार के 534 प्रखंडों (प्रखंड / अंचल) के जमीनी स्तर पर, राज्य प्रशासन को कार्यात्मक रूप से दो अलग, विशेष शाखाओं में विभाजित किया गया है: विकास और राजस्व।\n\n### दोहरा नेतृत्व\n* **प्रखंड विकास पदाधिकारी (बीडीओ):** विकास मशीनरी का नेतृत्व करते हैं। निर्वाचित पंचायत प्रतिनिधियों के साथ मिलकर काम करते हुए, बीडीओ ग्रामीण गरीबी उन्मूलन कार्यक्रमों, स्वच्छता अभियानों, आवास योजनाओं और मनरेगा कार्यों को निष्पादित करते हैं।\n* **अंचलाधिकारी (सीओ):** राजस्व कार्यालय (अंचल) की कमान संभालते हैं। सीओ संवेदनशील भूमि सीमांकन, किरायेदारी के मुद्दों, दाखिल-खारिज और महत्वपूर्ण वैधानिक प्रमाण पत्र (जाति, आय) जारी करने के लिए सख्ती से जिम्मेदार हैं।\n\nसाथ मिलकर, बीडीओ और सीओ आम ग्रामीण नागरिक और राज्य मशीनरी के बीच सबसे महत्वपूर्ण फ्रंटलाइन इंटरफ़ेस का प्रतिनिधित्व करते हैं।"
+      },
+      "bpscRelevance": {
+        "en": "Core posts recruited through BPSC (Bihar Rural Development Service for BDO, and Bihar Revenue Service for CO).",
+        "hi": "बीपीएससी के माध्यम से भर्ती होने वाले प्रमुख पद (बीडीओ के लिए बिहार ग्रामीण विकास सेवा, और सीओ के लिए बिहार राजस्व सेवा)।"
+      }
+    },
+    {
+      "id": "bihar-right-to-public-services",
+      "name": {
+        "en": "Bihar RTPS Act 2011 & Public Grievance Redressal Act 2015",
+        "hi": "बिहार लोक सेवाओं का अधिकार अधिनियम 2011 एवं लोक शिकायत निवारण अधिनियम 2015"
+      },
+      "category": {
+        "en": "Administrative Accountability & Transparency",
+        "hi": "प्रशासनिक जवाबदेही एवं पारदर्शिता"
+      },
+      "landmarkEnactments": [
+        {
+          "actName": {
+            "en": "Bihar Right to Public Services Act (RTPS), 2011",
+            "hi": "बिहार लोक सेवाओं का अधिकार अधिनियम (RTPS), 2011"
+          },
+          "dateEnacted": "2011-08-15",
+          "keyProvisions": {
+            "en": [
+              "Statutory guarantee of time-bound delivery of 50+ notified public services (caste/income certificates, driving licenses, land records)",
+              "Imposes mandatory financial penalties on errant government officials for unexplained delays",
+              "Delivered through dedicated online RTPS portals and block counters"
+            ],
+            "hi": [
+              "50+ अधिसूचित लोक सेवाओं (जाति/आय प्रमाण पत्र, ड्राइविंग लाइसेंस, भूमि अभिलेख) की समयबद्ध डिलीवरी की वैधानिक गारंटी",
+              "अस्पष्ट देरी के लिए दोषी सरकारी अधिकारियों पर अनिवार्य वित्तीय जुर्माना लगाना",
+              "समर्पित ऑनलाइन आरटीपीएस पोर्टल और प्रखंड काउंटरों के माध्यम से वितरण"
+            ]
+          }
+        },
+        {
+          "actName": {
+            "en": "Bihar Public Grievance Redressal Act (BPGRA), 2015",
+            "hi": "बिहार लोक शिकायत निवारण अधिकार अधिनियम (BPGRA), 2015"
+          },
+          "dateEnacted": "2016-06-05",
+          "keyProvisions": {
+            "en": [
+              "First of its kind in India: statutory right to citizen hearing and redressal of grievances within 60 working days",
+              "Independent Public Grievance Redressal Officers (PGRO) at Subdivision, District, and State levels",
+              "Hearing conducted in presence of both complainant and concerned government department officer"
+            ],
+            "hi": [
+              "भारत में अपनी तरह का पहला कानून: 60 कार्य दिवसों के भीतर नागरिकों की सुनवाई और शिकायतों के निवारण का वैधानिक अधिकार",
+              "अनुमंडल, जिला और राज्य स्तर पर स्वतंत्र लोक शिकायत निवारण अधिकारी (पीजीआरओ)",
+              "शिकायतकर्ता और संबंधित सरकारी विभाग के अधिकारी दोनों की उपस्थिति में सुनवाई"
+            ]
+          }
+        }
+      ],
+      "description": {
+        "en": "### Pioneering Governance Reform\nBihar aggressively pioneered systemic administrative governance reforms by enacting the landmark Right to Public Services (RTPS) Act in 2011, followed by the groundbreaking Public Grievance Redressal Act (BPGRA) in 2015.\n\n### The Impact of RTPS & BPGRA\n* **RTPS:** Through a vast network of online portals and block counters, millions of citizens now routinely receive identity certificates, land documents, and utility connections within legally stipulated deadlines—with errant officials facing mandatory financial penalties for delays.\n* **BPGRA:** This created an unprecedented quasi-judicial mechanism where citizens can legally summon public officials to open hearings, thereby destroying bureaucratic red tape and making administrative discretion directly accountable to the public.",
+        "hi": "### अग्रणी शासन सुधार\nबिहार ने 2011 में ऐतिहासिक लोक सेवाओं का अधिकार (RTPS) अधिनियम और उसके बाद 2015 में अभूतपूर्व लोक शिकायत निवारण अधिनियम (BPGRA) लागू करके प्रणालीगत प्रशासनिक शासन सुधारों का आक्रामक रूप से नेतृत्व किया।\n\n### RTPS और BPGRA का प्रभाव\n* **RTPS:** ऑनलाइन पोर्टलों और ब्लॉक काउंटरों के विशाल नेटवर्क के माध्यम से, लाखों नागरिक अब नियमित रूप से कानूनी रूप से निर्धारित समय सीमा के भीतर पहचान प्रमाण पत्र, भूमि दस्तावेज और उपयोगिता कनेक्शन प्राप्त करते हैं - देरी के लिए दोषी अधिकारियों को अनिवार्य वित्तीय दंड का सामना करना पड़ता है।\n* **BPGRA:** इसने एक अभूतपूर्व अर्ध-न्यायिक तंत्र बनाया जहां नागरिक कानूनी रूप से सार्वजनिक अधिकारियों को खुली सुनवाई में बुला सकते हैं, जिससे नौकरशाही की लालफीताशाही समाप्त होती है और प्रशासनिक विवेक सीधे जनता के प्रति जवाबदेह बनता है।"
+      },
+      "bpscRelevance": {
+        "en": "Landmark governance topic in BPSC GS Paper II (Polity & Governance): Implementation date of RTPS (15 August 2011) and quasi-judicial nature of BPGRA.",
+        "hi": "BPSC सामान्य अध्ययन पेपर II (राजव्यवस्था एवं शासन) में महत्वपूर्ण विषय: आरटीपीएस के लागू होने की तिथि (15 अगस्त 2011) और बीपीजीआरए की अर्ध-न्यायिक प्रकृति।"
+      }
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "data": [
+    {
+      "id": "jeevika-bihar-rural-livelihoods",
+      "category": "women-empowerment",
+      "title": {
+        "en": "Jeevika — Bihar Rural Livelihoods Project (BRLPS)",
+        "hi": "जीविका — बिहार ग्रामीण आजीविका संवर्धन समिति"
+      },
+      "description": {
+        "en": "### Introduction\n**Jeevika**, formally the Bihar Rural Livelihoods Project, is the state's flagship initiative for rural women empowerment and poverty alleviation. Implemented with the robust support of the World Bank, it has profoundly transformed the rural socio-economic landscape.\n\n### The Self-Help Revolution\n* **Mass Mobilization:** The initiative has achieved a staggering scale, successfully organizing over 1.3 crore rural women into more than 10.4 lakh Self-Help Groups (SHGs).\n* **Economic Liberation:** By institutionalizing rural credit, Jeevika has effectively dismantled the predatory and exploitative rural moneylending systems, ensuring that women have direct access to formal banking.\n\n### Empowering Enterprises\nFar beyond micro-credit, Jeevika has empowered women to emerge as confident entrepreneurs. They now successfully manage innovative community ventures, including running hospital canteens (*Didi Ki Rasoi*), managing rural retail outlets, and establishing vital solar lighting enterprises across off-grid villages.",
+        "hi": "### परिचय\n**जीविका**, जिसे औपचारिक रूप से बिहार ग्रामीण आजीविका संवर्धन समिति कहा जाता है, ग्रामीण महिला सशक्तिकरण और गरीबी उन्मूलन के लिए राज्य की प्रमुख पहल है। विश्व बैंक के मजबूत समर्थन के साथ लागू, इसने ग्रामीण सामाजिक-आर्थिक परिदृश्य को गहराई से बदल दिया है।\n\n### स्वयं सहायता क्रांति\n* **व्यापक लामबंदी:** इस पहल ने 10.4 लाख से अधिक स्वयं सहायता समूहों (SHG) में 1.3 करोड़ से अधिक ग्रामीण महिलाओं को सफलतापूर्वक संगठित करके एक आश्चर्यजनक पैमाना हासिल किया है।\n* **आर्थिक मुक्ति:** ग्रामीण ऋण को संस्थागत बनाकर, जीविका ने शिकारी और शोषक ग्रामीण साहूकारी (सूदखोर) प्रणालियों को प्रभावी ढंग से समाप्त कर दिया है, यह सुनिश्चित करते हुए कि महिलाओं की औपचारिक बैंकिंग तक सीधी पहुंच हो।\n\n### सशक्त उद्यम\nमाइक्रो-क्रेडिट (सूक्ष्म ऋण) से बहुत आगे बढ़कर, जीविका ने महिलाओं को आत्मविश्वासी उद्यमियों के रूप में उभरने के लिए सशक्त बनाया है। वे अब अभिनव सामुदायिक उपक्रमों का सफलतापूर्वक प्रबंधन करती हैं, जिनमें अस्पताल की कैंटीन (*दीदी की रसोई*) चलाना, ग्रामीण खुदरा दुकानों का प्रबंधन करना और ऑफ-ग्रिड गांवों में महत्वपूर्ण सौर प्रकाश उद्यम स्थापित करना शामिल है।"
+      },
+      "indicators": {
+        "launchYear": 2006,
+        "shgsFormed": 1040000,
+        "womenMobilizedInCrores": 1.31,
+        "villageOrganizations": 69000,
+        "clusterFederations": 1450,
+        "flagshipEnterprises": [
+          {
+            "name": {
+              "en": "Didi Ki Rasoi (Hospital Canteen Network)",
+              "hi": "दीदी की रसोई (अस्पताल कैंटीन नेटवर्क)"
+            },
+            "facilitiesCount": 100
+          },
+          {
+            "name": {
+              "en": "Gramin Bazar (Rural Retail Outlets)",
+              "hi": "ग्रामीण बाजार (ग्रामीण खुदरा केंद्र)"
+            }
+          }
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Bihar Rural Livelihoods Promotion Society (BRLPS), Rural Development Department",
+        "hi": "बिहार ग्रामीण आजीविका संवर्धन समिति (जीविका), ग्रामीण विकास विभाग"
+      },
+      "relatedDistricts": [
+        "patna",
+        "nalanda",
+        "muzaffarpur",
+        "gaya",
+        "purnia"
+      ]
+    },
+    {
+      "id": "panchayat-women-reservation",
+      "category": "political-empowerment",
+      "title": {
+        "en": "50% Reservation for Women in Panchayati Raj & Urban Local Bodies",
+        "hi": "पंचायती राज एवं शहरी निकायों में महिलाओं को 50% आरक्षण"
+      },
+      "description": {
+        "en": "### Introduction\nIn 2006, Bihar created national history under the Bihar Panchayat Raj Act. It took a bold, unprecedented step towards affirmative political action by becoming the very first state in India to legislate a **50% reservation for women** across all tiers of Panchayati Raj Institutions and Urban Local Bodies.\n\n### A Political Upheaval\n* **Grassroots Leadership:** This sweeping policy did not just change the law; it instantly shattered deeply entrenched patriarchal structures. It propelled over 1.3 lakh rural women directly into elected leadership roles.\n* **Shifting Dynamics:** Overnight, women stepped out of the confines of their homes to become *Mukhiyas* (village heads), *Sarpanches* (village judges), and District Council heads, permanently altering the dynamics of local self-governance in Bihar.",
+        "hi": "### परिचय\n2006 में, बिहार ने बिहार पंचायती राज अधिनियम के तहत राष्ट्रीय इतिहास रचा। इसने पंचायती राज संस्थाओं और शहरी स्थानीय निकायों के सभी स्तरों पर **महिलाओं के लिए 50% आरक्षण** को कानून बनाने वाला भारत का पहला राज्य बनकर सकारात्मक राजनीतिक कार्रवाई की दिशा में एक साहसिक, अभूतपूर्व कदम उठाया।\n\n### एक राजनीतिक उथल-पुथल\n* **जमीनी नेतृत्व:** इस व्यापक नीति ने सिर्फ कानून नहीं बदला; इसने गहराई से स्थापित पितृसत्तात्मक संरचनाओं को तुरंत चकनाचूर कर दिया। इसने 1.3 लाख से अधिक ग्रामीण महिलाओं को सीधे निर्वाचित नेतृत्व की भूमिकाओं में धकेल दिया।\n* **बदलती गतिशीलता:** रातों-रात, महिलाएं अपने घरों की चारदीवारी से बाहर निकलकर *मुखिया* (गांव की मुखिया), *सरपंच* (गांव के न्यायाधीश) और जिला परिषद प्रमुख बन गईं, जिससे बिहार में स्थानीय स्वशासन की गतिशीलता स्थायी रूप से बदल गई।"
+      },
+      "indicators": {
+        "enactmentYear": 2006,
+        "reservationPercentage": 50,
+        "bodiesCovered": [
+          "Gram Panchayats",
+          "Panchayat Samitis",
+          "Zila Parishads",
+          "Nagar Panchayats",
+          "Nagar Parishads",
+          "Municipal Corporations"
+        ],
+        "womenElectedRepresentatives": 135000
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Panchayati Raj Department & State Election Commission, Bihar",
+        "hi": "पंचायती राज विभाग एवं राज्य निर्वाचन आयोग, बिहार"
+      },
+      "relatedDistricts": [
+        "patna",
+        "nalanda",
+        "bhojpur",
+        "samastipur",
+        "darbhanga"
+      ]
+    },
+    {
+      "id": "mukhyamantri-balika-cycle-yojana",
+      "category": "girls-education",
+      "title": {
+        "en": "Mukhya Mantri Balika Cycle Yojana",
+        "hi": "मुख्यमंत्री बालिका साइकिल योजना"
+      },
+      "description": {
+        "en": "### Introduction\nLaunched in 2006, the **Mukhya Mantri Balika Cycle Yojana** is arguably one of the most successful and globally recognized social interventions in modern Indian history. \n\n### Bridging the Gap\n* **The Intervention:** The scheme provided direct cash transfers to every girl student upon enrolling in Grade 9, specifically to purchase a bicycle.\n* **Overcoming Barriers:** This simple yet profound intervention directly addressed the primary barrier to girls' higher education in rural areas—the physical distance to secondary schools and the associated safety concerns.\n\n### Phenomenal Impact\nThe results were staggering. The scheme quadrupled female high school enrollment, drastically reduced dropout rates, and virtually eliminated the historic gender disparity in secondary schooling. Its immense success has been heavily researched and praised by global institutions like the World Bank, MIT, and Harvard University.",
+        "hi": "### परिचय\n2006 में शुरू की गई, **मुख्यमंत्री बालिका साइकिल योजना** यकीनन आधुनिक भारतीय इतिहास में सबसे सफल और विश्व स्तर पर मान्यता प्राप्त सामाजिक हस्तक्षेपों में से एक है।\n\n### अंतर को पाटना\n* **हस्तक्षेप:** इस योजना ने कक्षा 9 में नामांकन पर प्रत्येक छात्रा को विशेष रूप से साइकिल खरीदने के लिए सीधे नकद हस्तांतरण (कैश ट्रांसफर) प्रदान किया।\n* **बाधाओं पर काबू पाना:** इस सरल लेकिन गहन हस्तक्षेप ने ग्रामीण क्षेत्रों में लड़कियों की उच्च शिक्षा के लिए प्राथमिक बाधा को सीधे संबोधित किया—माध्यमिक विद्यालयों की भौतिक दूरी और इससे जुड़ी सुरक्षा संबंधी चिंताएँ।\n\n### अभूतपूर्व प्रभाव\nपरिणाम चौंका देने वाले थे। इस योजना ने लड़कियों के हाई स्कूल नामांकन को चार गुना कर दिया, स्कूल छोड़ने की दर (ड्रॉपआउट रेट) को काफी कम कर दिया, और माध्यमिक शिक्षा में ऐतिहासिक लैंगिक असमानता को लगभग समाप्त कर दिया। इसकी अपार सफलता पर विश्व बैंक, एमआईटी (MIT) और हार्वर्ड विश्वविद्यालय जैसे वैश्विक संस्थानों द्वारा भारी शोध और प्रशंसा की गई है।"
+      },
+      "indicators": {
+        "launchYear": 2006,
+        "annualBeneficiariesLakh": 8.5,
+        "impactOnFemaleHighSchoolEnrollment": {
+          "en": "Increased from under 1.7 lakh in 2006 to over 9 lakh",
+          "hi": "2006 में 1.7 लाख से कम से बढ़कर 9 लाख से अधिक हुआ"
+        },
+        "globalResearchCitations": [
+          "World Bank",
+          "JPAL (MIT)",
+          "International Growth Centre (LSE)"
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Education Department, Government of Bihar",
+        "hi": "शिक्षा विभाग, बिहार सरकार"
+      },
+      "relatedDistricts": [
+        "patna",
+        "muzaffarpur",
+        "gaya",
+        "darbhanga",
+        "rohtas"
+      ]
+    },
+    {
+      "id": "har-ghar-nal-ka-jal",
+      "category": "public-health-infrastructure",
+      "title": {
+        "en": "Har Ghar Nal Ka Jal (Piped Tap Water to Every Home)",
+        "hi": "हर घर नल का जल (प्रत्येक घर तक नल का स्वच्छ जल)"
+      },
+      "description": {
+        "en": "### Introduction\nA premier pillar of the state government's 'Seven Resolves' (*Saat Nischay-1*), the **'Har Ghar Nal Ka Jal'** scheme was an ambitious public health infrastructure project aimed at delivering clean, potable treated piped water to every single rural and urban household.\n\n### Execution and Scale\n* **Grassroots Implementation:** Moving away from centralized bureaucracies, the scheme was uniquely and effectively implemented directly by the Gram Panchayats in conjunction with the Public Health Engineering Department (PHED).\n* **Massive Coverage:** It has successfully connected over 1.66 crore rural homes, achieving a coverage rate of nearly 96.5%.\n\n### Health Impact\nBy ensuring access to safe drinking water, the scheme has significantly curbed the state's historical struggles with fluoride and arsenic contamination, and has drastically reduced water-borne enteric infections across rural Bihar.",
+        "hi": "### परिचय\nराज्य सरकार के 'सात निश्चय-1' का एक प्रमुख स्तंभ, **'हर घर नल का जल'** योजना एक महत्वाकांक्षी सार्वजनिक स्वास्थ्य बुनियादी ढांचा परियोजना थी जिसका उद्देश्य हर एक ग्रामीण और शहरी घर में स्वच्छ, पीने योग्य उपचारित नल का पानी पहुंचाना था।\n\n### निष्पादन और पैमाना\n* **जमीनी स्तर पर कार्यान्वयन:** केंद्रीकृत नौकरशाही से हटकर, इस योजना को विशिष्ट और प्रभावी रूप से लोक स्वास्थ्य अभियंत्रण विभाग (PHED) के संयोजन में सीधे ग्राम पंचायतों द्वारा लागू किया गया था।\n* **व्यापक कवरेज:** इसने सफलतापूर्वक 1.66 करोड़ से अधिक ग्रामीण घरों को जोड़ा है, जिससे लगभग 96.5% की कवरेज दर प्राप्त हुई है।\n\n### स्वास्थ्य पर प्रभाव\nसुरक्षित पेयजल तक पहुंच सुनिश्चित करके, इस योजना ने फ्लोराइड और आर्सेनिक संदूषण (गंदगी) के साथ राज्य के ऐतिहासिक संघर्षों पर काफी अंकुश लगाया है, और पूरे ग्रामीण बिहार में जलजनित आंत्र संक्रमणों (पेट की बीमारियों) को काफी कम कर दिया है।"
+      },
+      "indicators": {
+        "launchYear": 2016,
+        "ruralHouseholdsCoveredInCrores": 1.66,
+        "coveragePercentage": 96.5,
+        "implementingAgencies": [
+          "Panchayati Raj Department",
+          "Public Health Engineering Department (PHED)"
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Public Health Engineering Department (PHED) / Panchayati Raj Department, Bihar",
+        "hi": "लोक स्वास्थ्य अभियंत्रण विभाग (PHED) / पंचायती राज विभाग, बिहार"
+      },
+      "relatedDistricts": [
+        "patna",
+        "nalanda",
+        "samastipur",
+        "bhojpur",
+        "vaishali"
+      ]
+    },
+    {
+      "id": "kanya-utthan-yojana",
+      "category": "child-welfare-gender",
+      "title": {
+        "en": "Mukhya Mantri Kanya Utthan Yojana",
+        "hi": "मुख्यमंत्री कन्या उत्थान योजना"
+      },
+      "description": {
+        "en": "### Introduction\nThe **Mukhya Mantri Kanya Utthan Yojana** is a highly progressive, integrated 'cradle-to-graduation' conditional cash transfer scheme. It was meticulously designed to fundamentally alter societal attitudes towards the girl child.\n\n### The Objectives\nIt serves a multi-pronged strategy: combatting female foeticide, eliminating the scourge of child marriage, ensuring universal health immunization, and heavily incentivizing women's higher education.\n\n### The Life-Cycle Approach\nRather than a one-time grant, a girl child receives strategic financial assistance at successive milestones of her life. From ₹2,000 at birth and immunization, to ₹25,000 upon passing Class 12 (provided she remains unmarried), the scheme culminates in a substantial ₹50,000 grant upon successfully graduating from a university, ensuring sustained support throughout her formative years.",
+        "hi": "### परिचय\n**मुख्यमंत्री कन्या उत्थान योजना** एक अत्यधिक प्रगतिशील, एकीकृत 'जन्म-से-स्नातक' सशर्त नकद हस्तांतरण (कैश ट्रांसफर) योजना है। इसे बालिका के प्रति सामाजिक दृष्टिकोण को मौलिक रूप से बदलने के लिए सावधानीपूर्वक तैयार किया गया था।\n\n### उद्देश्य\nयह एक बहुआयामी रणनीति के रूप में कार्य करती है: कन्या भ्रूण हत्या का मुकाबला करना, बाल विवाह के अभिशाप को समाप्त करना, सार्वभौमिक स्वास्थ्य टीकाकरण सुनिश्चित करना, और महिलाओं की उच्च शिक्षा को भारी प्रोत्साहन देना।\n\n### जीवन-चक्र दृष्टिकोण\nएकमुश्त अनुदान के बजाय, एक बालिका को उसके जीवन के क्रमिक पड़ावों पर रणनीतिक वित्तीय सहायता प्राप्त होती है। जन्म और टीकाकरण पर ₹2,000 से लेकर, कक्षा 12 उत्तीर्ण करने पर ₹25,000 (बशर्ते वह अविवाहित रहे) तक, यह योजना विश्वविद्यालय से सफलतापूर्वक स्नातक होने पर पर्याप्त ₹50,000 के अनुदान के साथ समाप्त होती है, जो उसके प्रारंभिक वर्षों में निरंतर समर्थन सुनिश्चित करती है।"
+      },
+      "incentives": [
+        {
+          "stage": {
+            "en": "Birth of girl child",
+            "hi": "कन्या शिशु का जन्म"
+          },
+          "amountINR": 2000
+        },
+        {
+          "stage": {
+            "en": "Aadhaar enrollment (at 1 year)",
+            "hi": "आधार नामांकन (1 वर्ष पर)"
+          },
+          "amountINR": 1000
+        },
+        {
+          "stage": {
+            "en": "Complete immunization (at 2 years)",
+            "hi": "पूर्ण टीकाकरण (2 वर्ष पर)"
+          },
+          "amountINR": 2000
+        },
+        {
+          "stage": {
+            "en": "Passing Class 12 (unmarried)",
+            "hi": "कक्षा 12वीं उत्तीर्ण (अविवाहित)"
+          },
+          "amountINR": 25000
+        },
+        {
+          "stage": {
+            "en": "Graduation from University",
+            "hi": "विश्वविद्यालय से स्नातक डिग्री"
+          },
+          "amountINR": 50000
+        }
+      ],
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Social Welfare Department & Education Department, Government of Bihar",
+        "hi": "समाज कल्याण विभाग एवं शिक्षा विभाग, बिहार सरकार"
+      },
+      "relatedDistricts": [
+        "patna",
+        "muzaffarpur",
+        "darbhanga",
+        "gaya",
+        "bhagalpur"
+      ]
+    },
+    {
+      "id": "bihar-student-credit-card",
+      "category": "higher-education-finance",
+      "title": {
+        "en": "Bihar Student Credit Card Scheme (BSCCS)",
+        "hi": "बिहार स्टूडेंट क्रेडिट कार्ड योजना"
+      },
+      "description": {
+        "en": "### Introduction\nIntroduced under the *Saat Nischay* agenda, the **Bihar Student Credit Card Scheme (BSCCS)** is a bold financial inclusion policy designed to aggressively boost the Gross Enrolment Ratio (GER) in higher education across the state.\n\n### Breaking Financial Barriers\n* **Collateral-Free Loans:** The scheme provides easily accessible, collateral-free education loans of up to ₹4 lakh to 12th-pass students who wish to pursue higher degree or professional courses.\n* **The State as Guarantor:** Recognizing the inability of poor families to provide bank guarantees, the Government of Bihar itself acts as the guarantor for these loans.\n\n### Inclusive Interest Rates\nTo ensure maximum inclusivity, the state offers these loans at incredibly subsidized rates: 0% interest for female, transgender, and disabled students, and a nominal 1% interest for male students.",
+        "hi": "### परिचय\n*सात निश्चय* एजेंडे के तहत पेश की गई, **बिहार स्टूडेंट क्रेडिट कार्ड योजना (BSCCS)** एक साहसिक वित्तीय समावेशन नीति है जिसे पूरे राज्य में उच्च शिक्षा में सकल नामांकन अनुपात (GER) को आक्रामक रूप से बढ़ाने के लिए डिज़ाइन किया गया है।\n\n### वित्तीय बाधाओं को तोड़ना\n* **संपार्श्विक-मुक्त (बिना गारंटी) ऋण:** यह योजना 12वीं पास छात्रों को ₹4 लाख तक का आसानी से सुलभ, बिना गारंटी वाला शिक्षा ऋण प्रदान करती है जो उच्च डिग्री या व्यावसायिक पाठ्यक्रम करना चाहते हैं।\n* **गारंटर के रूप में राज्य:** बैंक गारंटी प्रदान करने में गरीब परिवारों की अक्षमता को पहचानते हुए, बिहार सरकार स्वयं इन ऋणों के लिए गारंटर के रूप में कार्य करती है।\n\n### समावेशी ब्याज दरें\nअधिकतम समावेश सुनिश्चित करने के लिए, राज्य इन ऋणों को अविश्वसनीय रूप से रियायती दरों पर प्रदान करता है: छात्राओं, ट्रांसजेंडर और विकलांग छात्रों के लिए 0% ब्याज, और छात्रों के लिए नाममात्र 1% ब्याज।"
+      },
+      "indicators": {
+        "maximumLoanAmountINR": 400000,
+        "interestRateFemaleTransgenderDisabledPercent": 0.0,
+        "interestRateMalePercent": 1.0,
+        "guarantor": "Government of Bihar (through Bihar State Educational Finance Corporation)",
+        "totalStudentsBenefited": 320000
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Bihar State Educational Finance Corporation (BSEFC) / Planning Department",
+        "hi": "बिहार राज्य शैक्षणिक वित्त निगम (BSEFC) / योजना विभाग"
+      },
+      "relatedDistricts": [
+        "patna",
+        "gaya",
+        "muzaffarpur",
+        "bhagalpur",
+        "darbhanga"
+      ]
+    },
+    {
+      "id": "akshar-aanchal-literacy-drive",
+      "category": "mass-literacy",
+      "title": {
+        "en": "Akshar Aanchal & Taleemi Markaz Literacy Mission",
+        "hi": "अक्षर आंचल एवं तालीमी मरकज साक्षरता मिशन"
+      },
+      "description": {
+        "en": "### Introduction\nThe **Akshar Aanchal** and **Taleemi Markaz** missions constitute an intensive, grassroots literacy campaign formulated to eradicate illiteracy among marginalized adult populations in Bihar.\n\n### Targeted Demographics\n* **Focus Areas:** The campaign specifically targets achieving functional literacy among non-literate women aged 15–45, with a laser-focused approach on habitations belonging to Scheduled Castes, Extremely Backward Classes (Mahadalits), and religious minorities.\n\n### The Grassroots Army\n* **Village Instructors:** The backbone of this mission is the deployment of dedicated village volunteer instructors, widely known as *Tola Sevaks* and *Taleemi Markaz* teachers.\n* **The Impact:** Operating right within the targeted hamlets, these instructors have successfully imparted basic reading, writing, and vital numeracy skills to over 40 lakh women, empowering them to navigate daily life with newfound dignity.",
+        "hi": "### परिचय\n**अक्षर आंचल** और **तालीमी मरकज** मिशन एक गहन, जमीनी स्तर का साक्षरता अभियान बनाते हैं जिसे बिहार में हाशिए की वयस्क आबादी के बीच निरक्षरता को खत्म करने के लिए तैयार किया गया है।\n\n### लक्षित जनसांख्यिकी\n* **ध्यान केंद्रित क्षेत्र:** यह अभियान विशेष रूप से 15-45 आयु वर्ग की गैर-साक्षर महिलाओं के बीच कार्यात्मक साक्षरता प्राप्त करने का लक्ष्य रखता है, जिसमें अनुसूचित जातियों, अत्यंत पिछड़ा वर्गों (महादलितों) और धार्मिक अल्पसंख्यकों से संबंधित बस्तियों पर विशेष ध्यान दिया जाता है।\n\n### जमीनी स्तर की सेना\n* **ग्राम प्रशिक्षक:** इस मिशन की रीढ़ समर्पित ग्राम स्वयंसेवक प्रशिक्षकों की तैनाती है, जिन्हें व्यापक रूप से *टोला सेवक* और *तालीमी मरकज* शिक्षकों के रूप में जाना जाता है।\n* **प्रभाव:** लक्षित बस्तियों के ठीक भीतर काम करते हुए, इन प्रशिक्षकों ने 40 लाख से अधिक महिलाओं को बुनियादी पढ़ने, लिखने और महत्वपूर्ण अंकगणित कौशल सफलतापूर्वक प्रदान किए हैं, जिससे उन्हें नए सम्मान के साथ दैनिक जीवन को नेविगेट करने के लिए सशक्त बनाया गया है।"
+      },
+      "indicators": {
+        "targetDemographic": {
+          "en": "Non-literate women aged 15–45 in Dalit, Mahadalit, and Minority habitations",
+          "hi": "दलित, महादलित एवं अल्पसंख्यक बस्तियों की 15-45 आयु वर्ग की निरक्षर महिलाएं"
+        },
+        "womenMadeLiterate": 4200000,
+        "fieldWorkers": [
+          "Tola Sevaks",
+          "Taleemi Markaz Instructors"
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Directorate of Mass Education, Education Department, Bihar",
+        "hi": "जन शिक्षा निदेशालय, शिक्षा विभाग, बिहार"
+      },
+      "relatedDistricts": [
+        "purnia",
+        "katihar",
+        "saharsa",
+        "gaya",
+        "sitamarhi"
+      ]
+    },
+    {
+      "id": "prohibition-nasha-mukti-policy",
+      "category": "social-reform",
+      "title": {
+        "en": "Alcohol Prohibition Policy (Nasha Mukti)",
+        "hi": "शराबबंदी नीति (नशा मुक्ति अभियान)"
+      },
+      "description": {
+        "en": "### Introduction\nIn April 2016, Bihar enacted a historic and sweeping social reform: a blanket ban on the manufacture, sale, transport, and consumption of liquor across the entire state, popularly known as the **Nasha Mukti** (Addiction-Free) policy.\n\n### The Driving Force\n* **Women's Demand:** This radical step was not merely a top-down mandate; it was a direct response to widespread and vocal demands by rural women’s Self-Help Groups (SHGs) who bore the brutal brunt of alcohol-fueled domestic violence and financial ruin.\n\n### Socio-Economic Impact\nWhile presenting severe law enforcement challenges, this public health measure has undeniably altered rural life. Numerous studies indicate noticeable reductions in domestic disputes and street harassment. Crucially, it has forced a diversion of household spending among low-income families—redirecting funds previously squandered on liquor towards milk, nutrition, healthcare, and children's education.",
+        "hi": "### परिचय\nअप्रैल 2016 में, बिहार ने एक ऐतिहासिक और व्यापक सामाजिक सुधार लागू किया: पूरे राज्य में शराब के निर्माण, बिक्री, परिवहन और उपभोग पर पूर्ण प्रतिबंध, जिसे लोकप्रिय रूप से **नशा मुक्ति** नीति के रूप में जाना जाता है।\n\n### प्रेरक शक्ति\n* **महिलाओं की मांग:** यह कट्टरपंथी कदम केवल ऊपर से थोपा गया जनादेश नहीं था; यह ग्रामीण महिलाओं के स्वयं सहायता समूहों (SHG) की व्यापक और मुखर मांगों की सीधी प्रतिक्रिया थी, जिन्होंने शराब से प्रेरित घरेलू हिंसा और वित्तीय बर्बादी का क्रूर खामियाजा भुगता था।\n\n### सामाजिक-आर्थिक प्रभाव\nगंभीर कानून प्रवर्तन (लॉ एनफोर्समेंट) चुनौतियां पेश करते हुए, इस सार्वजनिक स्वास्थ्य उपाय ने निर्विवाद रूप से ग्रामीण जीवन को बदल दिया है। कई अध्ययन घरेलू विवादों और सड़क पर उत्पीड़न में उल्लेखनीय कमी का संकेत देते हैं। महत्वपूर्ण बात यह है कि इसने कम आय वाले परिवारों के बीच घरेलू खर्च के पुनर्निर्देशन को मजबूर किया है—पहले शराब पर बर्बाद होने वाले धन को दूध, पोषण, स्वास्थ्य सेवा और बच्चों की शिक्षा की ओर मोड़ दिया है।"
+      },
+      "indicators": {
+        "effectiveDate": "2016-04-05",
+        "primaryDrivers": {
+          "en": "Demand by rural women SHGs, public health improvement, prevention of domestic violence",
+          "hi": "ग्रामीण महिला स्वयं सहायता समूहों की मांग, सार्वजनिक स्वास्थ्य सुधार, घरेलू हिंसा की रोकथाम"
+        },
+        "socioEconomicImpact": {
+          "en": "Diversion of household spending towards milk, fruits, nutrition, and child schooling",
+          "hi": "घरेलू खर्च का दूध, फल, पोषण और बच्चों की स्कूली शिक्षा की ओर पुनर्निर्देशन"
+        }
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Prohibition, Excise & Registration Department, Government of Bihar",
+        "hi": "मद्यनिषेध, उत्पाद एवं निबंधन विभाग, बिहार सरकार"
+      },
+      "relatedDistricts": [
+        "patna",
+        "nalanda",
+        "rohtas",
+        "muzaffarpur"
+      ]
+    },
+    {
+      "id": "kushal-yuva-program",
+      "category": "skill-development",
+      "title": {
+        "en": "Kushal Yuva Program (KYP) — Youth Skilling Mission",
+        "hi": "कुशल युवा कार्यक्रम (KYP) — युवा कौशल विकास मिशन"
+      },
+      "description": {
+        "en": "### Introduction\nThe **Kushal Yuva Program (KYP)** is a massive youth skilling mission established under the Bihar Skill Development Mission (BSDM). It is designed to bridge the gap between rural education and the demands of the modern employment market.\n\n### Structure and Accessibility\n* **The Training:** It provides a mandatory 240-hour foundational training module targeted at youth aged 15-28.\n* **Widespread Reach:** Ensuring universal access, the program operates through dedicated Block Skill Development Centres (BSDCs) established in every single one of the 534 administrative blocks of the state.\n\n### The Curriculum\nKYP focuses on three critical pillars: basic computer & digital literacy (120 hours), English and Hindi communication skills (80 hours), and essential workplace soft skills (40 hours). By equipping over 22.5 lakh rural youths with these fundamental skills, KYP prepares them to confidently navigate the modern professional world.",
+        "hi": "### परिचय\n**कुशल युवा कार्यक्रम (KYP)** बिहार कौशल विकास मिशन (BSDM) के तहत स्थापित एक विशाल युवा कौशल विकास मिशन है। इसे ग्रामीण शिक्षा और आधुनिक रोजगार बाजार की मांगों के बीच की खाई को पाटने के लिए डिज़ाइन किया गया है।\n\n### संरचना और पहुंच\n* **प्रशिक्षण:** यह 15-28 वर्ष की आयु के युवाओं के लिए एक अनिवार्य 240 घंटे का बुनियादी प्रशिक्षण मॉड्यूल प्रदान करता है।\n* **व्यापक पहुंच:** सार्वभौमिक पहुंच सुनिश्चित करते हुए, यह कार्यक्रम राज्य के सभी 534 प्रशासनिक ब्लॉकों में से प्रत्येक में स्थापित समर्पित ब्लॉक कौशल विकास केंद्रों (BSDC) के माध्यम से संचालित होता है।\n\n### पाठ्यक्रम\nKYP तीन महत्वपूर्ण स्तंभों पर केंद्रित है: बुनियादी कंप्यूटर और डिजिटल साक्षरता (120 घंटे), अंग्रेजी और हिंदी संचार कौशल (80 घंटे), और आवश्यक कार्यस्थल सॉफ्ट स्किल (40 घंटे)। 22.5 लाख से अधिक ग्रामीण युवाओं को इन मूलभूत कौशलों से लैस करके, KYP उन्हें आधुनिक पेशेवर दुनिया को आत्मविश्वास से नेविगेट करने के लिए तैयार करता है।"
+      },
+      "indicators": {
+        "trainingDurationHours": 240,
+        "blocksCovered": 534,
+        "youthTrainedInLakhs": 22.5,
+        "curriculumModules": [
+          {
+            "module": {
+              "en": "Life Skills & Workplace Readiness",
+              "hi": "जीवन कौशल एवं कार्यस्थल तत्परता"
+            },
+            "hours": 40
+          },
+          {
+            "module": {
+              "en": "Communication Skills (English & Hindi)",
+              "hi": "संवाद कौशल (अंग्रेजी एवं हिंदी)"
+            },
+            "hours": 80
+          },
+          {
+            "module": {
+              "en": "Basic Computer & Information Technology Literacy",
+              "hi": "बुनियादी कंप्यूटर एवं सूचना प्रौद्योगिकी साक्षरता"
+            },
+            "hours": 120
+          }
+        ]
+      },
+      "asOf": "2024-03-31",
+      "source": {
+        "en": "Bihar Skill Development Mission (BSDM), Labour Resources Department",
+        "hi": "बिहार कौशल विकास मिशन (BSDM), श्रम संसाधन विभाग"
+      },
+      "relatedDistricts": [
+        "patna",
+        "gaya",
+        "muzaffarpur",
+        "darbhanga",
+        "purnia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "data": [
+    {
+      "id": "state-formation-and-constitutional-status",
+      "name": {
+        "en": "State Formation & Constitutional Evolution of Bihar",
+        "hi": "बिहार का राज्य गठन एवं संवैधानिक विकास"
+      },
+      "category": {
+        "en": "Constitutional History",
+        "hi": "संवैधानिक इतिहास"
+      },
+      "keyMilestones": [
+        {
+          "date": "1912-03-22",
+          "event": {
+            "en": "Separation of Bihar and Orissa from the Bengal Presidency by the British Crown (celebrated annually as 'Bihar Diwas')",
+            "hi": "ब्रिटिश क्राउन द्वारा बंगाल प्रेसीडेंसी से बिहार और उड़ीसा का पृथक्करण (प्रतिवर्ष 'बिहार दिवस' के रूप में मनाया जाता है)"
+          }
+        },
+        {
+          "date": "1936-04-01",
+          "event": {
+            "en": "Separation of Orissa from Bihar under the Government of India Act, 1935, creating Bihar as an independent province",
+            "hi": "भारत सरकार अधिनियम, 1935 के तहत बिहार से उड़ीसा का पृथक्करण, जिससे बिहार एक स्वतंत्र प्रांत बना"
+          }
+        },
+        {
+          "date": "1950-01-26",
+          "event": {
+            "en": "Constituted as a Part 'A' State under the Constitution of India",
+            "hi": "भारत के संविधान के तहत भाग 'क' (Part A) राज्य के रूप में गठित"
+          }
+        },
+        {
+          "date": "2000-11-15",
+          "event": {
+            "en": "Bifurcation of southern plateau districts to form the new state of Jharkhand under Bihar Reorganisation Act, 2000",
+            "hi": "बिहार पुनर्गठन अधिनियम, 2000 के तहत नए झारखंड राज्य के निर्माण के लिए दक्षिणी पठारी जिलों का पृथक्करण"
+          }
+        }
+      ],
+      "capital": {
+        "en": "Patna (ancient Pataliputra)",
+        "hi": "पटना (प्राचीन पाटलिपुत्र)"
+      },
+      "description": {
+        "en": "### Historical Genesis\nThe modern state of Bihar was formally carved out of the Bengal Presidency on March 22, 1912. This monumental achievement was largely driven by the sustained constitutional campaign spearheaded by luminaries like Dr. Sachchidananda Sinha and Mahesh Narayan.\n\n### Constitutional Evolution\n* **Provincial Independence (1936):** Orissa was formally separated, establishing Bihar as a distinct, independent legislative province under the Government of India Act, 1935.\n* **Republic Era (1950):** Following independence, the Indian Constitution classified Bihar as a prominent Part-A state.\n* **Bifurcation (2000):** On November 15, 2000, 18 resource-rich southern districts were bifurcated to create the new state of Jharkhand.\n\n### Current Status\nToday, Bihar consists of 38 districts organized across 9 administrative divisions, standing as a politically crucial and populous state within the Indian Union.",
+        "hi": "### ऐतिहासिक उत्पत्ति\nआधुनिक बिहार राज्य को औपचारिक रूप से 22 मार्च 1912 को बंगाल प्रेसीडेंसी से अलग किया गया था। यह स्मारकीय उपलब्धि काफी हद तक डॉ. सच्चिदानंद सिन्हा और महेश नारायण जैसे दिग्गजों के नेतृत्व में चलाए गए निरंतर संवैधानिक अभियान का परिणाम थी।\n\n### संवैधानिक विकास\n* **प्रांतीय स्वतंत्रता (1936):** उड़ीसा को औपचारिक रूप से अलग कर दिया गया, जिससे भारत सरकार अधिनियम, 1935 के तहत बिहार एक विशिष्ट, स्वतंत्र विधायी प्रांत बन गया।\n* **गणतंत्र युग (1950):** स्वतंत्रता के बाद, भारतीय संविधान ने बिहार को एक प्रमुख भाग-क (Part-A) राज्य के रूप में वर्गीकृत किया।\n* **विभाजन (2000):** 15 नवंबर 2000 को, संसाधन-संपन्न 18 दक्षिणी जिलों को विभाजित करके नया झारखंड राज्य बनाया गया।\n\n### वर्तमान स्थिति\nआज, बिहार में 9 प्रशासनिक प्रमंडलों के अंतर्गत 38 जिले हैं, जो भारतीय संघ के भीतर एक राजनीतिक रूप से महत्वपूर्ण और अधिक आबादी वाले राज्य के रूप में खड़ा है।"
+      },
+      "bpscRelevance": {
+        "en": "Crucial dates: Bihar Diwas (22 March 1912), Orissa separation (1 April 1936), Jharkhand bifurcation (15 November 2000 on Birsa Munda's birth anniversary), and role of Dr. Sachchidananda Sinha.",
+        "hi": "अत्यंत महत्वपूर्ण तिथियां: बिहार दिवस (22 मार्च 1912), उड़ीसा का पृथक्करण (1 अप्रैल 1936), झारखंड विभाजन (15 नवंबर 2000, बिरसा मुंडा जयंती), और डॉ. सच्चिदानंद सिन्हा की भूमिका।"
+      }
+    },
+    {
+      "id": "governor-constitutional-head",
+      "name": {
+        "en": "The Governor: Constitutional Head of State",
+        "hi": "राज्यपाल: राज्य के संवैधानिक प्रमुख"
+      },
+      "category": {
+        "en": "State Executive",
+        "hi": "राज्य कार्यपालिका"
+      },
+      "constitutionalArticles": "Articles 153 to 161 of the Constitution of India",
+      "officialResidence": {
+        "en": "Raj Bhavan, Circular Road, Patna",
+        "hi": "राजभवन, सर्कुलर रोड, पटना"
+      },
+      "historicalFirsts": {
+        "firstProvincialGovernor": {
+          "name": "Sir James David Sifton",
+          "term": "1936 - 1937",
+          "context": {
+            "en": "First Governor of independent Bihar Province under 1935 Act",
+            "hi": "1935 के अधिनियम के तहत स्वतंत्र बिहार प्रांत के पहले गवर्नर"
+          }
+        },
+        "firstPostIndependenceGovernor": {
+          "name": "Jairamdas Daulatram",
+          "term": "15 Aug 1947 - 11 Jan 1948",
+          "context": {
+            "en": "First Governor of Bihar after Indian Independence",
+            "hi": "भारतीय स्वतंत्रता के बाद बिहार के प्रथम राज्यपाल"
+          }
+        },
+        "notableFormerGovernors": [
+          {
+            "name": "Dr. Zakir Husain",
+            "term": "1957 - 1962",
+            "note": {
+              "en": "Later became President of India",
+              "hi": "बाद में भारत के राष्ट्रपति बने"
+            }
+          },
+          {
+            "name": "Ram Nath Kovind",
+            "term": "2015 - 2017",
+            "note": {
+              "en": "Elected 14th President of India directly from Bihar Raj Bhavan",
+              "hi": "बिहार राजभवन से सीधे भारत के 14वें राष्ट्रपति चुने गए"
+            }
+          }
+        ]
+      },
+      "constitutionalPowers": {
+        "en": [
+          "Appoints the Chief Minister and Council of Ministers on the CM's recommendation (Article 164)",
+          "Appoints Advocate General, Chairman and Members of BPSC, and State Election Commissioner",
+          "Summons, prorogues, and dissolves the Bihar Legislative Assembly (Article 174)",
+          "Promulgates ordinances during recess of the state legislature (Article 213)",
+          "Chancellor (Kuladhipati) ex-officio of all state universities in Bihar"
+        ],
+        "hi": [
+          "मुख्यमंत्री और मुख्यमंत्री की सिफारिश पर मंत्रिपरिषद के मंत्रियों की नियुक्ति (अनुच्छेद 164)",
+          "महाधिवक्ता, बीपीएससी के अध्यक्ष और सदस्यों, तथा राज्य निर्वाचन आयुक्त की नियुक्ति",
+          "बिहार विधानसभा को आहूत करना, सत्रावसान करना और भंग करना (अनुच्छेद 174)",
+          "राज्य विधानमंडल के विश्रांतिकाल में अध्यादेश प्रख्यापित करना (अनुच्छेद 213)",
+          "बिहार के सभी राज्य विश्वविद्यालयों के पदेन कुलाधिपति"
+        ]
+      },
+      "description": {
+        "en": "### The Constitutional Head\nUnder Article 153 of the Constitution, the Governor serves as the highest constitutional executive head of the state. All executive actions and orders of the Government of Bihar are formally executed in the Governor's name.\n\n### Key Constitutional Powers\n* **Executive Appointments:** Appoints the Chief Minister, Council of Ministers (on CM's advice), Advocate General, and BPSC members.\n* **Legislative Role:** Summons, prorogues, and dissolves the Bihar Legislative Assembly, and promulgates ordinances during recesses.\n* **Academic Authority:** Serves ex-officio as the Chancellor (Kuladhipati) of all state universities in Bihar.\n\n### A Distinguished Legacy\nThe office at Raj Bhavan, Patna boasts a highly distinguished legacy. Notably, two former Governors of Bihar—Dr. Zakir Husain and Shri Ram Nath Kovind—subsequently rose to be elected as Presidents of the Republic of India.",
+        "hi": "### संवैधानिक प्रमुख\nसंविधान के अनुच्छेद 153 के तहत, राज्यपाल राज्य के सर्वोच्च संवैधानिक कार्यपालक प्रमुख के रूप में कार्य करते हैं। बिहार सरकार की सभी कार्यकारी कार्रवाइयां और आदेश औपचारिक रूप से राज्यपाल के नाम पर निष्पादित किए जाते हैं।\n\n### प्रमुख संवैधानिक शक्तियां\n* **कार्यकारी नियुक्तियां:** मुख्यमंत्री, मंत्रिपरिषद (मुख्यमंत्री की सलाह पर), महाधिवक्ता और बीपीएससी सदस्यों की नियुक्ति करते हैं।\n* **विधायी भूमिका:** बिहार विधानसभा को आहूत, सत्रावसान और भंग करते हैं, तथा विश्रांतिकाल में अध्यादेश प्रख्यापित करते हैं।\n* **अकादमिक प्राधिकार:** बिहार के सभी राज्य विश्वविद्यालयों के पदेन कुलाधिपति (Chancellor) के रूप में कार्य करते हैं।\n\n### एक विशिष्ट विरासत\nराजभवन, पटना के कार्यालय की एक अत्यंत विशिष्ट विरासत है। विशेष रूप से, बिहार के दो पूर्व राज्यपाल—डॉ. ज़ाकिर हुसैन और श्री राम नाथ कोविंद—बाद में भारत गणराज्य के राष्ट्रपति के रूप में चुने गए।"
+      },
+      "bpscRelevance": {
+        "en": "First Governor after independence (Jairamdas Daulatram), governors who became President (Zakir Husain, Ram Nath Kovind), and ordinance-making power (Article 213).",
+        "hi": "स्वतंत्रता के बाद पहले राज्यपाल (जयरामदास दौलतराम), राष्ट्रपति बनने वाले राज्यपाल (ज़ाकिर हुसैन, राम नाथ कोविंद), और अध्यादेश जारी करने की शक्ति (अनुच्छेद 213)।"
+      }
+    },
+    {
+      "id": "chief-minister-and-council-of-ministers",
+      "name": {
+        "en": "Chief Minister & Council of Ministers",
+        "hi": "मुख्यमंत्री एवं मंत्रिपरिषद"
+      },
+      "category": {
+        "en": "Real Executive Authority",
+        "hi": "वास्तविक कार्यपालिका"
+      },
+      "constitutionalArticles": "Articles 163, 164, and 167",
+      "headquarters": {
+        "en": "Chief Minister's Secretariat (1, Anne Marg / 4, Deshratna Marg) and Old Secretariat (Vikas Bhawan), Patna",
+        "hi": "मुख्यमंत्री सचिवालय (1, अणे मार्ग / 4, देशरत्न मार्ग) एवं पुराना सचिवालय (विकास भवन), पटना"
+      },
+      "historicalFirsts": {
+        "firstChiefMinister": {
+          "name": "Dr. Sri Krishna Sinha ('Bihar Kesari')",
+          "term": "1937 - 1939 (Premier), 1946 - 1961 (Chief Minister until death)",
+          "legacy": {
+            "en": "Architect of modern Bihar; led historic Zamindari Abolition Act 1950, Barauni Refinery, and heavy industrialization",
+            "hi": "आधुनिक बिहार के निर्माता; ऐतिहासिक जमींदारी उन्मूलन अधिनियम 1950, बरौनी रिफाइनरी और भारी औद्योगीकरण का नेतृत्व किया"
+          }
+        },
+        "firstDeputyChiefMinister": {
+          "name": "Dr. Anugrah Narayan Sinha ('Bihar Vibhuti')",
+          "portfolio": {
+            "en": "Finance, Agriculture, and Labour Minister throughout early decades",
+            "hi": "प्रारंभिक दशकों में वित्त, कृषि और श्रम मंत्री"
+          }
+        },
+        "firstWomanChiefMinister": {
+          "name": "Rabri Devi",
+          "term": "1997 - 2005 (three terms)",
+          "legacy": {
+            "en": "First woman Chief Minister in Bihar history",
+            "hi": "बिहार के इतिहास में पहली महिला मुख्यमंत्री"
+          }
+        }
+      },
+      "constitutionalFramework": {
+        "en": [
+          "The Chief Minister is the real executive head (de facto executive) while the Governor is the titular head (de jure executive)",
+          "Council of Ministers is collectively responsible to the Bihar Legislative Assembly (Article 164(2))",
+          "The size of the Council of Ministers cannot exceed 15% of the total strength of the Legislative Assembly (capped at 36 ministers including the CM under the 91st Constitutional Amendment 2003)"
+        ],
+        "hi": [
+          "मुख्यमंत्री वास्तविक कार्यपालक प्रमुख (de facto) होते हैं जबकि राज्यपाल नाममात्र के प्रमुख (de jure) होते हैं",
+          "मंत्रिपरिषद सामूहिक रूप से बिहार विधानसभा के प्रति उत्तरदायी होती है (अनुच्छेद 164(2))",
+          "मंत्रिपरिषद का आकार विधानसभा की कुल सदस्य संख्या के 15% से अधिक नहीं हो सकता (91वें संविधान संशोधन 2003 के तहत मुख्यमंत्री सहित अधिकतम 36 मंत्री)"
+        ]
+      },
+      "description": {
+        "en": "### Real Executive Authority\nThe Chief Minister of Bihar exercises real administrative and executive leadership (de facto executive), functioning as the primary architect of state policy and governance.\n\n### Leadership & Legacy\n* **The Founding Premier:** Dr. Sri Krishna Sinha ('Bihar Kesari') served as the founding Premier and Chief Minister for nearly 15 unbroken years, establishing the structural foundation of the state's post-independence administrative apparatus.\n* **Cabinet Functions:** Leading the Council of Ministers, the Chief Minister shapes critical developmental schemes (such as the landmark 'Saat Nischay' programs) and public appointments.\n\n### Constitutional Constraints\nUnder the 91st Constitutional Amendment (2003), the total strength of the Council of Ministers in Bihar is legally capped at 15% of the Legislative Assembly's strength, meaning a maximum of 36 ministers including the CM.",
+        "hi": "### वास्तविक कार्यकारी प्राधिकरण\nबिहार के मुख्यमंत्री वास्तविक प्रशासनिक और कार्यकारी नेतृत्व (डी फैक्टो कार्यपालक) का प्रयोग करते हैं, जो राज्य की नीति और शासन के प्राथमिक वास्तुकार के रूप में कार्य करते हैं।\n\n### नेतृत्व और विरासत\n* **संस्थापक प्रीमियर:** डॉ. श्रीकृष्ण सिन्हा ('बिहार केसरी') ने लगभग 15 वर्षों तक संस्थापक प्रीमियर और मुख्यमंत्री के रूप में कार्य किया, जिसने स्वतंत्रता के बाद राज्य के प्रशासनिक तंत्र की संरचनात्मक नींव रखी।\n* **कैबिनेट कार्य:** मंत्रिपरिषद का नेतृत्व करते हुए, मुख्यमंत्री महत्वपूर्ण विकासात्मक योजनाओं (जैसे ऐतिहासिक 'सात निश्चय' कार्यक्रम) और सार्वजनिक नियुक्तियों को आकार देते हैं।\n\n### संवैधानिक सीमाएं\n91वें संविधान संशोधन (2003) के तहत, बिहार में मंत्रिपरिषद की कुल संख्या कानूनी रूप से विधानसभा की कुल संख्या के 15% तक सीमित है, जिसका अर्थ है मुख्यमंत्री सहित अधिकतम 36 मंत्री।"
+      },
+      "bpscRelevance": {
+        "en": "First CM (Dr. Sri Krishna Sinha), first Deputy CM (Dr. A. N. Sinha), 91st Amendment ministerial ceiling (15% = 36 ministers), and Article 164 provisions.",
+        "hi": "प्रथम मुख्यमंत्री (डॉ. श्रीकृष्ण सिन्हा), प्रथम उपमुख्यमंत्री (डॉ. ए. एन. सिन्हा), 91वां संशोधन मंत्री सीमा (15% = 36 मंत्री), और अनुच्छेद 164 के प्रावधान।"
+      }
+    },
+    {
+      "id": "bicameral-legislature-polity",
+      "name": {
+        "en": "Bicameral Legislature Framework of Bihar",
+        "hi": "बिहार का द्विसदनीय विधानमंडल ढांचा"
+      },
+      "category": {
+        "en": "State Legislature Structure",
+        "hi": "राज्य विधानमंडल संरचना"
+      },
+      "constitutionalArticles": "Article 168 of the Constitution of India",
+      "chambers": {
+        "lowerHouse": {
+          "name": {
+            "en": "Bihar Legislative Assembly (Vidhan Sabha)",
+            "hi": "बिहार विधानसभा"
+          },
+          "totalSeats": 243,
+          "tenure": "5 years (unless dissolved sooner)"
+        },
+        "upperHouse": {
+          "name": {
+            "en": "Bihar Legislative Council (Vidhan Parishad)",
+            "hi": "बिहार विधान परिषद"
+          },
+          "totalSeats": 75,
+          "tenure": "Permanent body, 1/3 members retire every 2 years"
+        }
+      },
+      "bicameralStatesInIndia": [
+        "Bihar",
+        "Uttar Pradesh",
+        "Maharashtra",
+        "Karnataka",
+        "Andhra Pradesh",
+        "Telangana"
+      ],
+      "description": {
+        "en": "### The Dual Chamber System\nBihar holds a unique constitutional position as one of only 6 states within the Indian Union that retains a bicameral legislature, as mandated under Article 168 of the Constitution.\n\n### The Legislative Chambers\n* **Vidhan Sabha (Lower House):** The Legislative Assembly consists of 243 members directly elected by the public. It holds supreme primary power over financial matters (Money Bills) and the survival of the government.\n* **Vidhan Parishad (Upper House):** The Legislative Council acts as a permanent revising chamber comprising 75 members. It ensures diverse representation from local bodies, graduates, teachers, and eminent gubernatorial nominees.\n\n### Legislative Dynamics\nThis bicameral framework ensures a system of checks and balances, allowing for thorough scrutiny of legislation and broad-based intellectual representation before laws are enacted.",
+        "hi": "### द्विसदनीय प्रणाली\nबिहार भारतीय संघ के उन केवल 6 राज्यों में से एक होने के नाते एक अद्वितीय संवैधानिक स्थिति रखता है, जिनके पास संविधान के अनुच्छेद 168 के तहत द्विसदनीय विधानमंडल है।\n\n### विधायी सदन\n* **विधानसभा (निचला सदन):** विधानसभा में जनता द्वारा सीधे चुने गए 243 सदस्य होते हैं। वित्तीय मामलों (धन विधेयक) और सरकार के अस्तित्व पर इसकी सर्वोच्च प्राथमिक शक्ति है।\n* **विधान परिषद (उच्च सदन):** विधान परिषद 75 सदस्यों वाला एक स्थायी पुनरीक्षण सदन है। यह स्थानीय निकायों, स्नातकों, शिक्षकों और प्रख्यात राज्यपाल द्वारा नामित सदस्यों का विविध प्रतिनिधित्व सुनिश्चित करता है।\n\n### विधायी गतिशीलता\nयह द्विसदनीय ढांचा नियंत्रण और संतुलन की एक प्रणाली सुनिश्चित करता है, जिससे कानून बनने से पहले विधान की गहन जांच और व्यापक बौद्धिक प्रतिनिधित्व की अनुमति मिलती है।"
+      },
+      "bpscRelevance": {
+        "en": "List of 6 bicameral states in India, seat strength of Bihar Assembly (243) and Council (75), and procedure to create/abolish Legislative Council under Article 169.",
+        "hi": "भारत के 6 द्विसदनीय राज्यों की सूची, बिहार विधानसभा (243) और परिषद (75) की सदस्य संख्या, और अनुच्छेद 169 के तहत विधान परिषद बनाने/समाप्त करने की प्रक्रिया।"
+      }
+    },
+    {
+      "id": "advocate-general-bihar",
+      "name": {
+        "en": "Advocate General of Bihar",
+        "hi": "बिहार के महाधिवक्ता"
+      },
+      "category": {
+        "en": "Constitutional Legal Authority",
+        "hi": "संवैधानिक विधिक प्राधिकारी"
+      },
+      "constitutionalArticles": "Article 165 of the Constitution of India",
+      "qualification": {
+        "en": "Qualified to be appointed as a Judge of a High Court",
+        "hi": "उच्च न्यायालय के न्यायाधीश के रूप में नियुक्त होने के योग्य"
+      },
+      "appointment": {
+        "en": "Appointed by the Governor on the advice of the State Cabinet, holds office during pleasure of Governor",
+        "hi": "राज्य मंत्रिमंडल की सलाह पर राज्यपाल द्वारा नियुक्त, राज्यपाल के प्रसादपर्यंत पद धारण करते हैं"
+      },
+      "dutiesAndRights": {
+        "en": [
+          "Highest legal adviser to the Government of Bihar on constitutional and legal matters",
+          "Represents the State Government before the Patna High Court and the Supreme Court of India",
+          "Has the right to speak and take part in proceedings of both Houses of the Bihar Legislature, but without the right to vote (Article 177)"
+        ],
+        "hi": [
+          "संवैधानिक और कानूनी मामलों पर बिहार सरकार के सर्वोच्च कानूनी सलाहकार",
+          "पटना उच्च न्यायालय और भारत के सर्वोच्च न्यायालय के समक्ष राज्य सरकार का प्रतिनिधित्व करते हैं",
+          "बिहार विधानमंडल के दोनों सदनों की कार्यवाही में बोलने और भाग लेने का अधिकार, लेकिन वोट देने का अधिकार नहीं (अनुच्छेद 177)"
+        ]
+      },
+      "description": {
+        "en": "### The State's Highest Law Officer\nUnder Article 165, the Advocate General serves as the highest legal adviser and first law officer to the Government of Bihar. The position is analogous to the Attorney General of India at the federal level.\n\n### Key Responsibilities\n* **Legal Counsel:** Advises the state government on complex constitutional and legal matters referred by the Governor.\n* **State Representation:** Represents the Government of Bihar in high-stakes litigation before the Patna High Court and the Supreme Court of India.\n\n### Unique Constitutional Privileges\nUnder Article 177, the Advocate General holds a highly unique constitutional privilege: the right to speak and take part in the proceedings of both the Vidhan Sabha and Vidhan Parishad (without the right to vote).",
+        "hi": "### राज्य के सर्वोच्च विधि अधिकारी\nअनुच्छेद 165 के तहत, महाधिवक्ता बिहार सरकार के सर्वोच्च कानूनी सलाहकार और प्रथम विधि अधिकारी के रूप में कार्य करते हैं। यह पद संघीय स्तर पर भारत के महान्यायवादी (अटॉर्नी जनरल) के अनुरूप है।\n\n### प्रमुख जिम्मेदारियां\n* **कानूनी परामर्श:** राज्यपाल द्वारा भेजे गए जटिल संवैधानिक और कानूनी मामलों पर राज्य सरकार को सलाह देते हैं।\n* **राज्य का प्रतिनिधित्व:** पटना उच्च न्यायालय और भारत के सर्वोच्च न्यायालय के समक्ष उच्च-दांव वाले मुकदमों में बिहार सरकार का प्रतिनिधित्व करते हैं।\n\n### अद्वितीय संवैधानिक विशेषाधिकार\nअनुच्छेद 177 के तहत, महाधिवक्ता को एक अत्यंत अनूठा संवैधानिक विशेषाधिकार प्राप्त है: विधानसभा और विधान परिषद दोनों की कार्यवाही में बोलने और भाग लेने का अधिकार (मतदान के अधिकार के बिना)।"
+      },
+      "bpscRelevance": {
+        "en": "Article 165 (appointment and qualifications) and Article 177 (right to participate in legislature without voting right).",
+        "hi": "अनुच्छेद 165 (नियुक्ति और योग्यता) और अनुच्छेद 177 (बिना मतदान अधिकार के विधानमंडल में भाग लेने का अधिकार)।"
+      }
+    },
+    {
+      "id": "bihar-public-service-commission",
+      "name": {
+        "en": "Bihar Public Service Commission (BPSC)",
+        "hi": "बिहार लोक सेवा आयोग (बीपीएससी)"
+      },
+      "category": {
+        "en": "Constitutional Recruitment Body",
+        "hi": "संवैधानिक भर्ती आयोग"
+      },
+      "constitutionalArticles": "Articles 315 to 323 of the Constitution of India",
+      "establishmentDate": "1949-04-01",
+      "headquarters": {
+        "en": "15, Jawaharlal Nehru Marg (Bailey Road), Patna",
+        "hi": "15, जवाहरलाल नेहरू मार्ग (बेली रोड), पटना"
+      },
+      "historicalFirsts": {
+        "firstChairman": {
+          "name": "Shri Rajandhari Sinha",
+          "term": "1949 - 1953",
+          "legacy": {
+            "en": "Founding Chairman of BPSC",
+            "hi": "बीपीएससी के संस्थापक अध्यक्ष"
+          }
+        }
+      },
+      "constitutionalMandate": {
+        "en": [
+          "Conducting examinations for appointment to state civil services, police services, judicial services, and engineering/medical cadres",
+          "Advising the State Government on matters relating to recruitment methods, promotions, transfers, and disciplinary actions concerning civil servants",
+          "Submitting an annual report to the Governor under Article 323 regarding work performed by the Commission"
+        ],
+        "hi": [
+          "राज्य प्रशासनिक सेवा, पुलिस सेवा, न्यायिक सेवा, और इंजीनियरिंग/चिकित्सा संवर्गों में नियुक्ति हेतु परीक्षाओं का आयोजन",
+          "भर्ती विधियों, पदोन्नति, स्थानांतरण, और अनुशासनात्मक कार्रवाइयों से संबंधित मामलों पर राज्य सरकार को परामर्श",
+          "आयोग द्वारा किए गए कार्यों के संबंध में अनुच्छेद 323 के तहत राज्यपाल को वार्षिक प्रतिवेदन प्रस्तुत करना"
+        ]
+      },
+      "composition": {
+        "en": "Consists of a Chairman and members appointed by the Governor for a term of 6 years or until reaching 62 years of age (Article 316)",
+        "hi": "राज्यपाल द्वारा 6 वर्ष की अवधि या 62 वर्ष की आयु प्राप्त करने तक नियुक्त एक अध्यक्ष और सदस्यों से मिलकर बनता है (अनुच्छेद 316)"
+      },
+      "description": {
+        "en": "### The Recruitment Watchdog\nThe Bihar Public Service Commission (BPSC) came into existence on April 1, 1949. Operating under Article 315, it acts as an independent, constitutional watchdog dedicated to maintaining meritocracy in state administration.\n\n### Core Mandate\n* **Examinations:** Conducts the prestigious Combined Competitive Examination (CCE) and other exams to recruit officers for premier state civil services (BAS, BPS, BRS), judiciary, and technical cadres.\n* **Advisory Role:** Advises the State Government on critical matters regarding recruitment methods, promotions, transfers, and disciplinary actions concerning civil servants.\n\n### Constitutional Independence\nTo ensure absolute impartiality, the Chairman and members enjoy highly secure tenures (up to 62 years of age) and can only be removed directly by the President of India under strict constitutional grounds (Article 317).",
+        "hi": "### भर्ती प्रहरी\nबिहार लोक सेवा आयोग (BPSC) 1 अप्रैल 1949 को अस्तित्व में आया। अनुच्छेद 315 के तहत काम करते हुए, यह राज्य प्रशासन में योग्यता बनाए रखने के लिए समर्पित एक स्वतंत्र, संवैधानिक प्रहरी के रूप में कार्य करता है।\n\n### मुख्य जनादेश\n* **परीक्षाएं:** प्रमुख राज्य प्रशासनिक सेवाओं (BAS, BPS, BRS), न्यायपालिका और तकनीकी संवर्गों के लिए अधिकारियों की भर्ती के लिए प्रतिष्ठित संयुक्त प्रतियोगी परीक्षा (CCE) और अन्य परीक्षाएं आयोजित करता है।\n* **सलाहकार भूमिका:** सिविल सेवकों की भर्ती विधियों, पदोन्नति, स्थानांतरण और अनुशासनात्मक कार्रवाई से संबंधित महत्वपूर्ण मामलों पर राज्य सरकार को सलाह देता है।\n\n### संवैधानिक स्वतंत्रता\nपूर्ण निष्पक्षता सुनिश्चित करने के लिए, अध्यक्ष और सदस्य अत्यधिक सुरक्षित कार्यकाल (62 वर्ष की आयु तक) का आनंद लेते हैं और उन्हें केवल सख्त संवैधानिक आधारों (अनुच्छेद 317) के तहत भारत के राष्ट्रपति द्वारा ही हटाया जा सकता है।"
+      },
+      "bpscRelevance": {
+        "en": "Date of establishment (1 April 1949), first chairman (Rajandhari Sinha), constitutional articles (315-323), retirement age (62 years), and removal only by President under Article 317.",
+        "hi": "स्थापना की तिथि (1 अप्रैल 1949), प्रथम अध्यक्ष (राजनधारी सिन्हा), संवैधानिक अनुच्छेद (315-323), सेवानिवृत्ति आयु (62 वर्ष), और अनुच्छेद 317 के तहत केवल राष्ट्रपति द्वारा हटाया जाना।"
+      }
+    },
+    {
+      "id": "special-category-status-demand",
+      "name": {
+        "en": "Special Category Status Demand & Fiscal Federalism",
+        "hi": "विशेष राज्य का दर्जा (SCS) मांग एवं वित्तीय संघवाद"
+      },
+      "category": {
+        "en": "Intergovernmental Fiscal Relations",
+        "hi": "अंतर-सरकारी वित्तीय संबंध"
+      },
+      "coreArguments": {
+        "en": [
+          "Lowest Per Capita Gross State Domestic Product (GSDP) among major Indian states",
+          "Loss of all major heavy mineral industries, coalfields, and industrial royalties to Jharkhand in 2000 bifurcation",
+          "Recurring annual catastrophic floods caused by international Himalayan rivers originating in Nepal",
+          "High population density (1,106 persons per sq km, highest in India) exerting severe pressure on land and public infrastructure",
+          "Demand for 90:10 funding ratio for Centrally Sponsored Schemes (CSS) instead of 60:40 or 50:50 sharing"
+        ],
+        "hi": [
+          "प्रमुख भारतीय राज्यों में सबसे कम प्रति व्यक्ति सकल राज्य घरेलू उत्पाद (GSDP)",
+          "2000 के विभाजन में सभी प्रमुख भारी खनिज उद्योगों, कोयला खदानों और औद्योगिक रॉयल्टी का झारखंड में जाना",
+          "नेपाल से निकलने वाली अंतरराष्ट्रीय हिमालयी नदियों के कारण आवर्ती वार्षिक विनाशकारी बाढ़",
+          "उच्च जनसंख्या घनत्व (1,106 व्यक्ति प्रति वर्ग किमी, भारत में सर्वाधिक) जिससे भूमि और बुनियादी ढांचे पर भारी दबाव",
+          "केंद्र प्रायोजित योजनाओं (CSS) के लिए 60:40 या 50:50 के बजाय 90:10 के वित्तपोषण अनुपात की मांग"
+        ]
+      },
+      "raghuram-rajan-committee-2013": {
+        "en": "Proposed replacing Special Category Status with a multi-dimensional Underdevelopment Index, which categorized Bihar among the 'Least Developed' states eligible for maximum central devolution.",
+        "hi": "विशेष राज्य के दर्जे को बहुआयामी अविकसितता सूचकांक से बदलने का प्रस्ताव रखा, जिसने बिहार को अधिकतम केंद्रीय हस्तांतरण के लिए पात्र 'सबसे कम विकसित' राज्यों में वर्गीकृत किया।"
+      },
+      "description": {
+        "en": "### A Defining Consensus\nThe demand for Special Category Status (SCS) stands as the most defining consensus issue in Bihar's political economy. This demand has been passed unanimously by both houses of the Bihar Legislature multiple times across different ruling coalitions.\n\n### The Case for SCS\n* **Historical Disadvantage:** The 2000 bifurcation stripped Bihar of all major heavy mineral industries, coalfields, and lucrative industrial royalties.\n* **Geographical Vulnerabilities:** The state suffers from recurring catastrophic floods caused by international Himalayan rivers, destroying infrastructure annually.\n* **Demographic Pressure:** Bearing India's highest population density (1,106 persons/sq km) creates severe pressure on available land and public resources.\n\n### Sought Relief\nThe state seeks this status to obtain special central assistance, vital tax exemptions to attract private industries, and a highly favorable 90:10 funding ratio for Centrally Sponsored Schemes (CSS).",
+        "hi": "### एक सर्वसम्मत मुद्दा\nविशेष राज्य का दर्जा (SCS) की मांग बिहार की राजनीतिक अर्थव्यवस्था में सबसे महत्वपूर्ण सर्वसम्मत मुद्दा है। यह मांग विभिन्न सत्तारूढ़ गठबंधनों द्वारा कई बार बिहार विधानमंडल के दोनों सदनों में सर्वसम्मति से पारित की गई है।\n\n### विशेष दर्जे के लिए तर्क\n* **ऐतिहासिक नुकसान:** 2000 के विभाजन ने बिहार को सभी प्रमुख भारी खनिज उद्योगों, कोयला खदानों और आकर्षक औद्योगिक रॉयल्टी से वंचित कर दिया।\n* **भौगोलिक सुभेद्यता:** राज्य अंतरराष्ट्रीय हिमालयी नदियों के कारण आने वाली आवर्ती विनाशकारी बाढ़ से ग्रस्त है, जो प्रतिवर्ष बुनियादी ढांचे को नष्ट कर देती है।\n* **जनसांख्यिकीय दबाव:** भारत का सबसे अधिक जनसंख्या घनत्व (1,106 व्यक्ति/वर्ग किमी) वहन करने से उपलब्ध भूमि और सार्वजनिक संसाधनों पर भारी दबाव पड़ता है।\n\n### अपेक्षित राहत\nराज्य विशेष केंद्रीय सहायता प्राप्त करने, निजी उद्योगों को आकर्षित करने के लिए महत्वपूर्ण कर छूट, और केंद्र प्रायोजित योजनाओं (CSS) के लिए अत्यधिक अनुकूल 90:10 के वित्तपोषण अनुपात को प्राप्त करने के लिए इस दर्जे की मांग करता है।"
+      },
+      "bpscRelevance": {
+        "en": "Economic survey and Mains Polity topic: Raghuram Rajan Committee (2013) findings, criteria for Special Category Status (Gadgil-Mukherjee formula), and 14th/15th Finance Commission devolution.",
+        "hi": "आर्थिक सर्वेक्षण और मुख्य परीक्षा राजव्यवस्था विषय: रघुराम राजन समिति (2013) के निष्कर्ष, विशेष राज्य के दर्जे के मानदंड (गाडगिल-मुखर्जी फॉर्मूला), और 14वें/15वें वित्त आयोग का हस्तांतरण।"
+      }
+    }
+  ]
+}

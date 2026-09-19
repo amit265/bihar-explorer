@@ -1,0 +1,2008 @@
+{
+  "schemaVersion": "1.0.0",
+  "description": "Bihar tourism place-content model only. App settings, UI state, users and feature configuration are intentionally excluded.",
+  "contentPolicy": {
+    "languages": [
+      "hi",
+      "en"
+    ],
+    "defaultLanguage": "hi",
+    "sourceRequiredForPublishedPlace": true,
+    "doNotInventFacts": true,
+    "verificationStatuses": [
+      "verified",
+      "partially_verified",
+      "unverified"
+    ]
+  },
+  "taxonomy": {
+    "primaryCategories": [
+      {
+        "id": "popular",
+        "name": {
+          "en": "Popular",
+          "hi": "लोकप्रिय"
+        }
+      },
+      {
+        "id": "religious",
+        "name": {
+          "en": "Religious",
+          "hi": "धार्मिक"
+        }
+      },
+      {
+        "id": "nature",
+        "name": {
+          "en": "Nature",
+          "hi": "प्रकृति"
+        }
+      },
+      {
+        "id": "history",
+        "name": {
+          "en": "History",
+          "hi": "इतिहास"
+        }
+      },
+      {
+        "id": "heritage",
+        "name": {
+          "en": "Heritage",
+          "hi": "विरासत"
+        }
+      },
+      {
+        "id": "archaeological",
+        "name": {
+          "en": "Archaeological",
+          "hi": "पुरातात्विक"
+        }
+      },
+      {
+        "id": "wildlife",
+        "name": {
+          "en": "Wildlife",
+          "hi": "वन्यजीव"
+        }
+      },
+      {
+        "id": "cultural",
+        "name": {
+          "en": "Cultural",
+          "hi": "सांस्कृतिक"
+        }
+      },
+      {
+        "id": "adventure",
+        "name": {
+          "en": "Adventure",
+          "hi": "साहसिक"
+        }
+      },
+      {
+        "id": "educational",
+        "name": {
+          "en": "Educational",
+          "hi": "शैक्षिक"
+        }
+      },
+      {
+        "id": "architectural",
+        "name": {
+          "en": "Architecture",
+          "hi": "वास्तुकला"
+        }
+      },
+      {
+        "id": "scenic",
+        "name": {
+          "en": "Scenic",
+          "hi": "दृश्यात्मक"
+        }
+      },
+      {
+        "id": "spiritual",
+        "name": {
+          "en": "Spiritual",
+          "hi": "आध्यात्मिक"
+        }
+      },
+      {
+        "id": "food",
+        "name": {
+          "en": "Food",
+          "hi": "खानपान"
+        }
+      },
+      {
+        "id": "art-craft",
+        "name": {
+          "en": "Art & Craft",
+          "hi": "कला एवं शिल्प"
+        }
+      }
+    ],
+    "placeTypes": [
+      "temple",
+      "mosque",
+      "dargah",
+      "gurudwara",
+      "church",
+      "monastery",
+      "stupa",
+      "archaeological_site",
+      "museum",
+      "fort",
+      "palace",
+      "house",
+      "ashram",
+      "memorial",
+      "library",
+      "university",
+      "cave",
+      "hill",
+      "waterfall",
+      "lake",
+      "riverfront",
+      "dam",
+      "wildlife_reserve",
+      "national_park",
+      "zoo",
+      "forest",
+      "garden",
+      "viewpoint",
+      "bridge",
+      "market",
+      "food_destination",
+      "art_craft_destination",
+      "festival_site",
+      "village",
+      "other"
+    ],
+    "religions": [
+      {
+        "id": "hinduism",
+        "name": {
+          "en": "Hinduism",
+          "hi": "हिंदू धर्म"
+        }
+      },
+      {
+        "id": "buddhism",
+        "name": {
+          "en": "Buddhism",
+          "hi": "बौद्ध धर्म"
+        }
+      },
+      {
+        "id": "jainism",
+        "name": {
+          "en": "Jainism",
+          "hi": "जैन धर्म"
+        }
+      },
+      {
+        "id": "sikhism",
+        "name": {
+          "en": "Sikhism",
+          "hi": "सिख धर्म"
+        }
+      },
+      {
+        "id": "islam_sufi",
+        "name": {
+          "en": "Islam / Sufi",
+          "hi": "इस्लाम / सूफी"
+        }
+      },
+      {
+        "id": "christianity",
+        "name": {
+          "en": "Christianity",
+          "hi": "ईसाई धर्म"
+        }
+      },
+      {
+        "id": "multi_faith",
+        "name": {
+          "en": "Multi-faith",
+          "hi": "बहु-धार्मिक"
+        }
+      }
+    ],
+    "discoveryTags": [
+      "popular",
+      "featured",
+      "hidden_gem",
+      "offbeat",
+      "weekend_trip",
+      "family_friendly",
+      "photography",
+      "sunrise",
+      "sunset",
+      "monsoon",
+      "winter",
+      "festival",
+      "pilgrimage",
+      "history_lovers",
+      "students",
+      "nature_lovers",
+      "adventure",
+      "peaceful",
+      "near_city",
+      "free_entry"
+    ],
+    "audiences": [
+      "families",
+      "children",
+      "elderly",
+      "students",
+      "pilgrimage",
+      "history_lovers",
+      "nature_lovers",
+      "photography",
+      "adventure",
+      "international_travelers",
+      "weekend_travelers",
+      "food_lovers"
+    ],
+    "circuits": [
+      {
+        "id": "buddhist-circuit",
+        "name": {
+          "en": "Buddhist Circuit",
+          "hi": "बौद्ध सर्किट"
+        }
+      },
+      {
+        "id": "jain-circuit",
+        "name": {
+          "en": "Jain Circuit",
+          "hi": "जैन सर्किट"
+        }
+      },
+      {
+        "id": "hindu-circuit",
+        "name": {
+          "en": "Hindu Circuit",
+          "hi": "हिंदू सर्किट"
+        }
+      },
+      {
+        "id": "sikh-circuit",
+        "name": {
+          "en": "Sikh Circuit",
+          "hi": "सिख सर्किट"
+        }
+      },
+      {
+        "id": "sufi-circuit",
+        "name": {
+          "en": "Sufi Circuit",
+          "hi": "सूफी सर्किट"
+        }
+      },
+      {
+        "id": "ramayan-circuit",
+        "name": {
+          "en": "Ramayan Circuit",
+          "hi": "रामायण सर्किट"
+        }
+      },
+      {
+        "id": "eco-circuit",
+        "name": {
+          "en": "Eco Circuit",
+          "hi": "इको सर्किट"
+        }
+      },
+      {
+        "id": "gandhi-circuit",
+        "name": {
+          "en": "Gandhi Circuit",
+          "hi": "गांधी सर्किट"
+        }
+      },
+      {
+        "id": "heritage-circuit",
+        "name": {
+          "en": "Heritage Circuit",
+          "hi": "हेरिटेज सर्किट"
+        }
+      }
+    ],
+    "experiences": [
+      {
+        "id": "heritage",
+        "name": {
+          "en": "Heritage",
+          "hi": "विरासत"
+        }
+      },
+      {
+        "id": "spiritual",
+        "name": {
+          "en": "Spiritual Journeys",
+          "hi": "आध्यात्मिक यात्रा"
+        }
+      },
+      {
+        "id": "nature",
+        "name": {
+          "en": "Nature",
+          "hi": "प्रकृति"
+        }
+      },
+      {
+        "id": "wildlife",
+        "name": {
+          "en": "Wildlife",
+          "hi": "वन्यजीव"
+        }
+      },
+      {
+        "id": "culture",
+        "name": {
+          "en": "Culture",
+          "hi": "संस्कृति"
+        }
+      },
+      {
+        "id": "food",
+        "name": {
+          "en": "Local Flavors",
+          "hi": "स्थानीय स्वाद"
+        }
+      },
+      {
+        "id": "art",
+        "name": {
+          "en": "Art & Craft",
+          "hi": "कला एवं शिल्प"
+        }
+      },
+      {
+        "id": "adventure",
+        "name": {
+          "en": "Adventure",
+          "hi": "साहसिक यात्रा"
+        }
+      }
+    ],
+    "subcategories": [
+      "hindu",
+      "buddhist",
+      "jain",
+      "sikh",
+      "islamic",
+      "sufi",
+      "christian",
+      "multi_faith",
+      "shiva_temple",
+      "shakti_temple",
+      "pilgrimage",
+      "unesco_world_heritage",
+      "ancient_university",
+      "ruins",
+      "monument",
+      "fort",
+      "palace",
+      "colonial",
+      "ashokan",
+      "gandhian",
+      "museum",
+      "river",
+      "lake",
+      "waterfall",
+      "hill",
+      "forest",
+      "wildlife",
+      "tiger_reserve",
+      "birding",
+      "trekking",
+      "cave",
+      "scenic",
+      "photography",
+      "local_food",
+      "madhubani",
+      "silk",
+      "festival"
+    ]
+  },
+  "districts": [
+    {
+      "id": "araria",
+      "slug": "araria",
+      "name": {
+        "en": "Araria",
+        "hi": "अररिया"
+      },
+      "division": "Purnia",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "arwal",
+      "slug": "arwal",
+      "name": {
+        "en": "Arwal",
+        "hi": "अरवल"
+      },
+      "division": "Magadh",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "aurangabad",
+      "slug": "aurangabad",
+      "name": {
+        "en": "Aurangabad",
+        "hi": "औरंगाबाद"
+      },
+      "division": "Magadh",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "banka",
+      "slug": "banka",
+      "name": {
+        "en": "Banka",
+        "hi": "बांका"
+      },
+      "division": "Bhagalpur",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "begusarai",
+      "slug": "begusarai",
+      "name": {
+        "en": "Begusarai",
+        "hi": "बेगूसराय"
+      },
+      "division": "Munger",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "bhagalpur",
+      "slug": "bhagalpur",
+      "name": {
+        "en": "Bhagalpur",
+        "hi": "भागलपुर"
+      },
+      "division": "Bhagalpur",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "bhojpur",
+      "slug": "bhojpur",
+      "name": {
+        "en": "Bhojpur",
+        "hi": "भोजपुर"
+      },
+      "division": "Patna",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "buxar",
+      "slug": "buxar",
+      "name": {
+        "en": "Buxar",
+        "hi": "बक्सर"
+      },
+      "division": "Patna",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "darbhanga",
+      "slug": "darbhanga",
+      "name": {
+        "en": "Darbhanga",
+        "hi": "दरभंगा"
+      },
+      "division": "Darbhanga",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "east-champaran",
+      "slug": "east-champaran",
+      "name": {
+        "en": "East Champaran",
+        "hi": "पूर्वी चंपारण"
+      },
+      "division": "Tirhut",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "gaya",
+      "slug": "gaya",
+      "name": {
+        "en": "Gaya",
+        "hi": "गया"
+      },
+      "division": "Magadh",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [
+        "mahabodhi-temple"
+      ],
+      "featuredPlaceIds": [
+        "mahabodhi-temple"
+      ],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "gopalganj",
+      "slug": "gopalganj",
+      "name": {
+        "en": "Gopalganj",
+        "hi": "गोपालगंज"
+      },
+      "division": "Saran",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "jamui",
+      "slug": "jamui",
+      "name": {
+        "en": "Jamui",
+        "hi": "जमुई"
+      },
+      "division": "Munger",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "jehanabad",
+      "slug": "jehanabad",
+      "name": {
+        "en": "Jehanabad",
+        "hi": "जहानाबाद"
+      },
+      "division": "Magadh",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "kaimur",
+      "slug": "kaimur",
+      "name": {
+        "en": "Kaimur",
+        "hi": "कैमूर"
+      },
+      "division": "Patna",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "katihar",
+      "slug": "katihar",
+      "name": {
+        "en": "Katihar",
+        "hi": "कटिहार"
+      },
+      "division": "Purnia",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "khagaria",
+      "slug": "khagaria",
+      "name": {
+        "en": "Khagaria",
+        "hi": "खगड़िया"
+      },
+      "division": "Munger",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "kishanganj",
+      "slug": "kishanganj",
+      "name": {
+        "en": "Kishanganj",
+        "hi": "किशनगंज"
+      },
+      "division": "Purnia",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "lakhisarai",
+      "slug": "lakhisarai",
+      "name": {
+        "en": "Lakhisarai",
+        "hi": "लखीसराय"
+      },
+      "division": "Munger",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [
+        "ashok-dham"
+      ],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "madhepura",
+      "slug": "madhepura",
+      "name": {
+        "en": "Madhepura",
+        "hi": "मधेपुरा"
+      },
+      "division": "Kosi",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "madhubani",
+      "slug": "madhubani",
+      "name": {
+        "en": "Madhubani",
+        "hi": "मधुबनी"
+      },
+      "division": "Darbhanga",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "munger",
+      "slug": "munger",
+      "name": {
+        "en": "Munger",
+        "hi": "मुंगेर"
+      },
+      "division": "Munger",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "muzaffarpur",
+      "slug": "muzaffarpur",
+      "name": {
+        "en": "Muzaffarpur",
+        "hi": "मुजफ्फरपुर"
+      },
+      "division": "Tirhut",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "nalanda",
+      "slug": "nalanda",
+      "name": {
+        "en": "Nalanda",
+        "hi": "नालंदा"
+      },
+      "division": "Patna",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [
+        "archaeological-site-of-nalanda-mahavihara"
+      ],
+      "featuredPlaceIds": [
+        "archaeological-site-of-nalanda-mahavihara"
+      ],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "nawada",
+      "slug": "nawada",
+      "name": {
+        "en": "Nawada",
+        "hi": "नवादा"
+      },
+      "division": "Magadh",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "patna",
+      "slug": "patna",
+      "name": {
+        "en": "Patna",
+        "hi": "पटना"
+      },
+      "division": "Patna",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "purnia",
+      "slug": "purnia",
+      "name": {
+        "en": "Purnia",
+        "hi": "पूर्णिया"
+      },
+      "division": "Purnia",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "rohtas",
+      "slug": "rohtas",
+      "name": {
+        "en": "Rohtas",
+        "hi": "रोहतास"
+      },
+      "division": "Patna",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "saharsa",
+      "slug": "saharsa",
+      "name": {
+        "en": "Saharsa",
+        "hi": "सहरसा"
+      },
+      "division": "Kosi",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "samastipur",
+      "slug": "samastipur",
+      "name": {
+        "en": "Samastipur",
+        "hi": "समस्तीपुर"
+      },
+      "division": "Darbhanga",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "saran",
+      "slug": "saran",
+      "name": {
+        "en": "Saran",
+        "hi": "सारण"
+      },
+      "division": "Saran",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "sheikhpura",
+      "slug": "sheikhpura",
+      "name": {
+        "en": "Sheikhpura",
+        "hi": "शेखपुरा"
+      },
+      "division": "Munger",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "sheohar",
+      "slug": "sheohar",
+      "name": {
+        "en": "Sheohar",
+        "hi": "शिवहर"
+      },
+      "division": "Tirhut",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "sitamarhi",
+      "slug": "sitamarhi",
+      "name": {
+        "en": "Sitamarhi",
+        "hi": "सीतामढ़ी"
+      },
+      "division": "Tirhut",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "siwan",
+      "slug": "siwan",
+      "name": {
+        "en": "Siwan",
+        "hi": "सिवान"
+      },
+      "division": "Saran",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "supaul",
+      "slug": "supaul",
+      "name": {
+        "en": "Supaul",
+        "hi": "सुपौल"
+      },
+      "division": "Kosi",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "vaishali",
+      "slug": "vaishali",
+      "name": {
+        "en": "Vaishali",
+        "hi": "वैशाली"
+      },
+      "division": "Tirhut",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    },
+    {
+      "id": "west-champaran",
+      "slug": "west-champaran",
+      "name": {
+        "en": "West Champaran",
+        "hi": "पश्चिम चंपारण"
+      },
+      "division": "Tirhut",
+      "description": {
+        "en": "",
+        "hi": ""
+      },
+      "heroImage": null,
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "tourismThemes": [],
+      "religiousAssociations": [],
+      "placeIds": [],
+      "featuredPlaceIds": [],
+      "nearbyDistrictIds": [],
+      "status": "published",
+      "verification": {
+        "status": "unverified",
+        "sources": []
+      }
+    }
+  ],
+  "places": [
+    {
+      "id": "mahabodhi-temple",
+      "slug": "mahabodhi-temple",
+      "name": {
+        "en": "Mahabodhi Temple",
+        "hi": "महाबोधि मंदिर"
+      },
+      "districtId": "gaya",
+      "placeType": "temple",
+      "primaryCategory": "religious",
+      "categories": [
+        "religious",
+        "spiritual",
+        "heritage",
+        "archaeological",
+        "architectural",
+        "educational"
+      ],
+      "subcategories": [
+        "buddhist",
+        "temple",
+        "unesco_world_heritage"
+      ],
+      "religions": [
+        "buddhism"
+      ],
+      "circuits": [
+        "buddhist-circuit"
+      ],
+      "tags": [
+        "popular",
+        "featured",
+        "heritage",
+        "buddhism",
+        "unesco",
+        "bodh-gaya",
+        "photography"
+      ],
+      "audiences": [
+        "pilgrimage",
+        "history_lovers",
+        "international_travelers",
+        "families",
+        "photography"
+      ],
+      "discoveryFlags": {
+        "popular": true,
+        "featured": true,
+        "hiddenGem": false,
+        "familyFriendly": true,
+        "weekendTrip": true,
+        "photography": true
+      },
+      "shortDescription": {
+        "en": "A renowned Buddhist temple complex at Bodh Gaya, associated with the Buddha's enlightenment.",
+        "hi": "बोधगया का प्रसिद्ध बौद्ध मंदिर परिसर, जो बुद्ध के ज्ञान प्राप्ति से जुड़ा है।"
+      },
+      "description": {
+        "en": "The Mahabodhi Temple is one of Bihar's most important Buddhist destinations and a UNESCO World Heritage Site.",
+        "hi": "महाबोधि मंदिर बिहार के प्रमुख बौद्ध स्थलों में से एक और यूनेस्को विश्व धरोहर स्थल है।"
+      },
+      "history": {
+        "en": "The site is associated with the Buddha's enlightenment and the development of Buddhist pilgrimage at Bodh Gaya.",
+        "hi": "यह स्थल बुद्ध के ज्ञान प्राप्ति और बोधगया में विकसित बौद्ध तीर्थ परंपरा से जुड़ा है।"
+      },
+      "significance": {
+        "en": "A major Buddhist pilgrimage destination with global historical and spiritual significance.",
+        "hi": "विश्व स्तर पर महत्वपूर्ण बौद्ध तीर्थ और ऐतिहासिक-आध्यात्मिक स्थल।"
+      },
+      "location": {
+        "address": {
+          "en": "Bodh Gaya, Gaya, Bihar",
+          "hi": "बोधगया, गया, बिहार"
+        },
+        "latitude": null,
+        "longitude": null,
+        "mapQuery": "Mahabodhi Temple, Bodh Gaya, Bihar"
+      },
+      "visitingInfo": {
+        "openingHours": [],
+        "entryFee": {
+          "amount": null,
+          "currency": "INR",
+          "type": "unknown"
+        },
+        "recommendedDurationMinutes": 120,
+        "bestTimeToVisit": {
+          "en": "September to April",
+          "hi": "सितंबर से अप्रैल"
+        }
+      },
+      "howToReach": {
+        "road": {
+          "en": "Accessible from Gaya and Bodh Gaya by local road transport.",
+          "hi": "गया और बोधगया से स्थानीय सड़क परिवहन द्वारा पहुँचा जा सकता है।"
+        },
+        "railway": [],
+        "airport": [],
+        "localTransport": {
+          "en": "Auto-rickshaws, taxis and local transport are available in Bodh Gaya.",
+          "hi": "बोधगया में ऑटो-रिक्शा, टैक्सी और स्थानीय परिवहन उपलब्ध हैं।"
+        }
+      },
+      "costEstimate": {
+        "entry": {
+          "min": null,
+          "max": null,
+          "currency": "INR",
+          "note": {
+            "en": "Verify current rules before visiting.",
+            "hi": "यात्रा से पहले वर्तमान नियमों की पुष्टि करें।"
+          }
+        },
+        "localTransport": {
+          "min": null,
+          "max": null,
+          "currency": "INR",
+          "note": {
+            "en": "Variable; depends on origin and transport.",
+            "hi": "परिवहन के साधन और शुरुआती स्थान पर निर्भर।"
+          }
+        }
+      },
+      "facilities": {
+        "parking": null,
+        "toilets": null,
+        "drinkingWater": null,
+        "food": null,
+        "accommodation": null,
+        "atm": null,
+        "medical": null
+      },
+      "accessibility": {
+        "difficulty": "easy",
+        "walkingRequired": null,
+        "walkingDistanceMeters": null,
+        "stairs": null,
+        "wheelchairAccessible": null,
+        "suitableForChildren": true,
+        "suitableForElderly": null
+      },
+      "travelTips": [
+        {
+          "en": "Respect temple rules and maintain a quiet environment.",
+          "hi": "मंदिर के नियमों का पालन करें और शांत वातावरण बनाए रखें।"
+        },
+        {
+          "en": "Check current visitor and photography rules before visiting.",
+          "hi": "यात्रा से पहले वर्तमान आगंतुक और फोटोग्राफी नियमों की जाँच करें।"
+        }
+      ],
+      "nearbyPlaceIds": [],
+      "images": [],
+      "verification": {
+        "status": "partially_verified",
+        "lastVerifiedAt": "2026-09-18",
+        "sources": [
+          {
+            "name": "Bihar Tourism",
+            "url": "https://tourism.bihar.gov.in/en/destinations",
+            "type": "official"
+          }
+        ]
+      },
+      "status": "published",
+      "createdAt": null,
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "id": "archaeological-site-of-nalanda-mahavihara",
+      "slug": "archaeological-site-of-nalanda-mahavihara",
+      "name": {
+        "en": "Archaeological Site of Nalanda Mahavihara",
+        "hi": "नालंदा महाविहार का पुरातात्विक स्थल"
+      },
+      "districtId": "nalanda",
+      "placeType": "archaeological_site",
+      "primaryCategory": "history",
+      "categories": [
+        "history",
+        "heritage",
+        "archaeological",
+        "educational",
+        "architectural",
+        "religious"
+      ],
+      "subcategories": [
+        "buddhist",
+        "ancient_university",
+        "ruins",
+        "unesco_world_heritage"
+      ],
+      "religions": [
+        "buddhism"
+      ],
+      "circuits": [
+        "buddhist-circuit",
+        "heritage-circuit"
+      ],
+      "tags": [
+        "popular",
+        "featured",
+        "heritage",
+        "ancient-learning",
+        "buddhism",
+        "unesco",
+        "photography"
+      ],
+      "audiences": [
+        "history_lovers",
+        "students",
+        "families",
+        "photography",
+        "international_travelers"
+      ],
+      "discoveryFlags": {
+        "popular": true,
+        "featured": true,
+        "hiddenGem": false,
+        "familyFriendly": true,
+        "weekendTrip": true,
+        "photography": true
+      },
+      "shortDescription": {
+        "en": "The archaeological remains of ancient Nalanda Mahavihara, a major centre of learning in ancient India.",
+        "hi": "प्राचीन नालंदा महाविहार के अवशेष, जो प्राचीन भारत के प्रमुख शिक्षा केंद्रों में से एक था।"
+      },
+      "description": {
+        "en": "The excavated site preserves monasteries, temples and other remains of an ancient residential centre of learning.",
+        "hi": "यह उत्खनित स्थल प्राचीन आवासीय शिक्षा केंद्र के विहारों, मंदिरों और अन्य संरचनाओं के अवशेषों को संरक्षित करता है।"
+      },
+      "history": {
+        "en": "Nalanda flourished for centuries as a major centre of learning and Buddhist scholarship.",
+        "hi": "नालंदा कई शताब्दियों तक शिक्षा और बौद्ध अध्ययन के प्रमुख केंद्र के रूप में विकसित हुआ।"
+      },
+      "significance": {
+        "en": "The ruins represent Bihar's ancient educational, Buddhist and architectural heritage.",
+        "hi": "ये अवशेष बिहार की प्राचीन शैक्षिक, बौद्ध और स्थापत्य विरासत को दर्शाते हैं।"
+      },
+      "location": {
+        "address": {
+          "en": "Nalanda, Bihar - 803111",
+          "hi": "नालंदा, बिहार - 803111"
+        },
+        "latitude": null,
+        "longitude": null,
+        "mapQuery": "Archaeological Site of Nalanda Mahavihara, Nalanda, Bihar"
+      },
+      "visitingInfo": {
+        "openingHours": [
+          {
+            "day": "daily",
+            "open": "09:00",
+            "close": "18:00",
+            "closed": false
+          }
+        ],
+        "entryFee": {
+          "amount": 30,
+          "currency": "INR",
+          "type": "per_person"
+        },
+        "recommendedDurationMinutes": 120,
+        "bestTimeToVisit": {
+          "en": "September to April",
+          "hi": "सितंबर से अप्रैल"
+        }
+      },
+      "howToReach": {
+        "road": {
+          "en": "Accessible by road from Nalanda and nearby towns.",
+          "hi": "नालंदा और आसपास के शहरों से सड़क मार्ग द्वारा पहुँचा जा सकता है।"
+        },
+        "railway": [],
+        "airport": [],
+        "localTransport": {
+          "en": "Auto-rickshaws and taxis are available from Nalanda town.",
+          "hi": "नालंदा शहर से ऑटो-रिक्शा और टैक्सी उपलब्ध हैं।"
+        }
+      },
+      "costEstimate": {
+        "entry": {
+          "min": 30,
+          "max": 30,
+          "currency": "INR",
+          "note": {
+            "en": "Official tourism listing currently shows ₹30 per person; verify before travel.",
+            "hi": "आधिकारिक पर्यटन सूची में वर्तमान में प्रति व्यक्ति ₹30 दिखाया गया है; यात्रा से पहले पुष्टि करें।"
+          }
+        },
+        "localTransport": {
+          "min": null,
+          "max": null,
+          "currency": "INR",
+          "note": {
+            "en": "Variable.",
+            "hi": "परिवर्तनशील।"
+          }
+        }
+      },
+      "facilities": {
+        "parking": null,
+        "toilets": null,
+        "drinkingWater": null,
+        "food": null,
+        "accommodation": null,
+        "atm": null,
+        "medical": null
+      },
+      "accessibility": {
+        "difficulty": "easy",
+        "walkingRequired": true,
+        "walkingDistanceMeters": null,
+        "stairs": null,
+        "wheelchairAccessible": null,
+        "suitableForChildren": true,
+        "suitableForElderly": null
+      },
+      "travelTips": [
+        {
+          "en": "Do not climb on or damage the ruins.",
+          "hi": "अवशेषों पर न चढ़ें और उन्हें नुकसान न पहुँचाएँ।"
+        },
+        {
+          "en": "Follow heritage-site rules and current photography restrictions.",
+          "hi": "विरासत स्थल के नियमों और वर्तमान फोटोग्राफी प्रतिबंधों का पालन करें।"
+        }
+      ],
+      "nearbyPlaceIds": [],
+      "images": [],
+      "verification": {
+        "status": "verified",
+        "lastVerifiedAt": "2026-09-18",
+        "sources": [
+          {
+            "name": "Bihar Tourism — Archaeological Site of Nalanda Mahavihara",
+            "url": "https://tourism.bihar.gov.in/en/destinations/nalanda/nalanda-ka-khandahar",
+            "type": "official"
+          }
+        ]
+      },
+      "status": "published",
+      "createdAt": null,
+      "updatedAt": "2026-09-18"
+    },
+    {
+      "id": "ashok-dham",
+      "slug": "ashok-dham",
+      "name": {
+        "en": "Ashok Dham",
+        "hi": "अशोक धाम"
+      },
+      "districtId": "lakhisarai",
+      "placeType": "temple",
+      "primaryCategory": "religious",
+      "categories": [
+        "religious",
+        "spiritual",
+        "heritage",
+        "architectural",
+        "cultural"
+      ],
+      "subcategories": [
+        "hindu",
+        "shiva_temple",
+        "pilgrimage"
+      ],
+      "religions": [
+        "hinduism"
+      ],
+      "circuits": [
+        "hindu-circuit",
+        "heritage-circuit"
+      ],
+      "tags": [
+        "popular",
+        "pilgrimage",
+        "shivaratri",
+        "sawan",
+        "photography"
+      ],
+      "audiences": [
+        "pilgrimage",
+        "families",
+        "photography",
+        "weekend_travelers"
+      ],
+      "discoveryFlags": {
+        "popular": true,
+        "featured": false,
+        "hiddenGem": false,
+        "familyFriendly": true,
+        "weekendTrip": true,
+        "photography": true
+      },
+      "shortDescription": {
+        "en": "A well-known Shiva temple in Lakhisarai district.",
+        "hi": "लखीसराय जिले का प्रसिद्ध शिव मंदिर।"
+      },
+      "description": {
+        "en": "Ashok Dham is a popular Shiva temple complex in Lakhisarai and attracts devotees especially during Shivaratri and Sawan.",
+        "hi": "अशोक धाम लखीसराय का प्रसिद्ध शिव मंदिर परिसर है, जहाँ विशेष रूप से शिवरात्रि और सावन में श्रद्धालु आते हैं।"
+      },
+      "history": {
+        "en": "Local tradition connects the temple with the discovery of a Shiva lingam at the site.",
+        "hi": "स्थानीय परंपरा इस मंदिर को स्थल पर शिवलिंग की खोज से जोड़ती है।"
+      },
+      "significance": {
+        "en": "A notable religious destination in Lakhisarai associated with Shiva worship and local pilgrimage.",
+        "hi": "लखीसराय का प्रमुख धार्मिक स्थल, जो शिव उपासना और स्थानीय तीर्थ परंपरा से जुड़ा है।"
+      },
+      "location": {
+        "address": {
+          "en": "Lakhisarai, Bihar - 811311",
+          "hi": "लखीसराय, बिहार - 811311"
+        },
+        "latitude": null,
+        "longitude": null,
+        "mapQuery": "Ashok Dham, Lakhisarai, Bihar"
+      },
+      "visitingInfo": {
+        "openingHours": [
+          {
+            "day": "daily",
+            "open": "06:00",
+            "close": "18:00",
+            "closed": false
+          }
+        ],
+        "entryFee": {
+          "amount": 0,
+          "currency": "INR",
+          "type": "free"
+        },
+        "recommendedDurationMinutes": 90,
+        "bestTimeToVisit": {
+          "en": "September to April",
+          "hi": "सितंबर से अप्रैल"
+        }
+      },
+      "howToReach": {
+        "road": {
+          "en": "Accessible from Lakhisarai by local road transport.",
+          "hi": "लखीसराय से स्थानीय सड़क परिवहन द्वारा पहुँचा जा सकता है।"
+        },
+        "railway": [],
+        "airport": [],
+        "localTransport": {
+          "en": "Auto-rickshaws and buses are available from Lakhisarai town.",
+          "hi": "लखीसराय शहर से ऑटो-रिक्शा और बसें उपलब्ध हैं।"
+        }
+      },
+      "costEstimate": {
+        "entry": {
+          "min": 0,
+          "max": 0,
+          "currency": "INR",
+          "note": {
+            "en": "Official tourism listing shows free entry.",
+            "hi": "आधिकारिक पर्यटन सूची में प्रवेश निःशुल्क बताया गया है।"
+          }
+        },
+        "localTransport": {
+          "min": null,
+          "max": null,
+          "currency": "INR",
+          "note": {
+            "en": "Variable.",
+            "hi": "परिवर्तनशील।"
+          }
+        }
+      },
+      "facilities": {
+        "parking": null,
+        "toilets": null,
+        "drinkingWater": null,
+        "food": null,
+        "accommodation": null,
+        "atm": null,
+        "medical": null
+      },
+      "accessibility": {
+        "difficulty": "easy",
+        "walkingRequired": null,
+        "walkingDistanceMeters": null,
+        "stairs": null,
+        "wheelchairAccessible": null,
+        "suitableForChildren": true,
+        "suitableForElderly": null
+      },
+      "travelTips": [
+        {
+          "en": "Dress modestly and remove footwear before entering where required.",
+          "hi": "मर्यादित पोशाक पहनें और जहाँ आवश्यक हो वहाँ प्रवेश से पहले जूते-चप्पल उतारें।"
+        },
+        {
+          "en": "Expect larger crowds during Shivaratri and Sawan.",
+          "hi": "शिवरात्रि और सावन के दौरान अधिक भीड़ की संभावना रहती है।"
+        }
+      ],
+      "nearbyPlaceIds": [],
+      "images": [],
+      "verification": {
+        "status": "verified",
+        "lastVerifiedAt": "2026-09-18",
+        "sources": [
+          {
+            "name": "Bihar Tourism — Ashok Dham",
+            "url": "https://tourism.bihar.gov.in/en/destinations/lakhisarai/ashok-dham",
+            "type": "official"
+          }
+        ]
+      },
+      "status": "published",
+      "createdAt": null,
+      "updatedAt": "2026-09-18"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "data": [
+    {
+      "id": "chhath-puja",
+      "name": {
+        "en": "Chhath Puja (Mahaparva)",
+        "hi": "छठ पूजा (महापर्व)"
+      },
+      "category": "vedic-solar-festival",
+      "lunarPeriod": "Kartik Shukla Chaturthi to Saptami (also celebrated in Chaitra)",
+      "districtIds": [
+        "patna",
+        "gaya",
+        "darbhanga",
+        "bhagalpur",
+        "muzaffarpur",
+        "bhojpur"
+      ],
+      "significance": {
+        "en": "### Introduction\n**Chhath Puja** (*Mahaparva*) is the supreme cultural and spiritual festival of Bihar. This ancient Vedic solar festival is dedicated to the Sun God (Surya) and his sister, *Chhathi Maiya* (Usha/Pratyusha), celebrating the cosmic energy that sustains all life on Earth.\n\n### A Unique Tradition\n* **Dual Worship:** It is globally unique as the only festival that worships both the setting sun (*Sandhya Arghya*) and the rising sun (*Usha Arghya*), symbolizing deep gratitude for both the end and the beginning of the life cycle.\n* **No Priestly Mediation:** Unlike most Hindu rituals, Chhath requires no priests. The devotees (*Vratis*) communicate directly with nature and the divine.\n\n### The Spiritual Rigor\nThe festival spans four days of rigorous spiritual purification. It involves holy bathing, a grueling 36-hour absolute waterless fast, standing waist-deep in rivers, and offering *Arghya* from bamboo baskets laden with traditional *Thekua*, sugarcane, and fresh seasonal fruits.",
+        "hi": "### परिचय\n**छठ पूजा** (महापर्व) बिहार का सर्वोच्च सांस्कृतिक और आध्यात्मिक उत्सव है। यह प्राचीन वैदिक सौर पर्व सूर्य देवता और उनकी बहन *छठी मैया* (उषा/प्रत्युषा) को समर्पित है, जो पृथ्वी पर जीवन को बनाए रखने वाली ब्रह्मांडीय ऊर्जा का जश्न मनाता है।\n\n### एक अनूठी परंपरा\n* **दोहरी पूजा:** यह विश्व स्तर पर अद्वितीय है क्योंकि यह एकमात्र ऐसा पर्व है जिसमें अस्ताचलगामी (डूबते) सूर्य और उदीयमान (उगते) सूर्य दोनों की पूजा की जाती है, जो जीवन चक्र के अंत और शुरुआत दोनों के लिए गहरा आभार व्यक्त करता है।\n* **कोई पुरोहित मध्यस्थता नहीं:** अधिकांश हिंदू अनुष्ठानों के विपरीत, छठ में पुजारियों की आवश्यकता नहीं होती है। व्रती सीधे प्रकृति और ईश्वर के साथ संवाद करते हैं।\n\n### आध्यात्मिक कठोरता\nयह पर्व कठोर आध्यात्मिक शुद्धि के चार दिनों तक चलता है। इसमें पवित्र स्नान, 36 घंटे का भीषण निर्जला उपवास, नदियों में कमर तक पानी में खड़े होना, और पारंपरिक *ठेकुआ*, ईख और ताजे मौसमी फलों से भरे बांस के सूप से *अर्घ्य* देना शामिल है।"
+      },
+      "ritualStages": [
+        {
+          "day": 1,
+          "name": {
+            "en": "Nahay Khay",
+            "hi": "नहाय-खाय"
+          },
+          "description": {
+            "en": "Purification day involving ritual bath in the Ganga or sacred water bodies followed by a sattvik meal of bottle gourd (kaddu-bhat) and gram dal cooked in brass pots.",
+            "hi": "पवित्र नदी में स्नान कर व्रती द्वारा कद्दू-भात (लौकी की सब्जी और अरवा चावल) का सात्विक प्रसाद ग्रहण करने की शुरुआत।"
+          }
+        },
+        {
+          "day": 2,
+          "name": {
+            "en": "Kharna / Lohanda",
+            "hi": "खरना / लोहंडा"
+          },
+          "description": {
+            "en": "Day-long absolute waterless fast concluding at twilight after offering prasad of jaggery kheer (Rasiya) and wheat rotis prepared on earthen chulhas with mango wood.",
+            "hi": "दिन भर का निर्जला उपवास जो शाम को आम की लकड़ी और मिट्टी के चूल्हे पर बने गुड़ की खीर (रसियाव) और रोटी के नैवेद्य अर्पण के बाद संपन्न होता है।"
+          }
+        },
+        {
+          "day": 3,
+          "name": {
+            "en": "Sandhya Arghya",
+            "hi": "संध्या अर्घ्य"
+          },
+          "description": {
+            "en": "Devotees stand waist-deep in water at river ghats to offer Arghya to the setting sun from bamboo soop and daura laden with Thekua, sugarcane, and seasonal fruits.",
+            "hi": "व्रती सपरिवार नदी घाटों पर कमर तक पानी में खड़े होकर बांस के सूप और दौरा में ठेकुआ, ईख और मौसमी फल रखकर अस्ताचलगामी सूर्य को पहला अर्घ्य देते हैं।"
+          }
+        },
+        {
+          "day": 4,
+          "name": {
+            "en": "Usha Arghya & Paran",
+            "hi": "उषा अर्घ्य एवं पारण"
+          },
+          "description": {
+            "en": "Final morning offering to the rising sun at dawn followed by breaking the 36-hour waterless fast (Paran) and distribution of sacred mahaprasad.",
+            "hi": "भोर की पहली किरण के साथ उदीयमान सूर्य को दूसरा अर्घ्य, जिसके बाद 36 घंटे का निर्जला अनुष्ठान पूर्ण कर पारण किया जाता है।"
+          }
+        }
+      ]
+    },
+    {
+      "id": "shravani-mela",
+      "name": {
+        "en": "Shravani Mela (Kanwar Yatra)",
+        "hi": "श्रावणी मेला (कांवर यात्रा)"
+      },
+      "category": "pilgrimage-festival",
+      "lunarPeriod": "Shravana month (July-August)",
+      "districtIds": [
+        "bhagalpur",
+        "banka"
+      ],
+      "significance": {
+        "en": "### Introduction\nThe **Shravani Mela** is one of the grandest religious congregations in India, featuring the world's longest continuous barefoot pilgrimage (*Kanwar Yatra*).\n\n### The Sacred Journey\n* **The Holy Water:** Taking place during the monsoon month of Shravana, millions of saffron-clad pilgrims (*Kanwariyas*) gather at Sultanganj in Bhagalpur to collect holy water from the north-flowing Ganga (*Uttarvahini Ganga*).\n* **The Barefoot Trek:** They then embark on a grueling 105-kilometer trek barefoot along dedicated sandy pathways, continuously chanting *'Bol Bam'*.\n\n### The Destination\nThe ultimate destination is the revered Baidyanath Dham in Deoghar, where the pilgrims pour the sacred Ganga water over the Jyotirlinga, seeking the blessings of Lord Shiva for peace, prosperity, and liberation.",
+        "hi": "### परिचय\n**श्रावणी मेला** भारत के सबसे बड़े धार्मिक सम्मेलनों में से एक है, जिसमें दुनिया की सबसे लंबी निरंतर नंगे पैर पदयात्रा (*कांवर यात्रा*) शामिल है।\n\n### पवित्र यात्रा\n* **पवित्र जल:** सावन के मानसूनी महीने के दौरान, लाखों गेरुआ वस्त्रधारी कांवड़िए उत्तरवाहिनी गंगा से पवित्र जल एकत्र करने के लिए भागलपुर के सुल्तानगंज में इकट्ठा होते हैं।\n* **नंगे पैर पदयात्रा:** इसके बाद वे नंगे पैर 105 किलोमीटर की दुर्गम कच्ची राहों पर पैदल चलते हैं, और लगातार *'बोल बम'* का जयकारा लगाते हैं।\n\n### गंतव्य\nअंतिम गंतव्य देवघर में श्रद्धेय बैद्यनाथ धाम है, जहां तीर्थयात्री ज्योतिर्लिंग पर पवित्र गंगा जल चढ़ाते हैं, और शांति, समृद्धि और मुक्ति के लिए भगवान शिव का आशीर्वाद मांगते हैं।"
+      },
+      "keyLocations": [
+        "Ajgaibinath Temple, Sultanganj (Bhagalpur)",
+        "Dharamsala pilgrim routes across Banka",
+        "Baidyanath Dham"
+      ]
+    },
+    {
+      "id": "sonpur-cattle-fair",
+      "name": {
+        "en": "Sonpur Cattle Fair (Harihar Kshetra Mela)",
+        "hi": "सोनपुर पशु मेला (हरिहर क्षेत्र मेला)"
+      },
+      "category": "historic-trade-fair",
+      "lunarPeriod": "Kartik Purnima (November-December)",
+      "districtIds": [
+        "saran",
+        "vaishali"
+      ],
+      "significance": {
+        "en": "### Introduction\nThe **Sonpur Cattle Fair** (*Harihar Kshetra Mela*) is historically renowned as Asia's largest livestock fair. It is held annually starting on the auspicious day of Kartik Purnima at the sacred confluence of the Ganga and Gandak rivers in Sonpur.\n\n### Historical Legacy\n* **Mythological Roots:** The fair’s origins are deeply tied to the ancient legend of *Gajendra Moksha*—where Lord Vishnu rescued the king of elephants from a crocodile.\n* **Royal Patronage:** Historically, it was a major military supply market where mighty emperors like Chandragupta Maurya, Ashoka the Great, and the freedom fighter Veer Kunwar Singh purchased formidable war elephants and elite cavalry horses.\n\n### A Vibrant Cultural Hub\nToday, the fair is a sprawling spectacle. Beyond the massive trade of cattle, birds, and horses, it offers a vibrant immersion into rural Bihar, featuring the Harihar Nath Temple puja, traditional folk theatre (*Nautanki*), giant Ferris wheels, and bustling handicraft pavilions.",
+        "hi": "### परिचय\n**सोनपुर पशु मेला** (*हरिहर क्षेत्र मेला*) ऐतिहासिक रूप से एशिया के सबसे बड़े पशु मेले के रूप में प्रसिद्ध है। यह प्रतिवर्ष कार्तिक पूर्णिमा के शुभ दिन पर सोनपुर में गंगा और गंडक नदियों के पवित्र संगम पर आयोजित किया जाता है।\n\n### ऐतिहासिक विरासत\n* **पौराणिक जड़ें:** मेले की उत्पत्ति गजेंद्र मोक्ष की प्राचीन कथा से गहराई से जुड़ी है—जहां भगवान विष्णु ने हाथियों के राजा को मगरमच्छ से बचाया था।\n* **शाही संरक्षण:** ऐतिहासिक रूप से, यह एक प्रमुख सैन्य आपूर्ति बाजार था जहां चंद्रगुप्त मौर्य, महान अशोक और स्वतंत्रता सेनानी वीर कुंवर सिंह जैसे शक्तिशाली सम्राटों ने अपने युद्धक हाथियों और कुलीन घुड़सवार घोड़ों की खरीद की थी।\n\n### एक जीवंत सांस्कृतिक केंद्र\nआज, मेला एक विशाल तमाशा है। मवेशियों, पक्षियों और घोड़ों के विशाल व्यापार से परे, यह ग्रामीण बिहार में एक जीवंत विसर्जन प्रदान करता है, जिसमें हरिहर नाथ मंदिर की पूजा, पारंपरिक लोक रंगमंच (*नौटंकी*), विशाल झूला और हलचल भरे हस्तशिल्प बाजार शामिल हैं।"
+      },
+      "attractions": {
+        "en": "Harihar Nath Temple puja, display of cattle and birds, traditional folk theatre (Nautanki), handicraft pavilions, and rural amusement rides.",
+        "hi": "हरिहरनाथ मंदिर में पूजा, पशु-पक्षी हाट, पारंपरिक नौटंकी थियेटर, हस्तशिल्प बाजार और ग्रामीण झूले।"
+      }
+    },
+    {
+      "id": "pitrapaksha-mela-gaya",
+      "name": {
+        "en": "Pitrapaksha Mela (Gaya Shraddha)",
+        "hi": "पितृपक्ष मेला (गया श्राद्ध)"
+      },
+      "category": "ancestral-ritual-pilgrimage",
+      "lunarPeriod": "Bhadrapada Purnima to Ashwin Amavasya (September-October)",
+      "districtIds": [
+        "gaya"
+      ],
+      "significance": {
+        "en": "### Introduction\nThe **Pitrapaksha Mela** in the holy city of Gaya is an internationally revered ancestral offering ritual that holds supreme importance in Hindu eschatology.\n\n### The Ritual of Pind Daan\n* **Ancestral Liberation:** During the fortnight of Pitrapaksha (September-October), millions of Hindus from across the globe converge in Gaya to perform *Pind Daan* (offerings of rice balls and sesame seeds).\n* **Sacred Locations:** The rituals are intensely focused along the banks of the Falgu river, inside the hallowed precincts of the Vishnupad Temple, and beneath the immortal *Akshayavat* tree.\n\n### Epic Origins\nThe sanctity of Gaya for this specific ritual is sanctioned in the Vayu Purana. According to epic tradition, Lord Rama, accompanied by Sita, visited Gaya to perform Pind Daan for his father, King Dasharatha, bestowing upon his ancestors ultimate liberation (*Moksha*).",
+        "hi": "### परिचय\nपवित्र मोक्ष नगरी गया में आयोजित **पितृपक्ष मेला** एक अंतरराष्ट्रीय स्तर पर श्रद्धेय पैतृक तर्पण अनुष्ठान है जो हिंदू धर्मशास्त्र में सर्वोच्च महत्व रखता है।\n\n### पिंडदान का अनुष्ठान\n* **पैतृक मुक्ति:** पितृपक्ष (सितंबर-अक्टूबर) के पखवाड़े के दौरान, दुनिया भर से लाखों हिंदू *पिंडदान* (चावल के गोले और तिल का अर्पण) करने के लिए गया में इकट्ठा होते हैं।\n* **पवित्र स्थान:** यह अनुष्ठान फल्गु नदी के तट पर, विष्णुपद मंदिर के पवित्र परिसर के अंदर, और अमर *अक्षयवट* वृक्ष के नीचे गहनता से केंद्रित हैं।\n\n### महाकाव्य उत्पत्ति\nइस विशिष्ट अनुष्ठान के लिए गया की पवित्रता वायु पुराण में वर्णित है। महाकाव्य परंपरा के अनुसार, भगवान राम, सीता के साथ, अपने पिता राजा दशरथ के लिए पिंडदान करने गया आए थे, ताकि अपने पूर्वजों को अंतिम मुक्ति (मोक्ष) प्रदान कर सकें।"
+      },
+      "historicalRoot": {
+        "en": "Sanctioned in the Vayu Purana, epics record that Lord Rama himself performed Pind Daan for his father King Dasharatha here at the Falgu river bank.",
+        "hi": "वायु पुराण में वर्णित इस पावन परंपरा में मर्यादा पुरुषोत्तम भगवान श्रीराम ने भी अपने पिता महाराज दशरथ की सद्गति के लिए सीता जी के साथ फल्गु तट पर पिंडदान किया था।"
+      }
+    },
+    {
+      "id": "sama-chakeva",
+      "name": {
+        "en": "Sama-Chakeva",
+        "hi": "सामा-चकेवा"
+      },
+      "category": "folk-sister-brother-festival",
+      "lunarPeriod": "Kartik Shukla Saptami to Kartik Purnima (November)",
+      "districtIds": [
+        "madhubani",
+        "darbhanga",
+        "sitamarhi",
+        "samastipur"
+      ],
+      "significance": {
+        "en": "### Introduction\n**Sama-Chakeva** is a deeply sentimental and ecologically significant winter folk festival native to the Mithila region. It beautifully celebrates the affectionate bond between brothers and sisters, as well as the annual migration of colorful winter birds to the region.\n\n### The Celebration\n* **Clay Crafting:** Young girls meticulously craft beautiful clay figurines of Sama (the sister), Chakeva (the brother), *Chugla* (the societal slanderer), and various migratory birds.\n* **Folk Music:** Under the soft winter moonlight of the Kartik month, women and girls gather in courtyards with their bamboo baskets, singing melodious traditional folk songs dedicated to familial love.\n\n### The Culmination\nOn the night of Kartik Purnima, the festival reaches its climax. The mustache of the *Chugla* is symbolically burned to ward off evil gossip. Afterward, the clay birds are respectfully immersed in local ponds or fields, symbolizing a prayer for the safe return of the migratory birds the following year.",
+        "hi": "### परिचय\n**सामा-चकेवा** मिथिला क्षेत्र का एक अत्यंत भावुक और पारिस्थितिक रूप से महत्वपूर्ण शीतकालीन लोक पर्व है। यह भाइयों और बहनों के बीच स्नेहपूर्ण बंधन के साथ-साथ क्षेत्र में रंग-बिरंगे शीतकालीन पक्षियों के वार्षिक प्रवास का खूबसूरती से जश्न मनाता है।\n\n### उत्सव\n* **मिट्टी की कला:** युवतियां सावधानीपूर्वक सामा (बहन), चकेवा (भाई), *चुगला* (सामाजिक निंदक), और विभिन्न प्रवासी पक्षियों की सुंदर मिट्टी की मूर्तियां बनाती हैं।\n* **लोक संगीत:** कार्तिक महीने की नरम सर्दियों की चांदनी के तहत, महिलाएं और लड़कियां अपनी बांस की डलिया के साथ आंगनों में इकट्ठा होती हैं, और पारिवारिक प्रेम को समर्पित मधुर पारंपरिक लोक गीत गाती हैं।\n\n### समापन\nकार्तिक पूर्णिमा की रात को यह उत्सव अपने चरम पर पहुंचता है। बुरी गपशप को दूर करने के लिए प्रतीकात्मक रूप से *चुगला* की दाढ़ी जला दी जाती है। इसके बाद, मिट्टी के पक्षियों को सम्मानपूर्वक स्थानीय तालाबों या खेतों में विसर्जित कर दिया जाता है, जो अगले वर्ष प्रवासी पक्षियों की सुरक्षित वापसी के लिए प्रार्थना का प्रतीक है।"
+      },
+      "legend": {
+        "en": "Based on the Puranic story of Lord Krishna's daughter Sama and her loyal brother Samba who liberated her from an unjust curse.",
+        "hi": "भगवान श्रीकृष्ण की पुत्री सामा और उनके भाई सांब की पौराणिक कथा पर आधारित, जिन्होंने बहन पर लगे कलंक को मिटाकर उसे मुक्ति दिलाई थी।"
+      }
+    },
+    {
+      "id": "bihula-vishahari-puja",
+      "name": {
+        "en": "Bihula-Vishahari (Mansa) Festival",
+        "hi": "बिहुला-विषहरी (मनसा) पूजा"
+      },
+      "category": "regional-mythological-festival",
+      "lunarPeriod": "Shravana / Bhadrapada (August)",
+      "districtIds": [
+        "bhagalpur",
+        "banka"
+      ],
+      "significance": {
+        "en": "### Introduction\nThe **Bihula-Vishahari (Mansa) Festival** is the premier folk and mythological festival of the Anga region (Bhagalpur and Banka). It commemorates the epic saga of Sati Bihula's unshakeable devotion, courage, and ultimate triumph over death.\n\n### The Epic Legend\nAccording to regional folklore, Bihula's husband, Lakshmindar, was fatally bitten by the serpent goddess Manasa on their wedding night due to a curse. Refusing to accept widowhood, the courageous Bihula placed her husband's body on a fragile banana-stem raft (*bhela*).\n\n### The Journey and Legacy\n* **Triumph over Death:** She set out on a perilous journey down the mighty Ganga, ultimately reaching the realm of the gods, defeating death, and forcing the heavens to resurrect her husband.\n* **Cultural Impact:** Celebrated passionately in Shravana/Bhadrapada, the festival gave birth to the spectacular *Manjusha Art*—intricate sequential paintings on temple boxes that narrate this legendary tale of feminine resilience.",
+        "hi": "### परिचय\n**बिहुला-विषहरी (मनसा) पूजा** अंग क्षेत्र (भागलपुर और बांका) का प्रमुख लोक और पौराणिक उत्सव है। यह सती बिहुला की अदम्य भक्ति, साहस और मृत्यु पर उनकी अंतिम जीत की महाकाव्य गाथा की याद दिलाता है।\n\n### पौराणिक कथा\nक्षेत्रीय लोककथाओं के अनुसार, बिहुला के पति, लखिंदर को उनकी शादी की रात एक अभिशाप के कारण सर्प देवी मनसा ने डंस लिया था। अपने पति की मृत्यु को स्वीकार करने से इनकार करते हुए, साहसी बिहुला ने अपने पति के शरीर को एक नाजुक केले के बेड़े (*भेला*) पर रखा।\n\n### यात्रा और विरासत\n* **मृत्यु पर विजय:** वह विशाल गंगा में एक खतरनाक यात्रा पर निकल पड़ी, अंततः देवलोक तक पहुंची, मृत्यु को हराया, और देवताओं को अपने पति को पुनर्जीवित करने के लिए मजबूर किया।\n* **सांस्कृतिक प्रभाव:** सावन/भादो में जुनून के साथ मनाए जाने वाले इस त्योहार ने शानदार *मंजूषा कला* को जन्म दिया—मंदिर के बक्सों पर जटिल कथात्मक चित्र जो नारी के लचीलेपन की इस पौराणिक कथा को बयां करते हैं।"
+      },
+      "associatedArt": "Manjusha Art (Snake paintings depicting the legend on wooden/paper boxes)"
+    },
+    {
+      "id": "rajgir-mahotsav",
+      "name": {
+        "en": "Rajgir Mahotsav",
+        "hi": "राजगीर महोत्सव"
+      },
+      "category": "cultural-tourism-festival",
+      "period": "Winter (usually December)",
+      "districtIds": [
+        "nalanda"
+      ],
+      "significance": {
+        "en": "### Introduction\nThe **Rajgir Mahotsav** is a vibrant, grand-scale cultural and tourism festival organized annually by the Department of Tourism, Government of Bihar. It is held during the crisp winter months against the historic, scenic backdrop of the ancient hills of Rajgir.\n\n### A Cultural Extravaganza\n* **Classical and Folk Fusion:** The Mahotsav serves as a majestic stage that brings together India's top classical musicians, acclaimed vocalists, and vibrant regional folk dancers.\n* **Showcasing Heritage:** It is a celebration of Magadha's ancient glory, featuring sprawling handicraft pavilions that display the rich artistry of Bihar.\n* **Traditional Sports:** The festival also keeps rural traditions alive by hosting thrilling traditional sports, most notably the highly anticipated Tonga (horse cart) races.",
+        "hi": "### परिचय\n**राजगीर महोत्सव** एक जीवंत और भव्य सांस्कृतिक एवं पर्यटन उत्सव है जो बिहार सरकार के पर्यटन विभाग द्वारा प्रतिवर्ष आयोजित किया जाता है। यह सर्दियों के महीनों के दौरान राजगीर की प्राचीन पहाड़ियों की ऐतिहासिक और दर्शनीय पृष्ठभूमि में आयोजित किया जाता है।\n\n### एक सांस्कृतिक महाकुंभ\n* **शास्त्रीय और लोक का संगम:** यह महोत्सव एक राजसी मंच के रूप में कार्य करता है जो भारत के शीर्ष शास्त्रीय संगीतकारों, प्रशंसित गायकों और जीवंत क्षेत्रीय लोक नर्तकों को एक साथ लाता है।\n* **विरासत का प्रदर्शन:** यह मगध के प्राचीन गौरव का उत्सव है, जिसमें बिहार की समृद्ध कलात्मकता को प्रदर्शित करने वाले विशाल हस्तशिल्प मंडप शामिल हैं।\n* **पारंपरिक खेल:** यह उत्सव रोमांचक पारंपरिक खेलों, विशेष रूप से बहुप्रतीक्षित तांगा (घोड़ा गाड़ी) दौड़ की मेजबानी करके ग्रामीण परंपराओं को भी जीवित रखता है।"
+      }
+    },
+    {
+      "id": "buddha-jayanti-bodhgaya",
+      "name": {
+        "en": "Buddha Jayanti (Vaisakha Purnima)",
+        "hi": "बुद्ध जयंती (वैशाख पूर्णिमा)"
+      },
+      "category": "international-buddhist-festival",
+      "lunarPeriod": "Vaisakha Purnima (May)",
+      "districtIds": [
+        "gaya"
+      ],
+      "significance": {
+        "en": "### Introduction\n**Buddha Jayanti** (Vaisakha Purnima) is an internationally revered, thrice-blessed sacred day in the Buddhist calendar. It is celebrated with unparalleled grandeur and deep spiritual reverence in Bodhgaya, the very epicentre of Buddhism.\n\n### The Thrice-Blessed Day\nThe festival simultaneously commemorates three monumental events in the life of Gautama Buddha:\n1. His auspicious birth in Lumbini.\n2. His supreme enlightenment (Nirvana) attained precisely at this spot under the sacred Bodhi Tree in Bodhgaya.\n3. His Mahaparinirvana (passing away) in Kushinagar.\n\n### Global Convergence\nThe UNESCO World Heritage Mahabodhi Temple complex transforms into a global village of peace. Monks, spiritual dignitaries, and pilgrims from Japan, Thailand, Sri Lanka, Myanmar, Bhutan, and the West converge here. The day is marked by serene processions, mass chanting of sutras, intricate mandala creations, and prayers for universal peace.",
+        "hi": "### परिचय\n**बुद्ध जयंती** (वैशाख पूर्णिमा) बौद्ध कैलेंडर में एक अंतरराष्ट्रीय स्तर पर श्रद्धेय और त्रिविध पावन पवित्र दिन है। इसे बौद्ध धर्म के केंद्र बोधगया में अद्वितीय भव्यता और गहरी आध्यात्मिक श्रद्धा के साथ मनाया जाता है।\n\n### त्रिविध पावन दिवस\nयह पर्व एक साथ गौतम बुद्ध के जीवन की तीन स्मारकीय घटनाओं की याद दिलाता है:\n1. लुंबिनी में उनका शुभ जन्म।\n2. बोधगया में पवित्र बोधिवृक्ष के नीचे इसी स्थान पर प्राप्त उनका सर्वोच्च ज्ञान (निर्वाण)।\n3. कुशीनगर में उनका महापरिनिर्वाण (निधन)।\n\n### वैश्विक समागम\nयूनेस्को विश्व धरोहर महाबोधि मंदिर परिसर शांति के एक वैश्विक गांव में बदल जाता है। जापान, थाईलैंड, श्रीलंका, म्यांमार, भूटान और पश्चिम से भिक्षु, आध्यात्मिक गणमान्य व्यक्ति और तीर्थयात्री यहाँ एकत्र होते हैं। इस दिन शांत जुलूस, सूत्रों का सामूहिक जप, जटिल मंडलों का निर्माण और विश्व शांति के लिए प्रार्थनाएं की जाती हैं।"
+      }
+    }
+  ]
+}

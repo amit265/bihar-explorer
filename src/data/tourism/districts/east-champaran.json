@@ -1,0 +1,392 @@
+{
+  "id": "east-champaran",
+  "slug": "east-champaran",
+  "name": {
+    "en": "East Champaran",
+    "hi": "पूर्वी चंपारण"
+  },
+  "division": "Tirhut",
+  "description": {
+    "en": "Sanctified as the sacred cradle of Mahatma Gandhi's **Champaran Satyagraha of 1917**, East Champaran (Motihari) stands as an enduring monument to moral courage, ancient Buddhist enlightenment, and vibrant Terai heritage. From the colossal **Kesaria Stupa**—the world's tallest ancient Buddhist stupa—and Emperor Ashoka's edict pillar at **Lauriya Areraj**, to the Treta Yuga legends of the revered **Baba Someshwar Nath Temple** and the colonial birthplace of celebrated author **George Orwell**, East Champaran weaves a profound tapestry of spiritual peace, historic defiance, and North Bihar's hospitable culture.",
+    "hi": "महात्मा गांधी के ऐतिहासिक **चंपारण सत्याग्रह (1917)** की पावन कर्मभूमि के रूप में विख्यात पूर्वी चंपारण (मोतिहारी) अदम्य नैतिक साहस, प्राचीन बौद्ध दर्शन और समृद्ध तराई संस्कृति का अद्वितीय संगम है। विश्व के सबसे ऊंचे प्राचीन बौद्ध **केसरिया स्तूप** और **लौरिया अरेराज** के सम्राट अशोक युगीन एकाश्म स्तंभ से लेकर, त्रेतायुगीन **बाबा सोमेश्वर नाथ मंदिर** की अटूट आस्था तथा विश्वप्रसिद्ध लेखक **जॉर्ज ऑरवेल** की ऐतिहासिक जन्मस्थली तक, पूर्वी चंपारण का प्रत्येक कोना गौरवशाली इतिहास, आध्यात्मिक शांति और भोजपुरी-मैथिली आतिथ्य की अनूठी गाथा सुनाता है।"
+  },
+  "overview": {
+    "en": "East Champaran (Purvi Champaran), headquartered at the historic town of **Motihari**, is one of Bihar's most storied districts, positioned in the fertile alluvial plains of the Tirhut division bordering Nepal. Revered globally as the **'Karmabhoomi of the Mahatma'**, it was here in 1917 that Mahatma Gandhi launched the epochal **Champaran Satyagraha**, testing the soul-force of non-violent civil disobedience against colonial oppression and permanently transforming India's freedom movement.\n\nThe district boasts an astonishing archaeological and spiritual lineage. In the south, the monumental **Kesaria Stupa** rises 104 feet into the sky—the tallest ancient Buddhist stupa in the world—marking where Lord Buddha presented his sacred alms-bowl (*Bhiksha Patra*) to the weeping Licchavis. Near Areraj stands a 36-foot polished sandstone pillar erected by **Emperor Ashoka** in 249 BCE, alongside the ancient **Baba Someshwar Nath Temple**, drawing millions of Shaivite pilgrims during Shravan. East Champaran is also the birthplace of iconic British author **George Orwell** (Eric Arthur Blair) and is celebrated for its historic **Mehsi button-making craft** and authentic **Champaran Ahuna mutton**. With its serene wetlands like Moti Jheel and thriving cross-border trade at Raxaul, East Champaran offers an unforgettable journey through India's spiritual and freedom heritage.",
+    "hi": "पूर्वी चंपारण, जिसका प्रशासनिक मुख्यालय ऐतिहासिक नगर **मोतिहारी** में स्थित है, तिरहुत प्रमंडल का एक अत्यंत गौरवशाली जनपद है जो उत्तर में नेपाल की अंतरराष्ट्रीय सीमा से सटा हुआ है। संपूर्ण विश्व में **'महात्मा गांधी की कर्मभूमि'** के रूप में समादृत इस पावन धरा पर अप्रैल 1917 में ऐतिहासिक **चंपारण सत्याग्रह** का शंखनाद हुआ था, जहाँ गांधीजी ने अहिंसक सविनय अवज्ञा का सफल प्रयोग कर भारतीय स्वाधीनता संग्राम को जन-आंदोलन का रूप दिया।\n\nपुरातात्विक एवं आध्यात्मिक दृष्टिकोण से यह जिला विश्व पटल पर अद्वितीय स्थान रखता है। यहाँ स्थित **केसरिया स्तूप** (ऊंचाई 104 फीट) विश्व का सबसे ऊंचा प्राचीन बौद्ध स्तूप है, जो भगवान बुद्ध द्वारा वैशाली के लिच्छवियों को अपना पवित्र भिक्षापात्र भेंट करने की अमर स्मृति है। अरेराज में 249 ईसा पूर्व का **सम्राट अशोक का एकाश्म स्तंभ** तथा त्रेतायुगीन **बाबा सोमेश्वर नाथ महादेव मंदिर** लाखों श्रद्धालुओं की अगाध आस्था के केंद्र हैं। यह जनपद विश्वविख्यात साहित्यकार **जॉर्ज ऑरवेल** की जन्मभूमि, मेहसी के सीप-बटन कुटीर उद्योग, और पारंपरिक **चंपारण अहुना मटन** के लिए भी प्रसिद्ध है। मोतीझील के सुरम्य तटों और रक्सौल के अंतरराष्ट्रीय व्यापारिक द्वार से सुसज्जित पूर्वी चंपारण भारतीय संस्कृति की जीवंत झांकी प्रस्तुत करता है।"
+  },
+  "history": {
+    "en": "The historical trajectory of **East Champaran** stretches across multiple civilizational epochs, dating back to Vedic antiquity when its lush forests formed part of the **Videha kingdom** under King Janaka and later flourished under the republican **Vajjian Confederacy** governed by the Licchavis. Ancient Buddhist lore records that Lord Gautama Buddha traversed this region during his final journey to Kushinagar, pausing at Kesaputta (modern **Kesaria**) to bequeath his sacred alms-bowl (*Bhiksha Patra*) to sorrowful Licchavi followers, over which the colossal Kesaria Stupa was later erected. In 249 BCE, **Emperor Ashoka** sanctified the region by engraving his royal pillar edicts on the monolithic column at Lauriya Areraj.\n\nIn the medieval and early modern periods, Champaran came under the Simraon (Karnat) dynasty of Mithila, followed by the Mughal Empire and the influential **Bettiah Raj**.\n\nThe district's most defining historical epoch unfolded during the British colonial era:\n- **The Champaran Satyagraha (1917)**: Oppressed by British indigo planters under the coercive *Tinkathia* system (mandating indigo on 3/20th of arable land), local farmer **Pandit Raj Kumar Shukla** persuaded Mahatma Gandhi to visit Champaran. Arriving in Motihari on April 15, 1917, Gandhi fearlessly defied colonial expulsion orders in court on April 18, asserting the supremacy of conscience. Along with leaders like Dr. Rajendra Prasad, J.B. Kripalani, Babu Brajkishore Prasad, and local hero **Batak Mian** (who foiled a poison plot against Gandhi), Gandhi forced the repeal of the Tinkathia system through the Champaran Agrarian Act of 1918.\n- **Literary Landmark (1903)**: On June 25, 1903, Eric Arthur Blair (**George Orwell**), author of *Animal Farm* and *1984*, was born in Motihari where his father served in the Opium Department.\n\nIn 1972, the unified Champaran district was bifurcated into East Champaran (Motihari) and West Champaran (Bettiah).",
+    "hi": "**पूर्वी चंपारण** का इतिहास प्रागैतिहासिक और वैदिक काल से निरंतर समृद्ध रहा है। रामायण और महाभारत काल में यह तपोभूमि मिथिला के **विदेह राज्य** का अभिन्न अंग थी, जहाँ महर्षि वाल्मीकि, च्यवन और कपिल मुनि के आश्रमों के उल्लेख मिलते हैं। बौद्ध धर्मग्रंथों के अनुसार, भगवान गौतम बुद्ध ने महापरिनिर्वाण हेतु कुशीनगर की अंतिम यात्रा के दौरान केसरिया (प्राचीन केसपुत्त) में विश्राम किया था और शोकाकुल लिच्छवियों को अपनी विदाई स्मृति के रूप में अपना पवित्र भिक्षापात्र भेंट किया था। 249 ईसा पूर्व में मौर्य सम्राट **अशोक** ने लौरिया अरेराज में एकाश्म स्तंभ स्थापित कर अपने छह प्रसिद्ध धर्म-अभिलेख उत्कीर्ण करवाए।\n\nमध्यकाल में यह क्षेत्र मिथिला के कर्नाट वंशीय शासकों, मुग़ल साम्राज्य और कालांतर में **बेतिया राज** के अधीन रहा।\n\nब्रिटिश औपनिवेशिक काल में पूर्वी चंपारण भारतीय स्वाधीनता संग्राम का सबसे निर्णायक केंद्र बना:\n- **चंपारण सत्याग्रह (1917)**: ब्रिटिश नीलहे जमींदारों द्वारा थोपी गई दमनकारी **तिनकठिया प्रणाली** (जमीन के 3/20वें भाग पर जबरन नील की खेती) के विरुद्ध जुझारू किसान **पंडित राजकुमार शुक्ल** के आग्रह पर महात्मा गांधी चंपारण आए। 15 अप्रैल 1917 को मोतिहारी आगमन पर उन्हें जिला छोड़ने का आदेश दिया गया, जिसे उन्होंने 18 अप्रैल 1917 को न्यायालय में अंतरात्मा की आवाज बताते हुए निर्भीकता से ठुकरा दिया। डॉ. राजेन्द्र प्रसाद, आचार्य कृपलानी, ब्रजकिशोर प्रसाद और देशभक्त रसोइये **बतख मियां** (जिन्होंने जहर देने की साजिश विफल कर गांधीजी के प्राण बचाए) के सहयोग से यह आंदोलन सफल रहा और 1918 में चंपारण कृषि अधिनियम बना।\n- **साहित्यिक धरोहर (1903)**: 25 जून 1903 को मोतिहारी में विश्वविख्यात उपन्यासकार **जॉर्ज ऑरवेल** (एरिक आर्थर ब्लेयर) का जन्म हुआ था।\n\n1972 में संयुक्त चंपारण को विभाजित कर पूर्वी चंपारण (मुख्यालय मोतिहारी) और पश्चिम चंपारण दो स्वतंत्र जिले बनाए गए।"
+  },
+  "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+  "coordinates": {
+    "latitude": 26.65,
+    "longitude": 84.92
+  },
+  "geography": {
+    "location": {
+      "en": "Situated in northern Bihar within the fertile Indo-Gangetic alluvium of the Tirhut division, spanning latitudes 26°16' N to 27°01' N and longitudes 84°30' E to 85°16' E, directly abutting the international border with Nepal.",
+      "hi": "तिरहुत प्रमंडल के अंतर्गत उत्तरी बिहार के उपजाऊ भारत-गंगा जलोढ़ मैदान में स्थित, 26°16' से 27°01' उत्तरी अक्षांश तथा 84°30' से 85°16' पूर्वी देशांतर के मध्य विस्तृत, जो उत्तर में नेपाल की अंतरराष्ट्रीय सीमा से लगा हुआ है।"
+    },
+    "areaSqKm": 3968,
+    "boundaries": {
+      "en": "Bounded by the international border of Nepal (Parsa and Rautahat districts) to the north, West Champaran and Gopalganj districts (demarcated by the Gandak River) to the west, Muzaffarpur district to the south, and Sheohar and Sitamarhi districts to the east.",
+      "hi": "उत्तर में नेपाल की अंतरराष्ट्रीय सीमा (परसा एवं रौतहट जिले), पश्चिम में पश्चिम चंपारण एवं गोपालगंज जिले (गंडक नदी द्वारा सीमांकित), दक्षिण में मुजफ्फरपुर जिला, तथा पूर्व में शिवहर एवं सीतामढ़ी जिले इसकी सीमा बनाते हैं।"
+    },
+    "physiography": {
+      "en": "A level, highly fertile alluvial plain created by the depositional activity of the Gandak, Burhi Gandak (Sikrahna), and Bagmati river systems. The terrain gently slopes towards the south-east, interspersed with nutrient-rich clay-loam (*Bangar*) and sandy-silt (*Khadar*) soils, natural oxbow lakes (*Mauns*), and saucer-shaped seasonal wetlands (*Chaurs*) that provide vital local drainage, irrigation, and freshwater aquatic habitats.",
+      "hi": "गंडक, बूढ़ी गंडक (सिकरहना) और बागमती नदी प्रणालियों द्वारा लाई गई गाद से निर्मित एक समतल और अत्यंत उपजाऊ जलोढ़ मैदान। भूभाग का ढलान उत्तर-पश्चिम से दक्षिण-पूर्व की ओर मंद है, जहाँ पुरानी जलोढ़ (*बांगर*) और नवीन कछारी (*खादर*) मिट्टी पाई जाती है। यहाँ प्राकृतिक गोखुर झीलें (*मन*) और निचले जलमग्न क्षेत्र (*चौर*) प्रचुर हैं, जो जल संचयन, सिंचाई और मत्स्य पालन का आधार हैं।"
+    },
+    "climate": {
+      "en": "Subtropical monsoon climate featuring hot, humid summers (April to June) with peak temperatures reaching 38°C–42°C, a vigorous monsoon rainy season (July to September) with an average annual rainfall of approximately 1,240 mm, and pleasant, cool winters (December to February) with temperatures dipping to 8°C–10°C, frequently accompanied by morning Himalayan fog.",
+      "hi": "उपोष्णकटिबंधीय मानसूनी जलवायु, जिसमें अप्रैल से जून तक गर्म व आर्द्र ग्रीष्मकाल (तापमान 38°C से 42°C तक), जुलाई से सितंबर तक भारी मानसूनी वर्षा (औसत वार्षिक वर्षा लगभग 1,240 मिमी), तथा दिसंबर से फरवरी तक सुखद शीतकाल (तापमान 8°C से 10°C) रहता है, जिसमें हिमालयी तराई से आने वाले घने कोहरे का प्रभाव देखा जाता है।"
+    },
+    "rivers": [
+      {
+        "name": {
+          "en": "Burhi Gandak (Sikrahna)",
+          "hi": "बूढ़ी गंडक (सिकरहना)"
+        },
+        "description": {
+          "en": "The principal internal lifeline of East Champaran, entering near Sugauli as the Sikrahna and meandering southeast past Motihari. It nourishes extensive agricultural tracts with fertile silt while carrying substantial monsoon discharge.",
+          "hi": "पूर्वी चंपारण की मुख्य आंतरिक जीवनदायिनी नदी, जो सुगौली के पास सिकरहना के रूप में प्रवेश करती है और मोतिहारी के निकट से होकर दक्षिण-पूर्व दिशा में बहती है। यह विस्तृत कृषि भूमि को उर्वर गाद प्रदान करती है।"
+        }
+      },
+      {
+        "name": {
+          "en": "Gandak (Narayani)",
+          "hi": "गंडक (नारायणी)"
+        },
+        "description": {
+          "en": "A mighty snow-fed Himalayan river forming the western and south-western natural boundary of the district with Gopalganj, feeding the Tirhut canal network vital for Kharif crop irrigation.",
+          "hi": "हिमालय से निकलने वाली सदानीरा नदी, जो जिले की पश्चिमी और दक्षिण-पश्चिमी सीमा का निर्धारण गोपालगंज के साथ करती है। यह तिरहुत नहर प्रणाली के माध्यम से खरीफ फसलों की सिंचाई का प्रमुख स्रोत है।"
+        }
+      },
+      {
+        "name": {
+          "en": "Bagmati River",
+          "hi": "बागमती नदी"
+        },
+        "description": {
+          "en": "Flows along the eastern perimeter of the district bordering Sheohar, carrying swift floodwaters from the Nepal Himalayas and depositing rich fertile sediment across the riparian agrarian belt.",
+          "hi": "जिले की पूर्वी सीमा पर शिवहर के समीप प्रवाहित होने वाली तीव्र वेग वाली नदी, जो नेपाल हिमालय से भारी जलप्रवाह लाती है और तटीय कृषि भूमि को उपजाऊ गाद से समृद्ध करती है।"
+        }
+      },
+      {
+        "name": {
+          "en": "Lalbakeya River",
+          "hi": "लालबकेया नदी"
+        },
+        "description": {
+          "en": "Originates in Nepal's Siwalik foothills, flowing south through the Sikrahana subdivision and joining the Bagmati system, acting as an important regional drainage and irrigation channel.",
+          "hi": "नेपाल की शिवालिक पहाड़ियों से निकलकर सिकरहना अनुमंडल से होकर दक्षिण दिशा में बहने वाली नदी, जो बागमती में मिलकर क्षेत्रीय जल निकासी और सिंचाई में सहायक है।"
+        }
+      },
+      {
+        "name": {
+          "en": "Dhanauti River",
+          "hi": "धनौती नदी"
+        },
+        "description": {
+          "en": "A historic tributary winding through Motihari township near Moti Jheel, currently undergoing extensive eco-restoration and watershed rejuvenation to restore natural wetlands and municipal drainage.",
+          "hi": "मोतिहारी शहर और प्रसिद्ध मोतीझील के निकट से बहने वाली ऐतिहासिक उपनदी, जिसके प्राकृतिक जलमार्ग और पारिस्थितिकी तंत्र के पुनरुद्धार हेतु सघन संरक्षण अभियान संचालित किए जा रहे हैं।"
+        }
+      }
+    ]
+  },
+  "demographics": {
+    "population": {
+      "value": 5099371,
+      "year": 2011,
+      "source": "Census of India 2011"
+    },
+    "density": {
+      "value": 1285,
+      "year": 2011
+    },
+    "literacyRate": {
+      "value": 55.79,
+      "year": 2011
+    },
+    "sexRatio": {
+      "value": 902,
+      "year": 2011
+    }
+  },
+  "administration": {
+    "headquarters": {
+      "en": "Motihari",
+      "hi": "मोतिहारी"
+    },
+    "subdivisions": 6,
+    "blocks": 27,
+    "villages": 1345,
+    "asOf": "2024"
+  },
+  "economy": {
+    "description": {
+      "en": "The economy of East Champaran is predominantly agrarian, supported by burgeoning agro-processing enterprises, strategic cross-border international trade, traditional cottage industries, and rising cultural tourism.\n\n- **Gateway to Nepal & Cross-Border Logistics**: Centered around **Raxaul**, the Integrated Check Post (ICP) handles over 60% of Nepal's bilateral overland merchandise trade with India. The landmark **Motihari-Amlekhgunj Petroleum Pipeline** (South Asia's first cross-border pipeline) serves as an energy conduit between Indian Oil and Nepal Oil Corporation.\n- **Sugar & Biofuels**: Anchored by modern sugar and ethanol manufacturing facilities, including the HPCL Biofuels complex at Sugauli and historic sugar processing belts in Chakia and Motihari.\n- **Mehsi Button Industry**: A globally singular cottage craft cluster founded in 1905, producing pearl and oyster-shell (*seep*) buttons harvested from the Sikrahna River alongside modern acrylic buttons.\n- **Agro-Processing & Retail Mandis**: Vibrant wholesale trade in paddy, wheat, litchi, winter vegetables, and freshwater fisheries, supplemented by consumer trade in Motihari's bustling commercial markets.",
+      "hi": "पूर्वी चंपारण की आर्थिकी मुख्यतः कृषि पर आधारित है, जिसे तेजी से विकसित होते कृषि-प्रसंस्करण उद्योगों, रणनीतिक अंतरराष्ट्रीय सीमा व्यापार, पारंपरिक कुटीर उद्योगों और बढ़ते सांस्कृतिक पर्यटन से संबल प्राप्त होता है।\n\n- **नेपाल का प्रवेश द्वार एवं सीमावर्ती लॉजिस्टिक्स**: **रक्सौल** स्थित एकीकृत चेक पोस्ट (ICP) भारत और नेपाल के मध्य होने वाले कुल द्विपक्षीय व्यापार के 60% से अधिक हिस्से का संचालन करता है। यहाँ स्थित **मोतिहारी-अमलेखगंज पेट्रोलियम पाइपलाइन** (दक्षिण एशिया की पहली सीमापार ऊर्जा पाइपलाइन) दोनों देशों के मध्य ऊर्जा सुरक्षा का आधार है।\n- **चीनी एवं जैव-ईंधन उद्योग**: सुगौली में हिंदुस्तान पेट्रोलियम (HPCL बायोफ्यूल्स) का आधुनिक चीनी व एथेनॉल संयंत्र तथा चकिया और मोतिहारी के पारंपरिक चीनी मिल क्लस्टर ग्रामीण अर्थव्यवस्था को गति देते हैं।\n- **मेहसी का सीप-बटन उद्योग**: 1905 से संचालित भारत का एकमात्र अद्वितीय कुटीर उद्योग, जहाँ सिकरहना नदी के प्राकृतिक सीपों (*मदर-ऑफ-पर्ल*) और ऐक्रेलिक से कलात्मक बटन तैयार किए जाते हैं।\n- **कृषि प्रसंस्करण एवं व्यापारिक मंडियाँ**: धान, गेहूँ, लीची, मक्का और ताजे जल की मछलियों का विशाल थोक व्यापार, जिसे मोतिहारी, ढाका और चकिया की प्रमुख कृषि उपज मंडियों से बल मिलता है।"
+    },
+    "majorIndustries": {
+      "en": "- Cross-border logistics, customs warehousing, and transit trade (Raxaul ICP)\n- Cross-border petroleum distribution (Motihari-Amlekhgunj Oil Pipeline Terminal)\n- Sugar milling, molasses processing, and ethanol distillation (HPCL Biofuels Sugauli)\n- Mother-of-pearl and synthetic button manufacturing (Mehsi Button Cluster)\n- Agro-processing: Modern rice mills, flour mills, and mustard oil extraction units\n- Cold storage and supply-chain logistics for seasonal fruits (Litchi and Mango)\n- Handloom weaving, khadi textiles, and traditional Sikki grass handicrafts",
+      "hi": "- सीमापार लॉजिस्टिक्स, कस्टम वेयरहाउसिंग और पारगमन व्यापार (रक्सौल आईसीपी)\n- सीमापार पेट्रोलियम वितरण (मोतिहारी-अमलेखगंज पाइपलाइन डिपो)\n- चीनी उत्पादन, शीरा प्रसंस्करण एवं एथेनॉल डिस्टिलरी (एचपीसीएल बायोफ्यूल्स सुगौली)\n- प्राकृतिक सीप एवं सिंथेटिक बटन निर्माण (मेहसी बटन उद्योग क्लस्टर)\n- कृषि प्रसंस्करण: आधुनिक चावल मिलें, आटा चक्कियां और सरसों तेल निष्कर्षण इकाइयाँ\n- मौसमी फलों (लीची और आम) के लिए कोल्ड स्टोरेज और आपूर्ति-श्रृंखला अवसंरचना\n- हथकरघा बुनाई, खादी वस्त्र और पारंपरिक सिक्की घास हस्तशिल्प"
+    }
+  },
+  "agriculture": {
+    "description": {
+      "en": "Agriculture forms the bedrock of livelihood for over 80% of East Champaran's population, blessed with nutrient-rich alluvial soil deposited by the Gandak and Burhi Gandak river systems, high subsoil water tables, and favorable subtropical monsoon rains.\n\n- **Cereal Food Basket**: The district is a prime producer of paddy during Kharif and wheat alongside high-yielding hybrid maize during Rabi, yielding substantial agricultural surpluses.\n- **Cash Crop Leader**: Sugarcane is extensively cultivated across the central and northern belts (Sugauli, Harsidhi, and Motihari), directly feeding the district's sugar refineries and jaggery (*gur*) cottage units.\n- **Horticultural Prowess**: Prolific producer of premium Shahi and China litchis, Malda and Bambai mangoes, alongside bananas and seasonal winter vegetables (pointed gourd, cauliflower, and potatoes).\n- **Aquaculture & Wetland Farming**: The district's extensive oxbow lakes (*mauns*) and saucer-shaped wetlands support high-yield freshwater fish farming (Rohu, Katla, and Magur) and water chestnuts (*singhara*).",
+      "hi": "कृषि पूर्वी चंपारण की 80% से अधिक आबादी के जीवनयापन का मुख्य आधार है। गंडक और बूढ़ी गंडक नदियों द्वारा लाई गई उपजाऊ जलोढ़ मिट्टी, अनुकूल भूजल स्तर और प्रचुर मानसूनी वर्षा इस क्षेत्र को कृषि उत्पादन में अग्रणी बनाती है।\n\n- **प्रमुख खाद्यान्न फसलें**: खरीफ मौसम में धान तथा रबी मौसम में गेहूँ और उच्च उपज वाले संकर मक्का की सघन खेती की जाती है, जिससे जिले को खाद्यान्न अधिशेष प्राप्त होता है।\n- **नकदी फसलों में अग्रणी**: सुगौली, हरसिद्धि और मोतिहारी प्रखंडों में गन्ने की व्यापक खेती होती है, जो स्थानीय चीनी मिलों और गुड़ निर्माण कुटीर इकाइयों को कच्चा माल उपलब्ध कराती है।\n- **उद्यानिकी एवं फल उत्पादन**: शाही और चाइना लीची, मालदा और बंबई आम, केला और हरी सब्जियों (परवल, फूलगोभी, आलू) का बड़े पैमाने पर व्यावसायिक उत्पादन होता है।\n- **मत्स्य पालन एवं जल-कृषि**: जिले के प्राकृतिक मन (गोखुर झीलें) और चौर क्षेत्र रोहू, कतला और मांगुर जैसी मीठे पानी की मछलियों के पालन और सिंघाड़े की खेती के लिए अत्यंत उपयुक्त हैं।"
+    },
+    "majorCrops": {
+      "en": "- **Cereals**: Paddy (Rice), Wheat, Hybrid Maize (Corn)\n- **Cash Crops**: Sugarcane, Jute, Tobacco\n- **Horticulture**: Shahi Litchi, Malda Mango, Guava, Banana\n- **Pulses & Oilseeds**: Lentil (Masoor), Gram (Chana), Mustard (Sarson), Linseed (Tisi)\n- **Vegetables & Wetlands**: Pointed Gourd (Parwal), Potato, Cauliflower, Water Chestnut (Singhara)",
+      "hi": "- **खाद्यान्न फसलें**: धान (चावल), गेहूँ, संकर मक्का\n- **नकदी फसलें**: गन्ना, जूट (पटसन), तंबाकू\n- **बागवानी फसलें**: शाही लीची, मालदा आम, अमरूद, केला\n- **दलहन एवं तिलहन**: मसूर, चना, सरसों, तीसी\n- **सब्जियाँ एवं जलीय फसलें**: परवल, आलू, फूलगोभी, सिंघाड़ा"
+    }
+  },
+  "culture": {
+    "festivals": {
+      "en": "- **Shravani Mela at Areraj**: The supreme devotional fair at the Baba Someshwar Nath Temple, where hundreds of thousands of saffron-clad Kanwariyas undertake barefoot pilgrimages to perform Jalabhisheka with sacred water from the Gandak and Bagmati rivers.\n- **Chhath Puja**: Celebrated with unmatched sanctity along the historic embankments of Moti Jheel in Motihari and rural riverbanks, featuring traditional offerings of Thekua and Arghya to the setting and rising Sun.\n- **Kesaria Mahotsav**: An annual state-sponsored cultural extravaganza celebrating the heritage of Kesaria Stupa with Buddhist monastic chants, classical music, and folk dances.\n- **Maha Shivratri**: Grand festive celebrations across Shiva shrines with night vigils, temple illuminations, and ceremonial processions.\n- **Radhamohan Mela & Makar Sankranti**: Traditional rural fairs celebrating the harvest with folk sports, boat races, and sesame-jaggery (*Tilkut*) feasts.",
+      "hi": "- **अरेराज का श्रावणी मेला**: बाबा सोमेश्वर नाथ मंदिर में आयोजित होने वाला प्रसिद्ध वार्षिक मेला, जहाँ लाखों गेरुआ वस्त्रधारी कांवड़िए गंडक और बागमती के पवित्र जल से शिवलिंग पर जलाभिषेक करते हैं।\n- **छठ महापर्व**: मोतिहारी के सुरम्य मोतीझील के तटों और ग्रामीण नदियों पर अगाध आस्था व शुचिता के साथ मनाया जाने वाला महापर्व, जिसमें भगवान सूर्य को ठेकुआ व मौसमी फलों का अर्घ्य दिया जाता है।\n- **केसरिया महोत्सव**: केसरिया बौद्ध स्तूप की पुरातात्विक विरासत को समर्पित राज्य स्तरीय वार्षिक सांस्कृतिक महोत्सव, जिसमें बौद्ध भिक्षुओं की प्रार्थनाएं और शास्त्रीय संगीत-नृत्य प्रस्तुत किए जाते हैं।\n- **महाशिवरात्रि**: अरेराज के सोमेश्वरनाथ धाम सहित जिले के सभी शिवालयों में भव्य रुद्राभिषेक, दीप प्रज्वलन और पारंपरिक शोभायात्राएं।\n- **राधा मोहन मेला एवं मकर संक्रांति**: फसल कटाई के उपलक्ष्य में आयोजित होने वाले पारंपरिक ग्रामीण मेले, जहाँ चूड़ा-दही और तिलकुट के भोज के साथ लोक खेलों का आयोजन होता है।"
+    },
+    "artAndCrafts": {
+      "en": "- **Mehsi Button Artistry**: A globally unique artisanal heritage of handcrafting lustrous buttons from freshwater river oyster shells (*seep*), sustained since 1905 across Mehsi.\n- **Sikki Grass Crafts**: Exquisite folk weaving of naturally golden wild Sikki grass into ceremonial wedding baskets (*Pauti*), ornamental mats, and decorative boxes.\n- **Bhojpuri Lok Geet & Folk Performances**: Rich oral traditions of Biraha, Sohar, Kajari, and traditional Bidesiya folk theatre depicting agrarian life and social themes.\n- **Terracotta & Pottery**: Hereditary potters shaping ceremonial earthenware, festive lamps (*diya*), and the clay pots (*handi/ahuna*) essential for traditional slow-cooking.",
+      "hi": "- **मेहसी का सीप-बटन शिल्प**: 1905 से प्रारंभ हुआ भारत का अनूठा हस्तशिल्प, जहाँ नदी के प्राकृतिक सीपों से चमकदार बटन और सजावटी वस्तुएँ हाथ और मशीनों से तैयार की जाती हैं।\n- **सिक्की घास शिल्प**: स्थानीय सुनहरी सिक्की घास से ग्रामीण महिलाओं द्वारा बुनी जाने वाली आकर्षक डलिया, मौनी, शादी की पारंपरिक 'पौती' और सजावटी खिलौने।\n- **भोजपुरी लोक-संगीत एवं नाटक**: बिरहा, सोहर, कजरी, फगुआ और भिखारी ठाकुर की परंपरा के बिदेसिया नाटकों की समृद्ध व जीवंत लोक-कला।\n- **मृण्मूर्ति एवं कुम्हारी कला**: छठ पूजा और दीपोत्सव के लिए मिट्टी के पारंपरिक दीप, कलश तथा प्रसिद्ध अहुना मटन पकाने के लिए प्रयुक्त होने वाली विशेष मिट्टी की हांडी (*अहुना*) का निर्माण।"
+    },
+    "food": {
+      "en": "- **Champaran Ahuna Mutton (Handi Meat)**: The world-famous culinary masterpiece originating from Ghorasahan near Motihari, slow-cooked in sealed earthen pots (*ahuna*) over glowing charcoal embers with whole garlic bulbs, mustard oil, and ground whole spices.\n- **Areraj Ke Pede**: Renowned pilgrim sweets crafted in Areraj from pure slow-reduced condensed milk (*khoya*) and green cardamom, possessing a distinct rich texture.\n- **Litti Chokha**: Traditional roasted whole-wheat balls stuffed with spicy roasted gram flour (sattu), dipped in desi ghee and served with smoky roasted eggplant-tomato chokha.\n- **Thekua**: Traditional deep-fried crunchy cookies made from whole wheat flour, ghee, cardamom, and dark jaggery, revered as Chhath Mahaparv Prasad.\n- **Tilkut & Anarsa**: Crisp winter delicacies made of pounded sesame seeds and jaggery, alongside rice-flour and poppy-seed pastries filled with sweet mawa.",
+      "hi": "- **चंपारण अहुना मटन (हांडी मीट)**: मोतिहारी के घोड़ासहन से उपजा विश्वविख्यात पारंपरिक व्यंजन, जिसे सरसों तेल, खड़े मसालों और समूचे लहसुन के साथ मिट्टी की हांडी (*अहुना*) में सील कर कोयले की धीमी आंच पर पकाया जाता है।\n- **अरेराज के पेड़े**: अरेराज में शुद्ध मावा (खोया) और छोटी इलायची के सुगंधित सम्मिश्रण से बनने वाले मुंह में घुल जाने वाले स्वादिष्ट पेड़े, जो प्रमुख तीर्थ प्रसाद हैं।\n- **पारंपरिक लिट्टी-चोखा**: सत्तू, मंगरैल और अजवाइन से भरी भुनी हुई गेहूं की लिट्टी, जिसे शुद्ध देसी घी में तर कर भुने हुए बैंगन-टमाटर के तीखे चोखे के साथ परोसा जाता है।\n- **ठेकुआ**: शुद्ध घी, गुड़, सौंफ और गेहूं के आटे से सांचे में ढलकर बनने वाला पारंपरिक महाप्रसाद, जो अपनी कुरकुरी मिठास के लिए प्रसिद्ध है।\n- **तिलकुट एवं अनरसा**: मकर संक्रांति पर बनने वाला तिल और गुड़ का खस्ता तिलकुट तथा चावल के आटे, खोए और खसखस से निर्मित स्वादिष्ट अनरसा।"
+    }
+  },
+  "transport": {
+    "road": {
+      "en": "East Champaran possesses outstanding highway connectivity anchored by **National Highway 27 (NH-27)** (the East-West Corridor), providing high-speed 4-lane access linking Motihari and Chakia to Muzaffarpur and Patna eastward/southward, and Gorakhpur and Lucknow westward. **National Highway 28A / NH-527D** runs from Piprakothi through Motihari to the international border at **Raxaul**, serving as India's vital trade lifeline to Kathmandu. **State Highway 74 (SH-74)** connects Motihari and Chakia to Kesaria Stupa. Motihari ISBT / Government Bus Stand operates regular superfast and AC sleeper coaches to Patna, Muzaffarpur, Darbhanga, Ranchi, Kolkata, Gorakhpur, and Birgunj (Nepal).",
+      "hi": "पूर्वी चंपारण सड़क मार्ग द्वारा राष्ट्रीय और अंतरराष्ट्रीय स्तर पर उत्कृष्ट रूप से जुड़ा हुआ है। **राष्ट्रीय राजमार्ग 27 (NH-27)** (ईस्ट-वेस्ट कॉरिडोर) जिले से होकर गुजरता है, जो मोतिहारी और चकिया को मुजफ्फरपुर, पटना और पश्चिम में गोरखपुर व लखनऊ से 4-लेन गति से जोड़ता है। **राष्ट्रीय राजमार्ग 28A / NH-527D** पिपराकोठी से मोतिहारी होते हुए **रक्सौल** अंतरराष्ट्रीय सीमा तक जाता है, जो काठमांडू के लिए भारत का मुख्य व्यापारिक राजमार्ग है। **राज्य राजमार्ग 74 (SH-74)** मोतिहारी व चकिया को केसरिया स्तूप से जोड़ता है। मोतिहारी बस स्टैंड से पटना, मुजफ्फरपुर, दरभंगा, रांची, कोलकाता, गोरखपुर और बीरगंज (नेपाल) के लिए नियमित सुपरफास्ट व एसी बसें उपलब्ध हैं।"
+    },
+    "railway": {
+      "en": "**Bapudham Motihari (Station Code: BMKI)** is a premier, historic A-category railway junction on the Muzaffarpur–Gorakhpur main line under the Samastipur Division of East Central Railway. Upgraded with modern passenger amenities and renamed in honor of Mahatma Gandhi, the station connects directly to New Delhi, Mumbai, Kolkata, Bengaluru, Ahmedabad, and Jammu via prestigious trains such as the Champaran Humsafar Express, Sapt Kranti Superfast Express, Porbandar Express, and Mithila Express. Other critical rail hubs in the district include **Raxaul Junction (RXL)** (key terminal on the Nepal border), **Sugauli Junction (SGL)**, and **Chakia (CAA)**.",
+      "hi": "**बापूधाम मोतिहारी रेलवे स्टेशन (स्टेशन कोड: BMKI)** पूर्व मध्य रेलवे के समस्तीपुर मंडल के अंतर्गत मुजफ्फरपुर-गोरखपुर मुख्य रेलखंड पर स्थित एक प्रमुख और ऐतिहासिक A-श्रेणी रेलवे स्टेशन है। महात्मा गांधी की पावन स्मृति में पुनर्नामित यह स्टेशन सप्त क्रांति सुपरफास्ट एक्सप्रेस, चंपारण हमसफर एक्सप्रेस, पोरबंदर एक्सप्रेस और मिथिला एक्सप्रेस जैसी महत्वपूर्ण ट्रेनों द्वारा नई दिल्ली, मुंबई, कोलकाता, बेंगलुरु और जम्मू से सीधे जुड़ा हुआ है। जिले के अन्य प्रमुख स्टेशनों में **रक्सौल जंक्शन (RXL)** (नेपाल सीमा का प्रमुख टर्मिनल), **सुगौली जंक्शन (SGL)** और **चकिया (CAA)** शामिल हैं।"
+    },
+    "airport": {
+      "en": "The district has an airstrip at **Raxaul Airport**, earmarked for commercial regional connectivity under the Central Government's UDAN scheme. Scheduled passenger commercial aviation is served by two nearby airports:\n- **Darbhanga Airport (DBR)**: Located approximately 130 km east via NH-27 (2.5 to 3 hours drive), offering daily direct domestic flights to New Delhi, Mumbai, Bengaluru, and Kolkata.\n- **Jay Prakash Narayan International Airport, Patna (PAT)**: Located approximately 150 km south via NH-27 and NH-22 (3 to 3.5 hours drive), offering comprehensive flight connections to all major metropolises across India.",
+      "hi": "जिले के रक्सौल में **रक्सौल हवाई अड्डा** (हवाई पट्टी) स्थित है, जिसे केंद्र सरकार की उड़ान (UDAN) योजना के तहत वाणिज्यिक क्षेत्रीय संपर्क हेतु विकसित किया जा रहा है। वर्तमान में नियमित वाणिज्यिक यात्री उड़ानों हेतु दो नजदीकी हवाई अड्डे उपलब्ध हैं:\n- **दरभंगा हवाई अड्डा (DBR)**: NH-27 के माध्यम से लगभग 130 किमी पूर्व में स्थित (2.5 से 3 घंटे की यात्रा), जहाँ से नई दिल्ली, मुंबई, बेंगलुरु और कोलकाता के लिए नियमित उड़ानें संचालित हैं।\n- **जयप्रकाश नारायण अंतर्राष्ट्रीय हवाई अड्डा, पटना (PAT)**: NH-27 और NH-22 के रास्ते लगभग 150 किमी दक्षिण में स्थित (3 से 3.5 घंटे की यात्रा), जो देश के सभी प्रमुख महानगरों से सीधा और सुगम हवाई संपर्क प्रदान करता है।"
+    }
+  },
+  "importantPersonalities": [
+    {
+      "name": {
+        "en": "Mahatma Gandhi",
+        "hi": "महात्मा गांधी"
+      },
+      "association": {
+        "en": "Father of the Nation who launched his historic first civil disobedience movement in India—the Champaran Satyagraha of 1917—from Motihari, transforming the Indian national struggle into a fearless mass movement.",
+        "hi": "राष्ट्रपिता, जिन्होंने भारत में अपने पहले सविनय अवज्ञा आंदोलन—1917 के ऐतिहासिक चंपारण सत्याग्रह—का सूत्रपात मोतिहारी से किया और भारतीय स्वाधीनता संग्राम को जन-आंदोलन का स्वरूप दिया।"
+      }
+    },
+    {
+      "name": {
+        "en": "Pandit Raj Kumar Shukla",
+        "hi": "पंडित राजकुमार शुक्ल"
+      },
+      "association": {
+        "en": "Resolute Champaran farmer and freedom fighter who persistently pursued Mahatma Gandhi at the Lucknow Congress session in 1916, successfully convincing him to visit Champaran and liberate peasants from the coercive Tinkathia indigo system.",
+        "hi": "चंपारण के दृढ़निश्चयी किसान नेता एवं स्वतंत्रता सेनानी, जिन्होंने 1916 के लखनऊ कांग्रेस अधिवेशन में महात्मा गांधी से मिलकर उन्हें चंपारण आने और तिनकठिया नील व्यवस्था से किसानों को मुक्ति दिलाने हेतु प्रेरित किया।"
+      }
+    },
+    {
+      "name": {
+        "en": "George Orwell (Eric Arthur Blair)",
+        "hi": "जॉर्ज ऑरवेल (एरिक आर्थर ब्लेयर)"
+      },
+      "association": {
+        "en": "Visionary English novelist, essayist, and critic of totalitarianism—author of 20th-century classics *Animal Farm* and *Nineteen Eighty-Four*—born in Motihari on June 25, 1903, where his father served in the British Opium Department.",
+        "hi": "20वीं सदी के महानतम अंग्रेजी साहित्यकार और राजनीतिक व्यंग्यकार—कालजयी उपन्यासों *एनिमल फार्म* और *1984* के रचयिता—का जन्म 25 जून 1903 को मोतिहारी में हुआ था, जहाँ उनके पिता अफीम विभाग में पदस्थापित थे।"
+      }
+    },
+    {
+      "name": {
+        "en": "Batak Mian",
+        "hi": "बतख मियां"
+      },
+      "association": {
+        "en": "Courageous nationalist cook in Motihari who risked his life and defied British indigo planter Erwin by refusing to serve poisoned milk to Mahatma Gandhi during dinner in 1917, alerting Gandhi and enduring severe colonial torture and destitution.",
+        "hi": "मोतिहारी के साहसी देशभक्त रसोइये, जिन्होंने 1917 में अंग्रेज नीलहे प्रबंधक इरविन द्वारा महात्मा गांधी को दिए जाने वाले विषैले दूध की साजिश को उजागर कर गांधीजी के प्राण बचाए और स्वयं घोर औपनिवेशिक प्रताड़ना सही।"
+      }
+    },
+    {
+      "name": {
+        "en": "Peer Mohammad Munis",
+        "hi": "पीर मोहम्मद मुनिस"
+      },
+      "association": {
+        "en": "Fearless nationalist journalist, social reformer, and key architect of the Champaran peasant mobilization whose undercover writings in Ganesh Shankar Vidyarthi's *Pratap* exposed the brutal exploitation of indigo farmers to the entire nation.",
+        "hi": "चंपारण के निडर राष्ट्रवादी पत्रकार एवं समाज सुधारक, जिनके गणेश शंकर विद्यार्थी के पत्र *प्रताप* में छपने वाले विद्रोही लेखों ने नीलहे गोरों के अत्याचारों को उजागर कर पूरे देश का ध्यान चंपारण की ओर आकर्षित किया।"
+      }
+    },
+    {
+      "name": {
+        "en": "Babu Brajkishore Prasad",
+        "hi": "बाबू ब्रजकिशोर प्रसाद"
+      },
+      "association": {
+        "en": "Eminent lawyer, veteran nationalist leader from North Bihar, and trusted lieutenant of Mahatma Gandhi during the 1917 Champaran Satyagraha; spearheaded the legal documentation of peasant grievances.",
+        "hi": "उत्तर बिहार के प्रख्यात अधिवक्ता, अग्रणी राष्ट्रवादी नेता तथा 1917 के चंपारण सत्याग्रह में महात्मा गांधी के प्रमुख सहयोगी; जिन्होंने किसानों के बयानों को कानूनी रूप से संकलित करने में महत्वपूर्ण भूमिका निभाई।"
+      }
+    }
+  ],
+  "tourismIdentity": [
+    {
+      "en": "**Karmabhoomi of Mahatma Gandhi (Birthplace of Satyagraha)**: Sanctified as the epicenter of the 1917 Champaran Satyagraha, where Mahatma Gandhi launched India's first successful mass non-violent civil disobedience movement.",
+      "hi": "**महात्मा गांधी की पावन कर्मभूमि (सत्याग्रह की जन्मस्थली)**: 1917 के ऐतिहासिक चंपारण सत्याग्रह का केंद्र, जहाँ से महात्मा गांधी ने भारत में सत्य और अहिंसा पर आधारित जन-आंदोलन का सफल शंखनाद किया था।"
+    },
+    {
+      "en": "**World's Tallest Ancient Buddhist Stupa (Kesaria)**: Home to the colossal 104-foot Kesaria Stupa, surpassing Java's Borobudur in circumference, marking where Buddha presented his sacred alms-bowl to the Licchavis.",
+      "hi": "**विश्व का सबसे ऊंचा प्राचीन बौद्ध स्तूप (केसरिया)**: 104 फीट ऊंचा विशालकाय केसरिया स्तूप, जो परिधि में जावा के बोरोबुदुर से भी बड़ा है और भगवान बुद्ध द्वारा लिच्छवियों को अपना भिक्षापात्र भेंट करने का साक्षी है।"
+    },
+    {
+      "en": "**Ancient Mauryan Heritage (Ashokan Pillar, Areraj)**: Features a stupendous 36-foot monolithic polished sandstone column erected by Emperor Ashoka in 249 BCE, inscribed with six royal pillar edicts in pristine Brahmi script.",
+      "hi": "**प्राचीन मौर्यकालीन विरासत (अशोक स्तंभ, अरेराज)**: 249 ईसा पूर्व में सम्राट अशोक द्वारा स्थापित 36 फीट ऊंचा चमकदार एकाश्म बलुआ पत्थर का स्तंभ, जिस पर प्राचीन ब्राह्मी लिपि में छह शाही धर्मादेश उत्कीर्ण हैं।"
+    },
+    {
+      "en": "**Revered Shaivite Pilgrimage (Baba Someshwar Nath Dham)**: An ancient Treta Yuga Shiva sanctuary in Areraj, revered as a wish-fulfilling shrine drawing over a million Kanwariyas during the sacred Shravani Mela.",
+      "hi": "**परम पावन शैव तीर्थ (बाबा सोमेश्वर नाथ धाम)**: अरेराज में स्थित त्रेतायुगीन स्वयंभू शिवलिंग धाम, जहाँ श्रावण मास के दौरान लाखों कांवड़िए पवित्र गंगाजल अर्पित कर मनोवांछित फल की कामना करते हैं।"
+    },
+    {
+      "en": "**International Literary Heritage (George Orwell's Birthplace)**: Preserves the colonial-era bungalow in Motihari where Eric Arthur Blair (George Orwell), author of *Animal Farm* and *1984*, was born in 1903.",
+      "hi": "**अंतरराष्ट्रीय साहित्यिक धरोहर (जॉर्ज ऑरवेल जन्मस्थली)**: मोतिहारी स्थित औपनिवेशिक काल का संरक्षित बंगला, जहाँ विश्वप्रसिद्ध उपन्यासकार जॉर्ज ऑरवेल (*एनिमल फार्म* और *1984* के रचयिता) का 1903 में जन्म हुआ था।"
+    },
+    {
+      "en": "**Gateway to Nepal & Terai Cross-Border Hub**: India's principal economic and logistics transit corridor to Kathmandu through Raxaul Integrated Check Post, anchored by the historic Motihari-Amlekhgunj petroleum pipeline.",
+      "hi": "**नेपाल का प्रवेश द्वार एवं अंतरराष्ट्रीय पारगमन केंद्र**: रक्सौल इंटीग्रेटेड चेक पोस्ट के माध्यम से भारत-नेपाल का मुख्य व्यापारिक व पारगमन गलियारा, जो मोतिहारी-अमलेखगंज सीमापार पाइपलाइन से सुसज्जित है।"
+    }
+  ],
+  "didYouKnow": [
+    {
+      "en": "The **Kesaria Stupa** in East Champaran, standing at an excavated height of 104 feet with a circular circumference of nearly 1,400 feet, is recognized as the tallest and largest ancient Buddhist stupa in the world, surpassing Java's renowned Borobudur stupa in circumference.",
+      "hi": "पूर्वी चंपारण का **केसरिया स्तूप** 104 फीट की उत्खनित ऊंचाई और करीब 1,400 फीट की परिधि के साथ विश्व का सबसे ऊंचा और विशाल प्राचीन बौद्ध स्तूप माना जाता है, जो परिधि के मामले में इंडोनेशिया के प्रसिद्ध बोरोबुदुर स्तूप से भी बड़ा है।"
+    },
+    {
+      "en": "It was in Motihari on April 18, 1917, that Mahatma Gandhi made his immortal declaration in court: *'I have disregarded the order, not for want of respect for lawful authority, but in obedience to the higher law of our being, the voice of conscience.'* This marked India's very first victory of non-violent civil disobedience.",
+      "hi": "18 अप्रैल 1917 को मोतिहारी अदालत में ही महात्मा गांधी ने ऐतिहासिक वक्तव्य दिया था: *'मैंने सरकारी आदेश की अवहेलना कानून के प्रति अनादर के कारण नहीं, बल्कि अपनी अंतरात्मा की सर्वोच्च आवाज के आदेश का पालन करते हुए की है।'* यह भारत में अहिंसक सविनय अवज्ञा की पहली ऐतिहासिक जीत थी।"
+    },
+    {
+      "en": "During the 1917 Champaran inquiry, a courageous local cook named **Batak Mian** saved Mahatma Gandhi's life by refusing to serve a glass of milk laced with poison ordered by a British planter, alerting Gandhi and suffering severe colonial retaliation.",
+      "hi": "1917 के चंपारण सत्याग्रह के दौरान मोतिहारी के एक देशभक्त रसोइये **बतख मियां** ने अंग्रेज नीलहे प्रबंधक इरविन द्वारा दिए गए विषैले दूध की साजिश को उजागर कर गांधीजी की जान बचाई थी, जिसके लिए उन्हें भारी यातनाएं और गरीबी झेलनी पड़ी।"
+    },
+    {
+      "en": "World-renowned English novelist **George Orwell** (Eric Arthur Blair), whose iconic dystopian masterpieces *Animal Farm* and *Nineteen Eighty-Four* coined terms like 'Big Brother' and 'Thought Police', was born in a colonial bungalow in Motihari on June 25, 1903.",
+      "hi": "विश्वप्रसिद्ध उपन्यासकार **जॉर्ज ऑरवेल** (एरिक आर्थर ब्लेयर), जिन्होंने *एनिमल फार्म* और *1984* जैसे कालजयी उपन्यासों में 'बिग ब्रदर' और 'थॉट पुलिस' जैसी अवधारणाएं दीं, का जन्म 25 जून 1903 को मोतिहारी के एक औपनिवेशिक बंगले में हुआ था।"
+    },
+    {
+      "en": "The globally acclaimed culinary delicacy **Champaran Ahuna Mutton** (slow-cooked with whole garlic cloves in sealed earthen pots over charcoal embers) originated in the village of Ghorasahan near Motihari in East Champaran before spreading across India.",
+      "hi": "समूचे लहसुन और सरसों तेल के साथ मिट्टी की हांडी में सील कर कोयले की धीमी आंच पर पकाया जाने वाला विश्वविख्यात **चंपारण अहुना मटन (हांडी मीट)** मूल रूप से पूर्वी चंपारण के घोड़ासहन गाँव से ही पूरे भारत में लोकप्रिय हुआ।"
+    },
+    {
+      "en": "South Asia's very first cross-border petroleum pipeline, the **Motihari-Amlekhgunj Pipeline** spanning 69 kilometers, connects the Indian Oil depot in Motihari to Nepal, supplying clean refined fuels directly across the international border since 2019.",
+      "hi": "दक्षिण एशिया की पहली सीमापार पेट्रोलियम पाइपलाइन, **मोतिहारी-अमलेखगंज पाइपलाइन** (लंबाई 69 किमी), मोतिहारी डिपो को सीधे नेपाल से जोड़ती है और 2019 से पड़ोसी देश को स्वच्छ ईंधन की निरंतर आपूर्ति कर रही है।"
+    },
+    {
+      "en": "The town of **Mehsi** in East Champaran is home to India's solitary mother-of-pearl button industry, founded in 1905 by Bhulawan Lal using freshwater oyster shells harvested from the local Sikrahna River.",
+      "hi": "पूर्वी चंपारण का **मेहसी** नगर भारत में सीप-बटन निर्माण का एकमात्र ऐतिहासिक केंद्र है, जिसे 1905 में स्थानीय सिकरहना नदी से निकाले गए प्राकृतिक सीपों (*मदर-ऑफ-पर्ल*) के उपयोग से शुरू किया गया था।"
+    }
+  ],
+  "sources": [
+    {
+      "title": "District Census Handbook: Purbi Champaran (Series 11, Part XII-A & B)",
+      "organization": "Directorate of Census Operations, Bihar, Ministry of Home Affairs, Government of India",
+      "url": "https://censusindia.gov.in/census.website/data/census-tables",
+      "year": 2011
+    },
+    {
+      "title": "Official Portal of East Champaran District (Motihari)",
+      "organization": "District Administration East Champaran, Government of Bihar",
+      "url": "https://eastchamparan.nic.in",
+      "year": 2024
+    },
+    {
+      "title": "Kesaria Stupa - Archaeological Survey of India",
+      "organization": "Archaeological Survey of India (ASI), Ministry of Culture, Government of India",
+      "url": "https://asi.nic.in",
+      "year": 2023
+    },
+    {
+      "title": "Lauriya Areraj Ashokan Pillar - Archaeological Survey of India",
+      "organization": "Archaeological Survey of India (ASI), Ministry of Culture, Government of India",
+      "url": "https://asi.nic.in",
+      "year": 2023
+    },
+    {
+      "title": "Destinations - East Champaran Tourism",
+      "organization": "Bihar State Tourism Development Corporation (BSTDC), Government of Bihar",
+      "url": "https://tourism.bihar.gov.in/en/destinations/east-champaran",
+      "year": 2024
+    },
+    {
+      "title": "Ground Water Information Booklet: East Champaran District, Bihar",
+      "organization": "Central Ground Water Board, Ministry of Water Resources, Government of India",
+      "url": "http://cgwb.gov.in",
+      "year": 2013
+    }
+  ],
+  "tourismThemes": [
+    "heritage",
+    "buddhist_pilgrimage",
+    "freedom_struggle",
+    "spiritual",
+    "literary_tourism",
+    "archaeological"
+  ],
+  "religiousAssociations": [
+    "buddhism",
+    "hinduism",
+    "shaivism",
+    "islam"
+  ],
+  "placeIds": [
+    "kesaria-stupa",
+    "gandhi-memorial-motihari",
+    "someshwar-nath-temple-areraj",
+    "ashokan-pillar-areraj",
+    "george-orwell-birthplace-motihari"
+  ],
+  "featuredPlaceIds": [
+    "kesaria-stupa",
+    "gandhi-memorial-motihari",
+    "someshwar-nath-temple-areraj",
+    "ashokan-pillar-areraj",
+    "george-orwell-birthplace-motihari"
+  ],
+  "nearbyDistrictIds": [
+    "west-champaran",
+    "gopalganj",
+    "muzaffarpur",
+    "sheohar",
+    "sitamarhi"
+  ],
+  "status": "published",
+  "verification": {
+    "status": "verified",
+    "lastVerifiedAt": "2026-09-19",
+    "sources": [
+      {
+        "name": "District Administration East Champaran",
+        "url": "https://eastchamparan.nic.in",
+        "type": "official"
+      },
+      {
+        "name": "Bihar State Tourism Development Corporation",
+        "url": "https://tourism.bihar.gov.in/en/destinations/east-champaran",
+        "type": "official"
+      },
+      {
+        "name": "Census of India 2011",
+        "url": "https://censusindia.gov.in",
+        "type": "government"
+      },
+      {
+        "name": "Archaeological Survey of India",
+        "url": "https://asi.nic.in",
+        "type": "government"
+      }
+    ]
+  }
+}

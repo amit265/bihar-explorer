@@ -1,0 +1,367 @@
+{
+  "id": "aurangabad",
+  "slug": "aurangabad",
+  "name": {
+    "en": "Aurangabad",
+    "hi": "औरंगाबाद"
+  },
+  "division": "Magadh",
+  "description": {
+    "en": "Celebrated as the 'Chittorgarh of Bihar' and the solar spiritual capital of Eastern India, Aurangabad unites the ancient westward-facing Deo Sun Temple, the enigmatic granite ruins of Umga Hills, the historic Daudnagar Fort along the Son, and the timeless 500-year-old Obra carpet weaving heritage.",
+    "hi": "बिहार के 'चित्तौड़गढ़' और पूर्वी भारत की सौर-आध्यात्मिक राजधानी के रूप में विख्यात औरंगाबाद जिला ऐतिहासिक पश्चिमाभिमुख देव सूर्य मंदिर, उमगा के पाषाण मंदिर खंडहरों, सोन तट पर स्थित दाउदनगर दुर्ग और विश्वप्रसिद्ध ओबरा कालीन शिल्प का अनूठा संगम है।"
+  },
+  "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+  "coordinates": {
+    "latitude": 24.7538,
+    "longitude": 84.3736
+  },
+  "tourismThemes": [
+    "sun_worship_heritage",
+    "religious_pilgrimage",
+    "historical_forts",
+    "archaeological_ruins",
+    "eco_hills",
+    "handloom_crafts"
+  ],
+  "religiousAssociations": [
+    "hinduism",
+    "islam",
+    "jainism"
+  ],
+  "placeIds": [
+    "deo-sun-temple",
+    "umga-hills",
+    "daudnagar-fort"
+  ],
+  "featuredPlaceIds": [
+    "deo-sun-temple",
+    "umga-hills",
+    "daudnagar-fort"
+  ],
+  "nearbyDistrictIds": [
+    "gaya",
+    "rohtas",
+    "arwal",
+    "jehanabad"
+  ],
+  "status": "published",
+  "verification": {
+    "status": "verified",
+    "lastVerifiedAt": "2026-09-19",
+    "sources": [
+      {
+        "name": "District Administration Aurangabad Official Portal",
+        "url": "https://aurangabad.bih.nic.in",
+        "type": "government"
+      },
+      {
+        "name": "Census of India 2011",
+        "url": "https://censusindia.gov.in",
+        "type": "official"
+      },
+      {
+        "name": "Bihar Tourism Official Portal",
+        "url": "https://tourism.bihar.gov.in",
+        "type": "government"
+      }
+    ]
+  },
+  "overview": {
+    "en": "Epitomized as the **'Chittorgarh of Bihar'** (*बिहार का चित्तौड़गढ़*) and the preeminent spiritual capital of solar worship in Eastern India, **Aurangabad district** lies nestled in southwestern Bihar within the historic Magadh division. Flanked by the broad golden waters of the Son River to the west and the forested hills of the Chota Nagpur fringes to the south, the district bridges epic mythology, architectural marvels, and modern industrial vitality.\n\nAurangabad is internationally revered for the monumental **Deo Sun Temple** (*देव सूर्य मंदिर*), an eighth-century architectural masterpiece celebrated for its rare westward-facing sanctum and unmatched prominence during the sacred **Chhath Mahaparv**. Beyond Deo, the district encompasses the ancient rock-cut sanctums of **Umga Hills**, the seventeenth-century riverside ramparts of **Daudnagar Fort**, and the legendary literary soil of Piru—the birthplace of classical Sanskrit poet **Banbhatta**.\n\nToday, while preserving centuries-old handloom arts like the renowned **Obra carpets**, Aurangabad has surged forward as the **'Power Capital of Bihar'**, anchored by the massive **Nabinagar Super Thermal Power Project**, dynamic agro-processing corridors, and vital transportation lifelines along the Grand Trunk Road.",
+    "hi": "बिहार के **'चित्तौड़गढ़'** और पूर्वी भारत में सूर्योपासना के महानतम आध्यात्मिक केंद्र के रूप में सुविख्यात **औरंगाबाद जिला** मगध प्रमंडल के अंतर्गत दक्षिण-पश्चिमी बिहार में स्थित है। पश्चिम में जीवनदायिनी सोन नदी की स्वर्णिम रेतीली धारा और दक्षिण में छोटानागपुर पठार की वनाच्छादित पहाड़ियों से घिरा यह क्षेत्र पौराणिक आस्था, पुरातात्विक वैभव और आधुनिक ऊर्जा क्रांति का अप्रतिम संगम है।\n\nयह जिला अपने 8वीं-15वीं शताब्दी के ऐतिहासिक **देव सूर्य मंदिर** के लिए विश्वप्रसिद्ध है, जिसका दुर्लभ पश्चिमाभिमुख गर्भगृह और महाकाय नागर शिखर लोक आस्था के महापर्व **छठ** का वैश्विक केंद्र बनता है। इसके अतिरिक्त, **उमगा हिल्स** के शैलकर्तित वैष्णव व शैव मंदिर खंडहर, सोन तट पर स्थित 17वीं सदी का **दाउदनगर किला**, तथा संस्कृत के महाकवि **बाणभट्ट** की पावन जन्मस्थली 'पीरू' (प्रीतिकूटा) इसकी युगीन ऐतिहासिक गरिमा को सिद्ध करते हैं।\n\nअपनी सदियों पुरानी प्रसिद्ध **ओबरा कालीन व दरी बुनाई** की दस्तकारी परंपरा को सहेजने के साथ-साथ औरंगाबाद आज **नवीनगर सुपर थर्मल पावर प्रोजेक्ट** के जरिए **'बिहार की ऊर्जा राजधानी'** बनकर उभरा है, जहां ऐतिहासिक ग्रांड ट्रंक रोड (NH-19) और सोन नहर प्रणाली विकास के नए क्षितिज रच रहे हैं।"
+  },
+  "history": {
+    "en": "The historical chronicle of **Aurangabad** embodies an inspiring trajectory bridging classical antiquity, medieval chivalry, and resolute anti-colonial uprisings:\n\n- **Ancient Era & Magadhan Roots**: Integral to the imperial fabric of ancient Magadha, the district witnessed the flourishing of Vedic traditions and early Buddhist and Jain pilgrim trails. The ancient village of **Piru** (historical *Pritikoota*) in Haspura is renowned as the ancestral birthplace of the legendary 7th-century Sanskrit poet **Banbhatta**, court poet to Emperor Harshavardhana and author of *Harshacharita* and *Kadambari*.\n- **Medieval Shrines & The Solar Cult**: Between the 8th and 15th centuries, the powerful Chandravanshi rulers, notably King **Bhairavendra Singh**, consecrated monumental monolithic shrines. They erected the west-facing **Deo Sun Temple** and the 52-temple granite complex atop **Umga Hills**, establishing an enduring legacy of Sun and Vishnu veneration.\n- **Mughal Rule & Daudnagar**: During the reign of Mughal Emperor Aurangzeb, Governor of Bihar **Daud Khan Quraishi** founded the fortified riverside town of **Daudnagar** in 1664 CE, erecting robust stone garrisons along the Son River to secure strategic trans-provincial waterways.\n- **Feudal Chivalry & 1781 Rebellion**: Known as the 'Chittorgarh of Bihar' due to its fierce Rajput estates—including Deo, Pawai, Siris, Chandragarh, and Kutumba—the region resisted external domination. In 1781, **Raja Narayan Singh** of Pawai and Siris mobilized 1,500 armed fighters against the British East India Company in support of Raja Chait Singh of Benares, mounting one of India's earliest armed struggles against colonial taxation.\n- **Freedom Movement**: During the national struggle, Aurangabad birthed illustrious statesman **Dr. Anugrah Narayan Sinha ('Bihar Vibhuti')**, who organized the historic 1917 Champaran Satyagraha alongside Mahatma Gandhi, helped draft the Indian Constitution, and served as independent Bihar's first Deputy Chief Minister.",
+    "hi": "औरंगाबाद का ऐतिहासिक परिदृश्य प्राचीन वैदिक ज्ञान, मध्ययुगीन शौर्य और ब्रिटिश हुकूमत के विरुद्ध मुखर स्वतंत्रता संग्राम की गौरवशाली गाथा प्रस्तुत करता है:\n\n- **प्राचीन काल एवं साहित्यिक वैभव**: प्राचीन मगध साम्राज्य का अभिन्न अंग रहे इस क्षेत्र की भूमि ज्ञान और अध्यात्म की संवाहिका रही है। हसपुरा प्रखंड का **पीरू** गांव (प्राचीन *प्रीतिकूटा*) सातवीं शताब्दी के महान संस्कृत महाकवि **बाणभट्ट** की जन्मस्थली है, जिन्होंने सम्राट हर्षवर्धन के राजकवि के रूप में कालजयी कृतियों *हर्षचरित* और *कादंबरी* की रचना की।\n- **मध्यकालीन राजवंश एवं सौर उपासना**: 8वीं से 15वीं शताब्दी के मध्य चंद्रवंशी शासक **राजा भैरवेंद्र सिंह** और क्षेत्रीय राजाओं ने भव्य पाषाण मंदिरों की स्थापना की। उन्होंने **देव सूर्य मंदिर** तथा **उमगा पर्वत** पर 52 मंदिरों के विशाल समूह का निर्माण कराकर दक्षिण बिहार में सौर व वैष्णव उपासना की गहरी नींव रखी।\n- **मुगल काल एवं दाउदनगर की स्थापना**: मुगल सम्राट औरंगजेब के शासनकाल में बिहार के सूबेदार **दाऊद खान कुरैशी** ने 1664 ईस्वी में सोन नदी के किनारे सामरिक दृष्टिकोण से **दाउदनगर** नगर और दुर्ग की नींव रखी, जिसने व्यापारिक जलमार्गों की सुरक्षा में प्रमुख भूमिका निभाई।\n- **1781 का विद्रोह एवं चित्तौड़गढ़ उपनाम**: देव, पवई, सिरिस और कुटुंबा के राजपूत जमींदारों के अदम्य साहस और युद्धक परंपरा के कारण इसे 'बिहार का चित्तौड़गढ़' कहा गया। 1781 में बनारस के राजा चेत सिंह के समर्थन में सिरिस-पवई के **राजा नारायण सिंह** ने 1,500 बंदूकधारियों के साथ ईस्ट इंडिया कंपनी के विरुद्ध खुला सशस्त्र विद्रोह कर दिया था।\n- **भारतीय स्वाधीनता संग्राम**: स्वतंत्रता आंदोलन में औरंगाबाद की माटी ने महान राष्ट्रनायक **डॉ. अनुग्रह नारायण सिन्हा ('बिहार विभूति')** को जन्म दिया। गांधीजी के साथ 1917 के चंपारण सत्याग्रह से लेकर संविधान सभा तक उन्होंने अग्रणी भूमिका निभाई और स्वतंत्र बिहार के प्रथम उप-मुख्यमंत्री व वित्त मंत्री बने।"
+  },
+  "geography": {
+    "location": {
+      "en": "Situated in the southwestern part of Bihar between latitudes 24°30' N and 25°15' N and longitudes 84°00' E and 84°45' E, occupying a pivotal transition zone between the fertile Gangetic plain and the northern scarps of the Chota Nagpur Plateau.",
+      "hi": "दक्षिण-पश्चिमी बिहार में 24°30' उत्तरी से 25°15' उत्तरी अक्षांश तथा 84°00' पूर्वी से 84°45' पूर्वी देशांतर के मध्य स्थित, जो उपजाऊ गंगा के मैदान और छोटानागपुर पठार के उत्तरी कगारों के संक्रमण क्षेत्र में विस्तृत है।"
+    },
+    "areaSqKm": 3305,
+    "boundaries": {
+      "en": "Bounded by Arwal and Jehanabad districts to the north, Gaya district to the east, the Son River separating it from Rohtas district to the west, and Palamu and Chatra districts of Jharkhand to the south.",
+      "hi": "उत्तर में अरवल और जहानाबाद जिले, पूर्व में गया जिला, पश्चिम में सोन नदी द्वारा विभाजित रोहतास जिला तथा दक्षिण में झारखंड राज्य के पलामू और चतरा जिले इसकी सीमाओं का निर्धारण करते हैं।"
+    },
+    "physiography": {
+      "en": "Characterized by a dual geomorphological landscape: the northern and central belts consist of flat, fertile alluvial plains nurtured by the Son and Punpun river systems; the southern fringe near Madanpur, Deo, and Kutumba merges into rocky gneissic hillocks and residual Vindhyan-Chota Nagpur plateau spurs, including the Umga and Pawai hills.",
+      "hi": "जिले की भू-आकृति में दोहरा प्राकृतिक स्वरूप झलकता है: उत्तरी एवं मध्यवर्ती भाग सोन और पुनपुन नदी तंत्र द्वारा निर्मित समतल, उपजाऊ जलोढ़ मैदान हैं; जबकि मदनपुर, देव और कुटुंबा से सटा दक्षिणी सीमांत क्षेत्र छोटानागपुर पठार की अवशिष्ट चट्टानी पहाड़ियों, कगारों और उमगा हिल्स जैसी ग्रेनाइट श्रेणियों में बदल जाता है।"
+    },
+    "climate": {
+      "en": "Experiences a humid subtropical continental climate marked by hot, arid summers (March to June) with temperatures often reaching 44°C accompanied by dry 'Loo' winds; a monsoon period (July to September) with an average annual rainfall of approximately 950–1,050 mm; and pleasant, temperate winters (November to February) with temperatures dipping to 8°C–10°C.",
+      "hi": "उपोष्णकटिबंधीय महाद्वीपीय जलवायु, जिसमें अत्यंत गर्म व शुष्क ग्रीष्म ऋतु (मार्च से जून) में तापमान 44°C तक पहुंच जाता है और गर्म 'लू' चलती है; वर्षा ऋतु (जुलाई से सितंबर) में लगभग 950 से 1,050 मिमी की औसत वार्षिक वर्षा होती है; तथा शीत ऋतु (नवंबर से फरवरी) सुखद व शीतल होती है जहां पारा 8°C से 10°C तक गिरता है।"
+    },
+    "rivers": [
+      {
+        "name": {
+          "en": "Son River",
+          "hi": "सोन नदी"
+        },
+        "description": {
+          "en": "A magnificent perennial river marking the entire western frontier of the district; famous for its sparkling, coarse quartz sand ('Son Balu') widely utilized across eastern India, and feeding vital irrigation arteries through the Son Canal System.",
+          "hi": "जिले की संपूर्ण पश्चिमी सीमा तय करने वाली महान बारहमासी नदी; अपनी उच्च गुणवत्ता वाली सुनहरी सिलिका रेत ('सोन बालू') के लिए प्रसिद्ध और सोन नहर प्रणाली के माध्यम से कृषि को जीवनदान देने वाली प्रमुख जलधारा।"
+        }
+      },
+      {
+        "name": {
+          "en": "Punpun River",
+          "hi": "पुनपुन नदी"
+        },
+        "description": {
+          "en": "Originating in the Palamu uplands, this spiritually sacred river traverses north-eastward across Aurangabad, flowing through Obra and Daudnagar blocks before heading toward the Ganges; revered in Hindu tradition for early ancestor rites (*Pind Daan*).",
+          "hi": "पलामू उच्चभूमि से निकलकर औरंगाबाद जिले के ओबरा और दाउदनगर प्रखंडों से होकर उत्तर-पूर्व दिशा में गंगा की ओर बहने वाली पवित्र नदी; हिंदू परंपरा में पितृपक्ष और पिंडदान के लिए धार्मिक रूप से अत्यंत पूजनीय।"
+        }
+      },
+      {
+        "name": {
+          "en": "Adri River",
+          "hi": "अद्री नदी"
+        },
+        "description": {
+          "en": "A significant regional tributary that flows past Aurangabad town and merges into the Punpun drainage basin, serving as a historic lifeline for town drainage and local agrarian tracts.",
+          "hi": "औरंगाबाद नगर के किनारे से होकर बहने वाली महत्वपूर्ण स्थानीय नदी जो आगे चलकर पुनपुन नदी में विलीन हो जाती है; यह नगर के अपवाह और समीपवर्ती खेतों के लिए ऐतिहासिक जलस्रोत रही है।"
+        }
+      },
+      {
+        "name": {
+          "en": "Batane River",
+          "hi": "बटाने नदी"
+        },
+        "description": {
+          "en": "Flowing through the southern hilly tracts from Jharkhand into Aurangabad, this tributary feeds the inter-state Batane Reservoir Project, providing essential irrigation to drought-prone southern blocks.",
+          "hi": "झारखंड की सीमा से निकलकर दक्षिणी औरंगाबाद में प्रवेश करने वाली पुनपुन की सहायक नदी; इस पर निर्मित बटाने जलाशय परियोजना सूखे की मार झेलने वाले दक्षिणी प्रखंडों को महत्वपूर्ण सिंचाई सुविधा प्रदान करती है।"
+        }
+      },
+      {
+        "name": {
+          "en": "Morhar & Auranga Rivers",
+          "hi": "मोरहर एवं औरंगा नदियां"
+        },
+        "description": {
+          "en": "Plateau-fed seasonal rivers meandering through eastern and central rural pockets, contributing significantly to ground recharge and agrarian irrigation during the monsoon.",
+          "hi": "जिले के पूर्वी और मध्यवर्ती ग्रामीण अंचलों से होकर बहने वाली मौसमी नदियां, जो वर्षा काल में भूजल पुनर्भरण और खरीफ फसलों की सिंचाई में सहायक बनती हैं।"
+        }
+      }
+    ]
+  },
+  "demographics": {
+    "population": {
+      "value": 2540073,
+      "year": 2011,
+      "source": "Census of India 2011"
+    },
+    "density": {
+      "value": 769,
+      "year": 2011
+    },
+    "literacyRate": {
+      "value": 70.32,
+      "year": 2011
+    },
+    "sexRatio": {
+      "value": 926,
+      "year": 2011
+    }
+  },
+  "administration": {
+    "headquarters": {
+      "en": "Aurangabad",
+      "hi": "औरंगाबाद"
+    },
+    "subdivisions": 2,
+    "blocks": 11,
+    "villages": 1712,
+    "asOf": "Census 2011 / District Administration Aurangabad"
+  },
+  "economy": {
+    "description": {
+      "en": "The economy of Aurangabad district is anchored by a dynamic blend of mega thermal power infrastructure, extensive canal-irrigated agriculture, mineral and sand extraction, and traditional handloom craft clusters:\n\n- **Power Generation Hub**: Aurangabad houses two massive central power projects in Nabinagar—the **Nabinagar Super Thermal Power Project (NPGC - 1,980 MW)** under NTPC and the **Bhartiya Rail Bijlee Company Limited (BRBCL - 1,000 MW)** joint venture with Indian Railways—making the district the prime electricity powerhouse of Bihar.\n- **Son Sand Mining**: Riverbed sand dredging along the Son River represents a multimillion-rupee economic engine, providing foundational building materials across Bihar, Jharkhand, and Uttar Pradesh.\n- **Agro-Commodity Trade & Milling**: Strategically situated along NH-19 and the Eastern Dedicated Freight Corridor, the district thrives on extensive foodgrain trade, modern automated rice mills, and pulse processing units.",
+      "hi": "औरंगाबाद जिले की अर्थव्यवस्था वृहद ताप विद्युत उत्पादन, सोन नहर सिंचित कृषि, नदी बालू खनन तथा पारंपरिक हथकरघा दस्तकारी का एक सुदृढ़ आधार प्रस्तुत करती है:\n\n- **बिहार का ऊर्जा केंद्र**: औरंगाबाद के नवीनगर में दो विशाल ताप विद्युत परियोजनाएं स्थापित हैं—एनटीपीसी का **नवीनगर सुपर थर्मल पावर प्रोजेक्ट (NPGC - 1,980 मेगावाट)** तथा भारतीय रेलवे के सहयोग से संचालित **भारतीय रेल बिजली कंपनी लिमिटेड (BRBCL - 1,000 मेगावाट)**, जिसने जिले को पूरे बिहार की विद्युत आपूर्ति का प्रमुख आधार बना दिया है।\n- **सोन बालू खनन उद्योग**: सोन नदी तट पर उच्च गुणवत्ता वाली पीली बालू का बड़े पैमाने पर खनन और परिवहन एक प्रमुख आर्थिक गतिविधि है, जो संपूर्ण उत्तर भारत के निर्माण क्षेत्र की रीढ़ है।\n- **कृषि व्यापार एवं राइस मिल्स**: जीटी रोड (NH-19) और ईस्टर्न फ्रेट कॉरिडोर के निकट होने के कारण यहां खाद्यान्न व्यापार, आधुनिक स्वचालित चावल मिलें और दाल प्रसंस्करण इकाइयां बड़े पैमाने पर कार्यरत हैं।"
+    },
+    "majorIndustries": {
+      "en": "- **Thermal Power Generation**: NTPC NPGC (1,980 MW) and BRBCL (1,000 MW) at Nabinagar supplying power to Bihar and Indian Railways.\n- **Handloom & Carpet Manufacturing**: Globally acclaimed **Obra Carpet & Durry Cluster**, celebrated for hand-knotted woollen carpets, durries, and blankets.\n- **Building Materials & Cement**: Cement grinding units (including Shree Cement operations), stone aggregate crushing along the southern hills, and river sand excavation.\n- **Agro-Processing**: Modern rice mills in Daudnagar, Obra, and Aurangabad Sadar; flour mills, and mustard oil expellers.\n- **Pilgrimage & Heritage Tourism**: High-volume seasonal hospitality and pilgrim services driven by Chhath Puja at Deo, Umga Hills, and Amjhar Sharif.",
+      "hi": "- **थर्मल पावर उत्पादन**: नवीनगर में एनटीपीसी (NPGC - 1,980 MW) तथा भारतीय रेल बिजली कंपनी (BRBCL - 1,000 MW) के मेगा विद्युत संयंत्र।\n- **हथकरघा एवं कालीन उद्योग**: विश्वविख्यात **ओबरा कालीन व दरी क्लस्टर**, जो शुद्ध ऊनी हाथ से बुने गए कालीनों, दरियों और गर्म कंबलों के लिए जाना जाता है।\n- **सीमेंट एवं निर्माण सामग्री**: सीमेंट ग्राइंडिंग इकाइयां (श्री सीमेंट संयंत्र आदि), दक्षिणी पहाड़ियों पर स्टोन क्रशर तथा सोन नदी से रेत उत्खनन।\n- **कृषि प्रसंस्करण**: दाउदनगर, ओबरा और औरंगाबाद सदर में आधुनिक चावल मिलें, फ्लोर मिल्स और सरसों तेल पेराई उद्योग।\n- **धार्मिक एवं विरासत पर्यटन**: देव सूर्य मंदिर में छठ महापर्व, उमगा हिल्स और अमझर शरीफ पर केंद्रित होटल, परिवहन और तीर्थ सेवा उद्योग।"
+    }
+  },
+  "agriculture": {
+    "description": {
+      "en": "Agriculture forms the foundational socioeconomic backbone of Aurangabad, engaging over 65% of the working population:\n\n- **Irrigation Network**: Agrarian productivity is spearheaded by the **Son High Level Canal** and Eastern Son Canal networks fed by the Indrapuri Barrage, transforming the northern and western blocks (Barun, Daudnagar, Obra) into lush green belts.\n- **Drought-Resilient Southern Agriculture**: Southern blocks (Madanpur, Deo, Kutumba) leverage the Batane reservoir system, minor check dams, and tube-wells, cultivating robust pulses and oilseeds.\n- **High Cropping Intensity**: Double cropping of Kharif paddy followed by Rabi wheat and mustard ensures substantial foodgrain surpluses channeled through agricultural mandis.",
+      "hi": "कृषि औरंगाबाद जिले की सामाजिक-आर्थिक रीढ़ है, जो 65% से अधिक कार्यशील आबादी को आजीविका प्रदान करती है:\n\n- **सोन नहर प्रणाली का वरदान**: इंद्रपुरी बैराज से निकलने वाली उच्च स्तरीय सोन नहर (Son High Level Canal) और पूर्वी सोन नहर प्रणाली जिले के उत्तरी और पश्चिमी प्रखंडों (बारून, दाउदनगर, ओबरा) को सुनिश्चित सिंचाई प्रदान करती हैं।\n- **दक्षिणी प्रखंडों में विविधता**: कम वर्षा वाले दक्षिणी प्रखंड (मदनपुर, देव, कुटुंबा) बटाने जलाशय और नलकूपों के माध्यम से दलहन और तिलहन की समृद्ध खेती करते हैं।\n- **सघन फसल चक्र**: खरीफ में धान और रबी में गेहूं व सरसों का दोहरा चक्र किसानों को उच्च पैदावार और बाजार में अधिशेष खाद्यान्न उपलब्ध कराता है।"
+    },
+    "majorCrops": {
+      "en": "- **Cereals**: Paddy (staple Kharif crop including Sonam, Katarni, and hybrid varieties), Wheat (dominant Rabi crop), and Maize.\n- **Pulses**: Gram (Chana), Lentil (Masoor), Pigeon Pea (Arhar), and Green Gram (Moong).\n- **Oilseeds & Cash Crops**: Mustard, Rapeseed, Linseed (Tisi), and Sugarcane.\n- **Horticultural Produce**: Mango, Guava, pointed gourd (Parwal), seasonal vegetables, and potato.",
+      "hi": "- **अनाज**: धान (खरीफ की प्रमुख फसल - सोनम, कतरनी व हाइब्रिड किस्में), गेहूं (रबी की शीर्ष फसल) और मक्का।\n- **दलहन**: चना, मसूर, अरहर (तूर) और मूंग।\n- **तिलहन एवं नकदी फसलें**: सरसों, तोरिया, तीसी और गन्ना।\n- **बागवानी एवं सब्जियां**: आम, अमरूद, परवल, मौसमी हरी सब्जियां और आलू।"
+    }
+  },
+  "culture": {
+    "festivals": {
+      "en": "- **Chhath Mahaparv at Deo**: The crowning cultural and spiritual celebration of Aurangabad; millions of devout pilgrims from across India converge at Deo Sun Temple and its holy Surya Kund during Kartik and Chaitra Chhath to offer *Arghya* to the Sun God.\n- **Maha Shivratri at Umga**: Grand annual fair and night-long devotional vigil held across the ancient granite shrines and caves of Umga Hills.\n- **Urs-e-Sharif at Amjhar Sharif**: Reverent annual Sufi congregation honoring Hazrat Syedana Mohammad Jilani Amjhari R.A. in Haspura block, drawing pilgrims of all faiths in celebration of syncretic harmony.\n- **Surya Mahotsav (Deo)**: An official annual state cultural festival organized by the Department of Tourism and District Administration at Deo, showcasing classical music, dance, and Bihari folk art.\n- **Makar Sankranti & Durga Puja**: Celebrated with community feasting of Chuda-Dahi-Tilkut, followed by vibrant Durga Puja pandals in Aurangabad city and Daudnagar.",
+      "hi": "- **देव छठ महापर्व**: औरंगाबाद का सबसे बड़ा आध्यात्मिक और सांस्कृतिक उत्सव; कार्तिक और चैत्र छठ में देश भर से लाखों श्रद्धालु देव सूर्य मंदिर और पवित्र सूर्य कुंड के तट पर अस्ताचलगामी व उदीयमान सूर्य को अर्घ्य अर्पित करने आते हैं।\n- **उमगा महाशिवरात्रि मेला**: उमगा पर्वत के ऐतिहासिक पाषाण मंदिरों और गुफाओं में आयोजित होने वाला विशाल वार्षिक मेला और अखंड शिव आराधना।\n- **अमझर शरीफ का उर्स**: हसपुरा प्रखंड स्थित हजरत सैय्यदना मोहम्मद जिलानी अमझरी रहमतुल्लाह अलैह की दरगाह पर आयोजित सालाना उर्स, जो गंगा-जमुनी तहज़ीब और कौमी एकता का अनुपम प्रतीक है।\n- **देव सूर्य महोत्सव**: पर्यटन विभाग एवं जिला प्रशासन द्वारा देव में आयोजित आधिकारिक सांस्कृतिक महोत्सव, जिसमें राष्ट्रीय स्तर के शास्त्रीय संगीतकार, नर्तक और लोक कलाकार भाग लेते हैं।\n- **मकर संक्रांति एवं दुर्गा पूजा**: चूड़ा-दही और तिलकुट के पारंपरिक भोज के साथ मकर संक्रांति तथा औरंगाबाद नगर व दाउदनगर में भव्य पंडालों के साथ दुर्गा पूजा का उल्लास।"
+    },
+    "artAndCrafts": {
+      "en": "- **Obra Carpet & Blanket Weaving (ओबरा कालीन)**: A legendary 500-year-old weaving craft where master weavers create hand-knotted woollen carpets, durries, and traditional blankets with Indo-Persian and floral geometric motifs.\n- **Stone Sculpting & Rock Masonry**: Centuries-old stone carving traditions inherited from the artisans who chiseled the monolithic Deo and Umga shrines from hard granite.\n- **Magahi Folk Music & Traditions**: Heartfelt performances of Magahi folk ballads, *Sohar*, *Chhath Geet*, *Alha-Udal*, and *Biraha* deeply embedded in pastoral rhythms.\n- **Sikki Grass & Bamboo Craft**: Rural craftswomen weave eco-friendly household containers, decorative baskets, and traditional trinkets from golden wild sikki grass.",
+      "hi": "- **ओबरा के कालीन एवं दरी शिल्प**: 500 वर्ष से अधिक पुरानी हस्तशिल्प परंपरा, जहां कुशल बुनकर शुद्ध ऊन से हाथ की गांठों द्वारा फारसी व भारतीय ज्यामितीय डिजाइनों के बेजोड़ कालीन, दरियां और पारंपरिक गर्म कंबल तैयार करते हैं।\n- **पत्थर तराशी एवं पाषाण स्थापत्य कला**: देव और उमगा के विशाल ग्रेनाइट मंदिरों के निर्माण से जुड़ी प्राचीन पाषाण शिल्पकला, जो आज भी स्थानीय मूर्तिकारों में जीवित है।\n- **मगही लोक संगीत एवं संस्कृति**: मगही बोली में गाए जाने वाले पारंपरिक *सोहर*, *छठ गीत*, *आल्हा-ऊदल* की गाथाएं और *बिरहा* जो ग्रामीण जीवन और त्योहारों में गूंजते हैं।\n- **सिक्की व बांस शिल्प**: ग्रामीण महिलाओं द्वारा सुनहरी प्राकृतिक सिक्की घास और स्थानीय बांस से मौनी, डलिया और सुंदर सजावटी कलाकृतियों का निर्माण।"
+    },
+    "food": {
+      "en": "- **Litti Chokha**: Iconic whole wheat dumplings roasted over charcoal cow-dung ember, stuffed with spicy roasted gram flour (sattu), drenched in pure desi ghee, and paired with roasted brinjal-tomato chokha.\n- **Amba ki Gud Mithai**: The famous jaggery-based melt-in-mouth confection crafted in Amba village, celebrated across Magadh for its rich caramelized taste.\n- **Thekua & Pua**: Divine festival cookies crafted from whole wheat flour, ghee, cardamom, fennel, and jaggery or sugar, offered as pristine Prasad during Chhath.\n- **Sattu Refresher & Parathas**: Protein-packed savory drink blending chilled water, roasted gram flour, roasted cumin, black salt, and lemon, alongside crisp sattu-stuffed griddled parathas.\n- **Khaja & Tilkut**: Flaky multi-layered sweet pastry (Khaja) and beaten sesame-jaggery wafers (Tilkut) popular across the district.",
+      "hi": "- **लिट्टी चोखा**: उपलों की आंच पर सेकी गई, भुने चने के सत्तू और देसी मसालों से भरी गेहूं की लिट्टी, जिसे शुद्ध देसी घी में डुबोकर भुने हुए बैंगन-टमाटर के चोखे के साथ परोसा जाता है।\n- **अंबा की गुड़ की मिठाई**: कुटुंबा प्रखंड के अंबा गांव की सुप्रसिद्ध गुड़ आधारित पारंपरिक मिठाई, जो अपने अनूठे सोंधे स्वाद और शुद्धता के लिए पूरे मगध में लोकप्रिय है।\n- **ठेकुआ एवं पुआ**: गेहूं के आटे, देसी घी, गुड़, सौंफ और सूखे मेवों से बना पावन पारंपरिक पकवान, जो छठ महापर्व का मुख्य महाप्रसाद है।\n- **सत्तू का शरबत एवं पराठा**: भुने चने के सत्तू, भुना जीरा, काला नमक और नींबू के रस से बना प्राकृतिक ऊर्जादायक पेय तथा खस्ता सत्तू भरवां पराठा।\n- **खाजा एवं तिलकुट**: कई परतों वाला कुरकुरा खाजा तथा मकर संक्रांति पर विशेष रूप से खाया जाने वाला तिल और गुड़ से निर्मित प्रसिद्ध तिलकुट।"
+    }
+  },
+  "transport": {
+    "road": {
+      "en": "Superlative highway connectivity dominated by **National Highway 19 (NH-19 / Golden Quadrilateral / Old Grand Trunk Road)** cutting directly east-west across Aurangabad city, connecting to Kolkata, Varanasi, and New Delhi. **NH-139** provides vital four-lane north-south connectivity linking Patna through Daudnagar and Aurangabad to Hariharganj (Jharkhand border). State Highways SH-68 and SH-69 interconnect all inner administrative blocks.",
+      "hi": "जिले में उत्कृष्ट सड़क कनेक्टिविटी उपलब्ध है, जिसका मुख्य आधार **राष्ट्रीय राजमार्ग 19 (NH-19 / स्वर्णिम चतुर्भुज / ऐतिहासिक जीटी रोड)** है जो औरंगाबाद नगर के मध्य से गुजरते हुए इसे सीधे कोलकाता, वाराणसी और नई दिल्ली से जोड़ता है। **NH-139** उत्तर-दक्षिण दिशा में पटना को दाउदनगर और औरंगाबाद होते हुए हरिहरगंज (झारखंड सीमा) से जोड़ता है। इसके अतिरिक्त राजकीय राजमार्ग SH-68 और SH-69 सभी प्रखंडों को बारहमासी संपर्क प्रदान करते हैं।"
+    },
+    "railway": {
+      "en": "The district is served primarily by **Anugrah Narayan Road Railway Station (AUBR)** situated on the high-speed Grand Chord section of East Central Railway (Pt. Deen Dayal Upadhyaya – Gaya – Dhanbad – Howrah mainline), located roughly 14 km from Aurangabad town. Additionally, **Rafiganj Railway Station (RFJ)** serves the eastern sector. Numerous superfast, express, and Rajdhani services provide round-the-clock connectivity to Delhi, Kolkata, Mumbai, Patna, and Ranchi.",
+      "hi": "जिले का मुख्य रेलवे स्टेशन **अनुग्रह नारायण रोड (AUBR)** है, जो पूर्व मध्य रेलवे के व्यस्ततम ग्रैंड कॉर्ड रेलखंड (पंडित दीनदयाल उपाध्याय – गया – धनबाद – हावड़ा मुख्य लाइन) पर औरंगाबाद शहर से लगभग 14 किमी दूर स्थित है। इसके अतिरिक्त पूर्व में **रफीगंज रेलवे स्टेशन (RFJ)** प्रमुख ठहराव है। यहां से राजधानी, सुपरफास्ट और एक्सप्रेस ट्रेनों द्वारा दिल्ली, कोलकाता, मुंबई, पटना और रांची के लिए निरंतर उत्कृष्ट रेल सेवा उपलब्ध है।"
+    },
+    "airport": {
+      "en": "The nearest operational commercial airport is **Gaya Airport (GAY)**, situated approximately 70 km east via NH-19, offering seasonal international Buddhist charters and domestic connections. **Lal Bahadur Shastri International Airport (VNS)** in Varanasi is situated roughly 150 km west via NH-19, while Patna's **Jay Prakash Narayan International Airport (PAT)** lies about 140 km north via NH-139.",
+      "hi": "निकटतम वाणिज्यिक हवाई अड्डा **गया हवाई अड्डा (GAY)** है, जो NH-19 के रास्ते लगभग 70 किमी पूर्व में स्थित है, जहां से मौसमी अंतर्राष्ट्रीय और घरेलू उड़ानें संचालित होती हैं। इसके अतिरिक्त लगभग 150 किमी पश्चिम में वाराणसी का **लाल बहादुर शास्त्री अंतर्राष्ट्रीय हवाई अड्डा (VNS)** तथा लगभग 140 किमी उत्तर में पटना का **जयप्रकाश नारायण अंतर्राष्ट्रीय हवाई अड्डा (PAT)** स्थित है।"
+    }
+  },
+  "importantPersonalities": [
+    {
+      "name": {
+        "en": "Dr. Anugrah Narayan Sinha",
+        "hi": "डॉ. अनुग्रह नारायण सिन्हा"
+      },
+      "association": {
+        "en": "Eminent nationalist stalwart, core organizer of the 1917 Champaran Satyagraha with Mahatma Gandhi, member of the Constituent Assembly, and the first Deputy Chief Minister cum Finance Minister of independent Bihar (1946–1957); revered as 'Bihar Vibhuti'.",
+        "hi": "महान स्वतंत्रता सेनानी, गांधीजी के साथ 1917 के ऐतिहासिक चंपारण सत्याग्रह के प्रमुख सूत्रधार, भारतीय संविधान सभा के सदस्य तथा स्वतंत्र बिहार के प्रथम उप-मुख्यमंत्री सह वित्त मंत्री (1946–1957); जिन्हें 'बिहार विभूति' के रूप में पूजा जाता है।"
+      }
+    },
+    {
+      "name": {
+        "en": "Banbhatta",
+        "hi": "महाकवि बाणभट्ट"
+      },
+      "association": {
+        "en": "Legendary 7th-century Sanskrit prose poet and Asthana Kavi to Emperor Harshavardhana, author of classical Sanskrit masterworks Harshacharita and Kadambari; born in the ancient village of Pritikoota (modern Piru in Aurangabad).",
+        "hi": "सातवीं शताब्दी के मूर्धन्य संस्कृत गद्यकार और सम्राट हर्षवर्धन के आस्थान कवि, जिन्होंने कालजयी संस्कृत ग्रंथों हर्षचरित और कादंबरी की रचना की; जिनका जन्म औरंगाबाद के प्राचीन गांव प्रीतिकूटा (वर्तमान पीरू) में हुआ था।"
+      }
+    },
+    {
+      "name": {
+        "en": "Satyendra Narayan Sinha",
+        "hi": "सत्येंद्र नारायण सिन्हा"
+      },
+      "association": {
+        "en": "Distinguished freedom fighter, seven-term Member of Parliament representing Aurangabad, former Education Minister who revamped Bihar's schooling, and Chief Minister of Bihar in 1989; affectionately known as 'Chhote Saheb'.",
+        "hi": "प्रख्यात स्वतंत्रता सेनानी, औरंगाबाद संसदीय क्षेत्र से सात बार सांसद, बिहार के पूर्व शिक्षा मंत्री जिन्होंने प्राथमिक व माध्यमिक शिक्षा में युगांतरकारी सुधार किए, तथा 1989 में बिहार के मुख्यमंत्री; जिन्हें जनमानस में 'छोटे साहब' कहा जाता था।"
+      }
+    },
+    {
+      "name": {
+        "en": "Raja Narayan Singh",
+        "hi": "राजा नारायण सिंह"
+      },
+      "association": {
+        "en": "Valiant Rajput chieftain of Pawai and Siris who raised an armed rebellion with 1,500 fighters against the British East India Company in 1781 in support of Raja Chait Singh of Benares, remembered as an early hero of anti-colonial armed resistance.",
+        "hi": "पवई और सिरिस के वीर राजपूत जमींदार जिन्होंने 1781 में बनारस के राजा चेत सिंह के समर्थन में 1,500 लड़ाकों के साथ ईस्ट इंडिया कंपनी की सेना के खिलाफ सशस्त्र बगावत का बिगुल फूंका था, जो स्वाधीनता संघर्ष के आरंभिक नायक रहे।"
+      }
+    },
+    {
+      "name": {
+        "en": "King Bhairavendra Singh",
+        "hi": "राजा भैरवेंद्र सिंह"
+      },
+      "association": {
+        "en": "Eminent Chandravanshi monarch credited with the construction and patronage of the magnificent Umga rock temple complex and the architectural embellishment of the Deo Sun Temple during the 15th century.",
+        "hi": "15वीं शताब्दी के प्रतापी चंद्रवंशी राजा, जिन्हें उमगा पर्वत पर पाषाण मंदिरों के भव्य समूह के निर्माण और ऐतिहासिक देव सूर्य मंदिर के विस्तार व संरक्षण का श्रेय दिया जाता है।"
+      }
+    },
+    {
+      "name": {
+        "en": "Daud Khan Quraishi",
+        "hi": "दाऊद खान कुरैशी"
+      },
+      "association": {
+        "en": "Mughal Subahdar (Governor) of Bihar during Emperor Aurangzeb's reign who founded the town of Daudnagar and constructed the historic riverfront fort along the Son River in 1664 CE.",
+        "hi": "मुगल सम्राट औरंगजेब के शासनकाल में बिहार के सूबेदार (गवर्नर), जिन्होंने 1664 ईस्वी में दाउदनगर शहर की स्थापना की और सोन नदी के किनारे सामरिक किले का निर्माण कराया।"
+      }
+    }
+  ],
+  "tourismIdentity": [
+    {
+      "en": "**The Sacred West-Facing Deo Sun Temple**: One of India's most extraordinary Sun shrines, built in magnificent Nagara architectural style with a unique westward orientation, drawing millions of devotees during the sacred Chhath Mahaparv.",
+      "hi": "**भव्य पश्चिमाभिमुख देव सूर्य मंदिर**: नागर शैली में निर्मित भारत का अद्वितीय सूर्य मंदिर, जिसका मुख दुर्लभ रूप से पश्चिम दिशा की ओर है और जो लोक आस्था के महापर्व छठ पर लाखों श्रद्धालुओं का महातीर्थ बनता है।"
+    },
+    {
+      "en": "**The Ancient Granite Enigma of Umga Hills**: An open-air archaeological paradise featuring ruins of 52 granite and sandstone temples, monolithic rock sculptures, and thrilling trekking trails overlooking the Magadh plains.",
+      "hi": "**उमगा पर्वत का रहस्यमयी पाषाण मंदिर समूह**: बिना गारे के विशाल ग्रेनाइट पत्थरों को जोड़कर बनाए गए 52 प्राचीन मंदिरों, शैलोत्कीर्ण मूर्तियों और रोमांचक ट्रेकिंग ट्रैक्स से सुसज्जित एक अद्वितीय पुरातात्विक धरोहर।"
+    },
+    {
+      "en": "**Historic Daudnagar Fort along the Son**: A seventeenth-century Mughal riverfront citadel on the banks of the Son River, showcasing monumental brick-and-stone bastions, arched gateways, and spectacular river sunsets.",
+      "hi": "**सोन तट पर स्थित ऐतिहासिक दाउदनगर किला**: 17वीं सदी में निर्मित मुगलकालीन जल-दुर्ग के अवशेष, जो अपनी प्राचीरों, मेहराबदार द्वारों और सोन नदी पर ढलते सूर्य के विहंगम दृश्यों के लिए पर्यटकों को आकर्षित करता है।"
+    },
+    {
+      "en": "**World-Renowned Obra Carpet & Durry Heritage**: A 500-year-old living artisan tradition where master weavers craft hand-knotted woollen Persian carpets, durries, and traditional blankets admired across global craft markets.",
+      "hi": "**विश्वप्रसिद्ध ओबरा का 500 वर्ष पुराना कालीन शिल्प**: शुद्ध ऊन से हाथ की गांठों द्वारा तैयार किए जाने वाले बेजोड़ कालीन, दरी और गर्म कंबलों की ऐतिहासिक हस्तशिल्प परंपरा, जो वैश्विक फलक पर अपनी पहचान रखती है।"
+    },
+    {
+      "en": "**Spiritual Syncretism at Amjhar Sharif**: The revered 16th-century Sufi dargah of Hazrat Syedana Mohammad Jilani Amjhari R.A. in Haspura, epitomizing South Bihar's cherished traditions of interfaith brotherhood and peace.",
+      "hi": "**अमझर शरीफ की पावन सूफी दरगाह**: हसपुरा में स्थित हजरत सैय्यदना मोहम्मद जिलानी अमझरी रह. की 16वीं सदी की श्रद्धेय मजार, जो दक्षिण बिहार में सांप्रदायिक सद्भाव और रूहानी शांति का केंद्र है।"
+    }
+  ],
+  "didYouKnow": [
+    {
+      "en": "**Rare West-Facing Solar Shrine**: Unlike virtually all Hindu Sun temples in India (such as Konark and Modhera) which face east toward the rising sun, the sanctum of **Deo Sun Temple** uniquely faces west toward the setting sun (*Astaachala Surya*), making sunset *Sandhya Arghya* during Chhath profoundly auspicious.",
+      "hi": "**अनोखा पश्चिमाभिमुख सूर्य मंदिर**: भारत के लगभग सभी प्रमुख सूर्य मंदिरों (जैसे कोणार्क और मोढेरा) का मुख पूर्व दिशा की ओर है, लेकिन **देव सूर्य मंदिर** का गर्भगृह विशिष्ट रूप से अस्ताचलगामी सूर्य (पश्चिम दिशा) की ओर है, जो छठ के 'संध्या अर्घ्य' को आध्यात्मिक रूप से अत्यंत फलदायी बनाता है।"
+    },
+    {
+      "en": "**The 'Chittorgarh of Bihar'**: Aurangabad earned the moniker **'Chittorgarh of Bihar'** due to its historically dense concentration of proud Rajput estates—including Deo, Pawai, Siris, Kutumba, and Chandragarh—and their long heritage of fierce warrior resistance against imperial powers.",
+      "hi": "**बिहार का चित्तौड़गढ़**: औरंगाबाद को **'बिहार का चित्तौड़गढ़'** कहा जाता है, क्योंकि यहां देव, पवई, सिरिस, कुटुंबा और चंद्रगढ़ जैसे अनेक राजपूत राजघरानों का ऐतिहासिक प्रभाव रहा है और उनका इतिहास अदम्य शौर्य व स्वाभिमान से भरा रहा है।"
+    },
+    {
+      "en": "**Birthplace of Sanskrit Genius Banbhatta**: Emperor Harshavardhana's court poet **Banbhatta**, who penned the foundational Sanskrit works *Harshacharita* (India's earliest historical biography) and *Kadambari* (one of the world's first romantic novels), was born in the village of **Piru** on the banks of the ancient Hiranyavahu (Son) river in Aurangabad.",
+      "hi": "**संस्कृत के महाकवि बाणभट्ट की जन्मभूमि**: सम्राट हर्षवर्धन के राजकवि **बाणभट्ट**, जिन्होंने भारत की पहली ऐतिहासिक जीवनी *हर्षचरित* और विश्व के आरंभिक उपन्यासों में गिने जाने वाले *कादंबरी* की रचना की, औरंगाबाद के हसपुरा स्थित **पीरू** गांव (प्राचीन प्रीतिकूटा) में जन्मे थे।"
+    },
+    {
+      "en": "**Mortarless Granite Architecture at Umga**: The colossal 15th-century temple atop **Umga Hills** stands at an elevation of nearly 300 meters and is built entirely of massive, precision-interlocked square granite blocks without using a single drop of mortar or cementing material.",
+      "hi": "**बिना गारे के पत्थरों से बना उमगा मंदिर**: **उमगा पर्वत** की चोटी पर समुद्र तल से लगभग 300 मीटर की ऊंचाई पर स्थित 15वीं सदी का विशाल मंदिर बिना किसी गारे, सीमेंट या चूने के, केवल परस्पर जुड़े (इंटरलाकिंग) भारी ग्रेनाइट पत्थरों से खड़ा किया गया है।"
+    },
+    {
+      "en": "**The Carpet Legacy of Obra**: During the British colonial era, carpets and durries handcrafted by master weavers in **Obra** were so exquisitely woven that they won prestigious gold medals at the London World Industrial Exhibition and were described in detail by British explorer Francis Buchanan in 1812.",
+      "hi": "**लंदन प्रदर्शनी में सराहा गया ओबरा कालीन**: ब्रिटिश काल में औरंगाबाद के **ओबरा** के बुनकरों द्वारा तैयार किए गए हाथ से बुने ऊनी कालीन और दरियां इतनी उत्कृष्ट थीं कि उन्हें लंदन की विश्व औद्योगिक प्रदर्शनी में स्वर्ण पदक मिला था, जिसका उल्लेख फ्रांसिस बुकानन ने 1812 के अपने यात्रा वृत्तांत में किया था।"
+    },
+    {
+      "en": "**The Power Capital of Bihar**: With the NTPC **Nabinagar Super Thermal Power Project** (1,980 MW) and **BRBCL** (1,000 MW), Nabinagar in Aurangabad generates nearly 3,000 MW of power, making the district the single largest electricity-generating hub in the entire state of Bihar.",
+      "hi": "**बिहार की ऊर्जा राजधानी**: एनटीपीसी के **नवीनगर सुपर थर्मल पावर प्रोजेक्ट** (1,980 MW) और **भारतीय रेल बिजली कंपनी** (1,000 MW) के साथ औरंगाबाद का नवीनगर लगभग 3,000 मेगावाट बिजली का उत्पादन करता है, जिससे यह समूचे बिहार का सबसे बड़ा ऊर्जा उत्पादक जिला बन गया है।"
+    }
+  ],
+  "sources": [
+    {
+      "title": "District Census Handbook: Aurangabad (Census of India 2011)",
+      "organization": "Directorate of Census Operations, Bihar, Ministry of Home Affairs, Government of India",
+      "url": "https://censusindia.gov.in",
+      "year": 2011
+    },
+    {
+      "title": "Official Portal of Aurangabad District Administration",
+      "organization": "District Administration Aurangabad, Government of Bihar",
+      "url": "https://aurangabad.bih.nic.in",
+      "year": 2024
+    },
+    {
+      "title": "Bihar Tourism Official Portal: Aurangabad Destinations & Deo Sun Temple",
+      "organization": "Bihar State Tourism Development Corporation (BSTDC)",
+      "url": "https://tourism.bihar.gov.in",
+      "year": 2023
+    },
+    {
+      "title": "Archaeological Survey of India: Protected Monuments and Shrines of Magadh",
+      "organization": "Archaeological Survey of India (ASI), Patna Circle",
+      "url": "https://asipatnacircircle.bih.nic.in",
+      "year": 2022
+    },
+    {
+      "title": "Gazetteer of India: Bihar - Gaya and Aurangabad Districts",
+      "organization": "Department of Cabinet Secretariat (Gazetteer Unit), Government of Bihar",
+      "url": "https://state.bihar.gov.in",
+      "year": 2020
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "data": [
+    {
+      "id": "saat-nischay-part-1",
+      "name": {
+        "en": "Saat Nischay - Part 1 (2015-2020)",
+        "hi": "सात निश्चय - भाग 1 (2015-2020)"
+      },
+      "category": "flagship-governance-framework",
+      "period": "2015-2020",
+      "asOf": "2020-11-01",
+      "description": {
+        "en": "### Vision & Scope\nThe 'Saat Nischay' (Seven Resolves) Part-1 was a comprehensive governance roadmap launched in 2015 by the Government of Bihar. It laid out a targeted, time-bound agenda to ensure basic developmental rights and infrastructure for every citizen.\n\n### The Seven Pillars\n* **Youth Empowerment:** Skill development programs (KYP) and Student Credit Cards.\n* **Women's Rights:** Implementation of 35% reservation for women in all state government jobs.\n* **Basic Infrastructure:** Mandated tap water (Har Ghar Nal Ka Jal), electricity, paved roads, and drainage systems to every household, alongside toilet construction.\n\n### Impact\nThis initiative drastically accelerated rural infrastructure development and empowered marginalized demographics, fundamentally upgrading the standard of living across Bihar.",
+        "hi": "### दृष्टिकोण और कार्यक्षेत्र\n'सात निश्चय' पार्ट-1 बिहार सरकार द्वारा 2015 में शुरू किया गया एक व्यापक सुशासन रोडमैप था। इसने प्रत्येक नागरिक के लिए बुनियादी विकासात्मक अधिकार और बुनियादी ढांचा सुनिश्चित करने के लिए एक लक्षित, समयबद्ध एजेंडा तैयार किया।\n\n### सात प्रमुख स्तंभ\n* **युवा अधिकारिता:** कौशल विकास कार्यक्रम (KYP) और स्टूडेंट क्रेडिट कार्ड योजना।\n* **महिला अधिकार:** सभी राज्य सरकारी नौकरियों में महिलाओं के लिए 35% आरक्षण लागू करना।\n* **बुनियादी ढांचा:** हर घर में नल का जल, पक्की गलियां-नालियां, हर घर बिजली और शौचालय निर्माण सुनिश्चित करना।\n\n### प्रभाव\nइस पहल ने ग्रामीण बुनियादी ढांचे के विकास को काफी तेज कर दिया और हाशिए पर रहने वाले वर्गों को सशक्त बनाया, जिससे पूरे बिहार में जीवन स्तर में मौलिक सुधार हुआ।"
+      },
+      "theSevenResolves": [
+        {
+          "number": 1,
+          "name": {
+            "en": "Aarthik Hal, Yuvaon Ko Bal",
+            "hi": "आर्थिक हल, युवाओं को बल"
+          },
+          "focus": {
+            "en": "Student Credit Card, Self-Help Allowance, and Kushal Yuva Skill Training",
+            "hi": "स्टूडेंट क्रेडिट कार्ड, स्वयं सहायता भत्ता और कौशल युवा कार्यक्रम"
+          }
+        },
+        {
+          "number": 2,
+          "name": {
+            "en": "Aarakshit Rozgar, Mahilaon Ka Adhikar",
+            "hi": "आरक्षित रोजगार, महिलाओं का अधिकार"
+          },
+          "focus": {
+            "en": "35% reservation for women in all Bihar Government jobs",
+            "hi": "बिहार सरकार की सभी नौकरियों में महिलाओं को 35% क्षैतिज आरक्षण"
+          }
+        },
+        {
+          "number": 3,
+          "name": {
+            "en": "Har Ghar Bijli Lagataar",
+            "hi": "हर घर बिजली लगातार"
+          },
+          "focus": {
+            "en": "Universal household electricity connectivity achieved in 2018",
+            "hi": "सभी ग्रामीण एवं शहरी घरों तक निर्बाध बिजली कनेक्शन (2018 में पूर्ण)"
+          }
+        },
+        {
+          "number": 4,
+          "name": {
+            "en": "Har Ghar Nal Ka Jal",
+            "hi": "हर घर नल का जल"
+          },
+          "focus": {
+            "en": "Clean piped tap drinking water to every rural and urban household",
+            "hi": "प्रत्येक ग्रामीण और शहरी घर तक स्वच्छ नल का जल पहुंचाना"
+          }
+        },
+        {
+          "number": 5,
+          "name": {
+            "en": "Ghar Tak Pakki Nali-Galiyan",
+            "hi": "घर तक पक्की गली-नालियां"
+          },
+          "focus": {
+            "en": "Paved concrete lanes and drainage across every rural ward",
+            "hi": "ग्रामीण बसावटों में पक्की सड़कों और नालियों का निर्माण"
+          }
+        },
+        {
+          "number": 6,
+          "name": {
+            "en": "Shauchalay Nirman, Ghar Ka Samman",
+            "hi": "शौचालय निर्माण, घर का सम्मान"
+          },
+          "focus": {
+            "en": "Open Defecation Free (ODF) status through universal household latrines",
+            "hi": "खुले में शौच मुक्त (ODF) बिहार के लिए घर-घर शौचालय"
+          }
+        },
+        {
+          "number": 7,
+          "name": {
+            "en": "Awasar Badhe, Aage Padhein",
+            "hi": "अवसर बढ़े, आगे पढ़ें"
+          },
+          "focus": {
+            "en": "Establishing engineering colleges, polytechnics, ANM/GNM colleges in every district",
+            "hi": "प्रत्येक जिले में इंजीनियरिंग कॉलेज, पॉलिटेक्निक और नर्सिंग कॉलेज की स्थापना"
+          }
+        }
+      ]
+    },
+    {
+      "id": "saat-nischay-part-2",
+      "name": {
+        "en": "Saat Nischay - Part 2 (2020-2025)",
+        "hi": "सात निश्चय - भाग 2 (2020-2025)"
+      },
+      "category": "flagship-governance-framework",
+      "period": "2020-2025",
+      "asOf": "2024-03-31",
+      "description": {
+        "en": "### Governance Continuation\nBuilding on the immense success of the first phase, 'Saat Nischay Part-2' was launched in 2020 as the state's forward-looking developmental blueprint for 2020-2025.\n\n### Key Focus Areas\n* **Youth & Entrepreneurship:** Promoting Mega Skill Centers and providing massive financial aid for young entrepreneurs.\n* **Women's Progress:** The 'Sashakt Mahila, Saksham Mahila' resolve provides hefty financial incentives for women's higher education and business ventures.\n* **Advanced Infrastructure:** Focus on irrigation water to every agricultural field, telemedicine (eSanjeevani), better roads, and clean, prosperous villages (Swachh Gaon, Samriddh Gaon).\n\n### Impact\nPart-2 shifts the focus from basic necessities to economic self-reliance, advanced healthcare, and agricultural modernization, paving the way for a self-sufficient and prosperous Bihar.",
+        "hi": "### सुशासन की निरंतरता\nपहले चरण की अपार सफलता के आधार पर, 'सात निश्चय पार्ट-2' को 2020 में 2020-2025 के लिए राज्य के भविष्योन्मुखी विकासात्मक खाके (Blueprint) के रूप में लॉन्च किया गया था।\n\n### प्रमुख फोकस क्षेत्र\n* **युवा और उद्यमिता:** मेगा स्किल सेंटरों को बढ़ावा देना और युवा उद्यमियों (युवा शक्ति, बिहार की प्रगति) के लिए बड़े पैमाने पर वित्तीय सहायता प्रदान करना।\n* **महिला प्रगति:** 'सशक्त महिला, सक्षम महिला' संकल्प महिलाओं की उच्च शिक्षा और व्यावसायिक उपक्रमों के लिए भारी वित्तीय प्रोत्साहन प्रदान करता है।\n* **उन्नत बुनियादी ढांचा:** हर खेत तक सिंचाई का पानी, टेलीमेडिसिन (ई-संजीवनी), बेहतर सड़कें और स्वच्छ, समृद्ध गांव पर ध्यान केंद्रित करना।\n\n### प्रभाव\nपार्ट-2 बुनियादी जरूरतों से हटकर आर्थिक आत्मनिर्भरता, उन्नत स्वास्थ्य देखभाल और कृषि आधुनिकीकरण पर ध्यान केंद्रित करता है, जो एक आत्मनिर्भर और समृद्ध बिहार का मार्ग प्रशस्त करता है।"
+      },
+      "theSevenResolves": [
+        {
+          "number": 1,
+          "name": {
+            "en": "Yuva Shakti - Bihar Ki Pragati",
+            "hi": "युवा शक्ति - बिहार की प्रगति"
+          },
+          "focus": {
+            "en": "Mega Skill Centres in all districts and upgrading ITIs with Tata Technologies",
+            "hi": "सभी जिलों में मेगा स्किल सेंटर और टाटा टेक्नोलॉजीज के सहयोग से आईटीआई का आधुनिकीकरण"
+          }
+        },
+        {
+          "number": 2,
+          "name": {
+            "en": "Sashakt Mahila - Saksham Mahila",
+            "hi": "सशक्त महिला - सक्षम महिला"
+          },
+          "focus": {
+            "en": "Entrepreneurship grants up to Rs 10 lakh and incentives for girls passing 12th (Rs 25,000) & Graduation (Rs 50,000)",
+            "hi": "महिला उद्यमिता सहायता तथा इंटर पास (25,000 रु) एवं स्नातक पास (50,000 रु) पर प्रोत्साहन राशि"
+          }
+        },
+        {
+          "number": 3,
+          "name": {
+            "en": "Har Khet Tak Sinchai Ka Pani",
+            "hi": "हर खेत तक सिंचाई का पानी"
+          },
+          "focus": {
+            "en": "Ensuring assured irrigation to every agricultural plot through dedicated agricultural electricity feeders and tube wells",
+            "hi": "कृषि विद्युत फीडर, नलकूप और नहरों के जरिए राज्य के प्रत्येक खेत तक सिंचाई जल"
+          }
+        },
+        {
+          "number": 4,
+          "name": {
+            "en": "Swachh Gaon - Samriddh Gaon",
+            "hi": "स्वच्छ गाँव - समृद्ध गाँव"
+          },
+          "focus": {
+            "en": "Solar street lights in all rural wards and scientific solid-liquid waste management",
+            "hi": "सभी ग्रामीण वार्डों में सोलर स्ट्रीट लाइट और ठोस-तरल कचरा प्रबंधन"
+          }
+        },
+        {
+          "number": 5,
+          "name": {
+            "en": "Swachh Shahar - Viksit Shahar",
+            "hi": "स्वच्छ शहर - विकसित शहर"
+          },
+          "focus": {
+            "en": "Stormwater drainage, Mokshadham cremation grounds, and multi-storey shelters for urban homeless",
+            "hi": "जलजमाव मुक्ति के लिए स्टॉर्म वाटर ड्रेनेज, आधुनिक मोक्षधाम और आश्रय स्थल"
+          }
+        },
+        {
+          "number": 6,
+          "name": {
+            "en": "Sulabh Samparkta",
+            "hi": "सुलभ संपर्कता"
+          },
+          "focus": {
+            "en": "Bypass roads and flyovers to decongest market hubs and enhance highway interconnectivity",
+            "hi": "शहरी जाम से मुक्ति के लिए बाईपास सड़कों, आरओबी और फ्लाईओवर का निर्माण"
+          }
+        },
+        {
+          "number": 7,
+          "name": {
+            "en": "Sabke Liye Atirikt Swasthya Suvidha",
+            "hi": "सबके लिए अतिरिक्त स्वास्थ्य सुविधा"
+          },
+          "focus": {
+            "en": "Bal Hriday Yojana, digital health records, and connecting village subcentres to medical colleges",
+            "hi": "बाल हृदय योजना, डिजिटल स्वास्थ्य कार्ड और टेलीमेडिसिन के जरिए बेहतर चिकित्सा"
+          }
+        }
+      ]
+    },
+    {
+      "id": "har-ghar-gangajal-project",
+      "name": {
+        "en": "Har Ghar Gangajal Project (Ganga Water Lift Scheme)",
+        "hi": "हर घर गंगाजल परियोजना (गंगा जल आपूर्ति योजना)"
+      },
+      "category": "environmental-engineering-drinking-water",
+      "launchDate": "2022-11-27",
+      "asOf": "2024-03-31",
+      "districtIds": [
+        "nalanda",
+        "gaya",
+        "nawada"
+      ],
+      "description": {
+        "en": "### Project Overview\nThe 'Har Ghar Gangajal' (Ganga Water Supply Scheme) is an unprecedented engineering marvel and a visionary climate-resilience project. It mitigates massive water scarcity in the historically drought-prone districts of South Bihar.\n\n### Engineering Feat\n* **Water Harvesting:** Captures excess floodwaters from the Ganga river in Patna during the monsoons.\n* **Pipeline Network:** Transports the treated water through a massive 151-km long pipeline to massive reservoirs.\n* **Beneficiary Cities:** Ensures 24/7 safe drinking water supply to the parched cities of Rajgir, Gaya, Bodh Gaya, and Nawada.\n\n### Environmental Impact\nBy lifting floodwaters and converting them into safe drinking water for drought-prone regions, it uniquely solves dual challenges of flooding and severe groundwater depletion.",
+        "hi": "### परियोजना का अवलोकन\n'हर घर गंगाजल' (गंगा जल आपूर्ति योजना) एक अभूतपूर्व इंजीनियरिंग चमत्कार और एक दूरदर्शी जलवायु-लचीली परियोजना है। यह दक्षिण बिहार के ऐतिहासिक रूप से सूखाग्रस्त जिलों में पानी की भारी कमी को कम करता है।\n\n### इंजीनियरिंग का कमाल\n* **जल संचयन:** मानसून के दौरान पटना में गंगा नदी के अतिरिक्त बाढ़ के पानी को संचित करता है।\n* **पाइपलाइन नेटवर्क:** उपचारित पानी को 151 किलोमीटर लंबी विशाल पाइपलाइन के माध्यम से बड़े जलाशयों तक पहुँचाता है।\n* **लाभार्थी शहर:** राजगीर, गया, बोधगया और नवादा के सूखे शहरों में 24/7 सुरक्षित पेयजल आपूर्ति सुनिश्चित करता है।\n\n### पर्यावरणीय प्रभाव\nबाढ़ के पानी को उठाकर सूखाग्रस्त क्षेत्रों के लिए सुरक्षित पेयजल में परिवर्तित करके, यह बाढ़ और गंभीर भूजल की कमी की दोहरी चुनौतियों का विशिष्ट रूप से समाधान करता है।"
+      },
+      "citiesBenefited": [
+        "Rajgir",
+        "Gaya",
+        "Bodh Gaya",
+        "Nawada"
+      ]
+    },
+    {
+      "id": "mukhya-mantri-mahila-udyami-yojana",
+      "name": {
+        "en": "Mukhyamantri Mahila Udyami Yojana",
+        "hi": "मुख्यमंत्री महिला उद्यमी योजना"
+      },
+      "category": "women-entrepreneurship",
+      "launchYear": 2021,
+      "asOf": "2024-03-31",
+      "administeredBy": "Department of Industries, Government of Bihar",
+      "description": {
+        "en": "### Scheme Overview\nThe Mukhyamantri Mahila Udyami Yojana is a revolutionary economic empowerment scheme aimed at aggressively promoting female entrepreneurship across Bihar. It removes financial barriers for women aspiring to set up micro and small industries.\n\n### Core Benefits\n* **Substantial Funding:** Provides up to Rs 10 Lakh financial assistance for women entrepreneurs.\n* **Favorable Terms:** Out of the total amount, Rs 5 Lakh is given as an outright grant (subsidy), and the remaining Rs 5 Lakh is an interest-free loan.\n* **Inclusivity:** Applicable to women from all castes and communities.\n\n### Impact\nThis scheme has sparked a wave of female-led startups and manufacturing units, transforming homemakers into job creators and significantly boosting the state's MSME sector.",
+        "hi": "### योजना का अवलोकन\nमुख्यमंत्री महिला उद्यमी योजना एक क्रांतिकारी आर्थिक अधिकारिता योजना है जिसका उद्देश्य पूरे बिहार में महिला उद्यमिता को आक्रामक रूप से बढ़ावा देना है। यह सूक्ष्म और लघु उद्योग स्थापित करने की इच्छुक महिलाओं के लिए वित्तीय बाधाओं को दूर करती है।\n\n### प्रमुख लाभ\n* **व्यापक वित्तपोषण:** महिला उद्यमियों को 10 लाख रुपये तक की वित्तीय सहायता प्रदान करती है।\n* **अनुकूल शर्तें:** कुल राशि में से 5 लाख रुपये एकमुश्त अनुदान (सब्सिडी) के रूप में दिए जाते हैं, और शेष 5 लाख रुपये ब्याज मुक्त ऋण होता है।\n* **समावेशिता:** यह सभी जातियों और समुदायों की महिलाओं के लिए लागू है।\n\n### प्रभाव\nइस योजना ने महिलाओं के नेतृत्व वाले स्टार्टअप और विनिर्माण इकाइयों की एक लहर पैदा कर दी है, जिससे गृहिणियां रोजगार सृजक बन गई हैं और राज्य के एमएसएमई (MSME) क्षेत्र को काफी बढ़ावा मिला है।"
+      }
+    },
+    {
+      "id": "mukhya-mantri-kanya-utthan-yojana",
+      "name": {
+        "en": "Mukhyamantri Kanya Utthan Yojana",
+        "hi": "मुख्यमंत्री कन्या उत्थान योजना"
+      },
+      "category": "girl-child-welfare",
+      "launchYear": 2018,
+      "asOf": "2024-01-01",
+      "description": {
+        "en": "### Scheme Overview\nThe Mukhyamantri Kanya Utthan Yojana is a comprehensive cradle-to-college welfare scheme dedicated to the holistic empowerment of a girl child. It aims to prevent female infanticide, eradicate child marriage, and drastically improve female educational attainment.\n\n### Financial Milestones\n* **Birth & Immunization:** Provides financial grants upon the birth of a girl child and upon completion of full immunization (Aadhaar linked).\n* **Education Incentives:** Provides Rs 10,000 for completing Class 12 (unmarried) and a massive Rs 50,000 grant upon completing Graduation.\n* **Hygiene & Necessities:** Includes stipends for sanitary napkins and school uniforms.\n\n### Impact\nBy tying financial incentives to key life milestones, the scheme has successfully increased the sex ratio, reduced maternal mortality, and ensured that girls are viewed as assets rather than financial burdens.",
+        "hi": "### योजना का अवलोकन\nमुख्यमंत्री कन्या उत्थान योजना बालिकाओं के समग्र सशक्तिकरण को समर्पित एक व्यापक 'जन्म से लेकर कॉलेज तक' की कल्याणकारी योजना है। इसका उद्देश्य कन्या भ्रूण हत्या को रोकना, बाल विवाह को समाप्त करना और बालिकाओं की शैक्षिक प्राप्ति में भारी सुधार करना है।\n\n### वित्तीय मील के पत्थर\n* **जन्म और टीकाकरण:** बालिका के जन्म पर और पूर्ण टीकाकरण (आधार से जुड़े) के पूरा होने पर वित्तीय अनुदान प्रदान करता है।\n* **शिक्षा प्रोत्साहन:** कक्षा 12 (अविवाहित) पूरी करने पर 10,000 रुपये और स्नातक (Graduation) पूरा करने पर 50,000 रुपये का भारी अनुदान प्रदान करता है।\n* **स्वच्छता और आवश्यकताएं:** इसमें सेनेटरी नैपकिन और स्कूल यूनिफॉर्म के लिए वजीफा शामिल है।\n\n### प्रभाव\nवित्तीय प्रोत्साहनों को जीवन के प्रमुख पड़ावों से जोड़कर, इस योजना ने सफलतापूर्वक लिंगानुपात बढ़ाया है, मातृ मृत्यु दर को कम किया है, और यह सुनिश्चित किया है कि लड़कियों को वित्तीय बोझ के बजाय एक संपत्ति के रूप में देखा जाए।"
+      }
+    },
+    {
+      "id": "jal-jeevan-hariyali-abhiyan",
+      "name": {
+        "en": "Jal-Jeevan-Hariyali Abhiyan",
+        "hi": "जल-जीवन-हरियाली अभियान"
+      },
+      "category": "climate-change-water-conservation",
+      "launchYear": 2019,
+      "asOf": "2024-03-31",
+      "description": {
+        "en": "### Mission Overview\nLaunched in 2019, the 'Jal-Jeevan-Hariyali Abhiyan' is an internationally acclaimed climate-resilience and ecological restoration mission. It operates on the profound philosophy that human life (Jeevan) is only sustainable when water (Jal) and greenery (Hariyali) are preserved.\n\n### Key Pillars of Action\n* **Water Conservation:** Massive rejuvenation of dead rivers, traditional ponds, Ahars, and Pynes, alongside the construction of check dams.\n* **Afforestation:** Extensive planting of crores of saplings to rapidly increase the state's green cover.\n* **Renewable Energy:** Promotion of solar energy on government buildings and widespread rainwater harvesting initiatives.\n\n### Global Recognition\nThe campaign was highly praised at the United Nations Climate Change Conference for its visionary, large-scale approach to combating climate change at the grassroots level.",
+        "hi": "### मिशन का अवलोकन\n2019 में शुरू किया गया, 'जल-जीवन-हरियाली अभियान' अंतरराष्ट्रीय स्तर पर प्रशंसित जलवायु-लचीलापन और पारिस्थितिक बहाली मिशन है। यह इस गहरे दर्शन पर काम करता है कि मानव जीवन तभी टिकाऊ है जब जल और हरियाली सुरक्षित रहे।\n\n### कार्रवाई के प्रमुख स्तंभ\n* **जल संरक्षण:** मृत नदियों, पारंपरिक तालाबों, आहरों और पईनों का बड़े पैमाने पर कायाकल्प, साथ ही चेक डैम का निर्माण।\n* **वनरोपण:** राज्य के हरित आवरण को तेजी से बढ़ाने के लिए करोड़ों पौधों का व्यापक रोपण।\n* **नवीकरणीय ऊर्जा:** सरकारी भवनों पर सौर ऊर्जा को बढ़ावा देना और वर्षा जल संचयन (Rainwater harvesting) की व्यापक पहल।\n\n### वैश्विक मान्यता\nजमीनी स्तर पर जलवायु परिवर्तन से निपटने के अपने दूरदर्शी और बड़े पैमाने के दृष्टिकोण के लिए संयुक्त राष्ट्र जलवायु परिवर्तन सम्मेलन (UN) में इस अभियान की अत्यधिक प्रशंसा की गई थी।"
+      }
+    },
+    {
+      "id": "mukhya-mantri-vridhjan-pension-yojana",
+      "name": {
+        "en": "Mukhyamantri Vridhjan Pension Yojana (MVPY)",
+        "hi": "मुख्यमंत्री वृद्धजन पेंशन योजना"
+      },
+      "category": "universal-social-security",
+      "launchYear": 2019,
+      "asOf": "2024-01-01",
+      "description": {
+        "en": "### Scheme Overview\nThe Mukhyamantri Vridhjan Pension Yojana (MVPY) is a universal social security scheme implemented in 2019. It guarantees a dignified life for the elderly population of Bihar by ensuring financial independence in their twilight years.\n\n### Financial Structure\n* **Universal Coverage:** Unlike previous schemes, this covers ALL senior citizens above 60 years of age, regardless of their caste, community, or BPL (Below Poverty Line) status (excluding retired government employees).\n* **Direct Benefit Transfer:** Beneficiaries aged 60-79 receive Rs 400 monthly, while those aged 80 and above receive Rs 500 monthly, transferred directly into their bank accounts.\n\n### Social Impact\nBy making old-age pensions universal, the scheme has eliminated bureaucratic hurdles for the elderly, ensuring that every senior citizen in Bihar lives with dignity, self-reliance, and financial security.",
+        "hi": "### योजना का अवलोकन\nमुख्यमंत्री वृद्धजन पेंशन योजना (MVPY) 2019 में लागू की गई एक सार्वभौमिक सामाजिक सुरक्षा योजना है। यह जीवन के अंतिम पड़ाव में वित्तीय स्वतंत्रता सुनिश्चित करके बिहार की बुजुर्ग आबादी के लिए एक सम्मानजनक जीवन की गारंटी देती है।\n\n### वित्तीय संरचना\n* **सार्वभौमिक कवरेज:** पिछली योजनाओं के विपरीत, यह 60 वर्ष से अधिक आयु के सभी वरिष्ठ नागरिकों को कवर करता है, चाहे उनकी जाति, समुदाय या बीपीएल स्थिति कुछ भी हो (सेवानिवृत्त सरकारी कर्मचारियों को छोड़कर)।\n* **प्रत्यक्ष लाभ अंतरण (DBT):** 60-79 वर्ष की आयु के लाभार्थियों को 400 रुपये मासिक, जबकि 80 वर्ष और उससे अधिक आयु के लाभार्थियों को 500 रुपये मासिक सीधे उनके बैंक खातों में मिलते हैं।\n\n### सामाजिक प्रभाव\nवृद्धावस्था पेंशन को सार्वभौमिक बनाकर, इस योजना ने बुजुर्गों के लिए नौकरशाही की बाधाओं को समाप्त कर दिया है, यह सुनिश्चित करते हुए कि बिहार में हर वरिष्ठ नागरिक सम्मान, आत्मनिर्भरता और वित्तीय सुरक्षा के साथ जीवन व्यतीत करे।"
+      }
+    }
+  ]
+}

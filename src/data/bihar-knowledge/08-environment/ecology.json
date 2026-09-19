@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "id": "gangetic-alluvial-plains",
+      "name": {
+        "en": "Gangetic Alluvial Plains Ecosystem",
+        "hi": "गंगा का जलोढ़ मैदानी पारिस्थितिकी तंत्र"
+      },
+      "category": "plain-alluvial",
+      "districtIds": [
+        "patna",
+        "vaishali",
+        "samastipur",
+        "begusarai",
+        "bhagalpur",
+        "bhojpur"
+      ],
+      "description": {
+        "en": "### The Agricultural Heartland\n\nForming the vast central core of Bihar, the **Gangetic Alluvial Plains** present a highly modified, deeply agrarian ecosystem.\n\n### Ecological Features\n\n* **Human Influence:** Centuries of intensive agriculture have largely replaced the original natural vegetation with vast fields of paddy, wheat, and maize.\n* **Orchard Patches:** The landscape is frequently interspersed with dense, culturally significant mango, litchi, and bamboo orchards.\n* **Avian Diversity:** Despite human modification, these plains support significant populations of adaptable wildlife, particularly diverse bird species and small mammals.\n\nIt is an ecosystem defined by the constant, delicate interplay between human cultivation and natural resilience.",
+        "hi": "### कृषि हृदयस्थल\n\nबिहार के विशाल मध्य भाग का निर्माण करते हुए, **गांगेय जलोढ़ मैदान** एक अत्यधिक संशोधित, गहराई से कृषि पारिस्थितिकी तंत्र प्रस्तुत करते हैं।\n\n### पारिस्थितिक विशेषताएं\n\n* **मानवीय प्रभाव:** सदियों की गहन कृषि ने काफी हद तक मूल प्राकृतिक वनस्पति को धान, गेहूं और मक्का के विशाल खेतों से बदल दिया है।\n* **बागों के पैच:** परिदृश्य अक्सर घने, सांस्कृतिक रूप से महत्वपूर्ण आम, लीची और बांस के बागों के साथ अंतर्निहित होता है।\n* **एवियन विविधता:** मानव संशोधन के बावजूद, ये मैदान अनुकूलनीय वन्यजीवों, विशेष रूप से विविध पक्षी प्रजातियों और छोटे स्तनधारियों की महत्वपूर्ण आबादी का समर्थन करते हैं।\n\nयह एक पारिस्थितिकी तंत्र है जो मानव खेती और प्राकृतिक लचीलेपन के बीच निरंतर, नाजुक परस्पर क्रिया द्वारा परिभाषित है।"
+      },
+      "soilType": "Alluvial (Khadar and Bangar)",
+      "dominantFlora": [
+        "Mangifera indica (Mango)",
+        "Dalbergia sissoo (Shisham)",
+        "Ficus religiosa (Peepal)",
+        "Ficus benghalensis (Banyan)"
+      ],
+      "ecologicalRole": {
+        "en": "One of the most fertile agricultural expanses in the world, sustaining intensive multi-cropping, recharge of deep aquifers, and extensive riverine biotas.",
+        "hi": "विश्व के सर्वाधिक उपजाऊ कृषि क्षेत्रों में से एक, जो बहु-फसली कृषि, गहरे भूजल पुनर्भरण और समृद्ध नदीय जैव विविधता का पोषण करता है।"
+      }
+    },
+    {
+      "id": "terai-bhabar-sub-himalayan",
+      "name": {
+        "en": "Sub-Himalayan Terai-Bhabar Ecozone",
+        "hi": "उप-हिमालयी तराई-भाबर पारिस्थितिक क्षेत्र"
+      },
+      "category": "sub-himalayan-foothill",
+      "districtIds": [
+        "west-champaran"
+      ],
+      "description": {
+        "en": "### The Verdant Foothills\n\nSituated in the extreme north-west, the **Terai-Bhabar** strip boasts the most biologically rich and undisturbed natural ecosystem in Bihar.\n\n### Ecological Features\n\n* **Moist Canopies:** Driven by heavy rainfall and high water tables, it supports incredibly dense, moist deciduous forests.\n* **Faunal Haven:** It acts as a critical refuge for megafauna, most notably serving as the habitat for the **Bengal Tiger** and **Indian Rhinoceros** in the Valmiki Reserve.\n* **Swampy Grasslands:** The region features extensive tall grasslands and swamps that are vital for the survival of unique herbivore populations.\n\nThis narrow strip is Bihar's primary frontier for serious wildlife conservation.",
+        "hi": "### हरी-भरी तलहटी\n\nचरम उत्तर-पश्चिम में स्थित, **तराई-भाभर** पट्टी बिहार में सबसे जैविक रूप से समृद्ध और अबाधित प्राकृतिक पारिस्थितिकी तंत्र का दावा करती है।\n\n### पारिस्थितिक विशेषताएं\n\n* **नम चंदवा:** भारी वर्षा और उच्च जल स्तर से प्रेरित, यह अविश्वसनीय रूप से घने, नम पर्णपाती जंगलों का समर्थन करता है।\n* **जीव-जंतुओं का आश्रय:** यह मेगाफौना के लिए एक महत्वपूर्ण आश्रय के रूप में कार्य करता है, विशेष रूप से वाल्मीकि रिजर्व में **बंगाल टाइगर** और **भारतीय गैंडे** के लिए आवास के रूप में कार्य करता है।\n* **दलदली घास के मैदान:** इस क्षेत्र में विस्तृत ऊंचे घास के मैदान और दलदल हैं जो अद्वितीय शाकाहारी आबादी के अस्तित्व के लिए महत्वपूर्ण हैं।\n\nयह संकीर्ण पट्टी गंभीर वन्यजीव संरक्षण के लिए बिहार की प्राथमिक सीमा है।"
+      },
+      "altitudeRange": "150m - 880m above MSL",
+      "dominantFlora": [
+        "Shorea robusta (Sal)",
+        "Terminalia tomentosa (Asan)",
+        "Bombax ceiba (Semal)",
+        "Acacia catechu (Khair)"
+      ],
+      "keyFauna": [
+        "Bengal Tiger",
+        "One-horned Rhinoceros",
+        "Asian Elephant",
+        "Leopard",
+        "Gaur"
+      ]
+    },
+    {
+      "id": "kaimur-plateau-vindhyan",
+      "name": {
+        "en": "Kaimur Plateau (Vindhyan Escarpment)",
+        "hi": "कैमूर का पठार (विंध्यन कगार)"
+      },
+      "category": "plateau-escarpment",
+      "districtIds": [
+        "kaimur",
+        "rohtas"
+      ],
+      "description": {
+        "en": "### The Rugged Southern Highlands\n\nThe easternmost extension of the ancient **Vindhyan range**, the Kaimur Plateau presents a striking contrast to the flat alluvial plains.\n\n### Ecological Features\n\n* **Dry Deciduous:** It is heavily dominated by dry deciduous scrub and stunted forests, perfectly adapted to the rocky terrain and seasonal water scarcity.\n* **Gorge Microclimates:** The deep, spectacular river gorges create unique, moist microclimates capable of supporting surprising biodiversity.\n* **Predator Territory:** The plateau's rugged caves and escarpments are crucial habitats for **Leopards, Sloth Bears**, and diverse raptor species.\n\nThis rugged ecosystem represents the resilient wild heart of south-western Bihar.",
+        "hi": "### ऊबड़-खाबड़ दक्षिणी उच्चभूमि\n\nप्राचीन **विंध्यन पर्वतमाला** का सबसे पूर्वी विस्तार, कैमूर पठार सपाट जलोढ़ मैदानों के लिए एक शानदार विपरीत प्रस्तुत करता है।\n\n### पारिस्थितिक विशेषताएं\n\n* **शुष्क पर्णपाती:** यह शुष्क पर्णपाती झाड़ियों और ठूंठदार जंगलों का भारी दबदबा है, जो चट्टानी इलाके और मौसमी पानी की कमी के लिए पूरी तरह से अनुकूलित है।\n* **गॉर्ज माइक्रॉक्लाइमेट:** गहरी, शानदार नदी घाटियां अद्वितीय, नम सूक्ष्म जलवायु बनाती हैं जो आश्चर्यजनक जैव विविधता का समर्थन करने में सक्षम हैं।\n* **शिकारी क्षेत्र:** पठार की बीहड़ गुफाएं और कगार **तेंदुए, भालू** और विविध शिकारी पक्षी प्रजातियों के लिए महत्वपूर्ण आवास हैं।\n\nयह ऊबड़-खाबड़ पारिस्थितिकी तंत्र दक्षिण-पश्चिमी बिहार के लचीले जंगली दिल का प्रतिनिधित्व करता है।"
+      },
+      "dominantFlora": [
+        "Boswellia serrata (Salai)",
+        "Diospyros melanoxylon (Kendu)",
+        "Butea monosperma (Palas)",
+        "Madhuca longifolia (Mahua)"
+      ],
+      "keyFauna": [
+        "Indian Leopard",
+        "Sloth Bear",
+        "Striped Hyena",
+        "Chinkara",
+        "Nilgai"
+      ]
+    },
+    {
+      "id": "southern-residual-granitic-hills",
+      "name": {
+        "en": "Southern Residual Granitic & Quartzite Hills",
+        "hi": "दक्षिणी अवशिष्ट ग्रेनाइट एवं क्वार्टजाइट पहाड़ियाँ"
+      },
+      "category": "residual-hill-tracts",
+      "districtIds": [
+        "nalanda",
+        "gaya",
+        "nawada",
+        "munger",
+        "banka"
+      ],
+      "description": {
+        "en": "### The Ancient Inselbergs\n\nIsolated, ancient Precambrian hills dot the southern landscape, standing like geological sentinels over regions like Rajgir, Gaya, and Munger.\n\n### Ecological Features\n\n* **Relict Forests:** These hills host precious remnant patches of ancient forests, standing defiantly amidst expanding urbanization and agriculture.\n* **Thermal Springs:** The presence of unique **geothermal hot springs** creates highly specialized, localized ecological niches.\n* **Sanctuary Spaces:** Wildlife sanctuaries such as Bhimbandh and Rajgir utilize these rugged, forested hills to protect diverse endemic flora and fauna.\n\nThese ancient hills are ecological islands, preserving biodiversity that would otherwise be lost to the plains.",
+        "hi": "### प्राचीन इंसलबर्ग\n\nअलग-थलग, प्राचीन प्रीकैम्ब्रियन पहाड़ियां दक्षिणी परिदृश्य को बिंदीदार बनाती हैं, जो राजगीर, गया और मुंगेर जैसे क्षेत्रों में भूवैज्ञानिक प्रहरियों की तरह खड़ी हैं।\n\n### पारिस्थितिक विशेषताएं\n\n* **अवशेष वन:** ये पहाड़ियां प्राचीन जंगलों के कीमती अवशेष पैच की मेजबानी करती हैं, जो बढ़ते शहरीकरण और कृषि के बीच उद्दंडता से खड़ी हैं।\n* **थर्मल स्प्रिंग्स:** अद्वितीय **भूतापीय गर्म झरनों** की उपस्थिति अत्यधिक विशिष्ट, स्थानीयकृत पारिस्थितिक निश बनाती है।\n* **अभयारण्य स्थान:** भीमबांध और राजगीर जैसे वन्यजीव अभयारण्य इन ऊबड़-खाबड़, जंगली पहाड़ियों का उपयोग विविध स्थानिक वनस्पतियों और जीवों की रक्षा के लिए करते हैं।\n\nये प्राचीन पहाड़ियां पारिस्थितिक द्वीप हैं, जो उस जैव विविधता को संरक्षित करती हैं जो अन्यथा मैदानों में खो जाती।"
+      },
+      "geologicalOrigin": "Pre-Cambrian metamorphic quartzites and granite gneisses",
+      "prominentFeatures": [
+        "Sulphur hot springs",
+        "Ancient cave architecture",
+        "Dry deciduous forest pockets"
+      ]
+    },
+    {
+      "id": "wetlands-chaurs-and-mauns",
+      "name": {
+        "en": "Chaurs, Mauns and Oxbow Wetland Ecosystem",
+        "hi": "चौर, मौन एवं गोखुर आर्द्रभूमि पारिस्थितिकी तंत्र"
+      },
+      "category": "freshwater-wetlands",
+      "districtIds": [
+        "begusarai",
+        "vaishali",
+        "darbhanga",
+        "samastipur",
+        "saharsa"
+      ],
+      "description": {
+        "en": "### The Aquatic Sanctuaries\n\nThe northern floodplains are heavily dotted with countless oxbow lakes (Mauns) and sprawling tectonic depressions (Chaurs).\n\n### Ecological Features\n\n* **Migratory Hubs:** During the winter months, these wetlands transform into critical wintering grounds for thousands of migratory birds from Central Asia.\n* **Biodiversity Hotspots:** They act as vibrant nurseries for diverse native fish species, amphibians, and unique aquatic flora like *Makhana*.\n* **Flood Buffers:** Ecologically, they function as massive natural sponges, effectively absorbing and mitigating the destructive impact of monsoon floods.\n\nThese wetlands are dynamic, life-sustaining ecosystems that balance the intense hydrology of North Bihar.",
+        "hi": "### जलीय अभयारण्य\n\nउत्तरी बाढ़ के मैदान अनगिनत गोखुर झीलों (मौन) और फैले हुए विवर्तनिक गर्तों (चौर) से भरे हुए हैं।\n\n### पारिस्थितिक विशेषताएं\n\n* **प्रवासी केंद्र:** सर्दियों के महीनों के दौरान, ये आर्द्रभूमियां मध्य एशिया से आने वाले हजारों प्रवासी पक्षियों के लिए महत्वपूर्ण शीतकालीन मैदानों में बदल जाती हैं।\n* **जैव विविधता हॉटस्पॉट:** वे विविध देशी मछली प्रजातियों, उभयचरों और *मखाना* जैसी अद्वितीय जलीय वनस्पतियों के लिए जीवंत नर्सरी के रूप में कार्य करते हैं।\n* **बाढ़ बफर:** पारिस्थितिक रूप से, वे विशाल प्राकृतिक स्पंज के रूप में कार्य करते हैं, मानसून की बाढ़ के विनाशकारी प्रभाव को प्रभावी ढंग से अवशोषित और कम करते हैं।\n\nये आर्द्रभूमियां गतिशील, जीवन-निर्वाह करने वाले पारिस्थितिक तंत्र हैं जो उत्तर बिहार के गहन जल विज्ञान को संतुलित करते हैं।"
+      },
+      "keySites": [
+        "Kanwar Lake (Kabartal Ramsar site, Begusarai)",
+        "Baraila Chaur (Vaishali)",
+        "Kusheshwar Asthan (Darbhanga)",
+        "Gogabil Lake (Katihar)"
+      ],
+      "migratorySpecies": [
+        "Bar-headed Goose",
+        "Red-crested Pochard",
+        "Northern Pintail",
+        "Siberian Crane (historical)"
+      ]
+    },
+    {
+      "id": "diara-riparian-ecosystem",
+      "name": {
+        "en": "Diara (Riverine Sandbar) Ecosystem",
+        "hi": "दियारा (नदी द्वीप एवं बालू का टीला) पारिस्थितिकी तंत्र"
+      },
+      "category": "riparian-floodplain",
+      "districtIds": [
+        "patna",
+        "saran",
+        "bhojpur",
+        "vaishali",
+        "khagaria",
+        "bhagalpur"
+      ],
+      "description": {
+        "en": "### The Shifting Sands\n\n**Diara lands** are the highly dynamic, ever-shifting sandbars and islands formed directly within the broad beds of major rivers like the Ganga and Kosi.\n\n### Ecological Features\n\n* **Ephemeral Nature:** They are temporary ecosystems, subject to total annual submergence, reshaping, and rebirth during the monsoon.\n* **Pioneer Vegetation:** They are quickly colonized by tough pioneer species like *Kans* (Saccharum spontaneum) and robust reeds.\n* **Nesting Grounds:** Crucially, they serve as vital, undisturbed nesting grounds for specialized riverine wildlife, including turtles and the **Indian Skimmer**.\n\nThe Diara represents nature's constant state of flux and adaptation in riverine environments.",
+        "hi": "### खिसकती रेत\n\n**दियारा भूमि** अत्यधिक गतिशील, हमेशा खिसकने वाले सैंडबार और द्वीप हैं जो सीधे गंगा और कोसी जैसी प्रमुख नदियों के विस्तृत बिस्तरों के भीतर बनते हैं।\n\n### पारिस्थितिक विशेषताएं\n\n* **अल्पकालिक प्रकृति:** वे अस्थायी पारिस्थितिक तंत्र हैं, जो मानसून के दौरान पूर्ण वार्षिक जलमग्नता, पुनर्आकार और पुनर्जन्म के अधीन हैं।\n* **पायनियर वनस्पति:** वे जल्दी से *कांस* (सच्चारम स्पोंटेनियम) और मजबूत नरकट जैसी कठिन पायनियर प्रजातियों द्वारा उपनिवेशित हो जाते हैं।\n* **घोंसले के शिकार के मैदान:** महत्वपूर्ण रूप से, वे कछुओं और **इंडियन स्किमर** सहित विशिष्ट नदी वन्यजीवों के लिए महत्वपूर्ण, अबाधित घोंसले के शिकार के मैदान के रूप में काम करते हैं।\n\nदियारा नदी के वातावरण में प्रकृति के निरंतर प्रवाह और अनुकूलन का प्रतिनिधित्व करता है।"
+      }
+    }
+  ]
+}

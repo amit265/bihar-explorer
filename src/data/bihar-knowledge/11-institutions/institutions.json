@@ -1,0 +1,219 @@
+{
+  "data": [
+    {
+      "id": "iit-patna",
+      "name": {
+        "en": "Indian Institute of Technology Patna (IIT Patna)",
+        "hi": "भारतीय प्रौद्योगिकी संस्थान पटना (आईआईटी पटना)"
+      },
+      "category": "higher-education-engineering",
+      "establishedYear": 2008,
+      "type": "Institute of National Importance",
+      "districtIds": [
+        "patna"
+      ],
+      "location": {
+        "en": "Bihta, Patna",
+        "hi": "बिहटा, पटना"
+      },
+      "description": {
+        "en": "### Institution Overview\nIndian Institute of Technology Patna (IIT Patna) is an autonomous Institute of National Importance established in 2008 by the Ministry of Education, Government of India. It is situated on a sprawling 501-acre ultra-modern campus in Bihta.\n\n### Academic Excellence\n* **Cutting-Edge Research:** Acclaimed globally for its advanced research in artificial intelligence, computer science, materials engineering, and renewable energy.\n* **State-of-the-art Centers:** Home to the Center for Earthquake Engineering and the prestigious Incubation Centre for Medical Electronics.\n\n### Impact\nSince its inception, IIT Patna has rapidly emerged as Eastern India’s technological powerhouse, producing elite engineers and researchers shaping the future of global innovation.",
+        "hi": "### संस्थान का अवलोकन\nभारतीय प्रौद्योगिकी संस्थान पटना (आईआईटी पटना) भारत सरकार के शिक्षा मंत्रालय द्वारा 2008 में स्थापित राष्ट्रीय महत्व का एक स्वायत्त संस्थान है। यह बिहटा में 501 एकड़ के अत्याधुनिक परिसर में स्थित है।\n\n### अकादमिक उत्कृष्टता\n* **अत्याधुनिक अनुसंधान:** आर्टिफिशियल इंटेलिजेंस, कंप्यूटर साइंस, सामग्री इंजीनियरिंग (Materials Engineering) और नवीकरणीय ऊर्जा में अपने उन्नत शोध के लिए विश्व स्तर पर प्रशंसित।\n* **उन्नत केंद्र:** भूकंप इंजीनियरिंग केंद्र और चिकित्सा इलेक्ट्रॉनिक्स के लिए प्रतिष्ठित इन्क्यूबेशन सेंटर (Incubation Centre) का संचालन करता है。\n\n### प्रभाव\nअपनी स्थापना के बाद से, आईआईटी पटना तेजी से पूर्वी भारत के तकनीकी पावरहाउस के रूप में उभरा है, जो वैश्विक नवाचार के भविष्य को आकार देने वाले कुलीन इंजीनियरों और शोधकर्ताओं को तैयार कर रहा है।"
+      },
+      "keyCenters": [
+        "Center for Earthquake Engineering",
+        "Center for Artificial Intelligence & Natural Language Processing",
+        "Incubation Centre for Medical Electronics"
+      ]
+    },
+    {
+      "id": "aiims-patna",
+      "name": {
+        "en": "All India Institute of Medical Sciences Patna (AIIMS Patna)",
+        "hi": "अखिल भारतीय आयुर्विज्ञान संस्थान पटना (एम्स पटना)"
+      },
+      "category": "medical-research-healthcare",
+      "establishedYear": 2012,
+      "type": "Institute of National Importance",
+      "districtIds": [
+        "patna"
+      ],
+      "location": {
+        "en": "Phulwari Sharif, Patna",
+        "hi": "फुलवारी शरीफ, पटना"
+      },
+      "description": {
+        "en": "### Institution Overview\nEstablished in 2012 under the Pradhan Mantri Swasthya Suraksha Yojana (PMSSY), the All India Institute of Medical Sciences Patna (AIIMS Patna) is Eastern India’s premier medical institute and super-specialty hospital. It was founded to correct regional imbalances in tertiary healthcare.\n\n### Core Healthcare Services\n* **Advanced Medical Care:** Delivers world-class medical education, specialized clinical research, and superspecialty surgical interventions.\n* **Trauma & Emergency:** Features one of the region's most advanced, round-the-clock trauma and emergency care centers.\n\n### Impact\nLocated in Phulwari Sharif, AIIMS Patna serves as a crucial healthcare lifeline, providing affordable, high-quality treatment to millions of patients from Bihar, neighboring states, and even Nepal.",
+        "hi": "### संस्थान का अवलोकन\nप्रधानमंत्री स्वास्थ्य सुरक्षा योजना (PMSSY) के तहत 2012 में स्थापित, अखिल भारतीय आयुर्विज्ञान संस्थान पटना (एम्स पटना) पूर्वी भारत का प्रमुख चिकित्सा संस्थान और सुपर-स्पेशियलिटी अस्पताल है। इसकी स्थापना तृतीयक स्वास्थ्य सेवा (tertiary healthcare) में क्षेत्रीय असंतुलन को दूर करने के लिए की गई थी।\n\n### प्रमुख स्वास्थ्य सेवाएं\n* **उन्नत चिकित्सा देखभाल:** विश्व स्तरीय चिकित्सा शिक्षा, विशेष नैदानिक अनुसंधान और सुपर-स्पेशियलिटी सर्जिकल सेवाएं प्रदान करता है।\n* **ट्रॉमा और आपातकाल:** क्षेत्र के सबसे उन्नत, चौबीसों घंटे काम करने वाले ट्रॉमा और आपातकालीन देखभाल केंद्रों में से एक है।\n\n### प्रभाव\nफुलवारी शरीफ में स्थित, एम्स पटना एक महत्वपूर्ण जीवन रेखा के रूप में कार्य करता है, जो बिहार, पड़ोसी राज्यों और यहां तक कि नेपाल के लाखों मरीजों को सस्ती और उच्च गुणवत्ता वाली चिकित्सा प्रदान करता है।"
+      }
+    },
+    {
+      "id": "nit-patna",
+      "name": {
+        "en": "National Institute of Technology Patna (NIT Patna)",
+        "hi": "राष्ट्रीय प्रौद्योगिकी संस्थान पटना (एनआईटी पटना)"
+      },
+      "category": "higher-education-engineering",
+      "establishedYear": 1886,
+      "type": "Institute of National Importance (converted to NIT in 2004)",
+      "districtIds": [
+        "patna"
+      ],
+      "location": {
+        "en": "Ashok Rajpath, Patna (New Campus at Bihta)",
+        "hi": "अशोक राजपथ, पटना (नया परिसर बिहटा में)"
+      },
+      "description": {
+        "en": "### Institution Overview\nNational Institute of Technology Patna (NIT Patna) is the sixth oldest engineering institute in India. Originally founded in 1886 as a Pleaders' Survey Training School, it was later known as the historic Bihar College of Engineering before being elevated to an NIT by the Government of India in 2004.\n\n### Academic Heritage\n* **Legacy of Excellence:** Boasts over 130 years of history, having trained generations of premier civil, mechanical, and electrical engineers.\n* **Modern Expansion:** While the heritage campus is located along the banks of the Ganges at Ashok Rajpath, a massive modern campus is being developed at Bihta.\n\n### Impact\nNIT Patna continues to be a cornerstone of technical education in India, combining its rich historical legacy with modern technological advancement.",
+        "hi": "### संस्थान का अवलोकन\nराष्ट्रीय प्रौद्योगिकी संस्थान पटना (एनआईटी पटना) भारत का छठा सबसे पुराना इंजीनियरिंग संस्थान है। मूल रूप से 1886 में 'सर्वे ट्रेनिंग स्कूल' के रूप में स्थापित, इसे बाद में ऐतिहासिक 'बिहार कॉलेज ऑफ इंजीनियरिंग' के रूप में जाना गया, जिसे 2004 में भारत सरकार द्वारा एनआईटी (NIT) का दर्जा दिया गया।\n\n### अकादमिक विरासत\n* **उत्कृष्टता की विरासत:** इसका 130 से अधिक वर्षों का शानदार इतिहास है, जिसने देश को प्रमुख सिविल, मैकेनिकल और इलेक्ट्रिकल इंजीनियरों की कई पीढ़ियां दी हैं।\n* **आधुनिक विस्तार:** हालांकि इसका ऐतिहासिक परिसर अशोक राजपथ पर गंगा के तट पर स्थित है, बिहटा में एक विशाल और आधुनिक परिसर भी विकसित किया जा रहा है।\n\n### प्रभाव\nएनआईटी पटना भारत में तकनीकी शिक्षा की एक आधारशिला बना हुआ है, जो अपनी समृद्ध ऐतिहासिक विरासत को आधुनिक तकनीकी प्रगति के साथ जोड़ता है।"
+      }
+    },
+    {
+      "id": "nalanda-university-rajgir",
+      "name": {
+        "en": "Nalanda University (International University)",
+        "hi": "नालंदा विश्वविद्यालय (अंतरराष्ट्रीय विश्वविद्यालय)"
+      },
+      "category": "international-research-university",
+      "establishedYear": 2010,
+      "type": "Central University established by Act of Indian Parliament",
+      "districtIds": [
+        "nalanda"
+      ],
+      "location": {
+        "en": "Rajgir, Nalanda",
+        "hi": "राजगीर, नालंदा"
+      },
+      "description": {
+        "en": "### Institution Overview\nNalanda University in Rajgir is a majestic modern revival of the ancient 5th-century global seat of learning (Nalanda Mahavihara). It was established in 2010 by a special Act of the Indian Parliament following a joint resolution of the East Asia Summit, supported by 17 partner countries.\n\n### Academic Focus & Infrastructure\n* **Specialized Studies:** Focuses extensively on Historical Studies, Buddhist Philosophy, Ecology, Environmental Studies, and Global Peace.\n* **Net-Zero Green Campus:** Features a state-of-the-art 455-acre net-zero carbon campus, formally inaugurated in 2024, blending sustainable architecture with ancient aesthetics.\n\n### Global Significance\nThe university serves as an international bridge of knowledge, bringing together scholars from across Asia and the world, deeply rooted in the philosophical heritage of Lord Buddha.",
+        "hi": "### संस्थान का अवलोकन\nराजगीर स्थित नालंदा विश्वविद्यालय 5वीं शताब्दी के प्राचीन वैश्विक ज्ञान केंद्र (नालंदा महाविहार) का एक भव्य आधुनिक पुनरुद्धार है। इसकी स्थापना 2010 में भारतीय संसद के एक विशेष अधिनियम द्वारा, पूर्वी एशिया शिखर सम्मेलन के 17 भागीदार देशों के सहयोग से की गई थी।\n\n### अकादमिक ध्यान और बुनियादी ढांचा\n* **विशेष अध्ययन:** ऐतिहासिक अध्ययन, बौद्ध दर्शन, पारिस्थितिकी, पर्यावरण अध्ययन और वैश्विक शांति पर विशेष जोर देता है।\n* **नेट-जीरो ग्रीन कैंपस:** 2024 में उद्घाटित इसका 455 एकड़ का अत्याधुनिक नेट-जीरो कार्बन परिसर, टिकाऊ वास्तुकला को प्राचीन सौंदर्यशास्त्र के साथ जोड़ता है।\n\n### वैश्विक महत्व\nयह विश्वविद्यालय ज्ञान के एक अंतरराष्ट्रीय पुल के रूप में कार्य करता है, जो पूरे एशिया और दुनिया के विद्वानों को एक साथ लाता है, और भगवान बुद्ध की दार्शनिक विरासत में गहराई से निहित है।"
+      }
+    },
+    {
+      "id": "iim-bodh-gaya",
+      "name": {
+        "en": "Indian Institute of Management Bodh Gaya (IIM Bodh Gaya)",
+        "hi": "भारतीय प्रबंध संस्थान बोधगया (आईआईएम बोधगया)"
+      },
+      "category": "business-management",
+      "establishedYear": 2015,
+      "type": "Institute of National Importance",
+      "districtIds": [
+        "gaya"
+      ],
+      "location": {
+        "en": "Bodh Gaya, Gaya",
+        "hi": "बोधगया, गया"
+      },
+      "description": {
+        "en": "### Institution Overview\nRevered as 'The Enlightening IIM', the Indian Institute of Management Bodh Gaya (IIM Bodh Gaya) was established in 2015 by the Ministry of Education. It is uniquely situated in the historic city of Bodh Gaya, the cradle of enlightenment.\n\n### Unique Academic Approach\n* **Mindful Leadership:** Uniquely blends modern, rigorous business management principles with mindful leadership and core ethical values.\n* **Sustainable Campus:** Operates from a beautifully designed, eco-friendly 119-acre permanent campus reflecting Buddhist architectural motifs.\n\n### Impact\nIIM Bodh Gaya is rapidly transforming into a premier hub for developing socially responsible business leaders, managers, and entrepreneurs who are driven by ethics as much as by economics.",
+        "hi": "### संस्थान का अवलोकन\n'ज्ञान के संवाहक' (The Enlightening IIM) के रूप में प्रतिष्ठित, भारतीय प्रबंध संस्थान बोधगया (आईआईएम बोधगया) की स्थापना 2015 में शिक्षा मंत्रालय द्वारा की गई थी। यह ज्ञान और शांति की ऐतिहासिक नगरी बोधगया में स्थित है।\n\n### अनूठा अकादमिक दृष्टिकोण\n* **सचेत नेतृत्व (Mindful Leadership):** यह आधुनिक और कठोर व्यवसाय प्रबंधन सिद्धांतों को सचेत नेतृत्व और मुख्य नैतिक मूल्यों के साथ जोड़ता है।\n* **टिकाऊ परिसर:** यह बौद्ध वास्तुकला को दर्शाने वाले एक खूबसूरती से डिजाइन किए गए, पर्यावरण के अनुकूल 119 एकड़ के स्थायी परिसर से संचालित होता है।\n\n### प्रभाव\nआईआईएम बोधगया तेजी से सामाजिक रूप से जिम्मेदार व्यापारिक नेताओं, प्रबंधकों और उद्यमियों को विकसित करने के लिए एक प्रमुख केंद्र में बदल रहा है, जो अर्थशास्त्र के साथ-साथ नैतिकता से भी प्रेरित हैं।"
+      }
+    },
+    {
+      "id": "patna-university",
+      "name": {
+        "en": "Patna University ('Oxford of the East')",
+        "hi": "पटना विश्वविद्यालय ('पूरब का ऑक्सफोर्ड')"
+      },
+      "category": "state-university",
+      "establishedYear": 1917,
+      "type": "State University",
+      "districtIds": [
+        "patna"
+      ],
+      "location": {
+        "en": "Ashok Rajpath, Patna",
+        "hi": "अशोक राजपथ, पटना"
+      },
+      "description": {
+        "en": "### Institution Overview\nEstablished in 1917 during British colonial rule, Patna University is the seventh oldest university in the Indian subcontinent. Historically celebrated as the 'Oxford of the East', it remains Bihar's most prestigious traditional state university.\n\n### Academic Legacy\n* **Illustrious Colleges:** Encompasses legendary institutions like Patna College (est. 1863), Science College (est. 1927), Patna Women's College, and Bihar National (B.N.) College.\n* **Alumni Network:** Has produced generations of India's most prominent jurists, parliamentarians, chief ministers, civil servants, and acclaimed scholars.\n\n### Impact\nDespite the test of time, Patna University situated along the historic Ashok Rajpath continues to be the cultural and intellectual nerve center of Bihar's higher education system.",
+        "hi": "### संस्थान का अवलोकन\nब्रिटिश औपनिवेशिक शासन के दौरान 1917 में स्थापित, पटना विश्वविद्यालय भारतीय उपमहाद्वीप का सातवां सबसे पुराना विश्वविद्यालय है। ऐतिहासिक रूप से 'पूरब के ऑक्सफोर्ड' के रूप में विख्यात, यह बिहार का सबसे प्रतिष्ठित पारंपरिक राज्य विश्वविद्यालय बना हुआ है।\n\n### अकादमिक विरासत\n* **प्रतिष्ठित कॉलेज:** इसके अंतर्गत पटना कॉलेज (स्थापना 1863), साइंस कॉलेज (स्थापना 1927), पटना वीमेंस कॉलेज और बिहार नेशनल (B.N.) कॉलेज जैसे ऐतिहासिक संस्थान आते हैं।\n* **पूर्व छात्र नेटवर्क:** इसने भारत के कई सबसे प्रमुख न्यायविदों, सांसदों, मुख्यमंत्रियों, सिविल सेवकों और प्रशंसित विद्वानों की पीढ़ियों को तैयार किया है।\n\n### प्रभाव\nसमय की कसौटी पर खरा उतरते हुए, ऐतिहासिक अशोक राजपथ के किनारे स्थित पटना विश्वविद्यालय आज भी बिहार की उच्च शिक्षा प्रणाली का सांस्कृतिक और बौद्धिक केंद्र बिंदु बना हुआ है।"
+      }
+    },
+    {
+      "id": "dr-rajendra-prasad-central-agricultural-university",
+      "name": {
+        "en": "Dr. Rajendra Prasad Central Agricultural University (RPCAU)",
+        "hi": "डॉ. राजेंद्र प्रसाद केंद्रीय कृषि विश्वविद्यालय (RPCAU)"
+      },
+      "category": "agricultural-research-education",
+      "establishedYear": 1905,
+      "type": "Central Agricultural University (upgraded in 2016)",
+      "districtIds": [
+        "samastipur"
+      ],
+      "location": {
+        "en": "Pusa, Samastipur",
+        "hi": "पूसा, समस्तीपुर"
+      },
+      "description": {
+        "en": "### Institution Overview\nDr. Rajendra Prasad Central Agricultural University (RPCAU) in Pusa, Samastipur, is a premier agricultural institution. It was originally established in 1905 as the Imperial Agricultural Research Institute (IARI Pusa) with a generous philanthropic donation from American Henry Phipps.\n\n### Historical Evolution\n* **The 1934 Earthquake:** After the devastating 1934 Bihar earthquake damaged its original buildings, the main national research division was shifted to New Delhi (present-day ICAR/IARI).\n* **Central University Status:** The Pusa campus continued as a state agricultural university and was finally elevated to a full Central Agricultural University by an Act of Parliament in 2016.\n\n### Impact\nRPCAU is a vital nerve center for agricultural innovation, sustainable farming research, and extension services, driving the agrarian economy of the fertile Gangetic plains.",
+        "hi": "### संस्थान का अवलोकन\nपूसा, समस्तीपुर में स्थित डॉ. राजेंद्र प्रसाद केंद्रीय कृषि विश्वविद्यालय (RPCAU) एक प्रमुख कृषि संस्थान है। इसे मूल रूप से 1905 में अमेरिकी नागरिक हेनरी फिप्स के उदार दान से 'इंपीरियल एग्रीकल्चरल रिसर्च इंस्टीट्यूट' (IARI पूसा) के रूप में स्थापित किया गया था।\n\n### ऐतिहासिक विकास\n* **1934 का भूकंप:** 1934 के विनाशकारी बिहार भूकंप में इसकी मूल इमारतों के क्षतिग्रस्त होने के बाद, मुख्य राष्ट्रीय अनुसंधान प्रभाग को नई दिल्ली (वर्तमान ICAR/IARI) स्थानांतरित कर दिया गया था।\n* **केंद्रीय विश्वविद्यालय का दर्जा:** पूसा परिसर एक राज्य कृषि विश्वविद्यालय के रूप में जारी रहा और अंततः 2016 में संसद के एक अधिनियम द्वारा इसे पूर्ण 'केंद्रीय कृषि विश्वविद्यालय' का दर्जा दिया गया।\n\n### प्रभाव\nRPCAU कृषि नवाचार, टिकाऊ खेती अनुसंधान और विस्तार सेवाओं के लिए एक महत्वपूर्ण केंद्र है, जो उपजाऊ गंगा के मैदानों की कृषि अर्थव्यवस्था को शक्ति प्रदान करता है।"
+      }
+    },
+    {
+      "id": "chanakya-national-law-university",
+      "name": {
+        "en": "Chanakya National Law University (CNLU)",
+        "hi": "चाणक्य राष्ट्रीय विधि विश्वविद्यालय (सीएनएलयू)"
+      },
+      "category": "legal-education",
+      "establishedYear": 2006,
+      "type": "Autonomous State Law University",
+      "districtIds": [
+        "patna"
+      ],
+      "location": {
+        "en": "Nyaya Nagar, Mithapur, Patna",
+        "hi": "न्याय नगर, मीठापुर, पटना"
+      },
+      "description": {
+        "en": "### Institution Overview\nChanakya National Law University (CNLU) is a premier autonomous national law school established in 2006 under the Chanakya National Law University Act. Located in the Nyaya Nagar area of Mithapur, Patna, the Chief Justice of the Patna High Court serves as its ex-officio Chancellor.\n\n### Academic Excellence\n* **Legal Education:** Dedicated to imparting rigorous, high-quality legal education through its flagship B.A., LL.B. (Hons.) and LL.M. programs.\n* **Research Centers:** Fosters advanced research in jurisprudence, human rights, child rights, and constitutional law through various dedicated centers.\n\n### Impact\nCNLU has rapidly established itself among India's top law schools, preparing a new generation of astute lawyers, judges, and legal academicians committed to justice and the rule of law.",
+        "hi": "### संस्थान का अवलोकन\nचाणक्य राष्ट्रीय विधि विश्वविद्यालय (CNLU) एक प्रमुख स्वायत्त राष्ट्रीय विधि विद्यालय है, जिसकी स्थापना 2006 में चाणक्य राष्ट्रीय विधि विश्वविद्यालय अधिनियम के तहत की गई थी। पटना के मीठापुर के न्याय नगर क्षेत्र में स्थित, पटना उच्च न्यायालय के मुख्य न्यायाधीश इसके पदेन कुलाधिपति (Chancellor) होते हैं।\n\n### अकादमिक उत्कृष्टता\n* **कानूनी शिक्षा:** अपने प्रमुख बी.ए., एलएल.बी. (ऑनर्स) और एलएल.एम. कार्यक्रमों के माध्यम से कठोर, उच्च गुणवत्ता वाली कानूनी शिक्षा प्रदान करने के लिए समर्पित है।\n* **अनुसंधान केंद्र:** विभिन्न समर्पित केंद्रों के माध्यम से न्यायशास्त्र, मानवाधिकार, बाल अधिकार और संवैधानिक कानून में उन्नत अनुसंधान को बढ़ावा देता है।\n\n### प्रभाव\nCNLU ने तेजी से खुद को भारत के शीर्ष लॉ स्कूलों में स्थापित कर लिया है, जो न्याय और कानून के शासन के प्रति प्रतिबद्ध चतुर वकीलों, न्यायाधीशों और कानूनी शिक्षाविदों की एक नई पीढ़ी तैयार कर रहा है।"
+      }
+    },
+    {
+      "id": "ans-institute-of-social-studies",
+      "name": {
+        "en": "A.N. Sinha Institute of Social Studies (ANSISS)",
+        "hi": "अनुग्रह नारायण सिन्हा समाज अध्ययन संस्थान"
+      },
+      "category": "social-science-research",
+      "establishedYear": 1958,
+      "type": "Autonomous Research Institute",
+      "districtIds": [
+        "patna"
+      ],
+      "location": {
+        "en": "North Gandhi Maidan, Patna",
+        "hi": "उत्तरी गांधी मैदान, पटना"
+      },
+      "description": {
+        "en": "### Institution Overview\nThe A.N. Sinha Institute of Social Studies (ANSISS) is a premier autonomous research institute located in Patna. Founded in 1958, it was established in memory of Bihar's first Deputy Chief Minister and eminent freedom fighter, Dr. Anugrah Narayan Sinha.\n\n### Research & Policy Focus\n* **Core Areas:** Specializes deeply in agrarian economics, public policy, rural transformation, and sociological studies.\n* **Institutional Support:** It is funded jointly by the Indian Council of Social Science Research (ICSSR) and the Government of Bihar.\n\n### Impact\nANSISS serves as a critical intellectual think-tank for the state government. It produces high-quality socio-economic research that directly influences policy-making, poverty alleviation programs, and sustainable development initiatives in Bihar.",
+        "hi": "### संस्थान का अवलोकन\nअनुग्रह नारायण सिन्हा समाज अध्ययन संस्थान (ANSISS) पटना में स्थित एक प्रमुख स्वायत्त शोध संस्थान है। 1958 में स्थापित, यह बिहार के पहले उप-मुख्यमंत्री और प्रख्यात स्वतंत्रता सेनानी, डॉ. अनुग्रह नारायण सिन्हा की स्मृति में बनाया गया था।\n\n### अनुसंधान और नीति फोकस\n* **प्रमुख क्षेत्र:** यह कृषि अर्थशास्त्र, सार्वजनिक नीति, ग्रामीण परिवर्तन और समाजशास्त्रीय अध्ययन में विशेष विशेषज्ञता रखता है।\n* **संस्थागत समर्थन:** इसे भारतीय सामाजिक विज्ञान अनुसंधान परिषद (ICSSR) और बिहार सरकार द्वारा संयुक्त रूप से वित्त पोषित किया जाता है।\n\n### प्रभाव\nANSISS राज्य सरकार के लिए एक महत्वपूर्ण बौद्धिक थिंक-टैंक (Think-tank) के रूप में कार्य करता है। यह उच्च गुणवत्ता वाले सामाजिक-आर्थिक शोध तैयार करता है जो बिहार में नीति-निर्माण, गरीबी उन्मूलन कार्यक्रमों और सतत विकास पहलों को सीधे प्रभावित करता है।"
+      }
+    },
+    {
+      "id": "bihar-state-disaster-management-authority",
+      "name": {
+        "en": "Bihar State Disaster Management Authority (BSDMA)",
+        "hi": "बिहार राज्य आपदा प्रबंधन प्राधिकरण (BSDMA)"
+      },
+      "category": "disaster-governance-statutory",
+      "establishedYear": 2007,
+      "type": "Statutory State Authority",
+      "districtIds": [
+        "patna"
+      ],
+      "location": {
+        "en": "Sardar Patel Bhawan, Bailey Road, Patna",
+        "hi": "सरदार पटेल भवन, बेली रोड, पटना"
+      },
+      "description": {
+        "en": "### Institution Overview\nThe Bihar State Disaster Management Authority (BSDMA) is the statutory apex body established under the National Disaster Management Act, 2005. Headed by the Chief Minister of Bihar, its headquarters are located in the fortified Sardar Patel Bhawan in Patna.\n\n### Core Functions\n* **Risk Reduction:** Actively works on disaster risk reduction in one of India's most multi-hazard prone states (facing floods, earthquakes, and lightning).\n* **Early Warning Systems:** Deploys innovative technology such as the 'Indravajra' mobile app for lightning early warnings and formulates earthquake-resistant construction guidelines.\n\n### Impact\nBSDMA plays a lifesaving role by shifting the paradigm from post-disaster relief to pre-disaster preparedness, significantly minimizing the loss of life and property across Bihar.",
+        "hi": "### संस्थान का अवलोकन\nबिहार राज्य आपदा प्रबंधन प्राधिकरण (BSDMA) राष्ट्रीय आपदा प्रबंधन अधिनियम, 2005 के तहत स्थापित वैधानिक सर्वोच्च निकाय है। बिहार के मुख्यमंत्री की अध्यक्षता वाले इस प्राधिकरण का मुख्यालय पटना के मजबूत सरदार पटेल भवन में स्थित है।\n\n### प्रमुख कार्य\n* **जोखिम न्यूनीकरण:** भारत के सबसे अधिक बहु-आपदा संभावित राज्यों (बाढ़, भूकंप और वज्रपात) में से एक में आपदा जोखिम को कम करने पर सक्रिय रूप से काम करता है।\n* **पूर्व चेतावनी प्रणाली:** वज्रपात (बिजली गिरने) की पूर्व चेतावनी के लिए 'इंद्रवज्र' मोबाइल ऐप जैसी नवीन तकनीक तैनात करता है और भूकंप प्रतिरोधी निर्माण दिशानिर्देश तैयार करता है।\n\n### प्रभाव\nBSDMA आपदा के बाद की राहत से पहले की तैयारियों (Preparedness) तक प्रतिमान (Paradigm) को बदलकर जीवन रक्षक भूमिका निभाता है, जिससे पूरे बिहार में जान-माल के नुकसान को काफी हद तक कम किया जा सका है।"
+      }
+    }
+  ]
+}

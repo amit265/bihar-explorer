@@ -1,0 +1,436 @@
+{
+  "data": [
+    {
+      "id": "battle-of-buxar-1764",
+      "era": "modern",
+      "date": {
+        "en": "October 22, 1764",
+        "hi": "22 अक्टूबर 1764"
+      },
+      "title": {
+        "en": "The Battle of Buxar & The Treaty of Allahabad",
+        "hi": "बक्सर का युद्ध एवं इलाहाबाद की संधि"
+      },
+      "keyFigures": [
+        {
+          "en": "Major Hector Munro (British East India Company)",
+          "hi": "मेजर हेक्टर मुनरो (ब्रिटिश ईस्ट इंडिया कंपनी)"
+        },
+        {
+          "en": "Mir Qasim (Nawab of Bengal)",
+          "hi": "मीर कासिम (बंगाल के अपदस्थ नवाब)"
+        },
+        {
+          "en": "Shuja-ud-Daulah (Nawab of Awadh)",
+          "hi": "शुजाउद्दौला (अवध के नवाब)"
+        },
+        {
+          "en": "Shah Alam II (Mughal Emperor)",
+          "hi": "शाह आलम द्वितीय (मुगल सम्राट)"
+        },
+        {
+          "en": "Lord Robert Clive",
+          "hi": "रॉबर्ट क्लाइव"
+        }
+      ],
+      "description": {
+        "en": "### The Decisive Clash\nFought on the plains of Katkauli near Buxar, the **Battle of Buxar** proved to be a major turning point in Indian history. The British forces, commanded by **Major Hector Munro**, decisively defeated a powerful tripartite alliance comprising the Nawab of Bengal (*Mir Qasim*), the Nawab of Awadh (*Shuja-ud-Daulah*), and the Mughal Emperor (*Shah Alam II*).\n\n### The Treaty of Allahabad (1765)\nFollowing this staggering defeat, Emperor Shah Alam II was forced to sign the humiliating Treaty of Allahabad in August 1765. \n* **The Diwani Rights**: The treaty formally granted the British East India Company the *Diwani*—the absolute right to collect revenues—of Bengal, Bihar, and Orissa.\n\n### Historical Impact\nThis single battle effectively transitioned the East India Company from mere mercantile traders to the de facto sovereign rulers and territorial masters of northern and eastern India.",
+        "hi": "### निर्णायक संघर्ष\nबक्सर के निकट कतकौली के मैदान में लड़े गए **बक्सर के युद्ध** ने भारतीय इतिहास की दिशा ही बदल दी। **मेजर हेक्टर मुनरो** के नेतृत्व वाली ब्रिटिश सेना ने बंगाल के नवाब (*मीर कासिम*), अवध के नवाब (*शुजाउद्दौला*) और मुगल सम्राट (*शाह आलम द्वितीय*) की एक शक्तिशाली संयुक्त त्रिपक्षीय सेना को निर्णायक रूप से पराजित किया।\n\n### इलाहाबाद की संधि (1765)\nइस आश्चर्यजनक हार के बाद, सम्राट शाह आलम द्वितीय को अगस्त 1765 में अपमानजनक इलाहाबाद की संधि पर हस्ताक्षर करने पड़े।\n* **दीवानी अधिकार**: इस संधि ने ब्रिटिश ईस्ट इंडिया कंपनी को बंगाल, बिहार और उड़ीसा की *'दीवानी'* (राजस्व वसूली का पूर्ण अधिकार) औपचारिक रूप से सौंप दी।\n\n### ऐतिहासिक प्रभाव\nइस एक युद्ध ने ईस्ट इंडिया कंपनी को एक साधारण व्यापारिक कंपनी से उत्तर और पूर्वी भारत के वास्तविक संप्रभु शासकों और क्षेत्रीय स्वामियों में बदल दिया।"
+      },
+      "impact": {
+        "en": "Established British East India Company as the de facto sovereign ruler of northern and eastern India, transitioning them from mere traders to territorial masters.",
+        "hi": "इस युद्ध ने अंग्रेजों को उत्तर व पूर्वी भारत का वास्तविक शासक बना दिया और ईस्ट इंडिया कंपनी एक व्यापारिक कंपनी से भारत की संप्रभु शक्ति में बदल गई।"
+      },
+      "associatedDistrictIds": [
+        "buxar"
+      ],
+      "sources": [
+        "Treaty of Allahabad, 1765 Official Record",
+        "Archaeological Survey of India Katkauli Buxar Memorial"
+      ]
+    },
+    {
+      "id": "famine-of-1770-and-golghar",
+      "era": "modern",
+      "date": {
+        "en": "1770 & 1786",
+        "hi": "1770 एवं 1786"
+      },
+      "title": {
+        "en": "The Great Famine of 1770 & Construction of Golghar",
+        "hi": "1770 का भीषण अकाल एवं गोलघर का निर्माण"
+      },
+      "keyFigures": [
+        {
+          "en": "Warren Hastings (Governor-General of India)",
+          "hi": "वारेन हेस्टिंग्स (भारत का गवर्नर-जनरल)"
+        },
+        {
+          "en": "Captain John Garstin (Bengal Engineers)",
+          "hi": "कैप्टन जॉन गार्स्टिन (इंजीनियर)"
+        },
+        {
+          "en": "Lord Cornwallis (completed under his tenure)",
+          "hi": "लॉर्ड कॉर्नवालिस"
+        }
+      ],
+      "description": {
+        "en": "### The Great Calamity\nThe devastating Bengal-Bihar Famine of 1770 wiped out nearly one-third of the region's population. This catastrophic loss of life was driven not just by widespread crop failure, but exacerbated severely by the ruthless and oppressive revenue extractions of the newly empowered British East India Company.\n\n### The Monument of Prevention\nTo prevent recurring food panics and secure grain for the British army, Governor-General **Warren Hastings** commissioned the construction of a massive granary. \n* **Engineering Marvel**: Built by **Captain John Garstin** and officially completed on July 20, 1786, the **Golghar** in Patna is a 29-meter tall, pillarless stupa-shaped beehive structure.\n* **Vast Capacity**: It boasts an immense storage capacity of 137,000 tonnes of grain.\n\n### Architectural Legacy\nToday, the Golghar stands as an iconic architectural landmark of modern Patna, famous for its spiral dual staircases offering panoramic views of the River Ganga and the sprawling city.",
+        "hi": "### भीषण त्रासदी\n1770 के विनाशकारी बंगाल-बिहार अकाल ने क्षेत्र की लगभग एक-तिहाई आबादी को पूरी तरह से मिटा दिया। जीवन की यह विनाशकारी क्षति केवल फसल खराब होने के कारण नहीं थी, बल्कि नव-सशक्त ब्रिटिश ईस्ट इंडिया कंपनी की क्रूर और दमनकारी राजस्व वसूली ने इसे और भी बदतर बना दिया था।\n\n### बचाव का स्मारक\nभविष्य में अन्न संकट से निपटने और ब्रिटिश सेना के लिए अनाज सुरक्षित करने हेतु, गवर्नर-जनरल **वारेन हेस्टिंग्स** ने एक विशाल अन्न भंडार के निर्माण का आदेश दिया।\n* **इंजीनियरिंग का चमत्कार**: **कैप्टन जॉन गार्स्टिन** द्वारा निर्मित और आधिकारिक तौर पर 20 जुलाई 1786 को पूर्ण हुआ, पटना का **गोलघर** एक 29 मीटर ऊंचा, बिना खंभों वाला स्तूपनुमा मधुमक्खी के छत्ते के आकार का ढांचा है।\n* **विशाल क्षमता**: इसमें 1,37,000 टन अनाज भंडारण की विशाल क्षमता है।\n\n### स्थापत्य विरासत\nआज, गोलघर आधुनिक पटना का एक प्रतिष्ठित स्थापत्य प्रतीक है, जो अपनी घुमावदार दोहरी सीढ़ियों के लिए प्रसिद्ध है जहाँ से गंगा नदी और पूरे शहर का विहंगम दृश्य दिखाई देता है।"
+      },
+      "impact": {
+        "en": "Golghar became an iconic architectural landmark of modern Patna, providing panoramic views of the Ganga and the city from its spiral dual staircases.",
+        "hi": "गोलघर आधुनिक पटना का सबसे प्रमुख ऐतिहासिक प्रतीक बना, जिसकी घुमावदार सीढ़ियों से गंगा और पूरे नगर का विहंगम दृश्य दिखाई देता है।"
+      },
+      "associatedDistrictIds": [
+        "patna"
+      ],
+      "sources": [
+        "Inscription on the Base of Golghar Patna, 1786",
+        "Patna District Gazetteer"
+      ]
+    },
+    {
+      "id": "permanent-settlement-1793",
+      "era": "modern",
+      "date": {
+        "en": "1793",
+        "hi": "1793"
+      },
+      "title": {
+        "en": "The Permanent Settlement of 1793 & Agrarian Transformation",
+        "hi": "1793 का स्थायी बंदोबस्त एवं कृषि व्यवस्था"
+      },
+      "keyFigures": [
+        {
+          "en": "Lord Cornwallis (Governor-General)",
+          "hi": "लॉर्ड कॉर्नवालिस (गवर्नर-जनरल)"
+        },
+        {
+          "en": "Sir John Shore (Advisor)",
+          "hi": "सर जॉन शोर"
+        }
+      ],
+      "description": {
+        "en": "### The Cornwallis Code\nIntroduced by Governor-General **Lord Cornwallis** in 1793 across Bengal and Bihar, the Permanent Settlement (Zamindari System) fundamentally altered the agrarian landscape. The primary objective was to fix the land revenue perpetually, ensuring a steady, unchanging income for the British administration.\n\n### Agrarian Transformation\n* **Rise of the Zamindars**: The system recognized local *Zamindars* (tax collectors) as the absolute owners of the land.\n* **Plight of the Peasantry**: Conversely, traditional cultivating *ryots* (peasants) were reduced to mere tenant status devoid of any occupancy rights, institutionalizing widespread agrarian indebtedness and extortion.\n\n### Long-Term Impact\nWhile it created a powerful, pro-British landed aristocracy, it deeply impoverished the rural peasantry. This simmering exploitation laid the seeds for the massive revolutionary *Kisan Sabha* (Peasant Movements) that erupted across Bihar in the 20th century.",
+        "hi": "### कॉर्नवालिस कोड\nगवर्नर-जनरल **लॉर्ड कॉर्नवालिस** द्वारा 1793 में बंगाल और बिहार में लागू किए गए स्थायी बंदोबस्त (जमींदारी व्यवस्था) ने कृषि परिदृश्य को पूरी तरह से बदल दिया। इसका प्राथमिक उद्देश्य भू-राजस्व को हमेशा के लिए तय करना था, जिससे ब्रिटिश प्रशासन के लिए एक स्थिर और निश्चित आय सुनिश्चित हो सके।\n\n### कृषि परिवर्तन\n* **जमींदारों का उदय**: इस व्यवस्था ने स्थानीय *जमींदारों* (कर वसूलने वालों) को भूमि का पूर्ण स्वामी मान लिया।\n* **किसानों की दुर्दशा**: इसके विपरीत, पारंपरिक खेती करने वाले *रैयतों* (किसानों) को बिना किसी दखलकारी अधिकार के मात्र किरायेदार की स्थिति में ला दिया गया, जिससे बड़े पैमाने पर कृषि ऋणग्रस्तता और जबरन वसूली को संस्थागत रूप मिला।\n\n### दीर्घकालिक प्रभाव\nजहां एक ओर इसने शक्तिशाली, ब्रिटिश-समर्थक जमींदार वर्ग का निर्माण किया, वहीं दूसरी ओर इसने ग्रामीण किसानों को अत्यधिक गरीब बना दिया। इस सुलगते शोषण ने 20वीं शताब्दी में पूरे बिहार में भड़के विशाल क्रांतिकारी *किसान सभा* आंदोलनों के बीज बोए।"
+      },
+      "impact": {
+        "en": "Created powerful pro-British landed aristocracy and deeply impoverished the rural peasantry, laying the seeds for the revolutionary Kisan Sabha movements in the 20th century.",
+        "hi": "इसने ग्रामीण समाज में असमानता को जन्म दिया, जिसने 20वीं शताब्दी में स्वामी सहजानंद सरस्वती के नेतृत्व में ऐतिहासिक किसान आंदोलन की नींव रखी।"
+      },
+      "associatedDistrictIds": [
+        "patna",
+        "darbhanga",
+        "gaya",
+        "bhojpur",
+        "bhagalpur"
+      ],
+      "sources": [
+        "Cornwallis Code of 1793",
+        "Imperial Gazetteer of India"
+      ]
+    },
+    {
+      "id": "wahhabi-movement-patna",
+      "era": "modern",
+      "period": {
+        "en": "c. 1828 – 1868",
+        "hi": "1828 – 1868"
+      },
+      "title": {
+        "en": "The Wahhabi Movement: Patna as the Epicenter of Underground Resistance",
+        "hi": "वहाबी आंदोलन: पटना भूमिगत प्रतिरोध का राष्ट्रीय केंद्र"
+      },
+      "keyFigures": [
+        {
+          "en": "Maulana Wilayat Ali of Sadiqpur, Patna",
+          "hi": "मौलाना विलायत अली (सादिकपुर, पटना)"
+        },
+        {
+          "en": "Maulana Enayat Ali",
+          "hi": "मौलाना इनायत अली"
+        },
+        {
+          "en": "Ahmadullah and Yahya Ali",
+          "hi": "अहमदुल्लाह एवं यहिया अली"
+        }
+      ],
+      "description": {
+        "en": "### The Epicenter of Resistance\nThroughout the mid-19th century, Patna emerged as the paramount secret financial, organizational, and recruitment headquarters for the fierce anti-British **Wahhabi Movement** in India. \n\n### The Sadiqpur Network\nOperating from the Sadiqpur area in Patna City, visionary leaders like **Maulana Wilayat Ali** and **Maulana Enayat Ali** masterminded a vast underground network. \n* **Guerrilla Warfare**: They systematically channeled funds, covert intelligence, and *mujahideen* (volunteers) from across the subcontinent to the rugged North-West Frontier (Sithana) to wage relentless guerrilla campaigns against British imperial rule.\n\n### British Retaliation\nThe movement's potency profoundly alarmed the British, resulting in sensational and severe state trials—the *Ambala Trial* of 1864 and the *Patna Trial* of 1865. Top Patna organizers were heavily penalized, their properties demolished, and several were sentenced to brutal transportation for life to the infamous Andaman Cellular Jail.",
+        "hi": "### प्रतिरोध का केंद्र\n19वीं सदी के मध्य में, पटना भारत में उग्र ब्रिटिश विरोधी **वहाबी आंदोलन** के प्रमुख गुप्त वित्तीय, संगठनात्मक और भर्ती मुख्यालय के रूप में उभरा।\n\n### सादिकपुर नेटवर्क\nपटना सिटी के सादिकपुर क्षेत्र से कार्य करते हुए, **मौलाना विलायत अली** और **मौलाना इनायत अली** जैसे दूरदर्शी नेताओं ने एक विशाल भूमिगत नेटवर्क तैयार किया।\n* **गुरिल्ला युद्ध**: उन्होंने ब्रिटिश साम्राज्यवादी शासन के खिलाफ अथक गुरिल्ला अभियान छेड़ने के लिए पूरे उपमहाद्वीप से धन, गुप्त खुफिया जानकारी और *मुजाहिदीन* (स्वयंसेवकों) को उत्तर-पश्चिम सीमांत (सिथाना) के दुर्गम क्षेत्रों में व्यवस्थित रूप से भेजा।\n\n### ब्रिटिश प्रतिशोध\nआंदोलन की ताकत ने अंग्रेजों को गहराई से डरा दिया, जिसके परिणामस्वरूप ब्रिटिश राज ने सनसनीखेज और कठोर राजकीय मुकदमों—1864 का *अंबाला ट्रायल* और 1865 का *पटना ट्रायल*—का आयोजन किया। पटना के शीर्ष आयोजकों को भारी दंड दिया गया, उनकी संपत्तियों को ध्वस्त कर दिया गया, और कई लोगों को कुख्यात अंडमान सेलुलर जेल में आजीवन कारावास (काला पानी) की क्रूर सजा सुनाई गई।"
+      },
+      "impact": {
+        "en": "Resulted in sensational British trials—the Ambala Trial of 1864 and the Patna Trial of 1865—where top Patna organizers were sentenced to transportation for life to the Andaman Cellular Jail.",
+        "hi": "अंग्रेजों ने अंबाला ट्रायल (1864) और पटना ट्रायल (1865) चलाकर सादिकपुर के शीर्ष नेताओं को काला पानी (अंडमान निकोबार) की सजा सुनाई और उनके आवासों को ध्वस्त कर दिया।"
+      },
+      "associatedDistrictIds": [
+        "patna"
+      ],
+      "sources": [
+        "W. W. Hunter's 'The Indian Musalmans' (1871)",
+        "Patna Sessions Court Trial Records"
+      ]
+    },
+    {
+      "id": "indigo-tinkathia-exploitation",
+      "era": "modern",
+      "period": {
+        "en": "c. 1850 – 1917",
+        "hi": "1850 – 1917"
+      },
+      "title": {
+        "en": "Indigo Plantations & The Oppressive Tinkathia System",
+        "hi": "नील की खेती एवं दमनकारी तीनकठिया प्रणाली"
+      },
+      "keyFigures": [
+        {
+          "en": "European Indigo Planters (Nilahas)",
+          "hi": "यूरोपीय नीलहे बगान मालिक"
+        },
+        {
+          "en": "Raj Kumar Shukla",
+          "hi": "पंडित राजकुमार शुक्ल"
+        },
+        {
+          "en": "Shaikh Gulab and Sheetla Sah",
+          "hi": "शेख गुलाब एवं शीतला साह"
+        }
+      ],
+      "description": {
+        "en": "### The Coercive Plantation System\nThroughout the 19th and early 20th centuries, European indigo planters (*Nilahas*) established an oppressive agricultural regime in the Champaran and Tirhut regions. They forced the local *ryots* (peasants) into the deeply exploitative **'Tinkathia system'**.\n\n### Mechanics of Exploitation\n* **Forced Cultivation**: Under this system, farmers were legally compelled to cultivate indigo on 3 out of every 20 *kathas* (3/20th) of their absolute best agricultural land.\n* **Illegal Exactions**: The harvest was procured at fixed, thoroughly unprofitable rates. Additionally, the planters extracted dozens of illegal, arbitrary taxes known as *Abwabs*.\n\n### The Spark of Rebellion\nThis institutionalized brutality sparked intense peasant distress and economic ruin. Driven by the agonizing plight of his fellow farmers, a determined local peasant named **Raj Kumar Shukla** traveled to the Lucknow Congress session in 1916, successfully imploring **Mahatma Gandhi** to visit Champaran and intervene, setting the stage for India's first Satyagraha.",
+        "hi": "### दमनकारी बगान व्यवस्था\n19वीं और 20वीं सदी की शुरुआत में, यूरोपीय नीलहे बगान मालिकों (*निलहों*) ने चंपारण और तिरहुत क्षेत्रों में एक दमनकारी कृषि व्यवस्था स्थापित की। उन्होंने स्थानीय *रैयतों* (किसानों) को अत्यधिक शोषक **'तीनकठिया प्रणाली'** में जबरन धकेल दिया।\n\n### शोषण का तंत्र\n* **जबरन खेती**: इस व्यवस्था के तहत, किसानों को कानूनी तौर पर अपनी सबसे अच्छी कृषि भूमि के प्रत्येक 20 कट्ठे में से 3 कट्ठे (3/20 भाग) पर नील की खेती करने के लिए मजबूर किया जाता था।\n* **अवैध वसूली**: फसल को अत्यंत कम और अलाभकारी दरों पर खरीदा जाता था। इसके अतिरिक्त, बगान मालिक किसानों से *'आबवाब'* नामक दर्जनों अवैध और मनमाने कर वसूलते थे।\n\n### विद्रोह की चिंगारी\nइस संस्थागत क्रूरता ने किसानों में तीव्र संकट और आर्थिक बर्बादी को जन्म दिया। अपने साथी किसानों की पीड़ादायक दुर्दशा से व्यथित होकर, **पंडित राजकुमार शुक्ल** नामक एक दृढ़-निश्चयी स्थानीय किसान 1916 के लखनऊ कांग्रेस अधिवेशन में पहुंचे। उन्होंने सफलतापूर्वक **महात्मा गांधी** से चंपारण आने और हस्तक्षेप करने की विनती की, जिसने भारत के प्रथम सत्याग्रह का मंच तैयार किया।"
+      },
+      "impact": {
+        "en": "Sparked intense peasant distress that prompted Raj Kumar Shukla to travel to Lucknow in 1916 to invite Mahatma Gandhi to Champaran.",
+        "hi": "इस भीषण शोषण से त्रस्त होकर पंडित राजकुमार शुक्ल 1916 के लखनऊ कांग्रेस अधिवेशन में पहुंचे और महात्मा गांधी को चंपारण आने के लिए राजी किया।"
+      },
+      "associatedDistrictIds": [
+        "west-champaran",
+        "east-champaran",
+        "muzaffarpur"
+      ],
+      "sources": [
+        "Champaran Agrarian Enquiry Committee Report (1917)",
+        "District Gazetteer of Champaran"
+      ]
+    },
+    {
+      "id": "creation-of-bihar-province-1912",
+      "era": "modern",
+      "date": {
+        "en": "March 22, 1912",
+        "hi": "22 मार्च 1912"
+      },
+      "title": {
+        "en": "Separation of Bihar from Bengal: The Birth of Modern Bihar",
+        "hi": "बंगाल से बिहार का पृथक्करण: आधुनिक बिहार का उदय"
+      },
+      "keyFigures": [
+        {
+          "en": "Dr. Sachchidananda Sinha",
+          "hi": "डॉ. सच्चिदानंद सिन्हा"
+        },
+        {
+          "en": "Mahesh Narayan (Editor of The Biharee)",
+          "hi": "महेश नारायण (संपादक, द बिहारी)"
+        },
+        {
+          "en": "Sir Ali Imam",
+          "hi": "सर अली इमाम"
+        },
+        {
+          "en": "Mazharul Haque",
+          "hi": "मौलाना मजहरुल हक"
+        },
+        {
+          "en": "King George V",
+          "hi": "ब्रिटिश सम्राट जॉर्ज पंचम"
+        }
+      ],
+      "description": {
+        "en": "### The Crusade for Autonomy\nFor decades, Bihar suffered administrative neglect as an appendage of the massive Bengal Presidency. A tireless constitutional crusade, spearheaded by visionaries like **Dr. Sachchidananda Sinha** and **Mahesh Narayan** (Editor of *The Biharee*), vigorously campaigned under the banner of 'Bihar for Biharis' to secure distinct administrative autonomy.\n\n### The Delhi Durbar Proclamation\nTheir persistent intellectual advocacy finally bore fruit. At the grand Delhi Durbar on December 12, 1911, **King George V** historically announced the separation of Bihar and Orissa from Bengal.\n\n### The Birth of Modern Bihar\nThe official provincial proclamation took legal effect on **March 22, 1912**. This momentous day established modern Bihar as an autonomous political and geographic identity in India, and is enthusiastically celebrated today across the globe as **Bihar Diwas**.",
+        "hi": "### स्वायत्तता के लिए संघर्ष\nदशकों तक, विशाल बंगाल प्रेसीडेंसी के एक हिस्से के रूप में बिहार ने घोर प्रशासनिक उपेक्षा झेली। **डॉ. सच्चिदानंद सिन्हा** और **महेश नारायण** (*द बिहारी* के संपादक) जैसे दूरदर्शी नेताओं के नेतृत्व में एक अथक संवैधानिक अभियान ने एक अलग प्रशासनिक स्वायत्तता सुरक्षित करने के लिए 'बिहार बिहारियों के लिए' के नारे के तहत जोरदार आंदोलन किया।\n\n### दिल्ली दरबार की घोषणा\nउनकी निरंतर बौद्धिक वकालत अंततः रंग लाई। 12 दिसंबर 1911 को भव्य दिल्ली दरबार में, ब्रिटिश सम्राट **जॉर्ज पंचम** ने ऐतिहासिक रूप से बंगाल से बिहार और उड़ीसा को अलग करने की घोषणा की।\n\n### आधुनिक बिहार का जन्म\nआधिकारिक प्रांतीय उद्घोषणा **22 मार्च 1912** को कानूनी रूप से लागू हुई। इस ऐतिहासिक दिन ने आधुनिक बिहार को भारत में एक स्वायत्त राजनीतिक और भौगोलिक पहचान के रूप में स्थापित किया, और आज इसे दुनिया भर में **'बिहार दिवस'** के रूप में बड़े उत्साह से मनाया जाता है।"
+      },
+      "impact": {
+        "en": "Established modern Bihar as an autonomous political and geographic identity in India.",
+        "hi": "इसने आधुनिक बिहार को एक स्वतंत्र प्रशासनिक, राजनीतिक और भौगोलिक पहचान प्रदान की।"
+      },
+      "associatedDistrictIds": [
+        "patna",
+        "buxar"
+      ],
+      "sources": [
+        "Government of India Legislative Department Notification No. 290 (March 22, 1912)",
+        "Bihar State Archives"
+      ]
+    },
+    {
+      "id": "patna-high-court-and-university",
+      "era": "modern",
+      "date": {
+        "en": "1916 & 1917",
+        "hi": "1916 एवं 1917"
+      },
+      "title": {
+        "en": "Founding of Patna High Court (1916) and Patna University (1917)",
+        "hi": "पटना उच्च न्यायालय (1916) एवं पटना विश्वविद्यालय (1917) की स्थापना"
+      },
+      "keyFigures": [
+        {
+          "en": "Lord Hardinge (Viceroy of India)",
+          "hi": "लॉर्ड हार्डिंग (वायसराय)"
+        },
+        {
+          "en": "Sir Edward Maynard Des Champs Chamier (First Chief Justice)",
+          "hi": "सर एडवर्ड मेनार्ड डेस चैंप्स चैमियर (प्रथम मुख्य न्यायाधीश)"
+        },
+        {
+          "en": "J. G. Jennings (First Vice-Chancellor of Patna University)",
+          "hi": "जे. जी. जेनिंग्स (प्रथम कुलपति, पटना विश्वविद्यालय)"
+        }
+      ],
+      "description": {
+        "en": "### Establishing Judicial Independence\nFollowing the creation of the independent Bihar province, establishing proper institutional infrastructure became paramount. On February 9, 1916, Viceroy **Lord Hardinge** formally inaugurated the majestic **Patna High Court**, delivering complete judicial independence to the state with *Sir Edward Maynard Des Champs Chamier* as its First Chief Justice.\n\n### The Oxford of the East\nThe very next year, on October 1, 1917, **Patna University** was proudly founded. \n* **Vast Jurisdiction**: As the seventh oldest university in the Indian subcontinent, its initial academic jurisdiction remarkably spanned across all of Bihar, Orissa, and even the Kingdom of Nepal.\n* **Legacy of Leadership**: Often affectionately dubbed the *'Oxford of the East'*, Patna University became a premier crucible of intellect. It nurtured generations of fierce freedom fighters, eminent scholars, top-tier civil servants, and visionary constitutional leaders who shaped modern India.",
+        "hi": "### न्यायिक स्वतंत्रता की स्थापना\nस्वतंत्र बिहार प्रांत के निर्माण के बाद, उचित संस्थागत ढांचे की स्थापना सर्वोपरि हो गई। 9 फरवरी 1916 को वायसराय **लॉर्ड हार्डिंग** ने औपचारिक रूप से राजसी **पटना उच्च न्यायालय** का उद्घाटन किया, जिससे *सर एडवर्ड मेनार्ड डेस चैंप्स चैमियर* इसके प्रथम मुख्य न्यायाधीश बने और राज्य को पूर्ण न्यायिक स्वतंत्रता प्राप्त हुई।\n\n### पूरब का ऑक्सफोर्ड\nठीक अगले वर्ष, 1 अक्टूबर 1917 को, गर्व से **पटना विश्वविद्यालय** की स्थापना की गई।\n* **विशाल अधिकार क्षेत्र**: भारतीय उपमहाद्वीप के सातवें सबसे पुराने विश्वविद्यालय के रूप में, इसका प्रारंभिक शैक्षणिक अधिकार क्षेत्र आश्चर्यजनक रूप से पूरे बिहार, उड़ीसा और यहां तक कि नेपाल राजशाही तक फैला हुआ था।\n* **नेतृत्व की विरासत**: जिसे अक्सर प्यार से *'पूरब का ऑक्सफोर्ड'* कहा जाता था, पटना विश्वविद्यालय बुद्धि का एक प्रमुख केंद्र बन गया। इसने दुर्जेय स्वतंत्रता सेनानियों, प्रख्यात विद्वानों, शीर्ष स्तर के सिविल सेवकों और दूरदर्शी संवैधानिक नेताओं की पीढ़ियों को तैयार किया जिन्होंने आधुनिक भारत को आकार दिया।"
+      },
+      "impact": {
+        "en": "Known as the 'Oxford of the East', Patna University nurtured generation of freedom fighters, scholars, civil servants, and constitutional leaders.",
+        "hi": "पटना विश्वविद्यालय को 'पूरब का ऑक्सफोर्ड' कहा गया, जिसने देश के स्वतंत्रता सेनानियों, शीर्ष न्यायविदों, प्रशासकों और राष्ट्र निर्माताओं को गढ़ा।"
+      },
+      "associatedDistrictIds": [
+        "patna"
+      ],
+      "sources": [
+        "Patna High Court Centenary Volume (1916–2016)",
+        "Patna University Act, 1917"
+      ]
+    },
+    {
+      "id": "separation-of-orissa-1936",
+      "era": "modern",
+      "date": {
+        "en": "April 1, 1936",
+        "hi": "1 अप्रैल 1936"
+      },
+      "title": {
+        "en": "Separation of Orissa from Bihar (1936)",
+        "hi": "बिहार से उड़ीसा का पृथक्करण (1936)"
+      },
+      "keyFigures": [
+        {
+          "en": "Sir James David Sifton (Governor of Bihar)",
+          "hi": "सर जेम्स डेविड सिफ्टन"
+        },
+        {
+          "en": "Maharaja Krushna Chandra Gajapati of Parlakhemundi",
+          "hi": "महाराजा कृष्ण चंद्र गजपति"
+        }
+      ],
+      "description": {
+        "en": "### Linguistic Reorganization\nUnder the comprehensive administrative framework of the **Government of India Act 1935**, the massive joint province of Bihar and Orissa underwent a crucial territorial reorganization. On **April 1, 1936**, the province was officially bifurcated.\n\n### The Geographic Pivot\n* **Creation of Orissa**: Orissa was successfully established as an independent province primarily on linguistic and cultural grounds, a movement heavily championed by leaders like *Maharaja Krushna Chandra Gajapati*.\n* **Bihar's New Profile**: Following this separation, the geographic and demographic profile of Bihar was thoroughly streamlined. The newly defined Bihar exclusively retained the exceptionally fertile Gangetic plains and the heavily mineral-rich Chota Nagpur plateau.\n\n### Impact on Governance\nThis 1936 division created a far more administratively cohesive and unified Bihar province. It allowed for the establishment of a dedicated legislative and administrative machinery, beautifully paving the way for full provincial autonomy ahead of the historic 1937 elections.",
+        "hi": "### भाषाई पुनर्गठन\n**भारत सरकार अधिनियम 1935** के व्यापक प्रशासनिक ढांचे के तहत, बिहार और उड़ीसा के विशाल संयुक्त प्रांत का एक महत्वपूर्ण क्षेत्रीय पुनर्गठन हुआ। **1 अप्रैल 1936** को, इस प्रांत को आधिकारिक तौर पर दो भागों में विभाजित कर दिया गया।\n\n### भौगोलिक परिवर्तन\n* **उड़ीसा का निर्माण**: मुख्य रूप से भाषाई और सांस्कृतिक आधार पर उड़ीसा को सफलतापूर्वक एक स्वतंत्र प्रांत के रूप में स्थापित किया गया, जिसका जोरदार समर्थन *महाराजा कृष्ण चंद्र गजपति* जैसे नेताओं ने किया था।\n* **बिहार का नया स्वरूप**: इस पृथक्करण के बाद, बिहार का भौगोलिक और जनसांख्यिकीय स्वरूप पूरी तरह से सुव्यवस्थित हो गया। नव-परिभाषित बिहार में विशेष रूप से अत्यधिक उपजाऊ गंगा के मैदान और खनिजों से समृद्ध छोटानागपुर का पठार शामिल रहे।\n\n### प्रशासन पर प्रभाव\n1936 के इस विभाजन ने एक कहीं अधिक प्रशासनिक रूप से एकजुट और सुगठित बिहार प्रांत का निर्माण किया। इसने एक समर्पित विधायी और प्रशासनिक तंत्र की स्थापना की अनुमति दी, जिसने ऐतिहासिक 1937 के चुनावों से पहले पूर्ण प्रांतीय स्वायत्तता का मार्ग प्रशस्त किया।"
+      },
+      "impact": {
+        "en": "Created a more administratively unified Bihar province with dedicated legislative and administrative machinery.",
+        "hi": "बिहार को एक सुगठित प्रशासनिक स्वरूप मिला और 1937 के चुनावों के लिए प्रांतीय स्वायत्तता का मार्ग प्रशस्त हुआ।"
+      },
+      "associatedDistrictIds": [
+        "patna"
+      ],
+      "sources": [
+        "Government of India (Constitution of Orissa) Order, 1936",
+        "Bihar State Archives"
+      ]
+    },
+    {
+      "id": "first-congress-ministry-1937",
+      "era": "modern",
+      "date": {
+        "en": "July 20, 1937",
+        "hi": "20 जुलाई 1937"
+      },
+      "title": {
+        "en": "First Congress Ministry: Sri Babu and Anugrah Babu",
+        "hi": "प्रथम कांग्रेस मंत्रिमंडल: श्रीबाबू एवं अनुग्रह बाबू"
+      },
+      "keyFigures": [
+        {
+          "en": "Dr. Sri Krishna Sinha (Premier / First Chief Minister)",
+          "hi": "डॉ. श्रीकृष्ण सिंह ('बिहार केसरी', प्रथम प्रधानमंत्री/मुख्यमंत्री)"
+        },
+        {
+          "en": "Dr. Anugrah Narayan Sinha (Deputy Premier & Finance Minister)",
+          "hi": "डॉ. अनुग्रह नारायण सिंह ('बिहार विभूति', उप-मुख्यमंत्री व वित्त मंत्री)"
+        },
+        {
+          "en": "Ramdayalu Singh (First Speaker of Bihar Assembly)",
+          "hi": "रामदयालु सिंह (बिहार विधानसभा के प्रथम अध्यक्ष)"
+        }
+      ],
+      "description": {
+        "en": "### The Democratic Mandate\nIn the historic 1937 provincial elections, conducted under the Government of India Act 1935, the Indian National Congress achieved a landslide democratic victory in Bihar, capturing an overwhelming 98 out of 152 assembly seats.\n\n### The Pioneering Ministry\nOn July 20, 1937, the illustrious **Dr. Sri Krishna Sinha** (*Bihar Kesari*) formed the very first elected provincial ministry as the Premier, alongside the visionary **Dr. Anugrah Narayan Sinha** (*Bihar Vibhuti*) serving as the Deputy Premier and Finance Minister. \n\n* **Agrarian Reforms**: This popular government wasted no time in executing sweeping agrarian reforms, most notably passing the pioneering *Bihar Tenancy Amendment Act* to provide immense relief to exploited peasants.\n* **Principled Resignation**: Demonstrating staunch anti-imperialist solidarity, the entire ministry principledly resigned in October 1939. This was in direct protest against the British government's unilateral decision to drag India into World War II without consulting Indian leaders.",
+        "hi": "### लोकतांत्रिक जनादेश\nभारत सरकार अधिनियम 1935 के तहत आयोजित ऐतिहासिक 1937 के प्रांतीय चुनावों में, भारतीय राष्ट्रीय कांग्रेस ने बिहार में एक शानदार लोकतांत्रिक जीत हासिल की, और 152 विधानसभा सीटों में से 98 सीटों पर भारी बहुमत प्राप्त किया।\n\n### प्रथम लोकप्रिय सरकार\n20 जुलाई 1937 को, महान नेता **डॉ. श्रीकृष्ण सिंह** (*बिहार केसरी*) ने प्रधानमंत्री (मुख्यमंत्री) के रूप में, और दूरदर्शी **डॉ. अनुग्रह नारायण सिंह** (*बिहार विभूति*) ने उप-प्रधानमंत्री व वित्त मंत्री के रूप में, पहले निर्वाचित प्रांतीय मंत्रिमंडल का गठन किया।\n\n* **कृषि सुधार**: इस लोकप्रिय सरकार ने बिना समय गंवाए व्यापक कृषि सुधारों को लागू किया, जिसमें विशेष रूप से शोषित किसानों को भारी राहत प्रदान करने के लिए ऐतिहासिक *'बिहार काश्तकारी संशोधन अधिनियम'* पारित किया गया।\n* **सैद्धांतिक इस्तीफा**: दृढ़ साम्राज्यवाद-विरोधी एकजुटता का प्रदर्शन करते हुए, संपूर्ण मंत्रिमंडल ने अक्टूबर 1939 में सैद्धांतिक रूप से इस्तीफा दे दिया। यह भारतीय नेताओं से परामर्श किए बिना भारत को द्वितीय विश्व युद्ध में झोंकने के ब्रिटिश सरकार के एकतरफा फैसले के सीधे विरोध में था।"
+      },
+      "impact": {
+        "en": "Laid the institutional groundwork for modern democratic governance and agrarian tenancy reforms in post-independence Bihar.",
+        "hi": "स्वतंत्र भारत में लोकतांत्रिक शासन और जमींदारी उन्मूलन की दिशा में पहला ठोस वैधानिक कदम उठाया।"
+      },
+      "associatedDistrictIds": [
+        "patna",
+        "sheikhpura",
+        "aurangabad",
+        "muzaffarpur"
+      ],
+      "sources": [
+        "Bihar Legislative Assembly Proceedings (1937–1939)",
+        "Bihar State Archives"
+      ]
+    },
+    {
+      "id": "bifurcation-jharkhand-2000",
+      "era": "modern",
+      "date": {
+        "en": "November 15, 2000",
+        "hi": "15 नवंबर 2000"
+      },
+      "title": {
+        "en": "Bifurcation of Bihar & Creation of Jharkhand State",
+        "hi": "बिहार का पुनर्गठन एवं झारखंड राज्य का निर्माण"
+      },
+      "keyFigures": [
+        {
+          "en": "Atal Bihari Vajpayee (Prime Minister of India)",
+          "hi": "अटल बिहारी वाजपेयी (भारत के प्रधानमंत्री)"
+        },
+        {
+          "en": "Rabri Devi (Chief Minister of Bihar)",
+          "hi": "राबड़ी देवी (बिहार की तत्कालीन मुख्यमंत्री)"
+        },
+        {
+          "en": "Birsa Munda (tribal icon whose birth anniversary marked the creation)",
+          "hi": "भगवान बिरसा मुंडा (जिनकी जयंती पर राज्य बना)"
+        }
+      ],
+      "description": {
+        "en": "### The Reorganization of 2000\nAt the dawn of the new millennium, the demographic and economic map of Bihar underwent its most radical alteration since independence. Under the **Bihar Reorganisation Act 2000**, passed by the Indian Parliament, the state was officially bifurcated.\n\n### The Birth of Jharkhand\nOn **November 15, 2000**—symbolically chosen to coincide with the birth anniversary of the legendary tribal icon **Bhagwan Birsa Munda**—18 mineral-rich southern districts were carved out to form the independent state of Jharkhand.\n* **The New Bihar**: Post-bifurcation, Bihar retained 38 districts comprising the densely populated, flood-prone, yet exceptionally fertile Gangetic plain.\n\n### Economic Paradigm Shift\nThis division heavily deprived Bihar of its vast heavy mineral resources and established metallurgical industrial base. Consequently, it fundamentally pivoted the state's economic focus, forcing it to rebuild its developmental strategies entirely around agriculture, agro-processing, services, and the enhancement of its massive human capital.",
+        "hi": "### 2000 का पुनर्गठन\nनई सहस्राब्दी की भोर में, बिहार के जनसांख्यिकीय और आर्थिक मानचित्र में स्वतंत्रता के बाद का सबसे बड़ा और क्रांतिकारी बदलाव हुआ। भारतीय संसद द्वारा पारित **बिहार पुनर्गठन अधिनियम 2000** के तहत, राज्य का आधिकारिक तौर पर विभाजन कर दिया गया।\n\n### झारखंड का जन्म\n**15 नवंबर 2000** को—जिसे प्रतीकात्मक रूप से महान आदिवासी प्रतीक **भगवान बिरसा मुंडा** की जयंती के अवसर पर चुना गया था—18 दक्षिणी खनिज-बहुल जिलों को अलग कर एक स्वतंत्र राज्य झारखंड का गठन किया गया।\n* **नया बिहार**: विभाजन के बाद, बिहार में घनी आबादी वाले, बाढ़-प्रवण, लेकिन असाधारण रूप से उपजाऊ गंगा के मैदान वाले 38 जिले बचे।\n\n### आर्थिक प्रतिमान में बदलाव\nइस विभाजन ने बिहार को उसके विशाल भारी खनिज संसाधनों और स्थापित धातु औद्योगिक आधार से काफी हद तक वंचित कर दिया। परिणामस्वरूप, इसने राज्य के आर्थिक फोकस को मौलिक रूप से बदल दिया, जिससे उसे अपनी विकासात्मक रणनीतियों को पूरी तरह से कृषि, कृषि-प्रसंस्करण, सेवाओं और अपनी विशाल मानव पूंजी को निखारने के इर्द-गिर्द फिर से बनाने के लिए मजबूर होना पड़ा।"
+      },
+      "impact": {
+        "en": "Deprived Bihar of its heavy mineral resources and metallurgical industrial base, fundamentally pivoting the state's economic focus entirely toward agriculture, agro-processing, services, and human capital.",
+        "hi": "इस विभाजन से भारी खनिज व औद्योगिक संपदा झारखंड चली गई, जिससे बिहार की अर्थव्यवस्था मुख्य रूप से कृषि, खाद्य प्रसंस्करण और मानव संसाधन विकास पर केंद्रित हो गई।"
+      },
+      "asOf": "2024-01-01",
+      "associatedDistrictIds": [
+        "patna",
+        "gaya",
+        "rohtas",
+        "bhagalpur"
+      ],
+      "sources": [
+        "The Bihar Reorganisation Act, 2000 (Act No. 30 of 2000)",
+        "Ministry of Law and Justice, Government of India"
+      ]
+    }
+  ]
+}

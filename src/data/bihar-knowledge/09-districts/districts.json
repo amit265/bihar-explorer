@@ -1,0 +1,1106 @@
+{
+  "data": [
+    {
+      "id": "patna",
+      "name": {
+        "en": "Patna",
+        "hi": "पटना"
+      },
+      "division": "patna",
+      "headquarters": {
+        "en": "Patna",
+        "hi": "पटना"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Patna**, historically known as *Pataliputra*, is the capital and largest city of Bihar. Situated on the southern bank of the **Ganges** river, it is one of the oldest continuously inhabited places in the world.\n\n### History\n* **Ancient Era:** Founded by the Haryanka king Ajatashatru, it served as the imperial capital of the Magadha Empire under the Mauryas and Guptas.\n* **Medieval Period:** The city was revived by Sher Shah Suri in the 16th century.\n* **Modern Significance:** It emerged as a major center for learning, trade, and the Indian independence movement.\n\n### Geography\n* **Location:** Southern bank of the Ganges, flanked by rivers Sone, Gandak, and Punpun.\n* **Climate:** Humid subtropical with extremely hot summers and mild winters.\n\n### Economy & Significance\n* Primarily driven by the service sector, trade, and agriculture.\n* **Cultural:** Home to significant religious sites like Takht Sri Patna Sahib (Sikhism) and the iconic Golghar.\n* **Educational:** A historic and modern hub for students with institutions like Patna University.",
+        "hi": "### परिचय\n**पटना**, जिसे ऐतिहासिक रूप से *पाटलिपुत्र* के नाम से जाना जाता था, बिहार की राजधानी और सबसे बड़ा शहर है। **गंगा** नदी के दक्षिणी तट पर स्थित, यह दुनिया में लगातार आबाद रहने वाले सबसे पुराने स्थानों में से एक है।\n\n### इतिहास\n* **प्राचीन काल:** हर्यक वंश के अजातशत्रु द्वारा स्थापित, यह मौर्य और गुप्त साम्राज्यों के तहत मगध की राजधानी रहा।\n* **मध्यकाल:** 16वीं शताब्दी में शेर शाह सूरी द्वारा इस शहर को पुनर्जीवित किया गया।\n* **आधुनिक महत्व:** यह शिक्षा, व्यापार और भारतीय स्वतंत्रता आंदोलन के एक प्रमुख केंद्र के रूप में उभरा।\n\n### भूगोल\n* **स्थान:** गंगा के दक्षिणी तट पर स्थित, इसके आसपास सोन, गंडक और पुनपुन नदियाँ हैं।\n* **जलवायु:** आर्द्र उपोष्णकटिबंधीय, जिसमें अत्यधिक गर्म ग्रीष्मकाल और हल्की सर्दियाँ होती हैं।\n\n### अर्थव्यवस्था और महत्व\n* मुख्य रूप से सेवा क्षेत्र, व्यापार और कृषि द्वारा संचालित।\n* **सांस्कृतिक:** तख्त श्री पटना साहिब (सिख धर्म) और प्रतिष्ठित गोलघर जैसे महत्वपूर्ण धार्मिक स्थलों का घर।\n* **शैक्षिक:** पटना विश्वविद्यालय जैसे संस्थानों के साथ छात्रों के लिए एक ऐतिहासिक और आधुनिक केंद्र।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "nalanda",
+      "name": {
+        "en": "Nalanda",
+        "hi": "नालंदा"
+      },
+      "division": "patna",
+      "headquarters": {
+        "en": "Bihar Sharif",
+        "hi": "बिहार शरीफ"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Nalanda** is globally renowned for its ancient university and rich Buddhist heritage. With its headquarters in **Bihar Sharif**, it holds a significant place in India's intellectual and spiritual history.\n\n### History\n* **Ancient Hub:** Home to the world-famous Nalanda University, a center of learning established in the 5th century CE.\n* **Spiritual Roots:** Deeply associated with Lord Mahavira (Jainism) and Lord Buddha (Buddhism).\n* **Medieval Era:** Witnessed the arrival of Sufi saints; Bihar Sharif became a prominent Islamic cultural center.\n\n### Geography\n* **Location:** Located in the Magadh region, surrounded by rocky hills and fertile agricultural plains.\n* **Landmarks:** Rajgir hills, which offer hot water springs and lush landscapes.\n\n### Economy & Significance\n* **Tourism:** A major international tourist destination attracting Buddhist pilgrims and history enthusiasts.\n* **Agriculture:** Primarily an agrarian economy known for potato and onion cultivation.\n* **UNESCO Heritage:** The Ruins of Nalanda University are designated as a World Heritage Site.",
+        "hi": "### परिचय\n**नालंदा** अपने प्राचीन विश्वविद्यालय और समृद्ध बौद्ध विरासत के लिए विश्व स्तर पर प्रसिद्ध है। **बिहार शरीफ** में इसके मुख्यालय के साथ, यह भारत के बौद्धिक और आध्यात्मिक इतिहास में एक महत्वपूर्ण स्थान रखता है।\n\n### इतिहास\n* **प्राचीन केंद्र:** विश्व प्रसिद्ध नालंदा विश्वविद्यालय का घर, जो 5वीं शताब्दी ईस्वी में स्थापित शिक्षा का एक प्रमुख केंद्र था।\n* **आध्यात्मिक जड़ें:** भगवान महावीर (जैन धर्म) और भगवान बुद्ध (बौद्ध धर्म) से गहराई से जुड़ा हुआ है।\n* **मध्य युग:** सूफी संतों के आगमन का गवाह बना; बिहार शरीफ एक प्रमुख इस्लामी सांस्कृतिक केंद्र बन गया।\n\n### भूगोल\n* **स्थान:** मगध क्षेत्र में स्थित, चट्टानी पहाड़ियों और उपजाऊ कृषि मैदानों से घिरा हुआ।\n* **प्रमुख स्थल:** राजगीर की पहाड़ियाँ, जो गर्म पानी के झरने और हरे-भरे परिदृश्य प्रदान करती हैं।\n\n### अर्थव्यवस्था और महत्व\n* **पर्यटन:** बौद्ध तीर्थयात्रियों और इतिहास के प्रति उत्साही लोगों को आकर्षित करने वाला एक प्रमुख अंतरराष्ट्रीय पर्यटन स्थल।\n* **कृषि:** मुख्य रूप से एक कृषि प्रधान अर्थव्यवस्था जो आलू और प्याज की खेती के लिए जानी जाती है।\n* **यूनेस्को विरासत:** नालंदा विश्वविद्यालय के खंडहरों को विश्व धरोहर स्थल के रूप में नामित किया गया है।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "bhojpur",
+      "name": {
+        "en": "Bhojpur",
+        "hi": "भोजपुर"
+      },
+      "division": "patna",
+      "headquarters": {
+        "en": "Ara",
+        "hi": "आरा"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Bhojpur**, with its headquarters in **Ara**, is a culturally vibrant district in western Bihar. It is the heartland of the Bhojpuri language and holds a proud legacy of valor and literature.\n\n### History\n* **Rebellion of 1857:** Played a pivotal role in the First War of Indian Independence under the legendary leadership of Babu Veer Kunwar Singh.\n* **Cultural Roots:** Named after the Ujjainiya Rajput king Raja Bhoj. \n* **Literary Center:** A fertile ground for Bhojpuri literature and folk arts, notably 'Bidesiya'.\n\n### Geography\n* **Location:** Flanked by the Ganges in the north and the Sone river in the east.\n* **Terrain:** Highly fertile alluvial plains ideal for rigorous agriculture.\n\n### Economy & Significance\n* **Agriculture:** Known as the 'Rice Bowl' of Bihar, with extensive cultivation of wheat and paddy.\n* **Connectivity:** Serves as a major rail and road junction connecting Bihar with Uttar Pradesh.\n* **Significance:** Known for its rich folk traditions, martial history, and contributions to Bhojpuri cinema and music.",
+        "hi": "### परिचय\n**भोजपुर**, जिसका मुख्यालय **आरा** में है, पश्चिमी बिहार का एक सांस्कृतिक रूप से जीवंत जिला है। यह भोजपुरी भाषा का हृदय स्थल है और वीरता तथा साहित्य की गौरवशाली विरासत रखता है।\n\n### इतिहास\n* **1857 का विद्रोह:** बाबू वीर कुंवर सिंह के प्रसिद्ध नेतृत्व में भारतीय स्वतंत्रता के प्रथम संग्राम में महत्वपूर्ण भूमिका निभाई।\n* **सांस्कृतिक जड़ें:** उज्जैनिया राजपूत राजा, राजा भोज के नाम पर रखा गया।\n* **साहित्यिक केंद्र:** भोजपुरी साहित्य और लोक कलाओं, विशेष रूप से 'बिदेसिया' के लिए एक उपजाऊ भूमि।\n\n### भूगोल\n* **स्थान:** उत्तर में गंगा और पूर्व में सोन नदी से घिरा हुआ।\n* **इलाका:** कठोर कृषि के लिए आदर्श अत्यधिक उपजाऊ जलोढ़ मैदान।\n\n### अर्थव्यवस्था और महत्व\n* **कृषि:** बिहार के 'चावल के कटोरे' के रूप में जाना जाता है, जहाँ गेहूं और धान की व्यापक खेती होती है।\n* **संपर्क:** बिहार को उत्तर प्रदेश से जोड़ने वाले एक प्रमुख रेल और सड़क जंक्शन के रूप में कार्य करता है।\n* **महत्व:** अपनी समृद्ध लोक परंपराओं, सैन्य इतिहास और भोजपुरी सिनेमा तथा संगीत में योगदान के लिए जाना जाता है।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "buxar",
+      "name": {
+        "en": "Buxar",
+        "hi": "बक्सर"
+      },
+      "division": "patna",
+      "headquarters": {
+        "en": "Buxar",
+        "hi": "बक्सर"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Buxar** is a deeply historic and mythological district bordering Uttar Pradesh. Often called the 'City of Maharishis', it has witnessed some of the most decisive battles in Indian history.\n\n### History\n* **Mythology:** Believed to be the place where Lord Rama and Lakshmana received teachings from Sage Vishwamitra and defeated the demoness Tadaka.\n* **Battle of Chausa (1539):** Where Sher Shah Suri defeated the Mughal Emperor Humayun.\n* **Battle of Buxar (1764):** A turning point in history that firmly established British East India Company's rule in India.\n\n### Geography\n* **Location:** Situated on the banks of the Ganges and Karmanasa rivers.\n* **Environment:** Rich alluvial plains highly suitable for agriculture.\n\n### Economy & Significance\n* **Agriculture:** Primarily agrarian, known for substantial rice and wheat production.\n* **Spiritual:** Home to significant Hindu temples like the Ramrekha Ghat and Chausa Hoard.\n* **Significance:** A sacred city for Hindus and a pivotal landmark in military history.",
+        "hi": "### परिचय\n**बक्सर** उत्तर प्रदेश की सीमा से लगा एक अत्यंत ऐतिहासिक और पौराणिक जिला है। अक्सर 'महर्षियों के शहर' के रूप में जाना जाने वाला यह जिला भारतीय इतिहास के कुछ सबसे निर्णायक युद्धों का गवाह रहा है।\n\n### इतिहास\n* **पौराणिकता:** माना जाता है कि यहाँ भगवान राम और लक्ष्मण ने महर्षि विश्वामित्र से शिक्षा प्राप्त की थी और राक्षसी ताड़का का वध किया था।\n* **चौसा का युद्ध (1539):** जहाँ शेर शाह सूरी ने मुगल सम्राट हुमायूँ को हराया था।\n* **बक्सर का युद्ध (1764):** इतिहास का एक महत्वपूर्ण मोड़ जिसने भारत में ब्रिटिश ईस्ट इंडिया कंपनी के शासन को मजबूती से स्थापित किया।\n\n### भूगोल\n* **स्थान:** गंगा और कर्मनाशा नदियों के तट पर स्थित।\n* **पर्यावरण:** कृषि के लिए अत्यधिक उपयुक्त समृद्ध जलोढ़ मैदान।\n\n### अर्थव्यवस्था और महत्व\n* **कृषि:** मुख्य रूप से कृषि प्रधान, जो पर्याप्त चावल और गेहूं उत्पादन के लिए जाना जाता है।\n* **आध्यात्मिक:** रामरेखा घाट और चौसा होर्ड जैसे महत्वपूर्ण हिंदू मंदिरों का घर।\n* **महत्व:** हिंदुओं के लिए एक पवित्र शहर और सैन्य इतिहास में एक महत्वपूर्ण मील का पत्थर।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "rohtas",
+      "name": {
+        "en": "Rohtas",
+        "hi": "रोहतास"
+      },
+      "division": "patna",
+      "headquarters": {
+        "en": "Sasaram",
+        "hi": "सासाराम"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Rohtas**, with its headquarters in **Sasaram**, is a district that perfectly blends magnificent historical monuments with stunning natural landscapes. It is one of the most industrialized and literate districts of Bihar.\n\n### History\n* **Ancient:** Named after Rohitasva, the son of the legendary King Harishchandra.\n* **Sher Shah Suri:** Sasaram is famous for the grand mausoleum of Sher Shah Suri, a masterpiece of Indo-Islamic architecture.\n* **Rohtasgarh Fort:** An imposing ancient hill fort that served as a safe haven for various rulers.\n\n### Geography\n* **Terrain:** Features a unique mix of the Kaimur hills in the south and fertile plains in the north.\n* **Water Bodies:** The Sone river flows along its eastern boundary. Famous for beautiful waterfalls like Tutla Bhawani and Dhuan Kund.\n\n### Economy & Significance\n* **Industry:** Known for cement, quarrying, and stone-crushing industries centered around Dalmianagar.\n* **Agriculture:** Highly productive agricultural lands supported by an excellent canal network.\n* **Significance:** A top tourist destination offering both historical intrigue and eco-tourism.",
+        "hi": "### परिचय\n**रोहतास**, जिसका मुख्यालय **सासाराम** में है, एक ऐसा जिला है जो शानदार ऐतिहासिक स्मारकों और आश्चर्यजनक प्राकृतिक परिदृश्यों का एकदम सही मिश्रण प्रस्तुत करता है। यह बिहार के सबसे औद्योगिक और साक्षर जिलों में से एक है।\n\n### इतिहास\n* **प्राचीन:** इसका नाम पौराणिक राजा हरिश्चंद्र के पुत्र रोहिताश्व के नाम पर रखा गया है।\n* **शेर शाह सूरी:** सासाराम शेर शाह सूरी के भव्य मकबरे के लिए प्रसिद्ध है, जो इंडो-इस्लामिक वास्तुकला की एक उत्कृष्ट कृति है।\n* **रोहतासगढ़ किला:** एक भव्य प्राचीन पहाड़ी किला जिसने विभिन्न शासकों के लिए एक सुरक्षित पनाहगाह के रूप में कार्य किया।\n\n### भूगोल\n* **इलाका:** दक्षिण में कैमूर की पहाड़ियों और उत्तर में उपजाऊ मैदानों का एक अनूठा मिश्रण पेश करता है।\n* **जल निकाय:** पूर्वी सीमा के साथ सोन नदी बहती है। यह तुतला भवानी और धुआं कुंड जैसे खूबसूरत झरनों के लिए प्रसिद्ध है।\n\n### अर्थव्यवस्था और महत्व\n* **उद्योग:** डालमियानगर के आसपास केंद्रित सीमेंट, उत्खनन और पत्थर-क्रशिंग उद्योगों के लिए जाना जाता है।\n* **कृषि:** एक उत्कृष्ट नहर नेटवर्क द्वारा समर्थित अत्यधिक उत्पादक कृषि भूमि।\n* **महत्व:** ऐतिहासिक साज़िश और इको-टूरिज्म दोनों की पेशकश करने वाला एक शीर्ष पर्यटन स्थल।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "kaimur",
+      "name": {
+        "en": "Kaimur",
+        "hi": "कैमूर"
+      },
+      "division": "patna",
+      "headquarters": {
+        "en": "Bhabua",
+        "hi": "भभुआ"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Kaimur**, headquartered at **Bhabua**, is the westernmost district of Bihar. Known for its dense forests, ancient temples, and hilly terrain, it is a haven for nature lovers and history seekers alike.\n\n### History\n* **Mundeshwari Temple:** Home to the Mundeshwari Devi Temple, considered one of the oldest functional Hindu temples in the world (circa 4th century CE).\n* **Dynastic Rule:** Part of the Magadha empire and later controlled by the Cheros, Rajputs, and Mughals.\n\n### Geography\n* **Landscape:** Dominated by the Kaimur Range and the Rohtas plateau. Features significant forest cover.\n* **Wildlife:** The Kaimur Wildlife Sanctuary is the largest in Bihar, home to leopards, blackbucks, and various bird species.\n\n### Economy & Significance\n* **Agriculture:** Despite the hilly terrain, the plains produce excellent quality rice, often referred to as the 'rice bowl' region.\n* **Significance:** Offers massive potential for eco-tourism and religious tourism. It acts as the gateway to Bihar from central India.",
+        "hi": "### परिचय\n**कैमूर**, जिसका मुख्यालय **भभुआ** में है, बिहार का सबसे पश्चिमी जिला है। अपने घने जंगलों, प्राचीन मंदिरों और पहाड़ी इलाकों के लिए जाना जाने वाला यह जिला प्रकृति प्रेमियों और इतिहास के खोजकर्ताओं के लिए एक स्वर्ग है।\n\n### इतिहास\n* **मुंडेश्वरी मंदिर:** मुंडेश्वरी देवी मंदिर का घर, जिसे दुनिया के सबसे पुराने कार्यात्मक हिंदू मंदिरों में से एक माना जाता है (लगभग चौथी शताब्दी ईस्वी)।\n* **राजवंशीय शासन:** मगध साम्राज्य का हिस्सा और बाद में चेरो, राजपूतों और मुगलों द्वारा नियंत्रित।\n\n### भूगोल\n* **परिदृश्य:** कैमूर रेंज और रोहतास पठार का प्रभुत्व है। इसमें महत्वपूर्ण वन क्षेत्र शामिल है।\n* **वन्यजीव:** कैमूर वन्यजीव अभयारण्य बिहार का सबसे बड़ा अभयारण्य है, जो तेंदुओं, काले हिरणों और पक्षियों की विभिन्न प्रजातियों का घर है।\n\n### अर्थव्यवस्था और महत्व\n* **कृषि:** पहाड़ी इलाके के बावजूद, मैदानी इलाके उत्कृष्ट गुणवत्ता वाले चावल का उत्पादन करते हैं, जिसे अक्सर 'चावल का कटोरा' क्षेत्र कहा जाता है।\n* **महत्व:** इको-टूरिज्म और धार्मिक पर्यटन के लिए बड़े पैमाने पर संभावनाएं प्रदान करता है। यह मध्य भारत से बिहार के प्रवेश द्वार के रूप में कार्य करता है।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "saran",
+      "name": {
+        "en": "Saran",
+        "hi": "सारण"
+      },
+      "division": "saran",
+      "headquarters": {
+        "en": "Chhapra",
+        "hi": "छपरा"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Saran**, with its headquarters at **Chhapra**, is an ancient district situated at the confluence of the Ganges and Ghaghara rivers. It is famous for its massive cattle fair and deep mythological connections.\n\n### History\n* **Ancient Heritage:** Digs at Chirand have revealed significant Neolithic (Stone Age) settlements.\n* **Freedom Struggle:** Birthplace of Dr. Rajendra Prasad (in Ziradei, earlier part of Saran), India's first President. Loknayak Jayaprakash Narayan also had his roots in this region.\n\n### Geography\n* **Location:** A triangular tract of land bounded by the rivers Ganges, Gandak, and Ghaghara.\n* **Soil:** Rich, fertile alluvial soil brought by the intersecting rivers.\n\n### Economy & Significance\n* **Sonepur Mela:** Hosts the world-renowned Sonepur Cattle Fair (Harihar Kshetra Mela), the largest of its kind in Asia.\n* **Agriculture & Industry:** Traditionally strong in sugar mills and agriculture (wheat, maize, sugarcane).\n* **Significance:** A vital cultural and historical node connecting the Bhojpur and Tirhut regions.",
+        "hi": "### परिचय\n**सारण**, जिसका मुख्यालय **छपरा** में है, गंगा और घाघरा नदियों के संगम पर स्थित एक प्राचीन जिला है। यह अपने विशाल पशु मेले और गहरे पौराणिक संबंधों के लिए प्रसिद्ध है।\n\n### इतिहास\n* **प्राचीन विरासत:** चिरांद में खुदाई से महत्वपूर्ण नवपाषाण (पाषाण युग) बस्तियों का पता चला है।\n* **स्वतंत्रता संग्राम:** भारत के पहले राष्ट्रपति डॉ. राजेंद्र प्रसाद का जन्मस्थान (जीरादेई में, जो पहले सारण का हिस्सा था)। लोकनायक जयप्रकाश नारायण की जड़ें भी इसी क्षेत्र से जुड़ी थीं।\n\n### भूगोल\n* **स्थान:** गंगा, गंडक और घाघरा नदियों से घिरा एक त्रिकोणीय भूभाग।\n* **मिट्टी:** प्रतिच्छेदन नदियों द्वारा लाई गई समृद्ध, उपजाऊ जलोढ़ मिट्टी।\n\n### अर्थव्यवस्था और महत्व\n* **सोनपुर मेला:** विश्व प्रसिद्ध सोनपुर पशु मेले (हरिहर क्षेत्र मेला) की मेजबानी करता है, जो एशिया में अपनी तरह का सबसे बड़ा मेला है।\n* **कृषि और उद्योग:** पारंपरिक रूप से चीनी मिलों और कृषि (गेहूं, मक्का, गन्ना) में मजबूत।\n* **महत्व:** भोजपुर और तिरहुत क्षेत्रों को जोड़ने वाला एक महत्वपूर्ण सांस्कृतिक और ऐतिहासिक नोड।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "siwan",
+      "name": {
+        "en": "Siwan",
+        "hi": "सीवान"
+      },
+      "division": "saran",
+      "headquarters": {
+        "en": "Siwan",
+        "hi": "सीवान"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Siwan** is a prominent district in the Saran division, holding a place of immense pride as the birthplace of India's first President, Dr. Rajendra Prasad. It shares its western border with Uttar Pradesh.\n\n### History\n* **Historical Roots:** Previously a sub-division of Saran, it gained independent district status in 1972.\n* **Desh Ratna:** The village of Ziradei in Siwan is celebrated as the birthplace of Dr. Rajendra Prasad.\n* **Medieval Era:** The region was a significant stronghold during the Mughal and Afghan periods.\n\n### Geography\n* **Location:** Bound by the Ghaghara River in the south, which acts as a natural border with UP.\n* **Terrain:** A flat, monotonous alluvial plain, deeply intersected by streams.\n\n### Economy & Significance\n* **Remittances:** Siwan has a large diaspora in the Gulf countries, making foreign remittances a major backbone of its economy.\n* **Agriculture:** Sugarcane, paddy, and wheat are the primary crops cultivated here.\n* **Cultural:** Known for traditional craftsmanship, particularly local pottery and handloom weaving.",
+        "hi": "### परिचय\n**सीवान** सारण प्रमंडल का एक प्रमुख जिला है, जो भारत के पहले राष्ट्रपति डॉ. राजेंद्र प्रसाद के जन्मस्थान के रूप में अत्यधिक गर्व का स्थान रखता है। यह उत्तर प्रदेश के साथ अपनी पश्चिमी सीमा साझा करता है।\n\n### इतिहास\n* **ऐतिहासिक जड़ें:** पहले सारण का एक उप-मंडल था, इसे 1972 में स्वतंत्र जिले का दर्जा मिला।\n* **देश रत्न:** सीवान के जीरादेई गांव को डॉ. राजेंद्र प्रसाद के जन्मस्थान के रूप में मनाया जाता है।\n* **मध्य युग:** यह क्षेत्र मुगल और अफगान काल के दौरान एक महत्वपूर्ण गढ़ था।\n\n### भूगोल\n* **स्थान:** दक्षिण में घाघरा नदी से घिरा हुआ, जो यूपी के साथ एक प्राकृतिक सीमा के रूप में कार्य करती है।\n* **इलाका:** एक समतल, नीरस जलोढ़ मैदान, जो जलधाराओं द्वारा गहराई से कटा हुआ है।\n\n### अर्थव्यवस्था और महत्व\n* **प्रेषण (Remittances):** सीवान का खाड़ी देशों में एक बड़ा प्रवासी समुदाय है, जिससे विदेशी प्रेषण इसकी अर्थव्यवस्था का एक प्रमुख आधार बन गया है।\n* **कृषि:** गन्ना, धान और गेहूं यहाँ उगाई जाने वाली प्रमुख फसलें हैं।\n* **सांस्कृतिक:** पारंपरिक शिल्प कौशल, विशेष रूप से स्थानीय मिट्टी के बर्तनों और हथकरघा बुनाई के लिए जाना जाता है।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "gopalganj",
+      "name": {
+        "en": "Gopalganj",
+        "hi": "गोपालगंज"
+      },
+      "division": "saran",
+      "headquarters": {
+        "en": "Gopalganj",
+        "hi": "गोपालगंज"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Gopalganj** is a northernmost district of the Saran division, acting as a critical border district with Uttar Pradesh. It is a region deeply entrenched in political history and agricultural abundance.\n\n### History\n* **Origin:** Carved out of the old Saran district in 1973.\n* **Political Significance:** Famous as the home district of several prominent politicians, including former Chief Minister Lalu Prasad Yadav.\n* **Historical Lineage:** Originally a part of the ancient Kosala kingdom.\n\n### Geography\n* **Location:** Bounded by the Gandak River to the east, providing rich irrigation.\n* **Terrain:** Low-lying alluvial plains that are exceptionally fertile but prone to annual flooding.\n\n### Economy & Significance\n* **Sugar Bowl:** Historically known as the 'Sugar Bowl' of Bihar due to its numerous sugar mills and extensive sugarcane farming.\n* **Remittances:** Similar to Siwan, the district's economy is heavily bolstered by Gulf NRIs.\n* **Temple:** The Thawe Mandir is a highly revered Hindu shrine drawing thousands of devotees during Navratri.",
+        "hi": "### परिचय\n**गोपालगंज** सारण प्रमंडल का एक सबसे उत्तरी जिला है, जो उत्तर प्रदेश के साथ एक महत्वपूर्ण सीमावर्ती जिले के रूप में कार्य करता है। यह राजनीतिक इतिहास और कृषि प्रचुरता में गहराई से जुड़ा हुआ क्षेत्र है।\n\n### इतिहास\n* **उत्पत्ति:** 1973 में पुराने सारण जिले से अलग करके बनाया गया।\n* **राजनीतिक महत्व:** पूर्व मुख्यमंत्री लालू प्रसाद यादव सहित कई प्रमुख राजनेताओं के गृह जिले के रूप में प्रसिद्ध।\n* **ऐतिहासिक वंशावली:** मूल रूप से प्राचीन कोसल साम्राज्य का एक हिस्सा था।\n\n### भूगोल\n* **स्थान:** पूर्व में गंडक नदी से घिरा हुआ, जो समृद्ध सिंचाई प्रदान करती है।\n* **इलाका:** निचले जलोढ़ मैदान जो असाधारण रूप से उपजाऊ हैं लेकिन वार्षिक बाढ़ के प्रति संवेदनशील हैं।\n\n### अर्थव्यवस्था और महत्व\n* **चीनी का कटोरा:** अपनी कई चीनी मिलों और व्यापक गन्ने की खेती के कारण ऐतिहासिक रूप से बिहार के 'चीनी के कटोरे' के रूप में जाना जाता है।\n* **प्रेषण:** सीवान के समान, जिले की अर्थव्यवस्था को खाड़ी देशों के एनआरआई द्वारा काफी समर्थन प्राप्त है।\n* **मंदिर:** थावे मंदिर एक अत्यधिक पूजनीय हिंदू मंदिर है जो नवरात्रि के दौरान हजारों भक्तों को आकर्षित करता है।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "west-champaran",
+      "name": {
+        "en": "West Champaran",
+        "hi": "पश्चिम चंपारण"
+      },
+      "division": "tirhut",
+      "headquarters": {
+        "en": "Bettiah",
+        "hi": "बेतिया"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**West Champaran**, headquartered at **Bettiah**, is Bihar's largest district in terms of area. It is globally celebrated as the starting point of Mahatma Gandhi's Satyagraha and is Bihar's only true wilderness district.\n\n### History\n* **Champaran Satyagraha (1917):** Gandhi Ji launched his first civil disobedience movement here against the oppressive indigo planters.\n* **Ancient Roots:** Part of the ancient Videha empire and dotted with Ashokan pillars at Lauriya Nandangarh.\n\n### Geography\n* **Terrain:** Features a diverse topography including the sub-Himalayan Someshwar range in the north.\n* **Forests:** Home to the Valmiki National Park, Bihar's sole Tiger Reserve, featuring dense forests and exotic wildlife.\n\n### Economy & Significance\n* **Agriculture:** Sugarcane is the primary cash crop. Timber and forest products also play a minor role.\n* **Tourism:** Valmiki Tiger Reserve is a major eco-tourism and wildlife sanctuary.\n* **Significance:** Holds monumental importance in modern Indian history as the cradle of the freedom struggle.",
+        "hi": "### परिचय\n**पश्चिम चंपारण**, जिसका मुख्यालय **बेतिया** में है, क्षेत्रफल के हिसाब से बिहार का सबसे बड़ा जिला है। इसे महात्मा गांधी के सत्याग्रह के शुरुआती बिंदु के रूप में विश्व स्तर पर मनाया जाता है और यह बिहार का एकमात्र वास्तविक वन्य क्षेत्र है।\n\n### इतिहास\n* **चंपारण सत्याग्रह (1917):** गांधी जी ने दमनकारी नील बगान मालिकों के खिलाफ अपना पहला सविनय अवज्ञा आंदोलन यहीं शुरू किया था।\n* **प्राचीन जड़ें:** प्राचीन विदेह साम्राज्य का हिस्सा और लौरिया नंदनगढ़ में अशोक के स्तंभों से परिपूर्ण।\n\n### भूगोल\n* **इलाका:** उत्तर में उप-हिमालयी सोमेश्वर श्रेणी सहित विविध स्थलाकृति की विशेषता है।\n* **जंगल:** वाल्मीकि राष्ट्रीय उद्यान का घर, जो बिहार का एकमात्र टाइगर रिज़र्व है, जिसमें घने जंगल और विदेशी वन्यजीव हैं।\n\n### अर्थव्यवस्था और महत्व\n* **कृषि:** गन्ना प्राथमिक नकदी फसल है। लकड़ी और वन उत्पाद भी एक छोटी भूमिका निभाते हैं।\n* **पर्यटन:** वाल्मीकि टाइगर रिज़र्व एक प्रमुख इको-टूरिज्म और वन्यजीव अभयारण्य है।\n* **महत्व:** स्वतंत्रता संग्राम के पालने के रूप में आधुनिक भारतीय इतिहास में स्मारकीय महत्व रखता है।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "east-champaran",
+      "name": {
+        "en": "East Champaran",
+        "hi": "पूर्वी चंपारण"
+      },
+      "division": "tirhut",
+      "headquarters": {
+        "en": "Motihari",
+        "hi": "मोतिहारी"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**East Champaran**, with its headquarters at **Motihari**, shares a deeply intertwined history with its western counterpart. It holds immense significance in the annals of India's independence movement.\n\n### History\n* **Satyagraha Roots:** Closely tied to the Champaran Satyagraha of 1917, marking Mahatma Gandhi's first civil disobedience against British indigo planters.\n* **Buddhist Heritage:** Home to the Kesaria Stupa, one of the tallest and largest Buddhist stupas in the world.\n\n### Geography\n* **Location:** Part of the Tirhut division, sharing its northern border with Nepal.\n* **Terrain:** Characterized by fertile plains irrigated by the Burhi Gandak river and its tributaries.\n\n### Economy & Significance\n* **Agriculture:** Dominated by the cultivation of rice, sugarcane, and jute.\n* **Significance:** A major destination for Buddhist tourism (Kesaria) and a vital center preserving the legacy of the Gandhi ashrams.",
+        "hi": "### परिचय\n**पूर्वी चंपारण**, जिसका मुख्यालय **मोतिहारी** में है, अपने पश्चिमी समकक्ष के साथ गहराई से जुड़ा हुआ इतिहास साझा करता है। भारत के स्वतंत्रता आंदोलन के इतिहास में इसका अत्यधिक महत्व है।\n\n### इतिहास\n* **सत्याग्रह की जड़ें:** 1917 के चंपारण सत्याग्रह से निकटता से जुड़ा हुआ है, जो ब्रिटिश नील बगान मालिकों के खिलाफ महात्मा गांधी की पहली सविनय अवज्ञा को चिह्नित करता है。\n* **बौद्ध विरासत:** दुनिया के सबसे ऊंचे और सबसे बड़े बौद्ध स्तूपों में से एक, केसरिया स्तूप का घर।\n\n### भूगोल\n* **स्थान:** तिरहुत प्रमंडल का हिस्सा, जो नेपाल के साथ अपनी उत्तरी सीमा साझा करता है।\n* **इलाका:** बूढ़ी गंडक नदी और उसकी सहायक नदियों द्वारा सिंचित उपजाऊ मैदानों की विशेषता।\n\n### अर्थव्यवस्था और महत्व\n* **कृषि:** चावल, गन्ना और जूट की खेती का प्रभुत्व।\n* **महत्व:** बौद्ध पर्यटन (केसरिया) के लिए एक प्रमुख गंतव्य और गांधी आश्रमों की विरासत को संरक्षित करने वाला एक महत्वपूर्ण केंद्र।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "muzaffarpur",
+      "name": {
+        "en": "Muzaffarpur",
+        "hi": "मुज़फ़्फ़रपुर"
+      },
+      "division": "tirhut",
+      "headquarters": {
+        "en": "Muzaffarpur",
+        "hi": "मुज़फ़्फ़रपुर"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Muzaffarpur**, often hailed as the 'Lychee Kingdom', is a major commercial and educational hub in the Tirhut division. It is renowned globally for the incredibly sweet Shahi Lychees.\n\n### History\n* **Establishment:** Founded in the 18th century by Muzaffar Khan, an Amil (revenue officer) under the Mughal dynasty.\n* **Freedom Struggle:** Noted for the Muzaffarpur conspiracy case of 1908, involving young revolutionaries Khudiram Bose and Prafulla Chaki.\n\n### Geography\n* **Location:** Situated strategically on the banks of the Burhi Gandak River.\n* **Climate:** A humid subtropical climate that heavily favors tropical fruit orchards.\n\n### Economy & Significance\n* **Horticulture:** The undisputed capital of Lychee production in India, securing a GI tag for its Shahi Lychee.\n* **Industry:** A growing hub for agro-based industries and textiles.\n* **Significance:** The primary economic and educational center of North Bihar.",
+        "hi": "### परिचय\n**मुज़फ़्फ़रपुर**, जिसे अक्सर 'लीची के साम्राज्य' के रूप में सराहा जाता है, तिरहुत प्रमंडल में एक प्रमुख वाणिज्यिक और शैक्षिक केंद्र है। यह अविश्वसनीय रूप से मीठी शाही लीची के लिए विश्व स्तर पर प्रसिद्ध है।\n\n### इतिहास\n* **स्थापना:** 18वीं शताब्दी में मुगल राजवंश के तहत एक आमिल (राजस्व अधिकारी) मुजफ्फर खान द्वारा स्थापित।\n* **स्वतंत्रता संग्राम:** 1908 के मुजफ्फरपुर षड्यंत्र मामले के लिए प्रसिद्ध, जिसमें युवा क्रांतिकारी खुदीराम बोस और प्रफुल्ल चाकी शामिल थे।\n\n### भूगोल\n* **स्थान:** रणनीतिक रूप से बूढ़ी गंडक नदी के तट पर स्थित।\n* **जलवायु:** एक आर्द्र उपोष्णकटिबंधीय जलवायु जो उष्णकटिबंधीय फलों के बागों के लिए अत्यधिक अनुकूल है।\n\n### अर्थव्यवस्था और महत्व\n* **बागवानी:** भारत में लीची उत्पादन की निर्विवाद राजधानी, अपनी शाही लीची के लिए जीआई (GI) टैग सुरक्षित किया है।\n* **उद्योग:** कृषि-आधारित उद्योगों और वस्त्रों के लिए एक बढ़ता हुआ केंद्र।\n* **महत्व:** उत्तर बिहार का प्राथमिक आर्थिक और शैक्षिक केंद्र।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "sitamarhi",
+      "name": {
+        "en": "Sitamarhi",
+        "hi": "सीतामढ़ी"
+      },
+      "division": "tirhut",
+      "headquarters": {
+        "en": "Sitamarhi",
+        "hi": "सीतामढ़ी"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Sitamarhi** is an incredibly sacred district in the Tirhut division, venerated as the birthplace of Goddess Sita. It borders Nepal and represents the deep cultural essence of the Mithila region.\n\n### History\n* **Mythological Roots:** According to the Ramayana, King Janaka found the infant Sita in a furrow here while ploughing the fields.\n* **Heritage:** An integral part of the ancient Videha kingdom.\n\n### Geography\n* **Location:** Bordering Nepal to the north, characterized by vast, low-lying flatlands.\n* **Water Bodies:** Crossed by numerous rivers originating in Nepal, making it highly prone to monsoon floods.\n\n### Economy & Significance\n* **Agriculture:** Paddy, wheat, and maize are the primary crops.\n* **Pilgrimage:** The Janaki Sthan temple is a major pilgrimage center drawing devotees from all over the world.\n* **Art:** Known for practicing and preserving the intricate Madhubani style of painting.",
+        "hi": "### परिचय\n**सीतामढ़ी** तिरहुत प्रमंडल में एक अविश्वसनीय रूप से पवित्र जिला है, जिसे देवी सीता के जन्मस्थान के रूप में पूजा जाता है। यह नेपाल की सीमा में है और मिथिला क्षेत्र के गहरे सांस्कृतिक सार का प्रतिनिधित्व करता है।\n\n### इतिहास\n* **पौराणिक जड़ें:** रामायण के अनुसार, राजा जनक ने खेतों में जुताई करते समय यहाँ एक कुंड (सीता) में शिशु सीता को पाया था।\n* **विरासत:** प्राचीन विदेह साम्राज्य का एक अभिन्न अंग।\n\n### भूगोल\n* **स्थान:** उत्तर में नेपाल की सीमा पर स्थित, जो विशाल, निचले समतल इलाकों की विशेषता है।\n* **जल निकाय:** नेपाल से निकलने वाली कई नदियों द्वारा पार किया जाता है, जिससे यह मानसून की बाढ़ के प्रति अत्यधिक संवेदनशील हो जाता है।\n\n### अर्थव्यवस्था और महत्व\n* **कृषि:** धान, गेहूं और मक्का प्राथमिक फसलें हैं।\n* **तीर्थयात्रा:** जानकी स्थान मंदिर एक प्रमुख तीर्थ केंद्र है जो दुनिया भर से भक्तों को आकर्षित करता है।\n* **कला:** मधुबनी चित्रकला की जटिल शैली के अभ्यास और संरक्षण के लिए जाना जाता है।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "sheohar",
+      "name": {
+        "en": "Sheohar",
+        "hi": "शिवहर"
+      },
+      "division": "tirhut",
+      "headquarters": {
+        "en": "Sheohar",
+        "hi": "शिवहर"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Sheohar** is one of the smallest and most rural districts in Bihar, carved out of Sitamarhi. Despite its small size, it boasts highly fertile land and a peaceful agrarian lifestyle.\n\n### History\n* **Formation:** Created in 1994 by separating it from the larger Sitamarhi district to improve administrative efficiency.\n* **Cultural Tie:** Shares the rich Maithili cultural and historical background of the Videha region.\n\n### Geography\n* **Location:** Landlocked between East Champaran, Muzaffarpur, and Sitamarhi.\n* **Rivers:** Primarily drained by the Bagmati river, which provides both rich silt and recurring floods.\n\n### Economy & Significance\n* **Agriculture:** Heavily dependent on traditional farming, with very little industrial presence.\n* **Challenges:** Due to its size and location, it faces significant challenges regarding infrastructure and flood management.\n* **Significance:** Represents the untouched, pristine rural heartland of North Bihar.",
+        "hi": "### परिचय\n**शिवहर** बिहार के सबसे छोटे और सबसे ग्रामीण जिलों में से एक है, जिसे सीतामढ़ी से अलग करके बनाया गया है। अपने छोटे आकार के बावजूद, यह अत्यधिक उपजाऊ भूमि और शांतिपूर्ण कृषि जीवन शैली का दावा करता है।\n\n### इतिहास\n* **गठन:** प्रशासनिक दक्षता में सुधार के लिए 1994 में इसे बड़े सीतामढ़ी जिले से अलग करके बनाया गया।\n* **सांस्कृतिक संबंध:** विदेह क्षेत्र की समृद्ध मैथिली सांस्कृतिक और ऐतिहासिक पृष्ठभूमि को साझा करता है।\n\n### भूगोल\n* **स्थान:** पूर्वी चंपारण, मुजफ्फरपुर और सीतामढ़ी के बीच चारों ओर से भूमि से घिरा हुआ (Landlocked)।\n* **नदियां:** मुख्य रूप से बागमती नदी द्वारा सिंचित, जो समृद्ध गाद और बार-बार आने वाली बाढ़ दोनों प्रदान करती है।\n\n### अर्थव्यवस्था और महत्व\n* **कृषि:** पारंपरिक खेती पर काफी हद तक निर्भर, जहाँ औद्योगिक उपस्थिति बहुत कम है।\n* **चुनौतियां:** अपने आकार और स्थान के कारण, इसे बुनियादी ढांचे और बाढ़ प्रबंधन के संबंध में महत्वपूर्ण चुनौतियों का सामना करना पड़ता है।\n* **महत्व:** उत्तर बिहार के अछूते, प्राचीन ग्रामीण हृदय स्थल का प्रतिनिधित्व करता है।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "vaishali",
+      "name": {
+        "en": "Vaishali",
+        "hi": "वैशाली"
+      },
+      "division": "tirhut",
+      "headquarters": {
+        "en": "Hajipur",
+        "hi": "हाजीपुर"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Vaishali**, with its headquarters in **Hajipur**, is globally recognized as the world's first republic. It is a profoundly sacred site for both Buddhists and Jains, deeply etched into ancient Indian history.\n\n### History\n* **Ancient Republic:** The capital of the Licchavi republic (Vajjian Confederacy) dating back to the 6th century BCE.\n* **Jainism:** The birthplace of Lord Mahavira, the 24th Tirthankara.\n* **Buddhism:** Lord Buddha delivered his last sermon here, and it hosted the Second Buddhist Council.\n\n### Geography\n* **Location:** Bound by the Ganges in the south and the Gandak in the west.\n* **Terrain:** Extremely fertile alluvial plains, excellent for fruit cultivation.\n\n### Economy & Significance\n* **Agriculture:** Famous for the Hajipur bananas, known as 'Chinia Kela', which are highly sought after.\n* **Tourism:** A pivotal node in the Buddhist Circuit, featuring the Ashokan Pillar, Relic Stupa, and Shanti Stupa.\n* **Significance:** A monumental symbol of ancient democratic principles and profound spiritual heritage.",
+        "hi": "### परिचय\n**वैशाली**, जिसका मुख्यालय **हाजीपुर** में है, विश्व स्तर पर दुनिया के पहले गणराज्य के रूप में मान्यता प्राप्त है। यह बौद्धों और जैनियों दोनों के लिए एक अत्यंत पवित्र स्थल है, जो प्राचीन भारतीय इतिहास में गहराई से उकेरा गया है।\n\n### इतिहास\n* **प्राचीन गणराज्य:** छठी शताब्दी ईसा पूर्व में लिच्छवी गणराज्य (वज्जी संघ) की राजधानी।\n* **जैन धर्म:** 24वें तीर्थंकर भगवान महावीर का जन्मस्थान।\n* **बौद्ध धर्म:** भगवान बुद्ध ने अपना अंतिम उपदेश यहीं दिया था, और इसने द्वितीय बौद्ध संगीति की मेजबानी की थी।\n\n### भूगोल\n* **स्थान:** दक्षिण में गंगा और पश्चिम में गंडक से घिरा हुआ।\n* **इलाका:** फलों की खेती के लिए उत्कृष्ट अत्यंत उपजाऊ जलोढ़ मैदान।\n\n### अर्थव्यवस्था और महत्व\n* **कृषि:** हाजीपुर के केलों के लिए प्रसिद्ध, जिन्हें 'चिनिया केला' कहा जाता है, जिनकी अत्यधिक मांग है।\n* **पर्यटन:** अशोक स्तंभ, अवशेष स्तूप (Relic Stupa) और शांति स्तूप की विशेषता वाले बौद्ध सर्किट में एक महत्वपूर्ण नोड।\n* **महत्व:** प्राचीन लोकतांत्रिक सिद्धांतों और गहन आध्यात्मिक विरासत का एक स्मारकीय प्रतीक।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "darbhanga",
+      "name": {
+        "en": "Darbhanga",
+        "hi": "दरभंगा"
+      },
+      "division": "darbhanga",
+      "headquarters": {
+        "en": "Darbhanga",
+        "hi": "दरभंगा"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Darbhanga** is the cultural capital of the Mithila region. Renowned for its royal heritage, intricate art forms, and rich literary traditions, it is the heart of Maithili culture.\n\n### History\n* **Raj Darbhanga:** Seat of the Khandwala dynasty (Darbhanga Raj), which was one of the wealthiest and most influential zamindaris in India.\n* **Cultural Hub:** A historical center for Sanskrit learning, Vedic philosophy, and Maithili literature.\n\n### Geography\n* **Location:** Located in the heart of North Bihar, crisscrossed by rivers like Bagmati and Kamala.\n* **Landscape:** Known for its numerous ponds and mango orchards (Pokhari, Machh, Makhan).\n\n### Economy & Significance\n* **Agriculture:** Famous for Makhana (fox nut) production and freshwater fish farming.\n* **Art & Culture:** A major center for preserving the Dhrupad style of classical music and Mithila traditions.\n* **Significance:** Boasts significant educational institutions and remains the pride of Maithili identity.",
+        "hi": "### परिचय\n**दरभंगा** मिथिला क्षेत्र की सांस्कृतिक राजधानी है। अपनी शाही विरासत, जटिल कला रूपों और समृद्ध साहित्यिक परंपराओं के लिए प्रसिद्ध, यह मैथिली संस्कृति का हृदय है।\n\n### इतिहास\n* **राज दरभंगा:** खंडवाला राजवंश (दरभंगा राज) का आसन, जो भारत की सबसे धनी और सबसे प्रभावशाली जमींदारियों में से एक थी।\n* **सांस्कृतिक केंद्र:** संस्कृत शिक्षा, वैदिक दर्शन और मैथिली साहित्य का एक ऐतिहासिक केंद्र।\n\n### भूगोल\n* **स्थान:** उत्तर बिहार के मध्य में स्थित, बागमती और कमला जैसी नदियों द्वारा काटा गया।\n* **परिदृश्य:** अपने कई तालाबों और आम के बागों (पोखरी, माछ, मखान) के लिए जाना जाता है।\n\n### अर्थव्यवस्था और महत्व\n* **कृषि:** मखाना (फॉक्स नट) उत्पादन और मीठे पानी की मछली पालन के लिए प्रसिद्ध।\n* **कला और संस्कृति:** शास्त्रीय संगीत की ध्रुपद शैली और मिथिला परंपराओं को संरक्षित करने का एक प्रमुख केंद्र।\n* **महत्व:** महत्वपूर्ण शैक्षणिक संस्थानों का दावा करता है और मैथिली पहचान का गौरव बना हुआ है।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "madhubani",
+      "name": {
+        "en": "Madhubani",
+        "hi": "मधुबनी"
+      },
+      "division": "darbhanga",
+      "headquarters": {
+        "en": "Madhubani",
+        "hi": "मधुबनी"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Madhubani**, translating to 'Forest of Honey', is a district globally synonymous with the exquisite Mithila paintings. It shares a prominent border with Nepal and is deeply rooted in ancient epics.\n\n### History\n* **Formation:** Created from the Darbhanga district in 1972.\n* **Artistic Heritage:** The origin place of Madhubani art, traditionally painted by women on mud walls during festivals and weddings, now globally acclaimed.\n\n### Geography\n* **Location:** Bounded by Nepal to the north, forming part of the vast Indo-Gangetic plain.\n* **Rivers:** Intersected by rivers like Kamala, Bhutahi Balan, and Kosi, which frequently alter their courses.\n\n### Economy & Significance\n* **Handicrafts:** Madhubani painting is a major source of income, empowering thousands of local artisans.\n* **Agriculture:** Cultivation of sugarcane, Makhana, and traditional paddy farming.\n* **Significance:** The cultural soul of Mithila, renowned for its art, sweet language, and traditional values.",
+        "hi": "### परिचय\n**मधुबनी**, जिसका अर्थ 'शहद का जंगल' है, एक ऐसा जिला है जो उत्तम मिथिला चित्रों के साथ विश्व स्तर पर पर्याय है। यह नेपाल के साथ एक प्रमुख सीमा साझा करता है और प्राचीन महाकाव्यों में गहराई से निहित है।\n\n### इतिहास\n* **गठन:** 1972 में दरभंगा जिले से बनाया गया।\n* **कलात्मक विरासत:** मधुबनी कला का उद्गम स्थल, पारंपरिक रूप से त्योहारों और शादियों के दौरान महिलाओं द्वारा मिट्टी की दीवारों पर चित्रित किया जाता है, जो अब विश्व स्तर पर प्रशंसित है।\n\n### भूगोल\n* **स्थान:** उत्तर में नेपाल से घिरा हुआ, विशाल भारत-गंगा के मैदान का हिस्सा बनता है।\n* **नदियां:** कमला, भूतही बलान और कोसी जैसी नदियों द्वारा पार किया जाता है, जो अक्सर अपना मार्ग बदलती रहती हैं।\n\n### अर्थव्यवस्था और महत्व\n* **हस्तशिल्प:** मधुबनी पेंटिंग आय का एक प्रमुख स्रोत है, जो हजारों स्थानीय कारीगरों को सशक्त बनाती है।\n* **कृषि:** गन्ना, मखाना और पारंपरिक धान की खेती।\n* **महत्व:** मिथिला की सांस्कृतिक आत्मा, जो अपनी कला, मीठी भाषा और पारंपरिक मूल्यों के लिए प्रसिद्ध है।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "samastipur",
+      "name": {
+        "en": "Samastipur",
+        "hi": "समस्तीपुर"
+      },
+      "division": "darbhanga",
+      "headquarters": {
+        "en": "Samastipur",
+        "hi": "समस्तीपुर"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Samastipur** is a vibrant district in the Darbhanga division, primarily known as a major railway junction and an agricultural powerhouse. \n\n### History\n* **Origin:** Emerged as an independent district in 1972, previously a sub-division of Darbhanga.\n* **Colonial Era:** Played a significant role during the British era as a strategic railway hub to transport agricultural goods.\n\n### Geography\n* **Location:** Centrally located in North Bihar, flanked by the Burhi Gandak and Bagmati rivers.\n* **Climate:** Experiences a humid subtropical climate, highly favorable for multiple cropping.\n\n### Economy & Significance\n* **Railway Hub:** One of the most important and bustling railway divisions in the East Central Railway zone.\n* **Agriculture & Education:** Home to the Dr. Rajendra Prasad Central Agricultural University in Pusa, a premier institute for agricultural research.\n* **Significance:** A vital transit point and the backbone of agricultural development in the region.",
+        "hi": "### परिचय\n**समस्तीपुर** दरभंगा प्रमंडल का एक जीवंत जिला है, जिसे मुख्य रूप से एक प्रमुख रेलवे जंक्शन और कृषि शक्ति केंद्र के रूप में जाना जाता है।\n\n### इतिहास\n* **उत्पत्ति:** 1972 में एक स्वतंत्र जिले के रूप में उभरा, जो पहले दरभंगा का एक उप-मंडल था।\n* **औपनिवेशिक युग:** ब्रिटिश काल के दौरान कृषि वस्तुओं के परिवहन के लिए एक रणनीतिक रेलवे हब के रूप में महत्वपूर्ण भूमिका निभाई।\n\n### भूगोल\n* **स्थान:** उत्तर बिहार में केंद्रीय रूप से स्थित, बूढ़ी गंडक और बागमती नदियों से घिरा हुआ।\n* **जलवायु:** एक आर्द्र उपोष्णकटिबंधीय जलवायु का अनुभव करता है, जो बहु-फसली खेती के लिए अत्यधिक अनुकूल है।\n\n### अर्थव्यवस्था और महत्व\n* **रेलवे हब:** पूर्व मध्य रेलवे क्षेत्र के सबसे महत्वपूर्ण और हलचल वाले रेलवे मंडलों में से एक।\n* **कृषि और शिक्षा:** पूसा में डॉ. राजेंद्र प्रसाद केंद्रीय कृषि विश्वविद्यालय का घर, जो कृषि अनुसंधान के लिए एक प्रमुख संस्थान है।\n* **महत्व:** एक महत्वपूर्ण पारगमन बिंदु और क्षेत्र में कृषि विकास की रीढ़।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "saharsa",
+      "name": {
+        "en": "Saharsa",
+        "hi": "सहरसा"
+      },
+      "division": "kosi",
+      "headquarters": {
+        "en": "Saharsa",
+        "hi": "सहरसा"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Saharsa** is the headquarters of the Kosi division. Situated in the floodplains of the Kosi river, it is a region of immense resilience, distinct culture, and spiritual depth.\n\n### History\n* **Ancient Roots:** Part of the ancient Mithila region; traditionally associated with the legend of Mandan Mishra and Adi Shankaracharya.\n* **Administrative:** Became an independent district in 1954, separated from Bhagalpur.\n\n### Geography\n* **The Kosi Influence:** Heavily defined by the Kosi River, often termed the 'Sorrow of Bihar' due to its devastating, shifting floods.\n* **Terrain:** Flat, sandy floodplains that require tough agrarian resilience.\n\n### Economy & Significance\n* **Agriculture:** Jute, Makhana (fox nut), and paddy are the primary crops.\n* **Spiritual:** The Tara Sthan at Mahishi is one of the important Shakti Peethas, drawing numerous devotees.\n* **Significance:** A testament to human endurance against natural calamities, while preserving a deep cultural heritage.",
+        "hi": "### परिचय\n**सहरसा** कोसी प्रमंडल का मुख्यालय है। कोसी नदी के बाढ़ के मैदानों में स्थित, यह अपार लचीलेपन, विशिष्ट संस्कृति और आध्यात्मिक गहराई का क्षेत्र है।\n\n### इतिहास\n* **प्राचीन जड़ें:** प्राचीन मिथिला क्षेत्र का हिस्सा; पारंपरिक रूप से मंडन मिश्र और आदि शंकराचार्य की किंवदंती से जुड़ा हुआ है।\n* **प्रशासनिक:** 1954 में भागलपुर से अलग होकर एक स्वतंत्र जिला बना।\n\n### भूगोल\n* **कोसी का प्रभाव:** कोसी नदी द्वारा अत्यधिक परिभाषित, जिसे अक्सर इसकी विनाशकारी, बदलती बाढ़ के कारण 'बिहार का शोक' कहा जाता है।\n* **इलाका:** समतल, रेतीले बाढ़ के मैदान जिनमें कठिन कृषि लचीलेपन की आवश्यकता होती है।\n\n### अर्थव्यवस्था और महत्व\n* **कृषि:** जूट, मखाना (फॉक्स नट) और धान प्राथमिक फसलें हैं।\n* **आध्यात्मिक:** महिषी में तारा स्थान महत्वपूर्ण शक्तिपीठों में से एक है, जो कई भक्तों को आकर्षित करता है।\n* **महत्व:** गहरी सांस्कृतिक विरासत को संरक्षित करते हुए प्राकृतिक आपदाओं के खिलाफ मानव सहनशीलता का एक प्रमाण।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "supaul",
+      "name": {
+        "en": "Supaul",
+        "hi": "सुपौल"
+      },
+      "division": "kosi",
+      "headquarters": {
+        "en": "Supaul",
+        "hi": "सुपौल"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Supaul** is a northern district in the Kosi division, directly bordering Nepal. It is characterized by its scenic landscapes, rural tranquility, and its ongoing battle with the Kosi river.\n\n### History\n* **Formation:** Carved out of the Saharsa district in 1991.\n* **Cultural Tie:** Historically linked to the ancient kingdoms of Mithila and shares close cultural ties with neighboring Nepal.\n\n### Geography\n* **Location:** Lies in the upper basin of the Kosi river just as it enters India from Nepal.\n* **Environment:** Prone to heavy siltation and massive floods, particularly the devastating Kosi breach of 2008.\n\n### Economy & Significance\n* **Agriculture:** Primarily driven by farming and animal husbandry. Jute and paddy are heavily cultivated.\n* **Energy & Infrastructure:** Contains critical flood control infrastructure, like the Kosi barrage in neighboring areas affecting Supaul.\n* **Significance:** A frontline district managing the ecological and social impacts of the unpredictable Kosi river.",
+        "hi": "### परिचय\n**सुपौल** कोसी प्रमंडल का एक उत्तरी जिला है, जो सीधे नेपाल की सीमा से लगता है। इसकी विशेषता इसके दर्शनीय परिदृश्य, ग्रामीण शांति और कोसी नदी के साथ चल रही इसकी लड़ाई है।\n\n### इतिहास\n* **गठन:** 1991 में सहरसा जिले से अलग करके बनाया गया।\n* **सांस्कृतिक संबंध:** ऐतिहासिक रूप से मिथिला के प्राचीन राज्यों से जुड़ा हुआ है और पड़ोसी नेपाल के साथ घनिष्ठ सांस्कृतिक संबंध साझा करता है।\n\n### भूगोल\n* **स्थान:** नेपाल से भारत में प्रवेश करते ही कोसी नदी के ऊपरी बेसिन में स्थित है।\n* **पर्यावरण:** भारी गाद और बड़े पैमाने पर बाढ़ के प्रति संवेदनशील, विशेष रूप से 2008 का विनाशकारी कोसी तटबंध टूटना।\n\n### अर्थव्यवस्था और महत्व\n* **कृषि:** मुख्य रूप से खेती और पशुपालन द्वारा संचालित। जूट और धान की भारी खेती होती है।\n* **ऊर्जा और बुनियादी ढांचा:** सुपौल को प्रभावित करने वाले पड़ोसी क्षेत्रों में कोसी बैराज जैसे महत्वपूर्ण बाढ़ नियंत्रण बुनियादी ढांचे शामिल हैं।\n* **महत्व:** अप्रत्याशित कोसी नदी के पारिस्थितिक और सामाजिक प्रभावों का प्रबंधन करने वाला एक सीमावर्ती जिला।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "madhepura",
+      "name": {
+        "en": "Madhepura",
+        "hi": "मधेपुरा"
+      },
+      "division": "kosi",
+      "headquarters": {
+        "en": "Madhepura",
+        "hi": "मधेपुरा"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Madhepura** is a district in the Kosi division, profoundly shaped by the shifting currents of the Kosi river. It is celebrated for its deep religious roots and rich Yadav cultural dominance.\n\n### History\n* **Mythology:** It holds immense religious significance, often connected to Lord Shiva through the famous Singheshwar Temple.\n* **Modern Era:** Functioned as a sub-division of Saharsa until it achieved independent district status in 1981.\n\n### Geography\n* **Location:** Lies centrally in the Kosi river basin, surrounded by Saharsa, Supaul, and Purnia.\n* **Terrain:** Primarily flat alluvial plains that are highly fertile but highly susceptible to severe flooding.\n\n### Economy & Significance\n* **Locomotive Factory:** Home to the Electric Locomotive Factory, a major joint venture with Alstom, producing high-power electric locomotives for Indian Railways.\n* **Agriculture:** Paddy, maize, and jute form the backbone of the agrarian economy.\n* **Significance:** A unique blend of heavy modern industry and deep-rooted agrarian traditions.",
+        "hi": "### परिचय\n**मधेपुरा** कोसी प्रमंडल का एक जिला है, जो कोसी नदी की बदलती धाराओं से गहराई से आकार लेता है। यह अपनी गहरी धार्मिक जड़ों और समृद्ध यादव सांस्कृतिक प्रभुत्व के लिए मनाया जाता है।\n\n### इतिहास\n* **पौराणिकता:** यह अत्यधिक धार्मिक महत्व रखता है, जो अक्सर प्रसिद्ध सिंहेश्वर मंदिर के माध्यम से भगवान शिव से जुड़ा हुआ है।\n* **आधुनिक युग:** 1981 में स्वतंत्र जिले का दर्जा प्राप्त करने तक सहरसा के उप-मंडल के रूप में कार्य किया।\n\n### भूगोल\n* **स्थान:** कोसी नदी बेसिन में केंद्रीय रूप से स्थित, सहरसा, सुपौल और पूर्णिया से घिरा हुआ।\n* **इलाका:** मुख्य रूप से समतल जलोढ़ मैदान जो अत्यधिक उपजाऊ हैं लेकिन गंभीर बाढ़ के प्रति अत्यधिक संवेदनशील हैं।\n\n### अर्थव्यवस्था और महत्व\n* **लोकोमोटिव फैक्ट्री:** इलेक्ट्रिक लोकोमोटिव फैक्ट्री का घर, जो एल्सटॉम (Alstom) के साथ एक प्रमुख संयुक्त उद्यम है, जो भारतीय रेलवे के लिए उच्च शक्ति वाले इलेक्ट्रिक इंजनों का उत्पादन करता है।\n* **कृषि:** धान, मक्का और जूट कृषि अर्थव्यवस्था की रीढ़ बनते हैं।\n* **महत्व:** भारी आधुनिक उद्योग और गहरी जड़ों वाली कृषि परंपराओं का एक अनूठा मिश्रण।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "purnia",
+      "name": {
+        "en": "Purnia",
+        "hi": "पूर्णिया"
+      },
+      "division": "purnia",
+      "headquarters": {
+        "en": "Purnia",
+        "hi": "पूर्णिया"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Purnia** is an ancient and vibrant district acting as the administrative headquarters of the Purnia division in the Seemanchal region. It serves as a vital economic and cultural bridge to Northeast India.\n\n### History\n* **Ancient Heritage:** Mentions of Purnia are found in ancient Hindu texts, and it was a significant military center under Mughal rule.\n* **Colonial Hub:** During British rule, it was known for its indigo plantations and as a major administrative outpost.\n\n### Geography\n* **Location:** Located in the northeastern part of Bihar, well-connected to West Bengal and Nepal.\n* **Climate:** Experiences heavier rainfall compared to western Bihar, favoring distinct agricultural practices.\n\n### Economy & Significance\n* **Agriculture & Trade:** A major center for jute cultivation and trade, often referred to as the 'Jute Capital' of Bihar. Also a major producer of maize and bananas.\n* **Education & Healthcare:** Acts as the primary medical and educational hub for the entire Seemanchal region.\n* **Significance:** The economic nerve center of North-East Bihar.",
+        "hi": "### परिचय\n**पूर्णिया** एक प्राचीन और जीवंत जिला है जो सीमांचल क्षेत्र में पूर्णिया प्रमंडल के प्रशासनिक मुख्यालय के रूप में कार्य करता है। यह पूर्वोत्तर भारत के लिए एक महत्वपूर्ण आर्थिक और सांस्कृतिक पुल के रूप में कार्य करता है।\n\n### इतिहास\n* **प्राचीन विरासत:** पूर्णिया का उल्लेख प्राचीन हिंदू ग्रंथों में मिलता है, और यह मुगल शासन के तहत एक महत्वपूर्ण सैन्य केंद्र था।\n* **औपनिवेशिक हब:** ब्रिटिश शासन के दौरान, यह अपने नील के बागानों और एक प्रमुख प्रशासनिक चौकी के रूप में जाना जाता था।\n\n### भूगोल\n* **स्थान:** बिहार के उत्तर-पूर्वी हिस्से में स्थित, पश्चिम बंगाल और नेपाल से अच्छी तरह जुड़ा हुआ।\n* **जलवायु:** पश्चिमी बिहार की तुलना में भारी वर्षा का अनुभव करता है, जो विशिष्ट कृषि प्रथाओं का पक्ष लेता है।\n\n### अर्थव्यवस्था और महत्व\n* **कृषि और व्यापार:** जूट की खेती और व्यापार का एक प्रमुख केंद्र, जिसे अक्सर बिहार की 'जूट राजधानी' कहा जाता है। साथ ही मक्का और केले का एक प्रमुख उत्पादक भी है।\n* **शिक्षा और स्वास्थ्य सेवा:** पूरे सीमांचल क्षेत्र के लिए प्राथमिक चिकित्सा और शैक्षिक केंद्र के रूप में कार्य करता है।\n* **महत्व:** उत्तर-पूर्व बिहार का आर्थिक तंत्रिका केंद्र।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "katihar",
+      "name": {
+        "en": "Katihar",
+        "hi": "कटिहार"
+      },
+      "division": "purnia",
+      "headquarters": {
+        "en": "Katihar",
+        "hi": "कटिहार"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Katihar** is a prominent district in the Seemanchal region, heavily defined by its immense railway junction and strategic location bordering West Bengal.\n\n### History\n* **Formation:** Created from the Purnia district in 1973.\n* **Railway Legacy:** Grew rapidly during the British era as a critical railway junction connecting the Northeast frontier with the rest of India.\n\n### Geography\n* **Location:** Bordered by the Ganges in the south and intersected by the Mahananda and Kosi rivers.\n* **Environment:** Characterized by fertile plains, wetlands, and oxbow lakes (Chaurs).\n\n### Economy & Significance\n* **Railway Hub:** The Katihar Railway Junction is one of the busiest and most strategic in Eastern India.\n* **Agriculture & Industry:** Historically a major center for jute mills. Currently, agriculture focuses on paddy, jute, and Makhana.\n* **Significance:** A vital logistical and transportation gateway linking Bihar to Bengal and the Northeast.",
+        "hi": "### परिचय\n**कटिहार** सीमांचल क्षेत्र का एक प्रमुख जिला है, जो पश्चिम बंगाल की सीमा से लगे अपने विशाल रेलवे जंक्शन और रणनीतिक स्थान द्वारा अत्यधिक परिभाषित है।\n\n### इतिहास\n* **गठन:** 1973 में पूर्णिया जिले से बनाया गया।\n* **रेलवे विरासत:** ब्रिटिश काल के दौरान पूर्वोत्तर सीमांत को शेष भारत से जोड़ने वाले एक महत्वपूर्ण रेलवे जंक्शन के रूप में तेजी से विकसित हुआ।\n\n### भूगोल\n* **स्थान:** दक्षिण में गंगा से घिरा हुआ और महानंदा तथा कोसी नदियों द्वारा काटा गया।\n* **पर्यावरण:** उपजाऊ मैदानों, आर्द्रभूमि और गोखुर झीलों (चौर) की विशेषता।\n\n### अर्थव्यवस्था और महत्व\n* **रेलवे हब:** कटिहार रेलवे जंक्शन पूर्वी भारत में सबसे व्यस्त और सबसे रणनीतिक जंक्शनों में से एक है।\n* **कृषि और उद्योग:** ऐतिहासिक रूप से जूट मिलों का एक प्रमुख केंद्र। वर्तमान में, कृषि मुख्य रूप से धान, जूट और मखाना पर केंद्रित है।\n* **महत्व:** बिहार को बंगाल और पूर्वोत्तर से जोड़ने वाला एक महत्वपूर्ण रसद और परिवहन प्रवेश द्वार।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "araria",
+      "name": {
+        "en": "Araria",
+        "hi": "अररिया"
+      },
+      "division": "purnia",
+      "headquarters": {
+        "en": "Araria",
+        "hi": "अररिया"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Araria** is a frontier district in the Purnia division, sharing an extensive international border with Nepal. It is celebrated for its rich literary associations and dense demographic diversity.\n\n### History\n* **Literary Connection:** Strongly associated with the legendary Hindi author Phanishwar Nath 'Renu', whose masterpiece *Maila Anchal* deeply captures the essence of this region.\n* **Formation:** Carved out of Purnia district in 1990.\n\n### Geography\n* **Location:** Situated along the Indo-Nepal border, serving as a transit route to Jogbani (Nepal).\n* **Terrain:** Crossed by the Panar and Kosi rivers, it frequently battles heavy monsoon flooding.\n\n### Economy & Significance\n* **Agriculture:** Primarily an agrarian economy heavily reliant on jute, maize, and paddy cultivation.\n* **Trade:** The Jogbani border acts as a crucial commercial transit point between India and Nepal.\n* **Significance:** Culturally rich but economically challenged, it represents the raw, authentic narrative of rural Seemanchal.",
+        "hi": "### परिचय\n**अररिया** पूर्णिया प्रमंडल का एक सीमांत जिला है, जो नेपाल के साथ एक व्यापक अंतरराष्ट्रीय सीमा साझा करता है। यह अपने समृद्ध साहित्यिक जुड़ाव और घनी जनसांख्यिकीय विविधता के लिए मनाया जाता है।\n\n### इतिहास\n* **साहित्यिक संबंध:** महान हिंदी लेखक फणीश्वर नाथ 'रेणु' से दृढ़ता से जुड़ा हुआ है, जिनकी उत्कृष्ट कृति *मैला आंचल* इस क्षेत्र के सार को गहराई से दर्शाती है।\n* **गठन:** 1990 में पूर्णिया जिले से अलग करके बनाया गया।\n\n### भूगोल\n* **स्थान:** भारत-नेपाल सीमा के साथ स्थित, जोगबनी (नेपाल) के लिए पारगमन मार्ग के रूप में कार्य करता है।\n* **इलाका:** पनार और कोसी नदियों द्वारा पार किया जाता है, यह अक्सर भारी मानसून की बाढ़ से जूझता है।\n\n### अर्थव्यवस्था और महत्व\n* **कृषि:** मुख्य रूप से एक कृषि प्रधान अर्थव्यवस्था जो जूट, मक्का और धान की खेती पर अत्यधिक निर्भर है।\n* **व्यापार:** जोगबनी सीमा भारत और नेपाल के बीच एक महत्वपूर्ण वाणिज्यिक पारगमन बिंदु के रूप में कार्य करती है।\n* **महत्व:** सांस्कृतिक रूप से समृद्ध लेकिन आर्थिक रूप से चुनौतीपूर्ण, यह ग्रामीण सीमांचल की कच्ची, प्रामाणिक कथा का प्रतिनिधित्व करता है।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "kishanganj",
+      "name": {
+        "en": "Kishanganj",
+        "hi": "किशनगंज"
+      },
+      "division": "purnia",
+      "headquarters": {
+        "en": "Kishanganj",
+        "hi": "किशनगंज"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Kishanganj** is the easternmost district of Bihar, uniquely sharing borders with both Nepal and West Bengal. It is distinct for being the only tea-producing district in Bihar and having a Muslim-majority population.\n\n### History\n* **Strategic Location:** Historically a part of the Purnia district, it gained independent status in 1990. It forms part of the strategic 'Siliguri Corridor' (Chicken's Neck).\n* **Cultural Synthesis:** Represents a unique blend of Surjapuri, Bengali, and Bihari cultures.\n\n### Geography\n* **Climate:** Receives the highest rainfall in Bihar, creating a lush, humid environment favorable for tea estates.\n* **Terrain:** Intersected by the Mahananda and Mechi rivers.\n\n### Economy & Significance\n* **Agriculture & Tea:** Famous for its rapidly growing tea estates, an anomaly in Bihar's primarily paddy/wheat-focused agriculture. Also grows pineapple and jute.\n* **Demographics:** Known for its distinct Surjapuri dialect and rich syncretic culture.\n* **Significance:** A vital geopolitical district due to its proximity to the sensitive international borders.",
+        "hi": "### परिचय\n**किशनगंज** बिहार का सबसे पूर्वी जिला है, जो विशिष्ट रूप से नेपाल और पश्चिम बंगाल दोनों के साथ सीमा साझा करता है। यह बिहार में एकमात्र चाय उत्पादक जिला होने और मुस्लिम बहुल आबादी होने के लिए विशिष्ट है।\n\n### इतिहास\n* **रणनीतिक स्थान:** ऐतिहासिक रूप से पूर्णिया जिले का एक हिस्सा, इसने 1990 में स्वतंत्र दर्जा प्राप्त किया। यह रणनीतिक 'सिलीगुड़ी कॉरिडोर' (चिकन नेक) का हिस्सा बनता है।\n* **सांस्कृतिक संश्लेषण:** सुरजापुरी, बंगाली और बिहारी संस्कृतियों के अनूठे मिश्रण का प्रतिनिधित्व करता है।\n\n### भूगोल\n* **जलवायु:** बिहार में सबसे अधिक वर्षा प्राप्त करता है, जिससे चाय बागानों के अनुकूल हरा-भरा, आर्द्र वातावरण बनता है।\n* **इलाका:** महानंदा और मेची नदियों द्वारा काटा गया।\n\n### अर्थव्यवस्था और महत्व\n* **कृषि और चाय:** अपने तेजी से बढ़ते चाय बागानों के लिए प्रसिद्ध, जो बिहार की मुख्य रूप से धान/गेहूं-केंद्रित कृषि में एक अपवाद है। यहाँ अनानास और जूट भी उगाई जाती है।\n* **जनसांख्यिकी:** अपनी विशिष्ट सुरजापुरी बोली और समृद्ध समन्वयवादी संस्कृति के लिए जाना जाता है।\n* **महत्व:** संवेदनशील अंतरराष्ट्रीय सीमाओं से निकटता के कारण एक महत्वपूर्ण भू-राजनीतिक जिला।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "bhagalpur",
+      "name": {
+        "en": "Bhagalpur",
+        "hi": "भागलपुर"
+      },
+      "division": "bhagalpur",
+      "headquarters": {
+        "en": "Bhagalpur",
+        "hi": "भागलपुर"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Bhagalpur**, fondly known as the 'Silk City' of India, is a major educational, commercial, and historical powerhouse in eastern Bihar. It sits majestically on the southern banks of the Ganges.\n\n### History\n* **Ancient Vikramshila:** Home to the ruins of the Vikramshila University, established by King Dharmapala in the 8th century, which was a premier center of Buddhist learning alongside Nalanda.\n* **Mythology:** Historically associated with the ancient kingdom of Anga, ruled by Karna from the Mahabharata.\n\n### Geography\n* **Location:** The Ganges flows extensively through the district, forming fertile plains and supporting unique biodiversity.\n* **Wildlife:** Home to the Vikramshila Gangetic Dolphin Sanctuary, India's only sanctuary for the endangered Gangetic dolphins.\n\n### Economy & Significance\n* **Silk Industry:** World-renowned for its 'Tussar Silk' and Bhagalpuri sarees, a craft passed down through generations.\n* **Agriculture:** Famous for the highly prized Zardalu mango, which holds a GI tag.\n* **Significance:** The primary economic and cultural hub of eastern Bihar, balancing rich ancient heritage with a thriving modern handloom industry.",
+        "hi": "### परिचय\n**भागलपुर**, जिसे भारत के 'सिल्क सिटी' (रेशम शहर) के रूप में प्यार से जाना जाता है, पूर्वी बिहार में एक प्रमुख शैक्षिक, वाणिज्यिक और ऐतिहासिक शक्ति केंद्र है। यह गंगा के दक्षिणी तट पर शान से स्थित है।\n\n### इतिहास\n* **प्राचीन विक्रमशिला:** 8वीं शताब्दी में राजा धर्मपाल द्वारा स्थापित विक्रमशिला विश्वविद्यालय के खंडहरों का घर, जो नालंदा के साथ-साथ बौद्ध शिक्षा का एक प्रमुख केंद्र था।\n* **पौराणिकता:** ऐतिहासिक रूप से प्राचीन अंग राज्य से जुड़ा हुआ है, जिस पर महाभारत के कर्ण का शासन था।\n\n### भूगोल\n* **स्थान:** गंगा जिले से होकर बड़े पैमाने पर बहती है, उपजाऊ मैदान बनाती है और अद्वितीय जैव विविधता का समर्थन करती है।\n* **वन्यजीव:** लुप्तप्राय गंगा डॉल्फिन के लिए भारत का एकमात्र अभयारण्य, विक्रमशिला गंगा डॉल्फिन अभयारण्य का घर।\n\n### अर्थव्यवस्था और महत्व\n* **रेशम उद्योग:** अपने 'तसर सिल्क' और भागलपुरी साड़ियों के लिए विश्व प्रसिद्ध, यह एक ऐसा शिल्प है जो पीढ़ियों से चला आ रहा है।\n* **कृषि:** अत्यधिक बेशकीमती जर्दालू आम के लिए प्रसिद्ध, जिसे जीआई (GI) टैग प्राप्त है।\n* **महत्व:** पूर्वी बिहार का प्राथमिक आर्थिक और सांस्कृतिक केंद्र, जो समृद्ध प्राचीन विरासत को पनपते आधुनिक हथकरघा उद्योग के साथ संतुलित करता है।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "banka",
+      "name": {
+        "en": "Banka",
+        "hi": "बांका"
+      },
+      "division": "bhagalpur",
+      "headquarters": {
+        "en": "Banka",
+        "hi": "बांका"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Banka** is a serene, ecologically rich district in the Bhagalpur division. Known for its rolling hills, ancient mythologies, and tribal populations, it acts as a transition zone between the Gangetic plains and the Chota Nagpur plateau.\n\n### History\n* **Mandar Hill (Mandar Parvat):** Extremely sacred in Hindu mythology, believed to be the mountain used by gods and demons for the 'Samudra Manthan' (churning of the ocean).\n* **Formation:** Created from the Bhagalpur district in 1990.\n\n### Geography\n* **Terrain:** Undulating and hilly terrain with significant forest cover, distinct from the flatlands of northern Bihar.\n* **Rivers:** Drained by the Chandan river, which offers scenic beauty and sustains local agriculture.\n\n### Economy & Significance\n* **Tourism:** Mandar Parvat is a major pilgrimage site for both Hindus and Jains (associated with the 12th Tirthankara, Vasupujya).\n* **Agriculture & Minerals:** Heavily dependent on agriculture. The hilly regions also possess minor mineral resources.\n* **Significance:** A culturally rich region offering spiritual tourism and a gateway to the tribal heritage of eastern India.",
+        "hi": "### परिचय\n**बांका** भागलपुर प्रमंडल में एक शांत, पारिस्थितिक रूप से समृद्ध जिला है। अपनी घुमावदार पहाड़ियों, प्राचीन पौराणिक कथाओं और आदिवासी आबादी के लिए जाना जाने वाला यह गंगा के मैदानों और छोटा नागपुर पठार के बीच एक संक्रमण क्षेत्र के रूप में कार्य करता है।\n\n### इतिहास\n* **मंदार हिल (मंदार पर्वत):** हिंदू पौराणिक कथाओं में अत्यंत पवित्र, माना जाता है कि इसी पर्वत का उपयोग देवताओं और असुरों ने 'समुद्र मंथन' के लिए किया था।\n* **गठन:** 1990 में भागलपुर जिले से बनाया गया।\n\n### भूगोल\n* **इलाका:** महत्वपूर्ण वन क्षेत्र के साथ लहरदार और पहाड़ी इलाका, जो उत्तरी बिहार के समतल मैदानों से अलग है।\n* **नदियां:** चंदन नदी द्वारा सिंचित, जो प्राकृतिक सुंदरता प्रदान करती है और स्थानीय कृषि को बनाए रखती है।\n\n### अर्थव्यवस्था और महत्व\n* **पर्यटन:** मंदार पर्वत हिंदुओं और जैनियों (12वें तीर्थंकर, वासुपूज्य से जुड़ा) दोनों के लिए एक प्रमुख तीर्थ स्थल है।\n* **कृषि और खनिज:** कृषि पर अत्यधिक निर्भर। पहाड़ी क्षेत्रों में लघु खनिज संसाधन भी मौजूद हैं।\n* **महत्व:** आध्यात्मिक पर्यटन की पेशकश करने वाला एक सांस्कृतिक रूप से समृद्ध क्षेत्र और पूर्वी भारत की आदिवासी विरासत का प्रवेश द्वार।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "munger",
+      "name": {
+        "en": "Munger",
+        "hi": "मुंगेर"
+      },
+      "division": "munger",
+      "headquarters": {
+        "en": "Munger",
+        "hi": "मुंगेर"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Munger** is one of the most historically significant and oldest districts in Bihar. Flanked by the Ganges, it is globally renowned as the 'Yoga Capital of the World' and holds a complex history of empires and gunsmithing.\n\n### History\n* **Ancient Heritage:** Served as the capital of the Anga Mahajanapada and was later a prominent seat under the Pala Empire.\n* **Medieval & Modern:** Made the capital of Bengal by Mir Qasim in the 18th century. He established massive arsenals here to fight the British.\n\n### Geography\n* **Location:** Picturesquely situated on the southern banks of the Ganges.\n* **Terrain:** Includes the ancient Munger Fort area and the forested Kharagpur Hills.\n\n### Economy & Significance\n* **Yoga:** Home to the Bihar School of Yoga, established by Swami Satyananda Saraswati, attracting global practitioners.\n* **Industry:** Famous for the ITC tobacco factory and a historical, albeit controversial, unorganized gun manufacturing industry.\n* **Tourism:** Rich in heritage tourism with the massive Munger Fort, Sita Kund, and Jamalpur railway workshops.",
+        "hi": "### परिचय\n**मुंगेर** बिहार के सबसे ऐतिहासिक रूप से महत्वपूर्ण और सबसे पुराने जिलों में से एक है। गंगा के तट पर स्थित, यह विश्व स्तर पर 'विश्व की योग राजधानी' के रूप में प्रसिद्ध है और साम्राज्यों तथा बंदूक निर्माण का एक जटिल इतिहास रखता है।\n\n### इतिहास\n* **प्राचीन विरासत:** अंग महाजनपद की राजधानी के रूप में कार्य किया और बाद में पाल साम्राज्य के तहत एक प्रमुख स्थान था।\n* **मध्यकालीन और आधुनिक:** 18वीं शताब्दी में मीर कासिम द्वारा इसे बंगाल की राजधानी बनाया गया। उसने अंग्रेजों से लड़ने के लिए यहाँ विशाल शस्त्रागार स्थापित किए।\n\n### भूगोल\n* **स्थान:** गंगा के दक्षिणी तट पर खूबसूरती से स्थित।\n* **इलाका:** प्राचीन मुंगेर किला क्षेत्र और जंगली खड़गपुर पहाड़ियाँ शामिल हैं।\n\n### अर्थव्यवस्था और महत्व\n* **योग:** स्वामी सत्यानंद सरस्वती द्वारा स्थापित 'बिहार योग विद्यालय' (Bihar School of Yoga) का घर, जो वैश्विक अभ्यासकर्ताओं को आकर्षित करता है।\n* **उद्योग:** आईटीसी (ITC) तंबाकू कारखाने और एक ऐतिहासिक, हालांकि विवादास्पद, असंगठित बंदूक निर्माण उद्योग के लिए प्रसिद्ध।\n* **पर्यटन:** विशाल मुंगेर किले, सीता कुंड और जमालपुर रेलवे कार्यशालाओं के साथ विरासत पर्यटन में समृद्ध।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "lakhisarai",
+      "name": {
+        "en": "Lakhisarai",
+        "hi": "लखीसराय"
+      },
+      "division": "munger",
+      "headquarters": {
+        "en": "Lakhisarai",
+        "hi": "लखीसराय"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Lakhisarai** is a historically rich, small district that serves as an important spiritual and transit hub in the Munger division. It is closely associated with ancient Buddhist structures and prominent Hindu temples.\n\n### History\n* **Religious Nexus:** Historically served as a major center for both Buddhism and Hinduism, particularly during the Pala dynasty.\n* **Formation:** Separated from Munger district to become an independent entity in 1994.\n\n### Geography\n* **Location:** Positioned centrally, where the plains of the Ganges meet the foothills of the Chota Nagpur plateau.\n* **Rivers:** The Kiul River flows prominently through the district, acting as its lifeline.\n\n### Economy & Significance\n* **Railway Node:** The Kiul Junction is a highly strategic and busy railway junction connecting major routes.\n* **Agriculture:** Primarily an agricultural economy focusing on paddy, wheat, and pulses.\n* **Tourism:** Home to the revered Ashokdham Temple (Indadamneshwar Mahadev) and ancient Buddhist ruins at Valgudar.",
+        "hi": "### परिचय\n**लखीसराय** एक ऐतिहासिक रूप से समृद्ध, छोटा जिला है जो मुंगेर प्रमंडल में एक महत्वपूर्ण आध्यात्मिक और पारगमन केंद्र के रूप में कार्य करता है। यह प्राचीन बौद्ध संरचनाओं और प्रमुख हिंदू मंदिरों से निकटता से जुड़ा हुआ है।\n\n### इतिहास\n* **धार्मिक गठजोड़:** ऐतिहासिक रूप से बौद्ध धर्म और हिंदू धर्म दोनों के लिए एक प्रमुख केंद्र के रूप में कार्य किया, विशेष रूप से पाल राजवंश के दौरान।\n* **गठन:** 1994 में मुंगेर जिले से अलग होकर एक स्वतंत्र इकाई बना।\n\n### भूगोल\n* **स्थान:** केंद्रीय रूप से स्थित, जहाँ गंगा के मैदान छोटा नागपुर पठार की तलहटी से मिलते हैं।\n* **नदियां:** किउल नदी प्रमुखता से जिले से होकर बहती है, जो इसकी जीवन रेखा के रूप में कार्य करती है।\n\n### अर्थव्यवस्था और महत्व\n* **रेलवे नोड:** किउल जंक्शन एक अत्यधिक रणनीतिक और व्यस्त रेलवे जंक्शन है जो प्रमुख मार्गों को जोड़ता है।\n* **कृषि:** मुख्य रूप से धान, गेहूं और दलहन पर केंद्रित एक कृषि अर्थव्यवस्था।\n* **पर्यटन:** श्रद्धेय अशोकधाम मंदिर (इंद्रदमनेश्वर महादेव) और वलगुदर में प्राचीन बौद्ध खंडहरों का घर।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "sheikhpura",
+      "name": {
+        "en": "Sheikhpura",
+        "hi": "शेखपुरा"
+      },
+      "division": "munger",
+      "headquarters": {
+        "en": "Sheikhpura",
+        "hi": "शेखपुरा"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Sheikhpura** is one of the smallest districts in Bihar, both in terms of area and population. Despite its compact size, it has a robust agrarian output and a history steeped in Sufi traditions.\n\n### History\n* **Sufi Heritage:** Named after the revered Sufi saint, Makhdum Tariq Alauddin, reflecting a deep Islamic historical influence.\n* **Formation:** Carved out of the larger Munger district in 1994.\n\n### Geography\n* **Location:** Landlocked between Nalanda, Lakhisarai, and Jamui districts.\n* **Terrain:** Mostly plain agricultural lands dotted with a few isolated rocky hillocks.\n\n### Economy & Significance\n* **Agriculture:** Highly fertile lands heavily dependent on the irrigation network, focusing on wheat and rice.\n* **Stone Crushing:** Features a notable stone-crushing industry due to the presence of small rocky hills.\n* **Significance:** A peaceful, tightly-knit district representing the quiet agrarian backbone of central Bihar.",
+        "hi": "### परिचय\n**शेखपुरा** क्षेत्रफल और जनसंख्या दोनों के मामले में बिहार के सबसे छोटे जिलों में से एक है। अपने कॉम्पैक्ट आकार के बावजूद, इसमें एक मजबूत कृषि उत्पादन और सूफी परंपराओं में डूबा हुआ इतिहास है।\n\n### इतिहास\n* **सूफी विरासत:** श्रद्धेय सूफी संत, मखदूम तारिक अलाउद्दीन के नाम पर, जो एक गहरे इस्लामी ऐतिहासिक प्रभाव को दर्शाता है।\n* **गठन:** 1994 में बड़े मुंगेर जिले से अलग करके बनाया गया।\n\n### भूगोल\n* **स्थान:** नालंदा, लखीसराय और जमुई जिलों के बीच चारों ओर से भूमि से घिरा हुआ।\n* **इलाका:** ज्यादातर समतल कृषि भूमि जिसमें कुछ अलग-थलग चट्टानी पहाड़ियाँ हैं।\n\n### अर्थव्यवस्था और महत्व\n* **कृषि:** गेहूं और चावल पर केंद्रित, सिंचाई नेटवर्क पर अत्यधिक निर्भर अत्यधिक उपजाऊ भूमि।\n* **स्टोन क्रशिंग:** छोटी चट्टानी पहाड़ियों की उपस्थिति के कारण एक उल्लेखनीय पत्थर तोड़ने वाले (Stone-crushing) उद्योग की विशेषता है।\n* **महत्व:** मध्य बिहार की शांत कृषि रीढ़ का प्रतिनिधित्व करने वाला एक शांतिपूर्ण, घनिष्ठ जिला।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "jamui",
+      "name": {
+        "en": "Jamui",
+        "hi": "जमुई"
+      },
+      "division": "munger",
+      "headquarters": {
+        "en": "Jamui",
+        "hi": "जमुई"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Jamui** is a heavily forested, mineral-rich district sharing its southern border with Jharkhand. It is known for its tribal heritage, mythological connections, and immense untapped natural resources.\n\n### History\n* **Mythology:** Lord Mahavira, the 24th Jain Tirthankara, is believed to have attained omniscience (Kevala Jnana) in the Jambhiyagram area of Jamui.\n* **Formation:** Carved out of Munger in 1991 to become an independent district.\n\n### Geography\n* **Terrain:** Characterized by hills, dense forests, and the influence of the Chota Nagpur plateau.\n* **Resources:** Contains the largest gold reserve in India, though largely unmined, alongside mica and other minerals.\n\n### Economy & Significance\n* **Agriculture & Forestry:** Economy depends heavily on rain-fed agriculture and forest produce.\n* **Tourism:** Home to the Nagi-Nakti Bird Sanctuaries, attracting thousands of migratory birds.\n* **Significance:** A vital ecological zone with deep historical roots and massive geological potential.",
+        "hi": "### परिचय\n**जमुई** एक घने जंगलों वाला, खनिज-समृद्ध जिला है जो झारखंड के साथ अपनी दक्षिणी सीमा साझा करता है। यह अपनी आदिवासी विरासत, पौराणिक संबंधों और अपार अप्रयुक्त प्राकृतिक संसाधनों के लिए जाना जाता है।\n\n### इतिहास\n* **पौराणिकता:** माना जाता है कि 24वें जैन तीर्थंकर भगवान महावीर ने जमुई के जंभियाग्राम क्षेत्र में सर्वज्ञता (केवल ज्ञान) प्राप्त की थी।\n* **गठन:** 1991 में मुंगेर से अलग होकर एक स्वतंत्र जिला बना।\n\n### भूगोल\n* **इलाका:** पहाड़ियों, घने जंगलों और छोटा नागपुर पठार के प्रभाव की विशेषता है।\n* **संसाधन:** अभ्रक और अन्य खनिजों के साथ, भारत में सबसे बड़ा सोने का भंडार है, हालांकि बड़े पैमाने पर इसका खनन नहीं हुआ है।\n\n### अर्थव्यवस्था और महत्व\n* **कृषि और वानिकी:** अर्थव्यवस्था वर्षा आधारित कृषि और वनोपज पर अत्यधिक निर्भर है।\n* **पर्यटन:** नागी-नकटी पक्षी अभयारण्य का घर, जो हजारों प्रवासी पक्षियों को आकर्षित करता है।\n* **महत्व:** गहरी ऐतिहासिक जड़ों और बड़े पैमाने पर भूवैज्ञानिक क्षमता वाला एक महत्वपूर्ण पारिस्थितिक क्षेत्र।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "khagaria",
+      "name": {
+        "en": "Khagaria",
+        "hi": "खगड़िया"
+      },
+      "division": "munger",
+      "headquarters": {
+        "en": "Khagaria",
+        "hi": "खगड़िया"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Khagaria** is an intricately riverine district, bounded by seven major rivers including the Ganges, Kosi, and Bagmati. It is famously known as the 'Farkiya' region.\n\n### History\n* **The Farkiya Region:** Historically isolated due to complex river networks, it was often left unassessed by Mughal emperor Akbar's revenue minister Todar Mal, earning it the name 'Farkiya' (separated).\n* **Formation:** Established as a district in 1981, bifurcated from Munger.\n\n### Geography\n* **Location:** A low-lying basin surrounded by rivers, making it extremely fertile but devastatingly prone to floods.\n* **Rivers:** Crisscrossed by the Ganges, Kosi, Burhi Gandak, Bagmati, Kamala, and others.\n\n### Economy & Significance\n* **Agriculture:** Primarily an agrarian economy. Maize and bananas are produced in massive quantities here.\n* **Challenges:** Constantly battles geographical isolation and seasonal flooding due to its riverine topography.\n* **Significance:** The undisputed maize hub of Bihar, showcasing extreme agrarian resilience.",
+        "hi": "### परिचय\n**खगड़िया** एक जटिल नदी तटीय जिला है, जो गंगा, कोसी और बागमती सहित सात प्रमुख नदियों से घिरा है। इसे प्रसिद्ध रूप से 'फरकिया' क्षेत्र के रूप में जाना जाता है।\n\n### इतिहास\n* **फरकिया क्षेत्र:** जटिल नदी नेटवर्क के कारण ऐतिहासिक रूप से अलग-थलग, इसे अक्सर मुगल सम्राट अकबर के राजस्व मंत्री टोडर मल द्वारा बिना मूल्यांकन के छोड़ दिया गया था, जिससे इसका नाम 'फरकिया' (अलग) पड़ा।\n* **गठन:** मुंगेर से विभाजित होकर 1981 में एक जिले के रूप में स्थापित।\n\n### भूगोल\n* **स्थान:** नदियों से घिरा एक निचला बेसिन, जो इसे अत्यंत उपजाऊ लेकिन विनाशकारी बाढ़ की ओर प्रवृत्त बनाता है।\n* **नदियां:** गंगा, कोसी, बूढ़ी गंडक, बागमती, कमला और अन्य नदियों द्वारा काटा गया।\n\n### अर्थव्यवस्था और महत्व\n* **कृषि:** मुख्य रूप से एक कृषि प्रधान अर्थव्यवस्था। यहाँ मक्का और केले का भारी मात्रा में उत्पादन होता है।\n* **चुनौतियां:** अपनी नदी स्थलाकृति के कारण भौगोलिक अलगाव और मौसमी बाढ़ से लगातार जूझता है।\n* **महत्व:** अत्यधिक कृषि लचीलापन दिखाने वाला, बिहार का निर्विवाद मक्का केंद्र।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "begusarai",
+      "name": {
+        "en": "Begusarai",
+        "hi": "बेगूसराय"
+      },
+      "division": "munger",
+      "headquarters": {
+        "en": "Begusarai",
+        "hi": "बेगूसराय"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Begusarai** is the industrial capital of Bihar, known for its heavy industries and vibrant political consciousness. Often termed the 'Leningrad of Bihar', it is a fast-growing urban center.\n\n### History\n* **Political Hub:** Historically a stronghold of left-wing politics and communist movements in Bihar.\n* **Formation:** Carved out of Munger district in 1972.\n\n### Geography\n* **Location:** Located on the northern banks of the Ganges.\n* **Ecology:** Home to the Kanwar Lake, Asia's largest freshwater oxbow lake and a Ramsar site.\n\n### Economy & Significance\n* **Heavy Industry:** Hosts major central PSUs, including the Barauni Oil Refinery and the Barauni Thermal Power Station.\n* **Agriculture:** Produces a massive amount of maize, milk, and litchi.\n* **Significance:** The economic engine of central Bihar, uniquely balancing heavy industrial complexes with a rich ecological wetland.",
+        "hi": "### परिचय\n**बेगूसराय** बिहार की औद्योगिक राजधानी है, जो अपने भारी उद्योगों और जीवंत राजनीतिक चेतना के लिए जाना जाता है। अक्सर 'बिहार का लेनिनग्राद' कहे जाने वाला, यह एक तेजी से बढ़ता हुआ शहरी केंद्र है।\n\n### इतिहास\n* **राजनीतिक हब:** ऐतिहासिक रूप से बिहार में वामपंथी राजनीति और कम्युनिस्ट आंदोलनों का गढ़।\n* **गठन:** 1972 में मुंगेर जिले से अलग करके बनाया गया।\n\n### भूगोल\n* **स्थान:** गंगा के उत्तरी तट पर स्थित।\n* **पारिस्थितिकी:** एशिया की सबसे बड़ी मीठे पानी की गोखुर झील और एक रामसर स्थल, कावर झील का घर।\n\n### अर्थव्यवस्था और महत्व\n* **भारी उद्योग:** बरौनी ऑयल रिफाइनरी और बरौनी थर्मल पावर स्टेशन सहित प्रमुख केंद्रीय सार्वजनिक उपक्रमों (PSUs) की मेजबानी करता है।\n* **कृषि:** भारी मात्रा में मक्का, दूध और लीची का उत्पादन करता है।\n* **महत्व:** मध्य बिहार का आर्थिक इंजन, जो एक समृद्ध पारिस्थितिक आर्द्रभूमि के साथ भारी औद्योगिक परिसरों को विशिष्ट रूप से संतुलित करता है।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "gaya",
+      "name": {
+        "en": "Gaya",
+        "hi": "गया"
+      },
+      "division": "magadh",
+      "headquarters": {
+        "en": "Gaya",
+        "hi": "गया"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Gaya** is a city of profound global spiritual importance, serving as a pivotal pilgrimage site for Hindus, Buddhists, and Jains. It is the second-largest city in Bihar and a symbol of enlightenment and salvation.\n\n### History\n* **Buddhism:** Bodh Gaya is where Prince Siddhartha attained enlightenment beneath the Bodhi tree to become Lord Buddha.\n* **Hinduism:** The ancient Vishnupad Temple makes Gaya the most sacred destination for the 'Pind Daan' ritual to offer salvation to ancestors.\n* **Ancient Roots:** An integral part of the ancient Magadha empire.\n\n### Geography\n* **Location:** Situated along the banks of the Phalgu river.\n* **Terrain:** Surrounded by rocky hills (Mangala-Gauri, Shringa-Sthan, Ram-Shila, and Brahmayoni) on three sides.\n\n### Economy & Significance\n* **Tourism:** The backbone of the economy. Bodh Gaya's Mahabodhi Temple is a UNESCO World Heritage Site.\n* **Cantonment & Education:** Hosts the Officers Training Academy (OTA) and the Central University of South Bihar.\n* **Significance:** A world-renowned epicenter for religious tourism and spiritual diplomacy.",
+        "hi": "### परिचय\n**गया** गहन वैश्विक आध्यात्मिक महत्व का शहर है, जो हिंदुओं, बौद्धों और जैनियों के लिए एक महत्वपूर्ण तीर्थ स्थल के रूप में कार्य करता है। यह बिहार का दूसरा सबसे बड़ा शहर है और ज्ञान तथा मोक्ष का प्रतीक है।\n\n### इतिहास\n* **बौद्ध धर्म:** बोधगया वह स्थान है जहाँ राजकुमार सिद्धार्थ ने बोधि वृक्ष के नीचे ज्ञान प्राप्त किया और भगवान बुद्ध बने।\n* **हिंदू धर्म:** प्राचीन विष्णुपद मंदिर गया को पूर्वजों को मोक्ष प्रदान करने के लिए 'पिंड दान' अनुष्ठान का सबसे पवित्र गंतव्य बनाता है।\n* **प्राचीन जड़ें:** प्राचीन मगध साम्राज्य का एक अभिन्न अंग।\n\n### भूगोल\n* **स्थान:** फल्गु नदी के तट पर स्थित।\n* **इलाका:** तीन तरफ से चट्टानी पहाड़ियों (मंगला-गौरी, श्रृंग-स्थान, राम-शिला और ब्रह्मयोनि) से घिरा हुआ।\n\n### अर्थव्यवस्था और महत्व\n* **पर्यटन:** अर्थव्यवस्था की रीढ़। बोधगया का महाबोधि मंदिर एक यूनेस्को (UNESCO) विश्व धरोहर स्थल है।\n* **छावनी और शिक्षा:** अधिकारी प्रशिक्षण अकादमी (OTA) और दक्षिण बिहार केंद्रीय विश्वविद्यालय की मेजबानी करता है।\n* **महत्व:** धार्मिक पर्यटन और आध्यात्मिक कूटनीति के लिए एक विश्व प्रसिद्ध उपरिकेंद्र (Epicenter)।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "jehanabad",
+      "name": {
+        "en": "Jehanabad",
+        "hi": "जहानाबाद"
+      },
+      "division": "magadh",
+      "headquarters": {
+        "en": "Jehanabad",
+        "hi": "जहानाबाद"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Jehanabad** is a historic district located at the confluence of the Dardha and Yamunaiya rivers. It is widely known for its ancient rock-cut caves and a politically turbulent recent past.\n\n### History\n* **Ancient Architecture:** Home to the Barabar Caves, the oldest surviving rock-cut caves in India, dating back to the Mauryan Empire (Ashoka's reign).\n* **Formation:** Separated from the Gaya district in 1986.\n\n### Geography\n* **Location:** Landlocked centrally in the Magadh division, acting as a bridge between Patna and Gaya.\n* **Terrain:** Primarily flat, fertile agricultural land.\n\n### Economy & Significance\n* **Agriculture:** Heavily reliant on paddy, wheat, and pulses.\n* **Tourism:** The Barabar Caves are a monumental draw for historians and architecture enthusiasts.\n* **Significance:** A resilient district that preserves India's earliest architectural marvels amidst a primarily agrarian lifestyle.",
+        "hi": "### परिचय\n**जहानाबाद** दर्दहा और यमुनाइया नदियों के संगम पर स्थित एक ऐतिहासिक जिला है। यह अपनी प्राचीन रॉक-कट गुफाओं (चट्टानों को काटकर बनाई गई गुफाओं) और हाल के राजनीतिक रूप से अशांत अतीत के लिए व्यापक रूप से जाना जाता है।\n\n### इतिहास\n* **प्राचीन वास्तुकला:** मौर्य साम्राज्य (अशोक के शासनकाल) से जुड़ी, भारत में सबसे पुरानी जीवित रॉक-कट गुफाओं, बराबर की गुफाओं का घर।\n* **गठन:** 1986 में गया जिले से अलग किया गया।\n\n### भूगोल\n* **स्थान:** मगध प्रमंडल में केंद्रीय रूप से घिरा हुआ, पटना और गया के बीच एक पुल के रूप में कार्य करता है।\n* **इलाका:** मुख्य रूप से समतल, उपजाऊ कृषि भूमि।\n\n### अर्थव्यवस्था और महत्व\n* **कृषि:** धान, गेहूं और दलहन पर अत्यधिक निर्भर।\n* **पर्यटन:** बराबर की गुफाएं इतिहासकारों और वास्तुकला के प्रति उत्साही लोगों के लिए एक स्मारकीय आकर्षण हैं।\n* **महत्व:** एक लचीला जिला जो मुख्य रूप से कृषि जीवन शैली के बीच भारत के शुरुआती वास्तुकला के चमत्कारों को संरक्षित करता है।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "arwal",
+      "name": {
+        "en": "Arwal",
+        "hi": "अरवल"
+      },
+      "division": "magadh",
+      "headquarters": {
+        "en": "Arwal",
+        "hi": "अरवल"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Arwal** is the newest district in the Magadh division, situated on the right bank of the Sone River. It is a quiet, agrarian district with strong ties to ancient Magadha.\n\n### History\n* **Formation:** Arwal was carved out of the Jehanabad district in August 2001, making it one of Bihar's newest administrative districts.\n* **Historical Ties:** Being part of Magadha, it shares the deep ancient history of the Mauryan and Gupta empires.\n\n### Geography\n* **Location:** Bounded by the Sone River in the west, which acts as a natural border with Bhojpur.\n* **Terrain:** Consists entirely of a highly fertile alluvial plain without any significant hills or forests.\n\n### Economy & Significance\n* **Agriculture:** The Sone canal system heavily supports the cultivation of paddy, wheat, and pulses, which forms the entire economic base.\n* **Significance:** Represents a pure, unadulterated agrarian landscape focusing heavily on food grain production for the state.",
+        "hi": "### परिचय\n**अरवल** मगध प्रमंडल का सबसे नया जिला है, जो सोन नदी के दाहिने किनारे पर स्थित है। यह एक शांत, कृषि प्रधान जिला है जिसके प्राचीन मगध के साथ मजबूत संबंध हैं।\n\n### इतिहास\n* **गठन:** अरवल को अगस्त 2001 में जहानाबाद जिले से अलग करके बनाया गया था, जिससे यह बिहार के सबसे नए प्रशासनिक जिलों में से एक बन गया।\n* **ऐतिहासिक संबंध:** मगध का हिस्सा होने के नाते, यह मौर्य और गुप्त साम्राज्यों के गहरे प्राचीन इतिहास को साझा करता है।\n\n### भूगोल\n* **स्थान:** पश्चिम में सोन नदी से घिरा हुआ, जो भोजपुर के साथ एक प्राकृतिक सीमा के रूप में कार्य करती है।\n* **इलाका:** पूरी तरह से बिना किसी महत्वपूर्ण पहाड़ी या जंगल के एक अत्यधिक उपजाऊ जलोढ़ मैदान के होते हैं।\n\n### अर्थव्यवस्था और महत्व\n* **कृषि:** सोन नहर प्रणाली धान, गेहूं और दलहन की खेती का भारी समर्थन करती है, जो संपूर्ण आर्थिक आधार बनाती है।\n* **महत्व:** राज्य के लिए खाद्यान्न उत्पादन पर भारी ध्यान केंद्रित करते हुए एक शुद्ध, मिलावट रहित कृषि परिदृश्य का प्रतिनिधित्व करता है।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "nawada",
+      "name": {
+        "en": "Nawada",
+        "hi": "नवादा"
+      },
+      "division": "magadh",
+      "headquarters": {
+        "en": "Nawada",
+        "hi": "नवादा"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Nawada** is a vibrant, deeply historic district heavily influenced by Jain mythology and spectacular natural waterfalls. It borders Jharkhand to its south.\n\n### History\n* **Kakolat Connection:** According to Hindu mythology, a king cursed by a sage was turned into a python and lived at the Kakolat waterfall until liberated by the Pandavas.\n* **Jain Heritage:** The nearby Pawapuri is the sacred site where Lord Mahavira attained Nirvana.\n\n### Geography\n* **Terrain:** Features a beautiful mix of plain agricultural lands in the north and the hilly, forested terrain of the Chota Nagpur plateau in the south.\n* **Waterfalls:** Home to the magnificent Kakolat Waterfall, a prime tourist attraction in Bihar.\n\n### Economy & Significance\n* **Agriculture:** Handloom weaving (especially Tussar silk in Kadirganj) and agriculture (bidi-leaf rolling and paddy) drive the economy.\n* **Tourism:** Kakolat draws massive crowds during the summer.\n* **Significance:** A district where ancient mythology meets stunning natural beauty and traditional handloom craftsmanship.",
+        "hi": "### परिचय\n**नवादा** एक जीवंत, गहरे ऐतिहासिक जिला है जो जैन पौराणिक कथाओं और शानदार प्राकृतिक झरनों से काफी प्रभावित है। इसकी दक्षिणी सीमा झारखंड से लगती है।\n\n### इतिहास\n* **ककोलत संबंध:** हिंदू पौराणिक कथाओं के अनुसार, एक ऋषि द्वारा शापित एक राजा अजगर में बदल गया था और पांडवों द्वारा मुक्त किए जाने तक ककोलत झरने पर रहता था।\n* **जैन विरासत:** पास का पावापुरी वह पवित्र स्थल है जहाँ भगवान महावीर ने निर्वाण प्राप्त किया था।\n\n### भूगोल\n* **इलाका:** उत्तर में समतल कृषि भूमि और दक्षिण में छोटा नागपुर पठार के पहाड़ी, जंगली इलाके का एक सुंदर मिश्रण पेश करता है।\n* **झरने:** शानदार ककोलत जलप्रपात का घर, जो बिहार में एक प्रमुख पर्यटक आकर्षण है।\n\n### अर्थव्यवस्था और महत्व\n* **कृषि:** हथकरघा बुनाई (विशेष रूप से कादिरगंज में तसर रेशम) और कृषि (बीड़ी-पत्ता लपेटना और धान) अर्थव्यवस्था को संचालित करते हैं।\n* **पर्यटन:** ककोलत गर्मियों के दौरान भारी भीड़ खींचता है।\n* **महत्व:** एक ऐसा जिला जहां प्राचीन पौराणिक कथाएं आश्चर्यजनक प्राकृतिक सुंदरता और पारंपरिक हथकरघा शिल्प कौशल से मिलती हैं।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    },
+    {
+      "id": "aurangabad",
+      "name": {
+        "en": "Aurangabad",
+        "hi": "औरंगाबाद"
+      },
+      "division": "magadh",
+      "headquarters": {
+        "en": "Aurangabad",
+        "hi": "औरंगाबाद"
+      },
+      "administrativeStructure": {
+        "blocks": null,
+        "panchayats": null
+      },
+      "description": {
+        "en": "### Introduction\n**Aurangabad**, often referred to as the 'Chittorgarh of Bihar', is a resilient, sun-worshipping district bordering Jharkhand. It boasts a rich Rajput heritage and significant spiritual landmarks.\n\n### History\n* **Sun Worship:** The ancient Deo Sun Temple (Deo Surya Mandir), dating back to the Treta Yuga (mythologically), is unique as it faces west instead of east. It is the epicenter of the Chhath Puja festival.\n* **Heritage:** Known as the Chittorgarh of Bihar due to its dense population of the fiercely proud Rajput community.\n\n### Geography\n* **Location:** Located on the Grand Trunk Road (NH-19), bordered by the Sone river in the west.\n* **Terrain:** Characterized by fertile plains transitioning into the hills of the Chota Nagpur plateau.\n\n### Economy & Significance\n* **Energy:** Home to the Nabinagar Super Thermal Power Project, a massive energy asset for the state.\n* **Agriculture & Minerals:** Supported by an extensive canal network; also produces carpets and blankets in Obra.\n* **Significance:** A district that powerfully blends martial heritage, ancient sun-worship, and modern power generation.",
+        "hi": "### परिचय\n**औरंगाबाद**, जिसे अक्सर 'बिहार का चित्तौड़गढ़' कहा जाता है, झारखंड की सीमा से लगा एक लचीला, सूर्य-उपासक जिला है। यह एक समृद्ध राजपूत विरासत और महत्वपूर्ण आध्यात्मिक स्थलों का दावा करता है।\n\n### इतिहास\n* **सूर्य पूजा:** प्राचीन देव सूर्य मंदिर, जो (पौराणिक रूप से) त्रेता युग का है, अद्वितीय है क्योंकि इसका मुख पूर्व के बजाय पश्चिम की ओर है। यह छठ पूजा उत्सव का केंद्र है।\n* **विरासत:** अत्यंत गौरवान्वित राजपूत समुदाय की घनी आबादी के कारण इसे बिहार का चित्तौड़गढ़ कहा जाता है।\n\n### भूगोल\n* **स्थान:** ग्रांड ट्रंक रोड (NH-19) पर स्थित, पश्चिम में सोन नदी से घिरा हुआ।\n* **इलाका:** छोटा नागपुर पठार की पहाड़ियों में परिवर्तित होने वाले उपजाऊ मैदानों की विशेषता।\n\n### अर्थव्यवस्था और महत्व\n* **ऊर्जा:** राज्य के लिए एक विशाल ऊर्जा संपत्ति, नबीनगर सुपर थर्मल पावर प्रोजेक्ट का घर।\n* **कृषि और खनिज:** एक व्यापक नहर नेटवर्क द्वारा समर्थित; ओबरा में कालीन और कंबल का भी उत्पादन करता है।\n* **महत्व:** एक जिला जो सैन्य विरासत, प्राचीन सूर्य-पूजा और आधुनिक बिजली उत्पादन को शक्तिशाली रूप से मिश्रित करता है।"
+      },
+      "history": {
+        "en": "History details to be added.",
+        "hi": "इतिहास का विवरण जोड़ा जाना है।"
+      },
+      "geography": {
+        "en": "Geography details to be added.",
+        "hi": "भूगोल का विवरण जोड़ा जाना है।"
+      },
+      "sources": []
+    }
+  ]
+}

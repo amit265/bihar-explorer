@@ -1,0 +1,761 @@
+{
+  "data": [
+    {
+      "id": "gautama-buddha",
+      "name": {
+        "en": "Gautama Buddha (Siddhartha Gautama)",
+        "hi": "भगवान गौतम बुद्ध (सिद्धार्थ गौतम)"
+      },
+      "honorificTitle": {
+        "en": "The Enlightened One / Shakyamuni",
+        "hi": "तथागत / शाक्यमुनि / बुद्ध"
+      },
+      "category": "spiritual-philosophers",
+      "period": "c. 563 BCE – 483 BCE",
+      "birthPlace": {
+        "en": "Lumbini (Ancient Shakya Republic)",
+        "hi": "लुंबिनी (प्राचीन शाक्य गणराज्य)"
+      },
+      "associatedDistricts": [
+        "gaya",
+        "nalanda",
+        "patna",
+        "vaishali",
+        "east-champaran"
+      ],
+      "biography": {
+        "en": "### The Path to Enlightenment\nPrince Siddhartha renounced his royal privileges at the age of 29 in pursuit of truth and the cessation of human suffering. After six grueling years of asceticism and meditation, he attained supreme enlightenment (Bodhi) beneath the sacred Bodhi Tree in Bodh Gaya.\n\n### Key Teachings & Philosophy\n* **The Four Noble Truths:** Formulated the foundation of Buddhist philosophy.\n* **The Eightfold Path:** Taught the middle way to cease suffering and attain Nirvana.\n* **Establishment of the Sangha:** Formed the monastic order and delivered vital discourses at Gridhrakuta Peak (Rajgir) and Vaishali.\n\n### Global Legacy\nHe founded Buddhism, one of the world's most prominent spiritual paths. Today, Bodh Gaya is internationally revered as a UNESCO World Heritage Site and the holiest pilgrimage destination for Buddhists worldwide.",
+        "hi": "### ज्ञान का मार्ग\nराजकुमार सिद्धार्थ ने मानव दुखों के निवारण और सत्य की खोज में 29 वर्ष की आयु में राजसी सुखों का त्याग कर दिया। छह वर्षों के कठोर तप और ध्यान के बाद, उन्होंने बोधगया में पवित्र बोधि वृक्ष के नीचे परम ज्ञान (संबोधि) प्राप्त किया।\n\n### प्रमुख शिक्षाएं और दर्शन\n* **चार आर्य सत्य:** बौद्ध दर्शन की मौलिक नींव का निर्माण किया।\n* **अष्टांगिक मार्ग:** दुखों के निवारण और निर्वाण प्राप्ति के लिए मध्यम मार्ग का उपदेश दिया।\n* **संघ की स्थापना:** राजगीर (गृद्धकूट पर्वत) और वैशाली में भिक्षु संघ का निर्माण किया और महत्वपूर्ण उपदेश दिए।\n\n### वैश्विक विरासत\nउन्होंने बौद्ध धर्म की स्थापना की, जो विश्व के प्रमुख आध्यात्मिक मार्गों में से एक है। आज बोधगया को यूनेस्को विश्व धरोहर स्थल और दुनिया भर के बौद्धों के लिए सबसे पवित्र तीर्थस्थल के रूप में पूजा जाता है।"
+      },
+      "keyAchievements": [
+        {
+          "en": "Attained Supreme Enlightenment under the Bodhi Tree in Bodh Gaya",
+          "hi": "बोधगया में बोधि वृक्ष के नीचे परम संबोधि प्राप्त की"
+        },
+        {
+          "en": "Established the Sangha and delivered foundational discourses at Gridhrakuta Peak, Rajgir",
+          "hi": "राजगीर के गृद्धकूट पर्वत पर संघ की स्थापना की और महत्वपूर्ण उपदेश दिए"
+        },
+        {
+          "en": "Ordained women into the monastic Sangha at Vaishali upon Mahapajapati Gotami's request",
+          "hi": "वैशाली में महाप्रजापति गौतमी के अनुरोध पर महिलाओं को संघ में भिक्षुणी के रूप में प्रवेश दिया"
+        }
+      ],
+      "legacy": {
+        "en": "Founded Buddhism, one of the world's major spiritual traditions, with Bodh Gaya recognized as its holiest pilgrimage destination and a UNESCO World Heritage Site.",
+        "hi": "विश्व की प्रमुख आध्यात्मिक परंपराओं में से एक, बौद्ध धर्म की स्थापना की; बोधगया बौद्धों का सबसे पवित्र तीर्थ और यूनेस्को विश्व धरोहर स्थल है।"
+      }
+    },
+    {
+      "id": "bhagwan-mahavira",
+      "name": {
+        "en": "Bhagwan Mahavira (Vardhamana)",
+        "hi": "भगवान महावीर (वर्धमान)"
+      },
+      "honorificTitle": {
+        "en": "24th Tirthankara of Jainism",
+        "hi": "जैन धर्म के 24वें तीर्थंकर"
+      },
+      "category": "spiritual-philosophers",
+      "period": "c. 599 BCE – 527 BCE",
+      "birthPlace": {
+        "en": "Kundalpur / Vaishali (Ancient Licchavi Republic)",
+        "hi": "कुंडलपुर / वैशाली (प्राचीन लिच्छवि गणराज्य)"
+      },
+      "associatedDistricts": [
+        "vaishali",
+        "nalanda",
+        "patna",
+        "jamui",
+        "nawada"
+      ],
+      "biography": {
+        "en": "### Early Life & Renunciation\nBorn into a royal family at Kundalpur near historic Vaishali, Vardhamana Mahavira abandoned all worldly possessions and comforts at the age of 30. He embarked on a profound spiritual journey marked by 12 years of intense penance and meditation.\n\n### Attainment of Omniscience\n* **Kevala Jnana:** Achieved absolute omniscience on the banks of the river Rijupalika.\n* **The Five Great Vows (Pancha Mahavrata):** Reorganized the Jain order based on Ahimsa (non-violence), Satya (truth), Asteya (non-stealing), Brahmacharya (chastity), and Aparigraha (non-possession).\n* **Doctrine of Anekantavada:** Propounded the multi-faceted nature of truth and reality.\n\n### Enduring Legacy\nBhagwan Mahavira preached extensively in Ardhamagadhi Prakrit for the masses. He attained Nirvana at Pavapuri, which is beautifully commemorated by the iconic Jal Mandir. He firmly established Ahimsa as a foundational ethical pillar of Indian civilization.",
+        "hi": "### प्रारंभिक जीवन एवं त्याग\nऐतिहासिक वैशाली के निकट कुंडलपुर के एक राजपरिवार में जन्मे वर्धमान महावीर ने 30 वर्ष की आयु में सभी सांसारिक सुखों और संपत्तियों का त्याग कर दिया। उन्होंने 12 वर्षों तक कठोर तपस्या और ध्यान की गहन आध्यात्मिक यात्रा की।\n\n### केवल ज्ञान की प्राप्ति\n* **केवल ज्ञान:** ऋजुपालिका नदी के तट पर पूर्ण सर्वज्ञता (केवल ज्ञान) प्राप्त किया।\n* **पंच महाव्रत:** अहिंसा, सत्य, अस्तेय, ब्रह्मचर्य और अपरिग्रह के सिद्धांतों पर जैन धर्म को पुनर्गठित किया।\n* **अनेकांतवाद का सिद्धांत:** सत्य और वास्तविकता की बहुआयामी प्रकृति का प्रतिपादन किया।\n\n### अमर विरासत\nभगवान महावीर ने जनसाधारण के लिए अर्धमागधी प्राकृत में व्यापक उपदेश दिए। उन्होंने पावापुरी में निर्वाण प्राप्त किया, जिसकी स्मृति में भव्य जल मंदिर सुशोभित है। उन्होंने अहिंसा को भारतीय सभ्यता के मौलिक नैतिक स्तंभ के रूप में स्थापित किया।"
+      },
+      "keyAchievements": [
+        {
+          "en": "Formulated the Pancha Mahavrata (Five Great Vows) and the doctrine of Anekantavada (multi-faceted reality)",
+          "hi": "पंच महाव्रतों और अनेकांतवाद (सत्य की बहुआयामी प्रकृति) के सिद्धांत का प्रतिपादन किया"
+        },
+        {
+          "en": "Preached extensively in Magadha and Anga in Ardhamagadhi Prakrit for common accessibility",
+          "hi": "जनसाधारण की सुगमता के लिए अर्धमागधी प्राकृत में मगध और अंग में व्यापक उपदेश दिए"
+        },
+        {
+          "en": "Attained Nirvana at Pavapuri, commemorated by the iconic Jal Mandir",
+          "hi": "पावापुरी में निर्वाण प्राप्त किया, जिसकी स्मृति में भव्य जल मंदिर सुशोभित है"
+        }
+      ],
+      "legacy": {
+        "en": "Revitalized Jainism and established Ahimsa (absolute non-violence) as a foundational ethical bedrock of Indian civilization.",
+        "hi": "जैन धर्म को पुनर्जीवित किया और अहिंसा को भारतीय सभ्यता के मौलिक नैतिक आधार के रूप में स्थापित किया।"
+      }
+    },
+    {
+      "id": "chandragupta-maurya",
+      "name": {
+        "en": "Chandragupta Maurya",
+        "hi": "चन्द्रगुप्त मौर्य"
+      },
+      "honorificTitle": {
+        "en": "Founder of the Mauryan Empire / First Pan-Indian Emperor",
+        "hi": "मौर्य साम्राज्य के संस्थापक / प्रथम अखिल भारतीय सम्राट"
+      },
+      "category": "rulers-statesmen",
+      "period": "c. 340 BCE – 297 BCE",
+      "birthPlace": {
+        "en": "Pataliputra (Patna)",
+        "hi": "पाटलिपुत्र (पटना)"
+      },
+      "associatedDistricts": [
+        "patna",
+        "vaishali",
+        "gaya"
+      ],
+      "biography": {
+        "en": "### Rise to Power\nMentored by the astute scholar-statesman Chanakya, Chandragupta Maurya successfully overthrew the corrupt Nanda dynasty. He founded the formidable Maurya Empire, establishing Pataliputra (modern-day Patna) as its magnificent imperial capital.\n\n### Unification & Expansion\n* **Pan-Indian Empire:** Unified the disparate and fragmented kingdoms of the Indian subcontinent into its largest centralized empire of the era.\n* **Defeat of Seleucus:** Repelled the Macedonian forces of Seleucus I Nicator in 305 BCE, expanding the empire into modern Afghanistan and Balochistan.\n* **Diplomatic Relations:** Secured peaceful alliances, famously receiving the Greek ambassador Megasthenes, who documented the era in his work 'Indica'.\n\n### Historical Significance\nChandragupta pioneered pan-Indian geopolitical unity. He laid down an advanced administrative framework that transformed Pataliputra into the predominant political epicenter of ancient Asia.",
+        "hi": "### सत्ता का उदय\nमहान विद्वान और राजनीतिज्ञ चाणक्य के मार्गदर्शन में, चन्द्रगुप्त मौर्य ने अत्याचारी नंद वंश को उखाड़ फेंका। उन्होंने शक्तिशाली मौर्य साम्राज्य की स्थापना की और पाटलिपुत्र (आधुनिक पटना) को अपनी भव्य शाही राजधानी बनाया।\n\n### एकीकरण एवं विस्तार\n* **अखिल भारतीय साम्राज्य:** भारतीय उपमहाद्वीप के विखंडित राज्यों को उस युग के सबसे बड़े एकीकृत साम्राज्य में पिरोया।\n* **सेल्यूकस की पराजय:** 305 ईसा पूर्व में सेल्यूकस निकेटर की यूनानी सेना को पराजित कर साम्राज्य का विस्तार आधुनिक अफगानिस्तान और बलूचिस्तान तक किया।\n* **राजनयिक संबंध:** शांतिपूर्ण कूटनीतिक गठबंधन किए और यूनानी राजदूत मेगस्थनीज का स्वागत किया, जिसने 'इंडिका' में इस युग का वर्णन किया।\n\n### ऐतिहासिक महत्व\nचन्द्रगुप्त ने अखिल भारतीय भू-राजनीतिक एकता की नींव रखी। उन्होंने एक ऐसी उन्नत प्रशासनिक व्यवस्था का निर्माण किया जिसने पाटलिपुत्र को प्राचीन एशिया के प्रमुख राजनीतिक केंद्र में बदल दिया।"
+      },
+      "keyAchievements": [
+        {
+          "en": "Unified fragmented Indian kingdoms into a single sovereign empire spanning from Bengal to Afghanistan",
+          "hi": "बंगाल से अफगानिस्तान तक फैले एकल संप्रभु साम्राज्य में खंडित भारतीय राज्यों को एकीकृत किया"
+        },
+        {
+          "en": "Defeated Seleucus I Nicator in 305 BCE, securing peaceful diplomatic alliance and Greek embassy of Megasthenes",
+          "hi": "305 ईसा पूर्व में सेल्यूकस को पराजित कर यूनानी दूत मेगस्थनीज को पाटलिपुत्र में आमंत्रित किया"
+        },
+        {
+          "en": "Established world-class administrative, intelligence, and civil infrastructure recorded in Megasthenes' Indica",
+          "hi": "मेगस्थनीज की 'इंडिका' में वर्णित विश्व स्तरीय प्रशासनिक, गुप्तचर और नागरिक बुनियादी ढांचे की स्थापना की"
+        }
+      ],
+      "legacy": {
+        "en": "Pioneered pan-Indian geopolitical unity and created the administrative framework that made Pataliputra the political center of ancient Asia.",
+        "hi": "अखिल भारतीय भू-राजनीतिक एकता की नींव रखी और पाटलिपुत्र को प्राचीन एशिया का प्रमुख राजनीतिक केंद्र बनाया।"
+      }
+    },
+    {
+      "id": "chanakya-kautilya",
+      "name": {
+        "en": "Chanakya (Kautilya / Vishnugupta)",
+        "hi": "चाणक्य (कौटिल्य / विष्णुगुप्त)"
+      },
+      "honorificTitle": {
+        "en": "Pioneer of Political Science & Economics in Ancient India",
+        "hi": "प्राचीन भारत के महान राजनीतिज्ञ एवं अर्थशास्त्री"
+      },
+      "category": "scholars-scientists",
+      "period": "c. 375 BCE – 283 BCE",
+      "birthPlace": {
+        "en": "Ancient Magadha / Takshashila tradition",
+        "hi": "प्राचीन मगध / तक्षशिला परंपरा"
+      },
+      "associatedDistricts": [
+        "patna",
+        "vaishali"
+      ],
+      "biography": {
+        "en": "### The Master Strategist\nChanakya, also known as Kautilya or Vishnugupta, was a brilliant ancient philosopher and professor of political science at Takshashila. He served as the Prime Minister and chief strategist to Chandragupta Maurya in Pataliputra.\n\n### Magnum Opus & Theories\n* **Arthashastra:** Authored the world's earliest comprehensive treatise on political realism, statecraft, espionage, and economic policy.\n* **Chanakya Niti:** Compiled aphorisms encompassing ethical conduct, practical wisdom, and governance.\n* **Saptanga Theory:** Formulated the seven-pillar theory of statecraft and the 'Mandala' diplomatic system for foreign relations.\n\n### Enduring Influence\nHe masterminded the overthrow of the Nanda dynasty and the coronation of Chandragupta Maurya. Chanakya is globally regarded as the pioneer of Indian political science, whose strategic tenets remain profoundly relevant today.",
+        "hi": "### महान रणनीतिकार\nचाणक्य, जिन्हें कौटिल्य या विष्णुगुप्त के नाम से भी जाना जाता है, एक प्रखर प्राचीन दार्शनिक और तक्षशिला में राजनीति विज्ञान के आचार्य थे। उन्होंने पाटलिपुत्र में चन्द्रगुप्त मौर्य के प्रधानमंत्री और मुख्य रणनीतिकार के रूप में कार्य किया।\n\n### कालजयी रचनाएं एवं सिद्धांत\n* **अर्थशास्त्र:** राजनीतिक यथार्थवाद, शासनकला, गुप्तचर व्यवस्था और आर्थिक नीति पर विश्व का प्राचीनतम और व्यापक ग्रंथ लिखा।\n* **चाणक्य नीति:** नैतिक आचरण, व्यावहारिक ज्ञान और सुशासन पर आधारित नीतिवचनों का संकलन किया।\n* **सप्तांग सिद्धांत:** राज्य के सप्तांग सिद्धांत और विदेश नीति के 'मंडल सिद्धांत' का प्रतिपादन किया।\n\n### स्थायी प्रभाव\nउन्होंने नंद वंश के पतन और चन्द्रगुप्त मौर्य के राज्याभिषेक की सफल रूपरेखा तैयार की। चाणक्य को विश्व स्तर पर भारतीय राजनीति विज्ञान का जनक माना जाता है, जिनकी रणनीतियां आज भी अत्यंत प्रासंगिक हैं।"
+      },
+      "keyAchievements": [
+        {
+          "en": "Authored the 'Arthashastra', the world's earliest comprehensive treatise on political realism, espionage, and taxation",
+          "hi": "विश्व के प्राचीनतम राजनीतिक यथार्थवाद, गुप्तचर व्यवस्था और कराधान ग्रंथ 'अर्थशास्त्र' की रचना की"
+        },
+        {
+          "en": "Strategized the overthrow of the Nanda dynasty and the coronation of Chandragupta Maurya",
+          "hi": "नंद वंश के पतन और चन्द्रगुप्त मौर्य के राज्याभिषेक की संपूर्ण रणनीति तैयार की"
+        },
+        {
+          "en": "Formulated the Saptanga theory of statecraft and the Mandala diplomatic system",
+          "hi": "राज्य के सप्तांग सिद्धांत और विदेश नीति के मंडल सिद्धांत का प्रतिपादन किया"
+        }
+      ],
+      "legacy": {
+        "en": "Regarded as the father of Indian political science and statecraft, whose concepts continue to guide strategic affairs globally.",
+        "hi": "भारतीय राजनीति विज्ञान और कूटनीति के जनक के रूप में सम्मानित, जिनकी रणनीतियां आज भी वैश्विक स्तर पर प्रासंगिक हैं।"
+      }
+    },
+    {
+      "id": "emperor-ashoka",
+      "name": {
+        "en": "Emperor Ashoka the Great (Devanampriya Priyadarsi)",
+        "hi": "चक्रवर्ती सम्राट अशोक महान (देवानांप्रिय प्रियदर्शी)"
+      },
+      "honorificTitle": {
+        "en": "Third Mauryan Emperor / Universal Monarch",
+        "hi": "मौर्य साम्राज्य के तीसरे सम्राट / चक्रवर्ती राजा"
+      },
+      "category": "rulers-statesmen",
+      "period": "c. 304 BCE – 232 BCE (Reign: c. 268–232 BCE)",
+      "birthPlace": {
+        "en": "Pataliputra (Patna)",
+        "hi": "पाटलिपुत्र (पटना)"
+      },
+      "associatedDistricts": [
+        "patna",
+        "vaishali",
+        "east-champaran",
+        "west-champaran",
+        "gaya",
+        "rohtas"
+      ],
+      "biography": {
+        "en": "### The Universal Monarch\nRuling from Pataliputra, Ashoka the Great presided over the vast Mauryan Empire. Following the massive carnage of the Kalinga War (c. 261 BCE), he experienced a profound spiritual transformation, embracing Buddhism and renouncing armed conquest (Digvijaya) for moral conquest (Dharmavijaya).\n\n### Era of Peace & Dhamma\n* **Edicts of Ashoka:** Erected magnificent monolithic rock and pillar edicts across the subcontinent, inscribed in Brahmi script, promoting non-violence, environmental protection, and public welfare.\n* **Global Peace Missions:** Dispatched emissaries to propagate 'Dhamma' (righteousness) to Sri Lanka, Greece, Egypt, and Syria.\n* **Architectural Marvels:** Commissioned the Lion Capital at Sarnath (India's National Emblem) and the pillars at Lauriya Nandangarh and Rampurva in Bihar.\n\n### Eternal Legacy\nAshoka is celebrated as one of history's greatest rulers, epitomizing compassionate and moral governance. The Ashoka Chakra famously adorns the center of the Indian National Flag.",
+        "hi": "### चक्रवर्ती सम्राट\nपाटलिपुत्र से शासन करने वाले सम्राट अशोक महान ने विशाल मौर्य साम्राज्य का नेतृत्व किया। कलिंग युद्ध (लगभग 261 ईसा पूर्व) के भीषण नरसंहार के बाद उनका हृदय परिवर्तन हुआ और उन्होंने शस्त्र विजय (दिग्विजय) त्याग कर धर्म विजय (नैतिक विजय) और बौद्ध धर्म को अपना लिया।\n\n### शांति और धम्म का युग\n* **अशोक के शिलालेख:** पूरे उपमहाद्वीप में ब्राह्मी लिपि में उत्कीर्ण एकाश्म स्तंभ और शिलालेख स्थापित किए, जो अहिंसा, पर्यावरण संरक्षण और लोक कल्याण का संदेश देते हैं।\n* **वैश्विक शांति मिशन:** 'धम्म' (सदाचार) के प्रचार के लिए श्रीलंका, यूनान, मिस्र और सीरिया में शांति दूत भेजे।\n* **वास्तुशिल्प के चमत्कार:** सारनाथ में सिंह शीर्ष (भारत का राष्ट्रीय प्रतीक) तथा बिहार में लौरिया नंदनगढ़ व रामपुरवा स्तंभों का निर्माण कराया।\n\n### अमर विरासत\nअशोक को इतिहास के महानतम शासकों में गिना जाता है, जिन्होंने करुणापूर्ण और नैतिक शासन की मिसाल कायम की। प्रसिद्ध अशोक चक्र भारत के राष्ट्रीय ध्वज के केंद्र में सुशोभित है।"
+      },
+      "keyAchievements": [
+        {
+          "en": "Pioneered the propagation of Dhamma, dispatching peace missions to Sri Lanka, Greece, Egypt, and Syria",
+          "hi": "धर्म के प्रचार का बीड़ा उठाया, श्रीलंका, यूनान, मिस्र और सीरिया में शांति दूत भेजे"
+        },
+        {
+          "en": "Constructed the Lion Capital of Ashoka at Sarnath, adopted as the official National Emblem of India",
+          "hi": "सारनाथ में अशोक स्तंभ के सिंह शीर्ष का निर्माण कराया, जिसे भारत के आधिकारिक राष्ट्रीय प्रतीक के रूप में अपनाया गया"
+        },
+        {
+          "en": "Erected the famous Lauriya Nandangarh and Rampurva pillars in Champaran and Barabar caves in Jehanabad",
+          "hi": "चंपारण में लौरिया नंदनगढ़ और रामपुरवा स्तंभ तथा जहानाबाद में बराबर गुफाओं का निर्माण कराया"
+        }
+      ],
+      "legacy": {
+        "en": "Celebrated as one of the greatest rulers in world history who demonstrated statecraft guided by compassion, moral governance, and non-violence. The Ashoka Chakra adorns the center of India's National Flag.",
+        "hi": "विश्व इतिहास के महानतम शासकों में गिने जाते हैं जिन्होंने करुणा और नैतिक शासन का उदाहरण प्रस्तुत किया। अशोक चक्र भारत के राष्ट्रीय ध्वज की शोभा बढ़ाता है।"
+      }
+    },
+    {
+      "id": "aryabhata",
+      "name": {
+        "en": "Aryabhata (Aryabhata I)",
+        "hi": "आर्यभट्ट (आर्यभट्ट प्रथम)"
+      },
+      "honorificTitle": {
+        "en": "Master Astronomer & Mathematician of the Classical Golden Age",
+        "hi": "प्राचीन भारत के महानतम गणितज्ञ एवं खगोलशास्त्री"
+      },
+      "category": "scholars-scientists",
+      "period": "476 CE – 550 CE",
+      "birthPlace": {
+        "en": "Kusumapura (Pataliputra / modern Patna) / Ashmaka tradition",
+        "hi": "कुसुमपुर (पाटलिपुत्र / आधुनिक पटना) / अश्मक परंपरा"
+      },
+      "associatedDistricts": [
+        "patna",
+        "nalanda"
+      ],
+      "biography": {
+        "en": "### The Classical Genius\nAryabhata was a towering scientific prodigy of ancient India's Golden Age. Operating from Kusumapura (modern Patna) and observing from the astronomical observatory in Taregana, he composed his magnum opus, the 'Aryabhatiya', at the astonishing age of 23.\n\n### Pioneering Discoveries\n* **Heliocentrism & Earth's Rotation:** Scientifically discovered that the Earth is spherical and rotates on its own axis, accurately calculating the sidereal rotation period.\n* **Nature of Eclipses:** Proved that solar and lunar eclipses are caused by the shadows cast by the Earth and Moon, debunking mythological beliefs.\n* **Mathematics:** Calculated the value of Pi (π) to four decimal places (3.1416) and introduced foundational concepts of zero, place-value systems, and trigonometry (sine functions).\n\n### Scientific Heritage\nIndia's first indigenous satellite, launched in 1975, was christened 'Aryabhata' in his honor. His intellectual legacy is continuously celebrated at institutions like the Aryabhatta Knowledge University in Patna.",
+        "hi": "### प्राचीन काल के विलक्षण वैज्ञानिक\nआर्यभट्ट प्राचीन भारत के स्वर्ण युग के एक महान वैज्ञानिक थे। कुसुमपुर (आधुनिक पटना) में निवास करते हुए और तरेगना की वेधशाला से प्रेक्षण करते हुए, उन्होंने मात्र 23 वर्ष की आयु में अपने कालजयी ग्रंथ 'आर्यभटीय' की रचना की।\n\n### युगांतरकारी खोजें\n* **पृथ्वी का घूर्णन:** वैज्ञानिक रूप से यह सिद्ध किया कि पृथ्वी गोल है और अपनी धुरी पर घूमती है, तथा इसके घूर्णन काल की सटीक गणना की।\n* **ग्रहण का स्वरूप:** पौराणिक मान्यताओं को खारिज करते हुए सिद्ध किया कि सूर्य और चंद्र ग्रहण पृथ्वी और चंद्रमा की छाया पड़ने के कारण होते हैं।\n* **गणित:** पाई (π) का मान दशमलव के चार स्थानों (3.1416) तक सटीक निकाला और शून्य, स्थान-मान प्रणाली व त्रिकोणमिति (ज्या) की नींव रखी।\n\n### वैज्ञानिक विरासत\n1975 में प्रक्षेपित भारत के पहले स्वदेशी उपग्रह का नाम उनके सम्मान में 'आर्यभट्ट' रखा गया। उनकी बौद्धिक विरासत को पटना स्थित आर्यभट्ट ज्ञान विश्वविद्यालय जैसे संस्थानों में आज भी सहेजा जा रहा है।"
+      },
+      "keyAchievements": [
+        {
+          "en": "Calculated the value of Pi (π) accurate to four decimal places (3.1416)",
+          "hi": "पाई (π) का मान दशमलव के चार स्थानों (3.1416) तक सटीक निकाला"
+        },
+        {
+          "en": "Discovered that the Earth rotates on its own axis causing day and night, calculating the sidereal rotation period to 23 hours 56 minutes 4.1 seconds",
+          "hi": "पता लगाया कि पृथ्वी अपनी धुरी पर घूमती है जिससे दिन-रात होते हैं, तथा घूर्णन काल की सटीक गणना की"
+        },
+        {
+          "en": "Introduced foundational concepts of the place-value system, zero, sine functions, and summation of series",
+          "hi": "स्थान-मान प्रणाली, शून्य की संकल्पना, त्रिकोणमिति में 'ज्या' (Sine) और बीजगणितीय सूत्रों की नींव रखी"
+        }
+      ],
+      "legacy": {
+        "en": "India's first indigenous satellite, launched in 1975, was named 'Aryabhata' in his honor. Aryabhatta Knowledge University in Patna commemorates his pioneering scientific spirit.",
+        "hi": "1975 में प्रक्षेपित भारत के पहले स्वदेशी उपग्रह का नाम उनके सम्मान में 'आर्यभट्ट' रखा गया था। पटना स्थित आर्यभट्ट ज्ञान विश्वविद्यालय उनकी वैज्ञानिक परंपरा को समर्पित है।"
+      }
+    },
+    {
+      "id": "guru-gobind-singh",
+      "name": {
+        "en": "Guru Gobind Singh Ji",
+        "hi": "गुरु गोबिंद सिंह जी"
+      },
+      "honorificTitle": {
+        "en": "Tenth Sikh Guru / Founder of the Khalsa",
+        "hi": "सिखों के दसवें गुरु / खालसा पंथ के संस्थापक"
+      },
+      "category": "spiritual-philosophers",
+      "period": "1666 CE – 1708 CE",
+      "birthPlace": {
+        "en": "Takht Sri Patna Sahib (Patna)",
+        "hi": "तख्त श्री पटना साहिब (पटना)"
+      },
+      "associatedDistricts": [
+        "patna"
+      ],
+      "biography": {
+        "en": "### Early Years in Patna\nBorn in Patna Sahib on December 22, 1666, Guru Gobind Singh Ji was the son of the ninth Sikh Guru, Guru Tegh Bahadur, and Mata Gujri. He spent his formative childhood years on the banks of the Ganga in Bihar, mastering Sanskrit, Persian, regional dialects, and martial arts.\n\n### Creation of the Khalsa\n* **The Khalsa Panth:** At the historic Baisakhi assembly of Anandpur Sahib in 1699, he founded the Khalsa, transforming devotees into saint-soldiers (Sant-Sipahi) dedicated to fighting tyranny.\n* **The Five Ks:** Mandated the articles of faith: Kesh, Kangha, Kara, Kachera, and Kirpan.\n* **Eternal Guru:** Bestowed the final and perpetual Guruship upon the Guru Granth Sahib.\n\n### Spiritual & Heroic Legacy\nHe authored profound literature, including the Jaap Sahib, Tav-Prasad Savaiye, and the Zafarnama. Today, Takht Sri Harmandir Ji Patna Sahib stands as one of the Five Takhts, a supreme center of pilgrimage for millions of Sikhs worldwide.",
+        "hi": "### पटना में प्रारंभिक वर्ष\nगुरु गोबिंद सिंह जी का जन्म 22 दिसंबर 1666 को पटना साहिब में नौवें सिख गुरु, गुरु तेग बहादुर जी और माता गुजरी जी के घर हुआ था। उन्होंने अपना प्रारंभिक बचपन बिहार में गंगा तट पर बिताया, जहाँ उन्होंने संस्कृत, फारसी, क्षेत्रीय बोलियों और युद्ध कलाओं में निपुणता हासिल की।\n\n### खालसा का सृजन\n* **खालसा पंथ:** 1699 में आनंदपुर साहिब में ऐतिहासिक बैसाखी के अवसर पर उन्होंने खालसा पंथ की स्थापना की, जिसने शिष्यों को अत्याचार से लड़ने वाले संत-सिपाहियों में बदल दिया।\n* **पांच ककार:** आस्था के पांच प्रतीक अनिवार्य किए: केश, कंघा, कड़ा, कछेरा और कृपाण।\n* **शाश्वत गुरु:** गुरु ग्रंथ साहिब को सिख धर्म के अंतिम और शाश्वत गुरु के रूप में प्रतिष्ठित किया।\n\n### आध्यात्मिक और वीर रस विरासत\nउन्होंने जाप साहिब, तव-प्रसाद सवैये और जफरनामा जैसे गहन आध्यात्मिक एवं वीर रस साहित्य की रचना की। आज, तख्त श्री हरमंदिर जी पटना साहिब पांच तख्तों में से एक है, जो दुनिया भर के लाखों सिखों के लिए सर्वोच्च तीर्थस्थल है।"
+      },
+      "keyAchievements": [
+        {
+          "en": "Founded the Khalsa Panth and introduced the Five Ks (Kesh, Kangha, Kara, Kachera, Kirpan)",
+          "hi": "खालसा पंथ की स्थापना की और पांच ककार (केश, कंघा, कड़ा, कछेरा, कृपाण) अनिवार्य किए"
+        },
+        {
+          "en": "Finalized the eternal Guru Granth Sahib as the perpetual spiritual Guru of Sikhism",
+          "hi": "गुरु ग्रंथ साहिब को सिखों के शाश्वत गुरु के रूप में प्रतिष्ठित किया"
+        },
+        {
+          "en": "Authored profound spiritual and heroic literature including Jaap Sahib, Tav-Prasad Savaiye, and the Zafarnama",
+          "hi": "जाप साहिब, तव-प्रसाद सवैये और जफरनामा सहित आध्यात्मिक व वीर रस साहित्य की रचना की"
+        }
+      ],
+      "legacy": {
+        "en": "Takht Sri Harmandir Ji Patna Sahib stands as one of the Five Takhts (highest seats of temporal and spiritual authority) of Sikhism, drawing millions of pilgrims worldwide.",
+        "hi": "तख्त श्री हरमंदिर जी पटना साहिब सिख धर्म के पांच प्रमुख तख्तों में से एक है, जो दुनिया भर से लाखों श्रद्धालुओं को आकर्षित करता है।"
+      }
+    },
+    {
+      "id": "sher-shah-suri",
+      "name": {
+        "en": "Sher Shah Suri (Farid Khan)",
+        "hi": "शेर शाह सूरी (फरीद खान)"
+      },
+      "honorificTitle": {
+        "en": "Founder of the Sur Empire / Sultan of Delhi",
+        "hi": "सूर साम्राज्य के संस्थापक / दिल्ली के सुल्तान"
+      },
+      "category": "rulers-statesmen",
+      "period": "1486 CE – 1545 CE (Reign: 1540–1545 CE)",
+      "birthPlace": {
+        "en": "Sasaram (Rohtas)",
+        "hi": "सासाराम (रोहतास)"
+      },
+      "associatedDistricts": [
+        "rohtas",
+        "patna",
+        "bhojpur",
+        "buxar"
+      ],
+      "biography": {
+        "en": "### Rise of the Sur Empire\nRising from humble origins in Sasaram, Farid Khan earned the title 'Sher Khan' for his remarkable valor. He systematically defeated Mughal Emperor Humayun at the Battles of Chausa (1539) and Bilgram (1540), capturing Delhi and establishing the formidable Sur Empire.\n\n### Transformative Administration\n* **The Rupiya:** Introduced the silver 'Rupiya' standardized at 178 grains, the direct predecessor of the modern Indian Rupee.\n* **Grand Trunk Road:** Commissioned the 2,500-km Sadak-e-Azam (from Bangladesh to Peshawar) featuring rest houses (Sarais), postal relays, and shaded avenues.\n* **Land Revenue Reforms:** Pioneered systematic land surveys and revenue administration later adopted by Akbar.\n\n### Architectural Marvel\nThough his reign lasted barely five years (1540–1545), his monumental red sandstone tomb in Sasaram, emerging majestically from an artificial lake, stands as a masterpiece of Indo-Islamic architecture and a testament to his visionary rule.",
+        "hi": "### सूर साम्राज्य का उदय\nसासाराम में एक साधारण पृष्ठभूमि से उठकर, फरीद खान ने अपने अद्वितीय शौर्य के कारण 'शेर खान' की उपाधि अर्जित की। उन्होंने चौसा (1539) और बिलग्राम (1540) के युद्धों में मुगल बादशाह हुमायूं को पराजित कर दिल्ली पर अधिकार किया और शक्तिशाली सूर साम्राज्य की स्थापना की।\n\n### युगांतरकारी प्रशासन\n* **रुपिया:** 178 ग्रेन वजन का मानक चांदी का 'रुपिया' जारी किया, जो आधुनिक भारतीय रुपये का प्रत्यक्ष पूर्वज है।\n* **ग्रांड ट्रंक रोड:** 2,500 किमी लंबी 'सड़क-ए-आजम' (बांग्लादेश से पेशावर तक) का निर्माण कराया, जिसमें सराय, डाक चौकियां और छायादार वृक्ष शामिल थे।\n* **भू-राजस्व सुधार:** व्यवस्थित भूमि सर्वेक्षण और राजस्व प्रशासन की शुरुआत की, जिसे बाद में अकबर ने भी अपनाया।\n\n### स्थापत्य कला का चमत्कार\nयद्यपि उनका शासन मात्र पांच वर्ष (1540-1545) रहा, सासाराम में कृत्रिम झील के बीच लाल बलुआ पत्थर से निर्मित उनका भव्य मकबरा इंडो-इस्लामिक वास्तुकला का अनुपम उदाहरण और उनके दूरदर्शी शासन का जीवंत प्रमाण है।"
+      },
+      "keyAchievements": [
+        {
+          "en": "Introduced the 'Rupiya' currency, standardizing currency weight at 178 grains of pure silver",
+          "hi": "'रुपिया' मुद्रा की शुरुआत की, जो आधुनिक भारतीय रुपये की ऐतिहासिक नींव बनी"
+        },
+        {
+          "en": "Built the Grand Trunk Road (Sadak-e-Azam) from Sonargaon (Bangladesh) through Bihar to Peshawar",
+          "hi": "सोनारगांव (बांग्लादेश) से बिहार होते हुए पेशावर तक ग्रांड ट्रंक रोड का निर्माण कराया"
+        },
+        {
+          "en": "Commissioned his magnificent red sandstone tomb rising from an artificial lake in Sasaram, a masterpiece of Indo-Islamic architecture",
+          "hi": "सासाराम में कृत्रिम झील के बीच लाल बलुआ पत्थर से निर्मित अपने भव्य मकबरे का निर्माण कराया, जो इंडो-इस्लामिक वास्तुकला का अनुपम नमूना है"
+        }
+      ],
+      "legacy": {
+        "en": "Pioneered modern administrative systems, postal relay networks (Dak-Chowkis), and land revenue surveys later adopted by Akbar and the British Raj.",
+        "hi": "आधुनिक प्रशासनिक व्यवस्था, डाक-चौकियों की रिले प्रणाली और भूमि राजस्व सर्वेक्षण की नींव रखी, जिसे बाद में अकबर और ब्रिटिश राज ने अपनाया।"
+      }
+    },
+    {
+      "id": "veer-kunwar-singh",
+      "name": {
+        "en": "Veer Kunwar Singh",
+        "hi": "वीर कुंवर सिंह"
+      },
+      "honorificTitle": {
+        "en": "Hero of the 1857 First War of Independence in Bihar",
+        "hi": "बिहार में 1857 के प्रथम स्वतंत्रता संग्राम के महानायक"
+      },
+      "category": "freedom-fighters",
+      "period": "1777 CE – 1858 CE",
+      "birthPlace": {
+        "en": "Jagdishpur (Bhojpur)",
+        "hi": "जगदीशपुर (भोजपुर)"
+      },
+      "associatedDistricts": [
+        "bhojpur",
+        "patna",
+        "rohtas",
+        "buxar",
+        "saran",
+        "gaya"
+      ],
+      "biography": {
+        "en": "### The Hero of 1857\nAt the advanced age of 80, Kunwar Singh, the royal chieftain of Jagdishpur in Bhojpur, emerged as a fierce leader against British colonial rule during the First War of Independence in 1857. \n\n### Military Brilliance\n* **Guerrilla Warfare:** Masterminded brilliant guerrilla tactics to outmaneuver technologically superior British troops.\n* **Victorious Campaigns:** Liberated Danapur mutineers, seized Ara, and marched victoriously into Mirzapur, Rewa, and Azamgarh, notably defeating British troops under Captain Le Grand.\n* **Ultimate Sacrifice:** When his wrist was shattered by a British bullet while crossing the Ganga, he severed his own hand with a sword and offered it to Mother Ganga to prevent the spread of poison.\n\n### Lasting Memory\nHe successfully recaptured his ancestral fort in Jagdishpur on April 23, 1858, just hours before his martyrdom. This monumental day is celebrated annually in Bihar as Vijayotsav, and Veer Kunwar Singh University in Ara keeps his indomitable spirit alive.",
+        "hi": "### 1857 के महानायक\n80 वर्ष की ढलती उम्र में, भोजपुर के जगदीशपुर के राजा कुंवर सिंह 1857 के प्रथम स्वतंत्रता संग्राम में ब्रिटिश औपनिवेशिक शासन के खिलाफ एक प्रखर नेता के रूप में उभरे।\n\n### सैन्य कौशल\n* **गुरिल्ला युद्ध:** तकनीकी रूप से उन्नत ब्रिटिश सेना को मात देने के लिए गुरिल्ला युद्ध की शानदार रणनीति अपनाई।\n* **विजयी अभियान:** दानापुर के विद्रोहियों का नेतृत्व किया, आरा पर कब्जा किया और मिर्जापुर, रीवा व आजमगढ़ में विजय पताका फहराते हुए कैप्टन ली ग्रांड की सेना को धूल चटाई।\n* **सर्वोच्च बलिदान:** गंगा पार करते समय जब उनकी कलाई में ब्रिटिश गोली लगी, तो जहर फैलने से रोकने के लिए उन्होंने अपनी ही तलवार से हाथ काटकर मां गंगा को अर्पित कर दिया।\n\n### अमर स्मृति\nअपनी शहादत से कुछ घंटे पूर्व, 23 अप्रैल 1858 को उन्होंने जगदीशपुर के अपने पैतृक किले को अंग्रेजों से मुक्त करा लिया। इस ऐतिहासिक दिन को बिहार में प्रतिवर्ष 'विजयोत्सव' के रूप में मनाया जाता है, और आरा स्थित वीर कुंवर सिंह विश्वविद्यालय उनके अदम्य साहस को सलाम करता है।"
+      },
+      "keyAchievements": [
+        {
+          "en": "Led the Rebellion of 1857 across Bihar and Eastern Uttar Pradesh, defeating British garrisons at Ara and Azamgarh",
+          "hi": "बिहार और पूर्वी उत्तर प्रदेश में 1857 के संग्राम का नेतृत्व किया और आरा तथा आजमगढ़ में ब्रिटिश सेना को परास्त किया"
+        },
+        {
+          "en": "Recaptured his ancestral fort in Jagdishpur on April 23, 1858, hours before his martyrdom, celebrated annually as Vijayotsav",
+          "hi": "23 अप्रैल 1858 को अपनी शहादत से पहले जगदीशपुर के किले को मुक्त कराया, जिसे प्रतिवर्ष 'विजयोत्सव' के रूप में मनाया जाता है"
+        },
+        {
+          "en": "Maintained secular harmony, uniting Hindu and Muslim fighters under his command against colonial rule",
+          "hi": "सांप्रदायिक सौहार्द बनाए रखा और औपनिवेशिक शासन के खिलाफ हिंदू-मुस्लिम योद्धाओं को एकजुट किया"
+        }
+      ],
+      "legacy": {
+        "en": "Veer Kunwar Singh University in Ara and April 23rd State Vijayotsav commemorate his indomitable courage and legendary sacrifice for Indian independence.",
+        "hi": "आरा स्थित वीर कुंवर सिंह विश्वविद्यालय और 23 अप्रैल का राज्य विजयोत्सव भारतीय स्वतंत्रता के लिए उनके अदम्य साहस और अमर बलिदान का स्मरण कराते हैं।"
+      }
+    },
+    {
+      "id": "dr-rajendra-prasad",
+      "name": {
+        "en": "Dr. Rajendra Prasad",
+        "hi": "डॉ. राजेंद्र प्रसाद"
+      },
+      "honorificTitle": {
+        "en": "First President of the Republic of India / Deshratna",
+        "hi": "भारत गणराज्य के प्रथम राष्ट्रपति / देशरत्न"
+      },
+      "category": "national-leaders",
+      "period": "1884 CE – 1963 CE (Presidency: 1950–1962)",
+      "birthPlace": {
+        "en": "Ziradei (Siwan)",
+        "hi": "जीरादेई (सीवान)"
+      },
+      "associatedDistricts": [
+        "siwan",
+        "patna",
+        "east-champaran"
+      ],
+      "biography": {
+        "en": "### The Scholar & Freedom Fighter\nBorn in the serene village of Ziradei in Siwan, Dr. Rajendra Prasad was an exceptional legal scholar who abandoned a lucrative practice to become Mahatma Gandhi's trusted lieutenant. He played a pivotal role in the Champaran Satyagraha (1917) and steered the Indian National Congress as its President during crucial junctures.\n\n### Architect of the Republic\n* **Constituent Assembly President:** Guided the meticulous drafting and adoption of the Constitution of India (1946–1950).\n* **First President of India:** Served an unprecedented 12 years as the Republic's first head of state (1950–1962), establishing the highest standards of constitutional propriety.\n* **Sadaqat Ashram:** Founded this historic ashram in Patna, which served as the nerve center for Bihar's freedom struggle.\n\n### Deshratna\nRevered affectionately as 'Deshratna' (Jewel of the Nation), he was conferred the Bharat Ratna in 1962. His life remains the ultimate symbol of humility, intellectual brilliance, and selfless dedication to democratic ideals.",
+        "hi": "### विद्वान और स्वतंत्रता सेनानी\nसीवान के जीरादेई गांव में जन्मे डॉ. राजेंद्र प्रसाद एक विलक्षण विधिवेत्ता थे, जिन्होंने महात्मा गांधी के विश्वस्त सहयोगी बनने के लिए अपनी सफल वकालत छोड़ दी। उन्होंने चंपारण सत्याग्रह (1917) में महत्वपूर्ण भूमिका निभाई और महत्वपूर्ण समय में भारतीय राष्ट्रीय कांग्रेस के अध्यक्ष के रूप में कार्य किया।\n\n### गणतंत्र के निर्माता\n* **संविधान सभा के अध्यक्ष:** भारत के संविधान के निर्माण और उसे अपनाने की प्रक्रिया का कुशल मार्गदर्शन किया (1946-1950)।\n* **भारत के प्रथम राष्ट्रपति:** 12 वर्षों तक (1950-1962) गणराज्य के प्रथम राष्ट्राध्यक्ष के रूप में सेवा करते हुए संवैधानिक मर्यादा के सर्वोच्च मानदंड स्थापित किए।\n* **सदाकत आश्रम:** पटना में इस ऐतिहासिक आश्रम की स्थापना की, जो बिहार के स्वतंत्रता संग्राम का मुख्य केंद्र बना।\n\n### देशरत्न\nसंपूर्ण भारत में 'देशरत्न' के रूप में सम्मानित, उन्हें 1962 में भारत रत्न से विभूषित किया गया। उनका जीवन सादगी, बौद्धिक प्रतिभा और लोकतांत्रिक आदर्शों के प्रति निस्वार्थ समर्पण का सर्वोच्च प्रतीक है।"
+      },
+      "keyAchievements": [
+        {
+          "en": "Presided over the Constituent Assembly of India (1946–1950), steering the adoption of the Constitution",
+          "hi": "भारत की संविधान सभा (1946-1950) की अध्यक्षता की और संविधान निर्माण का सफल मार्गदर्शन किया"
+        },
+        {
+          "en": "Served as the first President of India from 1950 to 1962, upholding highest standards of constitutional integrity and simplicity",
+          "hi": "1950 से 1962 तक भारत के प्रथम राष्ट्रपति के रूप में सेवा की और सादगी व संवैधानिक मर्यादा के सर्वोच्च मानदंड स्थापित किए"
+        },
+        {
+          "en": "Conferred the Bharat Ratna, India's highest civilian honor, in 1962",
+          "hi": "1962 में भारत के सर्वोच्च नागरिक सम्मान 'भारत रत्न' से विभूषित किए गए"
+        },
+        {
+          "en": "Founded Sadaqat Ashram in Patna, which served as the epicentre of Bihar's freedom struggle",
+          "hi": "पटना में सदाकत आश्रम की स्थापना की, जो स्वतंत्रता संग्राम का प्रमुख केंद्र रहा"
+        }
+      ],
+      "legacy": {
+        "en": "Revered across India as 'Deshratna' (Jewel of the Nation) for his profound scholarship, humility, and selfless devotion to Indian democracy.",
+        "hi": "उनकी विद्वता, सादगी और लोकतंत्र के प्रति निस्वार्थ सेवा के लिए उन्हें संपूर्ण भारत में 'देशरत्न' के रूप में पूजा जाता है।"
+      }
+    },
+    {
+      "id": "jayaprakash-narayan",
+      "name": {
+        "en": "Loknayak Jayaprakash Narayan (JP)",
+        "hi": "लोकनायक जयप्रकाश नारायण (जेपी)"
+      },
+      "honorificTitle": {
+        "en": "Leader of Total Revolution (Sampoorna Kranti) / Loknayak",
+        "hi": "सम्पूर्ण क्रांति के प्रणेता / लोकनायक"
+      },
+      "category": "national-leaders",
+      "period": "1902 CE – 1979 CE",
+      "birthPlace": {
+        "en": "Sitab Diara (Saran)",
+        "hi": "सिताब दियारा (सारण)"
+      },
+      "associatedDistricts": [
+        "saran",
+        "patna",
+        "gaya"
+      ],
+      "biography": {
+        "en": "### Early Resistance\nAffectionately known as 'Loknayak' (Leader of the People), Jayaprakash Narayan was a fiery freedom fighter. During the 1942 Quit India Movement, he dramatically escaped from Hazaribagh Central Jail and organized the underground 'Azad Dasta' to combat colonial forces.\n\n### The Call for Total Revolution\n* **Sampoorna Kranti:** In 1974, he led the historic Bihar Student Movement from Patna's Gandhi Maidan, issuing the clarion call for 'Total Revolution' against political corruption and authoritarianism.\n* **Restoration of Democracy:** His fearless mobilization united the political opposition, ultimately leading to the end of the Emergency and the restoration of Indian democracy in 1977.\n\n### Enduring Values\nAwarded the Ramon Magsaysay Award (1965) and posthumously the Bharat Ratna (1999), JP symbolizes unwavering political morality. Patna's Lok Nayak Jayaprakash Airport stands as a modern tribute to his legacy.",
+        "hi": "### प्रारंभिक संघर्ष\n'लोकनायक' के नाम से विख्यात जयप्रकाश नारायण एक प्रखर स्वतंत्रता सेनानी थे। 1942 के 'भारत छोड़ो आंदोलन' के दौरान उन्होंने हजारीबाग सेंट्रल जेल से भागकर औपनिवेशिक ताकतों से लड़ने के लिए भूमिगत 'आजाद दस्ता' का गठन किया।\n\n### सम्पूर्ण क्रांति का आह्वान\n* **सम्पूर्ण क्रांति:** 1974 में, उन्होंने पटना के गांधी मैदान से ऐतिहासिक छात्र आंदोलन का नेतृत्व करते हुए राजनीतिक भ्रष्टाचार और अधिनायकवाद के खिलाफ 'सम्पूर्ण क्रांति' का उद्घोष किया।\n* **लोकतंत्र की बहाली:** उनके निडर नेतृत्व ने राजनीतिक विपक्ष को एकजुट किया, जिसके परिणामस्वरूप अंततः आपातकाल समाप्त हुआ और 1977 में भारतीय लोकतंत्र की पुनर्स्थापना हुई।\n\n### स्थायी मूल्य\nरेमन मैग्सेसे पुरस्कार (1965) और मरणोपरांत भारत रत्न (1999) से सम्मानित जेपी, अडिग राजनीतिक शुचिता के प्रतीक हैं। पटना का लोकनायक जयप्रकाश हवाई अड्डा उनकी महान विरासत को समर्पित है।"
+      },
+      "keyAchievements": [
+        {
+          "en": "Formed the 'Azad Dasta' guerrilla force during the 1942 Quit India Movement to sabotage colonial war infrastructure",
+          "hi": "1942 के भारत छोड़ो आंदोलन के दौरान औपनिवेशिक ढांचे को ध्वस्त करने के लिए 'आजाद दस्ता' का गठन किया"
+        },
+        {
+          "en": "Proclaimed the historic call for 'Total Revolution' (Sampoorna Kranti) at Gandhi Maidan on June 5, 1974",
+          "hi": "5 जून 1974 को गांधी मैदान में 'सम्पूर्ण क्रांति' का ऐतिहासिक आह्वान किया"
+        },
+        {
+          "en": "Awarded the Ramon Magsaysay Award for Public Service (1965) and posthumously conferred the Bharat Ratna (1999)",
+          "hi": "लोक सेवा के लिए रेमन मैग्सेसे पुरस्कार (1965) और मरणोपरांत भारत रत्न (1999) से सम्मानित"
+        }
+      ],
+      "legacy": {
+        "en": "Symbolizes selfless political morality and fearless resistance against tyranny in modern India. Patna's international airport and AIIMS hospital bridge his enduring memory.",
+        "hi": "आधुनिक भारत में निस्वार्थ राजनीतिक शुचिता और अधिनायकवाद के खिलाफ निडर प्रतिरोध के प्रतीक। पटना का अंतरराष्ट्रीय हवाई अड्डा उनके नाम पर समर्पित है।"
+      }
+    },
+    {
+      "id": "ustad-bismillah-khan",
+      "name": {
+        "en": "Ustad Bismillah Khan (Qamaruddin Khan)",
+        "hi": "उस्ताद बिस्मिल्लाह खां (कमरुद्दीन खां)"
+      },
+      "honorificTitle": {
+        "en": "Bharat Ratna Shehnai Maestro",
+        "hi": "भारत रत्न शहनाई वादक"
+      },
+      "category": "arts-culture",
+      "period": "1916 CE – 2006 CE",
+      "birthPlace": {
+        "en": "Dumraon (Buxar)",
+        "hi": "डुमरांव (बक्सर)"
+      },
+      "associatedDistricts": [
+        "buxar",
+        "bhojpur"
+      ],
+      "biography": {
+        "en": "### The Shehnai Maestro\nBorn into a traditional lineage of court musicians in the princely state of Dumraon, Bismillah Khan brought the Shehnai from local wedding processions to the world's most prestigious classical concert stages.\n\n### Historic Milestones\n* **Independence Day Honour:** Bestowed with the unique privilege of performing at the Red Fort on the eve of India's first Independence Day in 1947.\n* **Global Ambassador:** Enchanted audiences worldwide for over seven decades, promoting India's classical heritage.\n* **Bharat Ratna:** Awarded India's highest civilian honor for his unparalleled contribution to Indian classical music.\n\n### Ganga-Jamuni Tehzeeb\nLiving a life of extreme simplicity in Varanasi, he was the living embodiment of India's syncretic culture (Ganga-Jamuni Tehzeeb). His soulful melodies continue to echo through the spiritual and cultural corridors of the nation.",
+        "hi": "### शहनाई के जादूगर\nडुमरांव रियासत के पारंपरिक दरबारी संगीतकारों के परिवार में जन्मे बिस्मिल्लाह खां ने शहनाई को स्थानीय विवाह समारोहों से निकालकर दुनिया के सबसे प्रतिष्ठित शास्त्रीय संगीत मंचों पर स्थापित किया।\n\n### ऐतिहासिक उपलब्धियां\n* **स्वतंत्रता दिवस का सम्मान:** 1947 में भारत के प्रथम स्वतंत्रता दिवस की पूर्व संध्या पर लाल किले पर शहनाई वादन करने का अद्वितीय गौरव प्राप्त हुआ।\n* **वैश्विक राजदूत:** सात दशकों से अधिक समय तक दुनिया भर के श्रोताओं को मंत्रमुग्ध करते हुए भारतीय शास्त्रीय विरासत को बढ़ावा दिया।\n* **भारत रत्न:** भारतीय शास्त्रीय संगीत में उनके अतुलनीय योगदान के लिए उन्हें भारत के सर्वोच्च नागरिक सम्मान से नवाजा गया।\n\n### गंगा-जमुनी तहजीब\nवाराणसी में अत्यंत सादगीपूर्ण जीवन व्यतीत करने वाले उस्ताद, भारत की साझी संस्कृति (गंगा-जमुनी तहजीब) के जीवंत प्रतीक थे। उनकी भावपूर्ण धुनें आज भी देश के सांस्कृतिक गलियारों में गूंजती हैं।"
+      },
+      "keyAchievements": [
+        {
+          "en": "Conferred the Bharat Ratna (2001), Padma Vibhushan (1980), Padma Bhushan (1968), and Padma Shri (1961)",
+          "hi": "भारत रत्न (2001), पद्म विभूषण (1980), पद्म भूषण (1968) और पद्म श्री (1961) से सम्मानित"
+        },
+        {
+          "en": "Invited by Prime Minister Jawaharlal Nehru to perform from the ramparts of the Red Fort on August 15, 1947",
+          "hi": "15 अगस्त 1947 को लाल किले की प्राचीर से देश के स्वतंत्र होने पर शहनाई वादन का ऐतिहासिक सम्मान प्राप्त किया"
+        },
+        {
+          "en": "Performed at world-renowned venues including Lincoln Center (New York), World Exposition (Montreal), and Cannes",
+          "hi": "लिंकन सेंटर (न्यूयॉर्क), मॉन्ट्रियल एक्सपो और कान जैसे विश्व प्रसिद्ध मंचों पर अपनी कला का प्रदर्शन किया"
+        }
+      ],
+      "legacy": {
+        "en": "Immortalized the Shehnai worldwide and remains a timeless icon of India's composite syncretic cultural heritage.",
+        "hi": "शहनाई को दुनिया भर में अमर बना दिया और भारत की साझी सांस्कृतिक विरासत के शाश्वत प्रतीक बने हुए हैं।"
+      }
+    },
+    {
+      "id": "ramdhari-singh-dinkar",
+      "name": {
+        "en": "Ramdhari Singh 'Dinkar'",
+        "hi": "रामधारी सिंह 'दिनकर'"
+      },
+      "honorificTitle": {
+        "en": "Rashtrakavi (National Poet of India)",
+        "hi": "राष्ट्रकवि"
+      },
+      "category": "literature",
+      "period": "1908 CE – 1974 CE",
+      "birthPlace": {
+        "en": "Simariya (Begusarai)",
+        "hi": "सिमरिया (बेगूसराय)"
+      },
+      "associatedDistricts": [
+        "begusarai",
+        "patna",
+        "bhagalpur"
+      ],
+      "biography": {
+        "en": "### The Rashtrakavi (National Poet)\nBorn in Simariya (Begusarai), Ramdhari Singh 'Dinkar' emerged as one of the most celebrated and forceful Hindi poets of the modern era. His patriotic verses inspired the masses during the struggle for independence, earning him the prestigious title of 'Rashtrakavi'.\n\n### Literary Masterpieces\n* **Rashmirathi:** An epic retelling of the Mahabharata focusing on the tragic hero Karna.\n* **Kurukshetra:** A profound philosophical exploration of war and peace.\n* **Urvarshi:** A mesmerizing poetic drama that won him the Jnanpith Award in 1972.\n* **Hunkar & Parashuram Ki Pratiksha:** Reflecting the fiery spirit of rebellion and nationalistic fervor.\n\n### Cultural Pillar\nDinkar's writings seamlessly blended 'Veer Rasa' (heroism) with profound humanistic philosophy. Serving in the Rajya Sabha and as Vice-Chancellor of Bhagalpur University, he profoundly enriched both India's political and literary spheres.",
+        "hi": "### राष्ट्रकवि\nसिमरिया (बेगूसराय) में जन्मे रामधारी सिंह 'दिनकर' आधुनिक युग के सबसे प्रतिष्ठित ओजस्वी हिंदी कवियों में से एक बनकर उभरे। स्वतंत्रता संग्राम के दौरान उनकी देशभक्तिपूर्ण कविताओं ने जनमानस को झकझोर दिया, जिससे उन्हें 'राष्ट्रकवि' की उपाधि मिली।\n\n### कालजयी रचनाएं\n* **रश्मिरथी:** महाभारत के महान योद्धा कर्ण के संघर्षों पर आधारित महाकाव्य।\n* **कुरुक्षेत्र:** युद्ध और शांति के दर्शन पर एक गहन काव्यात्मक विमर्श।\n* **उर्वशी:** एक अद्भुत काव्य-नाटक जिसने उन्हें 1972 में प्रतिष्ठित 'ज्ञानपीठ पुरस्कार' दिलाया।\n* **हुंकार और परशुराम की प्रतीक्षा:** राष्ट्रवाद और विद्रोह की आग को स्वर देने वाली रचनाएं।\n\n### सांस्कृतिक स्तंभ\nदिनकर की रचनाओं में 'वीर रस' और गहरे मानवतावादी दर्शन का अनूठा संगम है। राज्यसभा सदस्य और भागलपुर विश्वविद्यालय के कुलपति के रूप में कार्य करते हुए, उन्होंने भारत के राजनीतिक और साहित्यिक परिदृश्य को समृद्ध किया।"
+      },
+      "keyAchievements": [
+        {
+          "en": "Authored the immortal epic 'Rashmirathi' portraying the chivalry and existential anguish of Karna",
+          "hi": "कर्ण के शौर्य और अंतर्द्वंद्व को चित्रित करने वाले अमर खंडकाव्य 'रश्मिरथी' की रचना की"
+        },
+        {
+          "en": "Conferred the Bharatiya Jnanpith Award (1972) for 'Urvashi' and the Sahitya Akademi Award (1959) for 'Sanskriti Ke Char Adhyay'",
+          "hi": "'उर्वशी' के लिए भारतीय ज्ञानपीठ पुरस्कार (1972) और 'संस्कृति के चार अध्याय' के लिए साहित्य अकादेमी पुरस्कार (1959) से सम्मानित"
+        },
+        {
+          "en": "Awarded the Padma Bhushan in 1959 for exceptional literary contribution to the nation",
+          "hi": "राष्ट्र के लिए असाधारण साहित्यिक योगदान के लिए 1959 में पद्म भूषण से सम्मानित"
+        }
+      ],
+      "legacy": {
+        "en": "His works remain mandatory touchstones of modern Hindi literature and fiery symbols of democratic awakening.",
+        "hi": "उनकी रचनाएं आधुनिक हिंदी साहित्य का आधार स्तंभ और लोकतांत्रिक चेतना का प्रखर स्वर बनी हुई हैं।"
+      }
+    },
+    {
+      "id": "phanishwar-nath-renu",
+      "name": {
+        "en": "Phanishwar Nath 'Renu'",
+        "hi": "फणीश्वर नाथ 'रेणु'"
+      },
+      "honorificTitle": {
+        "en": "Pioneer of the Anchalik (Regional) Novel in Hindi Literature",
+        "hi": "हिंदी साहित्य में आंचलिक उपन्यास के जनक"
+      },
+      "category": "literature",
+      "period": "1921 CE – 1977 CE",
+      "birthPlace": {
+        "en": "Aurahi Hingna (Araria / then Purnea)",
+        "hi": "औराही हिंगना (अररिया / तत्कालीन पूर्णिया)"
+      },
+      "associatedDistricts": [
+        "araria",
+        "purnia",
+        "patna"
+      ],
+      "biography": {
+        "en": "### The Voice of Rural Realism\nHailing from Aurahi Hingna in Araria, Phanishwar Nath 'Renu' revolutionized Hindi literature by pioneering the 'Aanchalik' (regional) novel. He captured the raw, unfiltered pulse of rural Bihar with unprecedented authenticity.\n\n### Literary Contributions\n* **Maila Aanchal (The Soiled Border):** His magnum opus, widely considered one of the greatest Hindi novels after Premchand's Godaan, portraying the complex social dynamics of a Purnia village.\n* **Parati Parikatha:** A poignant exploration of barren lands and changing agrarian life.\n* **Teesri Kasam (Mare Gaye Gulfam):** A touching short story later adapted into an iconic National Award-winning Bollywood film starring Raj Kapoor.\n\n### Activism and Legacy\nRenu was not just a writer but an active participant in the 1942 Quit India Movement and the 1950 Nepali democratic struggle. He immortalized the dialects, folk songs, and struggles of the Kosi region on the literary map.",
+        "hi": "### ग्रामीण यथार्थवाद की आवाज़\nअररिया के औराही हिंगना गांव से ताल्लुक रखने वाले फणीश्वर नाथ 'रेणु' ने 'आंचलिक' (क्षेत्रीय) उपन्यास की विधा शुरू करके हिंदी साहित्य में क्रांति ला दी। उन्होंने ग्रामीण बिहार की कच्ची, वास्तविक नब्ज को अभूतपूर्व प्रामाणिकता के साथ प्रस्तुत किया।\n\n### साहित्यिक योगदान\n* **मैला आँचल:** उनका यह कालजयी उपन्यास, जिसे प्रेमचंद के 'गोदान' के बाद हिंदी का सबसे महान उपन्यास माना जाता है, पूर्णिया के एक गांव के जटिल सामाजिक ताने-बाने को दर्शाता है।\n* **परती परिकथा:** बंजर भूमि और बदलते कृषि जीवन का मार्मिक चित्रण।\n* **तीसरी कसम (मारे गए गुलफाम):** एक भावपूर्ण कहानी जिस पर बाद में राज कपूर अभिनीत राष्ट्रीय पुरस्कार प्राप्त प्रसिद्ध फिल्म बनी।\n\n### सक्रियता और विरासत\nरेणु केवल एक लेखक नहीं थे, बल्कि 1942 के भारत छोड़ो आंदोलन और 1950 के नेपाली लोकतांत्रिक संघर्ष के सक्रिय भागीदार भी थे। उन्होंने कोसी क्षेत्र की बोलियों, लोकगीतों और संघर्षों को साहित्य के मानचित्र पर हमेशा के लिए अमर कर दिया।"
+      },
+      "keyAchievements": [
+        {
+          "en": "Authored 'Maila Anchal' (1954), celebrated as the greatest regional novel in Hindi literature",
+          "hi": "हिंदी साहित्य के सर्वश्रेष्ठ आंचलिक उपन्यास 'मैला आंचल' (1954) की रचना की"
+        },
+        {
+          "en": "Wrote the iconic short story 'Mare Gaye Gulfam', adapted by Raj Kapoor into the classic film 'Teesri Kasam'",
+          "hi": "प्रसिद्ध कहानी 'मारे गए गुलफाम' लिखी, जिस पर राज कपूर ने क्लासिक फिल्म 'तीसरी कसम' बनाई"
+        },
+        {
+          "en": "Awarded the Padma Shri (1970), which he later returned in protest against the Emergency in 1975",
+          "hi": "पद्म श्री (1970) से सम्मानित, जिसे उन्होंने 1975 में आपातकाल के विरोध में लौटा दिया"
+        }
+      ],
+      "legacy": {
+        "en": "Revered as the authentic voice of rural Bihar whose vivid prose captured the soul of village life.",
+        "hi": "ग्रामीण बिहार के सच्चे चितेरे के रूप में सम्मानित, जिनके गद्य ने ग्रामीण जीवन की आत्मा को अमर कर दिया।"
+      }
+    },
+    {
+      "id": "dashrath-manjhi",
+      "name": {
+        "en": "Dashrath Manjhi",
+        "hi": "दशरथ मांझी"
+      },
+      "honorificTitle": {
+        "en": "The Mountain Man (पर्वत पुरुष)",
+        "hi": "माउंटेन मैन (पर्वत पुरुष)"
+      },
+      "category": "social-heroes",
+      "period": "1934 CE – 2007 CE",
+      "birthPlace": {
+        "en": "Gehlaur, near Wazirganj (Gaya)",
+        "hi": "गहलोर, वजीरगंज के पास (गया)"
+      },
+      "associatedDistricts": [
+        "gaya"
+      ],
+      "biography": {
+        "en": "### The Mountain Man\nDashrath Manjhi, a landless laborer from the remote village of Gehlaur in Gaya, transformed profound personal grief into an awe-inspiring feat of human endurance. After his beloved wife, Falguni Devi, died because she could not receive timely medical help due to a massive mountain blocking the route, he resolved to carve a path through it.\n\n### An Epic Struggle\n* **Twenty-Two Years of Labor:** Using nothing but a simple hammer and chisel, Manjhi worked relentlessly from 1960 to 1982.\n* **Carving the Path:** He carved a road 110 meters long, 9 meters wide, and 7.6 meters deep straight through the unforgiving Gehlaur Hills.\n* **Bridging the Gap:** His monumental effort reduced the distance between Atri and Wazirganj sectors of Gaya from 55 km to a mere 15 km.\n\n### Enduring Inspiration\nCelebrated globally as the 'Mountain Man', Manjhi’s story is a testament to the invincible power of love and determination. His legacy continues to inspire millions and has been the subject of several acclaimed documentaries and feature films.",
+        "hi": "### माउंटेन मैन (पर्वत पुरुष)\nगया के सुदूर गहलौर गांव के एक भूमिहीन मजदूर, दशरथ मांझी ने अपने गहरे व्यक्तिगत दुख को मानव धीरज के एक विस्मयकारी कारनामे में बदल दिया। अपनी प्यारी पत्नी फाल्गुनी देवी के निधन (पहाड़ के कारण समय पर चिकित्सा न मिल पाने के कारण) के बाद, उन्होंने उस पहाड़ का सीना चीरने का संकल्प लिया।\n\n### एक महाकाव्यीय संघर्ष\n* **बाईस वर्षों का श्रम:** केवल एक साधारण हथौड़े और छेनी के सहारे, मांझी ने 1960 से 1982 तक लगातार अथक परिश्रम किया।\n* **रास्ता बनाना:** उन्होंने गहलौर की कठोर पहाड़ियों को काटकर 110 मीटर लंबा, 9 मीटर चौड़ा और 7.6 मीटर गहरा रास्ता बना दिया।\n* **दूरियां मिटाना:** उनके इस भगीरथ प्रयास ने गया के अतरी और वजीरगंज के बीच की दूरी को 55 किमी से घटाकर मात्र 15 किमी कर दिया।\n\n### अमर प्रेरणा\nदुनिया भर में 'माउंटेन मैन' के रूप में प्रसिद्ध दशरथ मांझी की कहानी प्रेम और दृढ़ संकल्प की अजेय शक्ति का प्रमाण है। उनकी विरासत लाखों लोगों को प्रेरित करती है और कई प्रशंसित फिल्मों का विषय रही है।"
+      },
+      "keyAchievements": [
+        {
+          "en": "Carved a 360-foot-long mountain pass through solid rock single-handedly over 22 years of selfless labor",
+          "hi": "22 वर्षों के निस्वार्थ श्रम से ठोस चट्टानों को काटकर 360 फीट लंबा पहाड़ी रास्ता तैयार किया"
+        },
+        {
+          "en": "Reduced travel distance between Wazirganj and Atri from 55 km to 15 km, granting surrounding villages access to healthcare and schools",
+          "hi": "वजीरगंज और अत्री के बीच की दूरी 55 किमी से घटाकर 15 किमी कर दी, जिससे दर्जनों गांवों को अस्पताल और स्कूल की सुलभता मिली"
+        },
+        {
+          "en": "Given a State Funeral by the Government of Bihar upon his passing in 2007",
+          "hi": "2007 में उनके निधन पर बिहार सरकार द्वारा उन्हें राजकीय सम्मान के साथ अंतिम विदाई दी गई"
+        }
+      ],
+      "legacy": {
+        "en": "A global symbol of human willpower, unconditional love, and triumph over impossible odds. Celebrated in literature and cinema worldwide.",
+        "hi": "मानवीय इच्छाशक्ति, अगाध प्रेम और असंभव पर विजय के वैश्विक प्रतीक। साहित्य और सिनेमा में उनकी गाथा सदैव अमर है।"
+      }
+    },
+    {
+      "id": "vidyapati",
+      "name": {
+        "en": "Vidyapati (Vidyapati Thakur)",
+        "hi": "महाकवि विद्यापति (विद्यापति ठाकुर)"
+      },
+      "honorificTitle": {
+        "en": "Maithil Kavi Kokil (The Cuckoo of Mithila) / Abhinava Jayadeva",
+        "hi": "मैथिल कवि कोकिल / अभिनव जयदेव"
+      },
+      "category": "literature",
+      "period": "c. 1352 CE – 1448 CE",
+      "birthPlace": {
+        "en": "Bisafi (Madhubani / Ancient Mithila)",
+        "hi": "बिस्फी (मधुबनी / प्राचीन मिथिला)"
+      },
+      "associatedDistricts": [
+        "madhubani",
+        "darbhanga",
+        "samastipur"
+      ],
+      "biography": {
+        "en": "### The Nightingale of Mithila\nVidyapati (c. 1352–1448), widely revered as 'Maithil Kavi Kokil' (the poet cuckoo of Maithili), was a brilliant polymath, Sanskrit scholar, and poet from the court of the Oiniwar dynasty in Mithila.\n\n### Literary Genius\n* **Radha-Krishna Love Poetry:** His immortal Maithili verses beautifully depict the divine romance of Radha and Krishna, profoundly influencing the Bhakti movement and Vaishnava traditions in Bengal, Assam, and Odisha.\n* **Siva Bhajans (Nacharis):** Penned immensely popular hymns devoted to Lord Shiva, which remain an integral part of everyday prayer in Bihari households.\n* **Linguistic Pioneer:** Elevated Maithili and Avahatta to prestigious literary languages, breaking the exclusive monopoly of classical Sanskrit.\n\n### Cultural Integration\nVidyapati's songs transcend time. They are woven deeply into the cultural fabric of Mithila, continuing to be passionately sung during marriages, festivals, and religious gatherings across Eastern India.",
+        "hi": "### मिथिला के कवि कोकिल\nविद्यापति (लगभग 1352-1448), जिन्हें 'मैथिल कवि कोकिल' के नाम से पूजा जाता है, मिथिला के ओइनवार राजवंश के दरबार के एक विलक्षण संस्कृत विद्वान और कवि थे।\n\n### साहित्यिक प्रतिभा\n* **राधा-कृष्ण प्रेम काव्य:** उनकी अमर मैथिली कविताओं ने राधा और कृष्ण के दिव्य प्रेम का अद्भुत चित्रण किया, जिसने बंगाल, असम और ओडिशा में भक्ति आंदोलन व वैष्णव परंपराओं को गहराई से प्रभावित किया।\n* **शिव भजन (नचारी):** भगवान शिव को समर्पित अत्यधिक लोकप्रिय भजनों की रचना की, जो आज भी बिहार के घरों में दैनिक प्रार्थना का अभिन्न अंग हैं।\n* **भाषाई प्रणेता:** संस्कृत के एकाधिकार को तोड़ते हुए मैथिली और अवहट्ट को प्रतिष्ठित साहित्यिक भाषाओं के रूप में स्थापित किया।\n\n### सांस्कृतिक एकीकरण\nविद्यापति के गीत समय की सीमाओं से परे हैं। वे मिथिला के सांस्कृतिक ताने-बाने में गहराई से रचे-बसे हैं, और पूर्वी भारत में शादियों, त्योहारों और धार्मिक अनुष्ठानों के दौरान आज भी पूरी श्रद्धा से गाए जाते हैं।"
+      },
+      "keyAchievements": [
+        {
+          "en": "Composed the immortal Maithili 'Padavali', establishing Maithili as a foremost literary language of northern India",
+          "hi": "अमर मैथिली 'पदावली' की रचना कर मैथिली को उत्तर भारत की प्रमुख साहित्यिक भाषा के रूप में प्रतिष्ठित किया"
+        },
+        {
+          "en": "Authored authoritative treatises in Sanskrit including 'Purusha Pariksha', 'Kirtilata', and 'Likhanavali'",
+          "hi": "'पुरुष परीक्षा', 'कीर्तिलता' और 'लिखनावली' सहित संस्कृत एवं अवहट्ठ के प्रामाणिक ग्रंथों की रचना की"
+        },
+        {
+          "en": "Inspired Chaitanya Mahaprabhu and shaped the medieval Vaishnava renaissance across eastern India",
+          "hi": "चैतन्य महाप्रभु को प्रेरित किया और पूर्वी भारत में मध्यकालीन वैष्णव पुनर्जागरण को दिशा दी"
+        }
+      ],
+      "legacy": {
+        "en": "Revered as the greatest cultural icon of Mithila whose songs remain alive in everyday festivals, marriages, and morning prayers across Bihar.",
+        "hi": "मिथिला के सर्वोच्च सांस्कृतिक प्रतीक, जिनके गीत आज भी बिहार में त्योहारों, विवाहों और प्रभाती में गाए जाते हैं।"
+      }
+    },
+    {
+      "id": "swami-sahajanand-saraswati",
+      "name": {
+        "en": "Swami Sahajanand Saraswati",
+        "hi": "स्वामी सहजानंद सरस्वती"
+      },
+      "honorificTitle": {
+        "en": "Father of the Indian Peasant Movement / Kisan Pran",
+        "hi": "भारतीय किसान आंदोलन के जनक / किसान प्राण"
+      },
+      "category": "social-reformers",
+      "period": "1889 CE – 1950 CE",
+      "birthPlace": {
+        "en": "Deva (Ghazipur / spent his entire active life at Sitaram Ashram, Bihta, Patna)",
+        "hi": "देवा (गाजीपुर / कर्मभूमि: सीताराम आश्रम, बिहटा, पटना)"
+      },
+      "associatedDistricts": [
+        "patna",
+        "bhojpur",
+        "gaya",
+        "munger"
+      ],
+      "biography": {
+        "en": "### Voice of the Peasantry\nSwami Sahajanand Saraswati was an ascetic, intellectual, and the most formidable peasant leader of modern India. Operating from the Bihta Ashram in Patna, he transformed the agrarian landscape of Bihar during the anti-colonial struggle.\n\n### Agrarian Revolution\n* **All India Kisan Sabha:** Founded the Bihar Provincial Kisan Sabha (1929) and became the first President of the All India Kisan Sabha (1936), mobilizing millions of farmers.\n* **Anti-Zamindari Struggle:** Waged a relentless and fierce battle against the oppressive Zamindari system and forced labor, demanding fundamental land reforms.\n* **Intellectual Contributions:** Authored seminal texts such as 'Mera Jeewan Sangharsh' (My Life Struggle) and 'Kisan Kaise Larte Hain', establishing the ideological framework for peasant rights.\n\n### Impact on Modern India\nHis militant, yet ideologically grounded mobilization forced the post-independence government to rapidly enact the Zamindari Abolition Act. He remains an enduring icon of agrarian justice and peasant solidarity.",
+        "hi": "### किसानों की बुलंद आवाज़\nस्वामी सहजानंद सरस्वती एक सन्यासी, बुद्धिजीवी और आधुनिक भारत के सबसे शक्तिशाली किसान नेता थे। पटना के बिहटा आश्रम से कार्य करते हुए, उन्होंने उपनिवेशवाद विरोधी संघर्ष के दौरान बिहार के कृषि परिदृश्य में क्रांति ला दी।\n\n### कृषि क्रांति\n* **अखिल भारतीय किसान सभा:** बिहार प्रांतीय किसान सभा (1929) की स्थापना की और लाखों किसानों को एकजुट करते हुए अखिल भारतीय किसान सभा (1936) के प्रथम अध्यक्ष बने।\n* **जमींदारी विरोधी संघर्ष:** अत्याचारी जमींदारी प्रथा और बेगार के खिलाफ एक निर्मम और उग्र लड़ाई छेड़ी, तथा बुनियादी भूमि सुधारों की मांग की।\n* **बौद्धिक योगदान:** 'मेरा जीवन संघर्ष' और 'किसान कैसे लड़ते हैं' जैसे महत्वपूर्ण ग्रंथ लिखे, जिन्होंने किसान अधिकारों का वैचारिक ढांचा तैयार किया।\n\n### आधुनिक भारत पर प्रभाव\nउनके उग्र लेकिन वैचारिक रूप से मजबूत आंदोलनों ने स्वतंत्रता के बाद सरकार को जमींदारी उन्मूलन अधिनियम को शीघ्र लागू करने के लिए मजबूर किया। वे आज भी कृषि न्याय और किसान एकता के अमर प्रतीक हैं।"
+      },
+      "keyAchievements": [
+        {
+          "en": "Founded the Bihar Provincial Kisan Sabha (1929) and the All India Kisan Sabha (1936), the largest peasant organization in Asia",
+          "hi": "बिहार प्रांतीय किसान सभा (1929) और एशिया के सबसे बड़े किसान संगठन अखिल भारतीय किसान सभा (1936) की स्थापना की"
+        },
+        {
+          "en": "Spearheaded the Bakasht movement in Bihar, restoring evicted lands to peasant cultivators",
+          "hi": "बिहार में ऐतिहासिक बकाशत आंदोलन का नेतृत्व कर किसानों को उनकी छीनी गई जमीन वापस दिलाई"
+        },
+        {
+          "en": "Authored influential socio-political works including 'Kisan Sabha Ke Sansmaran' and 'Mera Jivan Sangharsh'",
+          "hi": "'किसान सभा के संस्मरण' और 'मेरा जीवन संघर्ष' जैसी कालजयी कृतियों की रचना की"
+        }
+      ],
+      "legacy": {
+        "en": "Endures as the legendary intellectual and organizational pioneer of agrarian rights and peasant solidarity in modern India.",
+        "hi": "आधुनिक भारत में किसान अधिकारों और कृषक एकजुटता के प्रणेता के रूप में सदैव अमर।"
+      }
+    }
+  ]
+}

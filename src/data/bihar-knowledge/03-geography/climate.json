@@ -1,0 +1,409 @@
+{
+  "data": [
+    {
+      "id": "climate-overview",
+      "name": {
+        "en": "Subtropical Monsoon Climate of Bihar",
+        "hi": "बिहार की उपोष्णकटिबंधीय मानसूनी जलवायु"
+      },
+      "type": {
+        "en": "Humid Subtropical Monsoon (Köppen Cwg)",
+        "hi": "आर्द्र उपोष्णकटिबंधीय मानसून (कोपेन Cwg)"
+      },
+      "classification": {
+        "koppen": "Cwg (Gangetic Plains Type with dry winters and warm hot summers)",
+        "trewartha": "Caw (Subtropical with dry winter)",
+        "thornthwaite": "Sub-humid to semi-arid type"
+      },
+      "annualRainfallMm": {
+        "stateAverage": 1013,
+        "range": "750 mm to 2,000 mm"
+      },
+      "temperatureCelsius": {
+        "annualMean": 27,
+        "summerMax": 44,
+        "winterMin": 4
+      },
+      "description": {
+        "en": "### Bihar's Distinct Climate\n\nBihar experiences a profound **Continental Monsoon Climate** (Koppen's Cwa), characterized by dramatic seasonal transitions and heavy dependence on summer rains.\n\n### Core Climatic Elements\n\n* **Geographical Influence:** Being completely landlocked, it faces extreme temperatures—searing summers and biting winters.\n* **Monsoonal Rhythm:** The agricultural lifeblood of the state relies almost entirely on the Southwest Monsoon from June to September.\n* **Regional Variations:** The eastern districts remain significantly wetter and cooler than the dry, arid western plains.\n\nThis climatic variability shapes the traditional farming cycles, festivals, and cultural fabric of Bihar.",
+        "hi": "### बिहार की विशिष्ट जलवायु\n\nबिहार में एक गहन **महाद्वीपीय मानसूनी जलवायु** (कोपेन का Cwa) का अनुभव होता है, जो नाटकीय मौसमी बदलावों और गर्मी की बारिश पर भारी निर्भरता की विशेषता है।\n\n### मुख्य जलवायु तत्व\n\n* **भौगोलिक प्रभाव:** पूरी तरह से भूमि से घिरा होने के कारण, यह अत्यधिक तापमान—चिलचिलाती गर्मी और कड़ाके की सर्दी का सामना करता है।\n* **मानसूनी लय:** राज्य की कृषि जीवन रेखा लगभग पूरी तरह से जून से सितंबर तक दक्षिण-पश्चिम मानसून पर निर्भर करती है।\n* **क्षेत्रीय विविधताएं:** पूर्वी जिले शुष्क पश्चिमी मैदानों की तुलना में काफी अधिक नम और ठंडे रहते हैं।\n\nयह जलवायु परिवर्तनशीलता बिहार के पारंपरिक कृषि चक्रों, त्योहारों और सांस्कृतिक ताने-बाने को आकार देती है।"
+      },
+      "keyFactors": {
+        "en": [
+          "Latitudinal extension between 24°N and 27°N giving a subtropical character",
+          "Himalayan barrier in the north blocking cold polar winds and forcing monsoon clouds to precipitate",
+          "Distance from sea (continentality) creating wide diurnal and seasonal temperature variations",
+          "Westerly winds dominating in winter and summer; easterly monsoon currents dominating from June to September"
+        ],
+        "hi": [
+          "24°N और 27°N के बीच अक्षांशीय विस्तार जो इसे उपोष्णकटिबंधीय चरित्र देता है",
+          "उत्तर में हिमालयी अवरोध जो ठंडी ध्रुवीय हवाओं को रोकता है और मानसूनी बादलों को वर्षा करने पर विवश करता है",
+          "समुद्र से दूरी (महाद्वीपीयता) जो विस्तृत दैनिक और मौसमी तापमान भिन्नता उत्पन्न करती है",
+          "सर्दियों और गर्मियों में पछुआ हवाओं का प्रभुत्व; जून से सितंबर तक पूर्वी मानसूनी धाराओं का प्रभाव"
+        ]
+      },
+      "bpscRelevance": {
+        "en": "Frequently asked in BPSC: Köppen classification code (Cwg), average rainfall (~1013-1120 mm), and factors influencing Bihar's climate.",
+        "hi": "BPSC में बार-बार पूछा जाता है: कोपेन वर्गीकरण कोड (Cwg), औसत वर्षा (~1013-1120 मिमी), और बिहार की जलवायु को प्रभावित करने वाले कारक।"
+      }
+    },
+    {
+      "id": "hot-summer-season",
+      "name": {
+        "en": "Hot Summer Season (Greeshma Ritu)",
+        "hi": "ग्रीष्म ऋतु (गर्मियों का मौसम)"
+      },
+      "period": {
+        "en": "March to May (pre-monsoon)",
+        "hi": "मार्च से मई (मानसून-पूर्व)"
+      },
+      "temperatureCelsius": {
+        "meanMax": 38,
+        "extremeMax": "44 to 46 in Gaya, Aurangabad, and Patna",
+        "hottestMonth": "May"
+      },
+      "atmosphericPhenomena": {
+        "en": [
+          "Loo: Intensely hot, dry, dust-laden westerly winds blowing across South and Central Bihar in afternoon hours",
+          "Kalbaisakhi / Norwesters: Violent afternoon thunderstorms bringing localized hail and brief showers, beneficial for mango and litchi crops (Mango Showers)",
+          "Low atmospheric pressure trough developing over the Gangetic plain"
+        ],
+        "hi": [
+          "लू: दोपहर के समय दक्षिण और मध्य बिहार में चलने वाली अत्यधिक गर्म, शुष्क और धूल भरी पछुआ हवाएं",
+          "कालवैशाखी / नॉरवेस्टर: दोपहर के समय आने वाले तीव्र तूफान जो स्थानीय ओलावृष्टि और हल्की वर्षा लाते हैं, जो आम और लीची की फसलों के लिए लाभकारी हैं (आम्र वर्षा)",
+          "गंगा के मैदान पर विकसित होने वाला निम्न वायुदाब गर्त"
+        ]
+      },
+      "description": {
+        "en": "### The Searing Summers\n\nSummers in Bihar boldly begin in March, steadily intensifying to peak sweltering conditions by May.\n\n### Summer Characteristics\n\n* **The Loo Effect:** Blistering, dry western winds known as *Loo* sweep across the plains, dramatically dropping humidity.\n* **Thermal Highs:** Western districts like Gaya and Aurangabad frequently see the mercury crossing **45°C**.\n* **Pre-Monsoon Showers:** Occasional Nor'wester thunderstorms (*Kalbaishakhi*) bring localized relief and violent squalls towards late May.\n\nThe intense heat is a defining challenge for both rural agriculture and urban living.",
+        "hi": "### चिलचिलाती गर्मियां\n\nबिहार में गर्मियां मार्च में साहसपूर्वक शुरू होती हैं, और मई तक चरम चिलचिलाती स्थितियों तक लगातार तीव्र होती हैं।\n\n### गर्मी की विशेषताएं\n\n* **लू का प्रभाव:** *लू* के रूप में जानी जाने वाली तेज़, शुष्क पश्चिमी हवाएँ मैदानों में बहती हैं, जिससे आर्द्रता नाटकीय रूप से कम हो जाती है।\n* **थर्मल हाई:** गया और औरंगाबाद जैसे पश्चिमी जिलों में पारा अक्सर **45°C** को पार कर जाता है।\n* **मानसून पूर्व बौछारें:** कभी-कभार आने वाले काल बैसाखी के तूफान मई के अंत में स्थानीय राहत और तेज़ आंधियां लाते हैं।\n\nतीव्र गर्मी ग्रामीण कृषि और शहरी जीवन दोनों के लिए एक परिभाषित चुनौती है।"
+      },
+      "agriculturalImpact": {
+        "en": "Favourable for harvesting Rabi wheat and pulses, ripening of Muzaffarpur Shahi Litchis and Bhagalpur Zardalu mangoes, but causes severe soil moisture depletion.",
+        "hi": "रबी गेहूं और दलहन की कटाई, मुजफ्फरपुर की शाही लीची और भागलपुर के जर्दालु आम के पकने के लिए अनुकूल, लेकिन मिट्टी की नमी में गंभीर कमी लाता है।"
+      },
+      "bpscRelevance": {
+        "en": "Hottest district of Bihar (Gaya), nature of Loo winds, and economic value of Kalbaisakhi showers.",
+        "hi": "बिहार का सबसे गर्म जिला (गया), लू हवाओं की प्रकृति, और कालवैशाखी वर्षा का आर्थिक महत्व।"
+      }
+    },
+    {
+      "id": "south-west-monsoon",
+      "name": {
+        "en": "South-West Monsoon Season (Varsha Ritu)",
+        "hi": "दक्षिण-पश्चिम मानसून ऋतु (वर्षा ऋतु)"
+      },
+      "period": {
+        "en": "June to September",
+        "hi": "जून से सितंबर"
+      },
+      "shareOfAnnualRainfall": "80% to 85%",
+      "arrivalDate": {
+        "en": "Enters Kishanganj around June 8-12; covers entire state by June 20-25",
+        "hi": "8-12 जून के आसपास किशनगंज में प्रवेश; 20-25 जून तक पूरे राज्य को कवर करता है"
+      },
+      "monsoonBranch": {
+        "en": "Bay of Bengal Branch (major contributor); minor contribution from Arabian Sea Branch",
+        "hi": "बंगाल की खाड़ी शाखा (मुख्य योगदानकर्ता); अरब सागर शाखा का आंशिक योगदान"
+      },
+      "description": {
+        "en": "### The Lifegiving Monsoon\n\nThe **South-West Monsoon** spectacularly arrives by mid-June, forcefully entering through the eastern borders.\n\n### Monsoon Dynamics\n\n* **Bay of Bengal Branch:** The state primarily receives its rainfall from the moisture-laden Bay of Bengal branch of the monsoon.\n* **Agricultural Engine:** This season delivers nearly **80-85%** of Bihar's total annual rainfall, dictating the Kharif sowing season.\n* **Flood Paradox:** While bringing life, the intense downpours also trigger the devastating annual floods in North Bihar.\n\nThe monsoon remains the undisputed master of Bihar's ecological and economic rhythm.",
+        "hi": "### जीवनदायी मानसून\n\n**दक्षिण-पश्चिम मानसून** शानदार ढंग से मध्य जून तक आता है, पूर्वी सीमाओं के माध्यम से बलपूर्वक प्रवेश करता है।\n\n### मानसून की गतिशीलता\n\n* **बंगाल की खाड़ी शाखा:** राज्य मुख्य रूप से मानसून की नमी से भरी बंगाल की खाड़ी शाखा से अपनी वर्षा प्राप्त करता है।\n* **कृषि इंजन:** यह मौसम बिहार की कुल वार्षिक वर्षा का लगभग **80-85%** प्रदान करता है, जो खरीफ बुवाई के मौसम को निर्धारित करता है।\n* **बाढ़ का विरोधाभास:** जीवन लाने के साथ-साथ, तीव्र मूसलाधार बारिश उत्तर बिहार में विनाशकारी वार्षिक बाढ़ को भी जन्म देती है।\n\nमानसून बिहार की पारिस्थितिक और आर्थिक लय का निर्विवाद स्वामी बना हुआ है।"
+      },
+      "keyCharacteristics": {
+        "en": [
+          "Precipitation decreases systematically from east to west and north to south",
+          "Break in Monsoon (Monsoon Trough shifting to Himalayan foothills) leads to dry spells on the plains and devastating flash floods down the Himalayan rivers",
+          "Critical determinant for Kharif paddy transplantation across all 38 districts"
+        ],
+        "hi": [
+          "वर्षा पूर्व से पश्चिम और उत्तर से दक्षिण की ओर व्यवस्थित रूप से घटती है",
+          "मानसून विच्छेद (मानसून ट्रफ का हिमालय की तलहटी की ओर खिसकना) मैदानों में सूखे की स्थिति और हिमालयी नदियों में विनाशकारी बाढ़ लाता है",
+          "सभी 38 जिलों में खरीफ धान की रोपाई के लिए महत्वपूर्ण निर्णायक"
+        ]
+      },
+      "bpscRelevance": {
+        "en": "Date of monsoon entry in Bihar (June 8-12, Kishanganj), dominant monsoon branch (Bay of Bengal), and 'Break in Monsoon' phenomenon.",
+        "hi": "बिहार में मानसून के आगमन की तिथि (8-12 जून, किशनगंज), प्रमुख मानसूनी शाखा (बंगाल की खाड़ी), और 'मानसून विच्छेद' परिघटना।"
+      }
+    },
+    {
+      "id": "retreating-monsoon-season",
+      "name": {
+        "en": "Retreating Monsoon Season (Sharad Ritu)",
+        "hi": "मानसून निवर्तन ऋतु (शरद ऋतु)"
+      },
+      "period": {
+        "en": "October to November",
+        "hi": "अक्टूबर से नवंबर"
+      },
+      "temperatureCelsius": {
+        "daytimeMax": 30,
+        "nighttimeMin": 18
+      },
+      "description": {
+        "en": "### The Season of Transition\n\nDuring October and November, Bihar experiences the **Retreating Monsoon**, a serene transitional phase.\n\n### Transitional Features\n\n* **Hathiya Rains:** The crucial late-season *Hathiya* showers are highly anticipated, as they are essential for preparing the soil for winter crops.\n* **Cyclonic Disturbances:** Occasional post-monsoon cyclones from the Bay of Bengal can cause sudden, unseasonal downpours.\n* **Clear Skies:** As November approaches, humidity drops, and the skies become brilliantly clear and crisp.\n\nThis season beautifully hosts Bihar's greatest cultural festival, **Chhath Puja**, perfectly aligned with the receding waters.",
+        "hi": "### परिवर्तन का मौसम\n\nअक्टूबर और नवंबर के दौरान, बिहार **लौटते मानसून** का अनुभव करता है, जो एक शांत संक्रमणकालीन चरण है।\n\n### संक्रमणकालीन विशेषताएं\n\n* **हथिया की बारिश:** महत्वपूर्ण अंतिम मौसम की *हथिया* बौछारों का अत्यधिक अनुमान लगाया जाता है, क्योंकि वे सर्दियों की फसलों के लिए मिट्टी तैयार करने के लिए आवश्यक हैं।\n* **चक्रवाती विक्षोभ:** बंगाल की खाड़ी से आने वाले कभी-कभार मानसून के बाद के चक्रवात अचानक, बेमौसम बारिश का कारण बन सकते हैं।\n* **साफ़ आसमान:** जैसे-जैसे नवंबर आता है, आर्द्रता कम हो जाती है, और आसमान शानदार ढंग से साफ़ और स्पष्ट हो जाता है।\n\nयह मौसम खूबसूरती से बिहार के सबसे महान सांस्कृतिक त्योहार, **छठ पूजा** की मेजबानी करता है, जो घटते पानी के साथ पूरी तरह से मेल खाता है।"
+      },
+      "significance": {
+        "en": "Celebration of Bihar's paramount festivals: Durga Puja, Diwali, and Chhath Puja in calm, crystal-clear autumnal weather; critical Hathiya rains ensure optimal rabi crop moisture.",
+        "hi": "शांत, निर्मल शरद ऋतु के मौसम में बिहार के सर्वोच्च त्योहारों—दुर्गा पूजा, दिवाली और छठ पूजा—का उत्सव; महत्वपूर्ण हथिया नक्षत्र की वर्षा रबी फसल के लिए इष्टतम नमी सुनिश्चित करती है।"
+      },
+      "bpscRelevance": {
+        "en": "Significance of 'Hathiya' rainfall in traditional Bihar agriculture and month of monsoon withdrawal (early October).",
+        "hi": "पारंपरिक बिहार कृषि में 'हथिया' वर्षा का महत्व और मानसून वापसी का महीना (अक्टूबर की शुरुआत)।"
+      }
+    },
+    {
+      "id": "cold-winter-season",
+      "name": {
+        "en": "Cold Winter Season (Shishir Ritu)",
+        "hi": "शीत ऋतु (सर्दी का मौसम)"
+      },
+      "period": {
+        "en": "December to February",
+        "hi": "दिसंबर से फरवरी"
+      },
+      "temperatureCelsius": {
+        "meanMin": 9,
+        "extremeMin": "3 to 6 in Gaya, Patna, and West Champaran",
+        "coldestMonth": "January"
+      },
+      "atmosphericPhenomena": {
+        "en": [
+          "Western Disturbances: Temperate Mediterranean depressions traversing northern India bringing 20-40 mm of light winter rain (Mahawat)",
+          "Cold Waves (Sheet Lahar): Cold continental winds dropping minimum temperatures below 4°C",
+          "Dense Radiation Fog (Kuhasa) disrupting transport and aviation across the Gangetic plains"
+        ],
+        "hi": [
+          "पश्चिमी विक्षोभ: उत्तरी भारत से गुजरने वाले शीतोष्ण भूमध्यसागरीय गर्त जो 20-40 मिमी हल्की शीतकालीन वर्षा (माहवट) लाते हैं",
+          "शीत लहर: ठंडी महाद्वीपीय हवाएं जो न्यूनतम तापमान को 4 डिग्री सेल्सियस से नीचे ला देती हैं",
+          "घना विकिरण कोहरा (कुहासा) जो पूरे गंगा मैदान में परिवहन और विमानन को बाधित करता है"
+        ]
+      },
+      "description": {
+        "en": "### The Crisp Winters\n\nWinter sets in firmly by early December and lasts until mid-February, blanketing the state in a deep chill.\n\n### Winter Traits\n\n* **Temperature Drops:** January represents the coldest month, with minimum temperatures in places like Gaya plunging down to **4-5°C**.\n* **Western Disturbances:** Mild winter rains brought by Mediterranean western disturbances provide a vital boost to the **Rabi wheat crop**.\n* **Dense Fog:** Persistent morning fog is common, severely impacting transport networks across the Gangetic plains.\n\nThe winter sun and the resulting agricultural bounty make this a vital season for rural Bihar.",
+        "hi": "### कड़ाके की सर्दियाँ\n\nसर्दियां दिसंबर की शुरुआत तक मजबूती से स्थापित हो जाती हैं और फरवरी के मध्य तक चलती हैं, जिससे राज्य में गहरी ठंड छा जाती है।\n\n### सर्दियों के लक्षण\n\n* **तापमान में गिरावट:** जनवरी सबसे ठंडा महीना है, जिसमें गया जैसी जगहों पर न्यूनतम तापमान **4-5°C** तक गिर जाता है।\n* **पश्चिमी विक्षोभ:** भूमध्यसागरीय पश्चिमी विक्षोभ द्वारा लाई गई हल्की सर्दियों की बारिश **रबी गेहूं की फसल** को एक महत्वपूर्ण बढ़ावा देती है।\n* **घना कोहरा:** लगातार सुबह का कोहरा आम है, जो गंगा के मैदानों में परिवहन नेटवर्क को गंभीर रूप से प्रभावित करता है।\n\nसर्दियों की धूप और परिणामी कृषि प्रचुरता इसे ग्रामीण बिहार के लिए एक महत्वपूर्ण मौसम बनाती है।"
+      },
+      "agriculturalImpact": {
+        "en": "Ideal conditions for Rabi crops (wheat, mustard, potato, lentil, gram); Mahawat showers provide free nitrogen and moisture without irrigation costs.",
+        "hi": "रबी फसलों (गेहूं, सरसों, आलू, मसूर, चना) के लिए आदर्श स्थिति; माहवट की बारिश बिना सिंचाई लागत के फसलों को नमी प्रदान करती है।"
+      },
+      "bpscRelevance": {
+        "en": "Coldest district (Gaya), role of Western Disturbances, and agricultural value of 'Mahawat' showers.",
+        "hi": "सबसे ठंडा जिला (गया), पश्चिमी विक्षोभों की भूमिका, और 'माहवट' वर्षा का कृषि महत्व।"
+      }
+    },
+    {
+      "id": "rainfall-distribution-patterns",
+      "name": {
+        "en": "Spatial Rainfall Distribution in Bihar",
+        "hi": "बिहार में स्थानिक वर्षा वितरण"
+      },
+      "patternType": {
+        "en": "East-to-West and North-to-South Decreasing Gradient",
+        "hi": "पूर्व-से-पश्चिम और उत्तर-से-दक्षिण घटती प्रवणता"
+      },
+      "highestRainfallDistrict": {
+        "districtId": "kishanganj",
+        "name": {
+          "en": "Kishanganj",
+          "hi": "किशनगंज"
+        },
+        "annualRainfallMm": "1,800 to 2,129 mm"
+      },
+      "lowestRainfallDistrict": {
+        "districtId": "aurangabad",
+        "name": {
+          "en": "Aurangabad / Arwal",
+          "hi": "औरंगाबाद / अरवल"
+        },
+        "annualRainfallMm": "700 to 850 mm"
+      },
+      "rainfallZones": {
+        "en": [
+          "Heavy Rainfall Belt (>1,400 mm): Kishanganj, Araria, Purnia, West Champaran foothills",
+          "Moderate Rainfall Belt (1,000 - 1,400 mm): Madhubani, Darbhanga, Samastipur, Muzaffarpur, Saharsa, Supaul, Katihar",
+          "Low Rainfall Belt (<1,000 mm): Patna, Nalanda, Gaya, Aurangabad, Rohtas, Kaimur, Buxar, Bhojpur"
+        ],
+        "hi": [
+          "अत्यधिक वर्षा पेटी (>1,400 मिमी): किशनगंज, अररिया, पूर्णिया, पश्चिमी चंपारण की तलहटी",
+          "मध्यम वर्षा पेटी (1,000 - 1,400 मिमी): मधुबनी, दरभंगा, समस्तीपुर, मुजफ्फरपुर, सहरसा, सुपौल, कटिहार",
+          "कम वर्षा पेटी (<1,000 मिमी): पटना, नालंदा, गया, औरंगाबाद, रोहतास, कैमूर, बक्सर, भोजपुर"
+        ]
+      },
+      "description": {
+        "en": "### The Rainfall Gradient\n\nRainfall in Bihar displays a profound and distinct geographical gradient, deeply impacting cropping patterns.\n\n### Spatial Distribution\n\n* **The Wet East:** The north-eastern corner, particularly **Kishanganj**, acts as the wettest region, receiving over **1,800 mm** annually.\n* **Decreasing Trend:** Rainfall steadily and predictably decreases as one moves from east to west and from north to south.\n* **The Dry West:** Western districts like Buxar and Rohtas lie in the rain-shadow periphery, receiving just around **1,000 mm**.\n\nUnderstanding this gradient is critical for the state's irrigation planning and drought mitigation strategies.",
+        "hi": "### वर्षा ढाल\n\nबिहार में वर्षा एक गहरा और विशिष्ट भौगोलिक ढाल प्रदर्शित करती है, जो फसल पैटर्न को गहराई से प्रभावित करती है।\n\n### स्थानिक वितरण\n\n* **नम पूर्व:** उत्तर-पूर्वी कोना, विशेष रूप से **किशनगंज**, सबसे नम क्षेत्र के रूप में कार्य करता है, जो प्रतिवर्ष **1,800 मिमी** से अधिक वर्षा प्राप्त करता है।\n* **घटती प्रवृत्ति:** जैसे-जैसे कोई पूर्व से पश्चिम और उत्तर से दक्षिण की ओर बढ़ता है, वर्षा लगातार और अनुमानित रूप से कम होती जाती है।\n* **शुष्क पश्चिम:** बक्सर और रोहतास जैसे पश्चिमी जिले वृष्टि-छाया परिधि में स्थित हैं, जो केवल लगभग **1,000 मिमी** प्राप्त करते हैं।\n\nराज्य की सिंचाई योजना और सूखा शमन रणनीतियों के लिए इस ढाल को समझना महत्वपूर्ण है।"
+      },
+      "bpscRelevance": {
+        "en": "Direct factual question in nearly every BPSC exam: Wettest district of Bihar (Kishanganj) vs driest district (Aurangabad/Arwal).",
+        "hi": "लगभग हर BPSC परीक्षा में सीधा तथ्यात्मक प्रश्न: बिहार का सबसे अधिक वर्षा वाला जिला (किशनगंज) बनाम सबसे कम वर्षा वाला जिला (औरंगाबाद/अरवल)।"
+      }
+    },
+    {
+      "id": "agro-climatic-zone-1",
+      "name": {
+        "en": "Agro-Climatic Zone I: North-West Alluvial Plain",
+        "hi": "कृषि-जलवायु क्षेत्र I: उत्तर-पश्चिम जलोढ़ मैदान"
+      },
+      "subType": {
+        "en": "Sub-Humid Alluvial Plain",
+        "hi": "उप-आर्द्र जलोढ़ मैदान"
+      },
+      "numberOfDistricts": 13,
+      "districts": [
+        "west-champaran",
+        "east-champaran",
+        "saran",
+        "siwan",
+        "gopalganj",
+        "muzaffarpur",
+        "sitamarhi",
+        "sheohar",
+        "vaishali",
+        "darbhanga",
+        "madhubani",
+        "samastipur",
+        "begusarai"
+      ],
+      "annualRainfallMm": "1,040 to 1,450 mm",
+      "soilType": {
+        "en": "Calcareous alluvial, sandy loam to clayey loam, alkaline with free CaCO3",
+        "hi": "चूनायुक्त जलोढ़, बलुई दोमट से मटियार दोमट, मुक्त CaCO3 के साथ क्षारीय"
+      },
+      "keyCrops": {
+        "en": [
+          "Sugarcane",
+          "Rice",
+          "Wheat",
+          "Maize",
+          "Shahi Litchi",
+          "Tobacco",
+          "Turmeric"
+        ],
+        "hi": [
+          "गन्ना",
+          "चावल",
+          "गेहूं",
+          "मक्का",
+          "शाही लीची",
+          "तंबाकू",
+          "हल्दी"
+        ]
+      },
+      "description": {
+        "en": "### Agro-Climatic Zone I (North-West)\n\n**Agro-Climatic Zone I** represents the vast, flood-prone alluvial expanse of North-Western Bihar.\n\n### Zone Profile\n\n* **Rich Alluvium:** Benefiting from the Gandak and Kosi rivers, the soils here are incredibly deep, moist, and calcareous.\n* **Cropping Focus:** It serves as a prime region for high-yield sugarcane, maize, and robust paddy cultivation.\n* **Vulnerability:** The region constantly battles the dual threats of waterlogging and aggressive annual flooding.\n\nThis zone requires resilient farming techniques to harness its immense fertile potential against regular inundations.",
+        "hi": "### कृषि-जलवायु क्षेत्र I (उत्तर-पश्चिम)\n\n**कृषि-जलवायु क्षेत्र I** उत्तर-पश्चिमी बिहार के विशाल, बाढ़-प्रवण जलोढ़ विस्तार का प्रतिनिधित्व करता है।\n\n### क्षेत्र प्रोफ़ाइल\n\n* **समृद्ध जलोढ़:** गंडक और कोसी नदियों से लाभान्वित, यहाँ की मिट्टी अविश्वसनीय रूप से गहरी, नम और चूनेदार है।\n* **फसल का फोकस:** यह उच्च उपज वाले गन्ने, मक्का और मजबूत धान की खेती के लिए एक प्रमुख क्षेत्र के रूप में कार्य करता है।\n* **भेद्यता:** यह क्षेत्र जलभराव और आक्रामक वार्षिक बाढ़ के दोहरे खतरों से लगातार जूझता है।\n\nनियमित बाढ़ के खिलाफ इसकी विशाल उपजाऊ क्षमता का दोहन करने के लिए इस क्षेत्र को लचीली कृषि तकनीकों की आवश्यकता है।"
+      },
+      "bpscRelevance": {
+        "en": "Crucial for agricultural geography: Total districts in Zone I (13), soil reaction (alkaline/calcareous), and primary cash crop (sugarcane/litchi).",
+        "hi": "कृषि भूगोल के लिए अत्यंत महत्वपूर्ण: जोन I में कुल जिले (13), मिट्टी की प्रकृति (क्षारीय/चूनायुक्त), और प्रमुख नकदी फसलें (गन्ना/लीची)।"
+      }
+    },
+    {
+      "id": "agro-climatic-zone-2",
+      "name": {
+        "en": "Agro-Climatic Zone II: North-East Alluvial Plain",
+        "hi": "कृषि-जलवायु क्षेत्र II: उत्तर-पूर्व जलोढ़ मैदान"
+      },
+      "subType": {
+        "en": "Humid to Per-Humid Flood-Prone Plain",
+        "hi": "आर्द्र से अति-आर्द्र बाढ़-प्रवण मैदान"
+      },
+      "numberOfDistricts": 8,
+      "districts": [
+        "purnia",
+        "katihar",
+        "saharsa",
+        "supaul",
+        "madhepura",
+        "araria",
+        "kishanganj",
+        "khagaria"
+      ],
+      "annualRainfallMm": "1,200 to 1,700 mm (highest in Bihar)",
+      "soilType": {
+        "en": "Non-calcareous, sandy loam, acidic to neutral, light textured, high organic carbon",
+        "hi": "गैर-चूनायुक्त, बलुई दोमट, अम्लीय से तटस्थ, हल्की बनावट, उच्च जैविक कार्बन"
+      },
+      "keyCrops": {
+        "en": [
+          "Jute",
+          "Mesta",
+          "Makhana (Foxnut)",
+          "Maize",
+          "Paddy",
+          "Pineapple",
+          "Tea"
+        ],
+        "hi": [
+          "जूट",
+          "मेस्टा",
+          "मखाना",
+          "मक्का",
+          "धान",
+          "अनानास",
+          "चाय"
+        ]
+      },
+      "description": {
+        "en": "### Agro-Climatic Zone II (North-East)\n\n**Zone II** comprises the highly humid, rain-drenched north-eastern districts, heavily influenced by the retreating Himalayas and Bengal storms.\n\n### Zone Profile\n\n* **High Precipitation:** With the highest rainfall in the state, it creates distinct acidic to neutral Terai soils.\n* **Unique Crops:** The abundance of moisture makes it the exclusive domain for **jute** and emerging **tea estates**.\n* **Makhana Hub:** It is globally renowned for its extensive wetland cultivation of Foxnut (*Makhana*).\n\nIts wet ecology makes it a unique botanical and agricultural pocket within Bihar.",
+        "hi": "### कृषि-जलवायु क्षेत्र II (उत्तर-पूर्व)\n\n**क्षेत्र II** में अत्यधिक आर्द्र, बारिश से भीगे उत्तर-पूर्वी जिले शामिल हैं, जो पीछे हटने वाले हिमालय और बंगाल के तूफानों से काफी प्रभावित हैं।\n\n### क्षेत्र प्रोफ़ाइल\n\n* **उच्च वर्षा:** राज्य में सबसे अधिक वर्षा के साथ, यह विशिष्ट अम्लीय से तटस्थ तराई मिट्टी बनाता है।\n* **अनूठी फसलें:** नमी की प्रचुरता इसे **जूट** और उभरते **चाय बागानों** का विशेष क्षेत्र बनाती है।\n* **मखाना हब:** यह फॉक्सनट (*मखाना*) की व्यापक आर्द्रभूमि खेती के लिए विश्व स्तर पर प्रसिद्ध है।\n\nइसकी नम पारिस्थितिकी इसे बिहार के भीतर एक अद्वितीय वनस्पति और कृषि क्षेत्र बनाती है।"
+      },
+      "bpscRelevance": {
+        "en": "Number of districts in Zone II (8), major crops (Jute, Makhana, Maize), and acidic soil characteristic.",
+        "hi": "जोन II में जिलों की संख्या (8), प्रमुख फसलें (जूट, मखाना, मक्का), और अम्लीय मिट्टी की विशेषता।"
+      }
+    },
+    {
+      "id": "agro-climatic-zone-3",
+      "name": {
+        "en": "Agro-Climatic Zone III: South Bihar Alluvial Plain",
+        "hi": "कृषि-जलवायु क्षेत्र III: दक्षिण बिहार जलोढ़ मैदान"
+      },
+      "subType": {
+        "en": "Semi-Arid to Dry Sub-Humid Plain",
+        "hi": "अर्ध-शुष्क से शुष्क उप-आर्द्र मैदान"
+      },
+      "numberOfDistricts": 17,
+      "subZones": {
+        "en": "Zone IIIA (South-East, 6 districts: Bhagalpur, Banka, Munger, Lakhisarai, Sheikhpura, Jamui) and Zone IIIB (South-West, 11 districts: Patna, Nalanda, Bhojpur, Buxar, Rohtas, Kaimur, Gaya, Jehanabad, Arwal, Aurangabad, Nawada)",
+        "hi": "जोन IIIA (दक्षिण-पूर्व, 6 जिले: भागलपुर, बांका, मुंगेर, लखीसराय, शेखपुरा, जमुई) और जोन IIIB (दक्षिण-पश्चिम, 11 जिले: पटना, नालंदा, भोजपुर, बक्सर, रोहतास, कैमूर, गया, जहानाबाद, अरवल, औरंगाबाद, नवादा)"
+      },
+      "annualRainfallMm": "990 to 1,240 mm (low and variable)",
+      "soilType": {
+        "en": "Old alluvium (Karail-Kewal), heavy clay, high water retention, neutral to mildly alkaline",
+        "hi": "पुरानी जलोढ़ (कराइल-केवल), भारी मटियार, उच्च जल धारण क्षमता, तटस्थ से हल्की क्षारीय"
+      },
+      "keyCrops": {
+        "en": [
+          "Rice",
+          "Wheat",
+          "Gram (Chana)",
+          "Lentil (Masur)",
+          "Mustard",
+          "Magahi Paan",
+          "Katarni Rice"
+        ],
+        "hi": [
+          "चावल",
+          "गेहूं",
+          "चना",
+          "मसूर",
+          "सरसों",
+          "मगही पान",
+          "कतरनी चावल"
+        ]
+      },
+      "description": {
+        "en": "### Agro-Climatic Zone III (South Bihar)\n\n**Zone III** covers the entirety of the Gangetic plains south of the Ganga, distinctly contrasting its northern counterparts.\n\n### Zone Profile\n\n* **Rainfall Deficit:** It is markedly drier, heavily relying on ancient and modern canal irrigation networks.\n* **Soil Diversity:** The soils range from heavy clay in the Tal regions to reddish sandy soils near the plateau fringe.\n* **Pulse and Wheat Bowl:** This zone is celebrated for its outstanding winter *Rabi* crops, particularly pulses and premium wheat.\n\nIts agrarian success is a testament to sophisticated irrigation and resilient traditional farming methods.",
+        "hi": "### कृषि-जलवायु क्षेत्र III (दक्षिण बिहार)\n\n**क्षेत्र III** गंगा के दक्षिण में संपूर्ण गंगा के मैदानों को कवर करता है, जो अपने उत्तरी समकक्षों के बिल्कुल विपरीत है।\n\n### क्षेत्र प्रोफ़ाइल\n\n* **वर्षा की कमी:** यह स्पष्ट रूप से शुष्क है, जो प्राचीन और आधुनिक नहर सिंचाई नेटवर्क पर बहुत अधिक निर्भर है।\n* **मिट्टी की विविधता:** मिट्टी टाल क्षेत्रों में भारी चिकनी मिट्टी से लेकर पठार के किनारे लाल रेतीली मिट्टी तक होती है।\n* **दलहन और गेहूं का कटोरा:** यह क्षेत्र अपनी उत्कृष्ट शीतकालीन *रबी* फसलों, विशेष रूप से दलहन और प्रीमियम गेहूं के लिए मनाया जाता है।\n\nइसकी कृषि सफलता परिष्कृत सिंचाई और लचीले पारंपरिक खेती के तरीकों का प्रमाण है।"
+      },
+      "bpscRelevance": {
+        "en": "Total districts in Zone III (17), subdivision into IIIA and IIIB, and pulse bowl of Mokama Tal.",
+        "hi": "जोन III में कुल जिले (17), IIIA और IIIB में उप-विभाजन, और मोकामा टाल का दलहन कटोरा।"
+      }
+    }
+  ]
+}

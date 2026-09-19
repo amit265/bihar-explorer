@@ -1,0 +1,939 @@
+[
+  {
+    "id": "mundeshwari-temple",
+    "slug": "mundeshwari-temple",
+    "name": {
+      "en": "Mundeshwari Devi Temple",
+      "hi": "माँ मुंडेश्वरी देवी मंदिर"
+    },
+    "districtId": "kaimur",
+    "placeType": "temple",
+    "primaryCategory": "religious",
+    "categories": [
+      "religious",
+      "historical",
+      "archaeological",
+      "cultural"
+    ],
+    "subcategories": [
+      "pilgrimage",
+      "ancient_shrine",
+      "heritage_monument",
+      "hilltop_temple"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "spiritual_circuit",
+      "heritage_circuit",
+      "eco_circuit",
+      "shiva_circuit"
+    ],
+    "tags": [
+      "mustVisit",
+      "ancientTemple",
+      "shaktiPeeth",
+      "nagaraStyle",
+      "bloodlessSacrifice",
+      "panoramicViews"
+    ],
+    "audiences": [
+      "pilgrims",
+      "families",
+      "history_buffs",
+      "photographers",
+      "culture_enthusiasts"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "Celebrated by the ASI as the oldest functioning Hindu temple in India, perched atop the scenic Pavra hill.",
+      "hi": "भारतीय पुरातत्व सर्वेक्षण द्वारा प्रमाणित भारत का सबसे प्राचीन निरंतर कार्यशील हिंदू मंदिर, जो सुरम्य पंवरा पहाड़ी पर स्थित है।"
+    },
+    "description": {
+      "en": "Perched majestically atop the verdant **Pavra Hill** (Mundeshwari Hill) at an elevation of approximately 600 feet (183 meters) above sea level in the Kaimur district of Bihar, the **Mundeshwari Devi Temple** is an awe-inspiring architectural marvel and one of the most revered sanctuaries of ancient India. Widely authenticated by the Archaeological Survey of India (ASI) as the oldest functioning Hindu temple in the country, this sacred edifice has witnessed unbroken rituals and devotional worship for nearly two millennia.\n\nThe temple captivates pilgrims, historians, and art connoisseurs through its extraordinary attributes:\n- **Rare Octagonal Ground Plan**: Constructed entirely of carved sandstone following a distinctive octagonal (Ashtasra) architectural layout, a profound rarity among early Nagara-style stone temples.\n- **Sanctum of Dual Divinity**: Houses a rare and enigmatic four-faced **Mukhalingam** (Lord Shiva) alongside the primary enshrined deity, the ten-armed Mother Goddess **Maa Mundeshwari** mounted upon a water buffalo (Mahishasuramardini iconography).\n- **Exquisite Gupta-Era Masonry**: Intricately carved lattice stone windows, ornate door jambs bearing divine dwarapalas, and floral scroll friezes displaying classical Gupta artistic mastery.\n- **Enchanting Hilltop Panorama**: Offers sweeping panoramic vistas of the surrounding Kaimur valleys, deciduous woodlands, and agricultural plains below.\n\nA visit to this hill shrine offers both a transcendent spiritual pilgrimage and an enriching rendezvous with India's deep archaeological heritage.",
+      "hi": "बिहार के कैमूर जिले में समुद्र तल से लगभग 600 फीट (183 मीटर) की ऊंचाई पर स्थित हरी-भरी **पंवरा पहाड़ी** (मुंडेश्वरी पहाड़ी) के शिखर पर विराजमान **माँ मुंडेश्वरी देवी मंदिर** प्राचीन भारत का एक विस्मयकारी स्थापत्य चमत्कार और परम पावन आध्यात्मिक तीर्थ है। भारतीय पुरातत्व सर्वेक्षण (ASI) द्वारा आधिकारिक तौर पर भारत के प्राचीनतम निरंतर कार्यशील हिंदू मंदिर के रूप में प्रमाणित, इस पावन धाम में पिछले लगभग दो हजार वर्षों से दैनिक पूजा-अर्चना और धार्मिक अनुष्ठानों की अविरल परंपरा बिना किसी व्यवधान के जारी है।\n\nयह अद्वितीय पाषाण देवालय श्रद्धालुओं, इतिहासकारों और पुरातत्व प्रेमियों को निम्नलिखित विशेषताओं से मंत्रमुग्ध करता है:\n- **दुर्लभ अष्टकोणीय वास्तुकला**: लाल बलुआ पत्थर से निर्मित यह मंदिर एक अत्यंत दुर्लभ अष्टकोणीय (अष्टस्र) भू-योजना पर आधारित है, जो प्रारंभिक नागर शैली की वास्तुकला में अनूठी मानी जाती है।\n- **शैव एवं शाक्त परंपरा का दिव्य संगम**: गर्भगृह के केंद्र में भगवान शिव का अलौकिक चतुर्मुखी **मुखलिंगम** स्थापित है, जबकि मुख्य वेदी पर महिषवाहिनी दसभुजी भगवती **माँ मुंडेश्वरी** की दिव्य पाषाण प्रतिमा सुशोभित है।\n- **शास्त्रीय गुप्तकालीन नक्काशी**: मंदिर के प्रवेश द्वार, तोरण, अलंकृत द्वारपाल, जालियों और स्तंभों पर उत्कीर्ण सूक्ष्म मूर्तियां गुप्त काल की बेजोड़ मूर्तिकला का साक्षात दर्शन कराती हैं।\n- **विहंगम प्राकृतिक परिदृश्य**: पहाड़ी की चोटी से कैमूर पर्वतमाला की हरी-भरी घाटियों, जंगलों और विस्तृत मैदानों का मनोरम विहंगम दृश्य दिखाई देता है।\n\nयहाँ की यात्रा हर आगंतुक को अलौकिक आत्मिक शांति, श्रद्धा और भारतीय इतिहास की असीम गहराई का दिव्य अनुभव प्रदान करती है।"
+    },
+    "history": {
+      "en": "The historical lineage of the **Mundeshwari Temple** is anchored by formidable epigraphic and archaeological discoveries that place its foundation in the early centuries of the Common Era. A crucial Sanskrit inscription discovered at the site, dated to the year 30 of an ancient calendar (correlated by scholars to either **108 CE** during the Saka Kshatrapa era or **343 CE** under the Imperial Guptas), explicitly mentions the construction of the shrine during the reign of local ruler **Mahasamanta Mahapratihara Gomitra**.\n\nHistorical chronicles and archaeological milestones highlight its multifaceted spiritual evolution:\n- **Vaishnava Origins & Shaiva Synthesis**: Epigraphs record that the temple was initially consecrated under the name of *Mandaleshvara* or *Viniteshvara*, primarily dedicated to Lord Vishnu and Lord Shiva, reflecting early syncretic Hindu theology.\n- **Emergence of Shakta Worship**: Over the succeeding centuries, the ferocious yet benevolent mother aspect of Shakti as **Maa Mundeshwari** emerged as the preeminent presiding deity, giving the sacred hill its modern identity.\n- **Classical Gupta Imperial Patronage**: Architectural fragments, fluted pillars, and intricate gavaksha motifs confirm extensive patronage and structural enhancements during the golden age of the Gupta Empire (4th to 6th century CE).\n- **ASI Conservation & Global Acclaim**: Rediscovered for modern scholarship by British surveyor Francis Buchanan-Hamilton in 1812 and subsequently surveyed by Alexander Cunningham, the monument is meticulously safeguarded today as a protected site of national significance by the Archaeological Survey of India.",
+      "hi": "**मुंडेश्वरी देवी मंदिर** की ऐतिहासिक वंशावली सुदृढ़ अभिलेखीय और पुरातात्विक साक्ष्यों पर आधारित है, जो इसकी स्थापना को ईसा की प्रारंभिक शताब्दियों में प्रमाणित करते हैं। मंदिर परिसर से प्राप्त एक अत्यंत महत्वपूर्ण संस्कृत शिलालेख, जो संवत 30 (विद्वानों के अनुसार **108 ईस्वी** शक क्षत्रप काल अथवा **343 ईस्वी** गुप्त काल) का है, यह स्पष्ट उल्लेख करता है कि इस पावन देवालय का निर्माण स्थानीय शासक **महासामंत महाप्रतिहार गोमित्र** के शासनकाल में हुआ था।\n\nइतिहास और पुरातत्व के मुख्य मील के पत्थर मंदिर के क्रमिक विकास को दर्शाते हैं:\n- **वैष्णव एवं शैव परंपरा की उत्पत्ति**: शिलालेखों के अनुसार यह मंदिर आरंभ में *मंडलेश्वर* अथवा *विनीतेश्वर* के रूप में भगवान नारायण (विष्णु) और भगवान शिव को समर्पित था, जो आरंभिक हिंदू धर्म के समन्वयवादी स्वरूप को प्रकट करता है।\n- **शाक्त भक्ति का अभ्युदय**: कालांतर में यहाँ शक्ति स्वरूपा देवी की उपासना प्रमुख हो गई और महिषासुरमर्दिनी स्वरूप में **माँ मुंडेश्वरी** मुख्य अधिष्ठात्री देवी के रूप में पूजित हुईं, जिनसे इस पहाड़ी को नाम मिला।\n- **गुप्त साम्राज्य का स्वर्णकाल**: मंदिर की अलंकृत चौखटें, गंगा-यमुना की नक्काशीदार प्रतिमाएं और स्तंभों की बनावट स्पष्ट करती है कि 4थी से 6वीं शताब्दी के दौरान गुप्त साम्राज्य के संरक्षण में इसका भव्य विस्तार हुआ था।\n- **पुरातात्विक संरक्षण**: वर्ष 1812 में ब्रिटिश सर्वेक्षक फ्रांसिस बुकानन-हैमिल्टन और बाद में सर अलेक्जेंडर कनिंघम द्वारा प्रकाश में लाए जाने के बाद, वर्तमान में भारतीय पुरातत्व सर्वेक्षण (ASI) इस अमूल्य राष्ट्रीय स्मारक का संरक्षण अत्यंत निष्ठापूर्वक कर रहा है।"
+    },
+    "significance": {
+      "en": "The cultural, theological, and architectural significance of **Mundeshwari Temple** is virtually unmatched in the annals of Indian civilization, serving as a living bridge spanning ancient Vedic traditions and contemporary devotional practices:\n\n- **Oldest Continuously Operating Temple**: Certified by international archaeological authorities and the ASI as the oldest functioning Hindu temple in the world, where unbroken morning and evening rituals have been performed continuously across two millennia.\n- **Miraculous Ahimsa (Bloodless) Ritual**: The temple is globally celebrated for its unique and humane sacrificial custom. During the offering to the Mother Goddess, a live male goat is brought before the sanctum; the priest recites sacred Vedic mantras and sprinkles sanctified rice grains (*akshat*) over the animal, causing it to fall instantly into an unconscious trance without any bloodshed or physical injury. Following the rituals, sanctified water is sprinkled, reviving the goat immediately, after which it is released unharmed.\n- **Architectural Benchmark**: Represents an indispensable prototype of early Nagara temple engineering, demonstrating the mastery of octagonal stone interlocking without mortar.\n- **Major Pilgrimage Congregation**: Serves as the spiritual heartbeat of Kaimur, drawing millions of fervent devotees annually during the auspicious festivals of **Chaitra Navratri**, **Sharadiya Navratri**, and **Mahashivaratri**.",
+      "hi": "**मुंडेश्वरी देवी मंदिर** का धार्मिक, सांस्कृतिक और स्थापत्य महत्व भारतीय सभ्यता के इतिहास में अतुलनीय है, जो प्राचीन वैदिक युग और आधुनिक उपासना पद्धतियों के बीच एक जीवंत और अटूट सेतु का कार्य करता है:\n\n- **विश्व का प्राचीनतम जीवित देवालय**: अंतरराष्ट्रीय पुरातत्वविदों और भारतीय पुरातत्व सर्वेक्षण (ASI) द्वारा मान्यता प्राप्त यह विश्व का सबसे पुराना निरंतर संचालित हिंदू मंदिर है, जहाँ सदियों के उथल-पुथल के बावजूद लगभग 2000 वर्षों से प्रातःकालीन और संध्याकालीन आरती की परंपरा अखंडित रही है।\n- **चमत्कारी अहिंसक 'रक्तहीन' बलि परंपरा**: यह मंदिर अपनी दयालु और अद्वितीय अहिंसक बलि प्रथा के लिए संपूर्ण विश्व में विख्यात है। यहाँ माँ भगवती के चरणों में बकरे की बलि दी जाती है, परंतु किसी प्रकार का रक्तपात या हिंसा नहीं होती। पुजारी द्वारा वैदिक मंत्रोच्चार के साथ अभिमंत्रित अक्षत (चावल) छिड़कते ही बकरा अचेत होकर गिर पड़ता है। पूजा संपन्न होने के पश्चात गंगाजल छिड़कते ही वह पुनः स्वस्थ होकर खड़ा हो जाता है और उसे सकुशल मुक्त कर दिया जाता है।\n- **स्थापत्य कला का अनुपम प्रतिमान**: बिना चूने या गारे के केवल पत्थरों के खांचों को जोड़कर बनाई गई अष्टकोणीय नागर शैली की यह संरचना प्राचीन भारतीय वास्तुशिल्प का अद्भुत शिखर है।\n- **महापर्वों का पावन केंद्र**: यह पवित्र धाम कैमूर अंचल का सबसे बड़ा आस्था केंद्र है, जहाँ प्रतिवर्ष **चैत्र नवरात्रि**, **शारदीय नवरात्रि** और **महाशिवरात्रि** पर देश भर से लाखों श्रद्धालु शीश नवाने आते हैं।"
+    },
+    "location": {
+      "address": {
+        "en": "Mundeshwari Devi Temple Archaeological Complex, Pavra Hill Summit, Village Ramgarh, Bhagwanpur Block, Kaimur (Bhabua) District, Bihar 821102, India. Geographically nestled in the southwestern quadrant of Bihar along the historic Kaimur hill range, this sacred monument stands elevated at approximately 600 feet above the surrounding countryside. The temple complex is located about 14 kilometers south of the district headquarters town of Bhabua and roughly 26 kilometers south of the Mohania junction on National Highway 19 (Grand Trunk Road). The regional connectivity is outstanding, with regular state transport buses, hired jeeps, and private taxis operating from Varanasi (approximately 85 kilometers west) and Patna (approximately 210 kilometers northeast). Visitors ascend the hill via well-paved motorable roads that reach midway up the ridge, followed by a wide, well-maintained stone staircase and ramp system lined with scenic lookout pavilions, shaded shelters, and pilgrim amenities.",
+        "hi": "माँ मुंडेश्वरी देवी मंदिर पुरातात्विक परिसर, पंवरा पहाड़ी शिखर, ग्राम रामगढ़, भगवानपुर प्रखंड, कैमूर (भभुआ) जिला, बिहार 821102, भारत। दक्षिण-पश्चिमी बिहार के कैमूर पठार की सुरम्य पर्वत श्रृंखलाओं के बीच स्थित यह ऐतिहासिक और पावन स्थल समुद्र तल से लगभग 600 फीट की ऊंचाई पर अवस्थित है। यह मंदिर परिसर कैमूर जिला मुख्यालय भभुआ से लगभग 14 किलोमीटर दक्षिण दिशा में और राष्ट्रीय राजमार्ग 19 (ग्रांड ट्रंक रोड) पर स्थित मोहनिया जंक्शन से लगभग 26 किलोमीटर की दूरी पर स्थित है। वाराणसी (लगभग 85 किलोमीटर पश्चिम) और राजधानी पटना (लगभग 210 किलोमीटर उत्तर-पूर्व) से यह तीर्थस्थल पक्की सड़कों और नियमित बस सेवाओं द्वारा अत्यंत सुगम रूप से जुड़ा हुआ है। तीर्थयात्री पहाड़ी की तलहटी से आधी ऊंचाई तक वाहनों द्वारा पहुँच सकते हैं, जिसके बाद सुंदर पत्थर की सीढ़ियों और सुगम रैंप मार्ग के जरिए शिखर मंदिर तक पहुँचा जाता है, जहाँ श्रद्धालुओं के लिए विश्राम शेड और पेयजल की व्यवस्था उपलब्ध है।"
+      },
+      "latitude": 25.0205,
+      "longitude": 83.5855,
+      "mapQuery": "Mundeshwari Devi Temple, Kaimur, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "days": {
+            "en": "Monday to Sunday",
+            "hi": "सोमवार से रविवार"
+          },
+          "time": {
+            "en": "06:00 AM - 07:30 PM",
+            "hi": "प्रातः 06:00 बजे से सायं 07:30 बजे तक"
+          }
+        }
+      ],
+      "entryFee": {
+        "amount": 0,
+        "currency": "INR",
+        "description": {
+          "en": "Free entry for all pilgrims and visitors",
+          "hi": "सभी श्रद्धालुओं और पर्यटकों के लिए निःशुल्क प्रवेश"
+        }
+      },
+      "recommendedDurationMinutes": 120,
+      "bestTimeToVisit": {
+        "en": "October to March (Special festivities during Navratri and Mahashivratri)",
+        "hi": "अक्टूबर से मार्च (नवरात्रि और महाशिवरात्रि के दौरान विशेष उत्सव)"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Excellent road connectivity from Bhabua (14 km), Mohania (26 km), and Varanasi (85 km) via NH-19 and state highways.",
+        "hi": "भभुआ (14 किमी), मोहनिया (26 किमी) और वाराणसी (85 किमी) से राष्ट्रीय राजमार्ग 19 और राज्य मार्गों द्वारा उत्कृष्ट सड़क संपर्क।"
+      },
+      "railway": [
+        {
+          "name": {
+            "en": "Bhabua Road Railway Station (BBU) at Mohania",
+            "hi": "भभुआ रोड रेलवे स्टेशन (BBU), मोहनिया"
+          },
+          "distanceKm": 26
+        },
+        {
+          "name": {
+            "en": "Pt. Deen Dayal Upadhyaya Junction (DDU)",
+            "hi": "पंडित दीनदयाल उपाध्याय जंक्शन (DDU)"
+          },
+          "distanceKm": 75
+        },
+        {
+          "name": {
+            "en": "Sasaram Junction (SSM)",
+            "hi": "सासाराम जंक्शन (SSM)"
+          },
+          "distanceKm": 68
+        }
+      ],
+      "airport": [
+        {
+          "name": {
+            "en": "Lal Bahadur Shastri International Airport, Varanasi (VNS)",
+            "hi": "लाल बहादुर शास्त्री अंतरराष्ट्रीय हवाई अड्डा, वाराणसी (VNS)"
+          },
+          "distanceKm": 105
+        },
+        {
+          "name": {
+            "en": "Jay Prakash Narayan International Airport, Patna (PAT)",
+            "hi": "जयप्रकाश नारायण अंतरराष्ट्रीय हवाई अड्डा, पटना (PAT)"
+          },
+          "distanceKm": 215
+        },
+        {
+          "name": {
+            "en": "Gaya International Airport (GAY)",
+            "hi": "गया अंतरराष्ट्रीय हवाई अड्डा (GAY)"
+          },
+          "distanceKm": 155
+        }
+      ],
+      "localTransport": {
+        "en": "Regular buses, shared jeeps, auto-rickshaws, and private rental cars operate frequently from Bhabua and Mohania.",
+        "hi": "भभुआ और मोहनिया से नियमित बसें, शेयर जीप, ऑटो-रिक्शा और निजी किराये की कारें प्रचुरता में उपलब्ध हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 0,
+        "max": 0,
+        "currency": "INR",
+        "note": {
+          "en": "Entry to the temple premises is completely free of charge.",
+          "hi": "मंदिर परिसर में प्रवेश पूरी तरह से निःशुल्क है।"
+        }
+      },
+      "localTransport": {
+        "min": 80,
+        "max": 200,
+        "currency": "INR",
+        "note": {
+          "en": "Approximate shared auto or jeep fare from Bhabua to the hill base.",
+          "hi": "भभुआ से पहाड़ी की तलहटी तक का अनुमानित शेयर ऑटो या जीप किराया।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": true,
+      "atm": true,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "moderate",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 400,
+      "stairs": true,
+      "wheelchairAccessible": false,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "To make your pilgrimage to the sacred Mundeshwari Temple comfortable and deeply memorable, plan your ascent early in the morning between 6:00 AM and 9:00 AM, particularly during the hot summer months, to avoid harsh sunlight and enjoy the tranquil morning mountain breezes. Although a well-graded motorable road brings vehicles close to the upper parking terrace, visitors must still navigate approximately 150 to 200 stone steps; therefore, wearing comfortable, slip-resistant walking shoes or sandals is strongly recommended. During the peak festive seasons of Chaitra and Sharadiya Navratri, anticipate substantial crowds of pilgrims, and allow at least 2 to 3 hours for queueing, peaceful darshan, and circumambulating the sanctum. Photography inside the inner sanctum is restricted by the Archaeological Survey of India to preserve structural integrity and respect religious sanctity, though capturing the stunning external stone relief carvings and valley viewpoints is permitted. Keep personal belongings secure as playful macaque monkeys inhabit the hill forest, carry a reusable water bottle, and please refrain entirely from littering plastic waste on this sacred ecological heritage hill.",
+        "hi": "पवित्र माँ मुंडेश्वरी देवी मंदिर की यात्रा को सुखद और भक्तिमय बनाने के लिए सुबह 6:00 बजे से 9:00 बजे के बीच अपनी यात्रा प्रारंभ करें, विशेषकर गर्मियों के मौसम में, जिससे आप दोपहर की तेज धूप से बच सकें और पहाड़ी की शीतल व शांत सुबह का आनंद ले सकें। यद्यपि पक्की सड़क वाहनों को पहाड़ी के ऊपरी पार्किंग स्थल तक ले जाती है, फिर भी मुख्य मंदिर तक पहुँचने के लिए लगभग 150 से 200 सीढ़ियां चढ़नी पड़ती हैं; इसलिए आरामदायक और मजबूत पकड़ वाले जूते या सैंडल पहनना अत्यंत उचित है। चैत्र और शारदीय नवरात्रि के पावन पर्वों के दौरान यहाँ श्रद्धालुओं की अत्यधिक भीड़ उमड़ती है, अतः दर्शन, पूजा और परिक्रमा के लिए कम से कम 2 से 3 घंटे का अतिरिक्त समय लेकर चलें। गर्भगृह के भीतर प्राचीन मूर्तियों की सुरक्षा और धार्मिक मर्यादा के दृष्टिगत वीडियोग्राफी व फोटोग्राफी पर प्रतिबंध है, यद्यपि बाहर की स्थापत्य नक्काशी और मनोरम प्राकृतिक घाटियों के चित्र लिए जा सकते हैं। पहाड़ी पर विचरण करने वाले चंचल वानरों से अपने प्रसाद और सामान की रक्षा करें, पीने के पानी की बोतल साथ रखें, और इस पावन ऐतिहासिक धरोहर को स्वच्छ बनाए रखने हेतु प्लास्टिक कचरा बिल्कुल न फैलाएं।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "telhar-kund",
+      "baidyanath-temple",
+      "karkatgarh-waterfall"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        {
+          "title": "Mundeshwari Temple - ASI Patna Circle",
+          "organization": "Archaeological Survey of India",
+          "url": "https://asipatnacircles.gov.in/monument/mundeshwari-temple/"
+        },
+        {
+          "title": "Maa Mundeshwari Dham - Kaimur District Official Portal",
+          "organization": "District Administration Kaimur, Government of Bihar",
+          "url": "https://kaimur.nic.in/tourist-place/mundeshwari-temple/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "telhar-kund",
+    "slug": "telhar-kund",
+    "name": {
+      "en": "Telhar Kund Waterfall",
+      "hi": "तेलहड़ कुंड जलप्रपात"
+    },
+    "districtId": "kaimur",
+    "placeType": "waterfall",
+    "primaryCategory": "nature",
+    "categories": [
+      "nature",
+      "waterfall",
+      "adventure",
+      "scenic"
+    ],
+    "subcategories": [
+      "waterfall",
+      "canyon",
+      "eco_tourism",
+      "natural_pool",
+      "trekking"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "nature_circuit",
+      "eco_circuit"
+    ],
+    "tags": [
+      "mustVisit",
+      "waterfall",
+      "kaimurHills",
+      "scenicCanyon",
+      "emeraldWater",
+      "monsoonSpot",
+      "photography"
+    ],
+    "audiences": [
+      "nature_lovers",
+      "photographers",
+      "adventure_seekers",
+      "families",
+      "youth_travelers"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "A breathtaking plunge waterfall dropping over 80 meters into a deep, emerald-green natural reservoir amidst the Kaimur hills.",
+      "hi": "कैमूर की पहाड़ियों के बीच 80 मीटर से अधिक की ऊंचाई से गहरे पन्ना-हरे प्राकृतिक कुंड में गिरने वाला विस्मयकारी जलप्रपात।"
+    },
+    "description": {
+      "en": "Tucked deep inside the dramatic sandstone escarpments of the **Kaimur Plateau**, **Telhar Kund** (also celebrated as *Telhar Waterfall*) is widely recognized as one of Bihar's most magnificent and exhilarating natural spectacles. Originating from the pristine highland springs of the Kaimur hills, the perennial stream plummets dramatically over an eighty-meter (approx. 260-foot) sheer vertical precipice into a crystalline, emerald-green natural reservoir (*kund*) enclosed by towering rocky cliffs.\n\nThe breathtaking natural allure of Telhar Kund enchants visitors through several standout attributes:\n- **Spectacular Plunge Waterfall**: A thunderous, roaring cataract that sprays fine misty veils across the canyon, creating vibrant rainbows under bright afternoon sunshine.\n- **Lush Deciduous Wilderness**: Encompassed by the dense, biodiverse dry deciduous forests of the Kaimur Wildlife Sanctuary, home to diverse flora, medicinal herbs, and soaring raptors.\n- **Scenic Clifftop Viewpoints**: Modern watchtowers and safety railings developed by the Bihar Tourism and Forest Departments provide mesmerizing aerial perspectives of the gorge.\n- **Refreshing Microclimate**: The enclosed amphitheater of rock cools the ambient temperature significantly, offering an invigorating sanctuary from tropical heat.\n\nWhether you are an intrepid explorer, photography enthusiast, or weekend picnicker, Telhar Kund offers an unforgettable immersion into raw, untouched nature.",
+      "hi": "**कैमूर पठार** के विस्मयकारी बलुआ पत्थर की चट्टानों के बीच घने जंगलों में छिपा **तेलहड़ कुंड** (जिसे *तेलहड़ जलप्रपात* के नाम से भी जाना जाता है) बिहार के सबसे मनमोहक, भव्य और रोमांचकारी प्राकृतिक चमत्कारों में से एक है। कैमूर की सुरम्य पहाड़ियों के ऊंचे झरनों से निकलने वाली यह अविरल जलधारा लगभग अस्सी मीटर (लगभग 260 फीट) की खड़ी चट्टान से नीचे एक गहरे, पारदर्शी और पन्ना-हरे रंग के प्राकृतिक कुंड में गर्जना के साथ गिरती है, जो चारों ओर से विशालकाय चट्टानी दीवारों से घिरा हुआ है।\n\nतेलहड़ कुंड का अलौकिक प्राकृतिक सम्मोहन पर्यटकों को कई अनूठी विशेषताओं से आकर्षित करता है:\n- **विशाल जलप्रपात का गर्जना भरा प्रवाह**: आकाश से गिरती दूधिया जलधारा जब चट्टानों से टकराती है, तो पूरे घाटी क्षेत्र में ठंडी फुहारें उड़ती हैं और धूप खिलने पर अद्भुत इंद्रधनुषी छटा बिखर जाती है।\n- **सघन वन संपदा और जैव विविधता**: कैमूर वन्यजीव अभयारण्य के उष्णकटिबंधीय शुष्क पर्णपाती जंगलों से आच्छादित यह क्षेत्र अनगिनत औषधीय पौधों, हरे-भरे पेड़ों और पक्षियों की विभिन्न प्रजातियों का बसेरा है।\n- **सुरक्षित वॉचटावर और व्यूप्वाइंट**: बिहार पर्यटन एवं वन विभाग द्वारा निर्मित आधुनिक सुरक्षा रेलिंग और दर्शक दीर्घा से गहरी खाई और कुंड का विहंगम व रोमांचक दृश्य सुरक्षित रूप से देखा जा सकता है।\n- **सुखद एवं शीतल वातावरण**: गहरी चट्टानी घाटी के कारण यहाँ का वातावरण अत्यंत शीतल और ताजगी भरा रहता है, जो आगंतुकों की सारी थकान मिटा देता है।\n\nप्रकृति प्रेमियों, फोटोग्राफरों और साहसिक पर्यटकों के लिए तेलहड़ कुंड प्रकृति के शांत और शुद्ध सौंदर्य का साक्षात्कार करने का एक सर्वथा अद्वितीय स्थान है।"
+    },
+    "history": {
+      "en": "The geographical and cultural chronicle of **Telhar Kund** is steeped in ancient regional folklore and tribal traditions of the Kaimur range, where indigenous communities like the **Cheros**, **Kharwars**, and **Oraons** have lived in ecological harmony with these hills for centuries. Local lore attributes the name *Telhar* or *Tilhar* to the profound depth and oily sheen (*tel-jaisa*) of its tranquil, bottomless pool, which retains its mystical green-black reflection even during peak dry seasons.\n\nKey historical context and conservation milestones include:\n- **Ancient Cave Shelters & Prehistoric Man**: The surrounding sandstone ridges of Kaimur house prehistoric rock shelters containing mesolithic ochre petroglyphs and tribal cave art, affirming human inhabitation along these water bodies for thousands of years.\n- **Strategic Frontier of Medieval Rulers**: During the reigns of Sher Shah Suri and later Mughal governors of Rohtas, the secluded gorges of Kaimur served as vital freshwater sources and natural defense barriers for roaming armies and forest cavalry.\n- **Colonial Surveys & Forest Documentation**: British colonial geographers and naturalists of the 19th century documented Telhar Kund during topographical surveys of South Bihar, remarking on the extraordinary depth and pristine water purity of the gorge.\n- **Modern Eco-Tourism Infrastructure**: In recent years, the Bihar Government and Forest Department transformed the site from an inaccessible wilderness into a premier, well-regulated eco-tourism landmark with landscaped approaches, stone pathways, and viewpoint galleries.",
+      "hi": "**तेलहड़ कुंड** का भौगोलिक और सांस्कृतिक इतिहास कैमूर पर्वतमाला के प्राचीन लोक आख्यानों और जनजातीय परंपराओं में गहराई से समाया हुआ है। सदियों से इस बीहड़ पर्वतीय भूभाग में निवास करने वाले **चेरो**, **खरवार** और **उरांव** आदिवासी समुदाय इस जलस्रोत को प्रकृति का पावन उपहार मानते आए हैं। स्थानीय जनश्रुतियों के अनुसार, कुंड के अथाह जल की रहस्यमयी गहराई और जल की सतह पर दिखने वाली तैलीय स्निग्ध आभा (*तेल जैसी चमक*) के कारण ही इस पावन जलकुंड का नाम *तेलहड़* पड़ा, जिसका रंग गर्मियों के मौसम में भी गहरा पन्ना-हरा बना रहता है।\n\nइसके ऐतिहासिक संदर्भ और संरक्षण के प्रमुख पड़ाव निम्नलिखित हैं:\n- **प्रागैतिहासिक शैलचित्र और आदिमानव**: कैमूर की इन बलुआ पत्थर की गुफाओं और कंदराओं में मध्यपाषाण काल के गेरूए रंग के शैलचित्र और आदिम कलाकृतियां मिली हैं, जो साबित करती हैं कि हजारों वर्ष पूर्व आदिमानव इन जलप्रपातों के किनारे निवास करता था।\n- **मध्यकालीन सामरिक महत्व**: शेर शाह सूरी के शासनकाल और बाद के मुगल दौर में, जब रोहतासगढ़ का किला सामरिक सत्ता का केंद्र था, तब कैमूर की ये दुर्गम घाटियां और स्वच्छ जलप्रपात घुड़सवार टुकड़ियों के लिए गुप्त आश्रय और मीठे जल का मुख्य स्रोत हुआ करते थे।\n- **ब्रिटिश कालीन वानिकी सर्वेक्षण**: 19वीं शताब्दी में ब्रिटिश वन अधिकारियों और भूवैज्ञानिकों ने दक्षिण बिहार के सर्वेक्षणों के दौरान तेलहड़ कुंड की विस्मयकारी गहराई और प्राकृतिक शुद्धता का विस्तृत विवरण दर्ज किया था।\n- **आधुनिक पर्यावरण-पर्यटन का विकास**: हाल के वर्षों में बिहार सरकार और वन विभाग ने इस दुर्गम वनक्षेत्र को सुव्यवस्थित पर्यावरण-पर्यटन स्थल के रूप में विकसित किया है, जहाँ पक्के रास्ते, व्यू-पॉइंट और सुरक्षा उपाय उपलब्ध कराए गए हैं।"
+    },
+    "significance": {
+      "en": "The significance of **Telhar Kund** resonates deeply across environmental conservation, regional ecology, and modern leisure tourism in southwestern Bihar:\n\n- **Ecological Lifeline of Kaimur Wildlife Sanctuary**: The perennial plunge feeds the broader Durgavati river basin, providing a vital year-round water oasis for endangered wildlife including leopards, sloth bears, chital deer, sambar, wild boars, and diverse avifauna residing within the protected sanctuary.\n- **Geological Wonderland**: Displays exceptional examples of Vindhyan sandstone stratigraphy, where millennia of hydraulic erosion have carved dramatic vertical amphitheaters, box canyons, and deep plunge pools that serve as real-world geological laboratories for researchers.\n- **Premier Eco-Tourism Landmark**: Recognized by the Department of Tourism, Government of Bihar, as one of the state's flagship monsoon and nature destinations, drawing travelers from Bihar, Uttar Pradesh, and Jharkhand seeking rejuvenation away from urban centers.\n- **Cultural & Folk Confluence**: Celebrated locally during monsoon festivals and Makar Sankranti, when local villagers and city dwellers alike gather to celebrate the sublime majesty of water, nature, and the verdant Kaimur landscapes.",
+      "hi": "**तेलहड़ कुंड** का महत्व दक्षिण-पश्चिमी बिहार के पर्यावरण संरक्षण, वन्यजीव पारिस्थितिकी और आधुनिक हरित पर्यटन में अत्यंत विशिष्ट स्थान रखता है:\n\n- **कैमूर वन्यजीव अभयारण्य की जीवनरेखा**: यह अविरल जलप्रपात दुर्गावती नदी की सहायक धाराओं को जल प्रदान करता है, जिससे इस विशाल संरक्षित जंगल में रहने वाले तेंदुओं, भालू (स्लॉथ बियर), सांभर, चीतल, नीलगाय और दुर्लभ प्रवासी पक्षियों को वर्ष भर स्वच्छ मीठा पेयजल उपलब्ध होता है।\n- **भूवैज्ञानिक धरोहर**: विंध्य पर्वतमाला के प्राचीन बलुआ पत्थर की परतों और जल द्वारा सहस्राब्दियों से किए गए कटाव का यह एक उत्कृष्ट प्राकृतिक उदाहरण है, जहाँ गहरी घाटियां और प्राकृतिक कुंड भूविज्ञान के छात्रों व शोधकर्ताओं के लिए एक जीवित प्रयोगशाला प्रस्तुत करते हैं।\n- **बिहार का प्रमुख पर्यावरण-पर्यटन केंद्र**: बिहार पर्यटन विभाग द्वारा इसे राज्य के प्रमुख प्राकृतिक और मानसूनी पर्यटन स्थलों में शामिल किया गया है, जहाँ वर्षा ऋतु और सर्दियों में बिहार, उत्तर प्रदेश और झारखंड से हजारों पर्यटक प्राकृतिक शांति और सौंदर्य का आनंद लेने आते हैं।\n- **लोक संस्कृति और पिकनिक का उत्सव**: नववर्ष और मकर संक्रांति जैसे अवसरों पर यह स्थान एक बड़े उत्सव स्थल में परिवर्तित हो जाता है, जहाँ लोग परिजनों के संग प्रकृति के सान्निध्य में समय बिताते हैं और कैमूर के प्राकृतिक गौरव का उत्सव मनाते हैं।"
+    },
+    "location": {
+      "address": {
+        "en": "Telhar Kund Eco-Tourism Complex, Bhabua-Adhaura Ghat Road, Kaimur Hills, Post Office Adhaura, Kaimur District, Bihar 821102, India. Perched high upon the scenic plateau of the Kaimur range, the waterfall is situated approximately 32 kilometers south of the district administrative headquarters in Bhabua town and approximately 45 kilometers south of Mohania on the National Highway 19 corridor. Accessing Telhar Kund involves a visually stunning drive along the winding hill road that ascends through forested hairpin bends, dense sal and bamboo canopies, and rugged cliff edges of the Vindhyan formation. The site is situated within easy driving range of major regional transit hubs, lying roughly 105 kilometers east of Varanasi and approximately 220 kilometers southwest of Patna. The newly developed tourism entry features secure visitor parking, forest department checkposts, paved walkways, safety barricades, and elevated viewpoint decks that overlook the dramatic canyon and plunge basin.",
+        "hi": "तेलहड़ कुंड पर्यावरण-पर्यटन परिसर, भभुआ-अधौरा घाट मार्ग, कैमूर पर्वतमाला, डाकघर अधौरा, कैमूर जिला, बिहार 821102, भारत। कैमूर पठार की सुरम्य वादियों में स्थित यह जलप्रपात कैमूर के जिला प्रशासनिक मुख्यालय भभुआ शहर से लगभग 32 किलोमीटर दक्षिण दिशा में और राष्ट्रीय राजमार्ग 19 पर स्थित मोहनिया से लगभग 45 किलोमीटर दूर स्थित है। तेलहड़ कुंड तक पहुँचने के लिए भभुआ से अधौरा की ओर जाने वाले सुंदर घुमावदार पहाड़ी मार्ग से होकर गुजरना पड़ता है, जो घने साल और बांस के जंगलों, मनोरम घाटियों और प्राकृतिक चट्टानी मोड़ों से होकर गुजरता है। यह स्थल प्रमुख क्षेत्रीय शहरों से सड़क मार्ग द्वारा सुगम रूप से जुड़ा है, जो वाराणसी से लगभग 105 किलोमीटर पूर्व और राजधानी पटना से लगभग 220 किलोमीटर दक्षिण-पश्चिम में स्थित है। पर्यटन स्थल के मुख्य प्रवेश द्वार पर सुरक्षित पार्किंग, वन विभाग की जांच चौकी, सुगम पैदल पथ, मजबूत सुरक्षा रेलिंग और घाटी को निहारने के लिए पक्के वॉचटावर बनाए गए हैं।"
+      },
+      "latitude": 24.9654,
+      "longitude": 83.6012,
+      "mapQuery": "Telhar Kund, Kaimur, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "days": {
+            "en": "Monday to Sunday",
+            "hi": "सोमवार से रविवार"
+          },
+          "time": {
+            "en": "08:00 AM - 05:00 PM",
+            "hi": "प्रातः 08:00 बजे से सायं 05:00 बजे तक"
+          }
+        }
+      ],
+      "entryFee": {
+        "amount": 20,
+        "currency": "INR",
+        "description": {
+          "en": "Nominal eco-tourism development fee levied by the forest department",
+          "hi": "वन विभाग द्वारा निर्धारित नाममात्र पर्यावरण-पर्यटन विकास शुल्क"
+        }
+      },
+      "recommendedDurationMinutes": 120,
+      "bestTimeToVisit": {
+        "en": "July to February (Monsoon and winter months offer the grandest water flow)",
+        "hi": "जुलाई से फरवरी (मानसून और सर्दियों के महीनों में जलप्रपात का सबसे भव्य रूप)"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Directly accessible via the scenic Bhabua-Adhaura Ghat Road. Private cars, SUVs, and hired taxis are the best mode of transport.",
+        "hi": "मनोरम भभुआ-अधौरा घाट रोड द्वारा सीधे सुलभ। निजी कार, एसयूवी और किराये की टैक्सियां यात्रा का सबसे सुविधाजनक साधन हैं।"
+      },
+      "railway": [
+        {
+          "name": {
+            "en": "Bhabua Road Railway Station (BBU) at Mohania",
+            "hi": "भभुआ रोड रेलवे स्टेशन (BBU), मोहनिया"
+          },
+          "distanceKm": 45
+        },
+        {
+          "name": {
+            "en": "Sasaram Junction (SSM)",
+            "hi": "सासाराम जंक्शन (SSM)"
+          },
+          "distanceKm": 85
+        },
+        {
+          "name": {
+            "en": "Pt. Deen Dayal Upadhyaya Junction (DDU)",
+            "hi": "पंडित दीनदयाल उपाध्याय जंक्शन (DDU)"
+          },
+          "distanceKm": 95
+        }
+      ],
+      "airport": [
+        {
+          "name": {
+            "en": "Lal Bahadur Shastri International Airport, Varanasi (VNS)",
+            "hi": "लाल बहादुर शास्त्री अंतरराष्ट्रीय हवाई अड्डा, वाराणसी (VNS)"
+          },
+          "distanceKm": 125
+        },
+        {
+          "name": {
+            "en": "Jay Prakash Narayan International Airport, Patna (PAT)",
+            "hi": "जयप्रकाश नारायण अंतरराष्ट्रीय हवाई अड्डा, पटना (PAT)"
+          },
+          "distanceKm": 230
+        },
+        {
+          "name": {
+            "en": "Gaya International Airport (GAY)",
+            "hi": "गया अंतरराष्ट्रीय हवाई अड्डा (GAY)"
+          },
+          "distanceKm": 170
+        }
+      ],
+      "localTransport": {
+        "en": "Private rental taxis, jeeps, and four-wheel drive vehicles can be hired from Bhabua or Mohania town.",
+        "hi": "भभुआ अथवा मोहनिया शहर से निजी किराये की टैक्सी, जीप और चार पहिया वाहन किराए पर लिए जा सकते हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 20,
+        "max": 20,
+        "currency": "INR",
+        "note": {
+          "en": "Forest department entrance ticket per adult visitor.",
+          "hi": "प्रति वयस्क आगंतुक वन विभाग का प्रवेश टिकट।"
+        }
+      },
+      "localTransport": {
+        "min": 500,
+        "max": 1500,
+        "currency": "INR",
+        "note": {
+          "en": "Approximate roundtrip private taxi or jeep fare from Bhabua.",
+          "hi": "भभुआ से निजी टैक्सी या जीप का राउंडट्रिप का अनुमानित किराया।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": false,
+      "accommodation": false,
+      "atm": false,
+      "medical": false
+    },
+    "accessibility": {
+      "difficulty": "moderate",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 300,
+      "stairs": true,
+      "wheelchairAccessible": false,
+      "suitableForChildren": true,
+      "suitableForElderly": false
+    },
+    "travelTips": [
+      {
+        "en": "When planning a journey to the magnificent Telhar Kund waterfall, the ideal season to visit is between July and February, when post-monsoon water volumes are at their peak and the surrounding Kaimur forests are carpeted in lush, vibrant greenery. Plan your excursion to arrive before midday, as forest regulations and safety norms require visitors to conclude clifftop sightseeing and depart before sunset due to the winding ghat roads. Visitors should wear sturdy walking shoes with reliable rubber tread, as wet stone walkways and forest trails near the viewpoints can become slick from continuous spray. While viewing the dramatic waterfall from designated observation decks is thoroughly safe, swimming or attempting to descend into the deep plunge pool is strictly prohibited and dangerous due to sheer cliff drops and powerful undercurrents. Carry adequate bottled drinking water and light refreshments, keep your vehicle fueled beforehand as fuel pumps are scarce on the hill plateau, and preserve the pristine sanctuary environment by taking all non-biodegradable waste and plastic containers back with you.",
+        "hi": "भव्य तेलहड़ कुंड जलप्रपात के भ्रमण की योजना बनाते समय, यात्रा के लिए सबसे उत्तम समय जुलाई से फरवरी के बीच का माना जाता है, जब वर्षा ऋतु के बाद जलप्रपात पूरे उफान पर होता है और चारों ओर के कैमूर के जंगल हरियाली की चादर ओढ़े होते हैं। अपनी यात्रा इस प्रकार निर्धारित करें कि आप दोपहर से पहले यहाँ पहुँच सकें, क्योंकि पहाड़ी घाट रोड की सुरक्षा और वन विभाग के नियमों के अनुसार सूर्यास्त से पूर्व घाटी क्षेत्र से प्रस्थान करना अनिवार्य होता है। पत्थरों और पगडंडियों पर पानी की फुहारों के कारण फिसलन हो सकती है, इसलिए मजबूत ग्रिप वाले रबर सोल के जूते पहनना ही सबसे सुरक्षित है। यद्यपि नवनिर्मित व्यू-पॉइंट से जलप्रपात को निहारना अत्यंत सुरक्षित और आनंददायक है, किंतु कुंड के गहरे पानी में उतरना या तैरने का प्रयास करना सख्त वर्जित और जानलेवा हो सकता है। अपने साथ पर्याप्त पीने का पानी और हल्का नाश्ता रखें, पहाड़ी चढ़ाई शुरू करने से पहले वाहन में पर्याप्त ईंधन भरवा लें, और इस सुंदर प्राकृतिक अभयारण्य की स्वच्छता बनाए रखने के लिए प्लास्टिक कचरा और बोतलें यहाँ कतई न छोड़ें।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "mundeshwari-temple",
+      "karkatgarh-waterfall",
+      "baidyanath-temple"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        {
+          "title": "Telhar Kund - District Administration Kaimur",
+          "organization": "District Administration Kaimur, Government of Bihar",
+          "url": "https://kaimur.nic.in/tourist-place/telhar-kund/"
+        },
+        {
+          "title": "Waterfalls of Kaimur - Bihar Tourism",
+          "organization": "Bihar State Tourism Development Corporation",
+          "url": "https://tourism.bihar.gov.in/en/destinations/kaimur"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "karkatgarh-waterfall",
+    "slug": "karkatgarh-waterfall",
+    "name": {
+      "en": "Karkatgarh Waterfall & Crocodile Sanctuary",
+      "hi": "करकटगढ़ जलप्रपात एवं मगरमच्छ अभयारण्य"
+    },
+    "districtId": "kaimur",
+    "placeType": "waterfall",
+    "primaryCategory": "nature",
+    "categories": [
+      "nature",
+      "wildlife",
+      "waterfall",
+      "adventure"
+    ],
+    "subcategories": [
+      "waterfall",
+      "crocodile_sanctuary",
+      "eco_tourism",
+      "boating",
+      "suspension_bridge"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "nature_circuit",
+      "wildlife_circuit",
+      "eco_circuit"
+    ],
+    "tags": [
+      "mustVisit",
+      "waterfall",
+      "crocodileSanctuary",
+      "karamnasaRiver",
+      "suspensionBridge",
+      "ecoTourism",
+      "boating"
+    ],
+    "audiences": [
+      "families",
+      "nature_lovers",
+      "photographers",
+      "wildlife_enthusiasts",
+      "children"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "A wide, majestic waterfall on the Karamnasa River featuring Bihar's premier natural crocodile conservation reserve and suspension bridge.",
+      "hi": "कर्मनाशा नदी पर स्थित विशाल व मनोरम जलप्रपात, जहाँ बिहार का प्रमुख प्राकृतिक मगरमच्छ संरक्षण अभयारण्य और झूला पुल स्थित है।"
+    },
+    "description": {
+      "en": "Formed by the cascading waters of the sacred **Karamnasa River** within the rugged Chainpur block of Kaimur district, **Karkatgarh Waterfall** is celebrated as one of Bihar's most spectacular waterfalls and an extraordinary conservation success story. Measuring approximately 100 feet (30 meters) in height and stretching over 300 feet in breadth during the monsoon flood stage, the cataract pours over jagged rocky ledges in a dramatic multi-tiered curtain of sparkling spray.\n\nBeyond its sheer hydraulic grandeur, Karkatgarh stands apart as a vibrant hub of eco-tourism and biodiversity:\n- **Natural Crocodile Sanctuary**: The deep, tranquil riverine pools below the waterfall serve as Bihar's only government-protected natural habitat and breeding sanctuary for freshwater marsh crocodiles (*Mugger*).\n- **Engineering Marvels**: Features a state-of-the-art pedestrian **suspension bridge (hanging bridge)** offering adrenaline-pumping aerial views directly over the roaring torrents and river canyons.\n- **Adventure and Leisure Activities**: Eco-tourism facilities developed by the Bihar Government include zip-lining, boating, watchtowers, children's adventure parks, and open-air riverside gazebos.\n- **Lush Valley Setting**: Set amidst the pristine deciduous forests of the Kaimur hills bordering Uttar Pradesh, creating an idyllic escape for families, birdwatchers, and photographers.\n\nA journey to Karkatgarh effortlessly merges thrilling eco-adventure with the tranquil serenity of untamed nature.",
+      "hi": "कैमूर जिले के चैनपुर प्रखंड में पावन **कर्मनाशा नदी** की कलकल करती जलधारा पर स्थित **करकटगढ़ जलप्रपात** बिहार के सबसे भव्य, विस्तृत और मनोहारी जलप्रपातों में से एक है, जो अब एक विश्वस्तरीय पर्यावरण-पर्यटन और वन्यजीव संरक्षण केंद्र के रूप में प्रसिद्ध हो चुका है। लगभग 100 फीट (30 मीटर) की ऊंचाई से नीचे गिरता और मानसून के समय 300 फीट से अधिक चौड़ाई में फैलने वाला यह जलप्रपात चट्टानी सीढ़ियों पर कई स्तरों में दूधिया चादर की भांति गिरता है, जिसका दृश्य अत्यंत नयनाभिराम होता है।\n\nकरकटगढ़ अपनी जलराशि की भव्यता के साथ-साथ प्राकृतिक विविधता के लिए भी विशिष्ट पहचान रखता है:\n- **प्राकृतिक मगरमच्छ अभयारण्य**: प्रपात के नीचे बनने वाले गहरे और शांत प्राकृतिक जलाशयों में मीठे पानी के मगरमच्छों (मगर) का बिहार का पहला और एकमात्र संरक्षित प्राकृतिक आवास व प्रजनन केंद्र स्थित है, जहाँ धूप सेकते मगरमच्छों को आसानी से देखा जा सकता है।\n- **रोमांचक झूला पुल (सस्पेंशन ब्रिज)**: नदी और जलप्रपात के आर-पार बना आधुनिक केबल सस्पेंशन ब्रिज पर्यटकों को सीधे पानी की गर्जना के ऊपर से चलकर विहंगम दृश्य देखने का रोमांच प्रदान करता है।\n- **साहसिक एवं मनोरंजक सुविधाएं**: बिहार सरकार द्वारा विकसित इस इको-टूरिज्म पार्क में जिप-लाइन, बोटिंग, वॉचटावर, बाल उद्यान और नदी किनारे सुंदर विश्राम कुटीर बनाए गए हैं।\n- **प्राकृतिक घाटी का सम्मोहन**: उत्तर प्रदेश की सीमा से लगे कैमूर पर्वतमाला के हरे-भरे वनों और पहाड़ियों से घिरा यह स्थल पक्षी प्रेमियों, फोटोग्राफरों और परिवारों के लिए एक आदर्श गंतव्य है।\n\nकरकटगढ़ की सैर हर आयु के पर्यटकों को रोमांच, वन्यजीव दर्शन और प्राकृतिक शांति का एक परिपूर्ण व अविस्मरणीय अनुभव कराती है।"
+    },
+    "history": {
+      "en": "The history of **Karkatgarh Waterfall** weaves together royal Mughal leisure expeditions, colonial-era sporting expeditions, and pioneering modern ecological rehabilitation. Historically located on the natural frontier of Bihar and the Vindhya highlands, the secluded canyon was renowned for centuries among local rulers for its extraordinary concentration of riverine wildlife and freshwater crocodiles.\n\nKey historical epochs and conservation milestones define its evolution:\n- **Mughal and Royal Hunting Enclave**: Historical accounts record that during the Mughal era and the reign of regional chieftains of Chainpur and Benares, the deep pools of Karamnasa at Karkatgarh were frequented by royal hunting parties for sport and leisure.\n- **British Colonial Era Encounters**: 19th-century British administrative gazetteers of Shahabad district noted the perilous whirlpools and thriving colonies of crocodiles beneath the falls, documenting expeditions by colonial naturalists.\n- **Transition from Exploitation to Conservation**: Over hunting and habitat encroachment severely threatened the local crocodile population during the mid-20th century, prompting wildlife protection acts that brought the waters under stringent government supervision.\n- **Inauguration of the Eco-Tourism Paradise**: Recognizing its exceptional potential, Chief Minister Nitish Kumar spearheaded a comprehensive ecotourism master plan, officially inaugurating the modern crocodile conservation center, suspension bridge, and tourist complex to empower local tribal communities through sustainable tourism.",
+      "hi": "**करकटगढ़ जलप्रपात** का इतिहास मध्यकालीन शाही आमोद-प्रमोद, ब्रिटिश औपनिवेशिक दौर के साहसिक अभियानों और आधुनिक वन्यजीव संरक्षण के सफल प्रयासों का एक दिलचस्प संगम है। ऐतिहासिक रूप से बिहार और विंध्य क्षेत्र की सीमा पर स्थित होने के कारण, कर्मनाशा नदी की यह शांत व गहरी घाटी सदियों से मीठे पानी के मगरमच्छों और समृद्ध वन्यजीवों के लिए विख्यात रही है।\n\nइसके इतिहास और संरक्षण के प्रमुख चरण निम्नलिखित हैं:\n- **मुगल और क्षेत्रीय राजाओं का आखेट स्थल**: ऐतिहासिक अभिलेखों से ज्ञात होता है कि मुगल काल तथा चैनपुर और बनारस के स्थानीय राजाओं व नवाबों के समय में करकटगढ़ के जलकुंडों को शिकार और प्राकृतिक भ्रमण के लिए चुना जाता था।\n- **ब्रिटिश प्रशासनिक गजेटियर में उल्लेख**: 19वीं सदी के शाहाबाद जिला गजेटियर में ब्रिटिश अधिकारियों ने इस प्रपात के नीचे मगरमच्छों की प्रचुर आबादी और कर्मनाशा के तीव्र भंवरों का विशेष रूप से उल्लेख किया था।\n- **शिकार से संरक्षण की ओर परिवर्तन**: 20वीं सदी के उत्तरार्ध में अत्यधिक शिकार और मानवीय हस्तक्षेप के कारण मगरमच्छों के अस्तित्व पर संकट मंडराने लगा, जिसके बाद सरकार ने इसे वन्यजीव संरक्षण अधिनियम के तहत सुरक्षित क्षेत्र घोषित किया।\n- **विश्वस्तरीय इको-टूरिज्म का शिलान्यास**: इस स्थल की अद्वितीय प्राकृतिक सुंदरता और जैव विविधता को देखते हुए बिहार के मुख्यमंत्री नीतीश कुमार के नेतृत्व में एक महत्वाकांक्षी योजना के तहत यहाँ आधुनिक मगरमच्छ संरक्षण केंद्र, झूला पुल और पर्यावरण पार्क का निर्माण कर इसे एक अंतरराष्ट्रीय स्तर के पर्यटन स्थल के रूप में पुनर्स्थापित किया गया।"
+    },
+    "significance": {
+      "en": "The significance of **Karkatgarh Waterfall** lies at the vital intersection of wildlife conservation, hydrological beauty, and sustainable rural economic empowerment in Bihar:\n\n- **Bihar's Flagship Crocodile Sanctuary**: Serves as the state's most prominent conservation reserve dedicated to the preservation, hatching, and scientific monitoring of the vulnerable Indian marsh crocodile (*Crocodylus palustris*), playing a critical role in repopulating regional river basins.\n- **Hydrological and Mythological Landmark**: Formed upon the legendary **Karamnasa River**, a river with deep ancient mythological associations that paradoxically creates some of the most spectacular gorges and cascades in eastern India.\n- **Model of Sustainable Eco-Tourism**: Demonstrates how sensitive natural ecosystems can be transformed into eco-friendly tourist destinations, featuring non-intrusive suspension bridges, solar-powered watchtowers, and local tribal community employment as guides and hospitality personnel.\n- **Family and Adventure Hub**: Offers an integrated holiday experience combining tranquil wildlife observation with thrilling activities like rope bridges, zip-lines, and nature photography amidst pristine Vindhyan hill sceneries.",
+      "hi": "**करकटगढ़ जलप्रपात** का महत्व वन्यजीव संरक्षण, प्राकृतिक जल सौंदर्य और बिहार के ग्रामीण अंचलों में सतत पर्यावरण-पर्यटन के सशक्तिकरण का एक अनूठा उदाहरण प्रस्तुत करता है:\n\n- **बिहार का प्रमुख मगरमच्छ संरक्षण केंद्र**: यह संकटग्रस्त भारतीय मीठे पानी के दलदली मगरमच्छों (*क्रोकोडाइलस पैलुस्ट्रिस*) के संरक्षण, प्राकृतिक प्रजनन और वैज्ञानिक देखरेख के लिए समर्पित राज्य का सबसे महत्वपूर्ण अभयारण्य है, जो जलीय पारिस्थितिकी तंत्र के संतुलन में अहम भूमिका निभाता है।\n- **पौराणिक एवं भौगोलिक महत्व**: यह जलप्रपात पौराणिक रूप से विख्यात **कर्मनाशा नदी** पर निर्मित है, जो विंध्य पर्वतमाला के बीहड़ पठार को चीरती हुई पूर्वी भारत के सबसे सुरम्य जलप्रपातों और खाइयों का निर्माण करती है।\n- **सतत पर्यावरण-पर्यटन का उत्कृष्ट मॉडल**: यह स्थल इस बात का प्रमाण है कि संवेदनशील प्राकृतिक आवासों को नुकसान पहुँचाए बिना किस प्रकार पर्यावरण-अनुकूल पर्यटन विकसित किया जा सकता है। यहाँ स्थानीय युवाओं और जनजातीय परिवारों को गाइड और आतिथ्य सत्कार से जोड़कर रोजगार उपलब्ध कराया गया है।\n- **पारिवारिक एवं साहसिक पर्यटन स्थल**: यह केंद्र वन्यजीवों को उनके प्राकृतिक वास में देखने के साथ-साथ रोमांचक सस्पेंशन ब्रिज, जिप-लाइन, बच्चों के झूले और प्राकृतिक फोटोग्राफी का एक संपूर्ण पारिवारिक पैकेज प्रदान करता है।"
+    },
+    "location": {
+      "address": {
+        "en": "Karkatgarh Waterfall & Crocodile Conservation Eco-Park, Near Village Karkatgarh, Chainpur Administrative Block, Kaimur District, Bihar 821103, India. Geographically nestled on the picturesque Karamnasa River near the southwestern boundary of Bihar where it borders the Chandauli district of Uttar Pradesh, this eco-tourism reserve is situated approximately 48 kilometers southwest of the district headquarters in Bhabua. The site is accessed via well-paved rural and forest department arterial roads originating from Bhabua via Chainpur and Chand, winding through fertile agricultural plains before climbing into the wooded foothills of the Kaimur range. It is situated roughly 70 kilometers southeast of Varanasi and about 225 kilometers southwest of Patna. The newly developed state tourism complex provides demarcated vehicular parking, forest checkposts, landscaped pedestrian paths, a state-of-the-art steel suspension bridge connecting the riverbanks, watchtowers, and shaded gazebos overlooking the cascading rapids.",
+        "hi": "करकटगढ़ जलप्रपात एवं मगरमच्छ संरक्षण इको-पार्क, ग्राम करकटगढ़ के समीप, चैनपुर प्रशासनिक प्रखंड, कैमूर जिला, बिहार 821103, भारत। दक्षिण-पश्चिमी बिहार में उत्तर प्रदेश के चंदौली जिले की सीमा के निकट पवित्र कर्मनाशा नदी के तट पर स्थित यह पर्यावरण-पर्यटन स्थल कैमूर के जिला मुख्यालय भभुआ से लगभग 48 किलोमीटर दक्षिण-पश्चिम दिशा में स्थित है। यहाँ पहुँचने के लिए भभुआ से चैनपुर और चांद होते हुए जाने वाले पक्के ग्रामीण और वन विभाग के मार्गों का उपयोग किया जाता है, जो हरे-भरे खेतों और कैमूर की सुरम्य पर्वत तलहटी से होकर गुजरते हैं। यह दर्शनीय स्थल सांस्कृतिक राजधानी वाराणसी से मात्र 70 किलोमीटर दक्षिण-पूर्व और राज्य की राजधानी पटना से लगभग 225 किलोमीटर दूर स्थित है। नवनिर्मित पर्यटन परिसर में पर्यटकों के लिए सुरक्षित वाहन पार्किंग, वन विभाग का सहायता केंद्र, सुंदर पैदल रास्ते, नदी के दोनों तटों को जोड़ने वाला अत्याधुनिक सस्पेंशन झूला पुल, वॉचटावर और जलप्रपात को निहारने के लिए छायादार मंडप बनाए गए हैं।"
+      },
+      "latitude": 25.0485,
+      "longitude": 83.3512,
+      "mapQuery": "Karkatgarh Waterfall, Kaimur, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "days": {
+            "en": "Monday to Sunday",
+            "hi": "सोमवार से रविवार"
+          },
+          "time": {
+            "en": "08:30 AM - 05:30 PM",
+            "hi": "प्रातः 08:30 बजे से सायं 05:30 बजे तक"
+          }
+        }
+      ],
+      "entryFee": {
+        "amount": 30,
+        "currency": "INR",
+        "description": {
+          "en": "Entry ticket for eco-park and crocodile sanctuary complex",
+          "hi": "इको-पार्क और मगरमच्छ अभयारण्य परिसर के लिए प्रवेश टिकट"
+        }
+      },
+      "recommendedDurationMinutes": 150,
+      "bestTimeToVisit": {
+        "en": "September to March (Post-monsoon water cascades and winter crocodile basking)",
+        "hi": "सितंबर से मार्च (मानसून के बाद का जलप्रवाह और सर्दियों में मगरमच्छों का धूप सेकना)"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Connected via state highways and rural roads through Bhabua, Chainpur, and Chand. Taxis and private cars are most convenient.",
+        "hi": "भभुआ, चैनपुर और चांद से होकर जाने वाले राज्य मार्गों व पक्की सड़कों द्वारा जुड़ा हुआ है। टैक्सी और निजी कारें सबसे सुविधाजनक हैं।"
+      },
+      "railway": [
+        {
+          "name": {
+            "en": "Bhabua Road Railway Station (BBU) at Mohania",
+            "hi": "भभुआ रोड रेलवे स्टेशन (BBU), मोहनिया"
+          },
+          "distanceKm": 52
+        },
+        {
+          "name": {
+            "en": "Pt. Deen Dayal Upadhyaya Junction (DDU)",
+            "hi": "पंडित दीनदयाल उपाध्याय जंक्शन (DDU)"
+          },
+          "distanceKm": 65
+        },
+        {
+          "name": {
+            "en": "Varanasi Junction (BSB)",
+            "hi": "वाराणसी जंक्शन (BSB)"
+          },
+          "distanceKm": 75
+        }
+      ],
+      "airport": [
+        {
+          "name": {
+            "en": "Lal Bahadur Shastri International Airport, Varanasi (VNS)",
+            "hi": "लाल बहादुर शास्त्री अंतरराष्ट्रीय हवाई अड्डा, वाराणसी (VNS)"
+          },
+          "distanceKm": 95
+        },
+        {
+          "name": {
+            "en": "Jay Prakash Narayan International Airport, Patna (PAT)",
+            "hi": "जयप्रकाश नारायण अंतरराष्ट्रीय हवाई अड्डा, पटना (PAT)"
+          },
+          "distanceKm": 235
+        },
+        {
+          "name": {
+            "en": "Gaya International Airport (GAY)",
+            "hi": "गया अंतरराष्ट्रीय हवाई अड्डा (GAY)"
+          },
+          "distanceKm": 175
+        }
+      ],
+      "localTransport": {
+        "en": "Private hired taxis, local jeeps, and rental cars are easily available from Bhabua and Chainpur markets.",
+        "hi": "भभुआ और चैनपुर बाजार से निजी किराये की टैक्सी, स्थानीय जीप और कारें आसानी से उपलब्ध हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 30,
+        "max": 30,
+        "currency": "INR",
+        "note": {
+          "en": "Eco-park entry ticket per person.",
+          "hi": "प्रति व्यक्ति इको-पार्क प्रवेश टिकट।"
+        }
+      },
+      "localTransport": {
+        "min": 600,
+        "max": 1800,
+        "currency": "INR",
+        "note": {
+          "en": "Estimated roundtrip private cab or jeep fare from Bhabua or Mohania.",
+          "hi": "भभुआ या मोहनिया से निजी कैब या जीप का अनुमानित राउंडट्रिप किराया।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": false,
+      "atm": false,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 400,
+      "stairs": true,
+      "wheelchairAccessible": false,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "To make the most of your visit to Karkatgarh Waterfall and Crocodile Sanctuary, the finest time to plan an excursion is between the months of September and March, when water levels across the Karamnasa River are robust and comfortable daytime temperatures make clifftop walking delightful. Morning visits from 9:00 AM onwards are especially rewarding, as crocodiles frequently haul themselves onto the exposed sunny sandbars and flat rocks below the waterfall to bask in the winter sun. Wear sturdy walking shoes or sneakers to comfortably traverse the suspension bridge, stone viewing ramps, and riverside trails. For personal safety and the protection of wildlife, strictly adhere to forest department guidelines: never lean excessively over bridge railings, never attempt to climb down into the riverbed or tease crocodiles, and do not feed wild animals. Carry a zoom lens or high-powered binoculars for wildlife observation and birdwatching, bring along drinking water and light refreshments, and actively support conservation efforts by ensuring zero littering of plastic or food wrappers in this pristine habitat.",
+        "hi": "करकटगढ़ जलप्रपात और मगरमच्छ अभयारण्य की अपनी यात्रा को सुखद और यादगार बनाने के लिए सबसे उपयुक्त समय सितंबर से मार्च के महीनों का माना जाता है, जब कर्मनाशा नदी में जलप्रवाह भरपूर होता है और सर्दियों की गुनगुनी धूप में घूमना बेहद आनंददायक लगता है। सुबह 9:00 बजे से दोपहर के समय यहाँ पहुँचना विशेष रूप से फलदायी होता है, क्योंकि इस दौरान मगरमच्छ जलप्रपात के नीचे धूप सेकने के लिए नदी के किनारों और शिलाओं पर बाहर निकलते हैं। झूला पुल पार करने और पक्के पैदल रास्तों पर चलने के लिए आरामदायक व ग्रिप वाले जूते पहनें। अपनी सुरक्षा और वन्यजीवों के संरक्षण हेतु वन विभाग के दिशा-निर्देशों का कड़ाई से पालन करें: सस्पेंशन ब्रिज की रेलिंग पर खतरनाक तरीके से न झुकें, नदी के गहरे पानी में उतरने का कतई प्रयास न करें और वन्यजीवों को कुछ भी खाने को न फेंकें। मगरमच्छों और पक्षियों को निकटता से देखने के लिए अच्छी दूरबीन (बाइनोक्युलर्स) या कैमरा ज़ूम लेंस साथ रखें, पीने का पानी साथ लाएं, और इस सुंदर प्राकृतिक पर्यावास को प्रदूषणमुक्त रखने के लिए प्लास्टिक का कचरा यहाँ बिल्कुल न छोड़ें।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "mundeshwari-temple",
+      "telhar-kund",
+      "baidyanath-temple"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        {
+          "title": "Karkatgarh Waterfall - District Portal Kaimur",
+          "organization": "District Administration Kaimur, Government of Bihar",
+          "url": "https://kaimur.nic.in/tourist-place/karkatgarh-water-fall/"
+        },
+        {
+          "title": "Eco Tourism at Karkatgarh - Bihar Tourism",
+          "organization": "Bihar State Tourism Development Corporation",
+          "url": "https://tourism.bihar.gov.in/en/destinations/kaimur"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "baidyanath-temple",
+    "slug": "baidyanath-temple",
+    "name": {
+      "en": "Baidyanath Temple (Baijnath Dham)",
+      "hi": "बैद्यनाथ मंदिर (बैजनाथ धाम)"
+    },
+    "districtId": "kaimur",
+    "placeType": "temple",
+    "primaryCategory": "religious",
+    "categories": [
+      "religious",
+      "historical",
+      "archaeological",
+      "architectural"
+    ],
+    "subcategories": [
+      "ancient_shrine",
+      "pilgrimage",
+      "heritage_monument",
+      "shiva_temple"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "spiritual_circuit",
+      "heritage_circuit",
+      "eco_circuit",
+      "shiva_circuit"
+    ],
+    "tags": [
+      "mustVisit",
+      "ancientShivaTemple",
+      "archaeology",
+      "pratiharaArchitecture",
+      "sacredKund",
+      "stoneCarvings"
+    ],
+    "audiences": [
+      "pilgrims",
+      "history_buffs",
+      "families",
+      "photographers",
+      "culture_enthusiasts"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": true,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "An exquisite ancient Shiva temple dating to the Pratihara and Pala eras, celebrated for its intricate stone carvings, Shivalinga, and historic temple tank.",
+      "hi": "प्रतिहार और पाल काल का एक प्राचीन व भव्य शिव मंदिर, जो अपनी उत्कृष्ट पाषाण नक्काशी, शिवलिंग और पवित्र तालाब के लिए प्रसिद्ध है।"
+    },
+    "description": {
+      "en": "Situated in the quiet historic village of Deohalia within the Ramgarh block of Kaimur district, the **Baidyanath Temple** (locally venerated as *Baijnath Dham*) is an ancient, highly revered pilgrimage shrine and an archaeological masterpiece of medieval Indian temple architecture. Dedicated to **Lord Shiva** as the divine healer (*Vaidyanatha* or Lord of Physicians), the temple compound is constructed entirely from finely carved buff sandstone and stands gracefully on the tranquil embankments of a sprawling sacred pond (*Pokhra*).\n\nThe architectural and spiritual highlights of Baidyanath Temple include:\n- **Ornate Pratihara-Style Shikhara**: Displays a magnificent curvilinear sandstone tower and pillared mandapa whose exquisite stone fretwork and sculpted niches have drawn comparisons with the classical temples of Khajuraho and Bhubaneswar.\n- **Sacred Shiva Lingam**: The inner sanctum houses a venerated, ancient black-stone **Shivalinga**, surrounded by intricately sculpted murtis of Lord Ganesha, Goddess Parvati, Kartikeya, and Surya.\n- **Scattered Sculptural Heritage**: The temple precincts and surrounding open-air lawns preserve numerous ancient stone sculptures, carved door jambs, and decorative lintels unearthed during local excavations.\n- **Tranquil Rural Setting**: Provides a deeply serene, meditative environment far away from urban noise, offering pilgrims a peaceful space for prayer and contemplative reflection.\n\nThis hidden archaeological gem is an indispensable visit for spiritual pilgrims, architecture enthusiasts, and students of Indian medieval sculpture.",
+      "hi": "कैमूर जिले के रामगढ़ प्रखंड अंतर्गत देवहलिया गांव में स्थित **बैद्यनाथ मंदिर** (स्थानीय रूप से *बैजनाथ धाम* के नाम से प्रसिद्ध) एक अत्यंत प्राचीन, पावन शिव तीर्थ और मध्यकालीन भारतीय मंदिर वास्तुकला का एक अद्भुत पुरातात्विक रत्न है। भगवान शिव को आरोग्य के स्वामी और परम चिकित्सक (*वैद्यनाथ*) के रूप में समर्पित यह भव्य मंदिर परिसर नक्काशीदार बलुआ पत्थरों से निर्मित है, जो एक विशाल और प्राचीन पवित्र सरोवर (पोखरा) के सुरम्य तट पर सुशोभित है।\n\nबैद्यनाथ मंदिर के मुख्य स्थापत्य और आध्यात्मिक आकर्षण निम्नलिखित हैं:\n- **प्रतिहार कालीन भव्य शिखर शैली**: मंदिर का सुंदर वक्ररेखीय पाषाण शिखर और नक्काशीदार खंभों वाला मंडप प्राचीन भारतीय शिल्प का बेजोड़ नमूना है, जिसकी बारीक नक्काशी और देव-प्रतिमाओं की तुलना इतिहासकार खजुराहो और भुवनेश्वर की मंदिर कला से करते हैं।\n- **प्राचीन पावन शिवलिंग**: मंदिर के गर्भगृह में एक अत्यंत पूजनीय और प्राचीन कृष्ण-पाषाण **शिवलिंग** स्थापित है, जिसके समीप भगवान गणेश, माँ पार्वती, कार्तिकेय और भगवान सूर्य की प्राचीन मूर्तियां विराजमान हैं।\n- **अमूल्य पुरातात्विक धरोहर**: मंदिर प्रांगण और आसपास के परिसर में उत्खनन से प्राप्त कई प्राचीन मूर्तियां, अलंकृत द्वार-चौखटें और प्रस्तर खंड सुरक्षित हैं, जो इस क्षेत्र के समृद्ध इतिहास की गवाही देते हैं।\n- **शांत आध्यात्मिक परिवेश**: शहर की भागदौड़ से दूर ग्रामीण अंचल में स्थित यह पावन धाम ध्यान, आत्मिक शांति और ईश्वर वंदना के लिए एक अत्यंत शांत और पवित्र वातावरण प्रदान करता है।\n\nधार्मिक श्रद्धालुओं, स्थापत्य कला प्रेमियों और प्राचीन भारतीय मूर्तिकला के अध्येताओं के लिए बैजनाथ धाम कैमूर की एक अनिवार्य दर्शनीय धरोहर है।"
+    },
+    "history": {
+      "en": "The historical genesis of **Baidyanath Temple** at Deohalia is deeply rooted in the post-Gupta, Gurjara-Pratihara, and early Pala epochs of eastern India, roughly spanning between the **8th and 11th centuries CE**. Epigraphists and art historians who surveyed the site have identified distinct stylistic layers of architectural construction, suggesting that an earlier temple structure existed as far back as the late Gupta period before undergoing magnificent reconstruction under the royal patronage of the **Pratihara kings**.\n\nHistorical milestones and archaeological insights include:\n- **Pratihara Architectural Flowering**: The curvilinear tower (*shikhara*), ornate trefoil arches, and floral arabesques on the stone plinth demonstrate the sophisticated artistic ethos of the Kannauj-based Pratiharas who held sway over southern Bihar.\n- **Pala Sculptural Influence**: Several detached sculptures preserved around the mandapa, including masterfully carved black basalt depictions of Vishnu, Uma-Maheshwara, and Surya, reveal classical Pala artistry from the 9th to 10th centuries.\n- **Oral Legends of Divine Healing**: Folkloric lore recounts that ancient sages and royalty afflicted by stubborn illnesses made arduous pilgrimages to this shrine, immersing themselves in the consecrated waters of the adjacent pond to seek Lord Vaidyanatha's miraculous curative blessings.\n- **Archaeological Protection & Rediscovery**: Identified by the Archaeological Survey of India (ASI) and the Bihar State Directorate of Archaeology as an invaluable state-protected heritage monument, continuous efforts have preserved its remaining stone sanctum and pillared hall.",
+      "hi": "देवहलिया स्थित **बैद्यनाथ मंदिर** की ऐतिहासिक उत्पत्ति पूर्वी भारत के गुप्तोत्तर, गुर्जर-प्रतिहार और प्रारंभिक पाल साम्राज्य के कालखंडों से गहराई से जुड़ी हुई है, जिसका समय लगभग **8वीं से 11वीं शताब्दी ईस्वी** के मध्य माना जाता है। स्थल का सर्वेक्षण करने वाले पुरातत्वविदों और कला इतिहासकारों ने यहाँ की स्थापत्य शैली में कई ऐतिहासिक परतों की पहचान की है, जिससे यह प्रमाणित होता है कि यहाँ गुप्त काल के अंतिम चरण में एक प्राचीन देवालय मौजूद था, जिसे बाद में **प्रतिहार राजवंश** के संरक्षण में एक भव्य पाषाण मंदिर के रूप में पुनर्गठित किया गया।\n\nइसके ऐतिहासिक और पुरातात्विक पहलू निम्नलिखित हैं:\n- **प्रतिहार कालीन स्थापत्य वैभव**: मंदिर का वक्राकार नागर शिखर, तोरण द्वार, और अधिष्ठान पर उत्कीर्ण लताओं व देवी-देवताओं के चित्र कन्नौज के प्रतिहार शासकों की उत्कृष्ट कला शैली को दर्शाते हैं, जिनका प्रभाव तत्कालीन मगध और शाहाबाद क्षेत्र पर था।\n- **पाल कालीन मूर्तिकला का प्रभाव**: मंदिर परिसर में सुरक्षित काले कसौटी पत्थर से बनी भगवान विष्णु, उमा-महेश्वर और सूर्य देव की प्रतिमाओं में 9वीं-10वीं शताब्दी की पाल मूर्तिकला की स्पष्ट छाप दिखाई देती है।\n- **आरोग्य और लोक मान्यताएं**: जनश्रुतियों के अनुसार, प्राचीन काल में असाध्य रोगों से मुक्ति पाने के लिए राजा-महाराजा और श्रद्धालु दूर-दूर से यहाँ आते थे और मंदिर से जुड़े पावन सरोवर में स्नान कर भगवान वैद्यनाथ से आरोग्य का आशीर्वाद प्राप्त करते थे।\n- **धरोहर संरक्षण**: भारतीय पुरातत्व सर्वेक्षण (ASI) और बिहार राज्य पुरातत्व निदेशालय द्वारा इस प्राचीन स्थल को संरक्षित धरोहर के रूप में दर्ज किया गया है, और इसके प्राचीन गर्भगृह व नक्काशीदार अवशेषों को सुरक्षित रखने के निरंतर प्रयास किए जा रहे हैं।"
+    },
+    "significance": {
+      "en": "The significance of the **Baidyanath Temple** at Ramgarh resides in its exceptional status as both an enduring center of rural Shaivite pilgrimage and an irreplaceable monument of medieval stone craftsmanship in Bihar:\n\n- **Spiritual Sanctuary of Healing**: Revered by devotees across Kaimur, Buxar, and Rohtas districts as a potent healing shrine where prayers offered to Lord Vaidyanatha are believed to alleviate physical ailments, bestow good health, and grant longevity.\n- **Rare Pratihara Heritage in Southern Bihar**: While northern and central India contain renowned Pratihara monuments, Baidyanath Temple stands as one of the few well-preserved structural temples in southern Bihar showcasing the pure curvilinear Nagara shikhara of that era.\n- **Sacred Temple Pond (Amrit Sarovar)**: The expansive historic water reservoir facing the temple is an essential ritual center where pilgrims perform holy ablutions, ancestral tarpan rituals, and festive immersions.\n- **Epicenter of Shravani and Shivaratri Festivities**: During the sacred Hindu month of **Shravan** (July-August) and the grand festival of **Mahashivaratri**, tens of thousands of saffron-clad Kanwariyas and pilgrims congregate at the shrine to offer holy Ganges water onto the sacred Shivalinga amidst resonant Vedic chants.",
+      "hi": "रामगढ़ स्थित **बैद्यनाथ मंदिर** का महत्व ग्रामीण शैव तीर्थ परंपरा के एक जाग्रत केंद्र और बिहार में मध्यकालीन पाषाण स्थापत्य के एक दुर्लभ जीवित स्मारक के रूप में अत्यधिक प्रतिष्ठा रखता है:\n\n- **आरोग्य और स्वास्थ्य का दिव्य धाम**: कैमूर, बक्सर और रोहतास अंचल के श्रद्धालुओं के बीच यह अटूट विश्वास है कि यहाँ भगवान वैद्यनाथ की निष्ठापूर्वक पूजा-अर्चना करने से असाध्य शारीरिक कष्टों और रोगों से मुक्ति मिलती है तथा सुख-समृद्धि की प्राप्ति होती है।\n- **दक्षिण बिहार में दुर्लभ प्रतिहार स्थापत्य**: जहाँ उत्तर व मध्य भारत में प्रतिहार कालीन मंदिर प्रचुर मात्रा में मिलते हैं, वहीं दक्षिण बिहार में यह उन गिने-चुने प्राचीन मंदिरों में से है जहाँ मूल नागर शैली का वक्राकार पाषाण शिखर आज भी विद्यमान है।\n- **पवित्र मंदिर सरोवर**: मंदिर के सामने स्थित विशाल प्राचीन जलाशय धार्मिक दृष्टि से अत्यंत पावन माना जाता है, जहाँ तीर्थयात्री पूजा से पूर्व पवित्र स्नान करते हैं और अपने पितरों के निमित्त तर्पण एवं अनुष्ठान संपन्न करते हैं।\n- **श्रावणी मेला एवं महाशिवरात्रि का महापर्व**: पवित्र **श्रावण मास** (जुलाई-अगस्त) और **महाशिवरात्रि** के पावन अवसर पर यहाँ विशाल धार्मिक मेले का आयोजन होता है, जिसमें गंगाजल लेकर आने वाले हजारों कांवड़िए और शिवभक्त शिवलिंग पर जलाभिषेक कर पुण्य लाभ अर्जित करते हैं।"
+    },
+    "location": {
+      "address": {
+        "en": "Baidyanath Temple (Baijnath Dham) Heritage Complex, Village Deohalia, Ramgarh Administrative Block, Kaimur (Bhabua) District, Bihar 821110, India. Situated gracefully in the northern fertile agricultural belt of Kaimur district along the historic road corridor connecting Ramgarh with Mohania and Buxar, the temple lies approximately 28 kilometers north of the district headquarters at Bhabua and roughly 15 kilometers north of Mohania town on National Highway 19 (Grand Trunk Road). The regional road network provides direct and hassle-free vehicular connectivity to major urban centers, situated approximately 75 kilometers east of Varanasi, 45 kilometers south of Buxar, and roughly 195 kilometers west of Patna. The temple complex is directly adjacent to the historic village sarovar (tank) and features a landscaped approach road, peaceful rural surrounding groves, dedicated pilgrim assembly grounds, and local marketplace stalls offering puja offerings and fresh floral garlands.",
+        "hi": "बैद्यनाथ मंदिर (बैजनाथ धाम) धरोहर परिसर, ग्राम देवहलिया, रामगढ़ प्रशासनिक प्रखंड, कैमूर (भभुआ) जिला, बिहार 821110, भारत। कैमूर जिले के उत्तरी उपजाऊ मैदानी भाग में रामगढ़-मोहनिया-बक्सर मार्ग के समीप स्थित यह पावन मंदिर जिला प्रशासनिक मुख्यालय भभुआ से लगभग 28 किलोमीटर उत्तर दिशा में और राष्ट्रीय राजमार्ग 19 (जीटी रोड) पर स्थित मोहनिया नगर से मात्र 15 किलोमीटर उत्तर में स्थित है। यह स्थल पक्की सड़कों द्वारा क्षेत्रीय शहरों से बेहतरीन तरीके से जुड़ा हुआ है, जो वाराणसी से लगभग 75 किलोमीटर पूर्व, बक्सर से लगभग 45 किलोमीटर दक्षिण और राजधानी पटना से लगभग 195 किलोमीटर पश्चिम में स्थित है। मंदिर परिसर ऐतिहासिक ग्रामीण सरोवर के ठीक तट पर अवस्थित है, जहाँ पक्की संपर्क सड़क, शांतिपूर्ण ग्रामीण परिवेश, श्रद्धालुओं के एकत्र होने के लिए खुला प्रांगण और ताजे फूलों व पूजा सामग्री की स्थानीय दुकानें उपलब्ध हैं।"
+      },
+      "latitude": 25.2954,
+      "longitude": 83.6712,
+      "mapQuery": "Baidyanath Temple, Deohalia, Ramgarh, Kaimur, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "days": {
+            "en": "Monday to Sunday",
+            "hi": "सोमवार से रविवार"
+          },
+          "time": {
+            "en": "05:30 AM - 08:00 PM",
+            "hi": "प्रातः 05:30 बजे से सायं 08:00 बजे तक"
+          }
+        }
+      ],
+      "entryFee": {
+        "amount": 0,
+        "currency": "INR",
+        "description": {
+          "en": "Free entry for all devotees and visitors",
+          "hi": "सभी श्रद्धालुओं और पर्यटकों के लिए निःशुल्क प्रवेश"
+        }
+      },
+      "recommendedDurationMinutes": 60,
+      "bestTimeToVisit": {
+        "en": "October to March (Special festivities during Mahashivaratri and Shravan month)",
+        "hi": "अक्टूबर से मार्च (महाशिवरात्रि और सावन मास के दौरान विशेष उत्सव)"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Directly accessible via the Mohania-Ramgarh-Buxar State Highway. Excellent road condition from Mohania (15 km) and Bhabua (28 km).",
+        "hi": "मोहनिया-रामगढ़-बक्सर राज्य मार्ग द्वारा सीधे सुलभ। मोहनिया (15 किमी) और भभुआ (28 किमी) से पक्की सड़क का बेहतरीन संपर्क।"
+      },
+      "railway": [
+        {
+          "name": {
+            "en": "Bhabua Road Railway Station (BBU) at Mohania",
+            "hi": "भभुआ रोड रेलवे स्टेशन (BBU), मोहनिया"
+          },
+          "distanceKm": 15
+        },
+        {
+          "name": {
+            "en": "Zamania Railway Station (ZNA)",
+            "hi": "जमानिया रेलवे स्टेशन (ZNA)"
+          },
+          "distanceKm": 25
+        },
+        {
+          "name": {
+            "en": "Pt. Deen Dayal Upadhyaya Junction (DDU)",
+            "hi": "पंडित दीनदयाल उपाध्याय जंक्शन (DDU)"
+          },
+          "distanceKm": 65
+        }
+      ],
+      "airport": [
+        {
+          "name": {
+            "en": "Lal Bahadur Shastri International Airport, Varanasi (VNS)",
+            "hi": "लाल बहादुर शास्त्री अंतरराष्ट्रीय हवाई अड्डा, वाराणसी (VNS)"
+          },
+          "distanceKm": 95
+        },
+        {
+          "name": {
+            "en": "Jay Prakash Narayan International Airport, Patna (PAT)",
+            "hi": "जयप्रकाश नारायण अंतरराष्ट्रीय हवाई अड्डा, पटना (PAT)"
+          },
+          "distanceKm": 200
+        },
+        {
+          "name": {
+            "en": "Gaya International Airport (GAY)",
+            "hi": "गया अंतरराष्ट्रीय हवाई अड्डा (GAY)"
+          },
+          "distanceKm": 155
+        }
+      ],
+      "localTransport": {
+        "en": "Local auto-rickshaws, shared jeeps, and rental taxis operate continuously between Mohania, Ramgarh, and Bhabua.",
+        "hi": "मोहनिया, रामगढ़ और भभुआ के बीच स्थानीय ऑटो-रिक्शा, शेयर जीप और किराये की टैक्सियां निरंतर संचालित होती हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 0,
+        "max": 0,
+        "currency": "INR",
+        "note": {
+          "en": "No entry fee charged for temple darshan.",
+          "hi": "मंदिर दर्शन के लिए कोई प्रवेश शुल्क नहीं लिया जाता है।"
+        }
+      },
+      "localTransport": {
+        "min": 50,
+        "max": 150,
+        "currency": "INR",
+        "note": {
+          "en": "Shared auto or jeep fare from Mohania to Deohalia village.",
+          "hi": "मोहनिया से देवहलिया गांव तक शेयर ऑटो या जीप का किराया।"
+        }
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": false,
+      "atm": true,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 150,
+      "stairs": true,
+      "wheelchairAccessible": false,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "When planning a pilgrimage to the historic Baidyanath Temple at Ramgarh, visiting during the cool morning hours between 6:30 AM and 10:00 AM or late afternoon around 4:30 PM offers a wonderfully tranquil, devotional experience away from midday heat. If you wish to witness vibrant regional cultural festivities, schedule your visit during Mahashivaratri in February-March or on Mondays during the auspicious Hindu month of Shravan (July-August), though you should prepare for significant pilgrim congregations and longer queue times. Dress modestly in traditional Indian clothing out of respect for local temple traditions and remove your footwear outside the mandapa entrance in designated shoe stands. Visitors who appreciate historic art and photography should carry a camera to closely document the intricate medieval friezes, ceiling carvings, and ancient basalt murtis adorning the sanctum walls, although flashes should be minimized inside the sanctum. Combine your journey with nearby cultural attractions such as the iconic Mundeshwari Temple or the scenic Buxar riverfront, and always maintain the cleanliness and spiritual sanctity of the temple grounds and holy pond.",
+        "hi": "रामगढ़ स्थित ऐतिहासिक बैद्यनाथ मंदिर की यात्रा की योजना बनाते समय, सुबह 6:30 बजे से 10:00 बजे के बीच अथवा सायं 4:30 बजे के आसपास का समय सबसे उत्तम रहता है, जिससे आप दोपहर की धूप से बचकर शांत और भक्तिमय वातावरण में दर्शन कर सकें। यदि आप जीवंत लोक संस्कृति और भव्य धार्मिक उत्सवों का अनुभव करना चाहते हैं, तो फरवरी-मार्च में महाशिवरात्रि अथवा सावन मास (जुलाई-अगस्त) के सोमवार के दिन अपनी यात्रा रखें; हालांकि इन अवसरों पर भारी भीड़ के कारण दर्शन के लिए कुछ अतिरिक्त समय अवश्य रखें। स्थानीय धार्मिक मान्यताओं का सम्मान करते हुए शालीन पारंपरिक परिधान पहनें और मंडप में प्रवेश करने से पूर्व जूते-चप्पल निर्धारित स्थान पर उतारें। प्राचीन मूर्तिकला और फोटोग्राफी में रुचि रखने वाले पर्यटकों को मंदिर की दीवारों पर उत्कीर्ण मध्यकालीन नक्काशी, सुंदर छतों और गर्भगृह की प्राचीन कसौटी मूर्तियों का अवलोकन करने के लिए कैमरा अवश्य साथ रखना चाहिए। अपनी यात्रा के साथ आप निकटवर्ती मुंडेश्वरी मंदिर अथवा बक्सर के गंगा घाटों का भ्रमण भी जोड़ सकते हैं, और मंदिर परिसर तथा पवित्र सरोवर की स्वच्छता और पवित्रता का सदैव ध्यान रखें।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "mundeshwari-temple",
+      "karkatgarh-waterfall",
+      "telhar-kund"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-19",
+      "sources": [
+        {
+          "title": "Baidyanath Temple Ramgarh - Kaimur District Portal",
+          "organization": "District Administration Kaimur, Government of Bihar",
+          "url": "https://kaimur.nic.in/tourist-place/baidyanath-temple/"
+        },
+        {
+          "title": "Ancient Temples of Bihar - Directorate of Archaeology",
+          "organization": "Art, Culture & Youth Department, Government of Bihar",
+          "url": "https://yac.bihar.gov.in/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-19",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  }
+]

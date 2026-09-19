@@ -1,0 +1,824 @@
+[
+  {
+    "id": "chirand",
+    "slug": "chirand",
+    "name": {
+      "en": "Chirand Archaeological Site",
+      "hi": "चिरांद पुरातात्विक स्थल"
+    },
+    "districtId": "saran",
+    "placeType": "archaeological_site",
+    "primaryCategory": "archaeological",
+    "categories": [
+      "archaeological",
+      "historical",
+      "educational",
+      "heritage"
+    ],
+    "subcategories": [
+      "ancient_settlement",
+      "neolithic_site",
+      "excavation"
+    ],
+    "circuits": [
+      "archaeological_circuit",
+      "heritage_circuit"
+    ],
+    "tags": [
+      "mustVisit",
+      "neolithic",
+      "gangaPlain",
+      "archaeology",
+      "ancientIndia",
+      "heritage"
+    ],
+    "audiences": [
+      "history_buffs",
+      "students",
+      "researchers",
+      "archaeologists",
+      "families"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "An internationally renowned Neolithic and Chalcolithic archaeological settlement on the banks of River Ghaghara, shedding light on over 4,500 years of civilization.",
+      "hi": "घाघरा नदी के तट पर स्थित एक अंतरराष्ट्रीय स्तर पर प्रसिद्ध नवपाषाण और ताम्रपाषाण कालीन पुरातात्विक स्थल, जो 4,500 से अधिक वर्षों के सभ्यतागत इतिहास को उजागर करता है।"
+    },
+    "description": {
+      "en": "**Chirand** is one of India's most celebrated archaeological treasures, located on the northern bank of the sacred **Ghaghara (Saryu) River** near its confluence with the holy **Ganga** in the Saran district of Bihar. Recognized globally by historians and anthropologists, Chirand stands out as the very first known **Neolithic settlement** discovered in the fertile alluvial plains of the Middle Ganges basin. The site features an imposing multi-period mound rising nearly 30 feet above the riverbed, representing continuous human habitation spanning several millennia.\n\nVisitors to Chirand are greeted by an atmospheric archaeological landscape where ancient human settlement met agricultural innovation. Extensive excavations carried out by the Archaeological Survey of India and the Directorate of Archaeology, Bihar, revealed that prehistoric inhabitants lived in sophisticated circular mud-plastered huts with reed walls and thatched roofs. The sheer abundance of meticulously crafted bone tools, microliths, terracotta figurines, and beads found here testifies to a prosperous and creative riverside society. Today, Chirand serves as an open-air historical sanctuary for scholars, history enthusiasts, and curious travelers eager to connect with the dawn of urban civilization in northern India.",
+      "hi": "**चिरांद** भारत के सबसे प्रतिष्ठित पुरातात्विक स्थलों में से एक है, जो बिहार के सारण जिले में पवित्र **गंगा** के साथ संगम के पास **घाघरा (सरयू) नदी** के उत्तरी तट पर स्थित है। इतिहासकारों और मानवविज्ञानियों द्वारा विश्व स्तर पर प्रशंसित, चिरांद मध्य गंगा के उपजाऊ जलोढ़ मैदानों में खोजा गया पहला ज्ञात **नवपाषाण युगीन स्थल** होने का गौरव रखता है। यह स्थल नदी के तल से लगभग 30 फीट ऊपर उठे एक विशाल बहु-स्तरीय टीले का प्रतिनिधित्व करता है, जो सहस्राब्दियों तक चली निरंतर मानव बस्तियों का जीवंत प्रमाण है।\n\nचिरांद आने वाले आगंतुकों का स्वागत एक ऐसे ऐतिहासिक और शांत परिदृश्य द्वारा किया जाता है जहाँ प्राचीन मानव समाज ने कृषि और शिल्प क्रांति का सूत्रपात किया था। भारतीय पुरातत्व सर्वेक्षण और बिहार पुरातत्व निदेशालय द्वारा की गई व्यापक खुदाइयों से पता चला है कि यहाँ के प्रागैतिहासिक निवासी सरकंडों की दीवारों और मिट्टी से पुती गोल झोपड़ियों में रहते थे। यहाँ बड़ी संख्या में मिले हड्डियों के उपकरण, सूक्ष्म पाषाण औजार, टेराकोटा की मूर्तियाँ और मनके एक समृद्ध नदी तटीय सभ्यता की गवाही देते हैं। आज, चिरांद शोधकर्ताओं, विद्यार्थियों और प्राचीन भारतीय इतिहास के प्रेमियों के लिए एक अद्वितीय तीर्थ बन चुका है।"
+    },
+    "history": {
+      "en": "The archaeological legacy of **Chirand** was first brought to scholarly prominence through systematic excavations initiated in the 1960s and 1970s under renowned archaeologist Dr. B. S. Verma. The stratigraphy of Chirand reveals five distinct cultural horizons spanning nearly four millennia:\n\n- **Neolithic Period (c. 2500 BCE – 1500 BCE)**: Marked by unique circular wattle-and-daub houses, domesticated paddy, barley, and wheat cultivation, and a prolific bone tool industry crafted from deer antlers.\n- **Chalcolithic Period**: Characterized by black-and-red ware pottery, copper tools, painted ceramics, and organized village settlements.\n- **Iron Age & NBPW (Northern Black Polished Ware)**: Transitioning into the vibrant Mahajanapada era, witnessing fortified structures, cast copper coins, and trade networks connecting Magadha and Kosala.\n- **Kushan and Gupta Eras**: Evidenced by burnt-brick residential complexes, carved stone votive stupas, exquisite terracottas, and ornate seals.\n- **Early Medieval Period**: Representing the terminal phase of the historic settlement before shifting river courses transformed the topography.\n\nChirand's remarkable continuity makes it a textbook reference point for the evolution of human technology and agrarian society in South Asia.",
+      "hi": "**चिरांद** की पुरातात्विक विरासत को पहली बार 1960 और 1970 के दशक में प्रसिद्ध पुरातत्वविद् डॉ. बी. एस. वर्मा के नेतृत्व में व्यवस्थित उत्खनन के माध्यम से अंतरराष्ट्रीय ख्याति मिली। चिरांद की परतदार संरचना लगभग चार सहस्राब्दियों में फैले पाँच अलग-अलग सांस्कृतिक कालों को उजागर करती है:\n\n- **नवपाषाण काल (लगभग 2500 ई.पू. - 1500 ई.पू.)**: सरकंडे और मिट्टी की गोलाकार झोपड़ियाँ, धान, जौ और गेहूँ की खेती, तथा हिरण के सींगों से बने अद्वितीय हड्डी औजार उद्योग इसकी प्रमुख पहचान हैं।\n- **ताम्रपाषाण काल**: काले और लाल मृद्भांड (Black and Red Ware), तांबे के औजार, चित्रित बर्तन और संगठित ग्रामीण जीवन का विकास।\n- **लौह युग एवं एनबीपीडब्ल्यू (उत्तरी कृष्ण मार्जित मृद्भांड)**: महाजनपद काल के दौरान पकी ईंटों के निर्माण, ढलवां तांबे के सिक्के और मगध-कोशल व्यापारिक संबंधों का विस्तार।\n- **कुषाण और गुप्त काल**: विशाल आवासीय परिसर, नक्काशीदार पत्थर के स्तूप, उत्कृष्ट टेराकोटा मूर्तियाँ और मुहरें।\n- **प्रारंभिक मध्यकाल**: ऐतिहासिक बस्ती का अंतिम चरण, जिसके बाद नदियों के प्रवाह में बदलाव ने यहाँ के भूगोल को नया रूप दिया।\n\nचिरांद का यह अखंड कालक्रम दक्षिण एशिया में मानव तकनीक और कृषि समाज के क्रमिक विकास का एक दुर्लभ दस्तावेज है।"
+    },
+    "significance": {
+      "en": "The historical and anthropological significance of **Chirand** is unparalleled in Indian archaeology:\n\n- **Cradle of Gangetic Civilization**: It conclusively disproved earlier hypotheses that Neolithic cultures in India were confined to hilly frontiers, proving that fertile river floodplains nurtured vibrant prehistoric farming societies.\n- **Mastery in Bone Technology**: Chirand is globally famous for yielding the largest and most sophisticated assemblage of bone tools anywhere in Neolithic India, including needles, daggers, arrowheads, scrapers, and chisels fashioned from antler bones.\n- **Pioneering Agriculture**: Remains of carbonized rice, lentils, and wheat recovered from Chirand represent some of the earliest empirical proof of organized farming and food storage in Eastern India.\n- **Cultural Crossroad**: Situated at the maritime crossroads of the Ghaghara and Ganga, it was a pivotal trade node linking northern hill communities with riverine trade routes.\n- **Heritage Education**: It provides university students, historians, and school groups with a tangible, living connection to humanity's transition from hunter-gatherers to settled farmers.",
+      "hi": "भारतीय पुरातत्व और इतिहास में **चिरांद** का महत्व अत्यंत विशिष्ट और युगांतरकारी है:\n\n- **गंगा घाटी की सभ्यता का पालना**: चिरांद की खोज ने उस पुरानी धारणा को खंडित कर दिया कि भारत में नवपाषाण संस्कृति केवल पहाड़ी इलाकों तक सीमित थी; इसने साबित किया कि गंगा के उपजाऊ मैदानों में प्रागैतिहासिक किसान समाज फल-फूल रहे थे।\n- **हड्डी शिल्प की पराकाष्ठा**: पूरे भारतीय उपमहाद्वीप में चिरांद नवपाषाण कालीन हड्डी के औजारों के सबसे बड़े और सबसे परिष्कृत संग्रह के लिए जाना जाता है, जिसमें हिरण के सींगों से बनी सुइयां, भाले, तीर, छैनी और आभूषण शामिल हैं।\n- **कृषि का प्रारंभिक साक्ष्य**: चिरांद से मिले जले हुए चावल, दाल और गेहूं के दानों ने पूर्वी भारत में व्यवस्थित खेती और अन्न भंडारण के सबसे पुराने प्रत्यक्ष प्रमाण प्रस्तुत किए।\n- **प्राचीन व्यापारिक संगम**: घाघरा और गंगा के रणनीतिक जलमार्ग पर स्थित होने के कारण, यह स्थल प्रागैतिहासिक काल से ही अंतर्देशीय विनिमय और व्यापार का एक महत्वपूर्ण केंद्र रहा।\n- **शैक्षिक एवं अनुसंधान केंद्र**: यह स्थल शोधकर्ताओं, इतिहासकारों और पर्यटकों को शिकार युग से संगठित कृषि समाज में मानव सभ्यता के ऐतिहासिक परिवर्तन को प्रत्यक्ष रूप से समझने का अवसर देता है।"
+    },
+    "location": {
+      "address": {
+        "en": "Chirand Archaeological Site Mound, Post Office Doriganj, Chirand Village, Sadar Block, Chapra Sub-division, Saran District, Bihar 841211, India.\n\nThe prehistoric site is prominently situated approximately 11 kilometers southeast of the district headquarters of Chapra and roughly 65 kilometers west of the state capital Patna. Perched gracefully along the elevated northern embankment overlooking the strategic confluence where the holy Ghaghara (Saryu) River merges into the Ganga near Doriganj Market, Chirand is easily accessible via the Chapra–Patna Highway (National Highway 19 / NH-31). The archaeological zone is demarcated by lush rural greenery, well-preserved excavation mounds, an on-site interpretive center, and wide vantage points offering panoramic vistas of the perennial river waters.",
+        "hi": "चिरांद पुरातात्विक स्थल टीला, डाकघर डोरीगंज, चिरांद ग्राम, सदर प्रखंड, छपरा अनुमंडल, सारण जिला, बिहार 841211, भारत।\n\nयह प्रतिष्ठित प्रागैतिहासिक स्थल सारण जिला मुख्यालय छपरा से लगभग 11 किलोमीटर दक्षिण-पूर्व में तथा राज्य की राजधानी पटना से लगभग 65 किलोमीटर पश्चिम में स्थित है। डोरीगंज बाजार के निकट पवित्र घाघरा (सरयू) नदी और गंगा के संगम को निहारते हुए ऊंचे उत्तरी तटबंध पर स्थित, चिरांद छपरा-पटना राष्ट्रीय राजमार्ग (एनएच-19 / एनएच-31) के माध्यम से अत्यंत सुगमता से पहुंचा जा सकता है। यह ऐतिहासिक पुरातात्विक क्षेत्र सुंदर ग्रामीण हरियाली, सुरक्षित उत्खनन टीलों, एक ऑन-साइट व्याख्या केंद्र और चौड़े निरीक्षण बिंदुओं से घिरा हुआ है जो शांत एवं अविरल नदी जलधारा के मनोहारी एवं विस्तृत दृश्य प्रस्तुत करते हैं।"
+      },
+      "latitude": 25.7533,
+      "longitude": 84.8291,
+      "mapQuery": "Chirand Archaeological Site, Saran, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "day": "Monday - Sunday",
+          "open": "09:00",
+          "close": "17:00",
+          "closed": false
+        }
+      ],
+      "entryFee": {
+        "amount": 0,
+        "currency": "INR",
+        "type": "Free Entry"
+      },
+      "recommendedDurationMinutes": 120,
+      "bestTimeToVisit": {
+        "en": "October to March (Pleasant weather, ideal for walking and open-air exploration).",
+        "hi": "अक्टूबर से मार्च (सुहावना मौसम, घूमने और खुले में पुरातात्विक स्थल देखने के लिए आदर्श)।"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Well-connected by paved motorable roads. Located directly off NH-19 (Chapra-Patna Highway) near Doriganj, approximately 11 km from Chapra city and 65 km from Patna.",
+        "hi": "पक्की पक्की सड़कों से अच्छी तरह जुड़ा हुआ। डोरीगंज के पास एनएच-19 (छपरा-पटना राजमार्ग) से सीधा जुड़ाव, छपरा शहर से लगभग 11 किमी और पटना से 65 किमी की दूरी पर।"
+      },
+      "railway": [
+        {
+          "name": {
+            "en": "Chhapra Junction Railway Station (CPR)",
+            "hi": "छपरा जंक्शन रेलवे स्टेशन (CPR)"
+          },
+          "distanceKm": 12
+        }
+      ],
+      "airport": [
+        {
+          "name": {
+            "en": "Jay Prakash Narayan International Airport, Patna (PAT)",
+            "hi": "जयप्रकाश नारायण अंतर्राष्ट्रीय हवाई अड्डा, पटना (PAT)"
+          },
+          "distanceKm": 68
+        }
+      ],
+      "localTransport": {
+        "en": "Shared auto-rickshaws, e-rickshaws, and private taxis are readily available from Chapra bus stand and railway station to Doriganj/Chirand.",
+        "hi": "छपरा बस स्टैंड और रेलवे स्टेशन से डोरीगंज/चिरांद के लिए शेयरिंग ऑटो-रिक्शा, ई-रिक्शा और निजी टैक्सियां आसानी से उपलब्ध हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 0,
+        "max": 0,
+        "currency": "INR"
+      },
+      "localTransport": {
+        "min": 50,
+        "max": 300,
+        "currency": "INR"
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": false,
+      "accommodation": false,
+      "atm": false,
+      "medical": false
+    },
+    "accessibility": {
+      "difficulty": "moderate",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 800,
+      "stairs": false,
+      "wheelchairAccessible": false,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "- **Ideal Timing & Lighting**: Plan your visit during the morning or late afternoon between October and March to comfortably explore the excavated mounds and capture stunning golden-hour photographs over the river Ghaghara.",
+        "hi": "- **उत्तम समय और प्रकाश**: टीलों का आराम से भ्रमण करने और घाघरा नदी पर मनमोहक फोटोग्राफी के लिए अक्टूबर से मार्च के महीनों में सुबह या देर दोपहर के समय जाने की योजना बनाएं।"
+      },
+      {
+        "en": "- **Engage a Local Historian or Caretaker**: The archaeological significance of earthen mounds can be easily missed by an untrained eye; request the on-site ASI staff or local guides to explain the stratification and bone tool discoveries.",
+        "hi": "- **स्थानीय गाइड या केयरटेकर का सहयोग लें**: टीलों की ऐतिहासिक महत्ता को साधारण नजर से समझना कठिन हो सकता है; इसलिए साइट पर मौजूद गाइड या कर्मियों से पुरातात्विक परतों और हड्डी औजारों की जानकारी अवश्य लें।"
+      },
+      {
+        "en": "- **Comfortable Gear**: Wear sturdy walking shoes or sneakers and carry sun protection, as walking along the elevated mud mounds and open riverbanks requires moderate physical movement.",
+        "hi": "- **सुविधाजनक वस्त्र एवं जूते**: टीलों और नदी तटबंध के असमान रास्तों पर चलने के लिए आरामदायक जूते पहनें और धूप से बचने के लिए टोपी तथा पीने का पानी साथ रखें।"
+      },
+      {
+        "en": "- **Combine with Nearby Attractions**: Easily combine your trip to Chirand with a visit to the nearby Aami Ambika Bhawani Temple (18 km east) and Gautam Asthan (19 km west) for a complete cultural day circuit.",
+        "hi": "- **समीपवर्ती स्थलों के साथ भ्रमण**: अपने दौरे को और समृद्ध बनाने के लिए चिरांद के साथ-साथ आमी स्थित माँ अम्बिका भवानी मंदिर (18 किमी पूर्व) और गौतम स्थान (19 किमी पश्चिम) को भी अपने यात्रा कार्यक्रम में शामिल करें।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "aami-mandir",
+      "gautam-asthan-revelganj",
+      "hariharnath-temple-sonepur"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-18",
+      "sources": [
+        {
+          "title": "Chirand Archaeological Site",
+          "organization": "Bihar Tourism",
+          "url": "https://tourism.bihar.gov.in/en/destinations/saran/chirand"
+        },
+        {
+          "title": "District Saran Archaeological Heritage",
+          "organization": "District Administration Saran",
+          "url": "https://saran.nic.in/tourist-place/chirand/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-18",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "aami-mandir",
+    "slug": "aami-mandir",
+    "name": {
+      "en": "Maa Ambika Bhawani Temple (Aami Mandir)",
+      "hi": "माँ अम्बिका भवानी मंदिर (आमी मंदिर)"
+    },
+    "districtId": "saran",
+    "placeType": "temple",
+    "primaryCategory": "religious",
+    "categories": [
+      "religious",
+      "pilgrimage_site",
+      "historical",
+      "cultural"
+    ],
+    "subcategories": [
+      "shakti_peeth",
+      "devi_temple",
+      "sacred_kunda"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "shakti_circuit",
+      "spiritual_circuit",
+      "shiva_circuit"
+    ],
+    "tags": [
+      "mustVisit",
+      "shaktiPeeth",
+      "aamiMandir",
+      "yagyaKunda",
+      "durgaPuja",
+      "navratri"
+    ],
+    "audiences": [
+      "pilgrims",
+      "families",
+      "spiritual_seekers",
+      "photographers",
+      "devotees"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "A sacred Shakti Peetha situated on the holy banks of the Ganga in Aami, venerated for its miraculous Yagya Kunda and divine blessings of Goddess Ambika.",
+      "hi": "आमी में गंगा के पावन तट पर स्थित एक अत्यंत पूजनीय शक्ति पीठ, जो अपने चमत्कारी यज्ञ कुंड और माँ अम्बिका के दिव्य आशीर्वाद के लिए प्रसिद्ध है।"
+    },
+    "description": {
+      "en": "**Maa Ambika Bhawani Temple**, lovingly known as **Aami Mandir**, is one of the most sacred and celebrated **Shakti Peethas** in Bihar, located in the idyllic village of Aami in the Saran district. Situated majestically on the banks of the perennial River Ganga, the temple is dedicated to **Goddess Ambika** (an avatar of Goddess Durga/Sati). The shrine radiates an aura of transcendental tranquility and deep devotional fervor, drawing lakhs of pilgrims from across Bihar, Uttar Pradesh, and Nepal every year.\n\nThe centerpiece of the temple complex is the revered **Yagya Kunda**, an ancient sacrificial fire pit steeped in profound Vedic lore. Next to the sanctum lies an extraordinary subterranean well whose pristine water is believed to have divine healing properties and mysteriously never overflows or runs dry. During the nine nights of **Navratri** and the holy month of Chaitra, the temple transforms into a celestial ocean of red Chunaris, fragrant marigold garlands, and resonant conch blows. For spiritual seekers and devotees of the Divine Mother, Aami Mandir offers a soul-stirring experience of maternal grace, inner peace, and timeless sanctity.",
+      "hi": "सारण जिले के सुरम्य आमी गाँव में स्थित **माँ अम्बिका भवानी मंदिर**, जिसे बोलचाल में **आमी मंदिर** कहा जाता है, बिहार के सर्वाधिक प्रतिष्ठित और जाग्रत **शक्ति पीठों** में से एक है। पतित-पावनी गंगा के तट पर स्थित यह भव्य मंदिर **माता अम्बिका** (माँ सती/दुर्गा) को समर्पित है। मंदिर परिसर में कदम रखते ही भक्तों को एक अलौकिक शांति और गहन आध्यात्मिक ऊर्जा का अनुभव होता है, जो हर साल बिहार, उत्तर प्रदेश, झारखंड और नेपाल से लाखों श्रद्धालुओं को यहाँ खींच लाता है।\n\nमंदिर परिसर का प्रमुख केंद्र प्राचीन **यज्ञ कुंड** है, जिसका संबंध वैदिक काल की पौराणिक घटनाओं से जुड़ा हुआ है। गर्भगृह के निकट एक अत्यंत रहस्यमयी और प्राचीन कुआं है, जिसके जल को चमत्कारी माना जाता है और जो कभी सूखता नहीं है। **नवरात्र** के पावन नौ दिनों और चैत्र मास के दौरान मंदिर परिसर लाल चुनरियों, सुगंधित गेंदे के फूलों और शंख की गूंज से भक्ति के महासागर में परिवर्तित हो जाता है। जगज्जननी माँ अम्बिका के दर्शन से भक्तों के समस्त कष्ट दूर होते हैं और मनोकामनाएं पूर्ण होती हैं।"
+    },
+    "history": {
+      "en": "The origins of **Aami Mandir** trace back to the venerable Puranic epoch and the celebrated legend of **Daksha Prajapati's Mahayagya**. According to the Shiva Purana and Kalika Purana, Sati, unable to endure the insult hurled at her divine consort Lord Shiva by her father Daksha, immolated herself in the sacred sacrificial fire here. When the grief-stricken Shiva carried her sacred body in the cosmic Tandava, Lord Vishnu released his Sudarshana Chakra, dividing her remains into 51/52 parts. It is ardently believed that the vital torso and right breast of Sati fell at this sanctified spot in Aami.\n\nAnother revered historical legend connects the shrine to **King Suratha** and the merchant **Samadhi**, mentioned in the Markandeya Purana (Devi Mahatmya). Having lost his kingdom, King Suratha meditated at this very spot under the guidance of Sage Medha, sculpting a clay idol of the Mother Goddess and performing intense austerities until the Divine Mother restored his sovereignty. Over centuries, local kings and devotees rebuilt the sanctum, preserving its ancient stone pillars, inscriptions, and brick ramparts that date back to the early medieval era.",
+      "hi": "**आमी मंदिर** का इतिहास और पौराणिक पृष्ठभूमि अत्यंत प्राचीन तथा **दक्ष प्रजापति के महायज्ञ** की गाथा से अभिन्न रूप से जुड़ी हुई है। शिव पुराण और कालिका पुराण के अनुसार, अपने पिता दक्ष द्वारा भगवान शिव का अपमान सहन न कर पाने पर माता सती ने इसी स्थल पर यज्ञ की वेदी में अपने प्राणों की आहुति दे दी थी। तत्पश्चात, जब व्यथित भगवान शिव सती के पार्थिव शरीर को लेकर तांडव करने लगे, तो सृष्टि की रक्षा हेतु भगवान विष्णु ने सुदर्शन चक्र से सती के शरीर को विभाजित किया। माना जाता है कि माता सती का वक्षस्थल/धड़ इसी पावन भूमि पर गिरा था, जिससे यह जाग्रत शक्ति पीठ बना।\n\nएक अन्य प्रसिद्ध कथा मार्कण्डेय पुराण के देवी माहात्म्य में वर्णित राजा **सुरथ** और वैश्य **समाधि** से जुड़ी है। अपना राजपाट गंवा चुके राजा सुरथ ने महर्षि मेधा के परामर्श पर इसी पावन आमी धाम में मिट्टी की प्रतिमा बनाकर माँ भवानी की घोर तपस्या की थी, जिसके फलस्वरूप उन्हें पुनः अखंड राज्य की प्राप्ति हुई। विभिन्न राजवंशों और संतों ने समय-समय पर मंदिर का जीर्णोद्धार कराया, जिसके अवशेष यहाँ की प्राचीन ईंटों और प्रस्तर स्तंभों में आज भी विद्यमान हैं।"
+    },
+    "significance": {
+      "en": "The spiritual and cultural significance of **Aami Mandir** resonates deeply throughout northern India:\n\n- **Supreme Shakti Peetha**: Considered one of the foremost shrines dedicated to feminine divine energy (Shakti), where prayers for progeny, health, and family prosperity are believed to be unfailingly granted.\n- **The Mystical Yagya Kunda**: The ancient pit where Mata Sati is believed to have entered the sacred fire remains the central object of veneration. Devotees offer milk, bilva leaves, and flowers into this kunda, where offerings are absorbed without filling up.\n- **Confluence of Spiritual Traditions**: It bridges Shaiva, Shakta, and Tantric sadhana traditions, where seekers have practiced meditation and mantra japa for centuries.\n- **Festive Grandeur**: During Sharadiya and Chaitra Navratri, over five hundred thousand pilgrims assemble here for sacred vows (Manokamna Dhaga), Mundan ceremonies, and community feasts.\n- **Cultural Anchor of Saran**: The temple symbolizes the indomitable faith and cultural identity of the Saran district, fostering charity and communal harmony.",
+      "hi": "**आमी मंदिर** का आध्यात्मिक और सांस्कृतिक महत्व उत्तर भारत के धार्मिक ताने-बाने में अत्यंत उच्च स्थान रखता है:\n\n- **अग्रणी शक्ति पीठ**: इसे आद्यशक्ति के सबसे जाग्रत धामों में गिना जाता है, जहाँ सच्चे मन से मांगी गई हर मन्नत, विशेषकर संतान प्राप्ति, रोगमुक्ति और सुख-समृद्धि की कामना पूर्ण होती है।\n- **रहस्यमयी यज्ञ कुंड**: मंदिर के गर्भगृह के समक्ष स्थित पवित्र यज्ञ कुंड आस्था का मुख्य केंद्र है। इस कुंड में अर्पित किया जाने वाला जल, दूध और प्रसाद इसके अथाह तल में समा जाता है, जिसे ईश्वरीय चमत्कार माना जाता है।\n- **साधना और तंत्र का केंद्र**: यह स्थल शाक्त और शैव परंपराओं का एक महत्वपूर्ण केंद्र है, जहाँ प्राचीन काल से ही उच्च कोटि के तांत्रिक और साधक माँ की आराधना में लीन रहे हैं।\n- **नवरात्र का महामहोत्सव**: चैत्र और शारदीय नवरात्र के दौरान यहाँ विराट मेला लगता है, जिसमें लाखों भक्त ध्वजारोहण, मुंडन संस्कार और मनोकामना धागा बांधने की रस्में संपन्न करते हैं।\n- **सारण का सांस्कृतिक गौरव**: यह पावन धाम सारण जिले की आध्यात्मिक पहचान का आधार है, जो समाज में सेवा, दान और सद्भाव की भावना को सुदृढ़ करता है।"
+    },
+    "location": {
+      "address": {
+        "en": "Maa Ambika Bhawani Temple Complex, Aami Village, Dighwara Block, Sonpur Sub-division, Saran District, Bihar 841207, India.\n\nThe revered pilgrimage center is strategically situated directly off the major National Highway 19 (Chapra–Patna Road), roughly 4 kilometers west of Dighwara town and railway station, 26 kilometers east of Chapra district headquarters, and approximately 37 kilometers northwest of Patna via the JP Setu bridge. Perched atop an auspicious natural plateau directly overlooking the northern floodplains of the sacred River Ganga, the temple complex is easily accessible by private vehicles, state transport buses, and frequent e-rickshaws. The approach road is flanked by traditional flower stalls, devotional markets, and spacious visitor parking lots leading straight to the holy gate.",
+        "hi": "माँ अम्बिका भवानी मंदिर परिसर, आमी ग्राम, दिघवारा प्रखंड, सोनपुर अनुमंडल, सारण जिला, बिहार 841207, भारत।\n\nयह श्रद्धेय तीर्थ स्थल प्रमुख राष्ट्रीय राजमार्ग 19 (छपरा-पटना मुख्य मार्ग) के ठीक किनारे दिघवारा नगर और रेलवे स्टेशन से मात्र 4 किलोमीटर पश्चिम में, सारण जिला मुख्यालय छपरा से 26 किलोमीटर पूर्व में तथा जेपी सेतु के रास्ते पटना से लगभग 37 किलोमीटर उत्तर-पश्चिम में स्थित है। पवित्र गंगा नदी के उत्तरी कछार और बाढ़ के मैदानों को निहारते हुए एक पावन प्राकृतिक पठार पर स्थित, यह मंदिर परिसर निजी वाहनों, सरकारी बसों और लगातार चलने वाले ई-रिक्शा द्वारा अत्यंत सुलभ है। मंदिर का मुख्य मार्ग पारंपरिक पूजा-सामग्री की दुकानों, फूलों की कतारों और विशाल पार्किंग स्थल से सुसज्जित है जो सीधे मुख्य द्वार तक ले जाता है।"
+      },
+      "latitude": 25.6881,
+      "longitude": 84.9785,
+      "mapQuery": "Aami Mandir, Ambika Bhawani, Saran, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "day": "Monday - Sunday",
+          "open": "05:00",
+          "close": "21:00",
+          "closed": false
+        }
+      ],
+      "entryFee": {
+        "amount": 0,
+        "currency": "INR",
+        "type": "Free Entry"
+      },
+      "recommendedDurationMinutes": 90,
+      "bestTimeToVisit": {
+        "en": "October to March; especially vibrant during Chaitra and Sharadiya Navratri.",
+        "hi": "अक्टूबर से मार्च; विशेष रूप से चैत्र और शारदीय नवरात्र के दौरान अत्यंत मनोहारी।"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Located directly on NH-19 between Patna and Chapra. Regular express buses, shared cabs, and auto-rickshaws ply regularly from Dighwara and Chapra.",
+        "hi": "पटना और छपरा के बीच एनएच-19 पर सीधे स्थित। दिघवारा और छपरा से नियमित एक्सप्रेस बसें, शेयरिंग कैब और ऑटो-रिक्शा निरंतर चलते हैं।"
+      },
+      "railway": [
+        {
+          "name": {
+            "en": "Dighwara Railway Station (DGA)",
+            "hi": "दिघवारा रेलवे स्टेशन (DGA)"
+          },
+          "distanceKm": 4
+        },
+        {
+          "name": {
+            "en": "Chhapra Junction Railway Station (CPR)",
+            "hi": "छपरा जंक्शन रेलवे स्टेशन (CPR)"
+          },
+          "distanceKm": 27
+        }
+      ],
+      "airport": [
+        {
+          "name": {
+            "en": "Jay Prakash Narayan International Airport, Patna (PAT)",
+            "hi": "जयप्रकाश नारायण अंतर्राष्ट्रीय हवाई अड्डा, पटना (PAT)"
+          },
+          "distanceKm": 42
+        }
+      ],
+      "localTransport": {
+        "en": "E-rickshaws, shared autos, and tempo taxis are abundant from Dighwara station directly to the temple entrance gate.",
+        "hi": "दिघवारा स्टेशन से सीधे मंदिर के मुख्य प्रवेश द्वार तक ई-रिक्शा, शेयरिंग ऑटो और टेम्पो टैक्सियां प्रचुर मात्रा में उपलब्ध हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 0,
+        "max": 0,
+        "currency": "INR"
+      },
+      "localTransport": {
+        "min": 20,
+        "max": 150,
+        "currency": "INR"
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": false,
+      "atm": true,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 200,
+      "stairs": true,
+      "wheelchairAccessible": false,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "- **Navratri Darshan Timing**: During Chaitra and Ashwin Navratri, thousands line up before dawn; arriving between 5:00 AM and 7:00 AM ensures a smoother and more serene darshan experience.",
+        "hi": "- **नवरात्र दर्शन का समय**: चैत्र और आश्विन नवरात्र के दौरान भोर से ही भारी भीड़ जुटती है; शांतिपूर्ण और सुगम दर्शन के लिए सुबह 5:00 बजे से 7:00 बजे के बीच पहुँचना सबसे उत्तम रहता है।"
+      },
+      {
+        "en": "- **Sacred Offerings & Chunari**: Purchase pure ghee pedas, coconut, and vermilion-red Chunari from the authorized temple trusts or local artisan stalls situated along the temple lane.",
+        "hi": "- **पारंपरिक पूजा सामग्री**: मंदिर मार्ग पर स्थित स्थानीय दुकानों से शुद्ध घी का पेड़ा, नारियल, लाल चुनरी और सिंदूर का पारंपरिक प्रसाद प्राप्त करें।"
+      },
+      {
+        "en": "- **Riverfront Safety Precautions**: If participating in a holy dip along the adjoining Ganga ghat, exercise caution during the monsoon season when water levels and river currents are strong.",
+        "hi": "- **गंगा घाट पर सुरक्षा**: मंदिर से सटे गंगा घाट पर स्नान करते समय सावधानी बरतें, विशेषकर वर्षा ऋतु के दौरान जब नदी का जलस्तर और बहाव तेज होता है।"
+      },
+      {
+        "en": "- **Dress Modestly & Respect Traditions**: As an ancient Shakti Peeth, visitors are encouraged to dress in traditional Indian attire and remove footwear at the designated shoe stalls before entering the inner sanctum.",
+        "hi": "- **मर्यादित वेशभूषा का पालन**: यह एक परम पावन शक्ति पीठ है, अतः पारंपरिक और शालीन वस्त्र पहनें तथा गर्भगृह में प्रवेश से पूर्व निर्धारित स्थान पर जूते-चप्पल उतारें।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "chirand",
+      "hariharnath-temple-sonepur",
+      "gautam-asthan-revelganj"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-18",
+      "sources": [
+        {
+          "title": "Aami Mandir Ambika Bhawani",
+          "organization": "Bihar Tourism",
+          "url": "https://tourism.bihar.gov.in/en/destinations/saran/aami-mandir"
+        },
+        {
+          "title": "Aami Temple Religious Heritage",
+          "organization": "District Administration Saran",
+          "url": "https://saran.nic.in/tourist-place/aami-temple/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-18",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "hariharnath-temple-sonepur",
+    "slug": "hariharnath-temple-sonepur",
+    "name": {
+      "en": "Baba Hariharnath Temple & Sonepur Mela Ground",
+      "hi": "बाबा हरिहरनाथ मंदिर एवं सोनपुर मेला मैदान"
+    },
+    "districtId": "saran",
+    "placeType": "temple",
+    "primaryCategory": "religious",
+    "categories": [
+      "religious",
+      "pilgrimage_site",
+      "cultural",
+      "historical",
+      "festival_ground"
+    ],
+    "subcategories": [
+      "harihar_kshetra",
+      "confluence_tirth",
+      "asia_largest_cattle_fair"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "spiritual_circuit",
+      "cultural_circuit",
+      "ramayana_circuit",
+      "shiva_circuit"
+    ],
+    "tags": [
+      "mustVisit",
+      "hariharnath",
+      "sonepurMela",
+      "gajendraMoksha",
+      "confluence",
+      "kartikPurnima"
+    ],
+    "audiences": [
+      "pilgrims",
+      "families",
+      "culture_enthusiasts",
+      "photographers",
+      "tourists"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": false,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "The divine confluence shrine of Vishnu (Hari) and Shiva (Har) at Sonepur, host to the centuries-old world-famous Sonepur Cattle Fair on Kartik Purnima.",
+      "hi": "सोनपुर में भगवान विष्णु (हरि) और शिव (हर) के दिव्य संगम का पावन धाम, जो कार्तिक पूर्णिमा पर सदियों पुराने विश्व प्रसिद्ध सोनपुर पशु मेले का आयोजन स्थल है।"
+    },
+    "description": {
+      "en": "**Baba Hariharnath Temple**, situated in the historic town of **Sonepur** at the sacred confluence of the holy **Gandak (Narayani)** and **Ganga** rivers, is one of the most venerated pilgrimage destinations in the world. The temple holds unique theological prominence because its central deity represents the rare unified embodiment of **Hari (Lord Vishnu)** and **Har (Lord Shiva)** in a single divine Lingam, symbolizing the ultimate harmony between Vaishnavism and Shaivism.\n\nEvery year on the auspicious day of **Kartik Purnima** (November–December), Sonepur becomes the stage for the globally celebrated **Sonepur Mela** (also known as Harihar Kshetra Mela), widely revered as one of Asia's largest and oldest fairs. The vast fairgrounds spread across hundreds of acres, coming alive with vibrant cultural pavilions, traditional folk theater, handicraft bazaars, and legendary livestock markets. Lakhs of devout pilgrims gather at dawn to take a sanctifying bath (Snan) at the river confluence before seeking the divine blessings of Baba Hariharnath. The shrine's sublime atmosphere, historical architecture, and rich spiritual legacy create an unforgettable journey into the heart of India's living cultural traditions.",
+      "hi": "पवित्र **गंडक (नारायणी)** और **गंगा** नदियों के दिव्य संगम पर स्थित **बाबा हरिहरनाथ मंदिर** विश्व के सबसे प्रतिष्ठित और अलौकिक तीर्थस्थलों में से एक है। सोनपुर में स्थित यह पावन धाम धार्मिक दृष्टिकोण से अत्यंत दुर्लभ और अद्वितीय है, क्योंकि यहाँ एक ही पावन शिवलिंग में **हरि (भगवान विष्णु)** और **हर (भगवान शिव)** का संयुक्त स्वरूप विराजमान है, जो वैष्णव और शैव संप्रदायों के शाश्वत समन्वय का प्रतीक है।\n\nप्रत्येक वर्ष **कार्तिक पूर्णिमा** के पावन अवसर पर सोनपुर की पावन भूमि पर ऐतिहासिक **सोनपुर मेला** (हरिहर क्षेत्र मेला) आयोजित होता है, जिसे एशिया का सबसे बड़ा और प्राचीन पशु मेला माना जाता है। सैकड़ों एकड़ में फैला यह मेला पारंपरिक लोक संगीत, नाटकों, हस्तशिल्प बाज़ारों, सर्कस और विभिन्न घरेलू पशुओं की प्रदर्शनी से सजीव हो उठता है। देश-विदेश से लाखों श्रद्धालु भोर में संगम तट पर 'कार्तिक पूर्णिमा स्नान' कर बाबा हरिहरनाथ का जलाभिषेक करते हैं। यह पावन तीर्थ और इसका मेला भारतीय संस्कृति, आस्था और लोक जीवन का सबसे भव्य उत्सव प्रस्तुत करते हैं।"
+    },
+    "history": {
+      "en": "The history of **Harihar Kshetra** spans prehistoric mythology and momentous historical eras. According to the Srimad Bhagavatam and Puranic scriptures, Sonepur is the consecrated battlefield of the legendary **Gajendra Moksha**, where Lord Vishnu personally descended on Garuda to rescue his elephant devotee (Gajendra) from the deathly grip of the celestial crocodile (Graha).\n\nIn the epic Ramayana, it is chronicled that **Lord Sri Rama**, along with his brother Lakshmana and sage Vishwamitra, crossed the Gandak river here en route to King Janaka's court in Mithila, and performed sacred worship of the Harihar Lingam. Historically, the current stone temple was rebuilt during the Mughal era by Raja Ram Narayan, an influential deputy governor of Bihar, and later renovated by Raja Man Singh and regional Maratha rulers. During the Maurya and Gupta empires, Sonepur was a thriving commercial outpost where elephants and war horses were traded for imperial armies. In colonial times, freedom fighters such as Veer Kunwar Singh utilized the massive crowds of the Sonepur Fair to organize revolutionary meetings against the British East India Company.",
+      "hi": "**हरिहर क्षेत्र** का इतिहास पौराणिक गाथाओं और भारतीय इतिहास के गौरवशाली पन्नों से आलोकित है। श्रीमद्भागवत और विभिन्न पुराणों के अनुसार, यह वही पवित्र भूमि है जहाँ **गजेंद्र मोक्ष** की अलौकिक घटना घटी थी; जब भगवान विष्णु ने अपने परम भक्त गजराज की पुकार सुनकर ग्राह (मगरमच्छ) से उसकी रक्षा की थी और उसे मोक्ष प्रदान किया था।\n\nरामायण काल में जब महर्षि विश्वामित्र के साथ **भगवान श्रीराम** और लक्ष्मण जनकपुर जा रहे थे, तब उन्होंने इसी संगम तट पर रुककर भगवान शिव और विष्णु की संयुक्त पूजा की थी। ऐतिहासिक काल में, वर्तमान मंदिर का जीर्णोद्धार बिहार के तत्कालीन नायब नाजिम राजा रामनारायण और बाद में राजा मानसिंह तथा मराठा सरदारों द्वारा कराया गया था। मौर्य और गुप्त काल में सोनपुर हाथियों और युद्ध के घोड़ों के प्रमुख व्यापारिक केंद्र के रूप में प्रसिद्ध था। 1857 के प्रथम स्वतंत्रता संग्राम के दौरान बाबू वीर कुंवर सिंह ने सोनपुर मेले के विशाल जनसमूह का उपयोग स्वतंत्रता सेनानियों को संगठित करने और अंग्रेजों के विरुद्ध रणनीति बनाने के लिए किया था।"
+    },
+    "significance": {
+      "en": "The multifaceted significance of **Baba Hariharnath Temple & Sonepur Mela** encompasses spiritual, economic, and cultural dimensions:\n\n- **Theological Unity of Hari & Har**: As one of the exceptionally rare temples uniting Vishnu and Shiva in a single murti, it fosters communal harmony and theological tolerance across Hindu denominations.\n- **Confluence Sanctity (Sangam Snan)**: The confluence of Gandak (believed to yield the sacred Shaligram stones) and Ganga is deemed equal in spiritual merit to the Prayagraj Triveni Sangam, granting salvation (Moksha) to those bathing on Kartik Purnima.\n- **World-Renowned Cultural Fair**: The Sonepur Mela is an international tourism marvel showcasing Bihar's agrarian wealth, folk arts, theater, rural trade, and vibrant equestrian culture.\n- **Tourism & Economic Lifeline**: The month-long fair sustains thousands of artisans, performers, traders, and boatmen, generating substantial economic vitality in the Saran and Vaishali regions.\n- **Living Ramayana Heritage**: A key destination on the Bihar Ramayana Circuit, celebrated by scholars and spiritual seekers alike.",
+      "hi": "**बाबा हरिहरनाथ मंदिर एवं सोनपुर मेला** का महत्व आध्यात्मिक, ऐतिहासिक और सामाजिक दृष्टिकोण से अद्वितीय है:\n\n- **हरि और हर का पावन एकाकार**: भगवान विष्णु और भगवान शिव का एक ही विग्रह में समाहित होना सनातन धर्म के दो प्रमुख स्तंभों के बीच एकता, सहिष्णुता और समरसता का अनुपम संदेश देता है।\n- **पवित्र संगम स्नान**: शालिग्रामी गंडक (नारायणी) और गंगा का संगम प्रयागराज के त्रिवेणी संगम के समान ही पुण्यदायी माना जाता है। कार्तिक पूर्णिमा के दिन यहाँ स्नान करने से जन्म-जन्मांतर के पापों से मुक्ति और मोक्ष की प्राप्ति होती है।\n- **विश्व प्रसिद्ध लोक संस्कृति का मेला**: सोनपुर मेला बिहार के ग्रामीण जनजीवन, कृषि संपदा, लोक कलाओं, हस्तशिल्प और पशुपालन की गौरवशाली परंपराओं का सबसे बड़ा मंच है।\n- **आर्थिक व पर्यटन केंद्र**: महीने भर चलने वाला यह मेला हजारों शिल्पकारों, व्यापारियों, लोक कलाकारों और नाविकों के लिए आजीविका का बड़ा साधन बनता है तथा वैश्विक पर्यटकों को आकर्षित करता है।\n- **रामायण परिपथ का अंग**: भगवान राम के चरण पड़ने के कारण यह स्थल बिहार के रामायण सर्किट का एक अत्यंत महत्वपूर्ण पड़ाव माना जाता है।"
+    },
+    "location": {
+      "address": {
+        "en": "Baba Hariharnath Temple & Sonepur Mela Ground, Near Gandak Riverfront, Sonepur Town, Sonepur Sub-division, Saran District, Bihar 841101, India.\n\nThis revered divine sanctuary and its sprawling historical fairgrounds are located alongside the holy Sonepur Ghat on the southern banks of the sacred Gandak (Narayani) River near its confluence with the Ganga. The site is directly linked to Hajipur in Vaishali district via the historic Gandak Road Bridge and to the state capital Patna (located just 25 kilometers to the south) across the Ganges via the JP Setu and Digha–Sonpur rail-cum-road bridge. Sonepur Junction railway station is located only 3 kilometers away, with wide asphalted approach avenues, tourist facilitation counters, lighted ceremonial river ghats, and expansive transit zones surrounding the temple complex.",
+        "hi": "बाबा हरिहरनाथ मंदिर एवं सोनपुर मेला मैदान, गंडक नदी तट के निकट, सोनपुर नगर, सोनपुर अनुमंडल, सारण जिला, बिहार 841101, भारत।\n\nयह पावन आध्यात्मिक धाम और इसका विस्तृत ऐतिहासिक मेला मैदान पवित्र गंडक (नारायणी) नदी के दक्षिणी तट पर बने सोनपुर घाट के समीप स्थित है, जहां गंडक और गंगा का दिव्य संगम होता है। यह तीर्थ स्थल ऐतिहासिक गंडक सड़क पुल के माध्यम से वैशाली जिले के हाजीपुर से और जेपी सेतु तथा दीघा-सोनपुर रेल-सह-सड़क पुल के माध्यम से राजधानी पटना (जो दक्षिण में मात्र 25 किलोमीटर दूर है) से सीधा जुड़ा हुआ है। सोनपुर जंक्शन रेलवे स्टेशन यहाँ से मात्र 3 किलोमीटर की दूरी पर है, जहां से चौड़े पक्के संपर्क मार्ग, पर्यटक सहायता केंद्र, रोशनी से जगमगाते पक्के स्नान घाट और विशाल मेला क्षेत्र मंदिर परिसर को सुगम बनाते हैं।"
+      },
+      "latitude": 25.6986,
+      "longitude": 85.1812,
+      "mapQuery": "Hariharnath Mandir, Sonepur, Saran, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "day": "Monday - Sunday",
+          "open": "05:00",
+          "close": "22:00",
+          "closed": false
+        }
+      ],
+      "entryFee": {
+        "amount": 0,
+        "currency": "INR",
+        "type": "Free Entry"
+      },
+      "recommendedDurationMinutes": 180,
+      "bestTimeToVisit": {
+        "en": "October to March; especially during Kartik Purnima (November/December) for the world-famous Sonepur Mela.",
+        "hi": "अक्टूबर से मार्च; विशेष रूप से विश्व प्रसिद्ध सोनपुर मेले के लिए कार्तिक पूर्णिमा (नवंबर/दिसंबर) के दौरान।"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Extremely well connected via JP Setu from Patna (approx. 25 km) and via old Gandak Bridge from Hajipur (approx. 5 km). Regular state transport buses and private taxis ply 24/7.",
+        "hi": "पटना से जेपी सेतु के माध्यम से (लगभग 25 किमी) और हाजीपुर से पुराने गंडक पुल के माध्यम से (लगभग 5 किमी) उत्कृष्ट सड़क संपर्क। नियमित राज्य परिवहन बसें और टैक्सियां चौबीसों घंटे चलती हैं।"
+      },
+      "railway": [
+        {
+          "name": {
+            "en": "Sonpur Junction Railway Station (SEE)",
+            "hi": "सोनपुर जंक्शन रेलवे स्टेशन (SEE)"
+          },
+          "distanceKm": 3
+        },
+        {
+          "name": {
+            "en": "Hajipur Junction Railway Station (HJP)",
+            "hi": "हाजीपुर जंक्शन रेलवे स्टेशन (HJP)"
+          },
+          "distanceKm": 6
+        }
+      ],
+      "airport": [
+        {
+          "name": {
+            "en": "Jay Prakash Narayan International Airport, Patna (PAT)",
+            "hi": "जयप्रकाश नारायण अंतर्राष्ट्रीय हवाई अड्डा, पटना (PAT)"
+          },
+          "distanceKm": 28
+        }
+      ],
+      "localTransport": {
+        "en": "Prepaid auto-rickshaws, cycle rickshaws, and e-rickshaws operate continuously between Sonpur Junction, Hajipur, and the Hariharnath temple complex.",
+        "hi": "सोनपुर जंक्शन, हाजीपुर और हरिहरनाथ मंदिर परिसर के बीच प्रीपेड ऑटो-रिक्शा, साइकिल रिक्शा और ई-रिक्शा लगातार चलते हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 0,
+        "max": 0,
+        "currency": "INR"
+      },
+      "localTransport": {
+        "min": 30,
+        "max": 200,
+        "currency": "INR"
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": true,
+      "accommodation": true,
+      "atm": true,
+      "medical": true
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 400,
+      "stairs": true,
+      "wheelchairAccessible": true,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "- **Best Time to Experience the Mela**: Visit during November–December coinciding with the Kartik Purnima full moon festival to witness the grand inaugurations, vibrant cattle parades, and illuminated night melas.",
+        "hi": "- **मेले के अनुभव का सर्वोत्तम समय**: कार्तिक पूर्णिमा (नवंबर-दिसंबर) के समय अपनी यात्रा की योजना बनाएं ताकि आप ऐतिहासिक मेले के उद्घाटन, पशु प्रदर्शनियों और रोशनी से सजे सांस्कृतिक पंडालों का आनंद ले सकें।"
+      },
+      {
+        "en": "- **Beat the Festive Traffic**: During Kartik Purnima day, vehicle movement across the river bridges is strictly regulated; taking local commuter trains directly to Sonepur Junction or walking via pedestrian bridges is strongly advised.",
+        "hi": "- **यातायात और भीड़ से बचाव**: कार्तिक पूर्णिमा के दिन नदी पुलों पर वाहनों का आवागमन सीमित रहता है; इसलिए सोनपुर जंक्शन तक लोकल ट्रेन से यात्रा करना या पैदल पुल का उपयोग करना सबसे सुविधाजनक रहता है।"
+      },
+      {
+        "en": "- **Temple Etiquette & Aarti**: Attend the morning Mangala Aarti (around 5:30 AM) or the grand evening Shringar Aarti (7:30 PM) for an enchanting spiritual experience away from afternoon crowds.",
+        "hi": "- **आरती और दर्शन का समय**: शांतिपूर्ण दर्शन और आध्यात्मिक ऊर्जा के लिए सुबह 5:30 बजे की मंगला आरती या शाम 7:30 बजे की भव्य श्रृंगार आरती में अवश्य भाग लें।"
+      },
+      {
+        "en": "- **Explore the Fairgrounds Safely**: Wear comfortable walking shoes, safeguard your valuables in crowded bazaar areas, and visit the Bihar Tourism Tourist Village stalls for authentic local Madhubani paintings and Tikuli crafts.",
+        "hi": "- **मेले में भ्रमण व खरीदारी**: विशाल मेला मैदान में घूमने के लिए आरामदायक जूते पहनें, भीड़भाड़ वाले क्षेत्रों में अपने सामान का ध्यान रखें, और बिहार पर्यटन पवेलियन से प्रामाणिक हस्तशिल्प व स्थानीय मिठाइयों का आनंद लें।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "aami-mandir",
+      "chirand",
+      "gautam-asthan-revelganj"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-18",
+      "sources": [
+        {
+          "title": "Hariharnath Temple and Sonepur Mela",
+          "organization": "Bihar Tourism",
+          "url": "https://tourism.bihar.gov.in/en/destinations/saran/sonepur-fair"
+        },
+        {
+          "title": "Hariharnath Temple Sonepur",
+          "organization": "District Administration Saran",
+          "url": "https://saran.nic.in/tourist-place/harihar-nath-temple/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-18",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  },
+  {
+    "id": "gautam-asthan-revelganj",
+    "slug": "gautam-asthan-revelganj",
+    "name": {
+      "en": "Maharshi Gautam Ashram (Gautam Asthan)",
+      "hi": "महर्षि गौतम आश्रम (गौतम स्थान)"
+    },
+    "districtId": "saran",
+    "placeType": "ashram_temple",
+    "primaryCategory": "religious",
+    "categories": [
+      "religious",
+      "pilgrimage_site",
+      "historical",
+      "cultural"
+    ],
+    "subcategories": [
+      "ramayana_site",
+      "ancient_ashram",
+      "saryu_river_ghat"
+    ],
+    "religions": [
+      "hinduism"
+    ],
+    "circuits": [
+      "spiritual_circuit",
+      "ramayana_circuit",
+      "sikh_circuit"
+    ],
+    "tags": [
+      "mustVisit",
+      "gautamAsthan",
+      "ahilyaUddhar",
+      "revelganj",
+      "saryuRiver",
+      "ramayanaCircuit"
+    ],
+    "audiences": [
+      "pilgrims",
+      "history_buffs",
+      "spiritual_seekers",
+      "families"
+    ],
+    "discoveryFlags": {
+      "popular": true,
+      "featured": true,
+      "hiddenGem": true,
+      "familyFriendly": true,
+      "weekendTrip": true,
+      "photography": true
+    },
+    "shortDescription": {
+      "en": "An ancient sacred hermitage at Revelganj on the holy Saryu River, revered as the tapobhumi of Maharshi Gautam and the hallowed site of Ahilya Uddhar by Lord Rama.",
+      "hi": "पवित्र सरयू नदी के तट पर रिविलगंज में स्थित एक प्राचीन पावन आश्रम, जो महर्षि गौतम की तपोभूमि और प्रभु श्रीराम द्वारा अहिल्या उद्धार का पुण्य स्थल माना जाता है।"
+    },
+    "description": {
+      "en": "**Maharshi Gautam Ashram**, revered locally as **Gautam Asthan**, is a deeply sanctified spiritual and mythological landmark situated in **Revelganj** (historically known as Godna) along the gentle bends of the sacred **Saryu (Ghaghara)** river in the Saran district of Bihar. According to ancient Vedic tradition, this peaceful riverside sanctuary was the hermitage (Tapobhumi) of **Maharshi Gautam**, one of the exalted Saptarishis and the foundational proponent of the **Nyaya school of Hindu philosophy**.\n\nThe atmosphere of the ashram is permeated by serenity, shade from ancient banyan and neem trees, and the soothing sound of flowing river waters. Devotees visit the sacred sanctum to pay homage to the foot relics and deities of Maharshi Gautam, Mata Ahilya, and Lord Sri Rama. The site holds a cherished place in Indian spiritual geography as the historic location where Mata Ahilya was liberated from a divine curse by the gentle touch of Lord Rama's lotus feet during his journey with sage Vishwamitra. Gautam Asthan continues to inspire seekers of Vedic wisdom, Ramayana devotees, and travelers seeking tranquility on the historic banks of Saran.",
+      "hi": "बिहार के सारण जिले में पवित्र **सरयू (घाघरा)** नदी के सुरम्य तट पर स्थित **महर्षि गौतम आश्रम**, जिसे स्थानीय रूप से **गौतम स्थान** के नाम से जाना जाता है, एक परम पावन आध्यात्मिक एवं पौराणिक तीर्थ है। यह पावन स्थल **रिविलगंज** (प्राचीन नाम गोदना) में स्थित है। प्राचीन वैदिक मान्यताओं के अनुसार, यह सप्तर्षियों में प्रमुख तथा **न्याय दर्शन** के प्रणेता **महर्षि गौतम** की तपोभूमि और साधना स्थली रही है।\n\nआश्रम का संपूर्ण परिवेश प्राचीन वटवृक्षों, नीम के पेड़ों की शीतल छाया और सरयू की मंद-मंद बहती जलधारा के साथ एक असीम शांति प्रदान करता है। यहाँ आने वाले श्रद्धालु महर्षि गौतम, माता अहिल्या और प्रभु श्रीराम के दिव्य विग्रहों तथा चरण पादुकाओं के दर्शन करते हैं। भारतीय आध्यात्मिक इतिहास में यह वही पावन भूमि है जहाँ महर्षि विश्वामित्र के साथ जनकपुर जा रहे भगवान श्रीराम के चरण स्पर्श से माता अहिल्या का शापमुक्ति (अहिल्या उद्धार) हुआ था। गौतम स्थान आज भी वैदिक ज्ञान के साधकों, रामायण प्रेमियों और शांति की खोज में आने वाले यात्रियों के लिए एक अत्यंत प्रेरक एवं शांत स्थल है।"
+    },
+    "history": {
+      "en": "The sacred lineage of **Gautam Asthan** is embedded in the Valmiki Ramayana, the Ramcharitmanas, and classical Vedic literature. It is here that Maharshi Gautam composed foundational discourses on logic and jurisprudence that shaped the philosophical traditions of ancient India. The most resonant episode associated with this shrine is the **Ahilya Uddhar** during the Treta Yuga. According to scriptures, after undergoing centuries of austere penance turned into stone or invisible form due to a tragic curse, Mata Ahilya regained her divine form upon the touch of Prince Rama's lotus feet, as he traveled toward Mithila for Sita's Swayamvara.\n\nIn historical periods, the area flourished as **Godna**, a renowned center of Sanskrit scholarship and Vedic learning where scholars congregated from all over Aryavarta. During the late 18th century, British East India Company collector Henry Revel established a trading post here, giving rise to the modern name 'Revelganj'. Despite colonial commercial transformations, the temple complex preserved its ancient idols, holy bathing ghats, and spiritual rituals, continuously nurtured by generations of dedicated ascetics and local patrons.",
+      "hi": "**गौतम स्थान** का पावन इतिहास वाल्मीकि रामायण, गोस्वामी तुलसीदास कृत श्रीरामचरितमानस और प्राचीन वैदिक ग्रंथों में स्वर्णाक्षरों में वर्णित है। यह वही तपोभूमि है जहाँ महर्षि गौतम ने प्राचीन भारतीय दर्शन की आधारशिला 'न्याय सूत्र' की रचना की थी। इस तीर्थ का सर्वाधिक भावुक और प्रसिद्ध प्रसंग त्रेतायुग में घटित **अहिल्या उद्धार** है। धार्मिक आख्यानों के अनुसार, एक शापवश पाषाण रूप/अदृश्य भाव में सदियों तक घोर तपस्या में लीन रहने के उपरांत, जब मर्यादा पुरुषोत्तम श्रीराम के चरण यहाँ पड़े, तो माता अहिल्या का उद्धार हुआ और वे अपने दिव्य स्वरूप को पुनः प्राप्त हुईं।\n\nऐतिहासिक काल में यह स्थल **गोदना** के नाम से जाना जाता था और संस्कृत शिक्षा, न्यायशास्त्र तथा वैदिक अध्ययन का एक प्रमुख केंद्र था। 18वीं शताब्दी के उत्तरार्ध में ईस्ट इंडिया कंपनी के अधिकारी हेनरी रेवेल ने यहाँ व्यापारिक केंद्र की स्थापना की, जिसके कारण इस क्षेत्र को 'रिविलगंज' कहा जाने लगा। व्यापारिक परिवर्तनों के बावजूद, यहाँ का प्राचीन मंदिर परिसर, पवित्र स्नान घाट और संतों की परंपराएं अक्षुण्ण बनी रहीं, जो आज भी भक्तों को रामायण कालीन स्मृतियों से जोड़ती हैं।"
+    },
+    "significance": {
+      "en": "The multifaceted significance of **Maharshi Gautam Ashram (Gautam Asthan)** shines bright in Bihar's spiritual heritage:\n\n- **Pivotal Ramayana Circuit Landmark**: Recognized as the hallowed site of Ahilya Uddhar, it is an essential pilgrimage stop for devotees tracing the footsteps of Lord Rama and Lakshmana through ancient Mithila and Magadha.\n- **Fountainhead of Indian Logic**: Revered as the seat where Maharshi Gautam systematized the Nyaya philosophy, making it a place of deep respect for scholars, philosophers, and seekers of truth.\n- **Holy Saryu River Confluence Proximity**: Situated near the confluence where the Saryu meets the Ganga, performing ceremonial baths (Snan) and Tarpan rituals at Gautam Ghat is considered immensely meritorious.\n- **Annual Fairs & Religious Melas**: Hosts vibrant gatherings during Ramanavami, Kartik Purnima, and Guru Purnima, bringing local communities together in collective prayer and devotional kirtans.\n- **Peaceful Retreat**: Provides a tranquil, meditative environment far removed from commercial bustle, ideal for meditation and spiritual rejuvenation.",
+      "hi": "**महर्षि गौतम आश्रम (गौतम स्थान)** का आध्यात्मिक, सांस्कृतिक और दार्शनिक महत्व अत्यंत गहरा है:\n\n- **रामायण परिपथ का प्रमुख तीर्थ**: माता अहिल्या के उद्धार की साक्षी यह पावन भूमि बिहार पर्यटन के रामायण सर्किट का एक अनिवार्य पड़ाव है, जहाँ देश भर से रामभक्त नतमस्तक होने आते हैं।\n- **भारतीय न्याय दर्शन का उद्गम**: महर्षि गौतम द्वारा यहाँ न्याय दर्शन का सूत्रपात किए जाने के कारण, यह स्थल दार्शनिकों, विचारकों और सनातन ज्ञान परंपरा के विद्यार्थियों के लिए अत्यंत पूजनीय है।\n- **पवित्र सरयू स्नान व तर्पण**: सरयू और गंगा के मिलन क्षेत्र के निकट होने के कारण गौतम घाट पर स्नान, दान और पितृ तर्पण करना अत्यंत पुण्यदायी माना जाता है।\n- **धार्मिक उत्सव एवं मेले**: रामनवमी, गुरु पूर्णिमा और कार्तिक पूर्णिमा पर यहाँ भव्य मेले लगते हैं, जिनमें हजारों श्रद्धालु भाग लेते हैं और संकीर्तन व भजन से वातावरण भक्तिमय हो जाता है।\n- **शांति एवं साधना का केंद्र**: आधुनिक भागदौड़ से दूर प्रकृति और नदी की गोद में स्थित यह आश्रम ध्यान, योग और आत्मिक शांति के लिए एक आदर्श तपोस्थली है।"
+    },
+    "location": {
+      "address": {
+        "en": "Maharshi Gautam Ashram (Gautam Asthan), Gautam Ghat Road, Revelganj Town, Revelganj Block, Sadar Sub-division, Saran District, Bihar 841305, India.\n\nThe ancient hermitage is peacefully nestled along the serene southern riverbank of the sacred Saryu (Ghaghara) River in Revelganj (historically revered as Godna). Located approximately 8 kilometers west of Chapra city center (the Saran district administrative headquarters) and about 78 kilometers northwest of Patna, the shrine is conveniently accessible via the Chapra–Siwan State Highway and the Revelganj main marketplace corridor. Local e-rickshaws, shared three-wheelers, and private taxis provide continuous transport from Chapra Junction railway station and the central bus terminal, while concrete ghat stairs lead directly from the ashram courtyard down to the sanctified riverfront.",
+        "hi": "महर्षि गौतम आश्रम (गौतम स्थान), गौतम घाट रोड, रिविलगंज नगर, रिविलगंज प्रखंड, सदर अनुमंडल, सारण जिला, बिहार 841305, भारत।\n\nयह प्राचीन तपोभूमि रिविलगंज (जिसे ऐतिहासिक रूप से गोदना के नाम से जाना जाता है) में पवित्र सरयू (घाघरा) नदी के शांत दक्षिणी तटबंध पर स्थित है। सारण जिला प्रशासनिक मुख्यालय छपरा शहर के केंद्र से लगभग 8 किलोमीटर पश्चिम में तथा राजधानी पटना से लगभग 78 किलोमीटर उत्तर-पश्चिम में स्थित, यह पावन तीर्थ छपरा-सीवान राजमार्ग और रिविलगंज मुख्य बाजार मार्ग के माध्यम से आसानी से पहुँचा जा सकता है। छपरा जंक्शन रेलवे स्टेशन और केंद्रीय बस स्टैंड से स्थानीय ई-रिक्शा, शेयरिंग ऑटो और निजी टैक्सियाँ निरंतर उपलब्ध रहती हैं, जबकि आश्रम परिसर से पक्के स्नान घाट की सीढ़ियाँ सीधे पवित्र नदी तट तक जाती हैं।"
+      },
+      "latitude": 25.782,
+      "longitude": 84.6645,
+      "mapQuery": "Gautam Asthan, Revelganj, Saran, Bihar"
+    },
+    "visitingInfo": {
+      "openingHours": [
+        {
+          "day": "Monday - Sunday",
+          "open": "06:00",
+          "close": "20:00",
+          "closed": false
+        }
+      ],
+      "entryFee": {
+        "amount": 0,
+        "currency": "INR",
+        "type": "Free Entry"
+      },
+      "recommendedDurationMinutes": 90,
+      "bestTimeToVisit": {
+        "en": "October to March; particularly uplifting during Ram Navami and Kartik Purnima.",
+        "hi": "अक्टूबर से मार्च; विशेष रूप से रामनवमी और कार्तिक पूर्णिमा के दौरान अत्यंत पावन।"
+      }
+    },
+    "howToReach": {
+      "road": {
+        "en": "Easily accessible from Chapra city via the Chapra-Siwan Road and Revelganj main road (approx. 8 km). Autos and taxis run frequently.",
+        "hi": "छपरा-सीवान मार्ग और रिविलगंज मुख्य मार्ग के माध्यम से छपरा शहर से आसानी से पहुँचा जा सकता है (लगभग 8 किमी)। ऑटो और टैक्सियाँ लगातार चलती हैं।"
+      },
+      "railway": [
+        {
+          "name": {
+            "en": "Revelganj Ghat Railway Station (RVG)",
+            "hi": "रिविलगंज घाट रेलवे स्टेशन (RVG)"
+          },
+          "distanceKm": 2
+        },
+        {
+          "name": {
+            "en": "Chhapra Junction Railway Station (CPR)",
+            "hi": "छपरा जंक्शन रेलवे स्टेशन (CPR)"
+          },
+          "distanceKm": 9
+        }
+      ],
+      "airport": [
+        {
+          "name": {
+            "en": "Jay Prakash Narayan International Airport, Patna (PAT)",
+            "hi": "जयप्रकाश नारायण अंतर्राष्ट्रीय हवाई अड्डा, पटना (PAT)"
+          },
+          "distanceKm": 82
+        }
+      ],
+      "localTransport": {
+        "en": "Shared auto-rickshaws, e-rickshaws, and private rental cars connect Chapra junction directly to Gautam Asthan at Revelganj.",
+        "hi": "शेयरिंग ऑटो-रिक्शा, ई-रिक्शा और निजी किराये की गाड़ियाँ छपरा जंक्शन से सीधे रिविलगंज स्थित गौतम स्थान को जोड़ती हैं।"
+      }
+    },
+    "costEstimate": {
+      "entry": {
+        "min": 0,
+        "max": 0,
+        "currency": "INR"
+      },
+      "localTransport": {
+        "min": 30,
+        "max": 180,
+        "currency": "INR"
+      }
+    },
+    "facilities": {
+      "parking": true,
+      "toilets": true,
+      "drinkingWater": true,
+      "food": false,
+      "accommodation": false,
+      "atm": false,
+      "medical": false
+    },
+    "accessibility": {
+      "difficulty": "easy",
+      "walkingRequired": true,
+      "walkingDistanceMeters": 300,
+      "stairs": true,
+      "wheelchairAccessible": false,
+      "suitableForChildren": true,
+      "suitableForElderly": true
+    },
+    "travelTips": [
+      {
+        "en": "- **Peaceful Morning Darshan**: Visit in the early hours of the morning (6:00 AM – 9:00 AM) to experience the sublime river breeze of the Saryu, attend morning prayers, and enjoy a tranquil meditation session.",
+        "hi": "- **प्रातःकालीन शांतिपूर्ण दर्शन**: सरयू नदी की शीतल बयार, प्रातःकालीन आरती और शांत वातावरण में ध्यान लगाने के लिए सुबह 6:00 से 9:00 बजे के बीच पहुँचना सर्वोत्तम है।"
+      },
+      {
+        "en": "- **Saryu Ghat Walk**: Take a quiet stroll along the sacred Gautam Ghat; take care during rainy months as water currents in the river can be swift.",
+        "hi": "- **गौतम घाट पर सावधानी**: पावन गौतम घाट पर शांति से टहलें और दर्शन करें; बरसात के मौसम में नदी के तेज बहाव को देखते हुए गहरे पानी में जाने से बचें।"
+      },
+      {
+        "en": "- **Festive Visits**: If seeking vibrant cultural ambiance, time your visit during Sri Ram Navami (March–April) or Kartik Purnima when the ashram hosts traditional Ramcharitmanas recitations and local fairs.",
+        "hi": "- **पर्व-त्योहारों पर भ्रमण**: यदि आप सांस्कृतिक रंग देखना चाहते हैं, तो श्रीराम नवमी या कार्तिक पूर्णिमा के अवसर पर जाएँ, जब यहाँ अखंड मानस पाठ और धार्मिक मेलों का भव्य आयोजन होता है।"
+      },
+      {
+        "en": "- **Combine with Chapra Circuit**: Plan an integrated day itinerary covering Gautam Asthan in the morning, Chirand Neolithic mounds in the afternoon, and Aami Mandir during the evening sunset aarti.",
+        "hi": "- **सारण सर्किट का संयोजन**: एक परिपूर्ण यात्रा के लिए सुबह गौतम स्थान, दोपहर में चिरांद पुरातात्विक टीले और शाम को सूर्यास्त के समय आमी स्थित माँ अम्बिका भवानी मंदिर की आरती का कार्यक्रम बनाएं।"
+      }
+    ],
+    "nearbyPlaceIds": [
+      "chirand",
+      "aami-mandir",
+      "hariharnath-temple-sonepur"
+    ],
+    "verification": {
+      "status": "verified",
+      "lastVerifiedAt": "2026-09-18",
+      "sources": [
+        {
+          "title": "Gautam Asthan Revelganj",
+          "organization": "Bihar Tourism",
+          "url": "https://tourism.bihar.gov.in/en/destinations/saran/gautam-asthan"
+        },
+        {
+          "title": "Gautam Asthan Historical Profile",
+          "organization": "District Administration Saran",
+          "url": "https://saran.nic.in/tourist-place/gautam-asthan/"
+        }
+      ]
+    },
+    "status": "published",
+    "createdAt": "2026-09-18",
+    "updatedAt": "2026-09-18",
+    "heroImage": "https://images.unsplash.com/photo-1596422846543-74c6e27eaa02?q=80&w=1000&auto=format&fit=crop",
+    "imageGallery": [],
+    "videoGallery": []
+  }
+]

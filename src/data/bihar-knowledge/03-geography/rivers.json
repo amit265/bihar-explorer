@@ -1,0 +1,1221 @@
+{
+  "data": [
+    {
+      "id": "ganga",
+      "name": {
+        "en": "Ganga River",
+        "hi": "गंगा नदी"
+      },
+      "alternativeNames": {
+        "en": [
+          "Bhagirathi",
+          "Ganges",
+          "Jahnavi"
+        ],
+        "hi": [
+          "भागीरथी",
+          "गंगे",
+          "जाह्नवी"
+        ]
+      },
+      "origin": {
+        "en": "Gangotri Glacier (Gaumukh), Uttarkashi, Uttarakhand",
+        "hi": "गंगोत्री हिमनद (गोमुख), उत्तरकाशी, उत्तराखंड"
+      },
+      "entryInBihar": {
+        "en": "Enters Bihar at Chausa near Buxar district",
+        "hi": "बक्सर जिले के चौसा के समीप बिहार में प्रवेश करती है"
+      },
+      "exitFromBihar": {
+        "en": "Exits Bihar after Kahalgaon / Pirpainti in Bhagalpur district into West Bengal",
+        "hi": "भागलपुर जिले में कहलगांव / पीरपैंती के बाद पश्चिम बंगाल में प्रवेश करती है"
+      },
+      "confluence": {
+        "en": "Bay of Bengal (Meghna estuary in Bangladesh)",
+        "hi": "बंगाल की खाड़ी (बांग्लादेश में मेघना मुहाना)"
+      },
+      "lengthInBiharKm": 445,
+      "totalLengthKm": 2525,
+      "bankType": "Main Stem",
+      "districtsTraversed": [
+        "buxar",
+        "bhojpur",
+        "saran",
+        "patna",
+        "vaishali",
+        "samastipur",
+        "begusarai",
+        "lakhisarai",
+        "munger",
+        "khagaria",
+        "bhagalpur",
+        "katihar"
+      ],
+      "tributaries": {
+        "en": {
+          "leftBank": [
+            "Ghaghara",
+            "Gandak",
+            "Burhi Gandak",
+            "Bagmati",
+            "Kamla",
+            "Kosi",
+            "Mahananda"
+          ],
+          "rightBank": [
+            "Karmanasa",
+            "Son",
+            "Punpun",
+            "Harohar",
+            "Kiul",
+            "Badua",
+            "Chandan"
+          ]
+        },
+        "hi": {
+          "leftBank": [
+            "घाघरा",
+            "गंडक",
+            "बूढ़ी गंडक",
+            "बागमती",
+            "कमला",
+            "कोसी",
+            "महानंदा"
+          ],
+          "rightBank": [
+            "कर्मनाशा",
+            "सोन",
+            "पुनपुन",
+            "हरोहर",
+            "किऊल",
+            "बदुआ",
+            "चंदन"
+          ]
+        }
+      },
+      "majorDamsAndBridges": {
+        "en": [
+          "Mahatma Gandhi Setu (Patna - Hajipur)",
+          "Digha-Sonpur Rail-Road Bridge (J.P. Setu)",
+          "Rajendra Setu (Mokama)",
+          "Vikramshila Setu (Bhagalpur)",
+          "Munger Ganga Bridge (Shri Krishna Setu)"
+        ],
+        "hi": [
+          "महात्मा गांधी सेतु (पटना - हाजीपुर)",
+          "दीघा-सोनपुर रेल-सड़क पुल (जेपी सेतु)",
+          "राजेंद्र सेतु (मोकामा)",
+          "विक्रमशिला सेतु (भागलपुर)",
+          "मुंगेर गंगा पुल (श्रीकृष्ण सेतु)"
+        ]
+      },
+      "description": {
+        "en": "### The Sacred Ganges\n\nThe **Ganga** is the central geographical and cultural artery of Bihar, splitting the state into two distinct regions: the northern and southern plains.\n\n### Geographical Significance\n\n* **Broad Floodplains:** The river creates vast and highly fertile floodplains that stretch across its basin.\n* **Hydrological Backbone:** It serves as the primary drainage basin, receiving water from numerous Himalayan tributaries in the north and peninsular streams in the south.\n* **Ecological Hub:** The river supports incredible biodiversity, including the endangered Gangetic Dolphin.\n\nThis majestic river is not just a water source but a lifeline that sustains millions through agriculture, navigation, and spiritual heritage.",
+        "hi": "### पवित्र गंगा\n\n**गंगा** बिहार की केंद्रीय भौगोलिक और सांस्कृतिक धमनी है, जो राज्य को दो अलग-अलग क्षेत्रों में विभाजित करती है: उत्तरी और दक्षिणी मैदान।\n\n### भौगोलिक महत्व\n\n* **विस्तृत बाढ़ के मैदान:** नदी विशाल और अत्यधिक उपजाऊ बाढ़ के मैदान बनाती है जो इसके बेसिन में फैले हुए हैं।\n* **जलवैज्ञानिक रीढ़:** यह प्राथमिक जल निकासी बेसिन के रूप में कार्य करती है, उत्तर में कई हिमालयी सहायक नदियों और दक्षिण में प्रायद्वीपीय धाराओं से पानी प्राप्त करती है।\n* **पारिस्थितिक केंद्र:** यह नदी लुप्तप्राय गांगेय डॉल्फ़िन सहित अविश्वसनीय जैव विविधता का समर्थन करती है।\n\nयह राजसी नदी केवल एक जल स्रोत नहीं है बल्कि एक जीवन रेखा है जो कृषि, नौपरिवहन और आध्यात्मिक विरासत के माध्यम से लाखों लोगों को बनाए रखती है।"
+      },
+      "significance": {
+        "en": "Cultural and spiritual lifeline of millions, habitat for the endangered Gangetic Dolphin (National Aquatic Animal) protected at Vikramshila Gangetic Dolphin Sanctuary in Bhagalpur.",
+        "hi": "करोड़ों लोगों की सांस्कृतिक और आध्यात्मिक जीवनरेखा, लुप्तप्राय गंगा डॉल्फिन (राष्ट्रीय जलीय जीव) का प्राकृतिक वास, जिसे भागलपुर के विक्रमशिला गंगा डॉल्फिन अभयारण्य में संरक्षित किया गया है।"
+      },
+      "floodVulnerability": {
+        "en": "Severe seasonal swelling during monsoons causing diara submergence and backwater flooding across Patna, Begusarai, Munger, and Bhagalpur.",
+        "hi": "मानसून के दौरान गंभीर मौसमी उफान जिससे पटना, बेगूसराय, मुंगेर और भागलपुर में दियारा जलमग्नता और बैकवाटर बाढ़ आती है।"
+      },
+      "bpscRelevance": {
+        "en": "Highest weightage in BPSC exams: list of 12 districts touching Ganga, length in Bihar (445 km), and Vikramshila Dolphin Sanctuary details.",
+        "hi": "BPSC परीक्षाओं में सर्वाधिक प्रश्न: गंगा को छूने वाले 12 जिलों की सूची, बिहार में लंबाई (445 किमी), और विक्रमशिला डॉल्फिन अभयारण्य का विवरण।"
+      }
+    },
+    {
+      "id": "ghaghara",
+      "name": {
+        "en": "Ghaghara River (Saryu)",
+        "hi": "घाघरा नदी (सरयू)"
+      },
+      "alternativeNames": {
+        "en": [
+          "Saryu",
+          "Karnali",
+          "Manjhi River"
+        ],
+        "hi": [
+          "सरयू",
+          "करनाली",
+          "मांझी नदी"
+        ]
+      },
+      "origin": {
+        "en": "Mapchachungo Glacier near Lake Mansarovar, Tibetan Plateau",
+        "hi": "तिब्बती पठार, मानसरोवर झील के समीप मापचाचुंगो हिमनद"
+      },
+      "entryInBihar": {
+        "en": "Enters Bihar near Gopalganj and Siwan boundaries",
+        "hi": "गोपालगंज और सीवान की सीमाओं के समीप बिहार में प्रवेश करती है"
+      },
+      "exitFromBihar": {
+        "en": "Merges into Ganga; does not exit as a standalone river",
+        "hi": "गंगा में विलीन हो जाती है; एक स्वतंत्र नदी के रूप में बाहर नहीं निकलती"
+      },
+      "confluence": {
+        "en": "Ganga River at Revelganj (near Chhapra), Saran district",
+        "hi": "रेवलगंज (छपरा के निकट), सारण जिला में गंगा नदी"
+      },
+      "lengthInBiharKm": 83,
+      "totalLengthKm": 1080,
+      "bankType": "North Bank",
+      "districtsTraversed": [
+        "gopalganj",
+        "siwan",
+        "saran"
+      ],
+      "tributaries": {
+        "en": {
+          "major": [
+            "Rapti",
+            "Chhoti Gandak",
+            "Kuwana"
+          ],
+          "local": [
+            "Jharahi",
+            "Daha"
+          ]
+        },
+        "hi": {
+          "major": [
+            "राप्ती",
+            "छोटी गंडक",
+            "कुआना"
+          ],
+          "local": [
+            "झरही",
+            "दाहा"
+          ]
+        }
+      },
+      "majorDamsAndBridges": {
+        "en": [
+          "Doriganj Road Bridge (Chhapra)",
+          "Manjhi Bridge on Chhapra-Ballia route"
+        ],
+        "hi": [
+          "डोरीगंज सड़क पुल (छपरा)",
+          "छपरा-बलिया मार्ग पर मांझी पुल"
+        ]
+      },
+      "description": {
+        "en": "### The Mighty Ghaghara\n\nThe **Ghaghara**, known historically as the Sarayu, is a powerful trans-boundary river that acts as a natural border between Bihar and Uttar Pradesh.\n\n### Key Characteristics\n\n* **Himalayan Origins:** Originating deep in the Himalayas, it brings a massive volume of glacial meltwater.\n* **Navigability:** It is highly navigable and has historically served as an important trade route.\n* **Flooding Dynamics:** The river is known for its shifting course and immense volume, contributing significantly to the fertile soils of the Saran district.\n\nThe Ghaghara is crucial for sustaining the rich agricultural tapestry of western Bihar.",
+        "hi": "### विशाल घाघरा\n\n**घाघरा**, जिसे ऐतिहासिक रूप से सरयू के रूप में जाना जाता है, एक शक्तिशाली सीमा-पार नदी है जो बिहार और उत्तर प्रदेश के बीच एक प्राकृतिक सीमा के रूप में कार्य करती है।\n\n### प्रमुख विशेषताएं\n\n* **हिमालयी उत्पत्ति:** हिमालय की गहराई से उत्पन्न होकर, यह हिमनदों के पिघले पानी का भारी आयतन लाती है।\n* **नौगम्यता:** यह अत्यधिक नौगम्य है और ऐतिहासिक रूप से एक महत्वपूर्ण व्यापार मार्ग के रूप में कार्य करती रही है।\n* **बाढ़ की गतिशीलता:** यह नदी अपने बदलते मार्ग और विशाल आयतन के लिए जानी जाती है, जो सारण जिले की उपजाऊ मिट्टी में महत्वपूर्ण योगदान देती है।\n\nपश्चिमी बिहार के समृद्ध कृषि ताने-बाने को बनाए रखने के लिए घाघरा अत्यंत महत्वपूर्ण है।"
+      },
+      "significance": {
+        "en": "Provides vital irrigation to the Saran alluvial plains; historic Maharshi Gautam Ashram located at its confluence in Revelganj.",
+        "hi": "सारण के जलोढ़ मैदानों को महत्वपूर्ण सिंचाई प्रदान करती है; रेवलगंज में इसके संगम पर ऐतिहासिक महर्षि गौतम आश्रम स्थित है।"
+      },
+      "floodVulnerability": {
+        "en": "High flood erosion risks in Saran and Siwan embankments during peak Himalayan rainstorms.",
+        "hi": "चरम हिमालयी तूफानों के दौरान सारण और सीवान के तटबंधों पर बाढ़ कटाव का भारी जोखिम रहता है।"
+      },
+      "bpscRelevance": {
+        "en": "Key questions: Confluence point with Ganga (Revelganj/Chhapra) and length within Bihar (83 km).",
+        "hi": "प्रमुख प्रश्न: गंगा के साथ संगम बिंदु (रेवलगंज/छपरा) और बिहार के भीतर लंबाई (83 किमी)।"
+      }
+    },
+    {
+      "id": "gandak",
+      "name": {
+        "en": "Gandak River",
+        "hi": "गंडक नदी"
+      },
+      "alternativeNames": {
+        "en": [
+          "Narayani",
+          "Saligrami",
+          "Sapt Gandaki"
+        ],
+        "hi": [
+          "नारायणी",
+          "सालिग्रामी",
+          "सप्त गंडकी"
+        ]
+      },
+      "origin": {
+        "en": "Tibet border near Dhaulagiri and Annapurna peaks, Nepal Himalayas",
+        "hi": "धौलागिरी और अन्नपूर्णा चोटियों के समीप तिब्बत सीमा, नेपाल हिमालय"
+      },
+      "entryInBihar": {
+        "en": "Enters Bihar at Valmikinagar (Bhainsalotan) in West Champaran",
+        "hi": "पश्चिमी चंपारण के वाल्मीकिनगर (भैंसालोटन) में बिहार में प्रवेश करती है"
+      },
+      "exitFromBihar": {
+        "en": "Confluences with Ganga at Sonpur/Hajipur",
+        "hi": "सोनपुर/हाजीपुर में गंगा के साथ संगम"
+      },
+      "confluence": {
+        "en": "Ganga River opposite Patna between Sonpur (Saran) and Hajipur (Vaishali)",
+        "hi": "सोनपुर (सारण) और हाजीपुर (वैशाली) के बीच पटना के सामने गंगा नदी"
+      },
+      "lengthInBiharKm": 260,
+      "totalLengthKm": 630,
+      "bankType": "North Bank",
+      "districtsTraversed": [
+        "west-champaran",
+        "east-champaran",
+        "gopalganj",
+        "siwan",
+        "saran",
+        "muzaffarpur",
+        "vaishali"
+      ],
+      "tributaries": {
+        "en": {
+          "major": [
+            "Trisuli",
+            "Kali Gandak",
+            "Bari Gandak",
+            "Dhonrha"
+          ],
+          "canals": [
+            "Triveni Canal",
+            "Tirhut Canal",
+            "Saran Canal"
+          ]
+        },
+        "hi": {
+          "major": [
+            "त्रिशूली",
+            "काली गंडक",
+            "बारी गंडक",
+            "ढोंढ़ा"
+          ],
+          "canals": [
+            "त्रिवेणी नहर",
+            "तिरहुत नहर",
+            "सारण नहर"
+          ]
+        }
+      },
+      "majorDamsAndBridges": {
+        "en": [
+          "Valmikinagar Gandak Barrage (Bhainsalotan)",
+          "Gandak Bridge at Hajipur-Sonpur"
+        ],
+        "hi": [
+          "वाल्मीकिनगर गंडक बराज (भैंसालोटन)",
+          "हाजीपुर-सोनपुर स्थित गंडक पुल"
+        ]
+      },
+      "description": {
+        "en": "### The Swift Gandak\n\nThe **Gandak** is one of the most prominent northern tributaries of the Ganga, revered for its swift currents and deep gorges in its upper reaches.\n\n### River Dynamics\n\n* **Saligrami Heritage:** Known as the Narayani or Saligrami in Nepal, it is famous for the sacred Shaligram stones.\n* **Agricultural Impact:** The river's vast network of canals supports intense agriculture in Champaran and surrounding areas.\n* **Hydropower Potential:** Its powerful flow is a key resource for irrigation and hydroelectric projects at the Valmikinagar barrage.\n\nThe Gandak remains a vital lifeline for the prosperity of north-western Bihar.",
+        "hi": "### तीव्र गंडक\n\n**गंडक** गंगा की सबसे प्रमुख उत्तरी सहायक नदियों में से एक है, जो अपने ऊपरी हिस्सों में तेज धाराओं और गहरी घाटियों के लिए पूजनीय है।\n\n### नदी की गतिशीलता\n\n* **शालिग्रामी विरासत:** नेपाल में नारायणी या शालिग्रामी के रूप में जानी जाने वाली, यह पवित्र शालिग्राम पत्थरों के लिए प्रसिद्ध है।\n* **कृषि प्रभाव:** नदी का विशाल नहर नेटवर्क चंपारण और आसपास के क्षेत्रों में गहन कृषि का समर्थन करता है।\n* **जलविद्युत क्षमता:** इसका शक्तिशाली प्रवाह वाल्मीकिनगर बैराज पर सिंचाई और पनबिजली परियोजनाओं के लिए एक प्रमुख संसाधन है।\n\nगंडक उत्तर-पश्चिमी बिहार की समृद्धि के लिए एक महत्वपूर्ण जीवन रेखा बनी हुई है।"
+      },
+      "significance": {
+        "en": "Powers the Gandak Multipurpose Project irrigating over 1.4 million hectares through the historic Triveni Canal, Saran Canal, and Tirhut Canal networks. Known for sacred Shaligram stones.",
+        "hi": "ऐतिहासिक त्रिवेणी नहर, सारण नहर और तिरहुत नहर नेटवर्क के माध्यम से 14 लाख हेक्टेयर से अधिक सिंचित करने वाली गंडक बहुउद्देशीय परियोजना को संचालित करती है। पवित्र शालिग्राम पत्थरों के लिए प्रसिद्ध।"
+      },
+      "floodVulnerability": {
+        "en": "Severe recurrent floods during sudden water releases from Valmikinagar Barrage affecting Gopalganj, Saran, and Vaishali.",
+        "hi": "वाल्मीकिनगर बराज से अचानक पानी छोड़े जाने के कारण गोपालगंज, सारण और वैशाली को प्रभावित करने वाली गंभीर आवर्ती बाढ़।"
+      },
+      "bpscRelevance": {
+        "en": "Frequently asked: Entry point (Valmikinagar), Triveni Canal source, and Gaj-Grah mythological episode associated with Harihar Kshetra.",
+        "hi": "बार-बार पूछा जाता है: प्रवेश बिंदु (वाल्मीकिनगर), त्रिवेणी नहर का स्रोत, और हरिहर क्षेत्र से जुड़ा गज-ग्राह पौराणिक प्रसंग।"
+      }
+    },
+    {
+      "id": "burhi-gandak",
+      "name": {
+        "en": "Burhi Gandak River",
+        "hi": "बूढ़ी गंडक नदी"
+      },
+      "alternativeNames": {
+        "en": [
+          "Old Gandak",
+          "Sikrahna (upper reaches)"
+        ],
+        "hi": [
+          "ओल्ड गंडक",
+          "सिकरहना (ऊपरी प्रवाह में)"
+        ]
+      },
+      "origin": {
+        "en": "Someshwar Hills near Chautarwa Chaur, West Champaran",
+        "hi": "चौतरवा चौर के समीप सोमेश्वर पहाड़ियाँ, पश्चिमी चंपारण"
+      },
+      "entryInBihar": {
+        "en": "Originates within Bihar itself (endemic river of Bihar)",
+        "hi": "बिहार के भीतर ही उत्पन्न होती है (बिहार की स्थानिक नदी)"
+      },
+      "exitFromBihar": {
+        "en": "Merges with Ganga in Khagaria district",
+        "hi": "खगड़िया जिले में गंगा के साथ संगम"
+      },
+      "confluence": {
+        "en": "Ganga River near Khagaria town",
+        "hi": "खगड़िया नगर के समीप गंगा नदी"
+      },
+      "lengthInBiharKm": 320,
+      "totalLengthKm": 320,
+      "bankType": "North Bank",
+      "districtsTraversed": [
+        "west-champaran",
+        "east-champaran",
+        "muzaffarpur",
+        "samastipur",
+        "begusarai",
+        "khagaria"
+      ],
+      "tributaries": {
+        "en": {
+          "major": [
+            "Masam",
+            "Balor",
+            "Pandai",
+            "Sikta",
+            "Tilawe",
+            "Dhanauti",
+            "Kohra",
+            "Bagmati (lower branch)"
+          ]
+        },
+        "hi": {
+          "major": [
+            "मसान",
+            "बलोर",
+            "पंडई",
+            "सिकटा",
+            "तिलवे",
+            "धनौती",
+            "कोहरा",
+            "बागमती (निचली शाखा)"
+          ]
+        }
+      },
+      "majorDamsAndBridges": {
+        "en": [
+          "Burhi Gandak Bridge at Samastipur",
+          "Akharaghat Bridge in Muzaffarpur"
+        ],
+        "hi": [
+          "समस्तीपुर में बूढ़ी गंडक पुल",
+          "मुजफ्फरपुर में अखराघाट पुल"
+        ]
+      },
+      "description": {
+        "en": "### The Wandering Burhi Gandak\n\nThe **Burhi Gandak** ('Old Gandak') traces an incredibly meandering path through the heart of northern Bihar.\n\n### Defining Features\n\n* **Oxbow Lakes:** Its extreme meandering has left behind numerous horseshoe-shaped wetlands, known locally as *Mauns*.\n* **Floodplain Creation:** The river frequently spills its banks during monsoons, continuously refreshing the soil fertility.\n* **Parallel Flow:** It runs parallel to the main Gandak for a long distance before joining the Ganga near Khagaria.\n\nIts rich aquatic ecosystems are a sanctuary for diverse migratory birds and local fish species.",
+        "hi": "### घुमावदार बूढ़ी गंडक\n\n**बूढ़ी गंडक** ('पुरानी गंडक') उत्तरी बिहार के मध्य से होकर अविश्वसनीय रूप से घुमावदार मार्ग का अनुसरण करती है।\n\n### परिभाषित विशेषताएं\n\n* **गोखुर झीलें:** इसके अत्यधिक घुमावों ने कई घोड़े की नाल के आकार की आर्द्रभूमियों को पीछे छोड़ दिया है, जिन्हें स्थानीय रूप से *मौन* कहा जाता है।\n* **बाढ़ के मैदान का निर्माण:** नदी मानसून के दौरान अक्सर अपने किनारों को तोड़ती है, जिससे मिट्टी की उर्वरता लगातार ताज़ा होती है।\n* **समानांतर प्रवाह:** यह खगड़िया के पास गंगा में मिलने से पहले एक लंबी दूरी तक मुख्य गंडक के समानांतर बहती है।\n\nइसके समृद्ध जलीय पारिस्थितिक तंत्र विविध प्रवासी पक्षियों और स्थानीय मछली प्रजातियों के लिए एक अभयारण्य हैं।"
+      },
+      "significance": {
+        "en": "Extensively creates fertile agricultural silt for sugarcane and tobacco belts in Muzaffarpur and Samastipur; creates numerous oxbow lakes (mauns) rich in fisheries.",
+        "hi": "मुजफ्फरपुर और समस्तीपुर में गन्ने और तंबाकू बेल्ट के लिए उपजाऊ जलोढ़ गाद बनाती है; मत्स्य पालन से समृद्ध कई गोखुर झीलों (मौन) का निर्माण करती है।"
+      },
+      "floodVulnerability": {
+        "en": "Flash flooding with record fast velocity; breaches embankments frequently in Samastipur, Begusarai, and Khagaria.",
+        "hi": "अत्यधिक तेज वेग के साथ अचानक बाढ़; समस्तीपुर, बेगूसराय और खगड़िया में बार-बार तटबंध टूटते हैं।"
+      },
+      "bpscRelevance": {
+        "en": "BPSC favorite: Origin of Burhi Gandak (Someshwar range/Chautarwa Chaur), alternative name Sikrahna, and confluence with Ganga at Khagaria.",
+        "hi": "BPSC का पसंदीदा सवाल: बूढ़ी गंडक का उद्गम (सोमेश्वर श्रेणी/चौतरवा चौर), वैकल्पिक नाम सिकरहना, और खगड़िया में गंगा के साथ संगम।"
+      }
+    },
+    {
+      "id": "kosi",
+      "name": {
+        "en": "Kosi River",
+        "hi": "कोसी नदी"
+      },
+      "alternativeNames": {
+        "en": [
+          "Sorrow of Bihar",
+          "Kaushiki",
+          "Sapta Kosi"
+        ],
+        "hi": [
+          "बिहार का शोक",
+          "कौशिकी",
+          "सप्त कोसी"
+        ]
+      },
+      "origin": {
+        "en": "Sapta Kosi confluence (Sun Kosi, Arun, and Tamur) in Himalayas of Nepal and Tibet",
+        "hi": "नेपाल और तिब्बत के हिमालय में सप्त कोसी संगम (सुन कोसी, अरुण और तमुर)"
+      },
+      "entryInBihar": {
+        "en": "Enters Bihar near Bhimnagar (Chatra gorge) in Supaul district",
+        "hi": "सुपौल जिले में भीमनगर (चतरा गॉर्ज) के निकट बिहार में प्रवेश करती है"
+      },
+      "exitFromBihar": {
+        "en": "Confluences with Ganga at Kursela in Katihar",
+        "hi": "कटिहार के कुर्सेला में गंगा के साथ संगम"
+      },
+      "confluence": {
+        "en": "Ganga River at Kursela, Katihar district",
+        "hi": "कुर्सेला, कटिहार जिला में गंगा नदी"
+      },
+      "lengthInBiharKm": 260,
+      "totalLengthKm": 720,
+      "bankType": "North Bank",
+      "districtsTraversed": [
+        "supaul",
+        "saharsa",
+        "madhepura",
+        "khagaria",
+        "purnia",
+        "katihar"
+      ],
+      "tributaries": {
+        "en": {
+          "major": [
+            "Sun Kosi",
+            "Arun",
+            "Tamur",
+            "Dudh Kosi",
+            "Indrawati",
+            "Bhote Kosi",
+            "Tamba Kosi"
+          ],
+          "biharAffluents": [
+            "Kamla (joins via Bagmati-Kosi link)",
+            "Dhemra",
+            "Tiljuga"
+          ]
+        },
+        "hi": {
+          "major": [
+            "सुन कोसी",
+            "अरुण",
+            "तमुर",
+            "दूध कोसी",
+            "इंद्रावती",
+            "भोटे कोसी",
+            "तांबा कोसी"
+          ],
+          "biharAffluents": [
+            "कमला (बागमती-कोसी लिंक से)",
+            "धेमरा",
+            "तिलजुगा"
+          ]
+        }
+      },
+      "majorDamsAndBridges": {
+        "en": [
+          "Kosi Barrage (Birpur / Bhimnagar)",
+          "Kosi Mahasetu (Supaul-Madhubani expressway bridge)",
+          "Bateshwar Sthan Rail-Road Bridge"
+        ],
+        "hi": [
+          "कोसी बराज (बीरपुर / भीमनगर)",
+          "कोसी महासेतु (सुपौल-मधुबनी एक्सप्रेसवे पुल)",
+          "बटेश्वर स्थान रेल-सड़क पुल"
+        ]
+      },
+      "description": {
+        "en": "### The Sorrow of Bihar\n\nKnown historically as the 'Sorrow of Bihar', the **Kosi River** is notorious for its volatile flow and frequent changes in course.\n\n### Unique Characteristics\n\n* **Massive Silt Load:** It carries one of the highest silt loads of any river globally, brought down from the young Himalayas.\n* **Avulsion Dynamics:** The sheer volume of sediment causes the river to repeatedly choke its own bed and violently shift sideways.\n* **Fertile Delta:** Despite its destructive floods, the Kosi has built a massive, highly fertile megafan in North Bihar.\n\nThe challenge of mastering the Kosi remains central to Bihar's flood management and development strategies.",
+        "hi": "### बिहार का शोक\n\nऐतिहासिक रूप से 'बिहार के शोक' के रूप में जानी जाने वाली, **कोसी नदी** अपने अस्थिर प्रवाह और मार्ग में लगातार बदलाव के लिए कुख्यात है।\n\n### अनूठी विशेषताएं\n\n* **विशाल गाद भार:** यह विश्व स्तर पर किसी भी नदी के सबसे अधिक गाद भार में से एक लाती है, जिसे युवा हिमालय से नीचे लाया जाता है।\n* **नदी-अपहरण गतिशीलता:** अवसाद की भारी मात्रा के कारण नदी बार-बार अपने ही तल को अवरुद्ध कर देती है और हिंसक रूप से बग़ल में खिसक जाती है।\n* **उपजाऊ डेल्टा:** अपनी विनाशकारी बाढ़ के बावजूद, कोसी ने उत्तर बिहार में एक विशाल, अत्यधिक उपजाऊ मेगाफैन का निर्माण किया है।\n\nकोसी को नियंत्रित करने की चुनौती बिहार की बाढ़ प्रबंधन और विकास रणनीतियों के केंद्र में बनी हुई है।"
+      },
+      "significance": {
+        "en": "Eastern and Western Kosi Canal systems irrigate vast tracts of Supaul, Saharsa, Madhepura, and Purnia; huge maize cultivation hub in its post-flood silt deposits.",
+        "hi": "पूर्वी और पश्चिमी कोसी नहर प्रणालियाँ सुपौल, सहरसा, मधेपुरा और पूर्णिया के विशाल क्षेत्रों की सिंचाई करती हैं; बाढ़ के बाद गाद निक्षेपों में विशाल मक्का की खेती का केंद्र।"
+      },
+      "floodVulnerability": {
+        "en": "Catastrophic sediment deposition causing river bed aggradation, rapid breaches, and devastating seasonal inundations across the Kosi-Seemanchal belt.",
+        "hi": "विनाशकारी गाद जमाव के कारण नदी तल का ऊपर उठना, त्वरित तटबंध टूटना और कोसी-सीमांचल क्षेत्र में विनाशकारी मौसमी बाढ़।"
+      },
+      "bpscRelevance": {
+        "en": "Consistently asked: Kosi Barrage location (Birpur), Kursela confluence point, historical shifting pattern, and Kosi-Mechi River Interlinking Project (second major river interlink in India).",
+        "hi": "लगातार पूछा जाता है: कोसी बराज स्थान (बीरपुर), कुर्सेला संगम बिंदु, ऐतिहासिक मार्ग परिवर्तन, और कोसी-मेची नदी जोड़ो परियोजना (भारत में दूसरा बड़ा नदी जोड़ो प्रोजेक्ट)।"
+      }
+    },
+    {
+      "id": "bagmati",
+      "name": {
+        "en": "Bagmati River",
+        "hi": "बागमती नदी"
+      },
+      "alternativeNames": {
+        "en": [
+          "Vagmati",
+          "Sacred River of Nepal"
+        ],
+        "hi": [
+          "वाग्मती",
+          "नेपाल की पवित्र नदी"
+        ]
+      },
+      "origin": {
+        "en": "Shivapuri Hills, Kathmandu Valley, Nepal",
+        "hi": "शिवपुरी पहाड़ियाँ, काठमांडू घाटी, नेपाल"
+      },
+      "entryInBihar": {
+        "en": "Enters Bihar at Shorwatia village in Sitamarhi district",
+        "hi": "सीतामढ़ी जिले के शोरवतिया गाँव में बिहार में प्रवेश करती है"
+      },
+      "exitFromBihar": {
+        "en": "Merges with Kosi / Burhi Gandak network",
+        "hi": "कोसी / बूढ़ी गंडक नेटवर्क में विलीन"
+      },
+      "confluence": {
+        "en": "Joins the Kosi river system near Badlaghat in Khagaria",
+        "hi": "खगड़िया में बदलाघाट के पास कोसी नदी प्रणाली में मिलती है"
+      },
+      "lengthInBiharKm": 394,
+      "totalLengthKm": 597,
+      "bankType": "North Bank",
+      "districtsTraversed": [
+        "sitamarhi",
+        "sheohar",
+        "muzaffarpur",
+        "darbhanga",
+        "samastipur",
+        "khagaria"
+      ],
+      "tributaries": {
+        "en": {
+          "major": [
+            "Lalbakeya",
+            "Lakhandei",
+            "Chakradhar",
+            "Sipri",
+            "Dhauri"
+          ]
+        },
+        "hi": {
+          "major": [
+            "लालबकेया",
+            "लखनदेई",
+            "चक्रधर",
+            "सिपरी",
+            "धौरी"
+          ]
+        }
+      },
+      "majorDamsAndBridges": {
+        "en": [
+          "Bagmati Embankment System",
+          "Runni Saidpur Bridge (Sitamarhi-Muzaffarpur NH)"
+        ],
+        "hi": [
+          "बागमती तटबंध प्रणाली",
+          "रुन्नी सैदपुर पुल (सीतामढ़ी-मुजफ्फरपुर राष्ट्रीय राजमार्ग)"
+        ]
+      },
+      "description": {
+        "en": "### The Sacred Bagmati\n\nThe **Bagmati** is considered a deeply sacred river, flowing down from the Kathmandu Valley into the plains of Bihar.\n\n### Hydrological Impact\n\n* **Cultural Significance:** Along its banks lie numerous ancient temples and ghats of immense spiritual importance.\n* **Flash Floods:** It is characterized by severe flash floods during heavy rainfall in the Nepalese catchment area.\n* **Agricultural Lifeline:** The silts deposited by the Bagmati are incredibly rich, supporting dense farming communities in Sitamarhi and Darbhanga.\n\nThe river is a testament to the intertwined nature of faith and agriculture in the region.",
+        "hi": "### पवित्र बागमती\n\n**बागमती** को एक अत्यंत पवित्र नदी माना जाता है, जो काठमांडू घाटी से नीचे बिहार के मैदानों में बहती है।\n\n### जलवैज्ञानिक प्रभाव\n\n* **सांस्कृतिक महत्व:** इसके किनारों पर अत्यधिक आध्यात्मिक महत्व के कई प्राचीन मंदिर और घाट स्थित हैं।\n* **अचानक आई बाढ़:** नेपाली जलग्रहण क्षेत्र में भारी वर्षा के दौरान यह गंभीर अचानक आई बाढ़ की विशेषता है।\n* **कृषि जीवन रेखा:** बागमती द्वारा जमा की गई गाद अविश्वसनीय रूप से समृद्ध है, जो सीतामढ़ी और दरभंगा में घने कृषक समुदायों का समर्थन करती है।\n\nयह नदी क्षेत्र में आस्था और कृषि की आपस में जुड़ी प्रकृति का प्रमाण है।"
+      },
+      "significance": {
+        "en": "Forms the cultural heart of Mithilanchal; supports fertile agricultural floodplains for paddy and summer crops.",
+        "hi": "मिथिलांचल के सांस्कृतिक हृदय का निर्माण करती है; धान और ग्रीष्मकालीन फसलों के लिए उपजाऊ कृषि बाढ़ के मैदानों का पोषण करती है।"
+      },
+      "floodVulnerability": {
+        "en": "Extremely flood-prone; causes devastating floods in Sitamarhi, Sheohar, and Muzaffarpur within hours of cloudbursts in the Nepal hills.",
+        "hi": "अत्यधिक बाढ़-प्रवण; नेपाल की पहाड़ियों में बादल फटने के कुछ ही घंटों के भीतर सीतामढ़ी, शिवहर और मुजफ्फरपुर में विनाशकारी बाढ़ लाती है।"
+      },
+      "bpscRelevance": {
+        "en": "Origin site (Shivapuri hills near Kathmandu), entry point (Shorwatia/Sitamarhi), and its flood management projects.",
+        "hi": "उद्गम स्थल (काठमांडू के पास शिवपुरी पहाड़ियाँ), प्रवेश बिंदु (शोरवतिया/सीतामढ़ी), और इसकी बाढ़ प्रबंधन परियोजनाएं।"
+      }
+    },
+    {
+      "id": "kamla-balan",
+      "name": {
+        "en": "Kamla-Balan River",
+        "hi": "कमला-बलान नदी"
+      },
+      "alternativeNames": {
+        "en": [
+          "Kamala",
+          "Mithila Lifeline"
+        ],
+        "hi": [
+          "कमला",
+          "मिथिला की जीवनरेखा"
+        ]
+      },
+      "origin": {
+        "en": "Mahabharat Range near Sindhuliya Garhi, Nepal",
+        "hi": "सिंधुलिया गढ़ी के समीप महाभारत श्रेणी, नेपाल"
+      },
+      "entryInBihar": {
+        "en": "Enters Bihar at Jainagar in Madhubani district",
+        "hi": "मधुबनी जिले के जयनगर में बिहार में प्रवेश करती है"
+      },
+      "exitFromBihar": {
+        "en": "Merges with Kosi river system",
+        "hi": "कोसी नदी प्रणाली में विलीन"
+      },
+      "confluence": {
+        "en": "Merges with Bagmati and eventually into Kosi near Badlaghat",
+        "hi": "बदलाघाट के समीप बागमती और अंततः कोसी में मिलती है"
+      },
+      "lengthInBiharKm": 120,
+      "totalLengthKm": 328,
+      "bankType": "North Bank",
+      "districtsTraversed": [
+        "madhubani",
+        "darbhanga",
+        "khagaria"
+      ],
+      "tributaries": {
+        "en": {
+          "major": [
+            "Balan",
+            "Trisula",
+            "Dhauri",
+            "Gharha"
+          ]
+        },
+        "hi": {
+          "major": [
+            "बलान",
+            "त्रिशुला",
+            "धौरी",
+            "घरहा"
+          ]
+        }
+      },
+      "majorDamsAndBridges": {
+        "en": [
+          "Jainagar Kamla Barrage (Madhubani)",
+          "Jhanjharpur Railway Bridge"
+        ],
+        "hi": [
+          "जयनगर कमला बराज (मधुबनी)",
+          "झंझारपुर रेलवे पुल"
+        ]
+      },
+      "description": {
+        "en": "### The Swift Kamla Balan\n\nThe **Kamla River**, combined with the Balan, is an important river system in the Mithilanchal region.\n\n### Key Features\n\n* **Vibrant River System:** It forms a dynamic network of streams that frequently overtop their banks.\n* **Mythological Roots:** Revered deeply in local folklore and Mithila traditions.\n* **Silt Deposition:** The river spreads nutrient-rich fine silt across Madhubani and Darbhanga, boosting paddy production.\n\nThe Kamla-Balan system exemplifies the delicate balance between flood risk and agricultural bounty.",
+        "hi": "### तीव्र कमला बलान\n\n**कमला नदी**, बलान के साथ मिलकर, मिथिलांचल क्षेत्र में एक महत्वपूर्ण नदी प्रणाली है।\n\n### प्रमुख विशेषताएं\n\n* **जीवंत नदी प्रणाली:** यह धाराओं का एक गतिशील नेटवर्क बनाती है जो अक्सर अपने किनारों से ऊपर बहती है।\n* **पौराणिक जड़ें:** स्थानीय लोककथाओं और मिथिला परंपराओं में गहराई से पूजनीय।\n* **गाद निक्षेपण:** नदी मधुबनी और दरभंगा में पोषक तत्वों से भरपूर महीन गाद फैलाती है, जिससे धान का उत्पादन बढ़ता है।\n\nकमला-बलान प्रणाली बाढ़ के जोखिम और कृषि प्रचुरता के बीच नाजुक संतुलन का उदाहरण है।"
+      },
+      "significance": {
+        "en": "Major source of irrigation for Mithilanchal; vital water source for commercial makhana (foxnut) wetlands and pisciculture.",
+        "hi": "मिथिलांचल के लिए सिंचाई का प्रमुख स्रोत; व्यावसायिक मखाना आर्द्रभूमि और मत्स्य पालन के लिए महत्वपूर्ण जल स्रोत।"
+      },
+      "floodVulnerability": {
+        "en": "High flood vulnerability in Jhanjharpur and Madhubani due to sudden surges breaching river embankments.",
+        "hi": "तटबंधों को तोड़ने वाले अचानक पानी के उफान के कारण झंझारपुर और मधुबनी में उच्च बाढ़ संवेदनशीलता।"
+      },
+      "bpscRelevance": {
+        "en": "Entry town (Jainagar) and Kamla Barrage project in Madhubani district.",
+        "hi": "प्रवेश नगर (जयनगर) और मधुबनी जिले में कमला बराज परियोजना।"
+      }
+    },
+    {
+      "id": "mahananda",
+      "name": {
+        "en": "Mahananda River",
+        "hi": "महानंदा नदी"
+      },
+      "alternativeNames": {
+        "en": [
+          "Mahanadi of the North"
+        ],
+        "hi": [
+          "उत्तर की महानदी"
+        ]
+      },
+      "origin": {
+        "en": "Mahaldiram Hills near Kurseong, Darjeeling district, West Bengal",
+        "hi": "महलदीराम पहाड़ियाँ, कार्शियांग के निकट, दार्जिलिंग जिला, पश्चिम बंगाल"
+      },
+      "entryInBihar": {
+        "en": "Enters Bihar in Kishanganj district",
+        "hi": "किशनगंज जिले में बिहार में प्रवेश करती है"
+      },
+      "exitFromBihar": {
+        "en": "Exits into Malda district of West Bengal and then Bangladesh",
+        "hi": "पश्चिम बंगाल के मालदा जिले और फिर बांग्लादेश में प्रवेश करती है"
+      },
+      "confluence": {
+        "en": "Ganga River (Padma) at Godagiri, Nawabganj in Bangladesh",
+        "hi": "बांग्लादेश के नवाबगंज के गोदागिरी में गंगा नदी (पद्मा)"
+      },
+      "lengthInBiharKm": 376,
+      "totalLengthKm": 415,
+      "bankType": "North Bank",
+      "districtsTraversed": [
+        "kishanganj",
+        "purnia",
+        "katihar"
+      ],
+      "tributaries": {
+        "en": {
+          "major": [
+            "Mechi",
+            "Balason",
+            "Kankai",
+            "Ratwa",
+            "Dank"
+          ]
+        },
+        "hi": {
+          "major": [
+            "मेची",
+            "बालासन",
+            "कनकई",
+            "रतवा",
+            "डांक"
+          ]
+        }
+      },
+      "majorDamsAndBridges": {
+        "en": [
+          "Mahananda Embankment Project",
+          "Kishanganj Road & Railway Bridge"
+        ],
+        "hi": [
+          "महानंदा तटबंध परियोजना",
+          "किशनगंज सड़क एवं रेलवे पुल"
+        ]
+      },
+      "description": {
+        "en": "### The Eastern Boundary River\n\nThe **Mahananda** is the easternmost major tributary of the Ganga in Bihar, defining much of the state's eastern ecology.\n\n### Geographic Nuances\n\n* **Tea and Jute Belt:** Its basin in Kishanganj and Purnia is famous for robust jute cultivation and emerging tea estates.\n* **High Rainfall Zone:** It flows through the wettest region of Bihar, carrying substantial monsoon runoff.\n* **Meandering Path:** It meanders extensively through the borderlands of Bengal and Bihar.\n\nThe river's consistent water supply ensures the distinct, lush landscape of Seemanchal.",
+        "hi": "### पूर्वी सीमा नदी\n\n**महानंदा** बिहार में गंगा की सबसे पूर्वी प्रमुख सहायक नदी है, जो राज्य की अधिकांश पूर्वी पारिस्थितिकी को परिभाषित करती है।\n\n### भौगोलिक बारीकियां\n\n* **चाय और जूट बेल्ट:** किशनगंज और पूर्णिया में इसका बेसिन मजबूत जूट की खेती और उभरते चाय बागानों के लिए प्रसिद्ध है।\n* **उच्च वर्षा क्षेत्र:** यह बिहार के सबसे नम क्षेत्र से होकर बहती है, जो पर्याप्त मानसूनी अपवाह लाती है।\n* **घुमावदार मार्ग:** यह बंगाल और बिहार के सीमावर्ती क्षेत्रों के माध्यम से बड़े पैमाने पर घूमती है।\n\nनदी की निरंतर पानी की आपूर्ति सीमांचल के विशिष्ट, हरे-भरे परिदृश्य को सुनिश्चित करती है।"
+      },
+      "significance": {
+        "en": "Irrigates the primary jute, pineapple, and tea growing tracts of Bihar; central to the strategic Kosi-Mechi River Interlinking Scheme.",
+        "hi": "बिहार के प्रमुख जूट, अनानास और चाय उत्पादक क्षेत्रों की सिंचाई करती है; रणनीतिक कोसी-मेची नदी जोड़ो योजना का केंद्रीय अंग।"
+      },
+      "floodVulnerability": {
+        "en": "Widespread inundation during July-August throughout Kishanganj and Katihar floodplains.",
+        "hi": "जुलाई-अगस्त के दौरान किशनगंज और कटिहार के बाढ़ के मैदानों में व्यापक जलभराव।"
+      },
+      "bpscRelevance": {
+        "en": "Easternmost river of Bihar, Kosi-Mechi interlinking project features, and Mechi international border significance.",
+        "hi": "बिहार की सबसे पूर्वी नदी, कोसी-मेची नदी जोड़ो परियोजना की विशेषताएं, और मेची अंतरराष्ट्रीय सीमा का महत्व।"
+      }
+    },
+    {
+      "id": "son",
+      "name": {
+        "en": "Son River",
+        "hi": "सोन नदी"
+      },
+      "alternativeNames": {
+        "en": [
+          "Sona",
+          "Hiranyavaha",
+          "Shona"
+        ],
+        "hi": [
+          "सोना",
+          "हिरण्यवाह",
+          "शोण"
+        ]
+      },
+      "origin": {
+        "en": "Amarkantak Plateau near Maikal Range, Anuppur district, Madhya Pradesh",
+        "hi": "मैकाल श्रेणी के समीप अमरकंटक पठार, अनूपपुर जिला, मध्य प्रदेश"
+      },
+      "entryInBihar": {
+        "en": "Enters Bihar in Rohtas district near Pipradih",
+        "hi": "रोहतास जिले में पिपराडीह के निकट बिहार में प्रवेश करती है"
+      },
+      "exitFromBihar": {
+        "en": "Merges into Ganga; does not leave Bihar",
+        "hi": "गंगा में विलीन हो जाती है; बिहार से बाहर नहीं जाती"
+      },
+      "confluence": {
+        "en": "Ganga River near Maner / Danapur in Patna district",
+        "hi": "पटना जिले में मनेर / दानापुर के समीप गंगा नदी"
+      },
+      "lengthInBiharKm": 202,
+      "totalLengthKm": 784,
+      "bankType": "South Bank",
+      "districtsTraversed": [
+        "rohtas",
+        "aurangabad",
+        "bhojpur",
+        "jehanabad",
+        "arwal",
+        "patna"
+      ],
+      "tributaries": {
+        "en": {
+          "major": [
+            "Rihand",
+            "North Koel",
+            "Gopad",
+            "Kanhar"
+          ]
+        },
+        "hi": {
+          "major": [
+            "रिहंद",
+            "उत्तरी कोयल",
+            "गोपद",
+            "कन्हर"
+          ]
+        }
+      },
+      "majorDamsAndBridges": {
+        "en": [
+          "Indrapuri Barrage (Dehri-on-Sone, Rohtas) - 4th longest barrage in the world",
+          "Historic Koilwar Bridge (Abdul Bari Bridge) built in 1862",
+          "Nehru Setu rail bridge at Dehri",
+          "New 6-lane Koilwar Vashishtha Narayan Singh Bridge"
+        ],
+        "hi": [
+          "इंद्रपुरी बराज (डेहरी-ऑन-सोन, रोहतास) - विश्व का चौथा सबसे लंबा बराज",
+          "1862 में निर्मित ऐतिहासिक कोईलवर पुल (अब्दुल बारी पुल)",
+          "डेहरी में नेहरू सेतु रेल पुल",
+          "नया 6-लेन कोईलवर वशिष्ठ नारायण सिंह पुल"
+        ]
+      },
+      "description": {
+        "en": "### The Golden Son\n\nThe **Son** is the largest and most significant southern tributary of the Ganga, originating from the Amarkantak plateau.\n\n### Significance and Utility\n\n* **Vast Sand Beds:** Famous for its extraordinarily wide, yellowish sand beds (giving it the name 'Son' or gold).\n* **Irrigation Network:** It feeds the historic Son Canal system, which transformed south-west Bihar into a flourishing agricultural zone.\n* **Bridging Distances:** Spanned by some of India's longest river bridges (like the Koilwar Bridge).\n\nThe Son is a powerful agent of economic stability for the Rohtas, Bhojpur, and Aurangabad districts.",
+        "hi": "### स्वर्ण सोन\n\n**सोन** गंगा की सबसे बड़ी और सबसे महत्वपूर्ण दक्षिणी सहायक नदी है, जो अमरकंटक पठार से निकलती है।\n\n### महत्व और उपयोगिता\n\n* **विशाल रेत के बिस्तर:** अपने असाधारण रूप से चौड़े, पीले रेत के बिस्तरों के लिए प्रसिद्ध (जिससे इसे 'सोन' या सोना नाम मिला है)।\n* **सिंचाई नेटवर्क:** यह ऐतिहासिक सोन नहर प्रणाली को पोषित करती है, जिसने दक्षिण-पश्चिम बिहार को एक समृद्ध कृषि क्षेत्र में बदल दिया।\n* **दूरियां पाटना:** भारत के कुछ सबसे लंबे नदी पुलों (जैसे कोइलवर पुल) द्वारा पार की गई।\n\nसोन रोहतास, भोजपुर और औरंगाबाद जिलों के लिए आर्थिक स्थिरता का एक शक्तिशाली एजेंट है।"
+      },
+      "significance": {
+        "en": "Hosts the historic Son Canal System (commissioned in 1874 by British engineers), transforming Rohtas and Bhojpur into the 'Rice Bowl of Bihar'. Source of famous Bihar yellow sand (Son Balu).",
+        "hi": "ऐतिहासिक सोन नहर प्रणाली (1874 में ब्रिटिश इंजीनियरों द्वारा शुरू) की आधारशिला, जिसने रोहतास और भोजपुर को 'बिहार का धान का कटोरा' बना दिया। प्रसिद्ध बिहार पीले बालू (सोन बालू) का प्रमुख स्रोत।"
+      },
+      "floodVulnerability": {
+        "en": "Sudden torrential flash surges when Bansagar Dam (MP) and Rihand Dam (UP) release emergency discharges.",
+        "hi": "बाणसागर बांध (मध्य प्रदेश) और रिहंद बांध (उत्तर प्रदेश) से आपातकालीन पानी छोड़े जाने पर अचानक भीषण बाढ़।"
+      },
+      "bpscRelevance": {
+        "en": "Vital BPSC topic: Indrapuri Barrage length and capacity, Son Canal inception year (1874), ancient name Hiranyavaha mentioned by Megasthenes, and confluence near Maner.",
+        "hi": "अत्यंत महत्वपूर्ण BPSC विषय: इंद्रपुरी बराज की लंबाई और क्षमता, सोन नहर की शुरुआत का वर्ष (1874), मेगस्थनीज द्वारा उल्लिखित प्राचीन नाम हिरण्यवाह, और मनेर के पास संगम।"
+      }
+    },
+    {
+      "id": "punpun",
+      "name": {
+        "en": "Punpun River",
+        "hi": "पुनपुन नदी"
+      },
+      "alternativeNames": {
+        "en": [
+          "Bamangadha",
+          "Kikat (Rigvedic association)",
+          "Puna-Puna"
+        ],
+        "hi": [
+          "बामनगधा",
+          "कीकट (ऋग्वैदिक संदर्भ)",
+          "पुनः-पुनः"
+        ]
+      },
+      "origin": {
+        "en": "Chota Nagpur Plateau, Palamu district, Jharkhand",
+        "hi": "छोटा नागपुर पठार, पलामू जिला, झारखंड"
+      },
+      "entryInBihar": {
+        "en": "Enters Bihar in Aurangabad district",
+        "hi": "औरंगाबाद जिले में बिहार में प्रवेश करती है"
+      },
+      "exitFromBihar": {
+        "en": "Merges with Ganga; does not exit Bihar",
+        "hi": "गंगा में विलीन हो जाती है; बिहार से बाहर नहीं जाती"
+      },
+      "confluence": {
+        "en": "Ganga River at Fatuha in Patna district",
+        "hi": "फतुहा, पटना जिला में गंगा नदी"
+      },
+      "lengthInBiharKm": 200,
+      "totalLengthKm": 235,
+      "bankType": "South Bank",
+      "districtsTraversed": [
+        "aurangabad",
+        "gaya",
+        "arwal",
+        "jehanabad",
+        "patna"
+      ],
+      "tributaries": {
+        "en": {
+          "major": [
+            "Morhar",
+            "Dardha",
+            "Madar",
+            "Bhutahi"
+          ]
+        },
+        "hi": {
+          "major": [
+            "मोरहर",
+            "दरधा",
+            "मदार",
+            "भूतही"
+          ]
+        }
+      },
+      "majorDamsAndBridges": {
+        "en": [
+          "Punpun Barrage Project",
+          "Fatuha Bridge over Punpun"
+        ],
+        "hi": [
+          "पुनपुन बराज परियोजना",
+          "पुनपुन पर फतुहा पुल"
+        ]
+      },
+      "description": {
+        "en": "### The Seasonal Punpun\n\nThe **Punpun** originates in the Chota Nagpur plateau and winds its way northward to meet the Ganga near Patna.\n\n### Spiritual and Hydrological Traits\n\n* **Ritualistic Value:** It holds immense religious significance, especially for the Pind Daan rituals performed by pilgrims.\n* **Monsoon Swells:** Primarily rain-fed, the river swells dramatically during the monsoon, sometimes causing inundation in Patna's southern periphery.\n* **Summer Dryness:** It is mostly shallow and narrow during the dry season.\n\nThe Punpun remains a quintessential peninsular river reflecting the extreme seasonality of southern streams.",
+        "hi": "### मौसमी पुनपुन\n\n**पुनपुन** छोटानागपुर पठार से निकलती है और उत्तर की ओर घुमावदार रास्ता तय करते हुए पटना के पास गंगा में मिलती है।\n\n### आध्यात्मिक और जलवैज्ञानिक लक्षण\n\n* **कर्मकांडीय मूल्य:** यह अत्यधिक धार्मिक महत्व रखती है, विशेष रूप से तीर्थयात्रियों द्वारा किए जाने वाले पिंड दान अनुष्ठानों के लिए।\n* **मानसूनी उफान:** मुख्य रूप से वर्षा-पोषित, नदी मानसून के दौरान नाटकीय रूप से सूज जाती है, जिससे कभी-कभी पटना के दक्षिणी परिधि में बाढ़ आ जाती है।\n* **ग्रीष्मकालीन सूखापन:** शुष्क मौसम के दौरान यह ज्यादातर उथली और संकरी होती है।\n\nपुनपुन एक सर्वोत्कृष्ट प्रायद्वीपीय नदी बनी हुई है जो दक्षिणी धाराओं की अत्यधिक मौसमी प्रकृति को दर्शाती है।"
+      },
+      "significance": {
+        "en": "Holding immense ritual sanctity, pilgrims performing Pitripaksha Pinda Daan first take a holy dip in the Punpun before proceeding to Gaya.",
+        "hi": "अगाध धार्मिक महत्व रखने वाली नदी; पितृपक्ष पिंड दान करने वाले तीर्थयात्री गया जाने से पहले पुनपुन में पवित्र स्नान करते हैं।"
+      },
+      "floodVulnerability": {
+        "en": "Causes inundation along the southern outskirts of Patna city and Fatuha when backwater from the swollen Ganga prevents its discharge.",
+        "hi": "जब उफनती गंगा का बैकवाटर इसके निकास को रोकता है तो पटना नगर और फतुहा के दक्षिणी बाहरी इलाकों में जलभराव करती है।"
+      },
+      "bpscRelevance": {
+        "en": "Confluence point at Fatuha, ritual importance prior to Gaya Pinda Daan, and identification with the ancient Kikat land in Vedic texts.",
+        "hi": "फतुहा में संगम बिंदु, गया पिंड दान से पहले धार्मिक महत्व, और वैदिक ग्रंथों में प्राचीन कीकट देश से संबंध।"
+      }
+    },
+    {
+      "id": "phalgu",
+      "name": {
+        "en": "Phalgu River (Niranjana)",
+        "hi": "फल्गु नदी (निरंजना)"
+      },
+      "alternativeNames": {
+        "en": [
+          "Niranjana",
+          "Lilajan",
+          "Antah-Salila (Hidden River)"
+        ],
+        "hi": [
+          "निरंजना",
+          "लीलाजन",
+          "अंतः-सलिला (गुप्त नदी)"
+        ]
+      },
+      "origin": {
+        "en": "Formed by confluence of Lilajan (Niranjana) and Mohana streams near Bodh Gaya, originating in northern slopes of Hazaribagh plateau",
+        "hi": "बोधगया के समीप लीलाजन (निरंजना) और मोहना धाराओं के संगम से निर्मित, जो हजारीबाग पठार की उत्तरी ढलानों से निकलती हैं"
+      },
+      "entryInBihar": {
+        "en": "Enters Bihar in Gaya district from Jharkhand",
+        "hi": "झारखंड से गया जिले में बिहार में प्रवेश करती है"
+      },
+      "exitFromBihar": {
+        "en": "Dissipates into Tal depressions; does not leave Bihar",
+        "hi": "टाल गर्तों में विलीन हो जाती है; बिहार से बाहर नहीं जाती"
+      },
+      "confluence": {
+        "en": "Branches into multiple channels in Jehanabad and merges into the Harohar-Punpun drainage basin towards Mokama Tal",
+        "hi": "जहानाबाद में कई शाखाओं में विभाजित होती है और मोकामा टाल की ओर हरोहर-पुनपुन जल निकासी बेसिन में मिल जाती है"
+      },
+      "lengthInBiharKm": 135,
+      "totalLengthKm": 135,
+      "bankType": "South Bank",
+      "districtsTraversed": [
+        "gaya",
+        "jehanabad"
+      ],
+      "tributaries": {
+        "en": {
+          "major": [
+            "Lilajan",
+            "Mohana",
+            "Dhadhar"
+          ]
+        },
+        "hi": {
+          "major": [
+            "लीलाजन",
+            "मोहना",
+            "ढाढर"
+          ]
+        }
+      },
+      "majorDamsAndBridges": {
+        "en": [
+          "Gayaji Dam at Vishnupad (India's largest rubber dam, 411m long, inaugurated Sept 2022)",
+          "Devghat Foot over Bridge (Sita Setu)"
+        ],
+        "hi": [
+          "विष्णुपद पर गयाजी बांध (भारत का सबसे बड़ा रबर डैम, 411 मीटर लंबा, सितंबर 2022 में उद्घाटित)",
+          "देवघाट फुट ओवर ब्रिज (सीता सेतु)"
+        ]
+      },
+      "description": {
+        "en": "### The Sacred Phalgu\n\nThe **Phalgu** is formed by the confluence of the Lilajan and Mohana streams, flowing past the holy city of Gaya.\n\n### Cultural and Physical Landscape\n\n* **Underground Flow:** Famously cursed by Sita in mythology to flow beneath the surface, presenting broad, dry sandy beds for most of the year.\n* **Spiritual Epicenter:** Its banks at Vishnupad Mandir are the ultimate global destination for Hindu ancestor worship (Pitru Paksha).\n* **Flashy Nature:** It carries sudden, raging torrents during heavy monsoons in the southern hills.\n\nThe Phalgu is deeply etched in both the geography and the soul of Magadh.",
+        "hi": "### पवित्र फल्गु\n\n**फल्गु** लीलाजन और मोहाना धाराओं के संगम से बनती है, जो पवित्र शहर गया से होकर बहती है।\n\n### सांस्कृतिक और भौतिक परिदृश्य\n\n* **भूमिगत प्रवाह:** पौराणिक कथाओं में सीता द्वारा सतह के नीचे बहने के लिए शापित, जो वर्ष के अधिकांश समय चौड़े, सूखे रेतीले बिस्तर प्रस्तुत करती है।\n* **आध्यात्मिक उपरिकेंद्र:** विष्णुपद मंदिर में इसके किनारे हिंदू पूर्वज पूजा (पितृ पक्ष) के लिए अंतिम वैश्विक गंतव्य हैं।\n* **आकस्मिक प्रकृति:** दक्षिणी पहाड़ियों में भारी मानसून के दौरान यह अचानक, उग्र धाराएं लाती है।\n\nफल्गु मगध के भूगोल और आत्मा दोनों में गहराई से उकेरी गई है।"
+      },
+      "significance": {
+        "en": "Epicenter of the international Pitripaksha Mela where millions offer Pinda Daan to ancestors. The pioneering Gayaji Dam now ensures round-the-year water for pilgrims.",
+        "hi": "अंतरराष्ट्रीय पितृपक्ष मेले का केंद्र जहां लाखों लोग पूर्वजों को पिंड दान अर्पित करते हैं। ऐतिहासिक 'गयाजी डैम' अब तीर्थयात्रियों के लिए साल भर पानी की उपलब्धता सुनिश्चित करता है।"
+      },
+      "floodVulnerability": {
+        "en": "Sudden seasonal flash torrents during heavy rain in the Jharkhand hills, receding within 24 to 48 hours.",
+        "hi": "झारखंड की पहाड़ियों में भारी बारिश के दौरान अचानक मौसमी बाढ़, जो 24 से 48 घंटों के भीतर उतर जाती है।"
+      },
+      "bpscRelevance": {
+        "en": "High current-affairs and static BPSC relevance: Gayaji Dam (India's largest rubber dam built by Austrian experts), Sita Setu, and Buddha's enlightenment on Niranjana.",
+        "hi": "समसामयिकी और सामान्य ज्ञान दोनों में अत्यधिक महत्वपूर्ण: गयाजी डैम (ऑस्ट्रियाई विशेषज्ञों द्वारा निर्मित भारत का सबसे बड़ा रबर डैम), सीता सेतु, और निरंजना नदी तट पर बुद्ध का ज्ञानोदय।"
+      }
+    },
+    {
+      "id": "kiul",
+      "name": {
+        "en": "Kiul River",
+        "hi": "किऊल नदी"
+      },
+      "alternativeNames": {
+        "en": [
+          "Kijju",
+          "Kulu"
+        ],
+        "hi": [
+          "किज्जू",
+          "कुलू"
+        ]
+      },
+      "origin": {
+        "en": "Tisri Hill, Giridih district, Jharkhand",
+        "hi": "तीसरी पहाड़ी, गिरिडीह जिला, झारखंड"
+      },
+      "entryInBihar": {
+        "en": "Enters Bihar in Jamui district near Chakai",
+        "hi": "जमुई जिले में चकाई के निकट बिहार में प्रवेश करती है"
+      },
+      "exitFromBihar": {
+        "en": "Merges into Ganga; does not leave Bihar",
+        "hi": "गंगा में विलीन हो जाती है; बिहार से बाहर नहीं जाती"
+      },
+      "confluence": {
+        "en": "Ganga River near Surajgarha in Lakhisarai district",
+        "hi": "सूर्यगढ़ा, लखीसराय जिला के समीप गंगा नदी"
+      },
+      "lengthInBiharKm": 110,
+      "totalLengthKm": 150,
+      "bankType": "South Bank",
+      "districtsTraversed": [
+        "jamui",
+        "lakhisarai"
+      ],
+      "tributaries": {
+        "en": {
+          "major": [
+            "Harohar",
+            "Barnar",
+            "Alwar",
+            "Nalkari"
+          ]
+        },
+        "hi": {
+          "major": [
+            "हरोहर",
+            "बरनार",
+            "अलवार",
+            "नलकारी"
+          ]
+        }
+      },
+      "majorDamsAndBridges": {
+        "en": [
+          "Barnar Dam Project (Jamui)",
+          "Kiul Railway Bridge (major East Central Railway junction)"
+        ],
+        "hi": [
+          "बरनार बांध परियोजना (जमुई)",
+          "किऊल रेलवे पुल (प्रमुख पूर्व मध्य रेलवे जंक्शन)"
+        ]
+      },
+      "description": {
+        "en": "### The Historic Kiul\n\nThe **Kiul River** rises in the Giridih hills and carves a vital path through the Jamui and Lakhisarai districts.\n\n### River Dynamics\n\n* **Transport Artery:** Historically significant, it gave its name to the crucial Kiul Junction on the East Indian Railway.\n* **Seasonal Force:** Like most southern rivers, it becomes a forceful torrent in the rainy season and dwindles in summer.\n* **Local Agriculture:** It supports the agrarian economy of the region before draining into the Surajgarha Tal.\n\nThe Kiul serves as a major drainage conduit for the deeply dissected south-eastern hills.",
+        "hi": "### ऐतिहासिक किऊल\n\n**किऊल नदी** गिरिडीह की पहाड़ियों से निकलती है और जमुई तथा लखीसराय जिलों के माध्यम से एक महत्वपूर्ण मार्ग बनाती है।\n\n### नदी की गतिशीलता\n\n* **परिवहन धमनी:** ऐतिहासिक रूप से महत्वपूर्ण, इसने ईस्ट इंडियन रेलवे के महत्वपूर्ण किऊल जंक्शन को अपना नाम दिया।\n* **मौसमी बल:** अधिकांश दक्षिणी नदियों की तरह, यह बरसात के मौसम में एक ज़बरदस्त धारा बन जाती है और गर्मियों में कम हो जाती है।\n* **स्थानीय कृषि:** यह सूरजगढ़ टाल में गिरने से पहले क्षेत्र की कृषि अर्थव्यवस्था का समर्थन करती है।\n\nकिऊल गहराई से विच्छेदित दक्षिण-पूर्वी पहाड़ियों के लिए एक प्रमुख जल निकासी नाली के रूप में कार्य करती है।"
+      },
+      "significance": {
+        "en": "Crucial seasonal irrigation for Jamui and Lakhisarai; vital junction for strategic rail connectivity.",
+        "hi": "जमुई और लखीसराय के लिए महत्वपूर्ण मौसमी सिंचाई; रणनीतिक रेल कनेक्टिविटी के लिए महत्वपूर्ण जंक्शन।"
+      },
+      "floodVulnerability": {
+        "en": "Flash floods inundate Lakhisarai lowlands when Kiul and Harohar combine during heavy downpours.",
+        "hi": "भारी बारिश के दौरान जब किऊल और हरोहर मिलती हैं तो लखीसराय के निचले इलाकों में अचानक बाढ़ आ जाती है।"
+      },
+      "bpscRelevance": {
+        "en": "Confluence point at Surajgarha, Harohar tributary link to Mokama Tal, and Krimila archaeological excavations.",
+        "hi": "सूर्यगढ़ा में संगम बिंदु, मोकामा टाल से हरोहर सहायक नदी का संबंध, और कृमिला पुरातात्विक उत्खनन।"
+      }
+    },
+    {
+      "id": "karmanasa",
+      "name": {
+        "en": "Karmanasa River",
+        "hi": "कर्मनाशा नदी"
+      },
+      "alternativeNames": {
+        "en": [
+          "Destroyer of Religious Merit"
+        ],
+        "hi": [
+          "पुण्य नष्ट करने वाली नदी"
+        ]
+      },
+      "origin": {
+        "en": "Sarodag near Kaimur Hills, Kaimur district, Bihar",
+        "hi": "सरोदाग, कैमूर पहाड़ियाँ, कैमूर जिला, बिहार"
+      },
+      "entryInBihar": {
+        "en": "Originates within Kaimur, flows on UP-Bihar border",
+        "hi": "कैमूर के भीतर उत्पन्न होती है, यूपी-बिहार सीमा पर बहती है"
+      },
+      "exitFromBihar": {
+        "en": "Merges with Ganga at Chausa",
+        "hi": "चौसा में गंगा के साथ संगम"
+      },
+      "confluence": {
+        "en": "Ganga River near Chausa, Buxar district",
+        "hi": "चौसा, बक्सर जिला के निकट गंगा नदी"
+      },
+      "lengthInBiharKm": 192,
+      "totalLengthKm": 192,
+      "bankType": "South Bank",
+      "districtsTraversed": [
+        "kaimur",
+        "buxar"
+      ],
+      "tributaries": {
+        "en": {
+          "major": [
+            "Durgavati",
+            "Chandraprabha",
+            "Karunuti",
+            "Khajuri"
+          ]
+        },
+        "hi": {
+          "major": [
+            "दुर्गावती",
+            "चंद्रप्रभा",
+            "करुनुति",
+            "खजूरी"
+          ]
+        }
+      },
+      "majorDamsAndBridges": {
+        "en": [
+          "Durgavati Reservoir Project (Karamchat Dam) - irrigates Kaimur and Rohtas",
+          "Chausa Bridge on Bihar-UP border"
+        ],
+        "hi": [
+          "दुर्गावती जलाशय परियोजना (करमचट बांध) - कैमूर और रोहतास की सिंचाई",
+          "बिहार-यूपी सीमा पर चौसा पुल"
+        ]
+      },
+      "description": {
+        "en": "### The Ominous Karmanasa\n\nThe **Karmanasa** originates in the Kaimur range, defining a long stretch of the Bihar-Uttar Pradesh border.\n\n### Folklore and Hydrology\n\n* **Mythical Reputation:** Its name translates to 'destroyer of religious merit', and folklore dictates avoiding its touch.\n* **Scenic Waterfalls:** It descends from the plateau in spectacular falls, most notably the Devdari and Chhanpathar falls.\n* **Strategic Border:** It has served as a strategic military boundary in historical battles, including the Battle of Chausa.\n\nDespite its cursed reputation, it creates some of the most picturesque natural landscapes in western Bihar.",
+        "hi": "### अशुभ कर्मनाशा\n\n**कर्मनाशा** कैमूर पर्वतमाला से निकलती है, जो बिहार-उत्तर प्रदेश सीमा के एक लंबे हिस्से को परिभाषित करती है।\n\n### लोककथाएं और जल विज्ञान\n\n* **पौराणिक प्रतिष्ठा:** इसके नाम का अनुवाद 'धार्मिक योग्यता का नाश करने वाली' है, और लोककथाएं इसके स्पर्श से बचने का निर्देश देती हैं।\n* **दर्शनीय जलप्रपात:** यह शानदार झरनों में पठार से नीचे उतरती है, जिनमें विशेष रूप से देवदारी और छनपाथर जलप्रपात शामिल हैं।\n* **रणनीतिक सीमा:** इसने ऐतिहासिक युद्धों में एक रणनीतिक सैन्य सीमा के रूप में काम किया है, जिसमें चौसा का युद्ध भी शामिल है।\n\nअपनी शापित प्रतिष्ठा के बावजूद, यह पश्चिमी बिहार में कुछ सबसे मनोरम प्राकृतिक परिदृश्य बनाती है।"
+      },
+      "significance": {
+        "en": "Vital lifeline for dry southwestern plains through the Durgavati Reservoir Project; site of the historic Battle of Chausa (1539) fought on its bank where Sher Shah Suri defeated Humayun.",
+        "hi": "दुर्गावती जलाशय परियोजना के माध्यम से शुष्क दक्षिण-पश्चिमी मैदानों के लिए जीवनरेखा; इसके तट पर लड़ा गया 1539 का ऐतिहासिक चौसा का युद्ध जहाँ शेरशाह सूरी ने हुमायूँ को पराजित किया था।"
+      },
+      "floodVulnerability": {
+        "en": "Monsoonal flash floods affecting border villages in Kaimur and Buxar.",
+        "hi": "कैमूर और बक्सर के सीमावर्ती गांवों को प्रभावित करने वाली मानसूनी अचानक बाढ़।"
+      },
+      "bpscRelevance": {
+        "en": "Battle of Chausa (1539) historical location, Durgavati reservoir project, and myth of unholy waters.",
+        "hi": "चौसा का युद्ध (1539) का ऐतिहासिक स्थल, दुर्गावती जलाशय परियोजना, और अपवित्र जल से जुड़ी मान्यता।"
+      }
+    }
+  ]
+}
