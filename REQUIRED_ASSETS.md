@@ -210,6 +210,25 @@ This document contains the complete and exhaustive list of all graphics, icons, 
 | `bhitiharwa-ashram.jpg` | **Bhitiharwa Ashram** | west_champaran | ❌ **Missing** | 1080×1440px (3:4) High-res hero image. |
 | `ashokan-pillar-lauriya-nandangarh.jpg` | **Ashokan Pillar, Lauriya Nandangarh** | west_champaran | ❌ **Missing** | 1080×1440px (3:4) High-res hero image. |
 
+## 3b. Tourism Places Gallery Images (`https://mahavyomastudio.com/apps/bihar-explorer/images/places/gallery/`)
+
+*For places that have multiple images in their `images` array data structure. Name them sequentially by place ID.* 
+
+| Example Asset Filename | Status | Description |
+| :--- | :--- | :--- |
+| `bodhgaya_temple_1.jpg` | ❌ **Missing** | 1080×1440px (3:4) Additional gallery image. |
+| `bodhgaya_temple_2.jpg` | ❌ **Missing** | 1080×1440px (3:4) Additional gallery image. |
+| `kakolat_waterfall_1.jpg` | ❌ **Missing** | 1080×1440px (3:4) Additional gallery image. |
+
+## 3c. Tourism Places Video Gallery (`https://mahavyomastudio.com/apps/bihar-explorer/videos/places/`)
+
+*For places that have videos in their `videoGallery` array data structure. Horizontal or Vertical, used in the detail screen.* 
+
+| Example Asset Filename | Status | Description |
+| :--- | :--- | :--- |
+| `bodhgaya_tour.mp4` | ❌ **Missing** | 16:9 or 9:16 Video showcasing the place. |
+| `rajgir_ropeway.mp4` | ❌ **Missing** | 16:9 or 9:16 Video showcasing the place. |
+
 ## 4. Tourism Circuits & Map Overlays (`https://mahavyomastudio.com/apps/bihar-explorer/images/ui/circuits/`)
 
 | Asset Filename | Circuit | Status | Description |
@@ -254,3 +273,21 @@ This document contains the complete and exhaustive list of all graphics, icons, 
 | `know_culture.jpg` | Art & Culture | ❌ **Missing** | Icon/Banner for the Culture section. |
 | `know_polity.jpg` | Polity | ❌ **Missing** | Icon/Banner for the Polity section. |
 | `know_economy.jpg` | Economy | ❌ **Missing** | Icon/Banner for the Economy section. |
+
+## 8. Media Optimization Guidelines (CRITICAL)
+
+To ensure the app does not consume excessive bandwidth and loads instantly, **ALL media must be compressed** before uploading to your CDN.
+
+### 🖼️ Image Compression Rules:
+- **Format**: Use **WebP** or highly compressed **JPG**.
+- **File Size Limit**: Strictly **under 200 KB** per image. (Ideally 80-120 KB).
+- **Tools to use**: [TinyPNG](https://tinypng.com/), [Squoosh](https://squoosh.app/), or Photoshop "Export for Web" at 60% quality.
+- **Dimensions**: Do not upload 4K images. Scale down to **1080px max width/height**.
+
+### 🎬 Video Compression Rules (Reels & Gallery):
+- **Format**: Use **MP4 (H.264)**.
+- **File Size Limit**: Strictly **under 4 MB** per video for Reels (they are short 15-30s clips). Max 10 MB for longer gallery videos.
+- **Tools to use**: [Handbrake](https://handbrake.fr/) or [FreeConvert](https://www.freeconvert.com/video-compressor).
+- **Resolution**: **720p is more than enough** for mobile screens. Do not use 1080p or 4K for Reels.
+- **Bitrate**: Target around **1.5 Mbps to 2 Mbps** max.
+
