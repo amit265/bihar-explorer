@@ -10,7 +10,7 @@ This document contains the complete and exhaustive list of all graphics, icons, 
 | `splash-icon.png` | Transparent PNG | 512 × 512 px | ⚠️ **Needs Update** | High-res emblem used for the splash screen. |
 | `favicon.png` | PNG | 48 × 48 px | ⚠️ **Needs Update** | Browser / Web app tab favicon. |
 
-## 2. All 38 District Hero Images (`assets/images/districts/`)
+## 2. All 38 District Hero Images (`https://mahavyomastudio.com/apps/bihar-explorer/images/districts/`)
 
 | Asset Filename | District | Status | Description |
 | :--- | :--- | :--- | :--- |
@@ -53,7 +53,7 @@ This document contains the complete and exhaustive list of all graphics, icons, 
 | `vaishali_hero.jpg` | **Vaishali** (वैशाली) | ❌ **Missing** | 1080×1440px (3:4) High-res hero image for the district profile. |
 | `west-champaran_hero.jpg` | **West Champaran** (पश्चिम चंपारण) | ❌ **Missing** | 1080×1440px (3:4) High-res hero image for the district profile. |
 
-## 3. All Tourism Places Hero Images (`assets/images/places/`)
+## 3. All Tourism Places Hero Images (`https://mahavyomastudio.com/apps/bihar-explorer/images/places/`)
 
 | Asset Filename | Place | District | Status | Description |
 | :--- | :--- | :--- | :--- | :--- |
@@ -210,7 +210,7 @@ This document contains the complete and exhaustive list of all graphics, icons, 
 | `bhitiharwa-ashram.jpg` | **Bhitiharwa Ashram** | west_champaran | ❌ **Missing** | 1080×1440px (3:4) High-res hero image. |
 | `ashokan-pillar-lauriya-nandangarh.jpg` | **Ashokan Pillar, Lauriya Nandangarh** | west_champaran | ❌ **Missing** | 1080×1440px (3:4) High-res hero image. |
 
-## 4. Tourism Circuits & Map Overlays (`assets/images/ui/circuits/`)
+## 4. Tourism Circuits & Map Overlays (`https://mahavyomastudio.com/apps/bihar-explorer/images/ui/circuits/`)
 
 | Asset Filename | Circuit | Status | Description |
 | :--- | :--- | :--- | :--- |
@@ -221,7 +221,7 @@ This document contains the complete and exhaustive list of all graphics, icons, 
 | `circuit_jain.png` | Jain Circuit | ❌ **Missing** | Transparent map overlay/icon. |
 | `circuit_sikh.png` | Sikh Circuit | ❌ **Missing** | Transparent map overlay/icon. |
 
-## 5. Bihar Reels (Vertical Videos) (`assets/videos/reels/`)
+## 5. Bihar Reels (Vertical Videos) (`https://mahavyomastudio.com/apps/bihar-explorer/videos/reels/`)
 
 *At least 15-20 short, engaging 9:16 vertical videos (MP4) showcasing the best of Bihar. Hosted on CDN.* 
 
@@ -233,7 +233,7 @@ This document contains the complete and exhaustive list of all graphics, icons, 
 | `reel_rohtasgarh.mp4` | Rohtasgarh Fort | ⚠️ **CDN Hosted** | 15-30 sec 9:16 vertical video. |
 | `reel_chhath_patna.mp4` | Chhath Puja at Ganga | ⚠️ **CDN Hosted** | 15-30 sec 9:16 vertical video. |
 
-## 6. Vibes (Category Banners) (`assets/images/vibes/`)
+## 6. Vibes (Category Banners) (`https://mahavyomastudio.com/apps/bihar-explorer/images/vibes/`)
 
 | Asset Filename | Vibe | Status | Description |
 | :--- | :--- | :--- | :--- |
@@ -243,7 +243,7 @@ This document contains the complete and exhaustive list of all graphics, icons, 
 | `vibe_waterfalls.jpg` | Waterfalls | ❌ **Missing** | 1:1 Square banner for Home Swiper. |
 | `vibe_museums.jpg` | Museums & Arts | ❌ **Missing** | 1:1 Square banner for Home Swiper. |
 
-## 7. Knowledge Section Banners (`assets/images/knowledge/`)
+## 7. Knowledge Section Banners (`https://mahavyomastudio.com/apps/bihar-explorer/images/knowledge/`)
 
 *Thumbnails/Icons for the 12 primary knowledge categories.* 
 
@@ -254,3 +254,17 @@ This document contains the complete and exhaustive list of all graphics, icons, 
 | `know_culture.jpg` | Art & Culture | ❌ **Missing** | Icon/Banner for the Culture section. |
 | `know_polity.jpg` | Polity | ❌ **Missing** | Icon/Banner for the Polity section. |
 | `know_economy.jpg` | Economy | ❌ **Missing** | Icon/Banner for the Economy section. |
+
+
+## 8. Devotional Audio & Sound Effects (`https://mahavyomastudio.com/apps/bihar-explorer/audio/`)
+
+*Interactive sound effects for puja/worship features.* 
+
+| Asset Filename | Status | Description |
+| :--- | :--- | :--- |
+| `bell.mp3` | ❌ **Missing** | Temple bell sound effect (1-2s) |
+| `shankh.mp3` | ❌ **Missing** | Conch shell blowing sound (3-5s) |
+| `chime.mp3` | ❌ **Missing** | Gentle meditative chime/mala sound |
+| `damru.mp3` | ❌ **Missing** | Shiva Damru rattle (1-2s) |
+| `water.mp3` | ❌ **Missing** | Jal arpan / water splashing sound (1-2s) |
+
