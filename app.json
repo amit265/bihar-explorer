@@ -106,6 +106,9 @@
               "org.gradle.jvmargs": "-Xmx4096m -XX:MaxMetaspaceSize=1024m -XX:+UseG1GC",
               "kotlin.daemon.jvmargs": "-Xmx2048m -XX:MaxMetaspaceSize=1024m"
             }
+          },
+          "ios": {
+            "useFrameworks": "static"
           }
         }
       ],
