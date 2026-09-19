@@ -15,7 +15,7 @@ CURRENT_VERSION=$(node -e "console.log(require('./app.json').expo.version)")
 
 echo ""
 echo "╔══════════════════════════════════════════════╗"
-echo "║          🚀 Sini — Build & Submit            ║"
+echo "║       🚀 Bihar Explorer — Build & Submit     ║"
 echo "╚══════════════════════════════════════════════╝"
 echo ""
 echo "  Build profile  : $BUILD_PROFILE"
