@@ -254,17 +254,3 @@ This document contains the complete and exhaustive list of all graphics, icons, 
 | `know_culture.jpg` | Art & Culture | ❌ **Missing** | Icon/Banner for the Culture section. |
 | `know_polity.jpg` | Polity | ❌ **Missing** | Icon/Banner for the Polity section. |
 | `know_economy.jpg` | Economy | ❌ **Missing** | Icon/Banner for the Economy section. |
-
-
-## 8. Devotional Audio & Sound Effects (`https://mahavyomastudio.com/apps/bihar-explorer/audio/`)
-
-*Interactive sound effects for puja/worship features.* 
-
-| Asset Filename | Status | Description |
-| :--- | :--- | :--- |
-| `bell.mp3` | ❌ **Missing** | Temple bell sound effect (1-2s) |
-| `shankh.mp3` | ❌ **Missing** | Conch shell blowing sound (3-5s) |
-| `chime.mp3` | ❌ **Missing** | Gentle meditative chime/mala sound |
-| `damru.mp3` | ❌ **Missing** | Shiva Damru rattle (1-2s) |
-| `water.mp3` | ❌ **Missing** | Jal arpan / water splashing sound (1-2s) |
-
