@@ -14,7 +14,9 @@
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false,
         "NSPhotoLibraryUsageDescription": "This app requires access to your photo library so you can save images and share travel itineraries.",
-        "NSPhotoLibraryAddUsageDescription": "This app requires access to save travel images to your photo gallery."
+        "NSPhotoLibraryAddUsageDescription": "This app requires access to save travel images to your photo gallery.",
+        "NSMicrophoneUsageDescription": "This app requires microphone access for audio features and playback.",
+        "NSUserTrackingUsageDescription": "This app uses device identifiers to track crashes and improve app stability via Firebase Analytics."
       }
     },
     "android": {
