@@ -38,6 +38,10 @@ const VIBES = [
   { id: 'photography', name: { en: 'Insta\nWorthy', hi: 'फोटोग्राफी' }, color: '#FF4081', icon: 'camera' },
 ];
 
+import { useFocusEffect } from 'expo-router';
+import { useCallback } from 'react';
+import { Platform } from 'react-native';
+
 export default function HomeScreen() {
   const router = useRouter();
   const { colors: theme, theme: themeMode } = useTheme();
@@ -46,9 +50,18 @@ export default function HomeScreen() {
 
   const getLocalized = (obj: any) => obj ? (obj[language] || obj.en) : '';
 
+  useFocusEffect(
+    useCallback(() => {
+      StatusBar.setBarStyle(themeMode === 'dark' ? 'light-content' : 'dark-content');
+      if (Platform.OS === 'android') {
+        StatusBar.setBackgroundColor(theme.surface);
+        StatusBar.setTranslucent(false);
+      }
+    }, [themeMode, theme.surface])
+  );
+
   return (
     <View style={[styles.container, { backgroundColor: theme.surface }]}>
-      <StatusBar barStyle={themeMode === 'dark' ? 'light-content' : 'dark-content'} backgroundColor={theme.surface} />
       
       <ScrollView showsVerticalScrollIndicator={false} contentContainerStyle={styles.scrollContent}>
         

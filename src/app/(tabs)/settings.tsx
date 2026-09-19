@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useCallback } from 'react';
 import {
   View,
   StyleSheet,
@@ -8,9 +8,10 @@ import {
   Linking,
   StatusBar,
   Share,
+  Platform,
 } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
-import { useRouter } from 'expo-router';
+import { useRouter, useFocusEffect } from 'expo-router';
 
 import { useTheme } from '../../theme/ThemeContext';
 import { CrossPromotionCard } from '../../components/CrossPromotionCard';
@@ -24,6 +25,16 @@ export default function MoreScreen() {
   const { colors: theme, theme: themeMode, toggleTheme } = useTheme();
   const { language, toggleLanguage } = useLanguage();
   const [remindersEnabled, setRemindersEnabled] = useState<boolean>(true);
+
+  useFocusEffect(
+    useCallback(() => {
+      StatusBar.setBarStyle(themeMode === 'dark' ? 'light-content' : 'dark-content');
+      if (Platform.OS === 'android') {
+        StatusBar.setBackgroundColor(theme.surface);
+        StatusBar.setTranslucent(false);
+      }
+    }, [themeMode, theme.surface])
+  );
 
   const handleShareApp = async () => {
     try {
@@ -41,7 +52,6 @@ export default function MoreScreen() {
 
   return (
     <View style={[styles.container, { backgroundColor: theme.surface }]}>
-      <StatusBar barStyle={themeMode === 'dark' ? 'light-content' : 'dark-content'} backgroundColor={theme.surface} />
       
       <View style={styles.header}>
         <Typography variant="semiBold" style={[styles.title, { color: theme.text }]}>{t('settingsTitle', language)}</Typography>

@@ -1,6 +1,6 @@
-import React from 'react';
-import { View, StyleSheet, ScrollView, TouchableOpacity, StatusBar } from 'react-native';
-import { useRouter } from 'expo-router';
+import React, { useCallback } from 'react';
+import { View, StyleSheet, ScrollView, TouchableOpacity, StatusBar, Platform } from 'react-native';
+import { useRouter, useFocusEffect } from 'expo-router';
 import { Typography } from '../../components/Typography';
 import { useTheme } from '../../theme/ThemeContext';
 import { useLanguage } from '../../context/LanguageContext';
@@ -26,9 +26,18 @@ export default function BiharKnowledgeScreen() {
   const { colors: theme, theme: themeMode } = useTheme();
   const { language } = useLanguage();
 
+  useFocusEffect(
+    useCallback(() => {
+      StatusBar.setBarStyle(themeMode === 'dark' ? 'light-content' : 'dark-content');
+      if (Platform.OS === 'android') {
+        StatusBar.setBackgroundColor(theme.surface);
+        StatusBar.setTranslucent(false);
+      }
+    }, [themeMode, theme.surface])
+  );
+
   return (
     <View style={[styles.container, { backgroundColor: theme.surface }]}>
-      <StatusBar barStyle={themeMode === 'dark' ? 'light-content' : 'dark-content'} backgroundColor={theme.surface} />
       
       <ScrollView showsVerticalScrollIndicator={false} contentContainerStyle={styles.scrollContent}>
         

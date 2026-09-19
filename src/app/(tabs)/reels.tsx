@@ -1,6 +1,5 @@
 import React, { useRef, useState, useCallback } from 'react';
-import { View, StyleSheet, FlatList, Dimensions, ImageBackground, TouchableOpacity, Platform } from 'react-native';
-import { StatusBar } from 'expo-status-bar';
+import { View, StyleSheet, FlatList, Dimensions, ImageBackground, TouchableOpacity, Platform, StatusBar } from 'react-native';
 import { Typography } from '../../components/Typography';
 import { mockPlaces } from '../../data';
 import { Ionicons } from '@expo/vector-icons';
@@ -10,6 +9,7 @@ import { t } from '../../i18n/translations';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import Share from 'react-native-share';
+import { useFocusEffect } from 'expo-router';
 
 const { height: windowHeight, width: windowWidth } = Dimensions.get('window');
 
@@ -142,9 +142,18 @@ export default function ReelsScreen() {
 
   if (reelPlaces.length === 0) return null;
 
+  useFocusEffect(
+    useCallback(() => {
+      StatusBar.setBarStyle('light-content');
+      if (Platform.OS === 'android') {
+        StatusBar.setBackgroundColor('transparent');
+        StatusBar.setTranslucent(true);
+      }
+    }, [])
+  );
+
   return (
     <View style={styles.container}>
-      <StatusBar style="light" />
       <FlatList
         data={reelPlaces}
         keyExtractor={(item) => item.id}
