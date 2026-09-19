@@ -106,6 +106,7 @@
           }
         }
       ],
+      "./withIosFmtWorkaround.js",
       "expo-image",
       "expo-web-browser"
     ],
