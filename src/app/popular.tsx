@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { View, StyleSheet, TouchableOpacity, StatusBar, ImageBackground, TextInput } from 'react-native';
+import { View, StyleSheet, TouchableOpacity, StatusBar, TextInput } from 'react-native';
+import { FallbackImageBackground } from '../components/FallbackImage';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { FlashList } from '@shopify/flash-list';
 import { Typography } from '../components/Typography';
@@ -81,7 +82,7 @@ export default function PopularPlacesScreen() {
             onPress={() => router.push(`/place/${place.slug}` as any)}
           >
             {place.heroImage ? (
-              <ImageBackground source={{ uri: place.heroImage }} style={styles.placeImage} imageStyle={{ borderRadius: 8 }} />
+              <FallbackImageBackground sourceUri={place.heroImage} style={styles.placeImage} imageStyle={{ borderRadius: 8 }} fallbackIcon="image-outline" />
             ) : (
               <View style={[styles.placeImage, { backgroundColor: theme.border, borderRadius: 8, justifyContent: 'center', alignItems: 'center' }]}>
                 <Ionicons name="image-outline" size={24} color={theme.textSecondary} />

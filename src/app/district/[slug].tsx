@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { View, StyleSheet, ScrollView, TouchableOpacity, StatusBar, Image, Linking } from 'react-native';
+import { View, StyleSheet, ScrollView, TouchableOpacity, StatusBar } from 'react-native';
+import { FallbackImage } from '../../components/FallbackImage';
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import { Ionicons } from '@expo/vector-icons';
 import Markdown from 'react-native-markdown-display';
@@ -59,10 +60,11 @@ export default function DistrictDetailScreen() {
       <ScrollView showsVerticalScrollIndicator={false}>
         <View style={[styles.heroImage, { backgroundColor: theme.border }]}>
           {district.heroImage && (
-            <Image 
-              source={{ uri: district.heroImage }} 
+            <FallbackImage 
+              sourceUri={district.heroImage} 
               style={StyleSheet.absoluteFill}
               resizeMode="cover"
+              fallbackIcon="map-outline"
             />
           )}
           {/* Dark Overlay for better text readability if no image, or even with image */}
@@ -137,14 +139,11 @@ export default function DistrictDetailScreen() {
                     onPress={() => router.push(`/place/${place.slug}` as any)}
                     activeOpacity={0.8}
                   >
-                    {place.heroImage && (
-                      <Image source={{uri: place.heroImage}} style={styles.horizontalPlaceImage} />
-                    )}
-                    {!place.heroImage && (
-                      <View style={[styles.horizontalPlaceImage, { justifyContent: 'center', alignItems: 'center' }]}>
-                        <Ionicons name="image-outline" size={24} color={theme.textSecondary} />
-                      </View>
-                    )}
+                    <FallbackImage 
+                      sourceUri={place.heroImage} 
+                      style={styles.horizontalPlaceImage} 
+                      fallbackIcon="image-outline"
+                    />
                     <View style={styles.horizontalPlaceInfo}>
                       <Typography variant="semiBold" numberOfLines={2} style={[styles.horizontalPlaceTitle, { color: theme.text }]}>
                         {getLocalized(place.name)}
@@ -176,13 +175,11 @@ export default function DistrictDetailScreen() {
                     onPress={() => router.push(`/district/${neighbor.slug}` as any)}
                     activeOpacity={0.8}
                   >
-                    {neighbor.heroImage ? (
-                      <Image source={{uri: neighbor.heroImage}} style={styles.horizontalPlaceImage} />
-                    ) : (
-                      <View style={[styles.horizontalPlaceImage, { justifyContent: 'center', alignItems: 'center' }]}>
-                        <Ionicons name="map-outline" size={24} color={theme.textSecondary} />
-                      </View>
-                    )}
+                    <FallbackImage 
+                      sourceUri={neighbor.heroImage} 
+                      style={styles.horizontalPlaceImage} 
+                      fallbackIcon="map-outline"
+                    />
                     <View style={styles.horizontalPlaceInfo}>
                       <Typography variant="semiBold" numberOfLines={2} style={[styles.horizontalPlaceTitle, { color: theme.text }]}>
                         {getLocalized(neighbor.name)}

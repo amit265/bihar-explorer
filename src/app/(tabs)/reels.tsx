@@ -1,5 +1,6 @@
 import React, { useRef, useState, useCallback } from 'react';
-import { View, StyleSheet, FlatList, Dimensions, ImageBackground, TouchableOpacity, Platform, StatusBar } from 'react-native';
+import { View, StyleSheet, FlatList, Dimensions, TouchableOpacity, Platform, StatusBar } from 'react-native';
+import { FallbackImageBackground } from '../../components/FallbackImage';
 import { Typography } from '../../components/Typography';
 import { mockPlaces } from '../../data';
 import { Ionicons } from '@expo/vector-icons';
@@ -254,10 +255,11 @@ function ReelItem({ place, isActive, savedIds, handleSave, handleShare, language
 
   return (
     <View style={[styles.reelContainer, { height: windowHeight }]}>
-      <ImageBackground
-        source={{ uri: place.heroImage }}
+      <FallbackImageBackground
+        sourceUri={place.heroImage}
         style={styles.image}
         resizeMode="cover"
+        fallbackIcon="image-outline"
       >
         {!isError && (
           <VideoView
@@ -315,7 +317,7 @@ function ReelItem({ place, isActive, savedIds, handleSave, handleShare, language
           </View>
 
         </View>
-      </ImageBackground>
+      </FallbackImageBackground>
     </View>
   );
 }

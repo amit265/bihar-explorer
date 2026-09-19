@@ -1,5 +1,6 @@
 import React from 'react';
-import { View, StyleSheet, ScrollView, TouchableOpacity, StatusBar, Image } from 'react-native';
+import { View, StyleSheet, ScrollView, TouchableOpacity, StatusBar } from 'react-native';
+import { FallbackImage } from '../../components/FallbackImage';
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import { Ionicons } from '@expo/vector-icons';
 import { Typography } from '../../components/Typography';
@@ -44,21 +45,22 @@ export default function PlaceDetailScreen() {
     ? mockPlaces.filter((p: any) => p.id !== place.id && p.circuits?.includes(place.circuits[0])).slice(0, 5)
     : [];
 
-  React.useEffect(() => {
-    checkIfSaved();
-  }, [place]);
-
   const checkIfSaved = async () => {
     try {
       const stored = await AsyncStorage.getItem(FAVORITES_KEY);
       if (stored) {
-        const savedIds: string[] = JSON.parse(stored);
-        setIsSaved(savedIds.includes(place.id));
+        const favorites = JSON.parse(stored);
+        setIsSaved(favorites.includes(place.id));
       }
     } catch (e) {
-      console.error(e);
+      console.warn('Failed to check saved status', e);
     }
   };
+
+  React.useEffect(() => {
+    // eslint-disable-next-line react-hooks/exhaustive-deps, react-hooks/set-state-in-effect
+    checkIfSaved();
+  }, [place]);
 
   const toggleSave = async () => {
     try {
@@ -93,10 +95,11 @@ export default function PlaceDetailScreen() {
         {/* Hero Image */}
         <View style={[styles.heroImage, { backgroundColor: theme.border }]}>
           {place.heroImage && (
-            <Image 
-              source={{ uri: place.heroImage }} 
+            <FallbackImage 
+              sourceUri={place.heroImage} 
               style={StyleSheet.absoluteFill}
               resizeMode="cover"
+              fallbackIcon="image-outline"
             />
           )}
           <TouchableOpacity style={[styles.backBtn, { backgroundColor: theme.overlay }]} onPress={() => router.back()}>
@@ -262,13 +265,11 @@ export default function PlaceDetailScreen() {
                     onPress={() => router.push(`/place/${cp.slug}` as any)}
                     activeOpacity={0.8}
                   >
-                    {cp.heroImage ? (
-                      <Image source={{uri: cp.heroImage}} style={styles.horizontalPlaceImage} />
-                    ) : (
-                      <View style={[styles.horizontalPlaceImage, { justifyContent: 'center', alignItems: 'center' }]}>
-                        <Ionicons name="image-outline" size={24} color={theme.textSecondary} />
-                      </View>
-                    )}
+                    <FallbackImage 
+                      sourceUri={cp.heroImage} 
+                      style={styles.horizontalPlaceImage} 
+                      fallbackIcon="image-outline"
+                    />
                     <View style={styles.horizontalPlaceInfo}>
                       <Typography variant="semiBold" numberOfLines={2} style={[styles.horizontalPlaceTitle, { color: theme.text }]}>
                         {cp.name[language] || cp.name.en}
@@ -300,13 +301,11 @@ export default function PlaceDetailScreen() {
                     onPress={() => router.push(`/place/${sp.slug}` as any)}
                     activeOpacity={0.8}
                   >
-                    {sp.heroImage ? (
-                      <Image source={{uri: sp.heroImage}} style={styles.horizontalPlaceImage} />
-                    ) : (
-                      <View style={[styles.horizontalPlaceImage, { justifyContent: 'center', alignItems: 'center' }]}>
-                        <Ionicons name="image-outline" size={24} color={theme.textSecondary} />
-                      </View>
-                    )}
+                    <FallbackImage 
+                      sourceUri={sp.heroImage} 
+                      style={styles.horizontalPlaceImage} 
+                      fallbackIcon="image-outline"
+                    />
                     <View style={styles.horizontalPlaceInfo}>
                       <Typography variant="semiBold" numberOfLines={2} style={[styles.horizontalPlaceTitle, { color: theme.text }]}>
                         {sp.name[language] || sp.name.en}
@@ -338,13 +337,11 @@ export default function PlaceDetailScreen() {
                     onPress={() => router.push(`/place/${np.slug}` as any)}
                     activeOpacity={0.8}
                   >
-                    {np.heroImage ? (
-                      <Image source={{uri: np.heroImage}} style={styles.horizontalPlaceImage} />
-                    ) : (
-                      <View style={[styles.horizontalPlaceImage, { justifyContent: 'center', alignItems: 'center' }]}>
-                        <Ionicons name="map-outline" size={24} color={theme.textSecondary} />
-                      </View>
-                    )}
+                    <FallbackImage 
+                      sourceUri={np.heroImage} 
+                      style={styles.horizontalPlaceImage} 
+                      fallbackIcon="image-outline"
+                    />
                     <View style={styles.horizontalPlaceInfo}>
                       <Typography variant="semiBold" numberOfLines={2} style={[styles.horizontalPlaceTitle, { color: theme.text }]}>
                         {np.name[language] || np.name.en}

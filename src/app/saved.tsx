@@ -24,12 +24,6 @@ export default function SavedScreen() {
   const { language } = useLanguage();
   const [savedPlaces, setSavedPlaces] = useState<Place[]>([]);
 
-  useFocusEffect(
-    useCallback(() => {
-      loadSaved();
-    }, [])
-  );
-
   const loadSaved = async () => {
     try {
       const stored = await AsyncStorage.getItem(FAVORITES_KEY);
@@ -44,6 +38,12 @@ export default function SavedScreen() {
       console.error(e);
     }
   };
+
+  useFocusEffect(
+    useCallback(() => {
+      loadSaved();
+    }, [])
+  );
 
   const removeSaved = async (id: string) => {
     try {

@@ -1,6 +1,7 @@
 import React from 'react';
 import { FlashList } from '@shopify/flash-list';
-import { View, StyleSheet, ScrollView, TouchableOpacity, StatusBar, ImageBackground } from 'react-native';
+import { View, StyleSheet, ScrollView, TouchableOpacity, StatusBar } from 'react-native';
+import { FallbackImageBackground } from '../../components/FallbackImage';
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import { Ionicons } from '@expo/vector-icons';
 import { Typography } from '../../components/Typography';
@@ -54,7 +55,7 @@ export default function CircuitDetailScreen() {
             {/* Hero Section */}
             <View style={styles.heroSection}>
               {heroImage ? (
-                 <ImageBackground source={{ uri: heroImage }} style={styles.heroImage} imageStyle={{ opacity: 0.8 }} />
+                 <FallbackImageBackground sourceUri={heroImage} style={styles.heroImage} imageStyle={{ opacity: 0.8 }} fallbackIcon="map-outline" />
               ) : (
                  <View style={[styles.heroImage, { backgroundColor: circuitMeta.color }]} />
               )}
@@ -88,7 +89,7 @@ export default function CircuitDetailScreen() {
               onPress={() => router.push(`/place/${place.slug}` as any)}
             >
               {place.heroImage ? (
-                <ImageBackground source={{uri: place.heroImage}} style={styles.placeImage} imageStyle={{ borderRadius: 8 }} />
+                <FallbackImageBackground sourceUri={place.heroImage} style={styles.placeImage} imageStyle={{ borderRadius: 8 }} fallbackIcon="image-outline" />
               ) : (
                 <View style={[styles.placeImage, { backgroundColor: theme.border, borderRadius: 8, justifyContent: 'center', alignItems: 'center' }]}>
                   <Ionicons name="image-outline" size={24} color={theme.textSecondary} />

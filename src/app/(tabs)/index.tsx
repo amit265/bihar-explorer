@@ -6,7 +6,8 @@ import {
   TouchableOpacity,
   TextInput,
   StatusBar,
-  ImageBackground
+  ImageBackground,
+  Image
 } from 'react-native';
 import { Typography } from '../../components/Typography';
 import { useRouter } from 'expo-router';
@@ -17,6 +18,11 @@ import { UnifiedSearchResults } from '../../components/UnifiedSearchResults';
 import { InteractiveBiharMap } from '../../components/InteractiveBiharMap';
 import { useLanguage } from '../../context/LanguageContext';
 import { t } from '../../i18n/translations';
+import { useFocusEffect } from 'expo-router';
+import { useCallback } from 'react';
+import { Platform } from 'react-native';
+import { FallbackImage, FallbackImageBackground } from '../../components/FallbackImage';
+import { APP_LINKS } from '../../constants/links';
 
 // Curated Data
 const TOP_DISTRICTS = mockDistricts.slice(0, 5); // Just take first 5 for now
@@ -24,10 +30,12 @@ const TOP_PLACES = mockPlaces.filter(p => p.discoveryFlags?.featured).slice(0, 5
 const WEEKEND_GETAWAYS = mockPlaces.filter(p => p.discoveryFlags?.weekendTrip).slice(0, 5);
 
 const CIRCUITS = [
-  { id: 'buddhist', name: { en: 'Buddhist Circuit', hi: 'बौद्ध परिपथ' }, color: '#FF9800', icon: 'leaf' },
-  { id: 'ramayana', name: { en: 'Ramayana Circuit', hi: 'रामायण परिपथ' }, color: '#E91E63', icon: 'book' },
-  { id: 'sufi', name: { en: 'Sufi Circuit', hi: 'सूफी परिपथ' }, color: '#9C27B0', icon: 'moon' },
-  { id: 'eco', name: { en: 'Eco Circuit', hi: 'इको परिपथ' }, color: '#4CAF50', icon: 'leaf' },
+  { id: 'buddhist', name: { en: 'Buddhist Circuit', hi: 'बौद्ध परिपथ' }, color: '#FF9800' },
+  { id: 'ramayana', name: { en: 'Ramayana Circuit', hi: 'रामायण परिपथ' }, color: '#E91E63' },
+  { id: 'sufi', name: { en: 'Sufi Circuit', hi: 'सूफी परिपथ' }, color: '#9C27B0' },
+  { id: 'jain', name: { en: 'Jain Circuit', hi: 'जैन परिपथ' }, color: '#FFC107' },
+  { id: 'sikh', name: { en: 'Sikh Circuit', hi: 'सिख परिपथ' }, color: '#03A9F4' },
+  { id: 'eco', name: { en: 'Eco Circuit', hi: 'इको परिपथ' }, color: '#4CAF50' },
 ];
 
 const VIBES = [
@@ -38,9 +46,6 @@ const VIBES = [
   { id: 'photography', name: { en: 'Insta\nWorthy', hi: 'फोटोग्राफी' }, color: '#FF4081', icon: 'camera' },
 ];
 
-import { useFocusEffect } from 'expo-router';
-import { useCallback } from 'react';
-import { Platform } from 'react-native';
 
 export default function HomeScreen() {
   const router = useRouter();
@@ -136,13 +141,12 @@ export default function HomeScreen() {
                   onPress={() => router.push(`/place/${place.slug}` as any)}
                 >
                   {/* Hero Image or Placeholder */}
-                  {place.heroImage ? (
-                     <ImageBackground source={{ uri: place.heroImage }} style={styles.cardImagePlaceholder} imageStyle={{ borderTopLeftRadius: 11, borderTopRightRadius: 11 }} />
-                  ) : (
-                     <View style={[styles.cardImagePlaceholder, { backgroundColor: theme.border, justifyContent: 'center', alignItems: 'center', borderTopLeftRadius: 11, borderTopRightRadius: 11 }]}>
-                        <Ionicons name="image-outline" size={24} color={theme.textSecondary} />
-                     </View>
-                  )}
+                  <FallbackImageBackground 
+                    sourceUri={place.heroImage} 
+                    style={styles.cardImagePlaceholder} 
+                    imageStyle={{ borderTopLeftRadius: 11, borderTopRightRadius: 11 }}
+                    fallbackIcon="image-outline"
+                  />
                   
                   <View style={{ padding: 10 }}>
                     <Typography variant="semiBold" style={[styles.cardTitle, { color: theme.text }]} numberOfLines={2}>{getLocalized(place.name)}</Typography>
@@ -167,13 +171,12 @@ export default function HomeScreen() {
                   activeOpacity={0.8}
                   onPress={() => router.push(`/district/${district.slug}` as any)}
                 >
-                  {district.heroImage ? (
-                     <ImageBackground source={{ uri: district.heroImage }} style={styles.cardImagePlaceholder} imageStyle={{ borderTopLeftRadius: 11, borderTopRightRadius: 11 }} />
-                  ) : (
-                     <View style={[styles.cardImagePlaceholder, { backgroundColor: theme.border, justifyContent: 'center', alignItems: 'center', borderTopLeftRadius: 11, borderTopRightRadius: 11 }]}>
-                        <Ionicons name="map-outline" size={24} color={theme.textSecondary} />
-                     </View>
-                  )}
+                  <FallbackImageBackground 
+                    sourceUri={district.heroImage} 
+                    style={styles.cardImagePlaceholder} 
+                    imageStyle={{ borderTopLeftRadius: 11, borderTopRightRadius: 11 }}
+                    fallbackIcon="map-outline"
+                  />
                   <View style={{ padding: 10 }}>
                     <Typography variant="semiBold" style={[styles.cardTitle, { color: theme.text }]} numberOfLines={2}>{getLocalized(district.name)}</Typography>
                   </View>
@@ -189,14 +192,22 @@ export default function HomeScreen() {
               {CIRCUITS.map(circuit => (
                 <TouchableOpacity 
                    key={circuit.id}
-                   style={[styles.circuitBtn, { backgroundColor: circuit.color + '20', borderColor: circuit.color }]}
+                   style={[styles.circuitBtn, { backgroundColor: theme.cardBackground, borderColor: theme.border }]}
                    activeOpacity={0.8}
                    onPress={() => {
                      router.push(`/circuit/${circuit.id}` as any)
                    }}
                 >
-                  <Ionicons name={circuit.icon as any} size={24} color={circuit.color} style={{ marginBottom: 8 }} />
-                  <Typography variant="semiBold" style={[styles.circuitBtnText, { color: circuit.color }]}>{getLocalized(circuit.name)}</Typography>
+                  <View style={[styles.circuitImageWrapper, { backgroundColor: circuit.color + '15' }]}>
+                    <FallbackImage 
+                      sourceUri={`${APP_LINKS.assetBaseUrl}/ui/circuits/circuit_${circuit.id}.webp`}
+                      style={styles.circuitImage}
+                      resizeMode="contain"
+                      fallbackIcon="map-outline"
+                      fallbackColor={circuit.color}
+                    />
+                  </View>
+                  <Typography variant="semiBold" style={[styles.circuitBtnText, { color: theme.text }]}>{getLocalized(circuit.name)}</Typography>
                 </TouchableOpacity>
               ))}
             </View>
@@ -209,12 +220,18 @@ export default function HomeScreen() {
               {VIBES.map(vibe => (
                 <TouchableOpacity 
                   key={vibe.id} 
-                  style={[styles.vibeCard, { backgroundColor: vibe.color }]} 
                   activeOpacity={0.8}
                   onPress={() => router.push(`/category/${vibe.id}` as any)}
                 >
-                  <Ionicons name={vibe.icon as any} size={28} color="#FFF" style={{ marginBottom: 8 }} />
-                  <Typography variant="semiBold" style={[styles.vibeTitle, { color: '#FFF' }]} numberOfLines={2}>{getLocalized(vibe.name)}</Typography>
+                  <FallbackImageBackground
+                    sourceUri={`${APP_LINKS.assetBaseUrl}/ui/categories/${vibe.id}.webp`}
+                    style={[styles.vibeCard, { backgroundColor: vibe.color }]}
+                    imageStyle={{ borderRadius: 16, opacity: 0.6 }}
+                    fallbackIcon={vibe.icon as any}
+                    fallbackColor="#FFF"
+                  >
+                    <Typography variant="semiBold" style={[styles.vibeTitle, { color: '#FFF' }]} numberOfLines={2}>{getLocalized(vibe.name)}</Typography>
+                  </FallbackImageBackground>
                 </TouchableOpacity>
               ))}
             </ScrollView>
@@ -233,13 +250,12 @@ export default function HomeScreen() {
                       activeOpacity={0.8}
                       onPress={() => router.push(`/place/${place.slug}` as any)}
                     >
-                      {place.heroImage ? (
-                         <ImageBackground source={{ uri: place.heroImage }} style={styles.cardImagePlaceholder} imageStyle={{ borderTopLeftRadius: 11, borderTopRightRadius: 11 }} />
-                      ) : (
-                         <View style={[styles.cardImagePlaceholder, { backgroundColor: theme.border, justifyContent: 'center', alignItems: 'center', borderTopLeftRadius: 11, borderTopRightRadius: 11 }]}>
-                            <Ionicons name="image-outline" size={24} color={theme.textSecondary} />
-                         </View>
-                      )}
+                      <FallbackImageBackground 
+                        sourceUri={place.heroImage} 
+                        style={styles.cardImagePlaceholder} 
+                        imageStyle={{ borderTopLeftRadius: 11, borderTopRightRadius: 11 }}
+                        fallbackIcon="image-outline"
+                      />
                       <View style={{ padding: 10 }}>
                         <Typography variant="semiBold" style={[styles.cardTitle, { color: theme.text }]} numberOfLines={2}>{getLocalized(place.name)}</Typography>
                         <Typography variant="regular" style={[styles.cardSubtitle, { color: theme.textSecondary }]} numberOfLines={1}>{getLocalized(place.shortDescription)}</Typography>
@@ -375,12 +391,25 @@ const styles = StyleSheet.create({
     gap: 12,
   },
   circuitBtn: {
-    flexBasis: '47%',
-    padding: 16,
-    borderRadius: 12,
+    flex: 1,
+    minWidth: 150,
+    padding: 12,
+    borderRadius: 16,
     borderWidth: 1,
     alignItems: 'center',
     justifyContent: 'center',
+  },
+  circuitImageWrapper: {
+    width: 72,
+    height: 72,
+    borderRadius: 36,
+    marginBottom: 10,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  circuitImage: {
+    width: 52,
+    height: 52,
   },
   circuitBtnText: {
     fontSize: 14,

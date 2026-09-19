@@ -1,5 +1,6 @@
 import React from 'react';
-import { View, StyleSheet, ScrollView, TouchableOpacity, StatusBar, Image } from 'react-native';
+import { View, StyleSheet, ScrollView, TouchableOpacity, StatusBar } from 'react-native';
+import { FallbackImage } from '../../components/FallbackImage';
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import { Ionicons } from '@expo/vector-icons';
 import Markdown from 'react-native-markdown-display';
@@ -65,11 +66,12 @@ export default function KnowledgeDetailScreen() {
       <ScrollView showsVerticalScrollIndicator={false} contentContainerStyle={styles.scrollContent}>
         
         {/* Optional Hero Image */}
-        {record.imageUrl && (
-          <Image 
-            source={{ uri: record.imageUrl }} 
+        {(record.image || record.imageUrl) && (
+          <FallbackImage 
+            sourceUri={record.image || record.imageUrl} 
             style={[styles.heroImage, { borderColor: theme.border }]} 
-            resizeMode="cover"
+            resizeMode="cover" 
+            fallbackIcon="image-outline"
           />
         )}
 

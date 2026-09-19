@@ -25,11 +25,11 @@ function AnimatedFlashcard({ question, answer, theme, language }: { question: st
     setIsFlipped(!isFlipped);
   };
 
-  const frontInterpolate = flipAnim.interpolate({
+  const frontInterpolate = flipAnim.current.interpolate({
     inputRange: [0, 180],
     outputRange: ['0deg', '180deg'],
   });
-  const backInterpolate = flipAnim.interpolate({
+  const backInterpolate = flipAnim.current.interpolate({
     inputRange: [0, 180],
     outputRange: ['180deg', '360deg'],
   });

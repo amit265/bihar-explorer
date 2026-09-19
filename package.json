@@ -1,7 +1,7 @@
 {
   "name": "bihar-explorer",
   "main": "expo-router/entry",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "@expo-google-fonts/noto-sans-devanagari": "^0.4.1",
     "@expo-google-fonts/poppins": "^0.4.1",

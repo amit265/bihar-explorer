@@ -20,10 +20,6 @@ const LANGUAGE_KEY = '@bihar_explorer_language';
 export const LanguageProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
   const [language, setLanguageState] = useState<Language>('hi');
 
-  useEffect(() => {
-    loadLanguage();
-  }, []);
-
   const loadLanguage = async () => {
     try {
       const stored = await AsyncStorage.getItem(LANGUAGE_KEY);
@@ -34,6 +30,11 @@ export const LanguageProvider: React.FC<{ children: React.ReactNode }> = ({ chil
       console.warn('Failed to load language preference', e);
     }
   };
+
+  useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    loadLanguage();
+  }, []);
 
   const setLanguage = async (lang: Language) => {
     try {

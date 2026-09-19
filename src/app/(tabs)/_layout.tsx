@@ -119,7 +119,7 @@ export default function TabLayout() {
         headerShown: false,
       }}
     >
-      <Tabs.Screen name="index" options={{ title: 'Home' }} />
+      <Tabs.Screen name="index" options={{ title: 'Home', tabBarShowLabel: false }} />
       <Tabs.Screen name="reels" options={{ title: 'Reels', tabBarStyle: { display: 'none' } }} />
       <Tabs.Screen name="bihar" options={{ title: 'Bihar' }} />
       <Tabs.Screen name="settings" options={{ title: 'Settings' }} />

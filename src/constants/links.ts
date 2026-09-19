@@ -8,8 +8,8 @@ export const APP_CONFIG = {
   appNameShort: 'Bihar Explorer',
   appNameHindi: 'बिहार एक्सप्लोरर: यात्रा गाइड',
   packageName: 'com.mahavyomastudio.biharexplorer',
-  version: '1.0.0',
-  buildNumber: 100,
+  version: '1.0.1',
+  buildNumber: 101,
   developerName: 'Mahavyoma Studio',
   supportEmail: 'support@mahavyomastudio.com',
 } as const;
@@ -33,6 +33,9 @@ export const APP_LINKS = {
   // Remote Manifest for In-App Updates
   versionJsonUrl: 'https://mahavyomastudio.com/apps/bihar-explorer/version.json',
   assetLinksJsonUrl: 'https://mahavyomastudio.com/.well-known/assetlinks.json',
+
+  // Centralized Remote Assets
+  assetBaseUrl: 'https://mahavyomastudio.com/apps/bihar-explorer/images',
 } as const;
 
 export const CROSS_PROMO_APPS = [

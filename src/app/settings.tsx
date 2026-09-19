@@ -72,7 +72,7 @@ export default function SettingsScreen() {
               </Typography>
             </View>
             <Typography variant="regular" style={[styles.desc, { color: theme.textSecondary }]}>
-              The AI Journey Planner uses Groq's free API to give you personalised Bihar travel recommendations. Your key is stored only on your device — we never see it.
+              The AI Journey Planner uses Groq&apos;s free API to give you personalised Bihar travel recommendations. Your key is stored only on your device — we never see it.
             </Typography>
           </View>
 
