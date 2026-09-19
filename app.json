@@ -10,7 +10,10 @@
     "ios": {
       "bundleIdentifier": "com.mahavyomastudio.biharexplorer",
       "icon": "./assets/expo.icon",
-      "googleServicesFile": "./GoogleService-Info.plist"
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "package": "com.mahavyomastudio.biharexplorer",
