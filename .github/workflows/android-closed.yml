@@ -64,7 +64,7 @@ jobs:
             --profile production \
             --local \
             --non-interactive \
-            --output ./place-sathi-android.aab
+            --output ./bihar-explorer-android.aab
 
       # --------------------------------------------------
       # 5. Upload AAB to GitHub Artifacts
@@ -72,8 +72,8 @@ jobs:
       - name: Upload AAB artifact
         uses: actions/upload-artifact@v4
         with:
-          name: place-sathi-android-closed
-          path: ./place-sathi-android.aab
+          name: bihar-explorer-android-closed
+          path: ./bihar-explorer-android.aab
           if-no-files-found: error
 
       # --------------------------------------------------
@@ -83,7 +83,7 @@ jobs:
         uses: r0adkll/upload-google-play@v1
         with:
           serviceAccountJsonPlainText: ${{ secrets.GOOGLE_PLAY_SERVICE_ACCOUNT_JSON }}
-          packageName: com.mahavyomastudio.placesathi
-          releaseFiles: ./place-sathi-android.aab
+          packageName: com.mahavyomastudio.biharexplorer
+          releaseFiles: ./bihar-explorer-android.aab
           track: alpha
           status: completed

@@ -10,6 +10,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import Share from 'react-native-share';
 import { useFocusEffect } from 'expo-router';
+import { useVideoPlayer, VideoView } from 'expo-video';
 
 const { height: windowHeight, width: windowWidth } = Dimensions.get('window');
 
@@ -78,65 +79,19 @@ export default function ReelsScreen() {
   }).current;
 
   const renderItem = ({ item: place, index }: any) => {
-    const isSaved = savedIds.includes(place.id);
-    
     return (
-      <View style={[styles.reelContainer, { height: windowHeight }]}>
-        <ImageBackground
-          source={{ uri: place.heroImage }}
-          style={styles.image}
-          resizeMode="cover"
-        >
-          <View style={styles.overlay}>
-            
-            {/* Header / Actions */}
-            <View style={[styles.header, { paddingTop: Math.max(insets.top + 10, 50) }]}>
-              <TouchableOpacity onPress={() => router.push('/(tabs)')} style={styles.iconBtn}>
-                <Ionicons name="close" size={28} color="#FFF" />
-              </TouchableOpacity>
-            </View>
-
-            {/* Bottom Info */}
-            <View style={styles.bottomInfo}>
-              {place.placeType && (
-                <View style={styles.tag}>
-                  <Ionicons name="location" size={14} color="#FFF" style={{ marginRight: 4 }} />
-                  <Typography variant="semiBold" style={styles.tagText}>{place.placeType.replace('_', ' ').toUpperCase()}</Typography>
-                </View>
-              )}
-              
-              <Typography variant="semiBold" style={styles.title}>{getLocalized(place.name)}</Typography>
-              
-              {place.shortDescription && (
-                <Typography variant="regular" numberOfLines={2} style={styles.desc}>
-                  {getLocalized(place.shortDescription)}
-                </Typography>
-              )}
-
-              <TouchableOpacity 
-                style={styles.actionBtn}
-                onPress={() => router.push(`/place/${place.slug}` as any)}
-              >
-                <Typography variant="semiBold" style={styles.actionBtnText}>Explore Place</Typography>
-                <Ionicons name="arrow-forward" size={18} color="#000" style={{ marginLeft: 8 }} />
-              </TouchableOpacity>
-            </View>
-
-            {/* Right Action Bar */}
-            <View style={styles.rightBar}>
-              <TouchableOpacity style={styles.actionIcon} onPress={() => handleSave(place)}>
-                <Ionicons name={isSaved ? "bookmark" : "bookmark-outline"} size={32} color="#FFF" />
-                <Typography style={styles.actionIconText}>{isSaved ? t('saved', language) : t('save', language)}</Typography>
-              </TouchableOpacity>
-              <TouchableOpacity style={styles.actionIcon} onPress={() => handleShare(place)}>
-                <Ionicons name="share-social-outline" size={32} color="#FFF" />
-                <Typography style={styles.actionIconText}>{t('share', language)}</Typography>
-              </TouchableOpacity>
-            </View>
-
-          </View>
-        </ImageBackground>
-      </View>
+      <ReelItem
+        place={place}
+        isActive={index === currentIndex}
+        savedIds={savedIds}
+        handleSave={handleSave}
+        handleShare={handleShare}
+        language={language}
+        router={router}
+        windowHeight={windowHeight}
+        insets={insets}
+        t={t}
+      />
     );
   };
 
@@ -276,3 +231,91 @@ const styles = StyleSheet.create({
     textShadowRadius: 4,
   }
 });
+
+function ReelItem({ place, isActive, savedIds, handleSave, handleShare, language, router, windowHeight, insets, t }: any) {
+  const isSaved = savedIds.includes(place.id);
+  const videoUrl = `https://mahavyomastudio.com/apps/bihar-explorer/videos/reels/${place.id}_reel.mp4`;
+  
+  const player = useVideoPlayer(videoUrl, (player) => {
+    player.loop = true;
+    player.muted = false;
+  });
+
+  React.useEffect(() => {
+    if (isActive) {
+      player.play();
+    } else {
+      player.pause();
+    }
+  }, [isActive, player]);
+
+  const getLocalized = (obj: any) => obj ? (obj[language] || obj.en) : null;
+  const isError = player.status === 'error';
+
+  return (
+    <View style={[styles.reelContainer, { height: windowHeight }]}>
+      <ImageBackground
+        source={{ uri: place.heroImage }}
+        style={styles.image}
+        resizeMode="cover"
+      >
+        {!isError && (
+          <VideoView
+            player={player}
+            style={StyleSheet.absoluteFill}
+            nativeControls={false}
+            contentFit="cover"
+          />
+        )}
+        <View style={styles.overlay}>
+          
+          {/* Header / Actions */}
+          <View style={[styles.header, { paddingTop: Math.max(insets.top + 10, 50) }]}>
+            <TouchableOpacity onPress={() => router.push('/(tabs)')} style={styles.iconBtn}>
+              <Ionicons name="close" size={28} color="#FFF" />
+            </TouchableOpacity>
+          </View>
+
+          {/* Bottom Info */}
+          <View style={styles.bottomInfo}>
+            {place.placeType && (
+              <View style={styles.tag}>
+                <Ionicons name="location" size={14} color="#FFF" style={{ marginRight: 4 }} />
+                <Typography variant="semiBold" style={styles.tagText}>{place.placeType.replace('_', ' ').toUpperCase()}</Typography>
+              </View>
+            )}
+            
+            <Typography variant="semiBold" style={styles.title}>{getLocalized(place.name)}</Typography>
+            
+            {place.shortDescription && (
+              <Typography variant="regular" numberOfLines={2} style={styles.desc}>
+                {getLocalized(place.shortDescription)}
+              </Typography>
+            )}
+
+            <TouchableOpacity 
+              style={styles.actionBtn}
+              onPress={() => router.push(`/place/${place.slug}` as any)}
+            >
+              <Typography variant="semiBold" style={styles.actionBtnText}>Explore Place</Typography>
+              <Ionicons name="arrow-forward" size={18} color="#000" style={{ marginLeft: 8 }} />
+            </TouchableOpacity>
+          </View>
+
+          {/* Right Action Bar */}
+          <View style={styles.rightBar}>
+            <TouchableOpacity style={styles.actionIcon} onPress={() => handleSave(place)}>
+              <Ionicons name={isSaved ? "bookmark" : "bookmark-outline"} size={32} color="#FFF" />
+              <Typography style={styles.actionIconText}>{isSaved ? t('saved', language) : t('save', language)}</Typography>
+            </TouchableOpacity>
+            <TouchableOpacity style={styles.actionIcon} onPress={() => handleShare(place)}>
+              <Ionicons name="share-social-outline" size={32} color="#FFF" />
+              <Typography style={styles.actionIconText}>{t('share', language)}</Typography>
+            </TouchableOpacity>
+          </View>
+
+        </View>
+      </ImageBackground>
+    </View>
+  );
+}

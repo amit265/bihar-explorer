@@ -108,7 +108,9 @@
       ],
       "./withIosFmtWorkaround.js",
       "expo-image",
-      "expo-web-browser"
+      "expo-web-browser",
+      "expo-audio",
+      "expo-video"
     ],
     "experiments": {
       "typedRoutes": true,

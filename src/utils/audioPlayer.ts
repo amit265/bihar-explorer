@@ -2,21 +2,13 @@ import { Platform } from 'react-native';
 
 export type SoundEffectType = 'bell' | 'shankh' | 'chime' | 'damru' | 'water';
 
-// Local sound asset requirements for offline native playback
-const LOCAL_SOUND_ASSETS: Record<SoundEffectType, any> = {
-  bell: require('../../assets/sounds/bell.mp3'),
-  shankh: require('../../assets/sounds/shankh.mp3'),
-  chime: require('../../assets/sounds/chime.mp3'),
-  damru: require('../../assets/sounds/damru.mp3'),
-  water: require('../../assets/sounds/water.mp3'),
-};
-
+// Remote sound asset URLs for native playback
 const REMOTE_SOUND_URLS: Record<SoundEffectType, string> = {
-  bell: 'https://mahavyomastudio.com/apps/shiv-charcha/audio/bell.mp3',
-  shankh: 'https://mahavyomastudio.com/apps/shiv-charcha/audio/shankh.mp3',
-  chime: 'https://mahavyomastudio.com/apps/shiv-charcha/audio/chime.mp3',
-  damru: 'https://mahavyomastudio.com/apps/shiv-charcha/audio/damru.mp3',
-  water: 'https://mahavyomastudio.com/apps/shiv-charcha/audio/water.mp3',
+  bell: 'https://mahavyomastudio.com/apps/bihar-explorer/audio/bell.mp3',
+  shankh: 'https://mahavyomastudio.com/apps/bihar-explorer/audio/shankh.mp3',
+  chime: 'https://mahavyomastudio.com/apps/bihar-explorer/audio/chime.mp3',
+  damru: 'https://mahavyomastudio.com/apps/bihar-explorer/audio/damru.mp3',
+  water: 'https://mahavyomastudio.com/apps/bihar-explorer/audio/water.mp3',
 };
 
 let createAudioPlayerModule: any = null;
@@ -44,10 +36,15 @@ export async function playSoundEffect(type: SoundEffectType) {
   try {
     if (Platform.OS !== 'web') {
       const createPlayer = getCreateAudioPlayer();
-      const soundSrc = LOCAL_SOUND_ASSETS[type];
+      const soundSrc = REMOTE_SOUND_URLS[type];
       if (createPlayer && soundSrc) {
-        const sfxPlayer = createPlayer(soundSrc);
-        sfxPlayer.play();
+        // Fallback catch mechanism for remote loading errors
+        try {
+          const sfxPlayer = createPlayer({ uri: soundSrc });
+          sfxPlayer.play();
+        } catch(e) {
+          console.warn("Failed to stream sound:", soundSrc);
+        }
       }
     } else {
       if (typeof window !== 'undefined' && ('AudioContext' in window || (window as any).webkitAudioContext)) {
