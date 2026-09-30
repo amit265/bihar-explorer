@@ -21,6 +21,10 @@
       "autoIncrement": true,
       "android": {
         "buildType": "app-bundle"
+      },
+      "env": {
+        "GRADLE_OPTS": "-Xmx4g -XX:MaxMetaspaceSize=1g",
+        "NODE_OPTIONS": "--max-old-space-size=4096"
       }
     }
   },
